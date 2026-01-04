@@ -1,0 +1,96 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-01-04",
+  "medications": {
+    "acetilcisteina": {
+      "id": "acetilcisteina",
+      "name": "Acetilcisteína",
+      "aliases": ["NAC", "N-acetilcisteína", "Fluimucil"],
+      "highRisk": false,
+      "classification": [
+        "Anti-tússico e expectorante",
+        "Mucolítico"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Glicose a 5%"
+      ],
+      "presentationAndStorage": [
+        "300 mg/3 ml solução injetável",
+        "Armazenar em temperatura ambiente (15-30°C)"
+      ],
+      "preparation": [
+        "Solução injetável pronta"
+      ],
+      "administration": [
+        "Via Intramuscular",
+        "Via Endovenosa: Administrar lentamente 3-5 minutos",
+        "Via Endovenosa Perfusão: Diluir em 50-100 ml e administrar em 15-30 minutos"
+      ],
+      "stability": [
+        "24 horas no frigoriífico e apenas para uso tópico"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade à acetilcisteína ou a qualquer dos excipientes",
+        "Contra-indicado em casos de úlcera gastroduodenal",
+        "Está contra-indicado o uso concomitante com nitroglicerina pelo risco de hipotensão e cefaleia induzida pela nitroglicerina"
+      ],
+      "nursingCare": [
+        "Em doentes debilitados ou que tenham diminuição do reflexo da tosse há risco de obstrução da via aérea como consequência do aumento da quantidade de secreções",
+        "Deve-se manusear o preparado em material de plástico ou vidro, não se devendo utilizar material de borracha ou de metal",
+        "É normal a presença de um leve odor súlfurico, que é próprio da acetilcisteína",
+        "Pode ser utilizado para aplicação tópica sob a forma de aerossol, para aplicação nasal, auricular e endotraqueal"
+      ]
+    },
+    "acetilsalicilato-de-lisina": {
+      "id": "acetilsalicilato-de-lisina",
+      "name": "Acetilsalicilato de Lisina",
+      "aliases": ["Aspegic", "AAS", "Ácido acetilsalicílico"],
+      "highRisk": true,
+      "classification": [
+        "Analgésico",
+        "Antipirético"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Glicose a 5%",
+        "Sorbitol"
+      ],
+      "presentationAndStorage": [
+        "900 mg / 1800 mg / 5 ml de pó para solução injetável",
+        "Não conservar acima de 25ºC",
+        "Proteger da luz e humidade"
+      ],
+      "preparation": [
+        "Intramuscular e Endovenosa: 5 ml de água para preparação de injetável que acompanha o pó"
+      ],
+      "administration": [
+        "Via Intramuscular: Administração profunda no glúteo",
+        "Via Endovenosa: Administrar lentamente",
+        "Via Endovenosa Perfusão: Diluir"
+      ],
+      "stability": [
+        "30 minutos após reconstituição para o caso do Aspegic"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade ao acetilsalicilato de lisina, ácido acetilsalicílico ou a qualquer dos excipientes",
+        "Histórico de hemorragia gastrointestinal ou perfuração, relacionada com terapêutica anterior com anti-inflamatórios não esteroides (AINEs)",
+        "Úlcera péptica/hemorragia activa ou hitórico de úlcera péptica recorrente/hemorragia (dois ou mais episódios distintos de úlcera comprovada clinicamente ou hemorragia)",
+        "Histórico de asma induzida pela administração de salicilatos ou substâncias com acção semelhante, sobretudo anti-inflamatórios não esteroides",
+        "A utilização de doses superiores a 100 mg/dia está contra-indicada durante o terceiro trimestre de gravidez",
+        "Insuficiência hepática grave",
+        "Insuficiência renal grave",
+        "Insuficiência cardíaca grave não controlada",
+        "Associação com o metotrexato em doses iguais ou superiores a 15 mg/semana",
+        "Associação com os anticoagulantes orais em que os salicilatos são utilizados em doses elevadas"
+      ],
+      "nursingCare": [
+        "Os idosos apresentam uma maior frequência de reações adversas, nomeadamente hemorragias gastrointestinais e perfurações que podem ser fatais",
+        "Funciona como antiagregante plaquetário em doses menores (75-100 mg/dia)",
+        "Não utilizar uma solução que não esteja límpida ou que contenha partículas",
+        "O Aspegic não pode ser diluído, devendo ser administrado directamente no sistema de perfusão",
+        "O Acetilsalicilato de Lisina é incompatível com todos os metais pesados, soluções ácidas e alcalínas"
+      ]
+    }
+  }
+}
