@@ -1,11 +1,15 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-01-04",
+  "lastUpdated": "2026-01-17",
   "medications": {
     "acetilcisteina": {
       "id": "acetilcisteina",
       "name": "Acetilcisteína",
-      "aliases": ["NAC", "N-acetilcisteína", "Fluimucil"],
+      "aliases": [
+        "NAC",
+        "N-acetilcisteína",
+        "Fluimucil"
+      ],
       "highRisk": false,
       "classification": [
         "Anti-tússico e expectorante",
@@ -45,7 +49,11 @@
     "acetilsalicilato-de-lisina": {
       "id": "acetilsalicilato-de-lisina",
       "name": "Acetilsalicilato de Lisina",
-      "aliases": ["Aspegic", "AAS", "Ácido acetilsalicílico"],
+      "aliases": [
+        "Aspegic",
+        "AAS",
+        "Ácido acetilsalicílico"
+      ],
       "highRisk": true,
       "classification": [
         "Analgésico",
@@ -90,6 +98,922 @@
         "Não utilizar uma solução que não esteja límpida ou que contenha partículas",
         "O Aspegic não pode ser diluído, devendo ser administrado directamente no sistema de perfusão",
         "O Acetilsalicilato de Lisina é incompatível com todos os metais pesados, soluções ácidas e alcalínas"
+      ]
+    },
+    "aciclovir": {
+      "id": "aciclovir",
+      "name": "Aciclovir (sódico)",
+      "aliases": [
+        "Zovirax",
+        "Fácilval"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antiviral"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Cloreto de sódio 0,18%",
+        "Glicose 4%",
+        "Lactato de Ringer"
+      ],
+      "presentationAndStorage": [
+        "250 mg para solução para perfusão",
+        "Fauviral: solução pronta",
+        "Armazenar à temperatura < 25 ºC e ao abrigo da luz"
+      ],
+      "preparation": [
+        "Via Endovenosa Perfusão: Diluir em 10 ml de água Preparação para Injetáveis. ou cloreto de sódio 0,9%"
+      ],
+      "administration": [
+        "Via Endovenosa Perfusão: Diluir em 100 ml e administrar nunca menos de 60 minutos"
+      ],
+      "stability": [
+        "Após reconstituição: Uso imediato",
+        "Após diluição: 12 horas à temperatura ambiente"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade ao aciclovir, valaciclovir ou a qualquer um dos excipientes"
+      ],
+      "nursingCare": [
+        "Observar a integridade da pele antes e durante tratamentos de longa duração com o fármaco",
+        "Monitorizar a função renal e hepática através de controlo analítico nos tratamentos de longa duração",
+        "Pode provocar neurotoxicidade, neutropenia ou hipotensão",
+        "Extravasamento pode causar necrose dos tecidos, pelo que se deve vigiar cuidadosamente o local de punção venosa",
+        "A administração IV rápida pode causar IRA",
+        "Após diluição não colocar no frigorífico porque pode criar cristais",
+        "É dialisável por hemodiálise, mas não por diálise peritoneal",
+        "A sua concentração em sódio deve ser tida em conta nos doentes com ingestão controlada de sódio",
+        "Pode ser administrado por via IV logo após reconstituição mas deverá utilizar-se uma bomba infusora e a administração deve ser feita em 60 minutos"
+      ]
+    },
+    "acido-aminocaproico": {
+      "id": "acido-aminocaproico",
+      "name": "Ácido Aminocapróico",
+      "aliases": [
+        "Amicar",
+        "Ipsilon"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Anti-hemorrágico",
+        "Antifibrinolítico"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Glicose a 5%",
+        "Lactato Ringer"
+      ],
+      "presentationAndStorage": [
+        "250 mg/ml solução injectável",
+        "Armazenar à temperatura ambiente"
+      ],
+      "preparation": [
+        "Solução injectável pronta"
+      ],
+      "administration": [
+        "Via Endovenosa Bólus: Pode-se administrar em bólus directo em caso de urgência, mas muito lentamente",
+        "Via Endovenosa Perfusão: Diluir na proporção de 1 g em 50 ml",
+        "Via Endovenosa Perfusão Contínua: Diluir num volume compreendido entre 100 e 500 ml"
+      ],
+      "stability": [
+        "Após diluição: 24 horas"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Coagulação intravascular activa",
+        "Usar com precaução em caso de doença cardíaca, renal e hepática",
+        "Hipersensibilidade à substância activa"
+      ],
+      "nursingCare": [
+        "Há evidência de que é eliminado por hemodiálise e que possa ser eliminado também por diálise peritoneal",
+        "Não deve ser utilizado com soluções de levulose, soluções contendo penicilina ou com sangue",
+        "É incompatível com a frutose por perfusão",
+        "A administração IV rápida pode conduzir a hipotensão, bradicardia ou arritmias"
+      ]
+    },
+    "adenosina": {
+      "id": "adenosina",
+      "name": "Adenosina",
+      "aliases": [
+        "Adenocor",
+        "Adenocard"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Antiarrítmico"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Água Preparação para Injetáveis."
+      ],
+      "presentationAndStorage": [
+        "3 mg/ml solução injectável",
+        "Armazenar à temperatura ambiente"
+      ],
+      "preparation": [
+        "Solução injectável pronta"
+      ],
+      "administration": [
+        "Via Endovenosa Bólus: Administrar 6 a 12 mg em bólus rapidamente"
+      ],
+      "stability": [
+        "Uso imediato"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Bloqueio AV de 2º e 3º graus",
+        "Doença do nó sinusal ou bradicardia sinusal",
+        "Hipersensibilidade à adenosina ou a componentes da sua formulação",
+        "Doença pulmonar broncoconstritiva conhecida ou suspeita"
+      ],
+      "nursingCare": [
+        "A solução é para utilização única",
+        "Deve ser administrada somente por via IV",
+        "Monitorização rigorosa dos sinais vitais e traçado electrocardiográfico",
+        "Na presença de cristais na solução, estes devem ser dissolvidos por meio de aquecimento até à temperatura ambiente",
+        "A solução deve estar límpida e clara no momento do uso",
+        "Não dialisável por hemodiálise ou diálise peritoneal",
+        "Pode ser administrado através de uma linha IV o mais próximo possível do cateter, seguida de uma rápida perfusão salina"
+      ]
+    },
+    "adrenalina": {
+      "id": "adrenalina",
+      "name": "Adrenalina (cloridrato)",
+      "aliases": [
+        "Epinefrina",
+        "Epipen",
+        "Anapen"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Simpaticomimético"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%"
+      ],
+      "presentationAndStorage": [
+        "1 mg/ml solução injectável",
+        "Armazenar à temperatura ambiente e abrigo da luz"
+      ],
+      "preparation": [
+        "Solução injectável pronta"
+      ],
+      "administration": [
+        "Via Intramuscular",
+        "Via Subcutânea",
+        "Via Endovenosa: Diluir 0,1 ml em 10 ml e administrar lentamente",
+        "Via Endovenosa Perfusão Contínua: Diluir 2 a 4 mg em 1000 ml de cloreto de sódio 0,9%",
+        "Via Intracardíaca: Só em contexto hospitalar e por um médico",
+        "Via Endotraqueal"
+      ],
+      "stability": [
+        "24 horas à temperatura ambiente"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade à substância activa ou a qualquer dos excipientes",
+        "Doença cardiovascular coexistente como doença cardíaca coronária, arritmias ou taquicardia",
+        "Insuficiência vascular tal como arteriosclerose, HTA ou aneurisma",
+        "Insuficiência coronária",
+        "Deve ser administrada com precaução em doentes com diabetes mellitus e glaucoma de ângulo fechado"
+      ],
+      "nursingCare": [
+        "Fixar bem o cateter de punção periférico e vigiar o local de inserção, o extravasamento pode provocar vasoconstrição local, aparecimento de necrose tecidular e escaras no local da injecção",
+        "Monitorização dos parâmetros vitais: ECG, FC, TA, quando administrada via IV",
+        "Provoca midríase",
+        "Pode provocar arrefecimento das extremidades por hipoperfusão periférica",
+        "Pode ser utilizada via oral ou nebulização em caso de doentes DPOC, bronquite ou enfisema",
+        "A via IV pode ser usada também para esclerose de varizes ou hemorragia gástrica",
+        "No caso de injecção IM massajar o local durante 10 segundos após a administração para acelerar a absorção",
+        "Não dialisável por hemodiálise ou diálise peritoneal",
+        "Rápida absorção por via endotraqueal",
+        "Incompatível com sais de ferro, alcalis e agentes oxidantes",
+        "Se a solução se apresentar rosa, amarelada ou castanha deve ser rejeitada"
+      ]
+    },
+    "albumina-humana": {
+      "id": "albumina-humana",
+      "name": "Albumina Humana 20%",
+      "aliases": [
+        "Albuminex",
+        "Alburex"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Correctivo do volume e das alterações electrolíticas"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Glicose a 5%"
+      ],
+      "presentationAndStorage": [
+        "200 g/l solução para perfusão",
+        "Não conservar acima 25ºC e proteger da luz",
+        "Não congelar"
+      ],
+      "preparation": [
+        "Solução injectável pronta"
+      ],
+      "administration": [
+        "Via Endovenosa: Administrar em 30 minutos",
+        "Via Endovenosa Perfusão: A velocidade de administração deve ser ajustada de acordo com as circunstâncias e indicações individuais"
+      ],
+      "stability": [
+        "Uso imediato"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade à albumina humana ou a qualquer outro componente de albumina humana",
+        "Hiperhidratação",
+        "Insuficiência cardíaca descontrolada",
+        "Hipertensão arterial",
+        "Varizes esofágicas",
+        "Edema pulmonar",
+        "Tendência para hemorragia espontânea",
+        "Anemia grave",
+        "Oligoanúria"
+      ],
+      "nursingCare": [
+        "Sempre que administrada deve ser feito o registo do nome e o número de lote do medicamento, de forma a manter uma ligação entre doente e lote administrado",
+        "Não usar frascos em que a solução se encontre turva ou com partículas",
+        "Pode ser utilizada na protecção da pele peri-estoma",
+        "Não deve ser diluída em água para preparação de injectáveis, porque pode causar hemólise nos doentes",
+        "Não misturar com outros medicamentos, sangue total e concentrado de eritrócitos",
+        "A velocidade de administração da perfusão deve ser ajustada de acordo com as circunstâncias e indicações individuais",
+        "Deve-se monitorizar sinais de sobrecarga circulatória e de hiperhidratação",
+        "A administração por perfusão contínua está desaconselhada por ser um meio de cultura"
+      ]
+    },
+    "alfentanil": {
+      "id": "alfentanil",
+      "name": "Alfentanil (cloridrato)",
+      "aliases": [
+        "Rapifen"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Analgésico, narcótico",
+        "Anestésico geral"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Glicose a 5%",
+        "Lactato Ringer"
+      ],
+      "presentationAndStorage": [
+        "500 µg/ml solução injectável",
+        "Armazenar à temperatura ambiente"
+      ],
+      "preparation": [
+        "Solução injectável pronta"
+      ],
+      "administration": [
+        "Via Endovenosa: Administrar lentamente em doentes não ventilados cerca de 30 segundos, após ventilação repetir bólus ou colocar perfusão",
+        "Via Endovenosa Perfusão: Diluir e ajustar velocidade de perfusão à necessidade"
+      ],
+      "stability": [
+        "Após diluição: 24 horas"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade à substância activa ou a qualquer outro componente deste medicamento",
+        "Hipersensibilidade a um analgésico semelhante"
+      ],
+      "nursingCare": [
+        "Vigilância permanente dos sinais vitais durante a administração, tendo em atenção os primeiros sinais de hipotensão, obstrução das vias aéreas e dessaturação de oxigénio",
+        "Em doentes beta-bloqueados pode potencializar a bradicardia",
+        "Durante a sedação podem ocorrer movimentos involuntários, que no caso de ocorrerem durante o procedimento cirúrgico podem constituir risco potencial relativamente ao local intervencionado",
+        "Início de acção imediato até 5 minutos após a administração, tem um efeito curto de 15 a 20 minutos e é antagonizado pela naloxona",
+        "Não dialisável por hemodiálise ou diálise peritoneal",
+        "Muito usado em cirurgias rápidas, em pediatria e em anestesias gerais sem entubação (máscara laríngea)"
+      ]
+    },
+    "alprostadilo": {
+      "id": "alprostadilo",
+      "name": "Alprostadilo (clatrato alfa-ciclodextrina)",
+      "aliases": [
+        "Prostin VR",
+        "Caverject"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Vasodilatador"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%"
+      ],
+      "presentationAndStorage": [
+        "0,02 mg pó para solução para perfusão",
+        "Conservar a temperatura inferior a 25ºC",
+        "Conservar na embalagem de origem para proteger da luz"
+      ],
+      "preparation": [
+        "IV/IA: cloreto de sódio 0,9%"
+      ],
+      "administration": [
+        "Via Intra-arterial: Diluir 0,02 mg em 5 ml e administrar em 2 horas",
+        "Via Endovenosa Perfusão: Diluir 0,04 ou 0,06 mg em 50–250 ml e administrar em 2 ou 3 horas"
+      ],
+      "stability": [
+        "Após reconstituição: 24 horas à temperatura ambiente",
+        "Após diluição: 24 horas à temperatura ambiente"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade ao alprostadil ou a qualquer outro componente",
+        "Doença coronária mal controlada, insuficiência cardíaca, arritmias, estenose e/ou insuficiência da válvula aórtica e/ou mitral",
+        "Enfarte agudo do miocárdio nos últimos 6 meses",
+        "Doença pulmonar obstrutiva crónica ou doença veno-oclusiva pulmonar",
+        "Acidente cerebrovascular nos últimos 6 meses"
+      ],
+      "nursingCare": [
+        "O período de tratamento não deve exceder as 4 semanas",
+        "Após a administração IV ou IA, o doente pode referir sensação de calor, sensação de inchaço, sensações anormais como picadas ou formigueiro",
+        "Durante a administração pode ocorrer dor, eritema ou edema no membro em que a perfusão é realizada, sinais que desaparecem quando a dose é reduzida ou interrompida",
+        "Não se deve utilizar o medicamento se se verificar que a solução não está límpida",
+        "Deve ser administrado com recurso a bomba infusora para controlo rigoroso da velocidade de perfusão",
+        "A administração concomitante com outros medicamentos inibidores da agregação plaquetária pode aumentar o risco de hemorragia",
+        "O pó dissolve-se imediatamente após a adição do cloreto de sódio, parecendo inicialmente uma solução opaca devido à formação de pequenas bolhas, resultantes da natureza porosa da substância activa. Estas bolhas desaparecem num curto espaço de tempo, resultando numa solução límpida"
+      ]
+    },
+    "ambroxol": {
+      "id": "ambroxol",
+      "name": "Ambroxol",
+      "aliases": [
+        "Mucosolvan",
+        "Ambrolitic"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antitússico e expectorante"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Glicose a 5%",
+        "Solução de Ringer"
+      ],
+      "presentationAndStorage": [
+        "15 mg/2 ml solução injectável",
+        "Conservar a temperatura inferior a 25ºC",
+        "Conservar na embalagem de origem"
+      ],
+      "preparation": [
+        "Solução injectável pronta"
+      ],
+      "administration": [
+        "Via Intramuscular: Administrar profundamente no músculo glúteo",
+        "Via Subcutânea",
+        "Via Endovenosa: Administrar lentamente ≥ 5 minutos",
+        "Via Endovenosa Perfusão"
+      ],
+      "stability": [
+        "24 horas"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade à substância activa ou a qualquer um dos excipientes"
+      ],
+      "nursingCare": [
+        "Este medicamento contém 1,74 mmol (ou 40 mg) de sódio, pelo que esta informação deve ser tida em consideração em doentes com ingestão controlada de sódio",
+        "Não misturar com soluções com pH > 6,3 pelo risco de precipitação"
+      ]
+    },
+    "amicacina": {
+      "id": "amicacina",
+      "name": "Amicacina (sulfato)",
+      "aliases": [
+        "Amikin",
+        "Biclin"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Antibacteriano",
+        "Aminoglicosídeo"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Glicose a 5%",
+        "Lactato de Ringer"
+      ],
+      "presentationAndStorage": [
+        "125 mg; 250 mg/ml solução injectável",
+        "Conservar a temperatura inferior a 25ºC e proteger da luz"
+      ],
+      "preparation": [
+        "Solução injectável pronta"
+      ],
+      "administration": [
+        "Via Intramuscular: Administrar profundamente no músculo glúteo",
+        "Via Endovenosa Perfusão: Diluir em 100 ou 200 ml e administrar durante 30–60 minutos"
+      ],
+      "stability": [
+        "Após diluição: 24 horas à temperatura ambiente",
+        "Após diluição: 60 dias no frigorífico"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade e reacções tóxicas graves aos aminoglicosídeos"
+      ],
+      "nursingCare": [
+        "É potencialmente nefrotóxica, ototóxica e neurotóxica",
+        "Se o doseamento plasmático não for possível, e se o doente apresentar função renal estável, os valores da creatinina sérica e da depuração da creatinina poderão ser usados como indicadores para a definição da melhor dosagem",
+        "Por atingir elevadas concentrações no aparelho excretor urinário os doentes devem ser bem hidratados a fim de minimizar a irritação química dos túbulos renais",
+        "Pode potenciar a acção curarizante dos miorrelaxantes e dos anestésicos",
+        "Pode ser removida através de hemodiálise ou diálise peritoneal",
+        "As soluções de amicacina podem apresentar uma coloração amarelo muito pálido, mas tal não significa perda de potência",
+        "Não é absorvida por via oral"
+      ]
+    },
+    "aminofilina": {
+      "id": "aminofilina",
+      "name": "Aminofilina",
+      "aliases": [
+        "Eufilina",
+        "Teofilina etilenodiamina"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Broncodilatador",
+        "Antiasmático",
+        "Xantina"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Glicose a 5%"
+      ],
+      "presentationAndStorage": [
+        "240 mg/10 ml solução injectável",
+        "Não colocar no frigorífico (risco de cristalização)",
+        "Não conservar acima 25ºC",
+        "Conservar ao abrigo da luz"
+      ],
+      "preparation": [
+        "Solução injectável pronta"
+      ],
+      "administration": [
+        "Via Endovenosa: Administrar lentamente de 5 a 10 minutos",
+        "Via Endovenosa Perfusão: Diluir doses ≤ 500 mg em 100–200 ml e administrar durante 30–60 minutos"
+      ],
+      "stability": [
+        "Uso imediato"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade conhecida à etilenodiamina e a seus derivados",
+        "Enfarte agudo do miocárdio recente",
+        "Taquiarritmia aguda"
+      ],
+      "nursingCare": [
+        "Vigiar, durante a perfusão, os sinais vitais, nomeadamente frequência cardíaca, débito urinário e estado de consciência",
+        "Habitualmente é realizada uma dose mais baixa chamada de impregnação antes da perfusão",
+        "Na administração directa o doente deve permanecer deitado",
+        "Os sistemas ou seringas usados devem ser opacos",
+        "Rejeitar a solução caso se apresente turva ou com sedimento ou se o recipiente não estiver intacto",
+        "A via IM não está recomendada por provocar dor local intensa",
+        "Pode ser eliminada rapidamente e completamente por hemoperfusão ou hemodiálise. No entanto, estes procedimentos são raramente necessários porque a teofilina é suficientemente e rapidamente metabolizada",
+        "As soluções de aminofilina são alcalinas. Se o pH descer abaixo de 8, podem-se depositar cristais de teofilina"
+      ]
+    },
+    "amiodarona": {
+      "id": "amiodarona",
+      "name": "Amiodarona (cloridrato)",
+      "aliases": [
+        "Cordarone",
+        "Atlansil"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Antiarritmico"
+      ],
+      "compatibility": [
+        "Glicose a 5%"
+      ],
+      "presentationAndStorage": [
+        "50 mg/ml solução injectável",
+        "Armazenar à temperatura ambiente e ao abrigo da luz"
+      ],
+      "preparation": [
+        "Solução injectável pronta"
+      ],
+      "administration": [
+        "Via Endovenosa: Diluir 150–300 mg em 20 ml de glicose a 5% e administrar lentamente ≥ 3 minutos",
+        "Via Endovenosa Perfusão Contínua: Dose de carga: administrar a dose IV já diluída em 100–250 ml de glicose a 5% durante 20–120 minutos; Dose de manutenção: administrar 10–20 mg/kg/dia em 250–500 ml de glicose a 5% a cada 24 horas"
+      ],
+      "stability": [
+        "24 horas à temperatura ambiente após diluição"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade à substância activa, ao iodo ou a qualquer dos excipientes",
+        "Disfunção sinusal grave",
+        "Bloqueio aurículo-ventricular de segundo e terceiro grau",
+        "Bradicardia",
+        "Gravidez e lactação"
+      ],
+      "nursingCare": [
+        "Monitorização de parâmetros vitais e electrocardiografia; risco de hipotensão e bradicardia",
+        "Vigiar sinais de toxicidade pulmonar (fervores, tosse, dispneia, dor)",
+        "Não utilizar material de PVC, causa redução da actividade entre 20–40%",
+        "Monitorizar função tiroideia, hepática, pulmonar e neurológica antes e no decurso do tratamento",
+        "Deve-se utilizar bomba infusora para controlo rigoroso da dose a administrar",
+        "A administração IV está contra-indicada no caso de hipotensão, insuficiência respiratória grave, miocardiopatia ou insuficiência cardíaca",
+        "Não injectar outras preparações na mesma linha",
+        "Grande risco de ocorrência de flebites",
+        "Nem a amiodarona, nem os seus metabolitos são removidos por diálise",
+        "A administração IV em bólus directo só está indicada em situações de emergência"
+      ]
+    },
+    "amoxicilina-acido-clavulanico": {
+      "id": "amoxicilina-acido-clavulanico",
+      "name": "Amoxicilina + ácido clavulânico",
+      "aliases": [
+        "Augmentin",
+        "Clavamox"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antibacteriano",
+        "Associações de penicilinas com inibidores das beta-lactamases"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Lactato Ringer"
+      ],
+      "presentationAndStorage": [
+        "1200 mg/2200 mg pó para solução injectável",
+        "Conservar a temperatura inferior a 25ºC, protegida da luz e da humidade"
+      ],
+      "preparation": [
+        "Via Endovenosa: 10 ml para 550 mg; 20 ml para 1,2 g de água Preparação para Injetáveis",
+        "Via Endovenosa Perfusão: 20 ml água Preparação para Injetáveis."
+      ],
+      "administration": [
+        "Via Endovenosa: Administrar em 3–4 minutos (1200 mg)",
+        "Via Endovenosa Perfusão: Diluir 550 mg em 50 ml, 1,2 g e 2,2 g em 100 ml e administrar durante 30–60 minutos"
+      ],
+      "stability": [
+        "20 minutos à temperatura ambiente, devido à rápida degradação do ácido clavulânico"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade à amoxicilina ou ao ácido clavulânico",
+        "Hipersensibilidade prévia conhecida a outros antibióticos beta-lactâmicos",
+        "O seu uso está contra-indicado em doentes com história prévia de icterícia/disfunção hepática relacionada com a sua utilização",
+        "Doentes com insuficiência hepática devem ser tratados com precaução, devendo a função hepática ser monitorizada com regularidade"
+      ],
+      "nursingCare": [
+        "Depois de reconstituída a solução apresenta uma coloração amarelo pálida e durante a reconstituição poderá aparecer temporariamente uma coloração rosada",
+        "Não deve ser administrado no mesmo dispositivo que um aminoglicosídeo uma vez que influenciará a perda de actividade deste",
+        "Não misturar com perfusões que contenham glicose, dextrano ou bicarbonato",
+        "Pode agravar os sintomas de miastenia gravis",
+        "Por conter sódio, a sua administração deve ser tida em conta em doentes com ingestão controlada de sódio; o mesmo acontecendo com o potássio",
+        "Esta associação deve ser usada com precaução em doentes sujeitos a tratamento com anticoagulantes por se verificar aumento do tempo de hemorragia",
+        "Não administrar por via IM",
+        "Dialisável por hemodiálise, mas não por diálise peritoneal"
+      ]
+    },
+    "ampicilina": {
+      "id": "ampicilina",
+      "name": "Ampicilina",
+      "aliases": [
+        "Penbritin"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antibacteriano",
+        "Penicilina",
+        "Aminopenicilina"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Lactato de Ringer"
+      ],
+      "presentationAndStorage": [
+        "500 mg/1000 mg pó para solução injectável",
+        "Conservar a temperatura inferior a 25ºC e ao abrigo da luz"
+      ],
+      "preparation": [
+        "Via Intramuscular: 2 ml água Preparação para Injetáveis (500 mg) e em 3 ml (1000 mg) ou lidocaína a 0,5%",
+        "Via Endovenosa: 20 ml de água Preparação para Injetáveis ou cloreto de sódio 0,9%",
+        "Via Endovenosa Perfusão: 5 ml de água Preparação para Injetáveis"
+      ],
+      "administration": [
+        "Via Intramuscular: Administrar profundamente no músculo glúteo",
+        "Via Endovenosa: Administrar durante 3–5 minutos",
+        "Via Endovenosa Perfusão: Diluir em 100 ml e administrar durante 30–60 minutos"
+      ],
+      "stability": [
+        "Uso imediato"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade à substância activa",
+        "Deve ser tida em conta alergia cruzada aos beta-lactâmicos como as cefalosporinas",
+        "Mononucleose infecciosa"
+      ],
+      "nursingCare": [
+        "Inutilizar soluções turvas",
+        "Após reconstituição com água Preparação para Injetáveis a solução apresenta-se límpida, incolor a ligeiramente amarelada",
+        "Podem surgir outras infecções como candidíase ou colite pseudomembranosa",
+        "Dialisável por hemodiálise, não por diálise peritoneal"
+      ]
+    },
+    "anfotericina-b-lipossomica": {
+      "id": "anfotericina-b-lipossomica",
+      "name": "Anfotericina B Lipossómica",
+      "aliases": [
+        "Ambisome",
+        "AmBisome"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Antifúngico"
+      ],
+      "compatibility": [
+        "Glicose a 5%",
+        "Glicose a 10%",
+        "Glicose a 20%"
+      ],
+      "presentationAndStorage": [
+        "50 mg pó para solução para perfusão",
+        "Não conservar acima de 25ºC"
+      ],
+      "preparation": [
+        "Via Endovenosa Perfusão: 12 ml de água Preparação para Injetáveis"
+      ],
+      "administration": [
+        "Via Endovenosa Perfusão: Diluir a dose necessária da reconstituição com 1 a 19 partes de glicose utilizando o filtro fornecido na embalagem e administrar durante 30 a 60 minutos"
+      ],
+      "stability": [
+        "Após reconstituição: 24 horas a 25ºC em frascos de vidro e 7 dias no frigorífico em frascos de vidro ou seringas de polipropileno",
+        "Após diluição: 7 dias no frigorífico e 72 horas a 25ºC para concentração de 2 mg/ml ou 0,5 mg/ml",
+        "Após diluição: 4 dias no frigorífico e 24 horas a 25ºC para concentração de 0,2 mg/ml"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade à anfotericina B ou a qualquer outro componente deste medicamento, a menos que a sua condição envolva risco de vida e o seu médico acredite que apenas a terapêutica com Ambisome o possa ajudar",
+        "Se tiver experienciado uma reacção anafiláctica ou anafilactóides grave à anfotericina"
+      ],
+      "nursingCare": [
+        "Deve ser apenas administrado por perfusão IV; não deve ser administrado por qualquer outro modo",
+        "Não deve ser misturado com soluções salinas (sal) ou com outros fármacos ou electrólitos",
+        "Após diluição em água Preparação para Injetáveis deve-se agitar vigorosamente",
+        "Deve-se proteger da luz durante a sua administração",
+        "Antes de iniciar a perfusão deverá administrar-se uma dose teste de 1 mg durante 10 minutos com vigilância do doente durante os 30 minutos seguintes",
+        "Deve-se proceder à lavagem da veia pré e pós administração com dextrose em água",
+        "A presença de um agente bacteriostático pode causar precipitação"
+      ]
+    },
+    "antigene-superficie-b": {
+      "id": "antigene-superficie-b",
+      "name": "Antigène de surface B",
+      "aliases": [
+        "Vacina Grupo 12"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Vacina"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%"
+      ],
+      "presentationAndStorage": [
+        "Solução pronta",
+        "Manter a temperatura ambiente"
+      ],
+      "preparation": [
+        "Solução pronta"
+      ],
+      "administration": [
+        "Via Intramuscular",
+        "Via Subcutânea"
+      ],
+      "stability": [
+        "Não especificado"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade à substância activa ou a qualquer um dos excipientes"
+      ],
+      "nursingCare": [
+        "Não administrar por via IV",
+        "Deve ser administrado profundamente no músculo glúteo",
+        "Não misturar com outros medicamentos"
+      ]
+    },
+    "atracurio": {
+      "id": "atracurio",
+      "name": "Atracúrio (Besilato)",
+      "aliases": [
+        "Tracrium"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Relaxante muscular"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Glicose a 5%",
+        "Glicose a 4% com cloreto de sódio a 0,18%",
+        "Solução Ringer",
+        "Lactato de Ringer"
+      ],
+      "presentationAndStorage": [
+        "10 mg/ml solução injectável",
+        "Conservar entre 2°C e 8°C",
+        "Não congelar",
+        "Proteger da luz"
+      ],
+      "preparation": [
+        "Solução injectável pronta"
+      ],
+      "administration": [
+        "Via Endovenosa: Bólus na dose inicial",
+        "Via Endovenosa Perfusão: Diluir e administrar na velocidade ajustada à necessidade (dose de manutenção)"
+      ],
+      "stability": [
+        "Após diluição: 4 horas em Lactato de Ringer",
+        "Após diluição: 8 horas em Solução Ringer, Glicose a 5%, Cloreto de sódio 0,18%, Glicose a 4%",
+        "Após diluição: 24 horas em Cloreto de sódio 0,9%"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade conhecida ao fármaco ou a qualquer dos excipientes na formulação"
+      ],
+      "nursingCare": [
+        "A intubação endotraqueal pode ser efectuada, geralmente, após 90 segundos da injecção intravenosa de 0,5 a 0,6 mg/Kg",
+        "A administração suplementar sucessiva não origina aumento da acumulação do efeito bloqueante neuromuscular",
+        "O bloqueio neuromuscular produzido pode ser rapidamente revertido por doses padronizadas de agentes anticolinérgicos, tais como a neostigmina e o edrofónio",
+        "É hipotónico, pelo que não deve ser administrado no mesmo tubo de perfusão de uma transfusão sanguínea",
+        "Tal como em outros agentes bloqueadores neuromusculares não despolarizantes, poderá desenvolver-se resistência em doentes com queimaduras",
+        "A hemofiltração e hemodiafiltração têm efeitos mínimos nos níveis plasmáticos do Besilato de Atracúrio e seus metabolitos",
+        "Os efeitos da hemodiálise e hemoperfusão sobre os níveis plasmáticos do Besilato de Atracúrio e seus metabolitos são desconhecidos",
+        "São permitidos curtos períodos de tempo à temperatura de até 30°C, unicamente para permitir o transporte ou armazenamento temporário fora de ambiente frio",
+        "Estima-se uma perda de potência de 8% se armazenado a 30°C durante um mês",
+        "Não misturar com soluções alcalinas, devido ao risco de precipitação ou inactivação",
+        "Não administrar por via IM"
+      ]
+    },
+    "atropina": {
+      "id": "atropina",
+      "name": "Atropina (sulfato)",
+      "aliases": [
+        "Atropen",
+        "Isopto Atropine"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antiarrítmico",
+        "Anticolinérgico"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Glicose a 5%"
+      ],
+      "presentationAndStorage": [
+        "0,5 mg/ml; 1 mg/ml solução injectável",
+        "Não conservar acima de 25ºC",
+        "Proteger da luz"
+      ],
+      "preparation": [
+        "Solução injectável pronta"
+      ],
+      "administration": [
+        "Via Intramuscular",
+        "Via Subcutânea",
+        "Via Endovenosa"
+      ],
+      "stability": [
+        "Uso imediato"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade à substância activa ou a qualquer um dos excipientes",
+        "Hipertrofia prostática, visto que favorece a retenção urinária",
+        "Em doenças obstrutivas do trato gastrointestinal (ex. estenose piloro duodenal)",
+        "Íleo-paralítico ou atonia intestinal (especialmente no caso de gerontes e doentes debilitados)",
+        "Colite ulcerosa, visto que pode conduzir a íleo ou megacólon; os seus efeitos a nível do esfíncter esofágico inferior podem exacerbar o refluxo",
+        "Miastenia gravis (a não ser que seja administrado com o objectivo de reduzir os efeitos muscarínicos adversos provocados por agentes anticolinesterásicos)",
+        "Glaucoma de ângulo fechado ou que apresente um ângulo estreito entre a íris e a córnea, dado que pode aumentar a pressão intra-ocular",
+        "Insuficiência cardíaca, cirurgia cardíaca e taquicardia, visto que pode ainda aumentar mais o ritmo cardíaco",
+        "Hemorragia aguda acompanhada de função cardiovascular instável",
+        "Tirotoxicose"
+      ],
+      "nursingCare": [
+        "Os indivíduos com Síndroma de Down, aparentemente, apresentam uma susceptibilidade aumentada às acções da atropina. Pelo contrário, os indivíduos albinos apresentam uma certa resistência a este fármaco",
+        "A administração de pequenas doses pode originar bradicardia paroxística",
+        "É incompatível com brometos, iodetos e bases",
+        "Não é dialisável por hemodiálise ou diálise peritoneal",
+        "Não é recomendada a administração por perfusão",
+        "Pode ocorrer rubor intenso da face e tronco 15 a 20 minutos após a administração"
+      ]
+    },
+    "azitromicina": {
+      "id": "azitromicina",
+      "name": "Azitromicina",
+      "aliases": [
+        "Zithromax",
+        "Azitrix"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antibacteriano",
+        "Macrólido"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Cloreto de sódio 0,45%",
+        "Dextrose a 5%",
+        "Dextrose a 5% em solução de lactato de ringer",
+        "Dextrose a 5% em cloreto de sódio a 0,3%",
+        "Dextrose a 5% em cloreto de sódio a 0,45%",
+        "Lactato de Ringer"
+      ],
+      "presentationAndStorage": [
+        "500 mg pó para solução para perfusão",
+        "Não necessita de quaisquer precauções especiais de conservação"
+      ],
+      "preparation": [
+        "Via Endovenosa Perfusão: Diluir em 4,8 ml de água Preparação para Injetáveis"
+      ],
+      "administration": [
+        "Via Endovenosa Perfusão: Diluir em 250 ml ou 500 ml e administrar num período ≥ 60 minutos"
+      ],
+      "stability": [
+        "Após reconstituição: 24 horas no frigorífico"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade à Azitromicina ou a qualquer outro componente de Azitromicina"
+      ],
+      "nursingCare": [
+        "A sua concentração de sódio deve ser tida em conta nos doentes com ingestão controlada de sódio",
+        "Vigilância cuidadosa dos acessos venosos pelo risco de flebites",
+        "Não administrar via IV em bólus ou IM"
+      ]
+    },
+    "betametasona": {
+      "id": "betametasona",
+      "name": "Betametasona (Dipropionato) + Betametasona (Fosfato Dissódico)",
+      "aliases": [
+        "Diprofos",
+        "Celestoderm"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Glucocorticóide"
+      ],
+      "compatibility": [],
+      "presentationAndStorage": [
+        "5+2 mg/ml suspensão injectável",
+        "Conservar a temperatura inferior a 25ºC"
+      ],
+      "preparation": [
+        "Suspensão pronta"
+      ],
+      "administration": [
+        "Via Intramuscular: Injectar profundamente numa grande massa muscular",
+        "Via Intradérmica: Usar uma agulha de pequeno calibre (superior a 26G)",
+        "Via Intralesional: Usar uma agulha de pequeno calibre (superior a 26G)",
+        "Via Intra-articular, intrasinovial e periarticular"
+      ],
+      "stability": [],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade à substância activa ou a qualquer um dos excipientes",
+        "Em caso de infecções fúngicas sistémicas"
+      ],
+      "nursingCare": [
+        "Não administrar por via IV ou SC",
+        "Deve ser utilizado com precaução via IM para evitar a atrofia tissular local",
+        "As administrações nos tecidos moles e intralesionais podem produzir efeitos sistémicos, para além dos locais",
+        "Pode adicionar-se na mesma seringa um anestésico local, procaína ou lidocaína a 1% ou a 2% sem parabenos",
+        "Deve-se aspirar primeiro a betametasona e só depois o anestésico"
+      ]
+    },
+    "bicarbonato-de-sodio": {
+      "id": "bicarbonato-de-sodio",
+      "name": "Bicarbonato de Sódio 8,4%",
+      "aliases": [
+        "NaHCO3",
+        "Bicarbonato"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Correctivo da volémia e das alterações electrolíticas",
+        "Correctivo do equilíbrio ácido-base",
+        "Alcalinizante"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Glicose a 5%"
+      ],
+      "presentationAndStorage": [
+        "84 mg/ml solução para perfusão",
+        "Conservar a temperatura inferior a 25ºC"
+      ],
+      "preparation": [
+        "Solução injectável pronta"
+      ],
+      "administration": [
+        "Via Endovenosa",
+        "Via Endovenosa Perfusão"
+      ],
+      "stability": [],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade à substância activa ou a qualquer um dos excipientes",
+        "A administração de bicarbonato de sódio está contra-indicada em pacientes com insuficiência renal, alcalose metabólica ou respiratória, edemas, insuficiência cardíaca congestiva, história de cálculos renais associada com depleção de potássio ou hipocalcémia, hipoventilação, depleção de cloretos ou hipernatrémia"
+      ],
+      "nursingCare": [
+        "A solução de bicarbonato de sódio a 8,4% tem uma osmolaridade de aproximadamente 2000 mOsm/l e, quando utilizado por diluir, deve ser administrado através de um cateter venoso central, preferencialmente inserido na veia cava",
+        "A injecção extravascular acidental de soluções hipertónicas pode causar irritação vascular",
+        "A sua concentração em sódio deve ser tida em consideração em doentes com ingestão controlada de sódio",
+        "Não devem ser administradas simultaneamente com soluções contendo cálcio, magnésio ou fosfatos devido à possibilidade de ocorrer precipitação",
+        "A solução de bicarbonato de sódio 8,4% é uma solução quase saturada, desta forma não deverá ser refrigerada",
+        "Como medida de segurança adicional para o risco de infusão de cristais juntamente com a solução, é recomendado utilizar um sistema de perfusão que inclua um filtro integral de fluidos"
       ]
     }
   }

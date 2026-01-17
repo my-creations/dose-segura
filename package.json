@@ -6,7 +6,9 @@
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "lint:meds": "eslint data/meds.json",
+    "lint:meds:fix": "eslint data/meds.json --fix"
   },
   "dependencies": {
     "@expo-google-fonts/quicksand": "^0.4.1",
@@ -32,6 +34,8 @@
   },
   "devDependencies": {
     "@types/react": "~19.1.0",
+    "eslint": "^9.39.2",
+    "eslint-plugin-jsonc": "^2.21.0",
     "react-test-renderer": "19.1.0",
     "typescript": "~5.9.2"
   },
