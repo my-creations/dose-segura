@@ -204,7 +204,7 @@
       ],
       "compatibility": [
         "Cloreto de sódio 0,9%",
-        "Água Preparação para Injetáveis."
+        "Água Preparação para Injetáveis"
       ],
       "presentationAndStorage": [
         "3 mg/ml solução injectável",
@@ -636,7 +636,7 @@
       ],
       "preparation": [
         "Via Endovenosa: 10 ml para 550 mg; 20 ml para 1,2 g de água Preparação para Injetáveis",
-        "Via Endovenosa Perfusão: 20 ml água Preparação para Injetáveis."
+        "Via Endovenosa Perfusão: 20 ml água Preparação para Injetáveis"
       ],
       "administration": [
         "Via Endovenosa: Administrar em 3–4 minutos (1200 mg)",
@@ -1014,6 +1014,925 @@
         "Não devem ser administradas simultaneamente com soluções contendo cálcio, magnésio ou fosfatos devido à possibilidade de ocorrer precipitação",
         "A solução de bicarbonato de sódio 8,4% é uma solução quase saturada, desta forma não deverá ser refrigerada",
         "Como medida de segurança adicional para o risco de infusão de cristais juntamente com a solução, é recomendado utilizar um sistema de perfusão que inclua um filtro integral de fluidos"
+      ]
+    },
+    "calcitriol": {
+      "id": "calcitriol",
+      "name": "Calcitriol",
+      "aliases": [],
+      "highRisk": false,
+      "classification": [
+        "Aparelho locomotor",
+        "Actuam no osso e no metabolismo do cálcio",
+        "Vitamina D"
+      ],
+      "compatibility": [],
+      "presentationAndStorage": [
+        "0,001 mg/ml; 0,002 mg/ml solução injectável",
+        "Não conservar acima de 25º C",
+        "Não congelar"
+      ],
+      "preparation": [
+        "Solução injectável pronta"
+      ],
+      "administration": [
+        "Via Endovenosa: administrar por bólus directo"
+      ],
+      "stability": [
+        "Uso imediato"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade ao calcitriol ou a qualquer outro componente",
+        "Não deve ser administrado em doentes com hipercalcémia ou com evidência de toxicidade pela vitamina D"
+      ],
+      "nursingCare": [
+        "A solução de calcitriol pode apresentar-se desde incolor a amarelo",
+        "Nos doentes submetidos a diálise, deverá ser usado um composto não-alumínico de ligação aos fosfatos para controlar os níveis séricos de fósforo",
+        "Pode ocorrer dor e rubor no local da injecção",
+        "Utilizar material isento de PVC"
+      ]
+    },
+    "ciclosporina": {
+      "id": "ciclosporina",
+      "name": "Ciclosporina",
+      "aliases": [],
+      "highRisk": true,
+      "classification": [
+        "Medicamento antineoplásico e imunomodulador"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Glicose a 5%"
+      ],
+      "presentationAndStorage": [
+        "50 mg/ml concentrado para solução para perfusão",
+        "O medicamento não necessita de quaisquer precauções especiais de conservação"
+      ],
+      "preparation": [
+        "Solução injectável pronta"
+      ],
+      "administration": [
+        "Via Endovenosa Perfusão: diluir na proporção de 1:20 a 1:100 e administrar de 2-6 horas"
+      ],
+      "stability": [
+        "Após diluição: 24 horas"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade à substância activa ou a qualquer um dos excipientes",
+        "Associação com produtos contendo Hypericum perforatum"
+      ],
+      "nursingCare": [
+        "Devido ao risco de anafilaxia, deve ser reservado para doentes transplantados que não possam tomar o medicamento por via oral (por ex. imediatamente após a cirurgia), ou nos quais a absorção de formas orais possa estar diminuída durante episódios de perturbações gastrointestinais",
+        "Nos doentes não transplantados, recomenda-se a monitorização ocasional dos níveis sanguíneos da ciclosporina",
+        "Deve efectuar-se a monitorização da tensão arterial durante o tratamento",
+        "A ciclosporina aumenta o risco de hipercaliémia, especialmente em doentes com disfunção renal",
+        "A ciclosporina não é dialisável de modo significativo, nem é eliminada através de hemoperfusão com carvão activado",
+        "Se disponível, devem utilizar-se recipientes de vidro para a perfusão. Frascos de plástico devem usar-se apenas se cumprirem com os requisitos da actual Farmacopeia Europeia para \"recipientes de plástico estéreis para sangue e componentes do sangue humano\" ou \"recipientes estéreis de cloreto de polivinilo plastificados para sangue e componentes do sangue humano\". Os recipientes e as tampas devem estar isentos de óleo de silicone e substâncias gordas"
+      ]
+    },
+    "cimetidina": {
+      "id": "cimetidina",
+      "name": "Cimetidina",
+      "aliases": [],
+      "highRisk": false,
+      "classification": [
+        "Anti-ácido e anti-ulceroso",
+        "Modificador da secreção gástrica",
+        "Antagonista dos receptores H2"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Glicose a 5%"
+      ],
+      "presentationAndStorage": [
+        "100mg/ml solução injectável",
+        "Não conservar acima de 25º C",
+        "Conservar na embalagem de origem para proteger da luz"
+      ],
+      "preparation": [
+        "Solução injectável pronta"
+      ],
+      "administration": [
+        "Via Intramuscular",
+        "Via Endovenosa: diluir 200 mg em 20ml e administrar lentamente ≥ 5 minutos",
+        "Via Endovenosa Perfusão Intermitente: diluir 400mg em 100ml e administrar durante 30-60 minutos",
+        "Via Endovenosa Perfusão Contínua: o ritmo de perfusão deve ser de 50-100mg/h"
+      ],
+      "stability": [
+        "Após diluição: 7 dias à temperatura ambiente"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade à substância activa ou a qualquer um dos excipientes"
+      ],
+      "nursingCare": [
+        "Nas situações de cirurgia de urgência, incluindo cesarianas, a cimetidina deve ser administrada preferencialmente por via IM",
+        "A experiência na administração deste fármaco a crianças com idade inferior a 16 anos é limitada, pelo que não deve ser rotineira",
+        "É dialisável por hemodiálise, mas os seus níveis não são alterados pela diálise peritoneal",
+        "Embora raros, foram descritos casos de arritmia e paragem cardíaca associados a administrações IV rápidas",
+        "Não existe antídoto específico"
+      ]
+    },
+    "cloropromazina": {
+      "id": "cloropromazina",
+      "name": "Cloropromazina (cloridrato)",
+      "aliases": [
+        "Grupo 2"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Psicofármaco",
+        "Antipsicótico"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%"
+      ],
+      "presentationAndStorage": [
+        "25 mg/5ml; 50mg/2ml solução injectável",
+        "Proteger da luz"
+      ],
+      "preparation": [
+        "Solução injectável pronta"
+      ],
+      "administration": [
+        "Via Intramuscular: administração profunda no músculo glúteo",
+        "Via Endovenosa Perfusão: diluir em 100ml e administrar durante 30 a 60 minutos"
+      ],
+      "stability": [],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade à substância activa, derivados de fenotiazinas, ou a qualquer um dos excipientes",
+        "Coma, independentemente da etiologia",
+        "Depressão grave do SNC",
+        "Risco de glaucoma",
+        "Risco de retenção urinária",
+        "Antecedentes de depressão da medula óssea"
+      ],
+      "nursingCare": [
+        "A via IV está reservada ao adulto",
+        "Após a administração da solução injectável é conveniente o doente permanecer deitado durante 30 minutos devido ao risco de hipotensão ortostática",
+        "Em caso de hipertermia inexplicada, a possibilidade de síndrome maligna dos neurolépticos deve ser sempre colocada e o tratamento com cloropromazina imediatamente interrompido",
+        "A sua concentração em sódio deve ser tida em conta em doentes com ingestão controlada de sódio",
+        "Não existe antídoto específico",
+        "Não deve ser misturado com soluções de barbitúricos sódicos, pois em virtude do seu pH ácido provocaria um precipitado do ácido barbitúrico",
+        "Deve-se inutilizar as soluções que apresentem alteração da cor",
+        "Não é dialisável por hemodiálise ou diálise peritoneal",
+        "Utilizado para controlo dos hipos e alterações gástricas como náuseas e vómitos"
+      ]
+    },
+    "dexametasona": {
+      "id": "dexametasona",
+      "name": "Dexametasona (Fosfato Sódico)",
+      "aliases": [
+        "Decadron",
+        "Dexametasona Fosfato"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Glucocorticóide",
+        "Grupo 8"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Glicose a 5%",
+        "Levulose a 10%",
+        "Soluto de Ringer",
+        "Lactato de Ringer",
+        "Isodex®",
+        "Haemaccel®"
+      ],
+      "presentationAndStorage": [
+        "5mg/ml solução injectável",
+        "Conservar no frigorífico entre 2°C e 8°C, não congelar",
+        "Conservar na embalagem de origem para proteger da luz"
+      ],
+      "preparation": [
+        "Solução injectável pronta"
+      ],
+      "administration": [
+        "Via Intramuscular: injecção profunda na massa muscular",
+        "Via Endovenosa: administrar lentamente",
+        "Via Endovenosa Perfusão: Intermitente ou contínua",
+        "Via Intra-articular: administração pelo médico, devendo respeitar-se rigorosamente a assépsia"
+      ],
+      "stability": [
+        "Após diluição: 24 horas à temperatura ambiente e à luz do dia"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade à substância activa ou a qualquer um dos excipientes",
+        "Úlcera gástrica ou duodenal",
+        "Infecções agudas",
+        "Vacinação com vacinas vivas"
+      ],
+      "nursingCare": [
+        "Vigilância da glicémia capilar",
+        "Pode ser administrada por via SC, nomeadamente em cuidados paliativos",
+        "A ampola de Dexametasona pode ser administrada via oral",
+        "Pode ser utilizado como antiemético em tratamentos de quimioterapia, bem como em situações de náuseas e vómitos persistentes após administração de outros antieméticos",
+        "A eficácia dos anticoagulantes cumarínicos pode ser potenciada pela terapêutica concomitante com glucocorticoides sendo necessária a monitorização apertada da Taxa Normalizada Internacional ou tempo de protrombina de forma a evitar hemorragias espontâneas",
+        "A eficácia dos anticoagulantes cumarínicos pode ser potenciada pela terapêutica concomitante com glucocorticoides",
+        "Não dialisável por hemodiálise nem por diálise peritoneal"
+      ]
+    },
+    "estreptomicina": {
+      "id": "estreptomicina",
+      "name": "Estreptomicina (Sulfato)",
+      "aliases": [],
+      "highRisk": true,
+      "classification": [
+        "Antibacteriano",
+        "Aminoglicosídeo"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%"
+      ],
+      "presentationAndStorage": [
+        "1gr pó e solvente para solução injectável",
+        "Conservar a temperatura inferior a 20ºC",
+        "Conservar na embalagem de origem para proteger da luz"
+      ],
+      "preparation": [
+        "Via Intramuscular: 4ml de água p.p.i",
+        "Via Endovenosa Perfusão: 10ml de água p.p.i. ou cloreto de sódio 0,9%"
+      ],
+      "administration": [
+        "Via Intramuscular: administrar profundamente no músculo glúteo",
+        "Via Endovenosa Perfusão: diluir em 100ml e administrar durante 30 a 60 minutos"
+      ],
+      "stability": [
+        "Uso imediato"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Alergia aos antibióticos da família dos aminoglicosídeos",
+        "Miastenia grave",
+        "Hipersensibilidade aos sulfitos"
+      ],
+      "nursingCare": [
+        "Provoca nefrotoxicidade e ototoxicidade, pelo que se deve evitar os tratamentos prolongados",
+        "No tratamento da tuberculose meníngea pode ser administrada por via intratecal",
+        "É dialisável por hemodiálise e diálise peritoneal",
+        "Por via IM deve ser frequentemente variado o local para evitar a necrose local",
+        "Quando administrada por via intra-raquidiana é comum provocar dor de pescoço e retenção urinária temporária"
+      ]
+    },
+    "metilprednisolona": {
+      "id": "metilprednisolona",
+      "name": "Metilprednisolona (Succinato de Sódio)",
+      "aliases": [
+        "Solu-Medrol",
+        "Metilprednisolona Succinato"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Glucocorticoide",
+        "Grupo 8"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Glicose a 5%",
+        "Glicose a 5% em cloreto de sódio a 0,45% ou 0,9%"
+      ],
+      "presentationAndStorage": [
+        "40mg; 125mg; 500mg; 1gr; 2gr pó e solvente para solução injectável",
+        "Conservar o produto não reconstituído a temperatura inferior a 25ºC"
+      ],
+      "preparation": [
+        "Via Intramuscular/Via Endovenosa: diluir no solvente que acompanha o pó"
+      ],
+      "administration": [
+        "Via Intramuscular",
+        "Via Endovenosa: doses inferiores a 250mg administrar num período ≥ 5 minutos",
+        "Via Endovenosa Perfusão: para doses superiores a 250mg e administrar em 30 minutos",
+        "Via Endovenosa Perfusão Contínua: diluir no volume necessário e ajustar à situação"
+      ],
+      "stability": [
+        "Após reconstituição/diluição: 48 horas, quando conservado a temperatura inferior a 25ºC"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Em doentes com infecções fúngicas sistémicas",
+        "Hipersensibilidade à substância activa ou a qualquer dos excipientes"
+      ],
+      "nursingCare": [
+        "Estudos prospectivos controlados demonstraram que a dosagem de 125 mg, administrado diariamente por via intravenosa, por um período de até 8 semanas, melhora significativamente a qualidade de vida dos doentes com cancro terminal",
+        "Prevenção de náuseas e vómitos associados a quimioterapia",
+        "É hemodialisável",
+        "Adicionalmente pode ocorrer insuficiência supra-renal aguda fatal, se os glucocorticoides forem retirados de forma abrupta",
+        "Monitorização das glicemias capilares",
+        "A sua concentração de sódio deve ser tida em conta nos doentes com ingestão controlada de sódio"
+      ]
+    },
+    "metilprednisolona-acetato": {
+      "id": "metilprednisolona-acetato",
+      "name": "Metilprednisolona (Acetato)",
+      "aliases": [
+        "Depo-Medrol",
+        "Depo-Medrate"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Glucocorticoide",
+        "Grupo 8"
+      ],
+      "compatibility": [],
+      "presentationAndStorage": [
+        "40mg/ml suspensão injectável",
+        "Conservar a temperatura inferior a 30ºC"
+      ],
+      "preparation": [
+        "Suspensão pronta"
+      ],
+      "administration": [
+        "Via Intramuscular: injectar profundamente, evitar o músculo deltóide devido à elevada incidência de atrofia subcutânea",
+        "Via Intra e Peri-articular",
+        "Via Intra e Sublesional",
+        "Via em tecidos moles"
+      ],
+      "stability": [],
+      "contraindicationsAndPrecautions": [
+        "Infecções fúngicas sistémicas se não acompanhado de medicação anti-infecciosa adequada",
+        "Hipersensibilidade à substância activa ou a qualquer um dos excipientes",
+        "Hipersensibilidade a outros anestésicos do tipo amida"
+      ],
+      "nursingCare": [
+        "Após a terapêutica intra-articular com esteróides, deverá evitar-se o trabalho excessivo das articulações a bem de se evitar a deterioração das mesmas",
+        "Não deve ser administrado a doentes com hipotiroidismo, estados psicóticos, insuficiência cardíaca, diabetes mellitus ou glaucoma",
+        "Não deverá ser diluída nem misturada com outras substâncias",
+        "Não administrar via IV",
+        "A Metilprednisolona pode ser administrada via rectal sendo que se deve diluir a dose necessária em 30-300ml de água e administrar sob a forma de enema de retenção ou gota a gota"
+      ]
+    },
+    "metronidazol": {
+      "id": "metronidazol",
+      "name": "Metronidazol",
+      "aliases": [
+        "Metronidazol Generis",
+        "Metronidazol Labesfal",
+        "Metronidazol IV Braun",
+        "Flagyl"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antibacteriano",
+        "Antiprotozoário"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Glicose a 5%",
+        "Solução de Ringer"
+      ],
+      "presentationAndStorage": [
+        "5mg/ml solução injectável",
+        "Conservar a temperatura inferior a 25º C e ao abrigo da luz"
+      ],
+      "preparation": [
+        "Solução injectável pronta"
+      ],
+      "administration": [
+        "Via Endovenosa Perfusão: 100ml em 20-30 minutos; 200ml em 40-60 minutos"
+      ],
+      "stability": [
+        "24 horas à temperatura ambiente"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade ao metronidazol, substância activa, ou a outros medicamentos com compostos nitro-imidazólicos ou a qualquer outro componente deste medicamento",
+        "História clínica de doenças hematopoéticas, hepática e do sistema nervoso central",
+        "Insuficiência hepática grave",
+        "Recomenda-se precaução na administração em situações de discrasias hemorrágicas e insuficiência cardíaca congestiva e outros estados de retenção salina"
+      ],
+      "nursingCare": [
+        "Pode aumentar o efeito anticoagulante da varfarina",
+        "Por conter sódio, a sua administração deve ser tida em conta em doentes com ingestão controlada de sódio",
+        "Queixas frequentes de náuseas e vómitos",
+        "Não usar em equipamento contendo alumínio que entrem em contacto com a solução",
+        "É dialisável por hemodiálise, mas não por diálise peritoneal"
+      ]
+    },
+    "midazolam": {
+      "id": "midazolam",
+      "name": "Midazolam",
+      "aliases": [
+        "Midazolam Hikma",
+        "Dormicum"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Hipnótico e sedativo derivado da benzodiazepina"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Glicose a 5%",
+        "Solução de Ringer",
+        "Lactato Ringer"
+      ],
+      "presentationAndStorage": [
+        "5mg/ml solução injectável",
+        "Conservar à temperatura ambiente e ao abrigo da luz"
+      ],
+      "preparation": [
+        "Solução injectável pronta"
+      ],
+      "administration": [
+        "Via Intramuscular: injecção profunda na massa muscular",
+        "Via Endovenosa: administrar lentamente: 1mg/30seg",
+        "Via Endovenosa Perfusão Contínua: diluir e ajustar velocidade de perfusão à necessidade"
+      ],
+      "stability": [
+        "Após diluição: 24 horas à temperatura ambiente",
+        "3 dias no frigorífico"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade à substância activa ou a qualquer outro componente deste medicamento",
+        "Hipersensibilidade às benzodiazepinas",
+        "Não utilizar para a sedação consciente em doentes com insuficiência respiratória grave ou depressão respiratória aguda",
+        "Não deverá ser administrado a recém-nascidos",
+        "Deve-se ter especial atenção aquando da administração a doentes com miastenia gravis"
+      ],
+      "nursingCare": [
+        "Muito utilizado em unidades de cuidados intensivos para sedação de doentes",
+        "O risco de dependência aumenta com a dose e com a duração do tratamento",
+        "Causa amnésia anterógrada",
+        "A administração IV pode deprimir a contractilidade do miocárdio e causar apneia",
+        "Pode ser administrado via rectal, introduzindo a solução das ampolas através de um aplicador de plástico; se o volume a administrar for pequeno, pode-se perfazer até 10ml com água p.p.i",
+        "Deve-se providenciar monitorização e suporte da função respiratória e cardiovascular",
+        "Não administrar com soluções alcalinas pelo risco de precipitação",
+        "Pode ser administrada por via SC, nomeadamente em cuidados paliativos",
+        "Não eliminado por hemodiálise nem diálise peritoneal",
+        "Antídoto: Flumazenil"
+      ]
+    },
+    "pamidronato-dissodio": {
+      "id": "pamidronato-dissodio",
+      "name": "Pamidronato (Dissódio)",
+      "aliases": [
+        "Pamidronato dissódico",
+        "Pamidran"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Bifosfonato de 2ª geração"
+      ],
+      "compatibility": [
+        "Cloreto de Sódio 0,9%",
+        "Glicose 5%"
+      ],
+      "presentationAndStorage": [
+        "15mg; 30mg; 60mg; 90mg solução para perfusão",
+        "Conservar a temperatura inferior a 25ºC na embalagem original"
+      ],
+      "preparation": [
+        "Via Endovenosa Perfusão: diluir 15mg em 5ml de água p.p.i. e 30mg, 60mg e 90mg em 10ml água p.p.i"
+      ],
+      "administration": [
+        "Via Endovenosa Perfusão: diluir em ≥ 250ml e administrar em cerca de 2 horas, em que a taxa de perfusão não deve exceder 60mg/h"
+      ],
+      "stability": [
+        "Após reconstituição: 24 horas no frigorífico",
+        "Após diluição: 24 horas à temperatura ambiente"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade ao Pamidronato, a outros bifosfonatos, ou a qualquer outro componente deste medicamento"
+      ],
+      "nursingCare": [
+        "Deve ser efectuada a monitorização dos electrólitos séricos, do cálcio e do fosfato",
+        "Em doentes com factores de risco concomitantes (por ex. cancro, quimioterapia, corticosteróides, higiene dentária deficiente), deverá considerar-se a realização de exame dentário com odontologia preventiva apropriada previamente ao tratamento com bifosfonatos. Durante o tratamento, estes doentes deverão evitar procedimentos dentários invasivos",
+        "Durante o tratamento com Pamidronato pode ocorrer sonolência e/ou vertigem pelo que os doentes devem abster-se de conduzir, utilizar máquinas potencialmente perigosas, ou dedicar-se a outras actividades que se possam tornar arriscadas por diminuição da agilidade",
+        "As ampolas de 6ml contêm uma quantidade de sódio que deve ser tida em conta nos doentes com ingestão controlada de sódio",
+        "Nunca deve ser administrado na forma de bólus",
+        "Não deve ser administrado concomitantemente com outros bifosfonatos uma vez que os seus efeitos combinados ainda não foram estabelecidos",
+        "Não deve ser adicionado a soluções endovenosas que contenham cálcio",
+        "Em caso de hipocalcémia com parestesias, tétano e hipotensão considerável pode reverter-se esta situação através da administração de perfusão de gluconato de cálcio",
+        "Pode surgir febre (um aumento da temperatura corporal de 1-2ºC) que se manifesta habitualmente nas primeiras 48 horas após a administração",
+        "Deve-se administrar numa veia de grande calibre a fim de evitar as reacções locais"
+      ]
+    },
+    "piracetam": {
+      "id": "piracetam",
+      "name": "Piracetam",
+      "aliases": [
+        "Piracetam Generis",
+        "Piracetam ratiopharm"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Medicamento utilizado no tratamento sintomático das alterações das funções cognitivas"
+      ],
+      "compatibility": [
+        "Glicose a 5%, 10%, 20%",
+        "Frutose 5%, 10%, 20%",
+        "Cloreto de sódio 0,9%",
+        "Dextran 40 (10% numa solução de cloreto de sódio 0,9%)",
+        "Solução de Ringer",
+        "Lactato de Ringer",
+        "Manitol 20%",
+        "Hidroxietilamido a 6% e 10%"
+      ],
+      "presentationAndStorage": [
+        "12g/ 60ml solução para perfusão",
+        "Conservar a temperatura inferior a 25º C",
+        "Proteger da humidade"
+      ],
+      "preparation": [
+        "Solução injectável pronta"
+      ],
+      "administration": [
+        "Via Intramuscular",
+        "Via Endovenosa"
+      ],
+      "stability": [
+        "Após diluição: 24 horas"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade à substância activa e a outros derivados da pirrolidona ou a qualquer um dos excipientes",
+        "Doentes com hemorragia cerebral",
+        "Doentes com Doença Renal Terminal",
+        "Síndrome Coreia de Huntington"
+      ],
+      "nursingCare": [
+        "A sua concentração em sódio deve ser tida em conta em doentes com ingestão controlada de sódio",
+        "Não existe antídoto específico para a sobredosagem com piracetam",
+        "É dialisável por hemodiálise, sendo que a eficiência da extracção do dialisador é de 50 a 60% para o piracetam"
+      ]
+    },
+    "prednisolona-succinato-de-sodio": {
+      "id": "prednisolona-succinato-de-sodio",
+      "name": "Prednisolona (Succinato de Sódio)",
+      "aliases": [
+        "Lepicortinolo",
+        "Prednisolona succinato sódico"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Corticosteróide",
+        "Glucocorticoide"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Solução de Ringer",
+        "Lactato de Ringer",
+        "Glicose a 5% e 10%"
+      ],
+      "presentationAndStorage": [
+        "10mg; 25mg; 50mg; 250mg; 1000mg pó e solvente para solução injectável",
+        "Conservar a temperatura inferior a 25ºC",
+        "Conservar na embalagem de origem para proteger da luz"
+      ],
+      "preparation": [
+        "Via Intramuscular/Via Endovenosa: 1ml (10 mg, 25mg, 50mg); 2ml (250mg), 10ml (1gr) de água p.p.i"
+      ],
+      "administration": [
+        "Via Intramuscular",
+        "Via Endovenosa",
+        "Via Endovenosa Perfusão"
+      ],
+      "stability": [
+        "Após reconstituição: Uso imediato; em casos excepcionais 24H no frigorífico"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade à substância activa ou a qualquer um dos excipientes"
+      ],
+      "nursingCare": [
+        "A via IM apenas deve ser usada na impossibilidade de termos disponível um acesso venoso",
+        "Devido à imunossupressão pode aumentar o risco de infecções oportunistas",
+        "No caso de administração em doses elevadas deve assegurar-se a ingestão adequada de potássio e a restrição de sódio",
+        "O efeito hipoglicemiante dos antidiabéticos orais pode estar reduzido",
+        "Não se conhecem antídotos",
+        "O frasco ou ampola não deve ser usado como multidoses"
+      ]
+    },
+    "ranitidina": {
+      "id": "ranitidina",
+      "name": "Ranitidina (Cloridrato)",
+      "aliases": [],
+      "highRisk": false,
+      "classification": [
+        "Antiácido",
+        "Anti-ulceroso",
+        "Modificador de secreção gástrica",
+        "Antagonista dos receptores H2"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Glicose a 5%"
+      ],
+      "presentationAndStorage": [
+        "50mg/2ml solução injectável",
+        "Não conservar acima de 25º C",
+        "Proteger da luz"
+      ],
+      "preparation": [
+        "Solução injectável pronta"
+      ],
+      "administration": [
+        "Via Intramuscular",
+        "Via Endovenosa: diluir 50mg em 20ml de cloreto de sódio 0,9% e administrar lentamente",
+        "Via Endovenosa Perfusão: diluir 50mg em 100ml e administrar durante 15-30 minutos",
+        "Via Endovenosa Perfusão Contínua: diluir 150mg em 250ml e administrar durante 24 horas"
+      ],
+      "stability": [
+        "Após diluição: 24 horas"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade conhecida à substância activa"
+      ],
+      "nursingCare": [
+        "A ranitidina é excretada por via renal, obtendo-se níveis plasmáticos aumentados em doentes com insuficiência renal",
+        "A sua concentração em sódio deverá ser tida em consideração em doentes com necessidade de fazer uma dieta com restrição em sódio",
+        "Tem um mecanismo de acção muito específico, não se prevendo problemas especiais após sobredosagem com este fármaco",
+        "Dialisável por hemodiálise, mas não por diálise peritoneal"
+      ]
+    },
+    "remifentanil": {
+      "id": "remifentanil",
+      "name": "Remifentanil (Cloridrato)",
+      "aliases": [
+        "Remifentanilo Sandoz",
+        "Remifentanilo Kabi",
+        "Remifentanilo Combino",
+        "Ultiva",
+        "Remifentanilo Aurovitas",
+        "Remifentanilo Mylan",
+        "Remifentanilo Normon"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Analgésico Opióide"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9% e 0,45%",
+        "Glicose a 5%",
+        "Glicose a 5% em Cloreto de sódio 0,9%"
+      ],
+      "presentationAndStorage": [
+        "1mg; 2mg; 5mg pó para concentrado para solução injectável ou para perfusão",
+        "Não conservar acima de 25º C",
+        "Proteger da luz",
+        "Não refrigerar ou congelar"
+      ],
+      "preparation": [
+        "Via Endovenosa: 1ml (1mg); 2ml (2mg) e 5ml (5mg) de solvente"
+      ],
+      "administration": [
+        "Via Endovenosa",
+        "Via Endovenosa Perfusão Contínua: diluir e ajustar a velocidade de perfusão à necessidade"
+      ],
+      "stability": [
+        "Após Reconstituição: 24 horas",
+        "Após diluição: 24 horas à temperatura ambiente para conc. de 20 a 250 µg/ml"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade ao Remifentanilo ou a qualquer outro componente do Remifentanilo ou derivados do fentanilo",
+        "Não administrar por via espinal (intratecal ou epidural)",
+        "Não utilizar como medicamento isolado para iniciar a anestesia"
+      ],
+      "nursingCare": [
+        "Tem um início muito rápido e duração de acção muito curta",
+        "Doentes mantêm grande estabilidade anestésica",
+        "Muito usado em cirurgias que se pretende hipotensão controlada",
+        "Nos doentes hipertensos, logo que acordam voltam a ficar hipertensos",
+        "Pela sua curta acção, se a analgesia não tiver sido bem planeada, doentes acordam com muita dor",
+        "Por conter glicina não deve ser administrado por via epidural e intratecal",
+        "Monitorização dos parâmetros vitais",
+        "Não utilizar soluções que não estão límpidas e livres de partículas ou se o recipiente estiver danificado",
+        "Mostrou ser compatível com propofol quando administrado num cateter intravenoso corrente",
+        "Não diluir em soluções com lactato de ringer"
+      ]
+    },
+    "rocuronio": {
+      "id": "rocuronio",
+      "name": "Rocurónio (Brometo)",
+      "aliases": [
+        "Esmeron",
+        "Brometo de rocurónio Hikma",
+        "Brometo de rocurónio genérico"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Relaxante muscular"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Glicose a 5%"
+      ],
+      "presentationAndStorage": [
+        "10 mg/ml solução injectável ou perfusão",
+        "Conservar no frigorífico entre 2º C e 8º C"
+      ],
+      "preparation": [
+        "Solução injectável pronta"
+      ],
+      "administration": [
+        "Via Endovenosa",
+        "Via Endovenosa Perfusão Contínua: diluir e ajustar a velocidade de perfusão à necessidade"
+      ],
+      "stability": [
+        "Após diluição: 24 horas"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade ao Brometo de Rocurónio, ao ião brometo ou a qualquer outro componente deste medicamento"
+      ],
+      "nursingCare": [
+        "Tem uma grande influência na condução e utilização de máquinas",
+        "A duração de acção é de 30-40 minutos",
+        "Os anestésicos de inalação potenciam os efeitos de bloqueio neuromuscular do Rocurónio",
+        "Em caso de sobredosagem pode reverter-se o bloqueio neuromuscular recorrendo ao Sugamadex ou a um inibidor da acetilcolinesterase",
+        "Pode também ser conservado fora do frigorífico a uma temperatura até 30º C durante o máximo de 12 semanas, após as quais deve ser rejeitado. O medicamento não deve ser recolocado no frigorífico, uma vez que tenha sido mantido fora deste",
+        "Não utilizar este medicamento se verificar que a solução não está límpida ou isenta de partículas"
+      ]
+    },
+    "somatostatina": {
+      "id": "somatostatina",
+      "name": "Somatostatina (Acetato)",
+      "aliases": [],
+      "highRisk": false,
+      "classification": [
+        "Hormona e medicamento usado no tratamento das doenças endócrinas"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%"
+      ],
+      "presentationAndStorage": [
+        "0,25mg; 3mg; 6mg pó e solvente para solução injectável",
+        "0,25mg - conservar no frigorífico entre 2º C e 8º C. Não congelar",
+        "3mg e 6mg - não conservar acima de 25ºC. Não congelar"
+      ],
+      "preparation": [
+        "Via Endovenosa/Via Endovenosa Perfusão: diluir o pó no solvente que o acompanha"
+      ],
+      "administration": [
+        "Via Endovenosa: deve ser administrado lentamente, pelo menos 3 a 5 minutos",
+        "Via Endovenosa Perfusão Contínua: diluir e administrar a uma velocidade de 250 µg/h"
+      ],
+      "stability": [
+        "Após reconstituição: 24 horas à temperatura ambiente",
+        "Após diluição: 48 horas à temperatura ambiente e protegido da luz"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade à Somatostatina ou a análogos da Somatostatina"
+      ],
+      "nursingCare": [
+        "Deve ser reconstituída imediatamente antes do seu uso",
+        "Aos doentes com insuficiência renal grave deve ser administrada metade da dose recomendada",
+        "No início da perfusão pode ocorrer hipoglicemia, possivelmente seguida, 2 a 3 horas depois, por um aumento da glicemia devido a alterações no balanço entre as hormonas reguladoras, insulina e glucagon. Por esta razão exige-se uma determinação da glicemia cada 4 a 6 horas",
+        "Os sinais vitais dos doentes devem ser monitorizados durante a fase inicial da administração, em particular após o bólus intravenoso",
+        "Não se conhece antídoto específico",
+        "Não dialisável por hemodiálise ou diálise peritoneal",
+        "Em caso de perfusão contínua, utilizar bombas infusoras para controlo adequado da velocidade de perfusão",
+        "Não utilizar soluções de glicose a 5% ou frutose como solvente"
+      ]
+    },
+    "tiaprida": {
+      "id": "tiaprida",
+      "name": "Tiaprida (Cloridrato)",
+      "aliases": [],
+      "highRisk": false,
+      "classification": [
+        "Psicofármaco",
+        "Antipsicótico"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%"
+      ],
+      "presentationAndStorage": [
+        "100 mg/2 ml solução injectável",
+        "Não conservar acima de 25º C"
+      ],
+      "preparation": [
+        "Solução injectável pronta"
+      ],
+      "administration": [
+        "Via Intramuscular",
+        "Via Endovenosa"
+      ],
+      "stability": [],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade à substância activa ou a qualquer dos excipientes",
+        "Tumores prolactino-dependentes associados como, por exemplo, prolactinomas da glândula pituitária e cancro da mama",
+        "Feocromocitoma"
+      ],
+      "nursingCare": [
+        "A via de administração IM é preferível à via de administração IV, por resultar em menos reacções adversas",
+        "Não deve ser administrado a doentes com doença de Parkinson, salvo em circunstâncias excepcionais",
+        "Não há antídoto específico",
+        "Não é dialisável"
+      ]
+    },
+    "tigeciclina": {
+      "id": "tigeciclina",
+      "name": "Tigeciclina",
+      "aliases": [],
+      "highRisk": false,
+      "classification": [
+        "Antibacteriano",
+        "Glicilciclina, derivado sintético da minociclina"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Glicose a 5%"
+      ],
+      "presentationAndStorage": [
+        "50mg pó para perfusão",
+        "Armazenar à temperatura ambiente"
+      ],
+      "preparation": [
+        "Via Endovenosa Perfusão: 5,3ml de cloreto de sódio 0,9%"
+      ],
+      "administration": [
+        "Via Endovenosa Perfusão: diluir em 100ml e administrar durante 30-60 minutos"
+      ],
+      "stability": [
+        "Após reconstituição: 24 horas à temperatura ambiente protegido da luz"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade à tigeciclina",
+        "História de doença gastrointestinal",
+        "Menores de 18 anos"
+      ],
+      "nursingCare": [
+        "A administração concomitante com varfarina pode aumentar o risco de hemorragia",
+        "A solução deve apresentar-se amarelo-alaranjado",
+        "Não deverá ser usado em doentes com idade inferior a 18 anos e não pode ser usado em crianças com menos de 8 anos",
+        "O frasco para injectáveis deve ser agitado suavemente até à dissolução da substância activa"
+      ]
+    },
+    "tiopental": {
+      "id": "tiopental",
+      "name": "Tiopental (Sódico)",
+      "aliases": [],
+      "highRisk": true,
+      "classification": [
+        "Anestésico geral",
+        "Psicofármaco"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Glicose a 5%"
+      ],
+      "presentationAndStorage": [
+        "500mg; 1000mg pó para solução injectável",
+        "Conservar à temperatura ambiente e ao abrigo da luz"
+      ],
+      "preparation": [
+        "Via Endovenosa/Via Endovenosa Perfusão: diluir em água p.p.i., cloreto de sódio 0,9%, glicose a 5%"
+      ],
+      "administration": [
+        "Via Endovenosa: administrar lentamente",
+        "Via Endovenosa Perfusão: diluir 1gr em 250-500ml"
+      ],
+      "stability": [
+        "Após reconstituição: 24 horas"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Não deve ser administrado a doentes cardíacos com dispneia, estase sanguínea, insuficiência renal ou hepática avançada, hipersensibilidade a barbitúricos e porfiria",
+        "Não deve ser administrado a doentes com défices respiratórios ou com graves lesões orgânicas"
+      ],
+      "nursingCare": [
+        "A sua administração deve ser sempre realizada em associação com a inalação de oxigénio",
+        "A administração IV deve ser precedida por uma dose adequada de um vagolítico, de modo a suprimir a possível excitação vagal característica de todos os barbitúricos",
+        "A administração extravascular pode produzir dor, edema, ulceração e necrose dos tecidos",
+        "A administração intra-arterial pode produzir artrites, seguidas de vaso-espasmos, edema, trombose e gangrena das extremidades",
+        "Em caso de administração intra-arterial acidental deverá injectar-se de seguida uma solução de procaína e também heparina ou, eventualmente, um fibrinolítico na artéria",
+        "É fracamente analgésico",
+        "Não administrar via IM ou SC uma vez que causam irritação local intensa",
+        "Não dialisável por hemodiálise ou diálise peritoneal"
+      ]
+    },
+    "vancomicina": {
+      "id": "vancomicina",
+      "name": "Vancomicina (Cloridrato)",
+      "aliases": [],
+      "highRisk": true,
+      "classification": [
+        "Anti-infeccioso"
+      ],
+      "compatibility": [
+        "Cloreto de sódio 0,9%",
+        "Glicose a 5%",
+        "Solução de Ringer",
+        "Solução de Ringer com glicose a 5%"
+      ],
+      "presentationAndStorage": [
+        "500mg; 1000mg pó para perfusão",
+        "Conservar a temperatura inferior a 25ºC",
+        "Conservar ao abrigo da luz"
+      ],
+      "preparation": [
+        "Via Endovenosa Perfusão: 10ml (500mg) e 20ml (1gr) de água p.p.i"
+      ],
+      "administration": [
+        "Via Endovenosa Perfusão: diluir 500mg em 100ml; 1 gr em 200ml e administrar num tempo mínimo de 60 minutos"
+      ],
+      "stability": [
+        "Após reconstituição: 96 horas no frigorífico",
+        "Após diluição: 14 dias no frigorífico (se diluída em cloreto de sódio 0,9% ou Glicose a 5%)"
+      ],
+      "contraindicationsAndPrecautions": [
+        "Hipersensibilidade conhecida à substância activa ou a qualquer um dos excipientes do medicamento"
+      ],
+      "nursingCare": [
+        "O fármaco é fracamente eliminado por hemodiálise ou diálise peritoneal, mas substancialmente eliminado por hemofiltração",
+        "Sendo um fármaco irritante para os tecidos moles responsável por necrose, este fármaco não deve ser administrado por via IM",
+        "Pode ocorrer dor ou tromboflebite, ocasionalmente graves",
+        "Nunca administrar em bólus",
+        "Devido à sua toxicidade e neurotoxicidade, os níveis sanguíneos devem ser monitorizados e a dosagem ajustada",
+        "Excepcionalmente pode ser administrada por via oral; nos casos de colite pseudomembranosa: 200mg (10ml); 250mg (5ml); 125mg (2,5ml) diluídos em 30 ml de água p.p.i., podendo ser adicionado a um xarope aromatizado para melhorar o sabor"
       ]
     }
   }
