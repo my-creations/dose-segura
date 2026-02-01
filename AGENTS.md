@@ -51,6 +51,7 @@ npm run test:all   # Run both Jest and Playwright tests
 npm run build:web  # Export for web
 npm run build:android # EAS build for Android
 npm run build:ios  # EAS build for iOS
+npm run deploy     # Deploy PWA to GitHub Pages
 ```
 
 ## Code Style Guidelines
@@ -332,10 +333,25 @@ data/                # Static JSON data
 ### Platform-Specific Considerations
 
 #### Web vs Mobile
-- Use Platform.OS for platform-specific logic
+- Use `Platform.OS` for platform-specific logic but prefer `useSafeAreaInsets` for layout spacing
 - Adjust UI for different screen sizes
 - Consider touch target sizes (minimum 44px)
 - Test on all target platforms
+
+#### PWA & Web Specifics
+- **Safe Area**: Use `react-native-safe-area-context` instead of hardcoded heights. PWA on iOS has a home indicator just like native apps.
+  ```typescript
+  import { useSafeAreaInsets } from 'react-native-safe-area-context';
+  const insets = useSafeAreaInsets();
+  // height: 60 + insets.bottom
+  ```
+- **Input Styles**: Web inputs often have default outlines and backgrounds that conflict with app design.
+  ```typescript
+  ...Platform.select({
+    web: { outlineStyle: 'none' } as any
+  })
+  ```
+- **GitHub Pages**: Remember that GitHub Pages ignores `_` prefixed folders. The deploy script handles this by renaming `_expo` to `expo_assets`.
 
 #### Accessibility
 - Use accessibilityLabel for screen readers

@@ -2,6 +2,8 @@
 
 Uma aplicação de referência rápida para enfermeiros, desenhada para facilitar o acesso a informações essenciais sobre medicamentos injetáveis.
 
+[**🌐 Ver Demo Online (PWA)**](https://my-creations.github.io/dose-segura/)
+
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -124,6 +126,12 @@ dose-segura/
 
 ```bash
 npx expo export --platform web
+```
+
+### Deploy para GitHub Pages
+
+```bash
+npm run deploy
 ```
 
 ### Mobile (requer EAS)
