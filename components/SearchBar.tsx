@@ -68,5 +68,10 @@ const styles = StyleSheet.create({
     fontSize: 16,
     fontFamily: 'Quicksand_500Medium',
     paddingVertical: 2,
+    ...Platform.select({
+      web: {
+        outlineStyle: 'none',
+      } as any,
+    }),
   },
 });
