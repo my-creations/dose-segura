@@ -5,6 +5,7 @@ const DIST_DIR = path.join(__dirname, '..', 'dist');
 const ASSETS_DIR = path.join(DIST_DIR, 'assets');
 const NODE_MODULES_DIR = path.join(ASSETS_DIR, 'node_modules');
 const LIBS_DIR = path.join(ASSETS_DIR, 'libs');
+const PUBLIC_DIR = path.join(__dirname, '..', 'public');
 
 function getAllFiles(dirPath, arrayOfFiles) {
   if (!fs.existsSync(dirPath)) return arrayOfFiles || [];
@@ -30,6 +31,17 @@ function fixWebBuild() {
   if (!fs.existsSync(DIST_DIR)) {
     console.error('❌ dist directory not found. Run build:web first.');
     process.exit(1);
+  }
+
+  // Copy public folder contents to dist
+  if (fs.existsSync(PUBLIC_DIR)) {
+    console.log('📂 Copying public directory contents to dist...');
+    const publicFiles = fs.readdirSync(PUBLIC_DIR);
+    publicFiles.forEach(file => {
+      const srcPath = path.join(PUBLIC_DIR, file);
+      const destPath = path.join(DIST_DIR, file);
+      fs.cpSync(srcPath, destPath, { recursive: true });
+    });
   }
 
   // 1. Rename assets/node_modules to assets/libs

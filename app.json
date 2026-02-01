@@ -30,7 +30,19 @@
     "web": {
       "bundler": "metro",
       "output": "static",
-      "favicon": "./assets/images/favicon.png"
+      "favicon": "./assets/images/favicon.png",
+      "name": "Dose Segura",
+      "shortName": "Dose Segura",
+      "display": "standalone",
+      "themeColor": "#E8A0BF",
+      "backgroundColor": "#E8A0BF",
+      "startUrl": "/dose-segura/",
+      "meta": {
+        "apple": {
+          "mobileWebAppCapable": "yes",
+          "mobileWebAppStatusBarStyle": "black-translucent"
+        }
+      }
     },
     "plugins": [
       "expo-router",

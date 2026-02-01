@@ -1,0 +1,17 @@
+{
+  "name": "Dose Segura",
+  "short_name": "Dose Segura",
+  "start_url": "/dose-segura/",
+  "display": "standalone",
+  "background_color": "#E8A0BF",
+  "theme_color": "#E8A0BF",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
