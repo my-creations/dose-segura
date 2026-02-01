@@ -6,7 +6,7 @@
   "homepage": "https://my-creations.github.io/dose-segura",
   "scripts": {
     "deploy": "gh-pages -d dist --dotfiles",
-    "predeploy": "npm run build:web && touch dist/.nojekyll && cp dist/index.html dist/404.html",
+    "predeploy": "npm run build:web && node scripts/fix-web-build.js && touch dist/.nojekyll && cp dist/index.html dist/404.html",
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
