@@ -20,23 +20,23 @@ export const Colors = {
     cream: '#FFF5E4',
   },
   dark: {
-    text: '#F5F5F5',
+    text: '#ECEDEE',
     textDark: '#FFFFFF',
-    background: '#1A1A2E',
-    cardBackground: '#252542',
-    tint: '#E8A0BF',
+    background: '#151718',
+    cardBackground: '#232527',
+    tint: '#FFB3C6', // Lighter pastel pink for contrast
     icon: '#9BA1A6',
     tabIconDefault: '#9BA1A6',
-    tabIconSelected: '#E8A0BF',
-    // Section tile colors (slightly muted for dark mode)
-    rose: '#C4879F',
-    lavender: '#9BB8D8',
-    mint: '#A8C49A',
-    peach: '#D4B08C',
-    sky: '#8AADD4',
-    lilac: '#B49AC4',
-    coral: '#D49494',
-    cream: '#D4C9B8',
+    tabIconSelected: '#FFB3C6',
+    // Section tile colors (Darkened versions of pastels for contrast)
+    rose: '#5C3A46',
+    lavender: '#3A475C',
+    mint: '#3A4C3C',
+    peach: '#5C483A',
+    sky: '#324A5E',
+    lilac: '#4A3A5C',
+    coral: '#5C3A3A',
+    cream: '#4C4638',
   },
 };
 
@@ -64,14 +64,14 @@ export const SECTION_COLORS: Record<'light' | 'dark', Record<SectionKey, string>
     nursingCare: '#DBC4F0',       // lilac
   },
   dark: {
-    classification: '#3A4A5A',
-    compatibility: '#3A4A3A',
-    presentationAndStorage: '#4A4538',
-    preparation: '#3A4558',
-    administration: '#4A3A42',
-    stability: '#4A4038',
-    contraindicationsAndPrecautions: '#4A3838',
-    nursingCare: '#443A4A',
+    classification: '#3A475C',    // Dark Lavender
+    compatibility: '#3A4C3C',     // Dark Mint
+    presentationAndStorage: '#4C4638', // Dark Cream
+    preparation: '#324A5E',       // Dark Sky
+    administration: '#5C3A46',    // Dark Rose
+    stability: '#5C483A',         // Dark Peach
+    contraindicationsAndPrecautions: '#5C3A3A', // Dark Coral
+    nursingCare: '#4A3A5C',       // Dark Lilac
   },
 };
 

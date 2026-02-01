@@ -2,7 +2,7 @@ import medsData from "@/data/meds.json";
 import { Medication, MedicationsData } from "@/types/medication";
 import React, { createContext, useContext, useMemo } from "react";
 
-interface MedicationsContextType {
+export interface MedicationsContextType {
   medications: Medication[];
   getMedication: (id: string) => Medication | undefined;
   searchMedications: (query: string) => Medication[];

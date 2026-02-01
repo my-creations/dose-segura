@@ -1,9 +1,10 @@
 import { Ionicons } from '@expo/vector-icons';
 import React from 'react';
-import { StyleSheet, TextInput, View } from 'react-native';
+import { Platform, StyleSheet, TextInput, View } from 'react-native';
 
 import { Colors } from '@/constants/Colors';
 import { useColorScheme } from '@/hooks/useColorScheme';
+import i18n from '@/utils/i18n';
 
 interface SearchBarProps {
   value: string;
@@ -11,7 +12,7 @@ interface SearchBarProps {
   placeholder?: string;
 }
 
-export function SearchBar({ value, onChangeText, placeholder = 'Pesquisar medicamento...' }: SearchBarProps) {
+export function SearchBar({ value, onChangeText, placeholder = i18n.t('home.searchPlaceholder') }: SearchBarProps) {
   const colorScheme = useColorScheme();
   const colors = Colors[colorScheme ?? 'light'];
 
@@ -27,6 +28,7 @@ export function SearchBar({ value, onChangeText, placeholder = 'Pesquisar medica
         autoCapitalize="none"
         autoCorrect={false}
         clearButtonMode="while-editing"
+        testID="search-input"
       />
     </View>
   );
@@ -42,11 +44,20 @@ const styles = StyleSheet.create({
     paddingVertical: 12,
     marginHorizontal: 16,
     marginVertical: 12,
-    shadowColor: '#E8A0BF',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.15,
-    shadowRadius: 8,
-    elevation: 3,
+    ...Platform.select({
+      ios: {
+        shadowColor: '#E8A0BF',
+        shadowOffset: { width: 0, height: 2 },
+        shadowOpacity: 0.15,
+        shadowRadius: 8,
+      },
+      android: {
+        elevation: 3,
+      },
+      web: {
+        boxShadow: '0px 2px 8px rgba(232, 160, 191, 0.15)',
+      },
+    }),
   },
   icon: {
     marginRight: 10,

@@ -18,28 +18,36 @@ This guide provides essential information for agentic coding agents working on t
 
 ## Build, Lint, and Test Commands
 
-### Current Commands
+### Development
 ```bash
-# Development
 npm start          # Start Expo development server
 npm run android    # Start on Android device/emulator
 npm run ios        # Start on iOS device/simulator
 npm run web        # Start web version
 ```
 
-### Recommended Commands (add to package.json)
+### Code Quality
 ```bash
-# Code Quality
-npm run lint       # Run ESLint
+npm run lint       # Run ESLint on project files
 npm run lint:fix   # Auto-fix ESLint issues
 npm run type-check # TypeScript type checking
+npm run lint:meds  # Run ESLint on medication data
+npm run lint:meds:fix # Auto-fix ESLint issues in medication data
+```
 
-# Testing
-npm test           # Run all tests
-npm run test:watch # Run tests in watch mode
-npm run test:single <test-file>  # Run single test file
+### Testing
+```bash
+npm test           # Run Jest unit/integration tests
+npm run test:watch # Run Jest tests in watch mode
+npm run test:coverage # Run Jest tests with coverage
+npm run test:single <test-file>  # Run single Jest test file
+npm run e2e        # Run Playwright E2E tests
+npm run e2e:ui     # Run Playwright E2E tests with UI
+npm run test:all   # Run both Jest and Playwright tests
+```
 
-# Building
+### Building
+```bash
 npm run build:web  # Export for web
 npm run build:android # EAS build for Android
 npm run build:ios  # EAS build for iOS
@@ -236,7 +244,7 @@ const handlePress = useCallback(() => {
 
 ### Testing Guidelines
 
-#### Test Structure
+#### Unit & Integration Tests (Jest)
 - Place tests in `__tests__` directories
 - Use descriptive test names
 - Test component behavior, not implementation
@@ -254,6 +262,46 @@ describe('MedicationCard', () => {
     
     expect(getByText('Aspirin')).toBeTruthy();
     expect(getByText('100mg')).toBeTruthy();
+  });
+});
+```
+
+#### E2E Tests (Playwright)
+- Place tests in `e2e/tests/` directory
+- Use `testID` props for reliable selectors (maps to `data-testid` on web)
+- **Structure**:
+  - Use `test.describe` to group tests
+  - Use `test.beforeEach` for navigation and setup
+  - Use `test.step` to group logical actions within a test
+  - Add blank lines between invocations/declarations for readability
+- **Selectors**:
+  - Scope queries to root screen elements to avoid ambiguity (e.g., `page.getByTestId('home-screen').getByTestId(...)`)
+- **Variables**:
+  - Inline constants if used only once
+  - Define constants at the top of the file if used multiple times
+
+```typescript
+import { expect, test } from '@playwright/test';
+
+test.describe('Feature Flow', () => {
+  test.beforeEach(async ({ page }) => {
+    await page.goto('/');
+  });
+
+  test('performs a specific action', async ({ page }) => {
+    await test.step('Perform step 1', async () => {
+      const input = page.getByTestId('search-input');
+
+      await expect(input).toBeVisible();
+      await input.fill('Query');
+    });
+
+    await test.step('Verify result', async () => {
+      // Inline selector usage for single use
+      await page.getByTestId('submit-button').click();
+
+      await expect(page.getByTestId('result-card')).toBeVisible();
+    });
   });
 });
 ```

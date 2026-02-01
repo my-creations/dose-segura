@@ -14,6 +14,7 @@ import 'react-native-reanimated';
 import { Colors } from '@/constants/Colors';
 import { FavoritesProvider } from '@/context/FavoritesContext';
 import { MedicationsProvider } from '@/context/MedicationsContext';
+import { AppThemeProvider } from '@/context/ThemeContext';
 import { useColorScheme } from '@/hooks/useColorScheme';
 
 export {
@@ -75,7 +76,11 @@ export default function RootLayout() {
     return null;
   }
 
-  return <RootLayoutNav />;
+  return (
+    <AppThemeProvider>
+      <RootLayoutNav />
+    </AppThemeProvider>
+  );
 }
 
 function RootLayoutNav() {

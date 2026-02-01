@@ -71,6 +71,24 @@ npx expo start --web     # Browser
 2. Executa `npx expo start`
 3. Lê o código QR com a app Expo Go
 
+## 🧪 Testes
+
+### Unitários e Integração (Jest)
+
+```bash
+npm test
+```
+
+### End-to-End (Playwright)
+
+```bash
+# Executar testes E2E
+npm run e2e
+
+# Executar com interface gráfica
+npm run e2e:ui
+```
+
 ## 🏗️ Estrutura do Projeto
 
 ```
@@ -87,6 +105,7 @@ dose-segura/
 ├── constants/              # Cores e constantes
 ├── context/                # React Context (estado global)
 ├── data/                   # Dados JSON dos medicamentos
+├── e2e/                    # Testes End-to-End (Playwright)
 ├── hooks/                  # Custom hooks
 └── types/                  # Tipos TypeScript
 ```

@@ -7,6 +7,7 @@ import { Colors } from '@/constants/Colors';
 import { useMedications } from '@/context/MedicationsContext';
 import { useColorScheme } from '@/hooks/useColorScheme';
 import { useFavorites } from '@/hooks/useFavorites';
+import i18n from '@/utils/i18n';
 import { Ionicons } from '@expo/vector-icons';
 
 export default function FavoritesScreen() {
@@ -22,13 +23,13 @@ export default function FavoritesScreen() {
   if (isLoading) {
     return (
       <View style={[styles.centered, { backgroundColor: colors.background }]}>
-        <ThemedText>A carregar...</ThemedText>
+        <ThemedText>{i18n.t('common.loading')}</ThemedText>
       </View>
     );
   }
 
   return (
-    <View style={[styles.container, { backgroundColor: colors.background }]}>
+    <View style={[styles.container, { backgroundColor: colors.background }]} testID="favorites-screen">
       <FlatList
         data={favoriteMedications}
         keyExtractor={(item) => item.id}
@@ -48,9 +49,9 @@ export default function FavoritesScreen() {
             <View style={[styles.emptyIconContainer, { backgroundColor: colors.rose + '20' }]}>
               <Ionicons name="heart-outline" size={48} color={colors.rose} />
             </View>
-            <ThemedText type="subtitle" style={styles.emptyTitle}>Sem favoritos</ThemedText>
+            <ThemedText type="subtitle" style={styles.emptyTitle}>{i18n.t('favorites.emptyTitle')}</ThemedText>
             <ThemedText type="caption" style={styles.emptyText}>
-              Toque no coração ao lado de um medicamento para o adicionar aos favoritos
+              {i18n.t('favorites.emptyMessage')}
             </ThemedText>
           </View>
         }

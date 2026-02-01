@@ -3,7 +3,7 @@ import React, { createContext, useCallback, useContext, useEffect, useState } fr
 
 const FAVORITES_KEY = '@dose_segura_favorites';
 
-interface FavoritesContextType {
+export interface FavoritesContextType {
   favorites: string[];
   isLoading: boolean;
   toggleFavorite: (id: string) => void;

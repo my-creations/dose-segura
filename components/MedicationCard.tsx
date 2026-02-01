@@ -22,12 +22,15 @@ export function MedicationCard({ medication, isFavorite = false, onToggleFavorit
   const FavoriteButton = (
     <Pressable 
       onPress={(e) => {
-        e.stopPropagation();
-        e.preventDefault?.();
+        e?.stopPropagation?.();
+        e?.preventDefault?.();
         onToggleFavorite?.();
       }}
       style={isWeb ? styles.favoriteButtonInline : styles.favoriteButton}
       hitSlop={10}
+      accessibilityLabel="Favoritar medicamento"
+      accessibilityHint="Alterna este medicamento como favorito"
+      testID="favorite-button"
     >
       <Ionicons 
         name={isFavorite ? 'heart' : 'heart-outline'} 
@@ -39,7 +42,11 @@ export function MedicationCard({ medication, isFavorite = false, onToggleFavorit
 
   return (
     <Link href={`/medication/${medication.id}`} asChild>
-      <Pressable style={({ pressed }) => [styles.container, pressed && styles.pressed]}>
+      <Pressable
+        style={({ pressed }) => [styles.container, pressed && styles.pressed]}
+        accessibilityLabel={`Abrir medicamento ${medication.name}`}
+        testID={`medication-card-${medication.id}`}
+      >
         <View style={[styles.card, { backgroundColor: colors.cardBackground }]}>
           <View style={styles.content}>
             <View style={styles.header}>
@@ -90,11 +97,20 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     borderRadius: 16,
     padding: 16,
-    shadowColor: '#E8A0BF',
-    shadowOffset: { width: 0, height: 3 },
-    shadowOpacity: 0.12,
-    shadowRadius: 8,
-    elevation: 3,
+    ...Platform.select({
+      ios: {
+        shadowColor: '#E8A0BF',
+        shadowOffset: { width: 0, height: 3 },
+        shadowOpacity: 0.12,
+        shadowRadius: 8,
+      },
+      android: {
+        elevation: 3,
+      },
+      web: {
+        boxShadow: '0px 3px 8px rgba(232, 160, 191, 0.12)',
+      },
+    }),
   },
   content: {
     flex: 1,

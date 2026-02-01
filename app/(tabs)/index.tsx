@@ -8,6 +8,7 @@ import { Colors } from '@/constants/Colors';
 import { useMedications } from '@/context/MedicationsContext';
 import { useColorScheme } from '@/hooks/useColorScheme';
 import { useFavorites } from '@/hooks/useFavorites';
+import i18n from '@/utils/i18n';
 
 export default function HomeScreen() {
   const [searchQuery, setSearchQuery] = useState('');
@@ -19,8 +20,12 @@ export default function HomeScreen() {
   const filteredMedications = searchMedications(searchQuery);
 
   return (
-    <View style={[styles.container, { backgroundColor: colors.background }]}>
-      <SearchBar value={searchQuery} onChangeText={setSearchQuery} />
+    <View style={[styles.container, { backgroundColor: colors.background }]} testID="home-screen">
+      <SearchBar 
+        value={searchQuery} 
+        onChangeText={setSearchQuery} 
+        placeholder={i18n.t('home.searchPlaceholder')}
+      />
       
       <FlatList
         data={filteredMedications}
@@ -37,18 +42,18 @@ export default function HomeScreen() {
           <View style={styles.empty}>
             <ThemedText style={styles.emptyText}>
               {searchQuery 
-                ? 'Nenhum medicamento encontrado'
-                : 'Nenhum medicamento disponível'}
+                ? i18n.t('home.noResults')
+                : i18n.t('home.noData')}
             </ThemedText>
           </View>
         }
         ListFooterComponent={
           <View style={[styles.footer, { backgroundColor: colors.cream }]}>
             <ThemedText type="caption" style={styles.footerText}>
-              Versão {version} • Atualizado em {lastUpdated}
+              {i18n.t('common.version', { version, date: lastUpdated })}
             </ThemedText>
             <ThemedText type="caption" style={styles.disclaimer}>
-              Para referência apenas. Verificar sempre com a farmácia.
+              {i18n.t('common.disclaimer')}
             </ThemedText>
           </View>
         }

@@ -10,7 +10,8 @@ import { Colors, SectionKey } from '@/constants/Colors';
 import { useMedications } from '@/context/MedicationsContext';
 import { useColorScheme } from '@/hooks/useColorScheme';
 import { useFavorites } from '@/hooks/useFavorites';
-import { MedicationSection, SECTION_LABELS } from '@/types/medication';
+import { MedicationSection } from '@/types/medication';
+import i18n from '@/utils/i18n';
 
 // Map MedicationSection to SectionKey for colors
 const SECTION_KEY_MAP: Record<MedicationSection, SectionKey> = {
@@ -45,9 +46,9 @@ export default function MedicationDetailScreen() {
     return (
       <ThemedView style={styles.centered}>
         <Ionicons name="alert-circle" size={64} color={colors.icon} />
-        <ThemedText style={styles.notFoundText}>Medicamento não encontrado</ThemedText>
+        <ThemedText style={styles.notFoundText}>{i18n.t('common.medicationNotFound')}</ThemedText>
         <Pressable style={[styles.backButton, { backgroundColor: colors.tint }]} onPress={() => router.back()}>
-          <ThemedText style={styles.backButtonText}>Voltar</ThemedText>
+          <ThemedText style={styles.backButtonText}>{i18n.t('common.back')}</ThemedText>
         </Pressable>
       </ThemedView>
     );
@@ -75,7 +76,7 @@ export default function MedicationDetailScreen() {
         options={{ 
           title: medication.name,
           headerRight: isWeb ? undefined : () => (
-            <Pressable onPress={() => toggleFavorite(medication.id)} hitSlop={10}>
+            <Pressable onPress={() => toggleFavorite(medication.id)} hitSlop={10} testID="favorite-toggle">
               <Ionicons 
                 name={favorite ? 'heart' : 'heart-outline'} 
                 size={24} 
@@ -88,9 +89,11 @@ export default function MedicationDetailScreen() {
       <ScrollView style={[styles.container, { backgroundColor: colors.background }]}>
         <View style={[styles.header, { backgroundColor: colors.cardBackground }]}>
           <View style={styles.titleRow}>
-            <ThemedText type="title" style={isWeb ? undefined : styles.name}>{medication.name}</ThemedText>
+            <ThemedText type="title" style={isWeb ? undefined : styles.name} testID="medication-title">
+              {medication.name}
+            </ThemedText>
             {isWeb && (
-              <Pressable onPress={() => toggleFavorite(medication.id)} hitSlop={10} style={styles.favoriteButtonWeb}>
+              <Pressable onPress={() => toggleFavorite(medication.id)} hitSlop={10} style={styles.favoriteButtonWeb} testID="favorite-toggle">
                 <Ionicons 
                   name={favorite ? 'heart' : 'heart-outline'} 
                   size={26} 
@@ -101,7 +104,7 @@ export default function MedicationDetailScreen() {
             {isWeb && medication.highRisk && (
               <View style={[styles.highRiskBadge, { backgroundColor: colors.coral }]}>
                 <Ionicons name="warning" size={14} color="#fff" />
-                <ThemedText style={styles.highRiskText}>Alto Risco</ThemedText>
+                <ThemedText style={styles.highRiskText}>{i18n.t('common.highRisk')}</ThemedText>
               </View>
             )}
           </View>
@@ -111,7 +114,7 @@ export default function MedicationDetailScreen() {
               {!isWeb && medication.highRisk && (
                 <View style={[styles.highRiskBadge, { backgroundColor: colors.coral }]}>
                   <Ionicons name="warning" size={14} color="#fff" />
-                  <ThemedText style={styles.highRiskText}>Alto Risco</ThemedText>
+                  <ThemedText style={styles.highRiskText}>{i18n.t('common.highRisk')}</ThemedText>
                 </View>
               )}
               {medication.aliases.map((alias, index) => (
@@ -130,9 +133,10 @@ export default function MedicationDetailScreen() {
           {nonEmptySections.map((section, index) => (
             <SectionTile
               key={section.key}
-              title={SECTION_LABELS[section.key]}
+              title={i18n.t(`medication.sections.${section.key}`)}
               sectionKey={SECTION_KEY_MAP[section.key]}
-              style={isWideScreen ? { width: (width - 48) / 2, marginBottom: 12 } : styles.sectionTile}
+              style={isWideScreen ? { width: (width - (isWeb ? 68 : 48)) / 2, marginBottom: 12 } : styles.sectionTile}
+              testID={`section-${section.key}`}
             >
               <SectionContent items={section.data} />
             </SectionTile>
@@ -141,7 +145,7 @@ export default function MedicationDetailScreen() {
 
         <View style={[styles.footer, { backgroundColor: colors.cream }]}>
           <ThemedText style={styles.disclaimer}>
-            ⚠️ Esta informação é apenas para referência. Verifique sempre com a farmácia antes de administrar.
+            {i18n.t('medication.disclaimer')}
           </ThemedText>
         </View>
       </ScrollView>
@@ -181,11 +185,20 @@ const styles = StyleSheet.create({
     marginHorizontal: 16,
     marginTop: 16,
     borderRadius: 20,
-    shadowColor: '#E8A0BF',
-    shadowOffset: { width: 0, height: 3 },
-    shadowOpacity: 0.12,
-    shadowRadius: 8,
-    elevation: 3,
+    ...Platform.select({
+      ios: {
+        shadowColor: '#E8A0BF',
+        shadowOffset: { width: 0, height: 3 },
+        shadowOpacity: 0.12,
+        shadowRadius: 8,
+      },
+      android: {
+        elevation: 3,
+      },
+      web: {
+        boxShadow: '0px 3px 8px rgba(232, 160, 191, 0.12)',
+      },
+    }),
   },
   titleRow: {
     flexDirection: 'row',

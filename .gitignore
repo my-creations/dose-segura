@@ -46,3 +46,7 @@ yarn-error.*
 
 # Medication images
 medication-images
+
+# Playwright
+playwright-report/
+test-results

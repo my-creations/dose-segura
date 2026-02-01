@@ -1,27 +1,71 @@
 import { Ionicons } from '@expo/vector-icons';
 import React from 'react';
-import { ScrollView, StyleSheet, View } from 'react-native';
+import { Platform, Pressable, ScrollView, StyleSheet, View } from 'react-native';
 
 import { ThemedText } from '@/components/ThemedText';
 import { Colors } from '@/constants/Colors';
 import { useMedications } from '@/context/MedicationsContext';
+import { ThemeMode, useTheme } from '@/context/ThemeContext';
 import { useColorScheme } from '@/hooks/useColorScheme';
+import i18n from '@/utils/i18n';
 
 export default function SettingsScreen() {
   const { version, lastUpdated, medications } = useMedications();
+  const { themeMode, setThemeMode } = useTheme();
   const colorScheme = useColorScheme();
   const colors = Colors[colorScheme ?? 'light'];
+
+  const renderThemeOption = (mode: ThemeMode, label: string, icon: keyof typeof Ionicons.glyphMap) => {
+    const isSelected = themeMode === mode;
+    return (
+      <Pressable
+        style={[
+          styles.themeOption,
+          isSelected && { backgroundColor: colors.tint + '20' }
+        ]}
+        onPress={() => setThemeMode(mode)}
+      >
+        <View style={styles.themeOptionContent}>
+          <Ionicons
+            name={icon}
+            size={20}
+            color={isSelected ? colors.tint : colors.text}
+          />
+          <ThemedText style={[
+            styles.themeOptionLabel,
+            isSelected && { color: colors.tint, fontFamily: 'Quicksand_600SemiBold' }
+          ]}>
+            {label}
+          </ThemedText>
+        </View>
+        {isSelected && (
+          <Ionicons name="checkmark-circle" size={20} color={colors.tint} />
+        )}
+      </Pressable>
+    );
+  };
 
   return (
     <ScrollView style={[styles.container, { backgroundColor: colors.background }]}>
       <View style={styles.section}>
-        <ThemedText type="sectionTitle" style={styles.sectionTitle}>Informações da Base de Dados</ThemedText>
+        <ThemedText type="sectionTitle" style={styles.sectionTitle}>{i18n.t('settings.appearance')}</ThemedText>
+        <View style={[styles.card, { backgroundColor: colors.cardBackground, padding: 8 }]}>
+          {renderThemeOption('system', i18n.t('settings.themes.system'), 'phone-portrait-outline')}
+          <View style={[styles.divider, { backgroundColor: colors.lavender, marginVertical: 4 }]} />
+          {renderThemeOption('light', i18n.t('settings.themes.light'), 'sunny-outline')}
+          <View style={[styles.divider, { backgroundColor: colors.lavender, marginVertical: 4 }]} />
+          {renderThemeOption('dark', i18n.t('settings.themes.dark'), 'moon-outline')}
+        </View>
+      </View>
+
+      <View style={styles.section}>
+        <ThemedText type="sectionTitle" style={styles.sectionTitle}>{i18n.t('settings.databaseInfo')}</ThemedText>
         <View style={[styles.card, { backgroundColor: colors.cardBackground }]}>
           <View style={styles.row}>
             <View style={[styles.iconContainer, { backgroundColor: colors.lavender }]}>
               <Ionicons name="document-text" size={18} color={colors.textDark} />
             </View>
-            <ThemedText style={styles.label}>Versão</ThemedText>
+            <ThemedText style={styles.label}>{i18n.t('settings.labels.version')}</ThemedText>
             <ThemedText type="defaultSemiBold" style={styles.value}>{version}</ThemedText>
           </View>
           <View style={[styles.divider, { backgroundColor: colors.lavender }]} />
@@ -29,7 +73,7 @@ export default function SettingsScreen() {
             <View style={[styles.iconContainer, { backgroundColor: colors.mint }]}>
               <Ionicons name="calendar" size={18} color={colors.textDark} />
             </View>
-            <ThemedText style={styles.label}>Última atualização</ThemedText>
+            <ThemedText style={styles.label}>{i18n.t('settings.labels.lastUpdated')}</ThemedText>
             <ThemedText type="defaultSemiBold" style={styles.value}>{lastUpdated}</ThemedText>
           </View>
           <View style={[styles.divider, { backgroundColor: colors.lavender }]} />
@@ -37,37 +81,35 @@ export default function SettingsScreen() {
             <View style={[styles.iconContainer, { backgroundColor: colors.peach }]}>
               <Ionicons name="medical" size={18} color={colors.textDark} />
             </View>
-            <ThemedText style={styles.label}>Total de medicamentos</ThemedText>
+            <ThemedText style={styles.label}>{i18n.t('settings.labels.totalMedications')}</ThemedText>
             <ThemedText type="defaultSemiBold" style={styles.value}>{medications.length}</ThemedText>
           </View>
         </View>
       </View>
 
       <View style={styles.section}>
-        <ThemedText type="sectionTitle" style={styles.sectionTitle}>Sobre</ThemedText>
+        <ThemedText type="sectionTitle" style={styles.sectionTitle}>{i18n.t('settings.about')}</ThemedText>
         <View style={[styles.card, { backgroundColor: colors.cardBackground }]}>
           <ThemedText style={styles.aboutText}>
-            Dose Segura é uma aplicação de referência para auxiliar profissionais de saúde 
-            na administração de medicamentos.
+            {i18n.t('settings.aboutText')}
           </ThemedText>
           <View style={[styles.warningBox, { backgroundColor: colors.coral + '20' }]}>
             <Ionicons name="warning" size={20} color={colors.coral} />
             <ThemedText style={[styles.warningText, { color: colors.textDark }]}>
-              Esta aplicação é apenas para referência. Verifique sempre a informação com 
-              fontes oficiais e a farmácia antes de administrar qualquer medicamento.
+              {i18n.t('settings.warningText')}
             </ThemedText>
           </View>
         </View>
       </View>
 
       <View style={styles.section}>
-        <ThemedText type="sectionTitle" style={styles.sectionTitle}>Aplicação</ThemedText>
+        <ThemedText type="sectionTitle" style={styles.sectionTitle}>{i18n.t('settings.application')}</ThemedText>
         <View style={[styles.card, { backgroundColor: colors.cardBackground }]}>
           <View style={styles.row}>
             <View style={[styles.iconContainer, { backgroundColor: colors.sky }]}>
               <Ionicons name="phone-portrait" size={18} color={colors.textDark} />
             </View>
-            <ThemedText style={styles.label}>Versão da app</ThemedText>
+            <ThemedText style={styles.label}>{i18n.t('settings.labels.appVersion')}</ThemedText>
             <ThemedText type="defaultSemiBold" style={styles.value}>1.0.0</ThemedText>
           </View>
           <View style={[styles.divider, { backgroundColor: colors.lavender }]} />
@@ -75,8 +117,8 @@ export default function SettingsScreen() {
             <View style={[styles.iconContainer, { backgroundColor: colors.lilac }]}>
               <Ionicons name="cloud-offline" size={18} color={colors.textDark} />
             </View>
-            <ThemedText style={styles.label}>Modo</ThemedText>
-            <ThemedText type="defaultSemiBold" style={styles.value}>100% Offline</ThemedText>
+            <ThemedText style={styles.label}>{i18n.t('settings.labels.mode')}</ThemedText>
+            <ThemedText type="defaultSemiBold" style={styles.value}>{i18n.t('settings.labels.offlineMode')}</ThemedText>
           </View>
         </View>
       </View>
@@ -99,11 +141,20 @@ const styles = StyleSheet.create({
   card: {
     borderRadius: 16,
     padding: 16,
-    shadowColor: '#E8A0BF',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.1,
-    shadowRadius: 6,
-    elevation: 2,
+    ...Platform.select({
+      ios: {
+        shadowColor: '#E8A0BF',
+        shadowOffset: { width: 0, height: 2 },
+        shadowOpacity: 0.1,
+        shadowRadius: 6,
+      },
+      android: {
+        elevation: 2,
+      },
+      web: {
+        boxShadow: '0px 2px 6px rgba(232, 160, 191, 0.1)',
+      },
+    }),
   },
   row: {
     flexDirection: 'row',
@@ -145,5 +196,20 @@ const styles = StyleSheet.create({
     flex: 1,
     fontSize: 13,
     lineHeight: 20,
+  },
+  themeOption: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    padding: 12,
+    borderRadius: 12,
+  },
+  themeOptionContent: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 12,
+  },
+  themeOptionLabel: {
+    fontSize: 15,
   },
 });
