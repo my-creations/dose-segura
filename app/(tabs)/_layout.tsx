@@ -1,13 +1,14 @@
 import { Ionicons } from '@expo/vector-icons';
 import { Tabs } from 'expo-router';
 import React from 'react';
+import { Platform } from 'react-native';
 
 import { Colors } from '@/constants/Colors';
 import { useColorScheme } from '@/hooks/useColorScheme';
 import i18n from '@/utils/i18n';
 
 function TabBarIcon(props: { name: React.ComponentProps<typeof Ionicons>['name']; color: string }) {
-  return <Ionicons size={24} style={{ marginBottom: -3 }} {...props} />;
+  return <Ionicons size={24} style={{ marginBottom: 0 }} {...props} />;
 }
 
 export default function TabLayout() {
@@ -23,6 +24,9 @@ export default function TabLayout() {
           backgroundColor: colors.cardBackground,
           borderTopColor: colors.lavender,
           borderTopWidth: 1,
+          height: Platform.OS === 'ios' ? 90 : 70,
+          paddingBottom: Platform.OS === 'ios' ? 30 : 10,
+          paddingTop: 8,
         },
         tabBarLabelStyle: {
           fontFamily: 'Quicksand_500Medium',

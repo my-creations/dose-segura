@@ -20,11 +20,12 @@ export function SearchBar({ value, onChangeText, placeholder = i18n.t('home.sear
     <View style={[styles.container, { backgroundColor: colors.cardBackground, borderColor: colors.lavender }]}>
       <Ionicons name="search" size={20} color={colors.tint} style={styles.icon} />
       <TextInput
-        style={[styles.input, { color: colors.text }]}
+        style={[styles.input, { color: colors.text, backgroundColor: 'transparent' }]}
         value={value}
         onChangeText={onChangeText}
         placeholder={placeholder}
         placeholderTextColor={colors.icon}
+        selectionColor={colors.tint}
         autoCapitalize="none"
         autoCorrect={false}
         clearButtonMode="while-editing"

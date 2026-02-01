@@ -144,7 +144,7 @@ eas build --platform android
 
 ## ⚠️ Aviso Importante
 
-Esta aplicação é apenas uma ferramenta de apoio e referência. **Verifique sempre** as informações com a farmácia hospitalar e siga os protocolos da sua instituição antes de administrar qualquer medicamento.
+Esta aplicação é apenas uma ferramenta de apoio e referência. **Verifique sempre** as informações com a farmácia hospitalar e siga os protocolos da sua instituição antes de administrar qualquer medicamento
 
 ## 📄 Licença
 

@@ -3,7 +3,7 @@ export const Strings = {
     common: {
       loading: 'A carregar...',
       version: 'Versão {{version}} • Atualizado em {{date}}',
-      disclaimer: 'Para referência apenas. Verificar sempre com a farmácia.',
+      disclaimer: 'Para referência apenas. Verificar sempre com a farmácia',
       back: 'Voltar',
       highRisk: 'Alto Risco',
       medicationNotFound: 'Medicamento não encontrado',
@@ -40,11 +40,11 @@ export const Strings = {
         mode: 'Modo',
         offlineMode: '100% Offline',
       },
-      aboutText: 'Dose Segura é uma aplicação de referência para auxiliar profissionais de saúde na administração de medicamentos.',
-      warningText: 'Esta aplicação é apenas para referência. Verifique sempre a informação com fontes oficiais e a farmácia antes de administrar qualquer medicamento.',
+      aboutText: 'Dose Segura é uma aplicação de referência para auxiliar profissionais de saúde na administração de medicamentos',
+      warningText: 'Esta aplicação é apenas para referência. Verifique sempre a informação com fontes oficiais e a farmácia antes de administrar qualquer medicamento',
     },
     medication: {
-      disclaimer: '⚠️ Esta informação é apenas para referência. Verifique sempre com a farmácia antes de administrar.',
+      disclaimer: '⚠️ Esta informação é apenas para referência. Verifique sempre com a farmácia antes de administrar',
       sections: {
         classification: 'Classificação',
         compatibility: 'Compatibilidade',
