@@ -43,3 +43,6 @@ yarn-error.*
 # Editor settings
 .zed/
 .claude/
+
+# Medication images
+medication-images
