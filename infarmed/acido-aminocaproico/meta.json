@@ -1,0 +1,31 @@
+{
+  "medId": "acido-aminocaproico",
+  "searchTerm": "Ácido aminocapróico",
+  "retrievedAt": "2026-02-07T23:36:23Z",
+  "bestMatch": {
+    "infarmedId": "3047",
+    "name": "Epsicaprom 25",
+    "dci": "Ácido aminocapróico",
+    "form": "Solução para perfusão",
+    "dosage": "2500 mg/10 ml",
+    "holder": "Laboratórios Basi - Indústria Farmacêutica, S.A",
+    "isGeneric": false,
+    "score": null
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "/Users/pedrorobalo/Documents/Personal/dose-segura/infarmed/acido-aminocaproico/rcm/3047-rcm.pdf",
+      "size": 53743
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "/Users/pedrorobalo/Documents/Personal/dose-segura/infarmed/acido-aminocaproico/fi/3047-fi.pdf",
+      "size": 38030
+    }
+  }
+}

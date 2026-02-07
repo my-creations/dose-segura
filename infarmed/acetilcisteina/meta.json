@@ -1,0 +1,31 @@
+{
+  "medId": "acetilcisteina",
+  "searchTerm": "Acetilcisteína",
+  "retrievedAt": "2026-02-07T23:05:41Z",
+  "bestMatch": {
+    "infarmedId": "40083",
+    "name": "Acetilcisteína Sandoz MG",
+    "dci": "Acetilcisteína",
+    "form": "Solução injetável",
+    "dosage": "300 mg/3 ml",
+    "holder": "Sandoz Farmacêutica, Lda.",
+    "isGeneric": true,
+    "score": 124.69999999999999
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "/Users/pedrorobalo/Documents/Personal/dose-segura/infarmed/acetilcisteina/rcm/40083-rcm.pdf",
+      "size": 20733
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "/Users/pedrorobalo/Documents/Personal/dose-segura/infarmed/acetilcisteina/fi/40083-fi.pdf",
+      "size": 18872
+    }
+  }
+}

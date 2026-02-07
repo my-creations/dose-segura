@@ -1,0 +1,31 @@
+{
+  "medId": "acetilsalicilato-de-lisina",
+  "searchTerm": "Acetilsalicilato de lisina",
+  "retrievedAt": "2026-02-07T23:14:48Z",
+  "bestMatch": {
+    "infarmedId": "9694",
+    "name": "Aspegic",
+    "dci": "Acetilsalicilato de lisina",
+    "form": "Pó para solução injetável",
+    "dosage": "1800 mg",
+    "holder": "Sanofi - Produtos Farmacêuticos, Lda.",
+    "isGeneric": false,
+    "score": null
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "/Users/pedrorobalo/Documents/Personal/dose-segura/infarmed/acetilsalicilato-de-lisina/rcm/9694-rcm.pdf",
+      "size": 65383
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "/Users/pedrorobalo/Documents/Personal/dose-segura/infarmed/acetilsalicilato-de-lisina/fi/9694-fi.pdf",
+      "size": 63979
+    }
+  }
+}

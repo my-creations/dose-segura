@@ -1,0 +1,887 @@
+                                                                         APROVADO EM
+                                                                         19-09-2024
+                                                                         INFARMED
+
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+
+1.NOME DO MEDICAMENTO
+
+Propofol Baxter 10 mg/ml emulsão injetável ou para perfusão
+
+
+2.COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada ml de emulsão injetável ou para perfusão contém 10 mg de propofol
+Cada frasco para injetáveis de 20 ml contém 200 mg de propofol
+Cada frasco para injetáveis de 50 ml contém 500 mg de propofol
+Cada frasco para injetáveis de 100 ml contém 1000 mg de propofol
+
+Excipientes com efeito conhecido:
+Cada ml de emulsão injetável ou para perfusão contém 50 mg de óleo de soja refinado
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+3.FORMA FARMACÊUTICA
+
+Emulsão injetável ou para perfusão.
+Emulsão óleo em água, branca.
+
+Osmolaridade: 250 a 390 mOsm/kg
+
+pH entre 6,00 e 8,50
+
+
+4.INFORMAÇÕES CLÍNICAS
+
+4.1 Indicações terapêuticas
+
+Propofol Baxter é um anestésico geral intravenoso de acção curta para:
+
+- indução e manutenção de anestesia geral em adultos e crianças com idade superior a 1
+mês.
+- sedação de doentes ventilados com idade superior a 16 anos em cuidados intensivos.
+- sedação de adultos ou crianças com idade superior a 1 mês para procedimentos
+cirúrgicos e de diagnóstico, isoladamente ou em associação com anestesia local ou
+regional.
+
+4.2 Posologia e modo de administração
+                                                                      APROVADO EM
+                                                                      19-09-2024
+                                                                      INFARMED
+
+
+Propofol Baxter só pode ser administrado por médicos com formação em anestesiologia
+ou cuidados intensivos. A sedação ou anestesia com Propofol Baxter e o procedimento
+cirúrgico ou de diagnóstico não podem ser efetuados pela mesma pessoa.
+As funções cardíaca, circulatória e respiratória devem ser monitorizadas continuamente
+(por exemplo, ECG, oximetria de pulso). O equipamento habitual para potenciais
+acidentes durante a anestesia ou a sedação deve estar pronto a utilizar a qualquer
+momento.
+
+A dosagem deve ser ajustada individualmente, tendo em consideração a pré-medicação e
+a reação do doente.
+
+Normalmente, a administração adicional de analgésicos é necessária.
+
+Posologia
+
+Anestesia para adultos:
+
+Indução de anestesia
+Para a indução da anestesia, Propofol Baxter é administrado titulado a uma velocidade de
+20 – 40 mg de propofol a cada 10 segundos, até ocorrer a inconsciência.
+
+A maioria dos adultos com idade inferior a 55 anos necessita geralmente de 1,5 a 2,5 mg
+de propofol/kg de peso corporal.
+
+Para doentes nos grupos de risco III e IV da ASA (American Society of
+Anesthesiologists), sobretudo no caso de doentes idosos e com lesões cardíacas
+anteriores, pode ser necessário reduzir a dosagem total de Propofol Baxter para 1 mg de
+propofol/kg de massa corporal, sendo o Propofol Baxter administrado a uma velocidade
+de perfusão mais baixa (aproximadamente 20 mg de propofol a cada 10 segundos).
+
+Manutenção da anestesia
+A anestesia pode ser mantida com uma perfusão contínua ou injeções repetidas de
+bólusde Propofol Baxter.
+
+Perfusão contínua
+Para a manutenção de anestesia por meio de pefusão contínua, a dosagem e a velocidade
+de perfusão têm de ser ajustadas individualmente. Normalmente a dosagem é de 4-12 mg
+de propofol/kg de massa corporal por hora, para manter um nível de anestesia
+satisfatório.
+
+No caso de doentes idosos, em mau estado geral de saúde ou com hipovolémia, bem
+como para doentes nos grupos de risco III e IV da ASA (American Society of
+Anesthesiologists), a dosagem de Propofol Baxter pode ser reduzida para 4 mg de
+Propofol/kg de massa corporal por hora.
+                                                                     APROVADO EM
+                                                                     19-09-2024
+                                                                     INFARMED
+
+
+Injeção repetida de bólus
+Para a manutenção da anestesia por meio de injeção repetida debólus, são geralmente
+injetados subsequentemente 25 – 50 mg de propofol (2,5 - 5 ml Propofol Baxter).
+
+Anestesia geral em crianças com idade superior a 1 mês:
+
+Indução de anestesia
+Para a indução da anestesia, Propofol Baxter é titulado lentamente até se iniciarem os
+primeiros sinais clínicos de anestesia. A dose deve ser ajustada com base na idade e/ou
+peso corporal. A maioria das crianças com idade superior a 8 anos necessita
+aproximadamente de 2,5 mg de Propofol/kg de massa corporal para a indução da
+anestesia. No caso de crianças mais novas, especialmente no grupo etário entre 1 mês e
+3 anos, a dose necessária pode ser superior (2,5 - 4 mg de Propofol/kg de massa
+corporal). São recomendadas doses mais baixas para doentes nos grupos de risco III e IV
+da ASA (American Society of Anesthesiologists) (ver secção 4.4).
+
+Manutenção da anestesia
+A manutenção da profundidade de anestesia necessária pode ser conseguida com a
+administração de Propofol Baxter por perfusão ou administração repetida de bólus. A
+dosagem necessária varia consideravelmente entre os doentes, no entanto normalmente
+pode ser obtido um estado de anestesia satisfatório com doses entre 9 – 15 mg/kg de
+massa corporal por hora. No caso de crianças mais novas, especialmente no grupo etário
+entre 1 mês e 3 anos, a dose necessária pode ser superior.
+
+São recomendadas doses mais baixas para doentes nos grupos de risco III e IV da ASA
+(American Society of Anesthesiologists) (ver secção 4.4).
+
+Sedação de doentes com idade superior a 16 anos em cuidados intensivos
+Para a sedação de doentes ventilados em cuidados intensivos, Propofol Baxter deve ser
+administrado por perfusão contínua. A dosagem deve ser ajustada de acordo com a
+profundidade de sedação pretendida. Normalmente podem ser obtidas as profundidades
+de sedação pretendidas com doses entre 0,3 - 4,0 mg de propofol/kg (peso corporal)/h.
+Não são recomendadas taxas de perfusão superiores a 4,0 mg de propofol/kg de massa
+corporal por hora (ver secção 4.4).
+
+Propofol Baxter não pode ser utilizado para a sedação de crianças com idade igual ou
+inferior a 16 anos em cuidados intensivos.
+
+A administração de Propofol Baxter através de um sistema TCI (perfusão alvo-
+dependente) não é recomendada para a sedação em cuidados intensivos.
+
+Sedação de adultos para procedimentos cirúrgicos e de diagnóstico
+Durante a administração de Propofol Baxter, o doente tem de ser continuamente
+monitorizado quanto a sinais de descida da pressão arterial, de obstrução do trato
+                                                                      APROVADO EM
+                                                                      19-09-2024
+                                                                      INFARMED
+
+respiratório e de deficiência de oxigénio, e o equipamento de emergência habitual para
+acidentes deve estar pronto a utilizar.
+Para a indução da anestesia, geralmente é administrado 0,5 – 1 mg de propofol/kg de
+massa corporal durante 1 - 5. Para a manutenção da anestesia, a dosagem é determinada
+com base na profundidade de sedação pretendida e corresponde geralmente ao intervalo
+entre 1,5 – 4,5 mg de propofol/kg de massa corporal por hora.
+Além da perfusão, podem ser injetados 10 – 20 mg como bólus, caso seja necessário um
+aumento rápido do nível de profundidade da sedação.
+
+Pode ser necessária uma dosagem mais baixa e uma administração mais lenta em doentes
+nos grupos de risco III e IV da ASA. Também pode ser necessária uma dosagem mais
+baixa em doentes com idade superior a 55 anos.
+Nota
+No caso de doentes idosos são necessárias doses mais pequenas para indução da anestesia
+com Propofol Baxter. O estado geral de saúde e a idade do doente devem ser tomados em
+consideração. A dose reduzida deve ser administrada mais lentamente e titulada de
+acordo com a reação.
+
+Mesmo ao utilizar Propofol Baxter para manutenção da anestesia e para sedação, a
+velocidade de perfusão e a concentração de Propofol no corpo sangue devem ser
+reduzidas.
+
+É necessária uma redução adicional da dosagem e da velocidade de perfusão em doentes
+nos grupos de risco III e IV da ASA. Não devem ser administradas quaisquer injeções de
+bólus (individuais ou múltiplos) a doentes idosos, visto poderem provocar depressão
+circulatória e respiratória.
+
+Sedação de crianças com idade superior a 1 mês para procedimentos cirúrgicos e de
+diagnóstico
+A dosagem e os períodos entre doses são selecionados com base na profundidade de
+sedação pretendida e na resposta clínica. Para a indução da sedação é necessária uma
+dose de 1 – 2 mg/kg de peso corporal para a maior parte dos doentes pediátricos. A
+manutenção da sedação é obtida com a titulação de Propofol Baxter através de uma
+perfusão até ser alcançada a profundidade sedação pretendida. Para a maioria dos doentes
+é necessário 1,5 – 9 mg de Propofol/kg de massa corporal por hora. A perfusão pode ser
+suplementada com a administração de bólus até 1 mg de Propofol/kg de massa corporal,
+caso seja necessário um aumento rápido da profundidade da sedação.
+
+Podem ser necessárias doses mais reduzidas para doentes nos grupos de risco III e IV da
+ASA.
+Propofol Baxter não pode ser utilizado para a sedação de crianças com idade igual ou
+inferior a 16 anos em cuidados intensivos.
+
+Modo de administração
+                                                                         APROVADO EM
+                                                                         19-09-2024
+                                                                         INFARMED
+
+Antes da utilização, a rolha de borracha tem de ser limpa por meio de pulverização com
+álcool ou com uma compressa mergulhada em álcool. Os recipientes abertos devem ser
+destruídos após a utilização. Propofol Baxter é administrado por via intravenosa, quer não
+diluído através de seringas de plástico ou frascos de vidro, ou como mistura com uma
+solução de glucose a 5% em sacos de PVC ou frascos para injetáveis de vidro.
+
+Propofol Baxter não contém conservantes anti-microbianos e o crescimento de
+microrganismos é facilitado pela sua composição.
+
+A emulsão tem de ser aspirada para uma seringa estéril ou um dispositivo de
+administração estéril em condições assépticas imediatamente após a abertura do selo do
+frasco para injetáveis. A administração tem de ser iniciada imediatamente.
+
+tem de ser assegurada uma assepsia estrita, tanto para Propofol Baxter, como para o
+equipamento de perfusão utilizado durante o período de perfusão. A adição de fármacos
+ou fluidos durante a perfusão de Propofol Baxter deve ser feita perto do local de inserção
+do cateter.
+
+Ao utilizar Propofol Baxter não podem ser utilizados filtros de bactérias.
+
+O conteúdo de um frasco para injetáveis e o respetivo sistema de perfusão destinam-se
+apenas a uma única utilização num único doente.
+
+Perfusão de Propofol Baxter não diluído:
+Deve ser utilizada uma bomba de perfusão ou uma bomba volumétrica para a perfusão de
+Propofol Baxter não diluído.
+
+A duração de uma perfusão de Propofol Baxter através de um sistema de perfusão não
+pode exceder 12 horas, como é habitual para emulsões lipídicas. No fim da perfusão, mas
+decorrido o prazo máximo de 12 horas, não podem ser utilizadas quaisquer quantidades
+residuais de Propofol Baxter, nem o sistema de perfusão; caso necessário, o sistema de
+perfusão terá de ser substituído.
+
+Perfusão de Propofol Baxter diluído:
+A perfusão de Propofol Baxter diluído tem de ocorrer por meio de um sistema de
+perfusão controlável (bureta ou bomba volumétrica), para prevenir a administração
+acidental de quantidades maiores de Propofol Baxter.
+
+Este medicamento não deve ser misturado com outros medicamentos excepto os
+mencionados na secção 6.6.
+
+A diluição máxima não pode exceder 1 parte de Propofol Baxter em 4 partes de solução
+injetável de glucose 50 mg/ml (5%), solução injetável de cloreto de sódio 9 mg/ml (0,9%)
+ou solução injetável de cloreto de sódio 1,8 mg/ml (0,18 mg/ml) e glucose 40 mg/ml
+(4%) (concentração mínima 2 mg de propofol/ml). A mistura deve ser preparada de
+                                                                     APROVADO EM
+                                                                     19-09-2024
+                                                                     INFARMED
+
+forma asséptica (preservando as condições controlas e validadas) imediatamente antes da
+administração e tem de ser administrada dentro de 12h após a preparação.
+
+Condições de conservação do medicamento após a diluição, ver secção 6.3.
+
+Os relaxantes musculares atracúrio e mivacúrio não devem ser administrados através do
+mesmo acesso intravenoso que o Propofol Baxter sem o enxaguar primeiro.
+
+Os frascos para injetáveis devem ser agitados antes de utilizar.
+
+Duração da administração:
+
+Propofol Baxter apenas pode ser utilizado num doente por um máximo de 7 dias.
+
+4.3 Contraindicações
+
+Não utilizar Propofol Baxter:
+- Em caso de hipersensibilidade à substância ativa, soja, amendoim ou a qualquer um dos
+componentes da emulsão mencionados na secção 6.1
+- Para sedação de doentes com idade igual ou inferior a 16 anos em cuidados intensivos
+(ver secção 4.4).
+
+4.4 Advertências e precauções especiais de utilização
+
+Durante a utilização de Propofol Baxter para sedação para procedimentos cirúrgicos e de
+diagnóstico, o doente tem de ser continuamente monitorizado quanto aos primeiros sinais
+de descida da pressão arterial, de obstrução do trato respiratório e de deficiência de
+oxigénio.
+
+Tal como acontece com outros sedativos, podem ocorrer movimentos espontâneos do
+doente durante procedimentos cirúrgicos durante a utilização de Propofol Baxter para
+sedação. Em procedimentos que exijam a imobilidade do doente, esses movimentos
+podem comprometer o sucesso da operação.
+
+Foi notificada má utilização e dependência de Propofol, principalmente entre pessoal de
+cuidados de saúde. Como acontece com todos os medicamentos para anestesia geral, este
+medicamento não pode ser utilizado sem garantir uma via aérea; caso contrário existe o
+risco de complicações respiratórias fatais.
+Após a utilização de Propofol Baxter deve assegurar-se que o doente recuperou
+completamente da anestesia antes de lhe ser dada alta.
+
+Em casos individuais, pode ocorrer uma fase de inconsciência pós-operatória com a
+utilização de Propofol Baxter, a qual pode ser acompanhada por hipertonia muscular.
+Esta ocorrência depende se o doente estava ou não desperto anteriormente. Embora o
+                                                                        APROVADO EM
+                                                                        19-09-2024
+                                                                        INFARMED
+
+doente recupere espontaneamente a consciência, um doente inconsciente deve ser
+mantido sob observação intensiva.
+
+A diminuição de capacidades provocada pelo Propofol Baxter geralmente não é
+observada por um período superior a 12 horas. Ao explicar o efeito de Propofol Baxter ao
+doente e ao fazer as recomendações seguintes, o médico deve ter em consideração o tipo
+de procedimento, a medicação concomitante, a idade e o estado do doente.
+O doente apenas deve regressar a casa quando acompanhado por outra pessoa.
+O doente deve ser informado de quando pode voltar a executar atividades manuais ou
+atividades que requeiram destreza ou constituam um risco (por ex., operar um veículo a
+motor).
+O doente deve ser informado de que tomar outros sedativos (por ex., benzodiazepinas,
+opiáceos, álcool) pode prolongar e agravar a diminuição de capacidades.
+
+Tal como acontece com outros anestésicos intravenosos, Propofol Baxter deve ser
+administrado mais lentamente do que o habitual e utilizado com particular cuidado em
+doentes com afeções cardíacas, respiratórias, renais e hepáticas, hipovolemia ou que se
+encontrem num estado geral de saúde debilitado (ver secção 4.2).
+
+As insuficiências cardíacas, circulatórias e respiratórias, bem como a hipovolemia, devem
+ser compensadas antes da administração do fármaco, se possível.
+
+No caso de doentes com lesões cardíacas graves, Propofol Baxter tem de ser administrado
+com a precaução adequada e em combinação com monitorização intensiva.
+
+Uma descida acentuada da pressão arterial pode requerer a administração de soluções de
+reposição de volume, possivelmente de vasoconstritores, e a administração mais lenta de
+Propofol Baxter. A possibilidade de uma descida massiva da pressão arterial deve ser tida
+em consideração para doentes com perfusão coronária ou cerebral reduzida, ou com
+hipovolemia. A depuração de Propofol depende do fluxo sanguíneo. Por este motivo, se
+forem utilizados simultaneamente fármacos que reduzam o débito cardíaco, a depuração
+de Propofol será também reduzida.
+
+Propofol não tem efeito vagolítico. A utilização foi associada à ocorrência de bradicardia,
+ocasionalmente com resultados graves (paragem cardíaca). Por esse motivo, em situações
+de elevado tónus vagal pré-existente ou em que Propofol Baxter seja administrado em
+conjunto com outros fármacos que possam diminuir a frequência cardíaca, deve ser
+ponderada a administração intravenosa de um agente anticolinérgico antes ou durante a
+anestesia com Propofol Baxter.
+
+Ao utilizar Propofol Baxter em pessoas com epilepsia, é possível que seja desencadeado
+um ataque epilético.
+
+Antes da utilização repetida ou prolongada (> 3 horas) de Propofol em crianças pequenas
+(com idade < 3 anos) e grávidas, os benefícios e riscos do procedimento previsto devem
+                                                                      APROVADO EM
+                                                                      19-09-2024
+                                                                      INFARMED
+
+ser tidos em consideração, visto existirem relatórios de neurotoxicidade em estudos pré-
+clínicos; ver secção 5.3.
+
+População pediátrica
+
+A utilização de Propofol Baxter em recém-nascidos não é recomendada, visto este grupo
+de doentes não ter sido suficientemente avaliado. Os dados farmacocinéticos (ver
+secção 5.2) indicam que a depuração de Propofol é consideravelmente reduzida em
+recém-nascidos e varia amplamente em cada caso individual. Em caso de utilização de
+doses que sejam recomendadas para crianças mais velhas, pode ocorrer uma
+sobredosagem e conduzir a depressão circulatória e respiratória grave (ver secção 4.8).
+
+Propofol não pode ser utilizado para sedação em doentes com idade igual ou inferior a
+16 anos em cuidados intensivos, pois não foi validada a segurança e eficácia de Propofol
+para sedação neste grupo etário (ver secção 4.3).
+
+Notas relativas a cuidados médicos intensivos
+
+A utilização de perfusões com Propofol emulsão para sedação no âmbito de cuidados
+intensivos é associada a uma série de perturbações metabólicas e insuficiência de órgãos
+que podem provocar a morte.
+
+Além disso, foi também notificada a ocorrência combinada dos seguintes efeitos
+indesejáveis: acidose metabólica, rabdomiólise, hipercalemia, hepatomegalia,
+insuficiência renal, hiperlipidemia, arritmia cardíaca, ECG com padrão de Brugada
+(elevações do segmento ST em forma de sela ou tenda nos elétrodos precordiais direitos
+[V1-V3] e ondas T côncavas) e/ou insuficiência cardíaca de progressão rápida, que
+geralmente não é possível tratar com medidas terapêuticas inotrópicas de apoio.
+
+A combinação destes eventos também é designada por "Síndrome de perfusão de
+propofol".
+
+ Estes eventos foram observados com maior frequência em doentes com lesões graves na
+cabeça e em crianças com infeções do trato respiratório, que receberam doses mais altas
+do que o previsto para adultos para efeitos de sedação em cuidados intensivos.
+
+Crê-se que os seguintes fatores constituem fatores de risco significativos para o
+desenvolvimento desta complicação:
+Saturação de oxigénio baixa nos tecidos, lesões neurológicas graves e/ou sépsis; doses
+altas de um ou mais dos fármacos seguintes: vasoconstritores, esteroides, agentes
+inotrópicos e/ou Propofol (geralmente em doses > 4 mg Propofol/kg de massa corporal
+por hora durante mais de 48 horas).
+
+O médico responsável pela prescrição deve ter presentes estes potenciais efeitos
+indesejáveis em doentes com os fatores de risco descritos acima e interromper
+                                                                      APROVADO EM
+                                                                      19-09-2024
+                                                                      INFARMED
+
+imediatamente a utilização de propofol caso ocorram sinais dos sintomas descritos acima.
+Todos os sedativos e fármacos utilizados em cuidados intensivos devem ser titulados de
+modo a garantir o abastecimento ótimo de oxigénio e que os parâmetros hemodinâmicos
+permanecem otimizados. No caso de serem efetuadas estas alterações na terapia, doentes
+com pressão intracraniana elevada devem receber um tratamento adequado, que apoie a
+perfusão cerebral. O médico responsável deve certificar-se que a dose recomendada de 4
+mg de Propofol/kg de massa corporal por hora não é excedida, dentro dos limites do
+possível.
+
+Deve tomar-se especial atenção a alterações do metabolismo dos lípidos, ou outras
+doenças em resu resultado das quais emulsões que contêm lípidos devem ser utilizadas
+com precaução.
+
+É recomendada uma verificação dos parâmetros do metabolismo dos lípidos se Propofol
+Baxter for utilizado em doentes em que haja a suspeita de níveis elevados de lípidos no
+sangue. A administração de Propofol Baxter deve ser ajustada em conformidade, caso a
+análise indique uma alteração do metabolismo dos lípidos. No caso de doentes que
+estejam a receber simultaneamente nutrição parenteralparentérica, a quantidade de lípidos
+administrados em resultado do Propofol Baxter deve ser tida em consideração. 1,0 ml de
+Propofol Baxter contém 0,1 g de lípidos.
+
+Precauções adicionais
+
+Doentes com afeções mitocondriais devem ser tratados com precaução. Estes doentes
+podem experimentar uma exacerbação da sua doença caso lhes seja dada anestesia ou
+sejam sujeitos a um procedimento cirúrgico ou a tratamento de cuidados intensivos.
+Recomenda-se que seja mantida uma temperatura corporal normal nestes doentes, que
+sejam administrados hidratos de carbono e que lhes sejam fornecidos líquidos fluidos
+suficientes. Os sinais precoces de uma exacerbação da afeção mitocondrial e da síndrome
+de infusão perfusão de propofol podem ser similares.
+
+Propofol Baxter não contém qualquer meio de preservaçãoconservantes antimicrobianos
+e o crescimento de microrganismos é facilitado pela sua composição.
+
+Se Propofol Baxter for administrado em combinação com lidocaína, deve notar-se que a
+lidocaína não pode ser administrada a doentes com porfiria aguda hereditária.
+
+Este medicamento contém menos de 1 mmol de sódio (23 mg) por frasco para injetáveis,
+pelo que pode considerar-se essencialmente "isento de sódio".
+
+4.5 Interações medicamentosas e outras formas de interação
+
+Propofol Baxter é compatível com outros agentes para anestesia (pré-medicaçãos, agentes
+inalados, anestesia, analgésicos, anestésicos locais). No caso de procedimentos de
+                                                                      APROVADO EM
+                                                                      19-09-2024
+                                                                      INFARMED
+
+anestesia regional podem ser necessárias doses mais pequenas de Propofol Baxter. Não
+foram observadas quaisquer indicações de interações graves.
+
+Alguns dos agentes mencionados podem diminuir a pressão arterial ou reduzir a
+capacidade respiratória, pelo que podem ocorrer efeitos cumulativos com a utilização de
+Propofol Baxter. Foi observada uma diminuição acentuada da pressão arterial durante a
+indução da anestesia com Propofol em doentes tratados com rifampicina.
+
+Caso tenham sido administrados adicionalmente opiáceos antes da anestesia, pode
+ocorrer apneia com mais frequência e por um período mais prolongado.
+
+Em doentes que tomam valproato foi observada a necessidade de doses mais baixas de
+Propofol. Em caso de utilização simultânea, pode ser ponderada uma redução da dose de
+propofol.
+
+4.6 Fertilidade, gravidez e aleitamento
+
+Gravidez
+A segurança de propofol durante a gravidez não foi demonstrada. Por este motivo,
+Propofol Baxter só deve ser utilizado durante a gravidez em caso de absoluta
+necessidade. Propofol Baxter atravessa a placenta e pode estar associado à depressão das
+funções vitais em recém-nascidos (ver também secção 5.3). Propofol pode ser utilizado
+como anestesia em caso de interrupção da gravidez.
+
+Doses altas (mais de 2,5 mg de Propofol/kg de massa corporal para indução ou de 6 mg
+de Propofol/kg de massa corporal por hora para manutenção da anestesia) devem ser
+evitadas.
+
+Os estudos em animais revelaram toxicidade reprodutiva (ver secção 5.3).
+
+Amamentação
+Estudos efetuados com mulheres a amamentar mostraram que propofol passa para o leite
+materno em pequenas quantidades. Por este motivo, as mães devem suspender a
+amamentação até 24 horas após a administração de propofol e eliminar o leite materno
+produzido ao longo desse período.
+
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Após a administração de Propofol Baxter o doente deve ser observado durante um
+período de tempo adequado. Os doentes devem ser informados que a capacidade para
+conduzir e utilizar máquinas pode ficar diminuída durante algum tempo após a
+administração de Propofol Baxter. A diminuição de capacidades provocada pelo Propofol
+Baxter geralmente não é observada por um período superior a 12 horas (ver secção 4.4).
+O doente apenas pode regressar a casa quando acompanhado por outra pessoa e não pode
+beber quaisquer bebidas alcoólicas.
+                                                                       APROVADO EM
+                                                                       19-09-2024
+                                                                       INFARMED
+
+
+4.8 Efeitos indesejáveis
+
+A indução e manutenção da anestesia, bem como a sedação com Propofol, são
+normalmente suaves, com apenas alguns sinais de excitação. Os efeitos indesejáveis
+observados com mais frequência são os efeitos farmacologicamente previsíveis de
+anestésicos / sedativos, como, por exemplo, hipotensão e depressão respiratória. O tipo,
+gravidade e frequência desses efeitos, que foram observados em doentes durante a
+utilização de Propofol, dependem do estado de saúde do doente, do tipo de procedimento
+e das medidas terapêuticas tomadas. A frequência da ocorrência de efeitos indesejáveis
+baseia-se nas seguintes categorias:
+
+Muito frequentes (≥1/10)
+Frequentes (≥1/100, <1/10)
+Pouco frequentes (≥1/1.000, <1/100)
+Raros (≥1/10.000, <1/1.000)
+Muito raros (<1/10.000)
+Desconhecido (não pode ser calculado a partir dos dados disponíveis)
+
+ Foram observados particularmente os seguintes efeitos indesejáveis:
+Classes de sistemas de Indicações           de Efeitos indesejáveis
+órgãos                   frequência
+Doenças    do    sistema Muito raros           reações alérgicas graves (anafilaxia), que
+imunitário                                     podem           incluir       angiedema,
+                                               broncoespasmo, eritemas e hipotensão
+
+
+Doenças do metabolismo Desconhecido            Acidose metabólica5,      hipercaliemia5,
+e da nutrição                                  hiperlipidemia5
+
+Perturbações     do      foro Desconhecido     humor eufórico durante a fase do
+psiquiátrico                                   despertar;  abuso    do fármaco e
+                                               dependência do fármaco8
+Doenças     do        sistema Frequentes       Movimentos espontâneos e espasmos
+nervoso                                        musculares durante a indução da
+                                               anestesia, cefaleias durante a fase do
+                                               despertar
+                             Raros             Sensação de tonturas, arrepios e perceção
+                                               de frio durante a fase do despertar,
+                                               episódios semelhantes a epilepsia, com
+                                               convulsões e opistótono durante a
+                                               indução, manutenção e a fase do despertar
+                                               (ocorrendo muito raramente com um
+                                               retardamento de algumas horas a alguns
+                                                                     APROVADO EM
+                                                                     19-09-2024
+                                                                     INFARMED
+
+                                              dias)
+
+
+
+
+                           Muito raros        inconsciência pós-operatória (ver também
+                                              secção 4.4)
+
+                           Desconhecido       Movimentos involuntários
+
+Cardiopatias               Frequentes         Bradicardia1
+
+                           Muito raros        Edema pulmonar
+
+                           Desconhecido       Arritmia5, insuficiência cardíaca 5,7
+
+Vasculopatias              Frequentes         Hipotensão2
+
+                           Pouco frequentes   Trombose e flebite
+
+Doenças       respiratórias, Frequentes       Hiperventilação e tosse durante a indução
+torácicas e do mediastino                     da anestesia, apneia temporária durante a
+                                              indução da anestesia
+                           Pouco frequentes   Tosse durante a manutenção da terapia
+                           Raros              Tosse durante a fase do despertar
+
+                           Desconhecido       Depressão respiratória (dependendo da
+                                              dosagem)
+Doenças gastrointestinais Frequentes          Soluços durante a indução, náuseas e
+                                              vómitos durante a fase do despertar
+                           Muito raros        Pancreatite
+
+Afeções hepatobiliares     Desconhecido       Hepatomegalia5
+                                              Hepatite, insuficiência hepática aguda10
+Afeções                  Desconhecido         Rabdomiólise 3,5
+musculosqueléticas e dos
+tecidos conjuntivos
+Doenças renais e urinárias Muito raros        Descoloração da urina após períodos
+                                              prolongados de administração de Propofol
+                                              Baxter
+                                                                       APROVADO EM
+                                                                       19-09-2024
+                                                                       INFARMED
+
+                         Desconhecido          Insuficiência renal5
+
+Doenças      dos   órgãosMuito raros           Desinibição sexual
+genitais e da mama       Desconhecido          Priapismo
+Perturbações gerais e Muito frequentes         Dor local durante a primeira injeção4
+alterações no local de
+administração          Frequentes              Afrontamentos durante a indução da
+                                               anestesia
+
+                         Muito raros           Reações graves dos tecidos e necrose dos
+                                               tecidos9 após aplicação extravascular
+                                               errónea
+                         Desconhecido          Dor local, tumefação após aplicação
+                                               extravascular errónea
+Exames complementares Desconhecido             ECG com padrão de Brugada5,6
+de diagnóstico
+Complicações           de Muito raros          Febre pós-operatória
+intervenções relacionadas
+com lesões e intoxicações
+
+
+Após a administração simultânea de lidocaína, podem ocorrer os seguintes efeitos
+indesejáveis: tonturas, vómitos, sonolência, convulsões, bradicardia, arritmia e choque.
+
+Muito raramente, o óleo de soja pode despoletar reações alérgicas.
+
+1        A bradicardia grave é rara; nalguns casos individuais foi comunicada reportada
+uma progressão até incluir assistolia.
+2        Ocasionalmente, uma diminuição da tensão pressão arterial pode tornar necessária
+uma terapia de reposição de volume e uma diminuição da velocidade de administração de
+Propofol Baxter.
+3        Rabdomiólise foi observada muito raramente, em caso de administração de
+Propofol Baxter em doses altas, como 4 mg de Propofol/kg de massa corporal por hora
+para sedação, em cuidados intensivos.
+4        Isto pode ser evitado na maioria dos casos através da administração simultânea de
+lidocaína e da administração do fármaco em veias maiores no antebraço ou na fossa
+cubital.
+5        Uma combinação destes eventos, que é também designada por "síndrome de
+infusão perfusão de propofol", ocorre em pacientes doentes gravesmente doentes, que
+têm frequentemente múltiplos fatores de risco para o desenvolvimento destes eventos
+(ver também secção 4.4).
+6        Síndroma de Brugada - elevações do segmento ST e ondas T côncavas no ECG.
+7        Insuficiência cardíaca de progressão rápida (nalguns casos com resultados fatais)
+em adultos, que geralmente não era é possível tratar com medidas terapêuticas
+inotrópicas de apoio.
+                                                                      APROVADO EM
+                                                                      19-09-2024
+                                                                      INFARMED
+
+8      Má utilização e dependência de Propofol, principalmente por pessoal de cuidados
+de saúde.
+9      Foi observada notificada necrose em casos nos quais a viabilidade dos tecidos foi
+afetada.
+10     Após tratamento de longo e curto prazo e em doentes sem fatores de risco
+subjacentes.
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-risco
+do medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas
+de reações adversas através de:
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+E-mail: farmacovigilancia@infarmed.pt
+
+4.9 Sobredosagem
+
+Uma sobredosagem pode levar a depressão circulatória e respiratória. A apneia requer
+ventilação artificial. Em caso de depressão circulatória, devem ser tomadas as medidas
+habituais de baixar a posição da cabeça ou/e administrar substitutos plasmáticos e
+vasoconstritores.
+
+
+5.PROPRIEDADES FARMACOLÓGICAS
+
+5.1 Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 2.1 – Sistema Nervoso Central. Anestésicos gerais
+Código ATC: NO1AX1O
+
+Após a injeção intravenosa de Propofol Baxter, ocorre rapidamente um efeito hipnótico.
+O tempo de indução depende da velocidade da injeção e corresponde normalmente a 30-
+40 segundos. A duração do efeito é breve, em resultado da metabolização e excreção
+rápidas (4 – 6 minutos). O mecanismo de ação não é completamente conhecido, como
+acontece com todos os anestésicos gerais. No entanto, crê-se que Propofol produz o seu
+efeito sedativo ou anestésico através da modulação positiva do efeito inibidor do
+neurotransmissor GABA através dos recetores GABAA ligantes.
+                                                                      APROVADO EM
+                                                                      19-09-2024
+                                                                      INFARMED
+
+
+Quando as orientações de dosagem são seguidas, pode excluir-se uma acumulação
+clinicamente relevante de propofol após perfusão ou múltiplas injeções repetidas.
+
+Estudos limitados sobre a duração da ação de anestesia com propofol em crianças
+indicam que a segurança e a eficácia permanecem inalteradas até uma duração de 4 horas.
+
+Referências na literatura relativas à utilização de Propofol em crianças também indicam
+que não há alterações relativamente à segurança e eficácia quando Propofol é utilizado
+com tratamentos prolongados.
+
+A maioria dos doentes acorda rapidamente, num estado claramente consciente.
+A bradicardia e queda da pressão arterial, observadas ocasionalmente ao induzir a
+anestesia, são provavelmente atribuíveis a um efeito vagotónico central a uma inibição da
+atividade do sistema nervoso simpático. A situação circulatória geralmente normaliza-se
+com a continuação da anestesia.
+
+5.2 Propriedades farmacocinéticas
+
+Propofol liga-se até 98% à proteína plasmática.
+
+Após a administração intravenosa, a progressão inicial da concentração sanguínea (fase
+alfa) é caracterizada por uma grande diminuição devido à distribuição rápida no
+organismo. A semivida da fase alfa é de 1,8 - 4,1 minutos.
+
+A diminuição da concentração sanguínea é mais lenta durante a fase de eliminação ou
+beta. A semivida para esta fase foi calculada em 34 a 64 minutos.
+Um compartimento profundo pode ser identificado ao longo de um período de
+observação prolongado. A semivida para esta fase (fase gama) da concentração sanguínea
+é de 184 – 382 minutos.
+
+O volume V de distribuição inicial corresponde a 22 – 76 l, e o volume de distribuição
+total Vdß é de 387 – 1.587 l.
+Propofol tem um volume de distribuição elevado e é rapidamente eliminado do corpo
+(depuração total: 1,5 - 2 l/min). A eliminação ocorre através da metabolização,
+principalmente no fígado, onde conjugados inativos de Propofol e a correspondente
+hidroquinona são formados dependendo do fluxo sanguíneo e sujeitos a excreção renal.
+
+Após uma única dose intravenosa de 3 mg de Propofol/kg, a depuração de Propofol por
+kg de peso corporal aumentou, dependendo da idade do doente, da seguinte maneira: a
+depuração média em recém-nascidos com idade < 1 mês (n=25), a 20 ml/kg/min foi
+consideravelmente mais baixa em comparação com crianças mais velhas (n=36, com
+idades entre 4 meses e 7 anos). No caso de recém-nascidos, os dados apresentam
+adicionalmente uma variabilidade considerável (3,7 – 78 ml/kg/min). Devido a estes
+                                                                     APROVADO EM
+                                                                     19-09-2024
+                                                                     INFARMED
+
+resultados de estudos limitados, que indicam um vasto grau de variabilidade, não pode
+ser fornecida uma recomendação de dosagem para este grupo etário.
+
+No caso de crianças mais velhas, a depuração média de Propofol após a administração de
+um único bólus de 3 mg de Propofol/kg foi de 37,5 ml/kg/min em crianças com idades
+entre 4 - 24 meses (n=8), 38,7 ml/kg/min em crianças com idades entre 11 - 43 meses
+(n=6), 48 ml/kg/min em crianças com idades entre 1 - 3 anos (n=12) e 28,2 ml/kg/min em
+crianças com idades entre 4 - 7 anos (n=10). Em comparação, a depuração média em
+adultos foi de 23,6 ml/kg/min (n=6).
+
+Propofol é predominantemente metabolizado no fígado. Glucuronidos do propofol e
+glucuronidos bem como conjugados de sulfato 2.6-diisopropil-1.4-quinol são encontrados
+como metabolitos. 40% da dose administrada está presente em forma de glucuronidos de
+Propofol. Todos os metabolitos são inativos. Aproximadamente 88% do Propofol
+administrado é excretado na urina na forma de metabolitos e aprox. 0,3% está presente
+inalterado nas fezes.
+
+Biodisponibilidade:
+Administração intravenosa: 100%
+
+5.3 Dados de segurança pré-clínica
+
+Toxicidade aguda
+LD50 intravenoso em ratinhos é de 53, e em ratos, de 42 mg de Propofol/kg de peso
+corporal.
+
+Toxicidade crónica
+Foram realizados ensaios de toxicidade crónica em ratos e cães. Doses de 10 - 30 mg de
+Propofol/kg de massa corporal foram administradas por perfusão diariamente ou 2-
+3 vezes por semana ao longo de um período até um mês. Não foram observadas
+indicações de efeitos tóxicos ou alterações patológicas.
+
+Efeito mutagénico
+Estudos in vitro em Salmonella thyphimurium (teste de Ames) e Saccharomyces
+cerevisiae, bem como estudos in vivo em ratinhos e hamsters chineses não apresentaram
+quaisquer indicações de efeito mutagénico.
+
+Toxicidade reprodutiva
+Propofol Baxter atravessa a placenta. Estudos de toxicologia embrionária em ratos e
+coelhos não produziram qualquer indicação de efeito teratogénico.
+
+Foram publicados estudos em animais (incluindo primatas), com doses resultantes em
+anestesia ligeira a moderada, que demonstraram que a utilização de agentes anestésicos
+durante o crescimento rápido do cérebro ou sinaptogénese resulta na perda de células no
+                                                                       APROVADO EM
+                                                                       19-09-2024
+                                                                       INFARMED
+
+cérebro em desenvolvimento, a qual pode ser associada a deficiências cognitivas
+prolongadas. Desconhece-se o significado clínico destas conclusões não clínicas.
+
+Propofol Baxter passe para o leite materno. Não existe experiência em humanos com a
+utilização durante a gravidez e o aleitamento.
+
+Carcinogenicidade
+Não foram realizados estudos de longo prazo acerca do potencial para causar tumores.
+
+
+6. INFORMAÇÕES FARMACÊUTICAS
+
+6.1 Lista dos excipientes
+
+- óleo de soja, refinado
+- triglicéridos de cadeia média
+- glicerol
+- lecitina de ovo
+- oleato de sódio
+- hidróxido de sódio (para ajuste do pH)
+- água para preparações injetáveis
+
+6.2.Incompatibilidades
+
+Este medicamento não pode ser misturado com outros medicamentos, excepto os
+mencionados na secção 6.6.
+
+Os relaxantes musculares atracúrio e mivacúrio não devem ser administrados através do
+mesmo acesso intravenoso que Propofol Baxter sem lavagem prévia (ver também secção
+4.2).
+
+6.3.Prazo de validade
+
+2 anos.
+Após primeira abertura: usar de imediato.
+
+A estabilidade química e física em utilização foi demonstrada para 12 horas a 25ºC.
+
+Prazo de validade após a diluição: A mistura deve ser preparada de forma assética
+(preservando as condições controladas e validadas) imediatamente antes da administração
+e tem de ser administrada no prazo de 12 horas após a preparação.
+
+6.4. Precauções especiais de conservação
+
+Conservar a temperatura inferior a de 25ºC.
+                                                                     APROVADO EM
+                                                                     19-09-2024
+                                                                     INFARMED
+
+Não congelar.
+
+6.5 Natureza e conteúdo do recipiente
+
+Frasco para injetáveis de vidro incolor (tipo II) de 20 ml com tampa de borracha
+bromobutílica cinzenta em embalagens de 1, 5 e 10 unidades.
+Frasco para injetáveis de vidro incolor (tipo II) de 50 ml com tampa de borracha
+bromobutílica cinzenta em embalagens de 1 e 10 unidades.
+Frasco para injetáveis de vidro incolor (tipo II) de 100 ml com tampa de borracha
+bromobutílica cinzenta em embalagens de 1e 10 unidades.
+
+É possível que não sejam comercializadas todas as apresentações.
+
+6.6. Precauções especiais de eliminação e manuseamento
+
+Destina-se a uma única utilização.
+Os recipientes devem ser agitados antes de utilizar.
+
+Propofol Baxter apenas deve ser misturado com os seguintes produtos: solução injetável
+de glucose a 50 mg/ml (5%), solução injetável de cloreto de sódio a 9 mg/ml (0,9%) ou
+solução injetável de cloreto de sódio a 1,8 mg/ml (0,18%) e glucose a 40 mg/ml (4%), e
+solução injetável de lidocaína sem conservantes a 10 mg/ml (1%) (ver secção 4.2 "Modo
+de administração e duração" "Perfusão de PropofolBaxter diluído. A concentração final
+de propofol não pode ser inferior a 2 mg/ml).
+
+É possível a coadministração de Propofol em conjunto com solução injetável de glucose a
+50 mg/ml (5%), solução injetável de cloreto de sódio a 9 mg/ml (0,9%) ou solução
+injetável de cloreto de sódio a 1,8 mg/ml (0,18%) e glucose a 40 mg/ml (4%) através de
+um conector em Y próximo do local de injeção.
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as
+exigências locais.
+
+
+7.TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Baxter Holding BV (NL)
+Kobaltweg 49
+3542CE Utrecht
+Holanda
+Baxter
+
+
+8.NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+                                                                      APROVADO EM
+                                                                      19-09-2024
+                                                                      INFARMED
+
+Nº de registo: 5390836 - Frasco para injetáveis, 20 ml, 5 unidades
+Nº de registo: 5390844 - Frasco para injetáveis, 50 ml, 1 unidade
+Nº de registo: 5390869 - Frasco para injetáveis, 50 ml, 10 unidades
+
+
+9.DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da Primeira Autorização de Introdução no Mercado: 21 de junho de 2011
+
+
+10.DATA DA REVISÃO DO TEXTO
+

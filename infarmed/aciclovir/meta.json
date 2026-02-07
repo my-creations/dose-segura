@@ -1,0 +1,31 @@
+{
+  "medId": "aciclovir",
+  "searchTerm": "Aciclovir",
+  "retrievedAt": "2026-02-07T23:29:14Z",
+  "bestMatch": {
+    "infarmedId": "41",
+    "name": "Aciclovax",
+    "dci": "Aciclovir",
+    "form": "Pó para solução para perfusão",
+    "dosage": "250 mg",
+    "holder": "Labesfal - Laboratórios Almiro, S.A.",
+    "isGeneric": false,
+    "score": null
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "/Users/pedrorobalo/Documents/Personal/dose-segura/infarmed/aciclovir/rcm/41-rcm.pdf",
+      "size": 31500
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "/Users/pedrorobalo/Documents/Personal/dose-segura/infarmed/aciclovir/fi/41-fi.pdf",
+      "size": 92477
+    }
+  }
+}

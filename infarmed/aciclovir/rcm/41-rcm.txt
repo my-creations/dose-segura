@@ -1,0 +1,279 @@
+Resumo das Características do Medicamento
+
+1.   NOME DO MEDICAMENTO
+
+     ACICLOVAX, 250mg, Pó para solução para perfusão
+
+
+2- COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+     Cada frasco para injetáveis contém:
+     Sal sódico de 9-(2-hidroxietoximetil) guanina ............. 274,5mg
+     (correspondente a 250mg de aciclovir)
+
+Excipientes com efeito conhecido
+Este medicamento contém 24,8 mg de sódio (sob a forma de aciclovir sódico e
+hidróxido de sódio), em cada frasco.
+
+Lista completa de excipientes, ver seção 6.1.
+
+
+     3- FORMA FARMACÊUTICA
+
+     Pó para solução para perfusão para administração por via intravenosa.
+
+4- INFORMAÇÕES CLÍNICAS:
+
+4.1 - Indicações terapêuticas:
+
+     O Aciclovax IV para perfusão está indicado para o tratamento das infeções por
+Herpes simplex, exceto herpes neonatal. Está também indicado para a profilaxia das
+infeções por Herpes simplex em doentes imunocomprometidos e no tratamento das
+infeções por varicela zoster.
+
+
+4.2 - Posologia e modo de administração:
+
+     A dose necessária de Aciclovax IV para perfusão deve ser administrada por
+perfusão intravenosa lenta durante um período de 1 hora.
+     A duração do tratamento é em regra de 5 dias, mas o período pode ser ajustado de
+acordo com a situação clínica e a resposta terapêutica. O tratamento da encefalite
+herpética é em regra de 10 dias.
+     A duração da administração profilática é determinada pela duração do período de
+risco.
+     Adultos:
+     Doentes com infeções provocadas por Herpes simplex (exceto encefalite
+herpética) ou varicela zoster: 5mg/kg de 8 em 8 horas.
+
+
+                                                                                   1
+     Doentes imunocomprometidos com infeções provocadas por varicela zoster ou
+doentes com encefalite herpética: 10mg/kg de 8 em 8 horas, se a função renal for
+normal.
+     Doente com insuficiência renal:
+     Aciclovax IV deve ser administrado com cautela. Sugerem-se os seguintes
+ajustamentos da dose:
+
+
+     Depuração de creatinina        Dose
+
+     25 - 50ml/min                  As doses recomendadas (5 ou
+                                    10mg/kg) devem ser administradas
+                                    de 12 em 12 horas.
+     10 - 25ml/min.                 As doses recomendadas (5 ou 10
+                                    mg/kg) devem ser administradas de
+                                    24 em 24 horas.
+     0 (anúria) - 10ml/min.         Em doentes a receber diálise
+                                    peritoneal contínua ambulatória, as
+                                    doses recomendadas (5 ou 10mg/kg)
+                                    devem ser reduzidas a metade e
+                                    administradas de 24 em 24 horas
+                                    depois da diálise.
+
+Em doentes obesos aos quais foi administrada uma dose intravenosa de aciclovir
+baseada no seu peso corporal real, podem obter-se concentrações plasmáticas
+superiores. Deste modo, deve considerar-se uma redução da dose em doentes obesos,
+especialmente naqueles com compromisso renal ou que sejam idosos.
+
+    Crianças:
+    A dosagem pode ser calculada em função da área corporal. Em crianças entre os 3
+meses e os 12 anos de idade, usando este método, consegue-se uma determinação da
+dose mais precisa. 5mg/kg é aproximadamente igual a 250mg/m2 de área corporal e
+10mg/kg equivale a cerca de 500mg/m2 de área corporal. A dose na criança deve,
+portanto, basear-se na dose equivalente ao adulto calculada de acordo com a área
+corporal da criança.
+
+
+    Idoso:
+    No idoso a depuração total do aciclovir decresce paralelamente à depuração da
+creatinina. Deve ser dada atenção especial no que respeita à redução da dose nos
+doentes idosos com depuração da creatinina alterada.
+
+     Cada ampola deve ser reconstituída adicionando 10ml de água para injetáveis ou
+10ml de soro fisiológico. Depois de reconstituído, o Aciclovax IV pode ser injetado
+diretamente numa veia durante 1 hora, usando uma perfusora a um ritmo controlado.
+
+
+                                                                                 2
+4.3 - Contraindicações:
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados
+na secção 6.1.
+
+
+4.4 -       Advertências e precauções especiais de utilização
+
+     O Aciclovax IV deve ser administrado com cuidado a pacientes com função renal
+alterada, para evitar o risco de acumulação do fármaco no organismo. Esta forma
+farmacêutica não deve ser administrada em bólus endovenoso, mas em perfusão lenta
+ao longo de 1 hora.
+     A solução reconstituída tem um pH próximo de 11 e não deve ser administrada
+“per os”.
+
+Sódio
+Este medicamento contém 24,8 mg de sódio por frasco de pó para solução para
+perfusão, equivalente a 1,24% da ingestão diária máxima recomendada pela OMS de
+2g de sódio para um adulto.
+
+
+4.5 - Interações medicamentosas e outras formas de interação
+
+    O probenecid aumenta a semi-vida média e a superfície sob a curva de
+concentração plasmática.
+    A administração concomitante de aciclovir e agentes antifúngicos conduz a uma
+potenciação do efeito antiviral do aciclovir contra vírus pseudorabies.
+    Não devem ser administrados conjuntamente aciclovir e interferon ou aciclovir e
+metotrexato a pacientes que tenham demonstrado reações neurológicas após a
+administração simples destes fármacos.
+    Não é conhecida qualquer interação do aciclovir com outros fármacos.
+
+
+4.6 - Fertilidade, gravidez e aleitamento
+
+    O aciclovir não se mostrou teratogénico durante as experiências com animais
+conduzidas segundo os padrões usuais. No entanto, a sua inocuidade não foi
+estabelecida na mulher grávida nem durante o aleitamento.
+
+
+4.7 - Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+    Não são conhecidos efeitos deste tipo.
+
+
+
+
+                                                                                 3
+4.8 - Efeitos indesejáveis:
+
+     - Reações raras no local da injeção: inflamação, dor. Em caso de injeção
+extravascular, estas reações podem ser mais dolorosas.
+     - Foram referidos alguns incidentes renais com aumento reversível da ureia e da
+creatinina no sangue, após administração muito rápida. Podem ser evitados
+respeitando as precauções de emprego e a velocidade de administração. Deve manter-
+se a hidratação adequada do doente.
+     - Reações neurológicas muito raras reversíveis com a paragem do tratamento
+(confusão, alucinações, agitação, tremor, sonolência, psicose e coma.
+     - Foram referidos casos de náuseas e vómitos após administração intravenosa de
+aciclovir.
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-
+risco do medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer
+suspeitas de reações adversas diretamente ao INFARMED, I.P.:
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+E-mail: farmacovigilancia@infarmed.pt
+
+
+4.9 - Sobredosagem
+
+    Foi descrito no insuficiente renal tratado com doses de aciclovir não adaptadas à
+função renal, alterações da consciência evoluindo para confusão mental com
+alucinações e coma. A evolução foi sempre favorável após paragem do tratamento e
+hemodiálise eventual. Por via intravenosa, a administração duma dose única de
+80mg/kg não provocou nenhum efeito indesejável.
+    O aciclovir é dialisável.
+
+
+5.   PROPRIEDADES FARMACOLÓGICAS:
+
+5.1 - Propriedades farmacodinâmicas:
+
+Classificação Farmacoterapêutica: 1.3.2 - Outros antivíricos.
+Código ATC: J05AB01 - aciclovir
+
+
+                                                                                   4
+     O aciclovir é um agente antiviral particularmente ativo contra vírus Herpes
+simplex tipos I e II, e também ativo contra o vírus varicela zoster. Apesar da sua
+elevada eficácia face aos vírus mencionados, a toxicidade para as células do
+hospedeiro é baixa.
+     O aciclovir é fosforilado no composto ativo trifosfato, após entrada nas células
+infetadas com o herpes. O primeiro passo deste processo está dependente da presença
+da enzima timidina quinase codificada pelo vírus. O trifosfato de aciclovir atua como
+inibidor e substrato da DNA-polimerase específica do vírus impedindo futuras sínteses
+de DNA viral, sem afectar o metabolismo normal da célula hospedeira.
+
+5.2 - Propriedades farmacocinéticas
+
+     O aciclovir não é absorvido em larga escala através do trato gastrointestinal, mas
+distribui-se largamente por todos os tecidos e fluídos corporais. Este fármaco é
+predominantemente eliminado por via renal, sendo o tempo de semi-vida num
+indivíduo com função renal normal de 2-3 horas. Em pacientes com insuficiência
+renal, o tempo de semi-vida aumenta podendo atingir 20 horas.
+     Consoante a idade do paciente, é o nível da função renal que determina o ajuste da
+dosagem.
+
+
+6- 6. INFORMAÇÕES FARMACÊUTICAS
+
+6.1.- Lista dos excipientes
+
+Hidróxido de sódio.
+
+
+    6.2.- Incompatibilidades
+
+    A experiência clínica não identificou incompatibilidades.
+
+6.3.- Prazo de validade
+
+    Aciclovax IV é estável durante 3 anos.
+    Aciclivax IV não tem qualquer conservante. A reconstituição e diluição deve, por
+conseguinte, efectuar-se antes da administração e qualquer solução não utilizada deve
+ser rejeitada. A solução reconstituída ou diluída não deve ser refrigerada. Quando
+reconstituído e diluído de acordo com as recomendações, a solução de perfusão é
+estável até 12 horas, a 20ºC.
+
+
+6.4.- Precauções especiais de conservação
+
+    Conservar a temperaturas inferiores a 25ºC.
+
+
+                                                                                     5
+6.5.- Natureza e conteúdo do recipiente
+
+    Frasco de vidro neutro e transparente com capacidade de 17ml, fechado com
+tampa de borracha e cápsula de alumínio inviolável, pó doseado a 250mg.
+
+6.6 Precauções especiais de eliminação e manuseamento
+
+Os medicamentos destinados a administração parentérica devem ser visualmente
+inspecionados antes da sua utilização. Só deverá ser administrado se a solução se
+encontrar límpida e sem partículas em suspensão.
+
+7.   TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+     LABESFAL - Laboratórios Almiro, S.A.
+     Zona Industrial do Lagedo
+     3465-157 Santiago de Besteiros
+     Portugal
+
+8.   NÚMEROS DE AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+N.º de registo: 4574695– 1 unidade, Frasco para injetáveis
+N.º de registo: 4574794– 3 unidades, Frascos para injetáveis
+N.º de registo: 2621993– 5 unidades, Frascos para injetáveis
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO
+DE INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 16 de fevereiro de 1998
+
+
+10. DATA DA REVISÃO DO TEXTO
+
+
+
+
+                                                                               6
+

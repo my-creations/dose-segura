@@ -35,6 +35,13 @@ npm run lint:meds  # Run ESLint on medication data
 npm run lint:meds:fix # Auto-fix ESLint issues in medication data
 ```
 
+### Data Extraction (Infarmed)
+```bash
+brew install poppler
+node scripts/extract-infarmed-med.js <medId>
+node scripts/parse-infarmed-text.js <medId> --best-match
+```
+
 ### Testing
 ```bash
 npm test           # Run Jest unit/integration tests
@@ -322,6 +329,8 @@ hooks/                # Custom React hooks
 types/                # TypeScript definitions
 constants/           # Colors and app constants
 data/                # Static JSON data
+infarmed/             # PDFs and extracted RCM/FI data
+scripts/              # Extraction and parsing scripts
 ```
 
 #### State Management

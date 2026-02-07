@@ -1,0 +1,380 @@
+                                                                     APROVADO EM
+                                                                      07-06-2023
+                                                                      INFARMED
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+1.NOME DO MEDICAMENTO
+EPSICAPROM 25, 2500 mg/10 ml, solução para perfusão
+2.COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+Ácido aminocapróico 2,50 g por ampola de 10 ml.
+Lista completa de excipientes, ver secção 6.1.
+3.FORMA FARMACÊUTICA
+Solução para perfusão.
+Solução límpida, incolor e inodora, contida em ampolas de vidro âmbar.
+4.INFORMAÇÕES CLÍNICAS
+4.1 Indicações terapêuticas
+O ácido aminocapróico é indicado para utilização em doentes de todas as idades na
+hemorragia causada por fibrinólise local ou generalizada, incluindo em:
+Hemorragias pós-cirúrgicas em:
+Urologia (cirurgia da bexiga e próstata)
+Ginecologia (cirurgia do colo cervical), em doentes quando o ácido tranexâmico não
+está disponível ou não é tolerado
+Obstetrícia (hemorragias pós-parto e pós-aborto) após correção do defeito de
+coagulação
+Cirurgia cardíaca (com ou sem colocação de bypass)
+Gastroenterologia
+Odontostomatologia (extrações dentárias em hemofílicos, doentes submetidos a
+terapêutica anticoagulante)
+Hemorragias com risco de vida induzidas por trombolíticos (estreptoquinase, etc.).
+Hemorragias associadas a trombocitopenia, púrpura trombopénica, leucemia.
+Hematúria não cirúrgica do trato urinário inferior (secundárias a cistite, etc.).
+Menstruações intensas, menorragia e metropatias hemorrágicas.
+Edema angioneurótico.
+4.2 Posologia e modo de administração
+Posologia
+Adultos
+Via intravenosa: O nível sanguíneo desejado é atingido com uma dose inicial de 4 a 5
+g por perfusão intravenosa lenta (durante uma hora), seguida de uma perfusão
+contínua de 1 g/hora. Se for necessário prolongar o tratamento, a dose máxima no
+período de 24 horas não deve exceder normalmente 24 g.
+População pediátrica
+A segurança e eficácia do EACA em crianças com 0 a 17 anos não foram ainda
+estabelecidas. Contudo, as seguintes doses foram utilizadas em doentes com menos
+de 18 anos:
+                                                                      APROVADO EM
+                                                                       07-06-2023
+                                                                       INFARMED
+Via intravenosa: 100 mg/kg ou 3 g/m2 por perfusão intravenosa lenta durante a
+primeira hora, seguida de uma perfusão contínua a uma taxa de 33,3 mg/kg por
+hora ou de 1 g/m2 por hora. A dose total não deve exceder 18 g/m2 (600 mg/kg)
+em 24 horas.
+Doentes idosos
+Não são necessárias diminuições da dose, exceto em casos de insuficiência renal.
+Compromisso renal
+Uma dose mais moderada de ácido aminocapróico está indicada em doentes com
+insuficiência renal, juntamente com monitorização frequente.
+Modo de administração
+Via intravenosa: EPSICAPROM 25 deve ser administrado numa injeção intravenosa
+lenta com soro glicosilado, glucosalina ou dextrose.
+EPSICAPROM 25 não deve ser administrado por via intramuscular, em circunstância
+alguma, por se tratar de uma solução altamente hipertónica.
+4.3 Contraindicações
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados
+na secção 6.1.
+O ácido aminocapróico não deve ser utilizado quando existe evidência de um
+processo de coagulação intravascular ativo (ver secção 4.4).
+4.4 Advertências e precauções especiais de utilização
+Efeito trombogénico
+Numerosos estudos clínicos indicam que o ácido aminocapróico não tem efeito
+trombogénico. Contudo, deve ser administrado com precaução em casos nos quais
+se suspeita da presença de trombose ou embolia, e na insuficiência renal.
+A inibição da fibrinólise pelo ácido aminocapróico pode teoricamente resultar em
+coagulação ou trombose. Contudo, não há evidência clara de que a administração de
+ácido aminocapróico fosse responsável pelos poucos casos descritos de coagulação
+intravascular após o tratamento. Em seu lugar, parece que a dita coagulação
+intravascular foi provavelmente devida a uma situação clínica pré-existente, isto é, a
+presença de coagulação intravascular disseminada (CID). Foi sugerido que os
+coágulos extravasculares formados in vivo podem não sofrer lise espontânea como
+os coágulos normais.
+Estabelecimento da causa de hemorragia
+Nos casos em que existem dúvidas, deve esclarecer-se se a etiologia da hemorragia
+para controlo da qual está a ser utilizado EPSICAPROM 25, é a fibrinólise primária ou
+a coagulação intravascular disseminada (CID), antes de se administrar ácido
+aminocapróico. Podem realizar-se os seguintes testes para diferenciar as duas
+afeções:
+Contagem de plaquetas: está geralmente diminuída na CID mas não na fibrinólise
+primária.
+                                                                    APROVADO EM
+                                                                     07-06-2023
+                                                                     INFARMED
+Teste de paracoagulação com protamina: positivo na CID; forma-se um precipitado
+quando se adiciona uma gota de sulfato de protamina ao plasma “citratado”. Este
+teste é negativo na fibrinólise primária.
+Teste do coágulo com euglobulina: anormal na fibrinólise primária e normal na CID.
+O ácido aminocapróico não deve ser utilizado na CID sem a administração
+concomitante de heparina.
+Hemorragia do trato urinário superior
+Em doentes com hemorragia no trato urinário superior, a administração de ácido
+aminocapróico produziu obstrução intrarrenal sob a forma de trombose capilar
+glomerular ou coágulos no bacinete ou ureteres. Portanto, o ácido aminocapróico não
+deve ser administrado no caso de hematúria com origem no trato urinário superior a
+menos que os benefícios previstos excedam os riscos.
+Efeitos no músculo esquelético
+Em casos raros, foi descrita fraqueza do músculo esquelético com necrose das fibras
+musculares após administração prolongada. A manifestação clínica pode variar desde
+mialgia ligeira com fraqueza e fadiga até miopatia proximal grave com rabdomiólise,
+mioglobinúria e insuficiência renal aguda. As enzimas musculares, especialmente a
+creatina fosfocinase (CPK), estão elevadas. A CPK deve ser monitorizada em doentes
+submetidos a tratamento prolongado. A administração de ácido aminocapróico deve
+ser descontinuada caso se observe um aumento da CPK. A condição sofre remissão
+após suspensão da administração; contudo, a síndrome pode recorrer se a
+administração de ácido aminocapróico for reiniciada.
+Quando ocorre miopatia esquelética, também deve considerar-se a possibilidade de
+lesão do músculo cardíaco. Foi descrito um caso de lesão cardíaca e hepática no ser
+humano. O doente recebeu 2 g de ácido aminocapróico em intervalos de 6 horas até
+perfazer uma dose total de 26 g. O doente morreu devido a hemorragia vascular
+cerebral prolongada. Observaram-se alterações necróticas do coração e fígado na
+autópsia.
+Inibição da atividade da plasmina
+O ácido aminocapróico inibe o efeito dos ativadores do plasminogénio e, num menor
+grau, a atividade da plasmina. Este medicamento não deve ser administrado sem um
+diagnóstico definitivo e/ou resultados laboratoriais que indiquem hiperfibrinólise
+(hiperplasminemia).
+Perfusão rápida
+A administração intravenosa rápida deve ser evitada porque pode causar hipotensão,
+bradicardia e/ou arritmias.
+Efeitos neurológicos
+A literatura contém publicações sobre um aumento da incidência de certas
+deficiências neurológicas como hidrocefalia, isquemia cerebral e vasospasmo
+cerebral, associadas com a utilização de antifibrinolíticos no tratamento da
+hemorragia subaracnoideia (HSA). Todos estes acontecimentos também foram
+descritos como parte da evolução natural da HSA, em consequência de
+procedimentos de diagnóstico como a angiografia.
+Tromboflebite
+                                                                     APROVADO EM
+                                                                      07-06-2023
+                                                                      INFARMED
+A tromboflebite, uma possibilidade com todos os tratamentos intravenosos, deve ser
+evitada, tomando especial atenção à inserção apropriada da agulha e à sua fixação.
+Administração com concentrado de complexo de Fator IX ou com concentrados de
+coagulantes anti-inibidores
+O ácido aminocapróico não deve ser administrado com concentrado de complexo de
+Fator IX ou com concentrados de coagulantes anti-inibidores, porque esta
+administração pode aumentar o risco de trombose.
+4.5 Interações medicamentosas e outras formas de interação
+A administração concomitante de fatores da coagulação (Fator IX) e estrogénios
+pode aumentar o risco de trombose.
+Exames laboratoriais: a administração de ácido aminocapróico pode alterar os
+resultados dos testes da função plaquetária.
+4.6 Fertilidade, gravidez e aleitamento
+Gravidez
+A quantidade de dados sobre a utilização do ácido épsilon-aminocapróico em
+mulheres grávidas, é limitada ou inexistente. Estudos em animais revelaram
+toxicidade reprodutiva (ver secção 5.3). O ácido aminocapróico não é recomendado
+durante a gravidez.
+Mulheres com potencial para engravidar
+O ácido aminocapróico não é recomendado em mulheres com potencial para
+engravidar que não utilizam métodos contracetivos.
+Amamentação
+Desconhece-se se o ácido épsilon-aminocapróico é excretado no leite humano. Tem
+de ser tomada uma decisão sobre a descontinuação da amamentação ou a
+descontinuação/abstenção da terapêutica com o ácido aminocapróico tendo em conta
+o benefício da amamentação para a criança e o benefício da terapêutica para a
+mulher.
+Fertilidade
+Não existem dados clínicos no ser humano sobre o efeito de EPSICAPROM 25 na
+fertilidade.
+A administração de uma dose equivalente à dose terapêutica máxima humana na
+dieta de ratos causou perturbações da fertilidade nos dois sexos. Desconhece-se qual
+é a relevância clínica destas observações (ver secção 5.3).
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+Não se estudaram os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+No caso de tonturas ou sonolência, não se recomenda a condução de veículos e a
+utilização de máquinas.
+4.8 Efeitos indesejáveis
+a. Resumo do perfil de segurança
+                                                                         APROVADO EM
+                                                                          07-06-2023
+                                                                          INFARMED
+   As reações adversas notificadas com mais frequência durante o tratamento são
+   tonturas, hipotensão e cefaleias; a ocorrência de hipotensão é mais provável com a
+   perfusão rápida. Foram notificados casos graves de miopatia e de rabdomiólise;
+   estes são geralmente reversíveis após descontinuação do tratamento, mas a CPK
+   deve ser monitorizada em doentes submetidos a tratamento prolongado, e o
+   tratamento interrompido se ocorrerem elevações da CPK.
+   b. Lista tabelada de reações adversas
+   As seguintes reações adversas foram notificadas com base em ensaios clínicos,
+   estudos de segurança após autorização e notificações espontâneas de casos, com as
+   seguintes frequências: muito frequentes (≥1/10), frequentes (≥1/100, <1/10),
+   pouco frequentes (≥1/1.000, <1/100), raros (≥1/10.000, <1/1.000); muito raros
+   (<1/10.000), desconhecido:
+Classe     de Frequentes       Pouco         Raros       Muito raros Desconhecido*
+sistemas   de (≥1/100,         frequentes    (≥1/10.000, (<1/10.000)
+órgãos        <1/10)           (≥1/1.000,    <1/1.000)
+                               <1/100)
+Doenças do                     Agranulocitos                         Leucopenia,
+sangue e do                    e, doenças da                         trombocitopen
+sistema                        coagulação                            ia
+linfático
+Doenças do                     Reações                                          Eritema
+sistema                        alérgicas e                                      maculopapular
+imunitário                     anafilactóides,
+                               anafilaxia
+Doenças    do Tonturas                                          Confusão,
+sistema                                                         convulsões,
+nervoso                                                         delírio,
+                                                                alucinações,
+                                                                hipertensão
+                                                                intracraniana
+                                                                , acidente
+                                                                vascular
+                                                                cerebral,
+                                                                síncope
+Afeções                                          Visão
+oculares                                         diminuída,
+                                                 olhos
+                                                 lacrimejante
+                                                 s
+
+Classe     de Frequentes       Pouco             Raros     (≥ Muito raros Desconhecido*
+sistemas   de (≥1/100,         frequentes        1/10.000,    (<1/10.000)
+órgãos        <1/10)           (≥1/1.000,        <1/1.000)
+                               <1/100)
+Afeções do Acufeno
+ouvido e do
+labirinto
+                                                                     APROVADO EM
+                                                                      07-06-2023
+                                                                      INFARMED
+Cardiopatias   Hipotensão     Bradicardia    Isquemia                      Trombose
+                                             periférica
+Doenças         Congestão     Dispneia       Embolia
+respiratórias, nasal                         pulmonar
+torácicas e do
+mediastino
+Doenças         Dor
+gastrointestin abdominal,
+ais             diarreia,
+                náuseas,
+                vómitos
+Afeções dos                   Prurido,
+tecidos                       erupção
+cutâneos e                    cutânea
+subcutâneos
+Afeções                       Fraqueza       Elevação da                   Miopatia
+musculosquelé                 muscular,      CPK, miosite                  aguda,
+ticas e dos                   mialgia                                      rabdomiólise
+tecidos
+conjuntivos
+Doenças                                                                    Insuficiência
+renais        e                                                            renal,
+urinárias                                                                  aumento do
+                                                                           azoto da ureia
+                                                                           sanguínea,
+                                                                           cólicas
+                                                                           nefríticas e
+                                                                           perturbações
+                                                                           da       função
+                                                                           renal
+Doenças dos                                                                Ejaculação
+órgãos                                                                     seca
+genitais e da
+mama
+Perturbações Cefaleias,          Edema
+gerais        e mal-estar;
+alterações no dor, necrose
+local        de e reações no
+administração local          de
+                  injeção
+   * frequência desconhecida (não pode ser calculado a partir dos dados disponíveis)
+   4.9 Sobredosagem
+   O ácido aminocapróico não é muito tóxico, portanto, a intoxicação só pode ocorrer
+   em casos muito excecionais, tais como casos de sobredosagem relativa com
+   insuficiência renal. Neste caso, o medicamento deve ser ajustado ao grau de
+   insuficiência renal ou, eventualmente, deve ser descontinuado.
+                                                                      APROVADO EM
+                                                                       07-06-2023
+                                                                       INFARMED
+Foram descritos alguns casos de sobredosagem aguda após a administração
+intravenosa de ácido aminocapróico. As consequências variaram desde a ausência de
+efeitos e hipotensão transitória a insuficiência renal aguda que resultou em morte.
+Um doente com antecedentes de tumor cerebral e crises convulsivas teve convulsões
+após lhe ter sido administrada uma injeção por bólus de 8 g de ácido aminocapróico.
+Desconhece-se qual é a dose única de ácido aminocapróico que produz sintomas de
+sobredosagem ou considerada como potencialmente fatal. Alguns doentes toleraram
+doses até 100 g, enquanto que foram descritos casos de insuficiência renal aguda
+após uma dose de 12 g.
+Não se conhece tratamento para a sobredosagem, embora haja evidência de que o
+ácido aminocapróico é eliminado por hemodiálise e pode ser eliminado por diálise
+peritoneal. Os estudos farmacocinéticos demonstram que a depuração corporal total
+de ácido aminocapróico está muito diminuída em doentes com insuficiência renal
+aguda.
+5. PROPRIEDADES FARMACOLÓGICAS
+5.1 Propriedades farmacodinâmicas
+Subgrupo terapêutico: Anti-hemorrágicos
+Grupo farmacoterapêutico: Antifibrinolíticos
+Código ATC: B02AA01.
+O ácido aminocapróico é um aminoácido que é estruturalmente semelhante a outros
+aminoácidos fisiológicos, especialmente a dois aminoácidos fundamentais, a lisina e a
+arginina. A maior parte dos seus efeitos são provavelmente devidos a esta
+semelhança estrutural.
+O ácido aminocapróico tem vários efeitos farmacológicos. O mais importante afeta o
+sistema das enzimas fibrinolíticas, que é o mecanismo responsável pela dissolução
+das redes de fibrina e, por conseguinte, dos coágulos. O ácido aminocapróico tem
+um efeito inibidor sobre este sistema, que se realiza em dois níveis: por um lado, em
+concentrações relativamente baixas, inibe a ação dos ativadores de plasminogénio
+através de um mecanismo competitivo; por outro lado, em concentrações mais
+elevadas inibe a atividade da plasmina. Embora os dois efeitos tenham efetivamente
+os mesmos resultados, o primeiro é o mais importante.
+Em consequência destes efeitos, o ácido aminocapróico previne a destruição do
+coágulo pela plasmina, impedindo assim o aparecimento de hemorragias devido à
+atividade excessiva do sistema fibrinolítico. Contudo, o efeito anti-hemorrágico do
+ácido aminocapróico não está necessariamente ligado à presença de fibrinólise no
+sangue, o que é demonstrado pelos respetivos testes. De facto, o aparecimento ou
+persistência de uma hemorragia poderá ser e em muitos casos é devida à
+hiperfibrinólise local, especialmente quando a hemorragia ocorre em órgãos ricos em
+ativadores do plasminogénio, como o útero, próstata, pulmões, trato urinário, etc.
+Por outro lado, demonstrou-se que o ácido aminocapróico tem um efeito benéfico
+sobre as hemorragias gerais, como as de origem hematológica, nas quais não se
+deteta hiperfibrinólise no sangue circulante.
+A plasmina pode atuar sobre outros componentes do sistema de coagulação como os
+fatores V e VIII e, em particular, sobre o fibrinogénio. Demonstrou-se que existem
+                                                                      APROVADO EM
+                                                                       07-06-2023
+                                                                       INFARMED
+relações evidentes entre a atividade proteolítica da plasmina e o sistema que forma
+as cininas, polipéptidos com efeitos biológicos diferentes basicamente relacionados
+com a inflamação e alergia.
+5.2 Propriedades farmacocinéticas
+O ácido aminocapróico é rapidamente absorvido quando administrado por via oral e
+as suas concentrações plasmáticas máximas são atingidas após duas horas.
+Distribui-se amplamente (dissemina-se facilmente pelos tecidos, aparecendo no
+sémen, fluido sinovial e tecido fetal) e é excretado na urina, principalmente na forma
+inalterada, com uma semivida de eliminação terminal de aproximadamente 2 horas.
+5.3 Dados de segurança pré-clínica
+A dose letal mediana (50) oral e intravenosa do ácido aminocapróico foi
+respetivamente de 3 e 12 g/kg em ratinhos e de 3,2 e 16,4 g/kg em ratos. Uma
+dose intravenosa de 2,3 g/kg foi fatal em cães. Após administração intravenosa,
+observaram-se crises tónico-clónicas em cães e ratinhos.
+Observou-se que o ácido aminocapróico aumenta os efeitos teratogénicos em ratos.
+Perturbações da carcinogénese, mutagénese e fertilidade: não se realizaram estudos
+a longo prazo em animais para avaliar o potencial carcinogénico ou mutagénico do
+ácido aminocapróico. A administração de uma dose equivalente à dose terapêutica
+máxima humana na dieta de ratos causou perturbações da fertilidade nos dois sexos.
+6. INFORMAÇÕES FARMACÊUTICAS
+6.1 Lista dos excipientes
+Hidróxido de sódio e Ácido Clorídrico (ambos para ajuste do pH).
+Água para preparações injetáveis.
+6.2 Incompatibilidades
+EPSICAPROM 25 não deve ser utilizado com soluções de levulose, soluções contendo
+penicilina ou com sangue.
+O ácido aminocapróico é incompatível com a frutose por perfusão.
+6.3 Prazo de validade
+5 anos.
+6.4 Precauções especiais de conservação
+Conservar a temperatura inferior a 25ºC.
+6.5 Natureza e conteúdo do recipiente
+Cada embalagem contém 6 ampolas de vidro âmbar tipo I, de 10 ml acondicionadas
+num tabuleiro de material plástico.
+                                                                 APROVADO EM
+                                                                  07-06-2023
+                                                                  INFARMED
+6.6 Precauções especiais de eliminação e manuseamento
+Não existem requisitos especiais.
+Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as
+exigências locais
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+Laboratórios Basi – Indústria Farmacêutica, S.A.
+Parque Industrial Manuel Lourenço Ferreira, Lote 15
+3450-232 Mortágua
+Portugal
+Tel.: + 351 231 920 250 | Fax: + 351 231 921 055
+E-mail: basi@basi.pt
+8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+Nº de registo: 9108803 – 6 unidades, solução para perfusão, 2500 mg/10 ml,
+ampolas de vidro âmbar tipo I.
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+Data da primeira autorização: 29 de setembro de 1964
+Data da última renovação: 15 de novembro de 2002
+10. DATA DA REVISÃO DO TEXTO
+

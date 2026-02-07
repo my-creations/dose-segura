@@ -1,0 +1,31 @@
+{
+  "medId": "propofol",
+  "searchTerm": "Propofol",
+  "retrievedAt": "2026-02-07T23:00:33Z",
+  "bestMatch": {
+    "infarmedId": "50368",
+    "name": "Propofol Baxter MG",
+    "dci": "Propofol",
+    "form": "Emulsão injetável ou para perfusão",
+    "dosage": "10 mg/ml",
+    "holder": "Baxter Holding BV",
+    "isGeneric": true,
+    "score": 129.64
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "/Users/pedrorobalo/Documents/Personal/dose-segura/infarmed/propofol/rcm/50368-rcm.pdf",
+      "size": 87243
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "/Users/pedrorobalo/Documents/Personal/dose-segura/infarmed/propofol/fi/50368-fi.pdf",
+      "size": 286358
+    }
+  }
+}

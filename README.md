@@ -22,6 +22,7 @@ Uma aplicação de referência rápida para enfermeiros, desenhada para facilita
 - ⚠️ **Alertas de alto risco** - Identificação clara de medicamentos de alto risco
 - 🌐 **Offline-first** - Funciona sem ligação à internet
 - 🎨 **Design moderno** - Interface limpa com cores pastel
+- 📄 **Fontes oficiais** - Suporte a extração de RCM/FI do Infarmed para enriquecer dados
 
 ## 📋 Informações Disponíveis por Medicamento
 
@@ -33,6 +34,30 @@ Uma aplicação de referência rápida para enfermeiros, desenhada para facilita
 - Estabilidade após preparação
 - Contraindicações e precauções
 - Cuidados de enfermagem
+
+## 🧾 Atualização de Dados (Infarmed)
+
+Este projeto inclui scripts para descarregar e extrair PDFs (RCM/FI) do Infarmed e gerar textos para revisão manual
+
+### Pré-requisitos
+
+- Poppler (`pdftotext`)
+
+```bash
+brew install poppler
+```
+
+### Fluxo recomendado
+
+```bash
+# Extrair texto de todos os PDFs de um medicamento
+node scripts/extract-infarmed-med.js <medId>
+
+# Parsear secções relevantes para revisão
+node scripts/parse-infarmed-text.js <medId>
+```
+
+Os PDFs e artefactos são guardados em `infarmed/<medId>/`
 
 ## 🚀 Como Executar
 
@@ -109,6 +134,8 @@ dose-segura/
 ├── data/                   # Dados JSON dos medicamentos
 ├── e2e/                    # Testes End-to-End (Playwright)
 ├── hooks/                  # Custom hooks
+├── infarmed/               # PDFs e extrações (RCM/FI) por medicamento
+├── scripts/                # Scripts de extração e parsing
 └── types/                  # Tipos TypeScript
 ```
 
@@ -165,4 +192,4 @@ Desenvolvido com ❤️ para a comunidade de enfermagem portuguesa.
 ---
 
 **Versão:** 1.0.0  
-**Última atualização:** Janeiro 2026
+**Última atualização:** Fevereiro 2026

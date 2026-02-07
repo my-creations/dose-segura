@@ -29,7 +29,10 @@
       "administration": [
         "Via Intramuscular",
         "Via Endovenosa: Administrar lentamente 3-5 minutos",
-        "Via Endovenosa Perfusão: Diluir em 50-100 ml e administrar em 15-30 minutos"
+        "Via Endovenosa Perfusão: Diluir em 50-100 ml e administrar em 15-30 minutos",
+        "Via Endovenosa/Intramuscular: 1 ampola, 1 a 2 vezes por dia (adultos)",
+        "Crianças: não usar < 6 anos; 6-12 anos meia ampola, 1 a 2 vezes por dia; > 12 anos dose idêntica à do adulto",
+        "Duração média do tratamento: 5 a 7 dias"
       ],
       "stability": [
         "24 horas no frigoriífico e apenas para uso tópico"
@@ -43,7 +46,13 @@
         "Em doentes debilitados ou que tenham diminuição do reflexo da tosse há risco de obstrução da via aérea como consequência do aumento da quantidade de secreções",
         "Deve-se manusear o preparado em material de plástico ou vidro, não se devendo utilizar material de borracha ou de metal",
         "É normal a presença de um leve odor súlfurico, que é próprio da acetilcisteína",
-        "Pode ser utilizado para aplicação tópica sob a forma de aerossol, para aplicação nasal, auricular e endotraqueal"
+        "Pode ser utilizado para aplicação tópica sob a forma de aerossol, para aplicação nasal, auricular e endotraqueal",
+        "Doentes asmáticos ou com história de broncospasmo (especialmente se utilizado por via tópica/aerossol)",
+        "Insuficiência respiratória grave",
+        "Doentes suscetíveis a úlceras gastroduodenais: utilizar com precaução",
+        "No início do tratamento é expectável aumento da expetoração e da tosse",
+        "Em doentes asmáticos pode ocorrer broncoconstrição; se ocorrer, interromper o tratamento",
+        "Pode ocorrer breve ardor no local de injeção (raro)"
       ]
     },
     "acetilsalicilato-de-lisina": {
@@ -67,15 +76,18 @@
       "presentationAndStorage": [
         "900 mg / 1800 mg / 5 ml de pó para solução injetável",
         "Não conservar acima de 25ºC",
-        "Proteger da luz e humidade"
+        "Proteger da luz e humidade",
+        "Conservar na embalagem de origem"
       ],
       "preparation": [
-        "Intramuscular e Endovenosa: 5 ml de água para preparação de injetável que acompanha o pó"
+        "Intramuscular e Endovenosa: 5 ml de água para preparação de injetável que acompanha o pó",
+        "Não misturar na mesma seringa com outras especialidades farmacêuticas injectáveis"
       ],
       "administration": [
         "Via Intramuscular: Administração profunda no glúteo",
         "Via Endovenosa: Administrar lentamente",
-        "Via Endovenosa Perfusão: Diluir"
+        "Via Endovenosa Perfusão: Diluir",
+        "Adulto: 1 ampola 2x/dia; máximo 4 ampolas/dia (equivalente a 4 g de ácido acetilsalicílico/dia)"
       ],
       "stability": [
         "30 minutos após reconstituição para o caso do Aspegic"
@@ -86,6 +98,8 @@
         "Úlcera péptica/hemorragia ativa ou hitórico de úlcera péptica recorrente/hemorragia (dois ou mais episódios distintos de úlcera comprovada clinicamente ou hemorragia)",
         "Histórico de asma induzida pela administração de salicilatos ou substâncias com ação semelhante, sobretudo Anti-inflamatórios não esteroides",
         "A utilização de doses superiores a 100 mg/dia está contra-indicada durante o terceiro trimestre de gravidez",
+        "Qualquer patologia hemorrágica constitucional ou adquirida",
+        "Risco hemorrágico",
         "Insuficiência hepática grave",
         "Insuficiência renal grave",
         "Insuficiência cardíaca grave não controlada",
@@ -97,7 +111,13 @@
         "Funciona como antiagregante plaquetário em doses menores (75-100 mg/dia)",
         "Não utilizar uma solução que não esteja límpida ou que contenha partículas",
         "O Aspegic não pode ser diluído, devendo ser administrado diretamente no sistema de perfusão",
-        "O Acetilsalicilato de Lisina é incompatível com todos os metais pesados, soluções ácidas e alcalínas"
+        "O Acetilsalicilato de Lisina é incompatível com todos os metais pesados, soluções ácidas e alcalínas",
+        "Deficiência de G6PD: doses elevadas podem provocar hemólise; administrar sob vigilância médica",
+        "Evitar sobredosagem: verificar ausência de ácido acetilsalicílico noutros medicamentos",
+        "Uso habitual de analgésicos (especialmente associações) pode induzir lesão renal persistente",
+        "Em caso de hemorragia gastrointestinal, interromper o tratamento",
+        "Advertir sobre risco hemorrágico perioperatório devido ao efeito antiagregante, incluindo pequenas cirurgias",
+        "Desaconselhado em casos de gota"
       ]
     },
     "aciclovir": {
@@ -126,7 +146,12 @@
         "Via Endovenosa Perfusão: Diluir em 10 ml de água Preparação para Injetáveis. ou cloreto de sódio 0,9%"
       ],
       "administration": [
-        "Via Endovenosa Perfusão: Diluir em 100 ml e administrar nunca menos de 60 minutos"
+        "Via Endovenosa Perfusão: Diluir em 100 ml e administrar nunca menos de 60 minutos",
+        "Não administrar em bólus endovenoso; perfusão lenta durante 1 hora",
+        "Adultos: HSV (exceto encefalite) ou varicela zoster: 5 mg/kg de 8/8 h",
+        "Imunocomprometidos com varicela zoster ou encefalite herpética: 10 mg/kg de 8/8 h (função renal normal)",
+        "Duração habitual: 5 dias; encefalite herpética: 10 dias",
+        "Ajuste em insuficiência renal: 25-50 ml/min (q12h), 10-25 ml/min (q24h), anúria/DP: metade da dose q24h pós-diálise"
       ],
       "stability": [
         "Após reconstituição: Uso imediato",
@@ -144,7 +169,10 @@
         "Após diluição não colocar no frigorífico porque pode criar cristais",
         "É dialisável por hemodiálise, mas não por diálise peritoneal",
         "A sua concentração em sódio deve ser tida em conta nos doentes com ingestão controlada de sódio",
-        "Pode ser administrado por via Endovenosa logo após reconstituição mas deverá utilizar-se uma bomba infusora e a administração deve ser feita em 60 minutos"
+        "Pode ser administrado por via Endovenosa logo após reconstituição mas deverá utilizar-se uma bomba infusora e a administração deve ser feita em 60 minutos",
+        "Manter hidratação adequada para reduzir risco de elevação de ureia/creatinina",
+        "Inspecionar solução: administrar apenas se límpida e sem partículas",
+        "Solução reconstituída tem pH ~11; não administrar por via oral"
       ]
     },
     "acido-aminocaproico": {
@@ -174,7 +202,10 @@
       "administration": [
         "Via Endovenosa Bólus: Pode-se administrar em bólus direto em caso de urgência, mas muito lentamente",
         "Via Endovenosa Perfusão: Diluir na proporção de 1 g em 50 ml",
-        "Via Endovenosa Perfusão Contínua: Diluir num volume compreendido entre 100 e 500 ml"
+        "Via Endovenosa Perfusão Contínua: Diluir num volume compreendido entre 100 e 500 ml",
+        "Não administrar por via intramuscular",
+        "Adultos: dose inicial 4-5 g em perfusão IV lenta (1 hora), seguida de 1 g/h; máximo 24 g/24h",
+        "Crianças: 100 mg/kg ou 3 g/m² na 1ª hora; manutenção 33,3 mg/kg/h ou 1 g/m²/h; máximo 18 g/m² (600 mg/kg)/24h"
       ],
       "stability": [
         "Após diluição: 24 horas"
@@ -182,13 +213,18 @@
       "contraindicationsAndPrecautions": [
         "Coagulação intravascular ativa",
         "Usar com precaução em caso de doença cardíaca, renal e hepática",
+        "Não usar em CID sem heparina concomitante",
+        "Precaução em suspeita de trombose ou embolia",
+        "Hematúria do trato urinário superior: cautela",
         "Hipersensibilidade à substância ativa"
       ],
       "nursingCare": [
         "Há evidência de que é eliminado por hemodiálise e que possa ser eliminado também por diálise peritoneal",
         "Não deve ser utilizado com soluções de levulose, soluções contendo penicilina ou com sangue",
         "É incompatível com a frutose por perfusão",
-        "A administração Endovenosa rápida pode conduzir a hipotensão, bradicardia ou arritmias"
+        "A administração Endovenosa rápida pode conduzir a hipotensão, bradicardia ou arritmias",
+        "Monitorizar CPK em tratamentos prolongados; risco de miopatia/rabdomiólise",
+        "Pode ocorrer hipotensão com perfusão rápida"
       ]
     },
     "adenosina": {
