@@ -12,7 +12,9 @@ test.describe('Responsive Layout', () => {
     await expect(page.getByTestId('medication-title')).toBeVisible();
   });
 
-  test('mobile: sections stack vertically', async ({ page }) => {
+  test('mobile: sections stack vertically', async ({ page }, testInfo) => {
+    test.skip(!testInfo.project.use?.isMobile, 'Skip mobile layout test on desktop');
+
     await test.step('Set mobile viewport', async () => {
       await page.setViewportSize({ width: 375, height: 812 });
     });
@@ -42,7 +44,9 @@ test.describe('Responsive Layout', () => {
     });
   });
 
-  test('desktop: sections display side-by-side on wide screens', async ({ page }) => {
+  test('desktop: sections display side-by-side on wide screens', async ({ page }, testInfo) => {
+    test.skip(!!testInfo.project.use?.isMobile, 'Skip desktop layout test on mobile');
+
     await test.step('Set desktop viewport', async () => {
       await page.setViewportSize({ width: 1280, height: 800 });
     });
@@ -65,11 +69,10 @@ test.describe('Responsive Layout', () => {
       expect(secondBox).not.toBeNull();
 
       if (firstBox && secondBox) {
-        expect(
-          firstBox.y < secondBox.y + secondBox.height &&
-          firstBox.y + firstBox.height > secondBox.y
-        ).toBe(true);
-
+        // In a side-by-side layout, they should have similar Y coordinates
+        // and one should be to the right of the other.
+        // We use a small tolerance for Y comparison.
+        expect(Math.abs(firstBox.y - secondBox.y)).toBeLessThan(50);
         expect(secondBox.x).toBeGreaterThan(firstBox.x);
       }
     });

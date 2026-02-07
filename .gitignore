@@ -49,4 +49,8 @@ medication-images
 
 # Playwright
 playwright-report/
+blob-report/
 test-results
+
+# Coverage
+coverage/

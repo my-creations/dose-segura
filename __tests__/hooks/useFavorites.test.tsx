@@ -1,8 +1,6 @@
 import React, { useEffect } from 'react';
-import { render, act, waitFor } from '@testing-library/react-native';
-
+import { act, render, waitFor } from '@testing-library/react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-
 import { FavoritesContextType, FavoritesProvider, useFavorites } from '@/context/FavoritesContext';
 
 type FavoritesContextValue = FavoritesContextType;
@@ -80,7 +78,7 @@ describe('useFavorites', () => {
   });
 
   it('loads favorites from storage on mount', async () => {
-    (AsyncStorage.getItem as jest.Mock).mockResolvedValueOnce(
+    jest.mocked(AsyncStorage.getItem).mockResolvedValueOnce(
       JSON.stringify(['acetilcisteina', 'aciclovir']),
     );
 

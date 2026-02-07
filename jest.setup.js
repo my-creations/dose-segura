@@ -21,3 +21,7 @@ jest.mock('expo-router', () => ({
 jest.mock('@expo/vector-icons', () => ({
   Ionicons: () => null,
 }));
+
+jest.mock('expo-localization', () => ({
+  getLocales: () => [{ languageCode: 'pt' }],
+}));

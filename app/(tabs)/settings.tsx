@@ -3,15 +3,18 @@ import React from 'react';
 import { Platform, Pressable, ScrollView, StyleSheet, View } from 'react-native';
 
 import { ThemedText } from '@/components/ThemedText';
+import { PWAInstallModal } from '@/components/PWAInstallModal';
 import { Colors } from '@/constants/Colors';
 import { useMedications } from '@/context/MedicationsContext';
 import { ThemeMode, useTheme } from '@/context/ThemeContext';
 import { useColorScheme } from '@/hooks/useColorScheme';
+import { usePWAInstall } from '@/hooks/usePWAInstall';
 import i18n from '@/utils/i18n';
 
 export default function SettingsScreen() {
   const { version, lastUpdated, medications } = useMedications();
   const { themeMode, setThemeMode } = useTheme();
+  const { isStandalone, installApp, showInstructions, setShowInstructions } = usePWAInstall();
   const colorScheme = useColorScheme();
   const colors = Colors[colorScheme ?? 'light'];
 
@@ -87,6 +90,28 @@ export default function SettingsScreen() {
         </View>
       </View>
 
+      {!isStandalone && (
+        <View style={styles.section} testID="installation-section">
+          <ThemedText type="sectionTitle" style={styles.sectionTitle}>{i18n.t('settings.install.sectionTitle')}</ThemedText>
+          <View style={[styles.card, { backgroundColor: colors.cardBackground }]}>
+            <Pressable 
+              testID="install-button"
+              style={({ pressed }) => [
+                styles.installButton, 
+                { backgroundColor: colors.tint },
+                pressed && { opacity: 0.8 }
+              ]}
+              onPress={installApp}
+            >
+              <Ionicons name="download-outline" size={20} color={colors.cardBackground} />
+              <ThemedText style={[styles.installButtonText, { color: colors.cardBackground }]}>
+                {i18n.t('settings.install.button')}
+              </ThemedText>
+            </Pressable>
+          </View>
+        </View>
+      )}
+
       <View style={styles.section}>
         <ThemedText type="sectionTitle" style={styles.sectionTitle}>{i18n.t('settings.about')}</ThemedText>
         <View style={[styles.card, { backgroundColor: colors.cardBackground }]}>
@@ -122,6 +147,11 @@ export default function SettingsScreen() {
           </View>
         </View>
       </View>
+
+      <PWAInstallModal 
+        visible={showInstructions} 
+        onClose={() => setShowInstructions(false)} 
+      />
     </ScrollView>
   );
 }
@@ -211,5 +241,17 @@ const styles = StyleSheet.create({
   },
   themeOptionLabel: {
     fontSize: 15,
+  },
+  installButton: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    padding: 14,
+    borderRadius: 12,
+    gap: 10,
+  },
+  installButtonText: {
+    fontSize: 16,
+    fontFamily: 'Quicksand_600SemiBold',
   },
 });
