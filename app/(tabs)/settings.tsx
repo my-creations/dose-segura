@@ -17,6 +17,17 @@ export default function SettingsScreen() {
   const { isStandalone, installApp, showInstructions, setShowInstructions } = usePWAInstall();
   const colorScheme = useColorScheme();
   const colors = Colors[colorScheme ?? 'light'];
+  const [isMobileWeb, setIsMobileWeb] = React.useState(false);
+
+  React.useEffect(() => {
+    if (Platform.OS !== 'web' || typeof navigator === 'undefined') {
+      return;
+    }
+
+    setIsMobileWeb(/Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent));
+  }, []);
+
+  const shouldShowInstall = isMobileWeb && !isStandalone;
 
   const renderThemeOption = (mode: ThemeMode, label: string, icon: keyof typeof Ionicons.glyphMap) => {
     const isSelected = themeMode === mode;
@@ -90,7 +101,7 @@ export default function SettingsScreen() {
         </View>
       </View>
 
-      {!isStandalone && (
+      {shouldShowInstall && (
         <View style={styles.section} testID="installation-section">
           <ThemedText type="sectionTitle" style={styles.sectionTitle}>{i18n.t('settings.install.sectionTitle')}</ThemedText>
           <View style={[styles.card, { backgroundColor: colors.cardBackground }]}>

@@ -6,7 +6,10 @@ test.describe('PWA Installation', () => {
     await page.goto('/');
   });
 
-  test('shows installation section in normal browser mode', async ({ page }) => {
+  test('shows installation section in normal browser mode', async ({ page }, testInfo) => {
+    const isMobile = !!testInfo.project.use?.isMobile;
+    test.skip(!isMobile, 'Install button shown only on mobile devices');
+
     await test.step('Navigate to settings tab', async () => {
       const settingsTab = page.getByText(Strings.pt.navigation.settings);
       await expect(settingsTab).toBeVisible();
@@ -23,6 +26,23 @@ test.describe('PWA Installation', () => {
       const installButton = page.getByTestId('install-button');
       await expect(installButton).toBeVisible();
       await expect(installButton).toContainText(Strings.pt.settings.install.button);
+    });
+  });
+
+  test('hides installation section on desktop browsers', async ({ page }, testInfo) => {
+    const isMobile = !!testInfo.project.use?.isMobile;
+    test.skip(isMobile, 'Desktop-only');
+
+    await test.step('Navigate to settings tab', async () => {
+      const settingsTab = page.getByText(Strings.pt.navigation.settings);
+      await expect(settingsTab).toBeVisible();
+      await settingsTab.click();
+      await expect(page).toHaveURL(/\/settings/);
+    });
+
+    await test.step('Verify installation section is hidden', async () => {
+      await expect(page.getByTestId('installation-section')).not.toBeVisible();
+      await expect(page.getByTestId('install-button')).not.toBeVisible();
     });
   });
 
