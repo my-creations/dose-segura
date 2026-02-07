@@ -1,5 +1,7 @@
 import { useEffect, useState } from 'react';
-import { Platform } from 'react-native';
+import { Alert, Platform } from 'react-native';
+
+import i18n from '@/utils/i18n';
 
 interface BeforeInstallPromptEvent extends Event {
   prompt: () => Promise<void>;
@@ -53,8 +55,10 @@ export function usePWAInstall() {
     // iOS Detection
     const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !(window as any).MSStream;
     
-    if (isIOS && !isStandalone) {
-      setShowInstructions(true);
+    if (isIOS) {
+      if (!isStandalone) {
+        setShowInstructions(true);
+      }
       return;
     }
 
@@ -71,7 +75,7 @@ export function usePWAInstall() {
       }
     } else if (!isStandalone) {
       // Fallback for browsers that don't support beforeinstallprompt or if it hasn't fired yet
-      setShowInstructions(true);
+      Alert.alert(i18n.t('settings.install.error'));
     }
   };
 

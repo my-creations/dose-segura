@@ -26,7 +26,10 @@ test.describe('PWA Installation', () => {
     });
   });
 
-  test('clicking install button shows themed modal when prompt is not available', async ({ page }) => {
+  test('clicking install button shows themed modal when prompt is not available', async ({ page }, testInfo) => {
+    const isIosSafari = testInfo.project.use?.userAgent?.includes('iPhone');
+    test.skip(!isIosSafari, 'Install instructions modal is iOS only');
+
     await test.step('Navigate to settings tab', async () => {
       const settingsTab = page.getByText(Strings.pt.navigation.settings);
       await expect(settingsTab).toBeVisible();

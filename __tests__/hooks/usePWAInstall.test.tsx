@@ -1,6 +1,6 @@
 /* cspell:disable */
 import React, { useEffect } from 'react';
-import { Platform } from 'react-native';
+import { Alert, Platform } from 'react-native';
 
 import { act, render, waitFor } from '@testing-library/react-native';
 
@@ -12,6 +12,7 @@ const originalWindow = global.window;
 const originalNavigator = global.navigator;
 const originalDocument = global.document;
 const originalPlatformOS = Platform.OS;
+const defaultUserAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/91.0.4472.124 Safari/537.36';
 
 type PWAInstallValue = ReturnType<typeof usePWAInstall>;
 
@@ -58,7 +59,7 @@ describe('usePWAInstall', () => {
         dispatchEvent: jest.fn(),
       })),
       navigator: {
-        userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/91.0.4472.124 Safari/537.36',
+        userAgent: defaultUserAgent,
         standalone: false,
       },
     };
@@ -81,6 +82,10 @@ describe('usePWAInstall', () => {
     eventListeners = {};
     jest.mocked(window.matchMedia).mockReturnValue({ matches: false } as any);
     Platform.OS = originalPlatformOS;
+    Object.defineProperty(window.navigator, 'userAgent', {
+      value: defaultUserAgent,
+      configurable: true,
+    });
   });
 
   it('should have the correct locale initialized', () => {
@@ -195,8 +200,12 @@ describe('usePWAInstall', () => {
     expect(mockPrompt).toHaveBeenCalled();
   });
 
-  it('should set showInstructions to true when installApp is called and no prompt is available', async () => {
+  it('should show instructions on iOS when no prompt is available', async () => {
     Platform.OS = 'web';
+    Object.defineProperty(window.navigator, 'userAgent', {
+      value: 'Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1',
+      configurable: true,
+    });
     
     let hookValue: PWAInstallValue | null = null;
 
@@ -213,5 +222,28 @@ describe('usePWAInstall', () => {
     });
 
     expect(hookValue!.showInstructions).toBe(true);
+  });
+
+  it('should alert on non-iOS when no prompt is available', async () => {
+    Platform.OS = 'web';
+    const alertSpy = jest.spyOn(Alert, 'alert').mockImplementation(() => {});
+    
+    let hookValue: PWAInstallValue | null = null;
+
+    renderWithHarness((value) => {
+      hookValue = value;
+    });
+
+    await waitFor(() => {
+      expect(hookValue).not.toBeNull();
+    });
+
+    await act(async () => {
+      await hookValue!.installApp();
+    });
+
+    expect(hookValue!.showInstructions).toBe(false);
+    expect(alertSpy).toHaveBeenCalledWith(i18n.t('settings.install.error'));
+    alertSpy.mockRestore();
   });
 });
