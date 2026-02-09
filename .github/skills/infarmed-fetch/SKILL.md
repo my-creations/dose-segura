@@ -24,6 +24,7 @@ Fetch RCM and FI PDFs from Infarmed (INFOMED) and store them under `infarmed/{me
 5) Parse rows from `#mainForm:dt-medicamentos_data tr` and score the best match.
    - Normalize by lowercasing, removing accents, and collapsing whitespace.
    - Prefer exact DCI matches, then name matches.
+   - **Crucial:** Verify the Pharmacological Class or ATC code to avoid mismatched indications (e.g., supplement vs. chelator).
    - Penalize longer names and generic (MG) if you want branded default.
 6) For the best row, extract:
    - `infarmedId`, `name`, `dci`, `form`, `dosage`, `holder`.
@@ -36,14 +37,17 @@ Fetch RCM and FI PDFs from Infarmed (INFOMED) and store them under `infarmed/{me
 8) Save PDFs to the folder layout above.
 9) Write `meta.json` with best match info and document metadata.
 10) Extract text with Poppler and parse all sections:
-    - `node scripts/extract-infarmed-med.js <medId>`
-    - `node scripts/parse-infarmed-text.js <medId>`
+    - `node scripts/meds.js extract <medId>`
+    - `node scripts/meds.js parse <medId>`
+    - **Cleaning:** During extraction, strip JSF artifacts and Infarmed approval stamps (e.g., "APROVADO EM...", "INFARMED").
 11) Before proposing additions to `data/meds.json`, scan ALL existing fields for the med
-    (not just the target section) to avoid duplication. Treat every candidate statement
-    as potentially already present under a different key.
-12) Check for inconsistencies in existing `data/meds.json` content versus Infarmed
-    (e.g., conflicting storage times, dosage, reconstitution windows). Flag conflicts
-    explicitly instead of silently overwriting.
+    - Search for the statement across ALL fields for the med.
+    - If already present, do not add it again under a new section.
+    - If the statement exists in a different form, prefer the clearer wording and avoid duplicates.
+    - Use `node scripts/meds.js suggest-merge <medId>` (if available) to assist in identifying overlaps.
+12) Check for inconsistencies in existing `data/meds.json` content versus Infarmed.
+    - **Conflict Format:** Prefix conflicts with `[CONFLITO]: Infarmed indica X (v. meds.json Y)`.
+    - Flag conflicts explicitly instead of silently overwriting.
 
 ## Notes
 - The PDF is not a stable URL; it is returned by a session-based POST.
@@ -51,15 +55,14 @@ Fetch RCM and FI PDFs from Infarmed (INFOMED) and store them under `infarmed/{me
 
 ## Example Fields for meta.json
 - `medId`, `searchTerm`, `retrievedAt` (ISO)
-- `bestMatch`: `infarmedId`, `name`, `dci`, `form`, `dosage`, `holder`, `score`
+- `bestMatch`: `infarmedId`, `name`, `dci`, `form`, `dosage`, `holder`, `score`, `atcCode` (if available)
 - `documents`: `rcm`, `fi` with `status`, `contentType`, `url`, `file`, `size`
 
-## Dedup Checklist
-- Search for the statement across ALL fields for the med.
-- If already present, do not add it again under a new section.
-- If the statement exists in a different form, prefer the clearer wording and avoid duplicates.
 ## Style
-- Avoid trailing periods at the end of sentences in `data/meds.json` list items
+- Avoid trailing periods at the end of sentences in `data/meds.json` list items.
+- Administration routes in `data/meds.json` must be separated into individual list items (e.g., no "Via X / Via Y").
+- Emphatic words like "Nunca", "Não", "Sempre" should be in sentence case.
+- Acronyms such as UCI, ASA, M.U.I., ECG, SNC, AV, IV, IM, TCA CAN be in ALL CAPS.
 ## Consistency Check
 - Compare Infarmed dose, stability, preparation, and storage details with existing entries.
-- If there is a conflict, call it out and request confirmation before changing.
+- If there is a conflict, use the conflict format and request confirmation before changing.

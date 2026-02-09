@@ -38,8 +38,9 @@ npm run lint:meds:fix # Auto-fix ESLint issues in medication data
 ### Data Extraction (Infarmed)
 ```bash
 brew install poppler
-node scripts/extract-infarmed-med.js <medId>
-node scripts/parse-infarmed-text.js <medId> --best-match
+node scripts/meds.js download <medName>
+node scripts/meds.js extract <medName>
+node scripts/meds.js parse <medName> --best-match
 ```
 
 ### Testing
