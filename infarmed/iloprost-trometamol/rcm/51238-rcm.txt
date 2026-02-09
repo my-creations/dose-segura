@@ -1,0 +1,547 @@
+                                                                     APROVADO EM
+                                                                      15-11-2023
+                                                                      INFARMED
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1. NOME DO MEDICAMENTO
+Iloprost Waymade 50 microgramas/0,5 ml concentrado para solução para perfusão
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+0,5 ml de solução aquosa contém 67 microgramas de Iloprost trometamol
+(equivalente a 50 microgramas de iloprost).
+Cada ampola de 0,5 ml contém 4050 µg de etanol 96%.
+Lista completa de excipientes, ver secção 6.1.
+
+3. FORMA FARMACÊUTICA
+Concentrado para solução para perfusão.
+Solução incolor, límpida e sem partículas visíveis.
+
+4. INFORMAÇÕES CLÍNICAS
+4.1 Indicações terapêuticas
+Tratamento de tromboangeíte obliterante avançada (doença de Buerger), com
+perturbações graves da circulação, nos casos em que a revascularização não esteja
+indicada.
+4.2 Posologia e modo de administração
+Posologia
+O tratamento com Iloprost Waymade deve realizar-se sob rigorosa vigilância em
+hospitais ou clínicas que disponham de equipamento adequado.
+Antes do início do tratamento em mulheres, deverá excluir-se a presença de uma
+gravidez.
+Iloprost Waymade é administrado após diluição, como descrito na secção 6.6
+“Precauções especiais de eliminação” sob a forma de perfusão intravenosa, durante
+um período de 6 horas/dia, através de uma veia periférica ou de um catetercentral
+numa veia. A dose será ajustada de acordo com a tolerância individual dentro de
+uma gama posológica de 0,5 a 2,0 ng iloprost/kg de peso corporal/min.
+A solução para perfusão deve ser preparada diariamente para garantir a sua
+esterilidade.
+O conteúdo da ampola e o solvente devem ser completamente misturados.
+A tensão arterial e o ritmo cardíaco deverão ser controlados no início da perfusão e
+depois de cada aumento da dose.
+Durante os primeiros 2 a 3 dias determina-se a dose tolerada pelo doente. Para
+este efeito, o tratamento deverá começar com uma velocidade de perfusão que
+                                                                   APROVADO EM
+                                                                    15-11-2023
+                                                                    INFARMED
+forneça uma dose de 0,5 ng/kg/min, durante 30 minutos. Em seguida, a dose deve
+ser gradualmente aumentada, em intervalos de cerca de 30 minutos, em etapas de
+0,5 ng/kg/min a 2,0 ng/kg/min. A velocidade de perfusão exata deve ser calculada
+com base no peso corporal, de modo a obter uma perfusão entre
+0,5 e 2,0 ng/kg/min (ver tabelas com uso de bomba de perfusão ou de um sistema
+de derivação).
+Se surgirem efeitos secundários, tais como cefaleias, náuseas ou diminuição da
+pressão arterial, deverá reduzir-se a velocidade da perfusão até se encontrar a
+dose tolerada. No caso de se apresentarem efeitos secundários graves, deverá
+interromper-se a perfusão. O tratamento deverá prosseguir, geralmente durante
+um período de 4 semanas, com a dose que tenha sido bem tolerada nos primeiros 2
+a 3 dias.
+Dependendo da técnica de perfusão, existem duas diluições diferentes da ampola.
+Uma destas diluições é 10 vezes menos concentrada do que a outra (0,2 µg/ml
+versus 2 µg/ml) e apenas pode ser utilizada com bomba de perfusão (ex.
+Infusomat). Pelo contrário, a solução com concentração mais elevada é
+administrada através de um sistema de derivação (ex. Perfusor). Para instruções de
+utilização e manipulação, ver secção 6.6 “Precauções especiais de eliminação”.
+Velocidade de perfusão (ml/hora) para diferentes doses com uso de bomba de
+perfusão
+De um modo geral, a solução pronta para perfusão é administrada por via
+intravenosa através de uma bomba para perfusão (ex. Infusomat). Para instruções
+para diluição para utilização com bomba de perfusão, ver secção 6.6 “Precauções
+especiais de eliminação”.
+No caso de uma concentração de Iloprost Waymade de 0,2 µg/ml, a velocidade de
+perfusão necessária deve ser calculada de acordo com o esquema a seguir descrito,
+de modo a obter uma dose entre 0,5 e 2,0 ng/kg/min.
+A tabela seguinte pode ser utilizada para calcular a velocidade de perfusão
+correspondente ao peso individual do doente e a dose para perfusão. Por favor,
+verifique o peso corporal atual do doente e determine a velocidade de perfusão
+para a dose desejada, em ng/kg/min.
+
+ Peso       Dose (ng/kg/min)
+ Corporal
+ (Kg)
+            0,5                1,0                1,5                2,0
+            Velocidade de perfusão (ml/h)
+ 40         6,0                12                 18,0               24
+ 50         7,5                15                 22,5               30
+ 60         9,0                18                 27,0               36
+ 70         10,5               21                 31,5               42
+ 80         12,0               24                 36,0               48
+ 90         13,5               27                 40,5               54
+ 100        15,0               30                 45,0               60
+ 110        16,5               33                 49,5               66
+Velocidade de perfusão (ml/hora) para diferentes doses com uso de um sistema de
+derivação.
+                                                                    APROVADO EM
+                                                                     15-11-2023
+                                                                     INFARMED
+Pode também usar-se um sistema de derivação com uma seringa de injecção de 50
+ml de capacidade (ex. Perfusor). Para instruções para diluição para utilização com
+sistema de derivação, ver secção 6.6 “Precauções especiais de eliminação”.
+No caso de uma concentração de Iloprost Waymade de 2 µg/ml, a velocidade de
+perfusão requerida deve ser determinada de acordo com o esquema seguinte, de
+modo a obter uma dose entre 0,5 e 2,0 ng/kg/min.
+A tabela seguinte pode ser utilizada para calcular a velocidade de perfusão
+correspondente ao peso individual do doente e a dose para perfusão. Por favor,
+verifique o peso corporal actual do doente e determine a velocidade de perfusão
+para a dose desejada, em ng/kg/min.
+ Peso         Dose (ng/kg/min)
+ Corporal
+ (Kg)
+              0,5             1,0           1,5               2,0
+              Velocidade de perfusão (ml/h)
+ 40           0,60            1,2           1,80              2,4
+ 50           0,75            1,5           2,25              3,0
+ 60           0,90            1,8           2,70              3,6
+ 70           1,05            2,1           3,15              4,2
+ 80           1,20            2,4           3,60              4,8
+ 90           1,35            2,7           4,05              5,4
+ 100          1,50            3,0           4,50              6,0
+ 110          1,65            3,3           4,95              6,6
+A duração do tratamento é de 4 semanas.
+Devido a possíveis fenómenos de taquifilaxia do efeito das plaquetas e a uma
+possível hiperagregação plaquetária "rebound" no final do tratamento, não se
+aconselha uma perfusão contínua durante vários dias, se bem que não se tivessem
+registado quaisquer complicações clínicas devidas a estas manifestações.
+- Doentes com insuficiência renal ou hepática
+Há que ter em consideração que, em doentes com insuficiência renal submetidos a
+diálise, bem como em doentes sofrendo de cirrose hepática, a eliminação do
+iloprost é reduzida. Nesses doentes torna-se necessário reduzir a dose (por ex.,
+metade da dose recomendada).
+Modo de administração
+Para instruções acerca da diluição do medicamento antes da administração, ver
+secção 6.6.
+4.3 Contraindicações
+- Hipersensibilidade à substância ativa ou a qualquer um dos excipientes
+mencionados na secção 6.1;
+- Gravidez;
+- Aleitamento;
+- Situações em que o efeito de Iloprost Waymade sobre as plaquetas pode
+aumentar o risco de hemorragias (por ex., úlceras pépticas activas, traumatismos,
+hemorragias intracranianas);
+                                                                     APROVADO EM
+                                                                      15-11-2023
+                                                                      INFARMED
+- Cardiopatia coronária grave ou angina de peito instável;
+- Enfarte do miocárdio nos últimos 6 meses;
+- Insuficiência cardíaca aguda ou crónica (NYHA II-IV);
+- Arritmias graves;
+- Suspeita de congestão pulmonar;
+4.4 Advertências e precauções especiais de utilização
+Advertências especiais
+Não se deverá adiar a intervenção cirúrgica em doentes que necessitem de ser
+submetidos a amputação urgente (por ex., no caso de gangrena infectada).
+Deve ser firmemente recomendado aos doentes para deixarem de fumar.
+A eliminação do iloprost é reduzida em doentes com insuficiência hepática e com
+falência renal que requeiram diálise (ver secção 4.2 “Posologia e modo de
+administração” e 5.2 “Propriedades farmacocinéticas”).
+Deve ter-se cuidado nos doentes hipotensos para evitar um agravamento desta
+situação. Doentes com problemas cardíacos relevantes deverão ser cuidadosamente
+monitorizados.
+Deve ter-se em atenção a possibilidade de ocorrência de hipotensão ortostática em
+doentes que mudem da posição deitada para a posição ereta, no final da perfusão.
+Para doentes com perturbações cerebrovasculares (ataque isquémico transitório,
+AVC) nos últimos 3 meses, deverá ser feita uma rigorosa avaliação do risco-
+benefício (ver também 4.3 “Contraindicações: risco de hemorragia, ex. hemorragia
+intracraniana”).
+Precauções especiais
+Atualmente só existem disponíveis relatórios esporádicos da utilização em crianças
+e adolescentes.
+A perfusão paravascular de Iloprost Waymade não diluído poderá causar alterações
+no local da injeção.
+Deverão ser evitadas a ingestão oral e o contacto com membranas mucosas.
+Quando em contacto com a pele, o iloprost pode provocar eritema persistente, mas
+indolor. Sendo assim, deverão ser tomadas as devidas precauções de forma a
+evitar o contacto do iloprost com a pele. Se acontecer esse contacto, a área afetada
+deverá ser lavada imediatamente com bastante água ou soro fisiológico.
+4.5 Interações medicamentosas e outras formas de interação
+O iloprost pode aumentar a atividade anti-hipertensiva dos bloqueadores dos ß-
+recetores, dos antagonistas do cálcio, dos vasodilatadores e dos inibidores ECA.
+Caso se verifique hipotensão significativa deve reduzir-se a dose de iloprost.
+Dado que o iloprost inibe a agregação plaquetária, a sua utilização em simultâneo
+com anticoagulantes (tais como heparina, anticoagulantes derivados da cumarina)
+ou outros inibidores da agregação plaquetária (tais como ácido acetilsalicílico,
+fármacos anti-inflamatórios não esteroides, inibidores da fosfodiesterase e
+nitrovasodilatadores, ex. molsidomina), podem aumentar o risco de hemorragia. Se
+ocorrerem hemorragias, a administração de iloprost deve ser interrompida.
+                                                                    APROVADO EM
+                                                                     15-11-2023
+                                                                     INFARMED
+A pré-medicação oral com ácido acetilsalicílico até 300 mg por dia durante um
+período de 8 dias não teve impacto na farmacocinética do iloprost. Num estudo com
+animais, foi descoberto que o iloprost pode resultar numa redução doestado
+estacionário da concentração plasmática de t-PA (ativador do plasminogénio). Os
+resultados dos estudos em humanos mostram que as perfusões de iloprost não
+afectam a farmacocinética de doses múltiplas orais de digoxina em doentes e o
+iloprost não tem impacto na farmacocinética de t-PA coadministrado.
+Durante experiências com animais verificou-se que o efeito vasodilatador do
+iloprost é atenuado quando os animais são tratados previamente com
+glucocorticoides, sem alteração da sua ação anti-agregante plaquetária. Ainda não
+se conhece o significado deste dado em relação a seres humanos.
+Embora não tenham sido realizados ensaios clínicos, os estudos in vitro para
+investigar o potencial inibitório do iloprost na atividade enzimática do citocromo
+P450 revelaram que não é de esperar uma inibição relevante no metabolismo de
+fármacos por esta via enzimática pelo iloprost.
+4.6 Fertilidade, gravidez e aleitamento
+Iloprost Waymade não deve ser administrado a mulheres grávidas ou durante o
+período de aleitamento (ver secção 4.3. “Contraindicações”).
+- Gravidez
+Não existem dados adequados relativos ao uso de iloprost em mulheres grávidas.
+Os estudos pré-clínicos mostraram evidência de fetotoxicidade em ratos, mas não
+em coelhos ou macacos (ver secção 5.3. “Dados de segurança pré-clínica”).
+Dado que o risco do uso terapêutico de iloprost durante a gravidez não é conhecido,
+as mulheres em idade fértil deverão tomar medidas contraceptivas eficazes durante
+o tratamento.
+- Amamentação
+Não se sabe se o iloprost passa para o leite materno humano. Dado que em ratos o
+iloprost passa, em doses muito pequenas, para o leite materno, não deverá ser
+administrado a mulheres em fase de aleitamento.
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+Não aplicável.
+4.8 Efeitos indesejáveis
+A ação farmacológica do iloprost reflete-se em efeitos secundários muito frequentes
+tais como cefaleias (68,8%) ou vasodilatação que origina rubor (58%) ou sintomas
+gastrointestinais (até 29,7%). Estes efeitos podem ocorrer enquanto a dose é
+titulada no início do tratamento para a identificação da dose melhor tolerada pelo
+doente. No entanto, todos estes efeitos secundários geralmente desaparecem
+rapidamente com a redução da dose.
+Outro grupo de efeitos secundários está relacionado com reações locais no local de
+perfusão. Por exemplo, podem ocorrer no local de perfusão vermelhidão e dor, ou
+uma vasodilatação cutânea que pode originar eritema estriado no local da veia da
+perfusão.
+As frequências dos efeitos adversos são referidas na tabela seguinte (muito
+frequentes ≥ 1/10, frequentes ≥ 1/100 a <1/10, pouco frequentes ≥ 1/1.000 a
+                                                                       APROVADO EM
+                                                                        15-11-2023
+                                                                        INFARMED
+ <1/100, raros ≥ 1/10.000 a <1/1.000, muito raros <1/10.000 e desconhecidos,
+ não pode ser calculado a partir dos dados disponíveis), são baseadas em dados
+ compilados.
+ Na tabela seguinte, os efeitos adversos foram selecionados de acordo com a
+ incidência nos grupos iloprost (553 doentes) comparados com os grupos placebo
+ (507 doentes) em ensaios clínicos controlados, e as incidências efetivas baseadas
+ em dados cumulativos de 3325 doentes a quem foi administrado iloprost, quer em
+ ensaios clínicos controlados ou não controlados, ou em programas de uso
+ compassivo.
+ Efeitos adversos
+Efeitos adversos
+Classes          de Muito        Frequentes Pouco frequentes Raros
+sistemas         de frequentes   ≥ 1/100 a ≥1/1.000         a ≥1/10.000
+órgãos (MedDRA* ≥ 1/10           <1/10      <1/100            a <1/1.000
+(v.8.0))
+Doenças          do              Anorexia
+metabolismo e
+nutrição
+Perturbações do                  Apatia           Ansiedade
+foro psiquiátrico                                 Depressão
+                                                  alucinações
+Doenças        do Cefaleias      Tonturas,        Tremor
+sistema nervoso                  vertigens        Enxaqueca
+                                 Parestesia/For   Desmaio/Síncope
+                                 migueiro
+                                 Sensação de
+                                 palpitações,
+                                 Hiperestesia,
+                                 Sensação de
+                                 queimadura
+                                 Inquietação,
+                                 Agitação
+                                 Sedação,
+                                 Sonolência
+Afeções oculares                                  Visão anormal
+                                                  Visão enevoada
+                                                  Irritação ocular
+                                                  Dor ocular
+Afeções do ouvido                                                       Perturbações
+e do labirinto                                                          vestibulares
+Cardiopatias                     Bradicardia      Arritmia
+                                                  Extra-sístoles
+                                                  Enfarte         do
+                                                  miocárdio
+Vasculopatias       Rubor        Hipotensão       Acidente vascular
+                                                  cerebral
+                                                  Isquémia
+                                                  cererovascular
+                                                  Trombose        de
+                                                  veias profundas
+                                                  Embolia pulmonar
+                                                                      APROVADO EM
+                                                                       15-11-2023
+                                                                       INFARMED
+Doenças                                            Asma                Tosse
+respiratórias,
+torácicas e do
+mediastino
+Doenças           Nauseas       Diarreia           Dispepsia          Proctite
+gastrointestinais Vómitos       Queixas            Tenesmo
+                                abdominais         Obstipação
+                                Dor abdominal      Eructação
+                                                   Disfagia
+                                                   Diarreia
+                                                   hemorrágica rectal
+                                                   Boca seca
+                                                   Alterações     de
+                                                   paladar
+Afeções                                            Icterícia
+hepatobiliares
+Afeções        dos Sudação                         Prurido
+tecidos cutâneos
+e sub cutâneos
+Afeções                         Dor do manila Tetania
+musculosquelética               Milagia, Trismo Cãibras
+s e dos tecidos                 Artralgia       musculares
+conjuntivos                                     Ipertonia
+Doenças renais e                                   Dor renal
+urinárias                                          Tenesmo
+                                                   urogenital
+                                                   Urina anormal
+                                                   Disúria
+                                                   Doenças do trato
+                                                   urinário
+Perturbações                    Dor
+gerais         e                localizada/Dor
+alterações    no                geral
+local         de                Febre/Aument
+administração                   o             da
+                                temperatura
+                                corporal
+                                Sensação geral
+                                de calor
+                                Fraqueza
+                                Mal-estar geral
+                                Arrepios
+                                Fadiga/Cansaç
+                                o
+                                Sede
+                                Reação        no
+                                local de injeção
+                                (eritema, dor,
+                                flebite)
+ * São descritos os termos MedDRA mais apropriados para descrever as reacções
+ listadas. Os sinónimos ou patologias relacionadas não são listadas, mas devem ser
+ igualmente tidas em consideração.
+                                                                  APROVADO EM
+                                                                   15-11-2023
+                                                                   INFARMED
+Em adição, as reações adversas foram reações alérgicas, estados de confusão,
+taquicardias e aumento da tensão arterial. Foram registados casos isolados de
+dispneia e casos individuais de edema pulmonar ou insuficiência cardíaca em
+doentes idosos com arteriosclerose avançada. O iloprost pode provocar angina,
+especialmente nos doentes que sofrem de doença coronária.
+Foi referida hipotensão após a administração de doses baixas de Iloprost
+Trometamolo.
+O risco de hemorragia aumenta em doentes a quem seja administrado
+concomitantemente inibidores da agregação plaquetária, heparina ou
+anticoagulantes derivados da cumarina.
+Dados de estudos pós-comercialização:
+- Doenças do sistema nervoso
+Muito raro: convulsões.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento
+é importante, uma vez que permite uma monitorização contínua da relação
+benefício-risco do medicamento. Pede-se aos profissionais de saúde que notifiquem
+quaisquer suspeitas de reações adversas diretamente ao INFARMED, I.P.:
+INFARMED, I.P.
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+Fax: + 351 21 798 73 97
+Sítio da internet:
+http://extranet.infarmed.pt/page.seram.frontoffice.seramhomepage
+E-mail: farmacovigilancia@infarmed.pt
+4.9 Sobredosagem
+- Sintomas
+Pode ser esperada reação hipotensiva, bem como cefaleia, rubores, náuseas,
+vómitos e diarreia. Também é possível um aumento na tensão arterial, bradicardia
+ou taquicardia e dores nos membros ou nas costas.
+- Terapia
+Não se conhece um antídoto específico.
+É recomendada a interrupção da administração de iloprost, monitorização e
+medidas sintomáticas.
+
+5. PROPRIEDADES FARMACOLÓGICAS
+5.1 Propriedades farmacodinâmicas
+Grupo farmacoterapêutico:4.3.1.4 Antiagregantes plaquetários.
+Código ATC: B01A C11
+                                                                     APROVADO EM
+                                                                      15-11-2023
+                                                                      INFARMED
+Iloprost é um análogo sintético da prostaciclina. Observaram-se as seguintes
+propriedades farmacológicas:
+- Inibição da agregação, da adesão plaquetária e da reação de libertação;
+- dilatação das arteríolas e vénulas, aumento da densidade capilar e diminuição da
+permeabilidade vascular aumentada provocada por mediadores tais como a
+serotonina ou histamina na microcirculação;
+- estimulação do potencial fibrinolítico endógeno;
+- efeitos anti-inflamatórios, tais como inibição da adesão dos leucócitos após lesão
+endotelial, acumulação de leucócitos em tecido lesado e diminuição da libertação do
+fator de necrose tumoral.
+5.2 Propriedades farmacocinéticas
+Distribuição
+Os níveis plasmáticos em estado estacionário são alcançados passados 10 a 20
+minutos após o início da perfusão intravenosa. Os níveis plasmáticos no estado
+estacionário apresentam uma relação linear com a velocidade de perfusão. Com
+uma velocidade de perfusão de 3 ng/kg/min, obtêm-se níveis plasmáticos de 135 +
+24 pg/ml. Uma vez terminada a perfusão, verifica-se um decréscimo muito rápido
+da concentração plasmática de iloprost, em consequência da elevada velocidade de
+metabolização. A taxa de depuração metabólica da substância, a partir do plasma,
+é aproximadamente 20 + 5 ml/kg/min. A semi-vida da fase de disposição terminal
+do plasma é de 0,5 horas, pelo que os níveis de substância descem para menos de
+10% da concentração de equilíbrio 2 horas após o final da perfusão.
+Quaisquer interações com outros medicamentos, ao nível da ligação às proteínas
+plasmáticas, parecem bastante improváveis, dado que as concentrações de iloprost
+atingidas são muito baixas e, além disso, uma parte predominante do iloprost
+encontra-se ligada à albumina plasmática sanguínea (ligação proteica: 60%). De
+igual modo, afigura-se muito pouco provável qualquer efeito da terapia com iloprost
+sobre a biotransformação de outros medicamentos, dada a natureza das vias
+metabólicas e a presença de baixas doses absolutas.
+Biotransformação
+Iloprost é extensamente metabolizado sobretudo através da ß-oxidação da cadeia
+lateral de carboxilo. Não se verifica qualquer eliminação ulterior de substância
+inalterada. O metabolito principal é o tetranor-iloprost, que se encontra na urina
+sob a forma livre e conjugada de 4 diastereoisómeros. O tetranor-iloprost é
+farmacologicamente inativo, tal como demonstrado em estudos em animais. Os
+estudos in vitro sugerem que o metabolismo do iloprost nos pulmões é semelhante
+após administração intravenosa ou inalação.
+Eliminação
+Em pessoas com função renal e hepática normal a eliminação do iloprost após
+perfusão intravenosa é caracterizada, na maior parte das vezes, por um perfil de
+duas fases, com semi-vidas médias de 3 a 5 minutos e 15 a 30 minutos. A
+depuração total do iloprost é de cerca de 20 ml/kg/min, o que indica uma
+contribuição extra-hepática no metabolismo do iloprost.
+Foi efetuado um estudo de balanço de massa usando 3H-iloprost em pessoas
+saudáveis. Após perfusão intravenosa, a recuperação total da radioatividade é 81%
+e as respetivas recuperações na urina e fezes de 68% e 12%, respetivamente. Os
+metabolitos são eliminados a partir do plasma e com a urina em 2 fases, para as
+quais se calcularam semi-vidas de aproximadamente 2 e 5 horas para o plasma e
+de 2 e 18 horas para a urina.
+                                                                   APROVADO EM
+                                                                    15-11-2023
+                                                                    INFARMED
+Características nos doentes
+Insuficiência renal.
+Num estudo com perfusão intravenosa de iloprost, os doentes com insuficiência
+renal em fase terminal sujeitos a tratamento de diálise intermitente demonstraram
+ter uma depuração significativamente mais baixa (média CL=5±2 ml/minuto/kg) do
+que os doentes com insuficiência renal não sujeitos a tratamento de diálise
+intermitente (média CL=18±2 ml/minuto/kg).
+Insuficiência hepática
+Uma vez que o iloprost é extensamente metabolizado no fígado, os níveis
+plasmáticos do fármaco são influenciados por alterações na função hepática.
+Num estudo intravenoso foram obtidos resultados envolvendo 8 doentes com
+cirrose hepática. A depuração média do iloprost foi estimada em 10 ml/minuto/kg.
+Idade e sexo
+A idade e o sexo não têm relevância clínica na farmacocinética do iloprost.
+5.3 Dados de segurança pré-clínica
+Os dados pré-clínicos baseados em estudos convencionais de segurança
+farmacológica, toxicidade aguda, toxicidade de dose repetida, genotoxicidade e
+potencial carcinogénico não revelam perigos especiais para humanos. Os efeitos
+tóxicos foram apenas observados com exposições consideradas suficientemente
+superiores à exposição máxima em humanos, indicando pouca relevância no uso
+clínico. Estes efeitos foram predominantemente relacionados com ação
+farmacológica excessiva.
+Em estudos de embrio- e fetotoxicidade em ratos, a administração intravenosa
+contínua de iloprost levou a anomalias nas falanges das patas anteriores em alguns
+fetos, sem dependência da dose.
+Estas alterações não são consideradas como verdadeiros efeitos teratogénicos, mas
+estão muito provavelmente relacionadas com o atraso de crescimento na
+organogénese tardia induzido pelo iloprost, devido a alterações hemodinâmicas na
+unidade fetoplacentária. Em estudos comparativos de embriotoxicidade em coelhos
+e macacos não foram observadas estas anomalias nos dedos nem outras alterações
+estruturais grosseiras, nem mesmo após níveis de dose consideravelmente
+superiores às doses terapêuticas.
+
+6. INFORMAÇÕES FARMACÊUTICAS
+6.1 Lista dos excipientes
+Trometamol
+Cloreto de sódio
+Ácido clorídrico 1N
+Água para preparações injetáveis
+Etanol 96%
+6.2 Incompatibilidades
+Não existem dados disponíveis para outros medicamentos que não os descritos na
+secção 6.6 “Precauções especiais de eliminação”.
+                                                                 APROVADO EM
+                                                                  15-11-2023
+                                                                  INFARMED
+6.3 Prazo de validade
+4 anos.
+Foi demonstrada a estabilidade físico-química da solução pronta para perfusão
+(diluída em soro fisiológico ou em solução de glucose) durante 6 horas, a 25°C.
+Do ponto de vista microbiológico, o medicamento deve ser usado imediatamente.
+Se não for usado imediatamente o período e as condições de utilização são da
+responsabilidade do utilizador e normalmente não devem ultrapassar 24 horas a
+uma temperatura entre 2°C e 8°C, excepto se a diluição tiver sido realizada em
+condições assépticas controladas e validadas.
+6.4 Precauções especiais de conservação
+Não são necessárias precauções especiais de conservação.
+6.5 Natureza e conteúdo do recipiente
+Ampolas de vidro tipo I, incolor, de 1 ml, contendo 0,5 ml de concentrado para
+solução para perfusão.
+Apresentações
+Embalagem com 1 ampola contendo 0,5 ml de concentrado para perfusão.
+Embalagem com 5 ampolas contendo cada uma 0,5 ml de concentrado para
+perfusão.
+Embalagem com 20 ampolas (4 x 5) contendo cada uma 0,5 ml de concentrado
+para perfusão.
+6.6 Precauções especiais de eliminação
+Iloprost Waymade só deverá administrar-se após diluição.
+Em virtude da possibilidade de ocorrência de interações medicamentosas, não se
+devem adicionar outros fármacos à solução pronta para perfusão.
+A solução para perfusão deve ser preparada diariamente para garantir a sua
+esterilidade.
+Instruções para diluição
+O conteúdo da ampola e o solvente devem ser completamente misturados.
+Diluição de Iloprost Waymade para utilização com bomba de perfusão:
+O conteúdo de uma ampola de 0,5 ml (i.e. 50 µg) de Iloprost Waymade dilui-se em
+250 ml de soro fisiológico ou de solução de glucose a 5%.
+Diluição de Iloprost Waymade para utilização com sistema de derivação:
+Neste caso, o conteúdo de uma ampola de 0,5 ml (i.e. 50 µg) de Iloprost Waymade
+dilui-se em 25 ml de soro fisiológico ou de solução de glucose a 5%.
+Manipulação
+Devem ser respeitadas as condições de armazenamento dos medicamentos, e estes
+devem ser mantidos fora do alcance e da vista das crianças.
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo
+com as exigências locais.
+                                                                 APROVADO EM
+                                                                  15-11-2023
+                                                                  INFARMED
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+Waymade B.V.
+Herikerbergweg 88,
+1101CM Amsterdam
+Países Baixos
+
+8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+Nº de registo 5389226 - 1 unidade, 50 µg/0.5 ml, concentrado para solução para
+perfusão, ampola de vidro incolor tipo I com capacidade de 1.5 ml
+Nº de registo 5389234 - 5 unidades, 50 µg/0.5 ml, concentrado para solução para
+perfusão, ampola de vidro incolor tipo I com capacidade de 1.5 ml
+Nº de registo 5389242 - 20 unidades, 50 µg/0.5 ml, concentrado para solução para
+perfusão, ampola de vidro incolor tipo I com capacidade de 1.5 ml (4x5)
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+Data da primeira autorização: 20 de Maio de 2011
+
+10. DATA DA REVISÃO DO TEXTO
+

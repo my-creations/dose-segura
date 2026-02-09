@@ -1,0 +1,625 @@
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+
+1. NOME DO MEDICAMENTO
+
+Ambisome Lipossomal 50 mg pó para dispersão para perfusão
+
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada frasco para injetáveis de Ambisome contém 50 mg de anfotericina B lipossómica.
+
+Excipientes com efeito conhecido:
+Sódio - 4,6 mg (sob a forma de succinato dissódico hexahidratado)
+Sacarose - 900 mg
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+3. FORMA FARMACÊUTICA
+
+Pó para dispersão para perfusão.
+
+Pó ou bolo liofilizado de cor amarela, estéril.
+
+
+4. INFORMAÇÕES CLÍNICAS
+
+4.1 Indicações terapêuticas
+
+Ambisome está indicado para:
+
+Tratamento de micoses sistémicas graves.
+
+Tratamento empírico de micoses em doentes com febre e neutropenia grave, em resultado de
+patologias hematológicas malignas ou devido à administração de fármacos citotóxicos ou
+imunossupressores.
+
+Terapêutica primária da leishmaníase visceral em doentes imunocompetentes, quer sejam
+crianças ou adultos.
+
+4.2 Posologia e modo de administração
+
+Ambisome deve ser administrado por perfusão intravenosa durante um período de 30-60
+minutos. Para doses superiores a 5 mg/kg/dia, recomenda-se a perfusão intravenosa durante um
+período de 2 horas (ver secção 4.4). A concentração recomendada para a perfusão intravenosa de
+Ambisome é de 0,20 mg/ml a 2,00 mg/ml de anfotericina B como Ambisome.
+
+Adultos
+
+Tratamento de micoses e tratamento empírico de micoses em doentes com febre e neutropenia
+grave
+
+O tratamento inicia-se habitualmente com uma dose diária de 1,0 mg/kg de peso corporal e
+vai-se aumentando gradualmente até 3,0 mg/kg/dia, se necessário. Em casos específicos de
+infeções fúngicas extremamente graves podem usar-se doses até 5 mg/kg/dia.
+
+Têm sido comuns tratamentos com doses cumulativas de 1,0 – 3,0 g de anfotericina B sob a
+forma de Ambisome durante um período de 3 a 4 semanas. A posologia de Ambisome deve ser
+ajustada às características específicas de cada doente.
+
+Mucormicose
+O tratamento inicia-se com uma dose de 5 mg/kg, administrada diariamente. A duração do
+tratamento deve ser determinada de acordo com as características de cada doente. Tratamentos
+até 56 dias são geralmente utilizados na prática clínica; pode ser necessária uma duração de
+tratamento superior para o tratamento de micoses profundas instaladas ou no caso de cursos
+prolongados de quimioterapia ou neutropenia.
+
+Têm sido utilizadas doses superiores a 5 mg/kg nos ensaios clínicos e na prática clínica. Os
+dados disponíveis sobre a segurança e eficácia de Ambisome no tratamento da mucormicose com
+doses mais elevadas são limitados, assim deve ser feita uma avaliação individual do
+benefício:risco de acordo com as características específicas de cada doente para determinar se os
+potenciais benefícios são considerados superiores ao conhecido aumento do risco de toxicidade
+com doses mais elevadas de Ambisome (ver secção 4.4).
+
+Tratamento da leishmaníase visceral
+
+Uma dose de 1,0 a 1,5 mg/kg/dia durante 21 dias ou alternativamente uma dose de 3,0 mg/kg/dia
+durante 10 dias pode ser usada para o tratamento da leishmaníase visceral.
+
+População pediátrica
+
+Ambisome tem sido estudado em doentes pediátricos com idade de 1 mês até 18 anos. A dose
+deve ser calculada na mesma base por kg de peso corporal como para os adultos.
+
+Ambisome não é recomendado em crianças com idade inferior a 1 mês devido à ausência de
+dados de segurança e eficácia.
+
+Doentes Idosos
+Não existem recomendações ou precauções especiais para estes doentes. Não é necessário alterar
+a dose ou a frequência de administração.
+
+Insuficiência Renal
+
+Ambisome tem sido administrado com sucesso, em ensaios clínicos, a doentes com insuficiência
+renal preexistente em doses de 1 - 5 mg/kg/dia, não tendo sido necessário qualquer ajuste na dose
+ou na frequência de administração (ver secção 4.4 e secção 5.2).
+
+Insuficiência Hepática
+
+Não existem dados disponíveis que possibilitem uma recomendação de dose para doentes com
+insuficiência hepática (ver secção 4.4).
+Para instruções acerca da reconstituição e diluição do medicamento antes da administração, ver
+secção 6.6.
+
+4.3 Contraindicações
+
+Hipersensibilidade à substância ativa ou qualquer um dos excipientes mencionados na secção
+6.1, a menos que, na opinião do médico, a condição a requerer tratamento envolva risco de vida e
+seja apenas sensível à terapêutica com Ambisome.
+
+4.4 Advertências e precauções especiais de utilização
+
+Foram notificadas reações anafilactóides e anafilaxia associada à perfusão com Ambisome. Se
+ocorrer uma reação anafilactóide/anafilática grave, a perfusão deve ser interrompida de imediato
+e o doente não deverá receber outra perfusão de Ambisome.
+
+Podem ocorrer outras reações graves relacionadas com a perfusão durante a administração de
+medicamentos contendo anfotericina B, incluindo o Ambisome (ver secção 4.8). Embora as
+reações relacionadas com a perfusão não sejam habitualmente graves, devem ser tomadas
+medidas de precaução para prevenir ou tratar estas reações em doentes medicados com
+Ambisome. Velocidades de perfusão inferiores (durante 2 horas) ou administrações regulares de
+difenidramina, paracetamol, petidina e/ou de hidrocortisona foram notificadas como bem-
+sucedidas na prevenção ou tratamento destas reações.
+
+O Ambisome demonstrou ser substancialmente menos tóxico que a anfotericina B convencional,
+particularmente no que diz respeito à nefrotoxicidade; no entanto, podem ainda ocorrer reações
+adversas, incluindo reações adversas renais.
+
+Nos estudos que compararam o Ambisome 3 mg/kg por dia com doses mais elevadas (5, 6 ou
+10 mg/kg por dia), verificou-se que as taxas de incidência de creatinina sérica aumentada,
+hipocaliemia e hipomagnesemia foram notavelmente mais elevadas nos grupos de dose elevada.
+
+Deve ser efetuada uma avaliação laboratorial regular dos eletrólitos do soro, em especial o
+potássio e o magnésio, bem como da função renal, hepática e hematopoiética. Devido ao risco de
+hipocaliemia, pode ser necessária uma suplementação adequada de potássio durante o curso da
+administração de Ambisome. Se ocorrer uma redução clinicamente significativa da função renal
+ou um agravamento de outros parâmetros, deve considerar-se a redução da dose, a interrupção ou
+a descontinuação do tratamento. Foram notificados casos de hipercaliemia (alguns dos quais
+levando a arritmias cardíacas e paragem cardíaca). A maioria ocorreu em doentes com
+compromisso renal, e alguns após suplementação de potássio em doentes com hipocaliemia
+prévia. Por conseguinte, a função renal e a avaliação laboratorial do potássio devem ser medidas
+antes e durante o tratamento. Isto é particularmente importante em doentes com doença renal
+preexistente, que já tenham experienciado insuficiência renal, ou em doentes que estejam a
+receber concomitantemente medicamentos nefrotóxicos (ver secção 4.5).
+
+Tem sido notificada toxicidade pulmonar aguda em doentes aos quais foi administrada
+anfotericina B (como complexo de desoxicolato de sódio) durante ou logo após transfusões de
+leucócitos. Recomenda-se que estas perfusões sejam separadas por períodos de tempo tão longos
+quanto possível e a função pulmonar deve ser monitorizada.
+
+Tratamento de doentes diabéticos: Deve ter-se em atenção que cada frasco para injetáveis de
+Ambisome contém aproximadamente 900 mg de sacarose. Ter ainda em mente a quantidade de
+glucose contida no diluente (dextrose a 5%, 10% e 20%).
+
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por frasco para injetáveis, ou
+seja, é praticamente “isento de sódio” (informação relativa a um valor calculado com base na
+quantidade total de Na+ no medicamento).
+
+4.5 Interações medicamentosas e outras formas de interação
+
+Não foram realizados estudos de interação específicos com o Ambisome. Contudo, conhece-se
+que os seguintes fármacos interagem com a anfotericina B e podem interagir com o Ambisome:
+
+Medicamentos nefrotóxicos: A administração concomitante de Ambisome com outros fármacos
+nefrotóxicos (por exemplo ciclosporina, aminoglicosídeos e pentamidina) pode acentuar, em
+alguns doentes, o potencial de toxicidade renal induzida por fármacos. Contudo, em doentes aos
+quais foram administrados concomitantemente ciclosporina e/ou aminoglicosídeos, o Ambisome
+foi associado com uma nefrotoxicidade significativamente inferior em comparação com a
+anfotericina B. Recomenda-se a monitorização regular da função renal em doentes aos quais é
+administrado Ambisome com quaisquer medicamentos nefrotóxicos.
+
+Corticosteroides, corticotropina (ACTH) e diuréticos: A utilização concomitante de
+corticosteroides, ACTH e diuréticos (da ansa e tiazida) pode potenciar a hipocaliemia.
+Glicosidos digitálicos: A hipocaliemia induzida pelo Ambisome pode potenciar a toxicidade dos
+digitálicos.
+
+Relaxantes do músculo-esquelético: A hipocaliemia induzida pelo Ambisome pode acentuar o
+efeito curariforme dos relaxantes do músculo-esquelético (ex. tubocurarina).
+Antifúngicos: A utilização concomitante com flucitosina pode aumentar a toxicidade da
+flucitosina possivelmente pelo aumento da sua captação celular e/ou comprometendo a sua
+excreção renal.
+
+Medicamentos antineoplásicos: A utilização concomitante de medicamentos antineoplásicos
+pode acentuar o potencial para toxicidade renal, broncospasmo e hipotensão. Os medicamentos
+antineoplásicos devem ser administrados concomitantemente com precaução.
+
+Transfusões de leucócitos: Tem sido notificada toxicidade pulmonar aguda em doentes aos quais
+foi administrada anfotericina B (como complexo de desoxicolato de sódio) durante ou logo após
+transfusões de leucócitos. Recomenda-se que estas perfusões sejam separadas por períodos de
+tempo tão longos quanto possível e a função pulmonar deve ser monitorizada.
+
+4.6 Fertilidade, gravidez e aleitamento
+
+Gravidez
+
+Estudos de teratogenicidade realizados em ratos e coelhos permitiram concluir que Ambisome
+não apresenta potencial teratogénico nestas espécies (ver também secção 5.3).
+
+A segurança de Ambisome em mulheres grávidas não foi estabelecida. Ambisome deve apenas
+ser utilizado durante a gravidez se os possíveis benefícios decorrentes dessa utilização
+sobrepuserem os potenciais riscos para a mãe e para o feto.
+
+Infeções fúngicas sistémicas em mulheres grávidas foram tratadas com sucesso com anfotericina
+B convencional sem efeitos evidentes no feto, no entanto o número de casos notificados é
+insuficiente para elaborar quaisquer conclusões relativamente à segurança de Ambisome na
+gravidez.
+
+Amamentação
+
+Desconhece-se se Ambisome é excretado no leite materno. Uma decisão relativa a amamentar
+enquanto em tratamento com Ambisome deve considerar o potencial risco para a criança bem
+como o benefício da amamentação para a criança e o benefício da terapêutica com Ambisome
+para a mãe.
+
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. Alguns dos
+efeitos indesejáveis de Ambisome apresentados abaixo podem ter influência na capacidade de
+conduzir e utilizar máquinas.
+
+4.8 Efeitos indesejáveis
+
+De um modo geral, a incidência de reações adversas conhecidas por ocorrerem com a terapêutica
+com anfotericina B convencional é elevada. Febre e arrepios/tremores são as reações mais
+frequentes relacionadas com a perfusão que se espera que ocorram durante a administração de
+Ambisome. As reações menos frequentes relacionadas com a perfusão podem consistir em um ou
+mais dos seguintes sintomas: dor ou aperto no peito, dispneia, broncospasmo, rubor, taquicardia,
+hipotensão e dor musculosquelética (descrita como artralgia, dor nas costas ou dor óssea). Estes
+resolvem-se rapidamente parando a perfusão e podem não ocorrer com todas as doses
+subsequentes ou quando se utilizam velocidades de perfusão inferiores (durante 2 horas). Para
+além disso, as reações relacionadas com a perfusão podem também ser prevenidas pela utilização
+prévia de medicação. Contudo, as reações graves relacionadas com a perfusão podem necessitar
+a interrupção permanente de Ambisome (ver secção 4.4).
+
+Em dois estudos comparativos, com dupla ocultação, os doentes tratados com Ambisome
+experienciaram reações relacionadas com a perfusão com uma incidência significativamente
+inferior, quando comparados com os doentes tratados com a anfotericina B convencional ou a
+anfotericina B na forma de complexo lipídico.
+
+Em dados de estudos agrupados a partir de ensaios clínicos controlados, aleatorizados,
+comparando a terapêutica Ambisome com anfotericina B convencional em mais de 1.000
+doentes, as reações adversas notificadas foram consideravelmente menos graves e menos
+frequentes nos doentes tratados com Ambisome quando comparados com os doentes tratados
+com anfotericina B convencional.
+
+A nefrotoxicidade ocorre em certo grau com a anfotericina B convencional, na maioria dos
+doentes aos quais o fármaco é administrado por via intravenosa. Em dois estudos, com dupla
+ocultação, a incidência de nefrotoxicidade com Ambisome (medida por um aumento da
+creatinina sérica superior a 2,0 vezes o valor basal determinado), é aproximadamente metade da
+que é notificada para a anfotericina B convencional ou a anfotericina B sob a forma de complexo
+lipídico.
+
+As seguintes reações adversas foram atribuídas ao Ambisome com base nos dados de ensaios
+clínicos e de experiência pós-comercialização. A frequência baseia-se na análise, a partir de
+ensaios clínicos agrupados, de 688 doentes tratados com Ambisome; desconhece-se a frequência
+das reações adversas identificadas a partir da experiência pós-comercialização. As reações
+adversas estão descritas abaixo por classe de sistema de órgãos segundo a base de dados
+MedDRA e classificadas por frequência. Dentro de cada classe de frequência, os efeitos
+indesejáveis são apresentados por ordem decrescente de gravidade.
+
+As frequências são definidas como:
+Muito frequentes      (≥1/10)
+Frequentes            (≥1/100, <1/10)
+Pouco frequentes      (≥1/1.000, <1/100)
+Muito raros           (<1/10.000)
+Desconhecido (não pode ser calculado a partir dos dados disponíveis)
+
+DOENÇAS DO SANGUE E DO SISTEMA LINFÁTICO
+Pouco frequentes: trombocitopenia
+Desconhecido: anemia
+DOENÇAS DO SISTEMA IMUNITÁRIO
+Pouco frequentes: reação anafilactóide
+Desconhecido: reações anafiláticas, hipersensibilidade
+
+DOENÇAS DO METABOLISMO E DA NUTRIÇÃO
+Muito frequentes: hipocaliemia
+Frequentes: hiponatremia, hipocalcemia, hipomagnesemia, hiperglicemia, hipercaliemia
+
+DOENÇAS DO SISTEMA NERVOSO
+Frequentes: cefaleias
+Pouco frequentes: convulsões
+
+CARDIOPATIAS
+Frequentes: taquicardia
+Desconhecido: paragem cardíaca, arritmia
+
+VASCULOPATIAS
+Frequentes: hipotensão, vasodilatação, rubor
+
+DOENÇAS RESPIRATÓRIAS, TORÁCICAS E DO MEDIASTINO
+Frequentes: dispneia
+Pouco frequentes: broncospasmos
+
+DOENÇAS GASTROINTESTINAIS
+Muito frequentes: náuseas, vómitos
+Frequentes: diarreia, dor abdominal
+
+AFEÇÕES HEPATOBILIARES
+Frequentes: testes da função hepática alterados, hiperbilirrubinémia, fosfatase alcalina
+aumentada
+
+AFEÇÕES DOS TECIDOS CUTÂNEOS E SUBCUTÂNEOS
+Frequentes: erupção cutânea
+Desconhecido: edema angioneurótico
+
+AFEÇÕES MUSCULOSQUELÉTICAS E DOS TECIDOS CONJUNTIVOS
+Frequentes: dor nas costas
+Desconhecido: rabdomiólise (associado a hipocaliemia), dor musculosquelética (descrita como
+artralgia ou dor óssea)
+
+DOENÇAS RENAIS E URINÁRIAS
+Frequentes: creatinina aumentada, ureia sanguínea aumentada
+Desconhecido: falência renal, insuficiência renal
+
+PERTURBAÇÕES GERAIS E ALTERAÇÕES NO LOCAL DE ADMINISTRAÇÃO
+Muito frequentes: tremores, pirexia
+Frequentes: dor no peito
+
+Interferência com o doseamento bioquímico do fósforo:
+Podem ocorrer falsas elevações do fosfato sérico quando amostras de doentes em tratamento com
+Ambisome são analisadas utilizando o ensaio PHOSm (por ex., utilizado em aparelhos Beckman
+Coulter incluindo o Synchron LX20). Este ensaio destina-se à determinação quantitativa de
+fósforo inorgânico em amostras de soro, plasma e urina humanas.
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante,
+uma vez que permite uma monitorização contínua da relação benefício-risco do medicamento.
+Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas
+através do sistema nacional de notificação:
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+E-mail: farmacovigilancia@infarmed.pt
+
+4.9 Sobredosagem
+
+A toxicidade de Ambisome devido a uma sobredosagem aguda não foi determinada. Caso ocorra
+sobredosagem, interromper de imediato a administração. Monitorizar cuidadosamente o estado
+clínico incluindo a função hepática e renal, os eletrólitos séricos e o estado hematológico. A
+hemodiálise ou a diálise peritoneal não parecem afetar a eliminação de Ambisome.
+
+
+5. PROPRIEDADES FARMACOLÓGICAS
+
+5.1 Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 1.2 – Medicamentos anti-infeciosos. Antifúngicos, código ATC:
+J02AA01.
+
+A anfotericina B é um antibiótico antifúngico polieno, macrocíclico produzido pelo
+Streptomyces nodosus. Os lipossomas são vesículas esféricas fechadas constituídas por diversas
+substâncias anfifílicas tais como os fosfolípidos. Os fosfolípidos organizam-se numa membrana
+em bicamada na presença de soluções aquosas. A metade lipofílica da anfotericina B permite que
+o fármaco se integre dentro da bicamada lipídica dos lipossomas. A anfotericina B é um agente
+fungistático ou fungicida dependendo da concentração atingida nos fluidos orgânicos e da
+suscetibilidade do próprio fungo. Pensa-se que o fármaco atua por ligação aos esteróis presentes
+na membrana celular do fungo, com consequente alteração das suas características de
+permeabilidade, permitindo deste modo a perda para o exterior de pequenas moléculas. As
+membranas celulares dos mamíferos também contêm esteróis, pelo que tem sido sugerido um
+mecanismo comum para a lesão das células fúngicas e humanas causadas pela anfotericina B.
+
+Microbiologia
+
+A anfotericina B, o componente antifúngico do Ambisome, apresenta um elevado grau de
+atividade in vitro contra inúmeras espécies de fungos. A maioria das estirpes do Histoplasma
+capsulatum, Coccidioides immitis, Candida spp., Blastomyces dermatitidis, Rhodotorula,
+Cryptococcus neoformans, Sporothrix schenkii, Mucor mucedo e Aspergillus fumigatus são
+inibidas in vitro por concentrações de anfotericina B que variam entre 0,03 e 1,0
+microgramas/ml. A anfotericina B tem um efeito mínimo ou nulo sobre as bactérias e vírus.
+
+Ambisome tem demonstrado ser eficaz em modelos animais de leishmaníase visceral (causada
+pela Leishmania infantum e Leishmania donovani). Em ratinhos infetados com Leishmania
+infantum e tratados com Ambisome 3 mg/kg em 3-7 doses, todos os regimes posológicos de
+Ambisome curaram os ratinhos mais imediatamente do que o stibogluconato de sódio, e não foi
+observada toxicidade. Em ratinhos infetados com Leishmania donovani, Ambisome foi > 5 vezes
+mais eficaz e > 25 vezes menos tóxico do que a anfotericina B.
+
+5.2 Propriedades farmacocinéticas
+
+Com base nas concentrações plasmáticas totais de anfotericina B, o perfil farmacocinético do
+Ambisome, foi determinado em doentes com cancro com neutropenia febril e em doentes com
+transplante de medula óssea que receberam perfusão, durante 1 hora, de 1,0 a 7,5 mg/kg/dia de
+Ambisome durante 3 a 20 dias. Ambisome apresenta um perfil farmacocinético
+significativamente diferente do descrito na literatura para as apresentações convencionais de
+anfotericina B, com concentrações plasmáticas mais elevadas (Cmax) de anfotericina B e
+exposição aumentada (AUC0-24) após administração de Ambisome, do que após administração
+da anfotericina B convencional. Os parâmetros farmacocinéticos de Ambisome (média ± desvio
+padrão) após a primeira e última dose variaram de:
+
+Cmáx                 7,3 microgramas/ml (± 3,8) a 83,7 microgramas/ml (± 43,0)
+t1/2                        6,3 h (± 2,0) a 10,7 h (± 6,4)
+AUC 0-24                    27 microgramas.h/ml (± 14) a 555 microgramas.h/ml (±311)
+Clearance (Cl)       11 ml/h/kg (± 6) a 51 ml/h/kg (±44)
+Volume de distribuição (Vd) 0,10 l/kg (± 0,07) a 0,44 l/kg (± 0,27)
+
+Os valores farmacocinéticos máximos e mínimos não provêm necessariamente das doses mais
+elevadas e mais baixas, respetivamente. O estado estacionário foi atingido rapidamente (de uma
+maneira geral em 4 dias de administração) após a administração de Ambisome. A
+farmacocinética do Ambisome após a primeira dose parece não-linear uma vez que as
+concentrações séricas de Ambisome são superiores ao aumento proporcional da dose. Pensa-se
+que esta resposta não proporcional à dose se deve à saturação da depuração reticuloendotelial do
+Ambisome. Após administração repetida de 1 a 7,5 mg/kg/dia não se verificou acumulação
+significativa do fármaco no plasma. O volume de distribuição no dia 1 e no estado estacionário
+sugere que existe uma extensa distribuição tecidular do Ambisome. Após a administração
+repetida de Ambisome a semivida de eliminação terminal (t1/2β) para o Ambisome foi de,
+aproximadamente, 7 horas. A excreção do Ambisome não foi estudada. As vias metabólicas da
+anfotericina B e do Ambisome são desconhecidas. Devido às dimensões dos liposomas, não
+existe filtração glomerular e eliminação renal do Ambisome, evitando-se, deste modo, a
+interação da anfotericina B com as células do túbulo distal e reduzindo-se o potencial para a
+nefrotoxicidade verificado com as apresentações da anfotericina B convencional.
+
+Insuficiência Renal
+
+O efeito da insuficiência renal na farmacocinética do Ambisome não foi formalmente estudado.
+Dados sugerem não ser necessário ajuste da dose em doentes sujeitos a hemodiálise ou a
+procedimentos de filtração, no entanto, a administração de Ambisome deve ser evitada durante o
+procedimento.
+
+5.3 Dados de segurança pré-clínica
+
+Em estudos de toxicidade sub-crónica em cães (1 mês), coelhos (1 mês) e ratos (3 meses) com
+doses iguais ou, em algumas espécies, inferiores à dose terapêutica clínica de 1 a 3 mg/kg/dia, os
+órgãos alvo para a toxicidade do Ambisome foram o fígado e os rins. Todos conhecidos por
+serem órgãos alvo da toxicidade da anfotericina B.
+
+Verificou-se que o Ambisome não era mutagénico em sistemas bacterianos e mamíferos.
+
+Não foram realizados estudos de carcinogenicidade com Ambisome.
+
+Não se verificaram efeitos adversos na função reprodutora masculina ou feminina de ratos.
+
+
+6. INFORMAÇÕES FARMACÊUTICAS
+
+6.1 Lista dos excipientes
+
+Fosfatidilcolina de soja hidrogenada
+Colesterol
+Distearoilfosfatidilglicerol
+Alfa-tocoferol
+Sacarose
+Succinato dissódico hexahidratado
+Hidróxido de sódio (para ajuste de pH)
+Ácido clorídrico (para ajuste de pH)
+
+6.2 Incompatibilidades
+O Ambisome é incompatível com soluções salinas e não deve ser misturado com outros fármacos
+ou eletrólitos.
+
+Este medicamento não deve ser misturado com outros medicamentos, exceto os mencionados na
+secção 6.6.
+
+6.3 Prazo de validade
+
+4 anos
+
+O concentrado do produto reconstituído pode ser conservado até 24 horas a 2-8ºC, após
+reconstituição com água. Quando diluído com dextrose a 5%, 10% ou 20%, o Ambisome deve
+ser administrado o mais rapidamente possível.
+
+Após a primeira abertura
+
+Como o Ambisome não contém nenhum agente bacteriostático, de um ponto de vista
+microbiológico, o produto reconstituído ou diluído deve ser imediatamente utilizado.
+
+Os tempos de conservação em utilização e as condições prévias à administração são da
+responsabilidade do utilizador e não deverão, normalmente, ser superiores a 24 horas a 2-8ºC,
+exceto se a reconstituição tiver sido realizada em condições assépticas controladas e validadas.
+
+No entanto, os seguintes dados relativos à estabilidade química e física em utilização de
+Ambisome foram demonstrados:
+
+Prazo de validade após reconstituição com água:
+Frascos para injetáveis de vidro - durante 24 horas a 25±2 ºC expostos à luz ambiente.
+Frascos para injetáveis de vidro e seringas de polipropileno - até 7 dias a 2-8 ºC.
+Não congelar.
+
+NÃO CONSERVAR frascos de vidro parcialmente utilizados para utilização em futuros doentes.
+
+Prazo de validade após diluição com Dextrose
+
+Sacos de perfusão PVC ou poliolefina: Ver tabela abaixo para recomendações.
+
+                             Concentração de     Duração máxima de Duração máxima de
+ Diluente   Diluição         anfotericina B      conservação a     conservação a
+            (v:v)            mg/ml               2-8ºC             25±2ºC
+ Dextrose a 1 em 2           2,0                 7 dias            72 horas
+ 5%
+            1 em 8           0,5                 7dias                72 horas
+            1 em 20          0,2                 4 dias               24 horas
+ Dextrose a 1 em 2           2,0                 48 horas             72 horas
+ 10%
+ Dextrose a 1 em 2           2,0                48 horas             72 horas
+ 20%
+
+6.4 Precauções especiais de conservação
+
+Não conservar acima de 25ºC.
+
+Condições de conservação do medicamento reconstituído e diluído, ver secção 6.3.
+
+6.5 Natureza e conteúdo do recipiente
+
+Ambisome apresenta-se sob a forma de pó liofilizado e estéril em frascos para injetáveis de vidro
+tipo I USP de 20 ml.
+O frasco para injetáveis é fechado com uma rolha de borracha butílica e um selo de alumínio em
+anel ajustado com uma cápsula de fecho de plástico removível.
+
+Cada embalagem contém 10 frascos para injetáveis e 10 filtros de 5 µm.
+
+6.6 Precauções especiais de eliminação e manuseamento
+
+LEIA ATENTAMENTE ESTA SECÇÃO ANTES DE INICIAR A RECONSTITUIÇÃO.
+
+As recomendações posológicas de diferentes medicamentos contendo anfotericina B podem
+apresentar diferenças consideráveis. Ao mudar entre Ambisome e outros medicamentos contendo
+anfotericina B deve verificar as respetivas recomendações de posologia e modo de
+administração.
+
+Ambisome deve ser reconstituído utilizando água para preparações injetáveis (sem agente
+bacteriostático) e diluído com solução de dextrose (5%, 10% ou 20%) apenas para perfusão.
+
+A utilização de qualquer outra solução, que não a recomendada, ou a presença de um agente
+bacteriostático (ex., álcool benzílico) na solução, pode causar a precipitação do Ambisome.
+
+Ambisome NÃO é compatível com soluções salinas e não deve ser reconstituído ou diluído com
+uma solução salina ou administrado através de uma linha intravenosa utilizada previamente para
+administração de uma solução salina, a menos que tenha sido irrigada antes com solução de
+dextrose (5%, 10% ou 20%) apenas para perfusão. Se não for possível, Ambisome deve ser
+administrado através de uma linha de perfusão separada.
+
+Não misture Ambisome com outros fármacos ou eletrólitos.
+
+Deve ser estritamente seguida uma técnica asséptica durante todo o manuseamento, uma vez que
+não existem agentes conservantes ou bacteriostáticos no Ambisome, ou nos materiais
+especificados para a reconstituição e diluição.
+Os frascos para injetáveis de Ambisome, contendo 50 mg de anfotericina B, devem ser
+preparados da seguinte forma:
+
+1) Adicionar 12 ml de água para preparações injetáveis a cada frasco para injetáveis de
+Ambisome, para produzir uma preparação contendo 4 mg/ml de anfotericina B.
+
+2) IMEDIATAMENTE após adição da água, AGITAR VIGOROSAMENTE OS FRASCOS
+PARA INJETÁVEIS durante 30 segundos para obter a dispersão completa de Ambisome. Após
+reconstituição com água para preparações injetáveis o concentrado é uma dispersão amarela
+translúcida.
+Inspecione visualmente os frascos para injetáveis e continue a agitar até obter uma completa
+dispersão, sem partículas visíveis. Não utilize o medicamento se houver qualquer evidência de
+precipitação ou de matéria estranha.
+
+3) Calcular a quantidade de Ambisome reconstituído (4 mg/ml) para ser posteriormente diluído
+(ver a tabela abaixo).
+
+4) A solução para perfusão é obtida por diluição de Ambisome reconstituído com entre uma (1) e
+dezanove (19) partes de solução de dextrose (5%, 10% ou 20%) para perfusão por volume, para
+dar uma concentração final no intervalo recomendado de 2,00 mg/ a 0,20 mg/ml de anfotericina
+na forma de Ambisome (ver tabela abaixo).
+
+5) Retirar o volume calculado de Ambisome reconstituído para uma seringa estéril. Utilizando o
+filtro de 5 µm fornecido, instilar a preparação de Ambisome num recipiente estéril com a
+quantidade correta de solução de dextrose (5%, 10% ou 20%) para perfusão.
+
+Pode utilizar-se um filtro de membrana em linha para a perfusão intravenosa de Ambisome.
+Contudo o diâmetro médio dos poros do filtro não deve ser inferior a 1,0 µm.
+
+Exemplo da preparação de Ambisome dispersão para perfusão numa dose de 3 mg/kg/dia em
+solução de dextrose a 5% para perfusão.
+
+Peso   Número de     Quantidade      Volume de     Para obter uma            Para obter uma
+(kg)   frascos       de              Ambisome      concentração de           concentração de
+       para          Ambisome        reconstituí   0,2 mg/ml                 2,0 mg/ml
+       injetáveis    (mg) a ser      do (ml)*
+                     retirada para                 (diluição de 1 em 20)     (diluição de 1 em 2)
+                     diluição
+                                                   Volume       Volume       Volume       Volume
+                                                   necessário   total (ml;   necessário   total (ml;
+                                                   de           Ambisome     de           Ambisome
+                                                   dextrose a   mais         dextrose a   mais
+                                                   5% (ml)      dextrose a   5% (ml)      dextrose a
+                                                                5%)                       5%)
+10     1             30              7,5           142,5        150          7,5          15
+25     2             75              18,75         356,25       375          18,75        37,5
+40     3            120            30            570          600           30           60
+55     4            165            41,25         783,75       825           41,25        82,5
+70     5            210            52,5          997,5        1050          52,5         105
+85     6            255            63,75         1211,25      1275          63,75        127,5
+
+* Cada frasco para injetáveis de Ambisome (50 mg) é reconstituído com 12 ml de água para
+preparações injetáveis para dar uma concentração de 4 mg/ml de anfotericina B.
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as
+exigências locais.
+
+
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Gilead Sciences, Lda.
+Atrium Saldanha
+Praça Duque de Saldanha, n.º1 – 8ºA e B
+1050-094 Lisboa
+Portugal
+
+
+8. NÚMEROS DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+N.º de registo: 5415815 – 10 unidades de pó para dispersão para perfusão, 50 mg, 10 frascos para
+injetáveis de vidro tipo I com 20 ml de capacidade
+
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 24 de agosto de 1992
+Data da última renovação: 24 de julho de 2007
+
+
+10. DATA DA REVISÃO DO TEXTO
+

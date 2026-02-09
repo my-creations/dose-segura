@@ -1,0 +1,15 @@
+{
+  "bestMatch": {
+    "infarmedId": "32122",
+    "medicationName": "Etomidato-LipuroMG",
+    "dci": "Etomidato",
+    "form": "Emulsão injetável",
+    "dosage": "2 mg/ml",
+    "holder": "B. Braun Medical, Unipessoal Lda.",
+    "searchTerm": "etomidato"
+  },
+  "documents": {
+    "rcm": "rcm/32122-rcm.pdf",
+    "fi": "fi/32122-fi.pdf"
+  }
+}

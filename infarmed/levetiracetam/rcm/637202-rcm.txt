@@ -1,0 +1,923 @@
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1.     NOME DO MEDICAMENTO
+
+Levetiracetam G.E.S. – 100 mg/ml Concentrado para solução para perfusão
+
+
+
+2.     COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada ml contém 100 mg de levetiracetam.
+Cada frasco para injetáveis de 5 ml contém 500 mg de levetiracetam
+Excipiente(s) com efeito conhecido
+Cada frasco para injetáveis contém 19,10 mg de sódio (na forma de acetato de sódio tri-hidratado e
+de cloreto de sódio).
+Lista completa de excipientes, ver secção 6.1.
+
+
+
+3.     FORMA FARMACÊUTICA
+
+Concentrado para solução para perfusão (concentrado estéril).
+Líquido transparente e incolor.
+
+
+
+4.     INFORMAÇÕES CLÍNICAS
+
+4.1    Indicações terapêuticas
+
+Levetiracetam G.E.S. está indicado como monoterapia em epilepsia recentemente diagnosticada
+para tratar de crises parciais com ou sem generalização secundária em adultos e adolescentes a
+partir dos 16 anos.
+
+Levetiracetam G.E.S. está indicado como terapêutica adjuvante:
+• no tratamento de crises parciais com ou sem generalização secundária em adultos, adolescentes
+e crianças a partir dos 4 anos com epilepsia.
+• no tratamento de crises mioclónicas em adultos e adolescentes a partir dos 12 anos com
+Epilepsia Mioclónica Juvenil.
+• no tratamento de crises tónico-clónicas generalizadas primárias em adultos e adolescentes com
+mais de 12 anos de idade, com Epilepsia Idiopática Generalizada.
+
+Levetiracetam G.E.S. concentrado é uma alternativa para doentes quando a administração oral,
+temporariamente, não é possível.
+4.2     Posologia e modo de administração
+
+Posologia
+O tratamento com Levetiracetam G.E.S. concentrado pode ser iniciado quer por via intravenosa,
+quer por via oral.
+
+A conversão para ou de administração oral para intravenosa pode ser feita diretamente, sem
+titulação. A dose diária total e a frequência de administração devem ser mantidas.
+
+Monoterapia para adultos e adolescentes a partir dos 16 anos
+A dose inicial recomendada é de 250 mg duas vezes por dia, a qual poderá ser aumentada para
+uma dose terapêutica inicial de 500 mg duas vezes por dia, após duas semanas. A dose pode ainda
+ser aumentada em incrementos de 250 mg duas vezes por dia, a cada duas semanas, dependendo
+da resposta clínica. A dose máxima é de 1500 mg duas vezes por dia.
+Terapêutica adjuvante para adultos (≥18 anos) e adolescentes (12 aos 17 anos) com peso igual ou
+superior a 50 kg
+A dose terapêutica inicial é de 500 mg duas vezes por dia. Esta dose poderá ser iniciada no
+primeiro dia de tratamento.
+Dependendo da resposta clínica e tolerabilidade, a dose diária poderá ser aumentada até 1.500
+mg duas vezes por dia. A alteração das doses pode ser efetuada com aumentos ou reduções de
+500 mg duas vezes por dia, cada duas a quatro semanas.
+Duração do tratamento
+Não há experiência com a administração intravenosa de levetiracetam durante períodos
+superiores a 4 dias.
+
+Descontinuação
+Se o levetiracetam tiver que ser descontinuado, recomenda-se que a sua descontinuação seja
+efetuada de forma gradual (ex. em adultos e adolescentes com peso superior a 50 kg: reduções de
+500 mg duas vezes por dia, cada duas a quatro semanas; em crianças e adolescentes com peso
+inferior a 50 kg: a diminuição da dose não deve exceder 10 mg/kg duas vezes por dia, a cada duas
+semanas.
+
+Populações especiais
+
+Idosos (a partir dos 65 anos)
+É recomendado um ajuste da dose em doentes idosos com alteração da função renal (ver
+“Compromisso renal” abaixo).
+
+Compromisso renal
+A dose diária deverá ser individualizada de acordo com a função renal.
+Para doentes adultos, deve ser considerada a tabela seguinte e ajustar a dose tal como indicado.
+Para utilizar esta tabela doseadora, é necessária uma estimativa da depuração de creatinina (CLcr)
+do doente, em ml/min. A CLcr em ml/min, para adultos e adolescente com peso igual ou superior
+a 50 kg, pode ser calculada a partir da determinação da creatinina sérica (mg/dl) usando a fórmula
+seguinte:
+
+                                                          [140-idade (anos)] x peso (kg)
+CLcr (ml/min) = ------------------------------------------------------ (x 0,85 para mulheres)
+                                                            72 x creatinina sérica (mg/dl)
+
+A CLcr é então ajustada em função da superfície corporal (SP) de acordo com a fórmula:
+
+                                                                          CLcr (ml/min)
+CLcr (ml/min/1,73 m2) = ---------------------------- x 1,73
+                                                                        BSA doente (m2)
+
+Ajuste da dose em doentes adultos e adolescentes com peso superior a 50 kg com compromisso
+da função renal:
+
+                                       Depuração de creatinina
+Grupo                                                                       Dose e frequência
+                                       (ml/min/1.73m2)
+Normal                                 > 80                 500 a 1500 mg duas vezes por dia
+Ligeiro                                50-79                500 a 1000 mg duas vezes por dia
+Moderado                               30-49                250 a 750 mg duas vezes por dia
+Grave                                  < 30                 500 a 1000 mg uma vez por dia (2)
+Estágio terminal em doentes            -
+renais sob diálise (1)
+(1) É recomendada uma dose de carga de 750 mg no primeiro dia de tratamento com
+levetiracetam.
+(2) Após a diálise, é recomendada uma dose suplementar de 250 a 500 mg.
+
+Para crianças com compromisso renal, a dose de levetiracetam precisa de ser ajustada com base
+na função renal, pois a depuração de levetiracetam está relacionada com a função renal. Esta
+recomendação baseia-se num estudo efetuado em doentes adultos com compromisso renal.
+
+Para adolescentes mais novos e crianças a CLcr em ml/min/1,73 m2 pode ser estimada a partir da
+determinação da creatinina sérica (mg/dl) utilizando a seguinte formula (fórmula Schwartz):
+
+                                                                                  Altura (cm) x ks
+CLcr (ml/min/1,73 m2) = ---------------------------------------------
+                                                                           Creatinina sérica (mg/dl)
+
+ks= 0,55 para crianças com menos de 13 anos de idade e adolescentes femininos; ks=0,7 para
+adolescentes masculinos.
+Ajuste da dose em crianças e adolescentes com peso inferior a 50 kg com compromisso da função
+renal:
+
+                       Depuração de       Dose e frequência
+Grupo                  creatinina         Crianças com idade superior a 4 anos e adolescentes
+                       (ml/min/1.73m2)    com peso inferior a 50 kg
+Normal                 > 80               10 a 30 mg/kg (0,10 a 0,30 ml/kg) duas vezes por dia
+Ligeiro                50-79              10 a 20 mg/kg (0,10 a 0,20 ml/kg) duas vezes por dia
+Moderado               30-49              5 a 15 mg/kg (0,05 a 0,15 ml/kg) duas vezes por dia
+Grave                  < 30               5 a 10 mg/kg (0,05 a 0,10 ml/kg) duas vezes por dia
+Estágio terminal em
+                                        10 a 20 mg/kg (0,10 a 0,20 ml/kg) uma vez por dia (1)
+doentes renais sob  -
+                                        (2)
+diálise
+(1) É recomendada uma dose de carga de 15 mg/kg (0,15 ml/kg) no primeiro dia de tratamento
+com levetiracetam.
+(2) É recomendada uma dose suplementar de 5 a 10 mg/kg (0,05 a 0,10 ml/kg) posteriormente à
+diálise.
+
+Compromisso hepático
+Não é necessário qualquer ajuste da dose em doentes com compromisso hepático ligeiro a
+moderado. Em doentes com compromisso hepático grave, a depuração de creatinina poderá
+falsear o compromisso renal. Assim sendo, é recomendada uma redução de 50% da dose diária de
+manutenção, quando a depuração de creatinina for < 60 ml/min/1,73 m2.
+
+População pediátrica
+
+O médico deve prescrever a forma farmacêutica, apresentação e dosagem mais adequadas, de
+acordo com a idade, peso e dose.
+
+Monoterapia
+A segurança e eficácia de Levetiracetam G.E.S. em monoterapia em crianças e adolescentes com
+idade inferior a 16 anos não foram estabelecidas.
+
+Não existem dados disponíveis.
+
+Terapêutica adjuvante para crianças dos 4 aos 11 anos e adolescentes (12 aos 17 anos) com peso
+inferior a 50 kg
+A dose terapêutica inicial é de 10 mg/kg duas vezes por dia.
+Dependendo da resposta clínica e tolerabilidade, a dose pode ser aumentada até 30 mg/kg duas
+vezes por dia. A alteração das doses não deve exceder aumentos ou reduções de 10 mg/kg duas
+vezes por
+dia, cada duas semanas. Deve ser utilizada a dose eficaz mais baixa.
+A posologia em crianças com peso igual ou superior a 50 kg é igual à dos adultos.
+Recomendações posológicas para crianças e adolescentes:
+
+Peso                    Dose inicial:                          Dose máxima:
+                        10 mg/kg duas vezes por dia            30 mg/kg duas vezes por dia
+15 kg (1)               150 mg (1,5 ml) duas vezes por dia     450 mg (4,5 ml) duas vezes por dia
+20 kg (2)               200 mg (2 ml) duas vezes por dia)      600 mg (6 ml) duas vezes por dia
+25 kg                   250 mg duas vezes por dia              750 mg duas vezes por dia
+A partir de 50 kg (2)   500 mg duas vezes por dia              1500 mg duas vezes por dia
+(1) Crianças com peso igual ou inferior a 25 kg devem, preferencialmente, iniciar o tratamento
+com Levetiracetam G.E.S. 100 mg/ml solução oral.
+(2) A posologia em crianças e adolescentes com peso igual ou superior a 50 kg é igual à dos
+adultos.
+
+Terapêutica adjuvante para lactentes e crianças com menos de 4 anos
+A segurança e eficácia de Levetiracetam G.E.S. concentrado para solução para perfusão em
+lactentes e crianças com idade inferior a 4 anos não foram estabelecidas.
+Os dados atualmente disponíveis estão descritos nas secções 4.8, 5.1 e 5.2, mas não podem ser
+efetuadas recomendações quanto à posologia.
+
+Modo de administração
+Levetiracetam G.E.S. concentrado destina-se exclusivamente a administração intravenosa e a dose
+recomendada deve ser diluída em pelo menos 100 ml de um solvente compatível e administrado
+por via intravenosa em perfusão intravenosa de 15 minutos
+
+4.3    Contraindicações
+
+Hipersensibilidade à substância ativa ou a outros derivados da pirrolidona ou a qualquer um dos
+excipientes mencionados na secção 6.1.
+
+4.4    Advertências e precauções especiais de utilização
+
+Compromisso renal
+A administração de levetiracetam em doentes com compromisso renal poderá necessitar de um
+ajuste da dose. Em doentes com função hepática alterada gravemente, recomenda-se a avaliação
+da função renal antes de selecionar a dose (ver secção 4.2).
+
+Lesão renal grave
+A utilização de levetiracetam foi associada muito raramente a lesões renais agudas, com início
+desde alguns dias a alguns meses.
+
+Contagem de células sanguíneas
+Foram descritos casos raros de contagens reduzidas de células sanguíneas (neutropenia,
+agranulocitose, leucopenia, trombocitopenia e pancitopenia) associados à administração de
+levetiracetam, geralmente no início do tratamento. A contagem total de células sanguíneas é
+recomendada em doentes que experienciam casos importantes de fraqueza, pirexia, infeções
+recorrentes ou distúrbios da coagulação (secção 4.8).
+
+Suicídio
+Foram notificados suicídio, tentativa de suicídio e ideação e comportamento suicidas em doentes
+tratados com medicamentos antiepiléticos (incluindo levetiracetam). Uma meta-análise de ensaios
+aleatorizados de medicamentos antiepiléticos, contra placebo, mostrou um pequeno aumento do
+risco de ideação e comportamento suicida. Não é ainda conhecido o mecanismo que explica este
+risco.
+
+Assim, os doentes devem ser monitorizados quanto a sinais de depressão e/ou ideação e
+comportamento suicida devendo ser considerada a necessidade de tratamento adequado. Os
+doentes (e os prestadores de cuidados aos doentes) devem ser aconselhados a contactar o médico
+assim que surjam sinais de depressão e/ou ideação e comportamento suicida.
+
+Comportamentos anormais e agressivos
+Levetiracetam pode causar sintomas psicóticos e anomalias comportamentais incluindo
+irritabilidade e agressividade. Os doentes tratados com levetiracetam devem ser monitorizados
+quanto ao desenvolvimento de sinais psiquiátricos que sugiram mudanças de humor e/ou de
+personalidade importantes. Se tais comportamentos forem observados, deve ser ponderada uma
+adaptação do tratamento ou uma descontinuação gradual. Se ponderar a descontinuação,
+consulte a secção 4.2.
+
+Agravamento das convulsões
+Como acontece com outros tipos de medicamentos antiepiléticos, o levetiracetam pode,
+raramente, exacerbar a frequência ou gravidade das convulsões. Este efeito paradoxal foi
+maioritariamente relatado no primeiro mês após o início do levetiracetam ou aumento da dose, e
+revelou-se reversível após descontinuação do medicamento ou diminuição da dose. Os doentes
+devem ser aconselhados a consultar de imediato o seu médico em caso de agravamento da
+epilepsia.
+
+Prolongamento do intervalo QT no eletrocardiograma
+Foram observados casos raros de prolongamento do intervalo QT no ECG durante a vigilância pós-
+comercialização. Levetiracetam deve ser utilizado com precaução em doentes com prolongamento
+do intervalo QTc, doentes tratados concomitantemente com medicamentos que afetam o
+intervalo QTc ou doentes com doença cardíaca relevante preexistente ou perturbações
+eletrolíticas.
+
+População pediátrica
+Os dados disponíveis em crianças não sugerem impacto no crescimento e puberdade. Contudo, os
+efeitos a longo prazo na aprendizagem, inteligência, crescimento, função endócrina, puberdade e
+potencial para engravidar em crianças permanecem desconhecidos.
+
+Excipientes
+Este medicamento contém 2,5 mmol (ou 57 mg) de sódio por dose única máxima (0,8 mmol (ou 19
+mg) por frasco para injetáveis ). Deve ser tido em consideração por doentes com uma dieta de
+sódio controlada.
+
+4.5    Interações medicamentosas e outras formas de interação
+
+Medicamentos antiepiléticos
+Dados provenientes de ensaios clínicos pré-comercialização conduzidos em adultos indicam que o
+levetiracetam não influencia as concentrações séricas de medicamentos antiepiléticos existentes
+(fenitoína, carbamazepina, ácido valpróico, fenobarbital, lamotrigina, gabapentina e primidona) e
+que estes medicamentos antiepiléticos não influenciam a farmacocinética de levetiracetam.
+
+Tal como em adultos, não há evidência de interações medicamentosas com significado clínico, em
+doentes pediátricos a receber doses de levetiracetam até 60 mg/kg/dia.
+
+Uma avaliação retrospetiva das interações farmacocinéticas em crianças e adolescentes (4 aos 17
+anos) com epilepsia confirmou que a terapia adjuvante com levetiracetam, administrado por via
+oral, não influenciou as concentrações séricas no estado de equilíbrio da carbamazepina e do
+valproato administrados concomitantemente. Contudo, os dados sugeriam uma depuração de
+levetiracetam 20% mais elevada em crianças a tomar medicamentos antiepiléticos indutores de
+enzimas. Não é necessário o ajuste da dose.
+
+Probenecida
+O probenecida (500 mg quatro vezes por dia), um agente bloqueador da secreção tubular renal,
+tem mostrado inibir a depuração renal do metabolito primário, mas não do levetiracetam.
+Contudo, a concentração deste metabolito permanece baixa.
+
+Metotrexato
+Foi relatado que a administração concomitante de levetiracetam e metotrexato reduziu a
+depuração do metotrexato, resultando em concentrações aumentadas/prolongadas de
+metotrexato no sangue até níveis potencialmente tóxicos. Os níveis sanguíneos de metotrexato e
+levetiracetam devem ser cuidadosamente monitorizados em doentes tratados
+concomitantemente com estes dois fármacos.
+Contracetivos orais e outras interações farmacocinéticas
+Levetiracetam 1.000 mg por dia não influenciou a farmacocinética dos contracetivos orais (etinil-
+estradiol e levonorgestrel); os parâmetros endócrinos (hormona luteinizante e progesterona) não
+sofreram alteração. Levetiracetam 2.000 mg por dia não influenciou a farmacocinética da digoxina
+e da varfarina; os tempos de protrombina não sofreram alteração. A coadministração com
+digoxina, contracetivos orais e varfarina não influenciou a farmacocinética do levetiracetam.
+
+Álcool
+Não estão disponíveis dados sobre a interação do levetiracetam com o álcool.
+
+4.6    Fertilidade, gravidez e aleitamento
+
+Mulheres com potencial de engravidar
+As mulheres com potencial de engravidar devem obter aconselhamento especializado. O
+tratamento com levetiracetam deve ser revisto quando uma mulher planeia engravidar. Tal como
+acontece com todos os medicamentos antiepiléticos, a descontinuação súbita de levetiracetam
+deve ser evitada, uma vez que tal pode levar a crises epiléticas que podem ter consequências
+graves para a mulher e para o feto.
+
+A monoterapia deve ser preferida sempre que possível, porque a terapia com múltiplos
+medicamentos antiepiléticos pode estar associada a um maior risco de malformações congênitas
+do que a monoterapia, dependendo dos antiepiléticos associados.
+
+Gravidez
+Uma grande quantidade de dados de pós-comercialização em mulheres expostas a monoterapia
+com levetiracetam (mais de 1800, entra as quais mais de 1500 exposições ocorreram durante o 1º
+trimestre) não sugerem um aumento do risco de malformações congénitas graves. Apenas está
+disponível evidência limitada sobre o neurodesenvolvimento de crianças expostas a monoterapia
+com Levetiracetam G.E.S. no útero. Contudo, estudos epidemiológicos atuais (em cerca de 100
+crianças) não sugerem um risco aumentado de distúrbios ou atrasos no neurodesenvolvimento.
+O levetiracetam pode ser usado durante a gravidez, se após avaliação cuidadosa for considerado
+clinicamente necessário. Nesse caso, é recomendada a dose efetiva mais baixa.
+As alterações fisiológicas durante a gravidez podem afetar a concentração de levetiracetam.
+Durante a gravidez foi observada uma diminuição da concentração plasmática de levetiracetam.
+Esta diminuição é mais pronunciada durante o terceiro trimestre (até 60% da concentração basal
+antes da gravidez).
+
+Deve ser assegurada uma abordagem clínica apropriada das mulheres grávidas tratadas com
+levetiracetam.
+
+Amamentação
+Levetiracetam é excretado no leite humano materno. Portanto, a amamentação não é
+recomendada. No entanto, se o tratamento com levetiracetam for necessário durante a
+amamentação, o benefício/risco do tratamento deve ser avaliado tendo em consideração a
+importância da amamentação.
+
+Fertilidade
+Nos estudos em animais não foi detetado impacto na fertilidade (ver secção 5.3). Não existem
+dados clínicos disponíveis, sendo desconhecido o risco potencial para os humanos.
+
+4.7     Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+A influência do levetiracetam sobre a capacidade de conduzir e utilizar máquinas é ligeira ou
+moderada. Devido a possíveis sensibilidades individuais diferentes, alguns doentes poderão referir
+sonolência ou outros sintomas relacionados com o sistema nervoso central, especialmente no
+início do tratamento ou após um aumento da dose. Assim sendo, recomenda-se precaução nos
+doentes que executam tarefas especializadas, ex. condução de veículos ou utilização de máquinas.
+Os doentes são advertidos para não conduzir ou utilizar máquinas até se estabelecer que a sua
+capacidade para executar tais atividades não é afetada.
+
+4.8     Efeitos indesejáveis
+
+Resumo do perfil de segurança
+
+As reações adversas mais frequentemente relatadas foram nasofaringite, sonolência, cefaleia,
+fadiga e tonturas. O perfil de reações adversas abaixo apresentado baseia-se na análise dos dados
+globais de ensaios clínicos controlados por placebo realizados para todas as indicações estudadas,
+com um total de 3.416 doentes tratados com levetiracetam. Estes dados são suplementados com
+a utilização do levetiracetam nos estudos de extensão sem ocultação correspondentes, bem como
+com a experiência pós-comercialização. O perfil de segurança do levetiracetam é geralmente
+similar nos vários grupos etários (doentes adultos e pediátricos) e nas várias indicações de
+epilepsia. Uma vez que houve exposição limitada ao Levetiracetam G.E.S. intravenoso e como as
+formulações orais e intravenosas são bioequivalentes, a informação de segurança de
+Levetiracetam G.E.S. intravenoso vai depender do descrito para a formulação oral.
+
+Listagem das reações adversas
+As reações adversas notificadas em estudos clínicos (adultos, adolescentes, crianças e lactentes >
+1 mês de idade) e provenientes da experiência pós-comercialização estão listadas na tabela
+seguinte por Classe de Sistema de Órgão e por frequência. A frequência é definida da seguinte
+forma: muito frequentes (≥1/10); frequentes (≥1/100 a <1-10); pouco frequentes (≥1/1000 a
+<1/100); raras (≥1/10.000 a <1/1.000) e muito raras (<1/10.000).
+
+CSO MedDRA        Frequência
+                Muito           Frequente               Pouco frequente       Raro
+                frequente
+Infeções e
+                Nasofaringite                                                 Infeção
+infestações
+Doenças do
+                                                                              Pancitopénia,
+sangue e do                                             Trombocitopénia,
+                                                                              neutropenia,
+sistema                                                 leucopénia
+                                                                              agranulocitose
+linfático
+                                                                              Reação a fármacos
+                                                                              com eosinofilia e
+                                                                              sintomas sistémicos
+Doenças do
+                                                                              (DRESS),
+sistema
+                                                                              Hipersensibilidade
+imunitário
+                                                                              (incluindo
+                                                                              angioedema e
+                                                                              anafilaxia)
+Doenças do
+                                                        Perda de peso,
+metabolismo e                   Anorexia                                      Hiponatrémia
+                                                        aumento de peso
+nutrição
+                                                        Tentativa de
+                                                        suicídio, ideação
+                                                        suicida,
+                                                        perturbação
+                                Depressão,              psicótica,
+                                                                              Suicídio concretizado,
+                                hostilidade/agressã     comportamento
+Perturbações                                                                  perturbações de
+                                o, ansiedade,           anormal,
+do foro                                                                       personalidade,
+                                insónia,                alucinação, fúria,
+psiquiátrico                                                                  alterações de
+                                nervosismo/irritabil    estado confusional,
+                                                                              pensamento, delírio
+                                idade                   ataque de pânico,
+                                                        labilidade
+                                                        emocional/variaçõ
+                                                        es do humor,
+                                                        agitação
+                                                        Amnésia,
+                                                        diminuição da         Coreoatetose,
+                                Convulsão,              memória,              discinesia,
+Doenças do
+                Sonolência,     Perturbação do          alterações de         hipercinésia,
+sistema
+                cefaleia        equilíbrio, tonturas,   coordenação           alteração da marcha
+nervoso
+                                letargia, tremor        anormal/ataxia,       encefalopatia,
+                                                        parestesia,           convulsões agravadas
+                                                        perturbação da
+                                                         atenção alterada
+Afeções                                                  Diplopia, visão
+oculares                                                 desfocada
+Afeções do
+ouvido e do                       Vertigens
+labirinto
+                                                                             Prolongamento do
+Cardiopatias                                                                 intervalo QT no
+                                                                             eletrocardiograma
+Doenças
+respiratórias,
+                                  Tosse
+torácicas e do
+mediastino
+Doenças                           Dor abdominal,
+gastrointestinai                  diarreia, dispepsia,                       Pancreatite
+s                                 vómitos e náuseas
+                                                         Alterações das
+Afeções                                                                      Insuficiência hepática,
+                                                         provas da função
+hepatobiliares                                                               hepatite
+                                                         hepática anormal
+Doenças renais
+                                                                             Lesão renal grave
+e urinárias
+Afeções dos                                                                  Necrólise epidérmica
+tecidos                                                   Alopecia, eczema,  tóxica, Síndrome de
+                                    Erupção cutânea
+cutâneos e                                                prurido            Stevens-Johnson,
+subcutâneos                                                                  eritema multiforme
+Afeções
+                                                                             Rabdomiólise e
+musculoesquelé
+                                                          Fraqueza muscular, creatina fosfoquinase
+ticas e do
+                                                          mialgia            sanguínea
+tecido
+                                                                             aumentada*
+conjuntivo
+Perturbações
+gerais no local
+                                    Astenia/fadiga
+da
+administração
+Complicações
+de intervenções
+                                                          Ferimentos
+relacionadas
+                                                          acidentais
+com lesões e
+intoxicações
+* A prevalência é significativamente superior em doentes Japoneses quando comparados com os
+doentes não Japoneses.
+Descrição de algumas das reações adversas selecionadas
+O risco de anorexia é superior quando levetiracetam é coadministrado com topiramato.
+Em vários casos de alopecia foi observada recuperação quando o levetiracetam foi descontinuado.
+Foi identificada supressão da medula vermelha em alguns casos de pancitopénia.
+
+População pediátrica
+Foram tratados com levetiracetam um total de 190 doentes, com idade superior a 1 mês e inferior
+a 4 anos, em ensaios controlados por placebo e em estudos de extensão sem ocultação. Apenas
+sessenta (60) destes doentes foram tratados com levetiracetam nos estudos controlados por
+placebo. Nos doentes com idades entre 4-16 anos, foram tratados com levetiracetam um total de
+645 doentes nos estudos controlados por placebo e nos estudos de extensão sem ocultação.
+Destes, 233 doentes foram tratados com levetiracetam nos estudos controlados por placebo. Em
+ambos os grupos etários pediátricos, estes dados são complementados com a experiência
+pós-comercialização de utilização de levetiracetam.
+
+Adicionalmente, 101 bebés com idade inferior a 12 meses foram expostos num estudo de
+segurança pós-comercialização. Não foram identificadas novas questões de segurança para o
+levetiracetam em lactentes com menos de 12 meses de idade com epilepsia.
+
+O perfil de efeitos adversos de levetiracetam é geralmente similar nos vários grupos etários e nas
+várias indicações de epilepsia aprovadas. Os resultados de segurança obtidos em doentes
+pediátricos em ensaios clínicos controlados por placebo foram consistentes com o perfil de
+segurança de levetiracetam em adultos, exceto em reações adversas do foro psiquiátrico e
+comportamental que foram mais comuns em crianças do que em adultos. Em crianças e
+adolescentes com idades entre os 4 a 16 anos foram relatados mais frequentemente do que em
+outros grupos etários ou no perfil global de segurança, vómitos (muito comum, 11,2%), agitação
+(comum, 3,4%), variações de humor (comum, 2,1%), labilidade emocional (comum, 1,7%),
+agressividade (comum, 8,2%), alterações comportamentais (comum, 5,6%) e letargia (comum,
+3,9%) Em lactentes e crianças com idade superior a 1 mês e inferior a 4 anos, irritabilidade (muito
+comum, 11,7%) e descoordenação dos movimentos (comum, 3,3%) foram relatados mais
+frequentemente do que em outros grupos etários ou no perfil global de segurança. Um estudo de
+segurança pediátrico, de dupla ocultação, controlado por placebo e com desenho de não
+inferioridade avaliou os efeitos neuropsicológicos e cognitivos de levetiracetam em crianças dos 4
+aos 16 anos com crises parciais. Foi concluído que o Levetiracetam G.E.S. não diferia (não era
+inferior) do placebo no que diz respeito à alteração dos valores basais na escala de Leiter-R
+Atenção e Memória, Visualização e Raciocínio na população per protocol. Os resultados
+relacionados com as funções comportamentais e emocionais indicaram um agravamento nos
+doentes tratados com levetiracetam relativamente ao comportamento agressivo, avaliado de
+forma padronizada e sistemática usando um instrumento validado (CBCL - Achenbach Child
+Behaviour Checklist). No entanto, os doentes que tinham tomado levetiracetam no estudo aberto
+de seguimento de longa duração, não revelaram, em média, um agravamento nas suas funções
+comportamentais e emocionais; especificamente, a medição do comportamento agressivo não foi
+agravada em relação aos valores basais.
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante,
+uma vez que permite uma monitorização contínua da relação benefício-risco do medicamento.
+Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas
+através de:
+
+INFARMED, I.P.
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+E-mail: farmacovigilancia@infarmed.pt
+
+4.9     Sobredosagem
+
+Sintomas
+Foram observados sonolência, agitação, agressividade, nível de consciência reduzido, depressão
+respiratória e coma, com sobredosagens de Levetiracetam G.E.S.
+
+Tratamento da sobredosagem
+Não existe antídoto específico para o levetiracetam. O tratamento de uma sobredosagem deverá
+ser sintomático e poderá incluir o recurso à hemodiálise. A eficácia da extração do dialisador é
+60% para o levetiracetam e 74% para o metabolito primário.
+
+
+
+5.      PROPRIEDADES FARMACOLÓGICAS
+5.1     Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 2.6 - Antiepiléticos, outros antipiléticos, código ATC: N03AX14.
+A substância ativa, o levetiracetam, é um derivado da pirrolidona (enantiómero-S de α-
+etil-2-oxo-1- pirrolidina acetamida), quimicamente não relacionada com substâncias ativas
+antiepiléticas existentes.
+
+Mecanismo de ação
+O mecanismo de ação do levetiracetam ainda permanece por elucidar completamente.
+Experiências in vitro e in vivo sugerem que o levetiracetam não altera as características básicas da
+célula nem a neurotransmissão normal.
+Estudos in vitro mostram que o levetiracetam afeta os níveis de Ca2+ intraneuronais, pela inibição
+parcial das correntes Ca2+ do tipo N e pela redução da libertação de Ca2+ das reservas
+intraneuronais. Adicionalmente, reverte parcialmente as reduções nas correntes de entrada do
+GABA e da glicina, induzidas pelo zinco e pelas β-carbolinas. Além disto, em estudos in vitro
+demonstrou-se que o levetiracetam se liga a um local específico no tecido cerebral dos roedores.
+Este local de ligação é a proteína 2A da vesícula sináptica, que se pensa estar envolvida na fusão
+das vesículas e na exocitose dos neurotransmissores. O levetiracetam e análogos relacionados
+mostram uma ordem de grandeza de afinidade para a ligação com a proteína 2A da vesícula
+sináptica, que se correlaciona com a potência da sua proteção anticonvulsivante, no modelo da
+epilepsia do rato audiogénico. Este resultado sugere que a interação entre o levetiracetam e a
+proteína 2A da vesícula sináptica parece contribuir para o mecanismo de ação antiepilética do
+medicamento.
+
+Efeitos farmacodinâmicos
+Levetiracetam induz proteção de convulsão num largo número de modelos animais de crises
+generalizadas parciais e primárias sem apresentar um efeito proconvulsivante. O metabolito
+primário é inativo. No homem, uma atividade em ambas as condições de epilepsia parcial e
+generalizada (descarga epileptiforme/ resposta fotoparoxística) confirmou o perfil farmacológico
+de largo espetro do levetiracetam.
+
+Eficácia e segurança clínicas
+Terapêutica adjuvante no tratamento das crises parciais com ou sem generalização secundária em
+adultos, adolescentes, crianças com idade superior a 4 anos e com epilepsia.
+A eficácia do levetiracetam foi demonstrada em adultos em três estudos duplamente cegos,
+controlados por placebo, com 1000 mg, 2000 mg e 3000 mg/dia, com a dose dividida por duas
+administrações, e com a duração do tratamento superior, a 18 semanas. A percentagem de
+doentes que alcançou uma redução de 50 % ou mais da linha de base na frequência semanal de
+um início de crise parcial com uma dose estável (12/14 semanas) foi de 27,7 %, 31,6 % e 41,3 %
+para os doentes com 1000, 2000 ou 3000 mg de levetiracetam respetivamente e 12,6 % para
+doentes que receberam placebo.
+
+População pediátrica
+Em doentes pediátricos (4-16 anos de idade) a eficácia do levetiracetam foi estabelecida num
+estudo duplamente cego, controlado por placebo, com um tratamento cuja duração foi de 14
+semanas e foram incluídos 198 doentes. Neste estudo, os doentes receberam uma dose fixa de
+levetiracetam de 60 mg/kg/dia (em duas tomas diárias).
+
+44,6% dos doentes tratados com levetiracetam e 19,6% dos doentes tratados com placebo
+apresentaram uma redução de 50% ou mais da linha de base de frequências de aparecimento
+semanal das crises parciais. Com a continuação do tratamento de longo prazo 11,4% dos doentes
+não apresentaram quaisquer crises pelo menos nos primeiros 6 meses e 7,2% não apresentaram
+quaisquer crises pelo menos durante 1 ano.
+
+35 lactentes com idade inferior a 1 ano com crises parciais foram expostos em ensaios clínicos
+controlados por placebo, dos quais apenas 13 tinham idade < 6 meses.
+
+Monoterapia no tratamento das crises parciais com ou sem generalização secundária em doentes
+com mais de 16 anos de idade e com epilepsia diagnosticada recentemente.
+
+A eficácia do levetiracetam em monoterapia foi estabelecida num ensaio duplamente cego, de
+grupo paralelo, com comparação de não inferioridade com carbamazepina de libertação
+controlada (CR) em 576 doentes com 16 anos de idade ou mais velhos, com epilepsia
+diagnosticada recentemente. Os doentes apresentavam crises parciais não provocadas ou apenas
+crises tónico-clónicas generalizadas. Os doentes foram randomizados a carbamazepina CR 400 -
+1200 mg/dia ou levetiracetam 1000 – 3000 mg/dia, a duração do tratamento foi superior a 121
+semanas dependendo da resposta.
+
+Foram atingidos seis meses livres de crises em 73,0% dos doentes tratados com levetiracetam e
+72,8% em doentes tratados com carbamazepina CR; o ajuste da diferença absoluta entre os
+tratamentos foi de 0,2% (95% CI: -7,8 8,2). Mais de metade dos doentes permaneceu livre de
+crises por cerca de 12 meses (56,6% e 58,5% dos doentes com levetiracetam e carbamazepina CR
+respetivamente).
+
+Num estudo que reflete a prática clínica, a medicação antiepilética concomitante poderia ser
+retirada a um número limitado de doentes que responderam à terapia adjuvante do levetiracetam
+(36 doentes adultos de um total de 69).
+
+Terapêutica adjuvante no tratamento de crises mioclónicas em adultos e adolescentes com mais
+de 12 anos de idade e com Epilepsia Mioclónica Juvenil.
+
+A eficácia do levetiracetam foi estabelecida num estudo de 16 semanas de duração, estudo
+duplamente cego, controlado por placebo, em doentes com 12 anos de idade e mais velhos que
+sofriam de epilepsia idiopática generalizada, com crises mioclónicas em diferentes síndromes. A
+maioria dos doentes apresentava epilepsia mioclónica juvenil.
+
+Neste estudo, a dose de levetiracetam foi de 3000 mg/dia, administrada em duas tomas diárias.
+
+58,3% dos doentes tratados com levetiracetam e 23,3% dos doentes tratados com placebo,
+apresentaram pelo menos uma redução de 50% no aparecimento de crises mioclónicas semanais.
+Com a continuação do tratamento de longo termo, 28,6% dos doentes estiveram livres do
+aparecimento de crises mioclónicas durante pelo menos 6 meses e 21,0% não apresentaram
+qualquer crise mioclónica durante pelo menos 1 ano.
+
+Terapêutica adjuvante no tratamento de crises tónico-clónicas generalizadas primárias em adultos
+e adolescentes com mais de 12 anos de idade com epilepsia idiopática generalizada.
+
+A eficácia do levetiracetam foi estabelecida num estudo duplamente cego, controlado por placebo
+e com a duração de 24 semanas, e que incluiu adultos, adolescentes e um número limitado de
+crianças que sofriam de epilepsia idiopática generalizada com crises tónico-clónicas generalizadas
+primárias (PGTC) em diferentes síndromes (epilepsia juvenil mioclónica, ausência de epilepsia
+juvenil, ausência de epilepsia infantil, ou epilepsia com crises de Grande Mal ao despertar). Neste
+estudo, o levetiracetam foi administrado em doses de 3000 mg/dia para adultos e adolescentes ou
+60 mg/kg/dia para crianças, administrados em duas tomas diárias.
+
+72,2% dos doentes tratados com levetiracetam e 45,2% dos doentes tratados com placebo,
+tiveram uma redução de 50% ou mais na frequência do aparecimento de crises PGTC semanais.
+Com a continuação do tratamento de longo prazo, 47,4% dos doentes estiveram livres do
+aparecimento de crises tónico-clónicas durante pelo menos 6 meses e 31,5% destes não
+apresentaram qualquer crise tónico-clónica durante pelo menos 1 ano.
+
+5.2     Propriedades farmacocinéticas
+
+Foi caracterizado o perfil farmacocinético após administração oral. Uma dose única de 1500 mg de
+levetiracetam diluído em 100 ml de um diluente compatível e administrada intravenosamente
+durante 15 minutos é bioequivalente a 1500 mg de levetiracetam, administrado por via oral, na
+forma de três comprimidos de 500 mg.
+
+Foi avaliada a administração intravenosa de doses até 4000 mg, diluídas em 100 ml de solução de
+cloreto de sódio a 0,9%, administradas durante 15 minutos e de doses até 2500 mg, diluídas em
+100 ml de solução de cloreto de sódio a 0,9%, administradas durante 5 minutos. Os perfis
+farmacocinético e de segurança não identificaram nenhumas preocupações de segurança.
+
+O levetiracetam é um composto altamente solúvel e permeável. O perfil farmacocinético é linear
+com uma baixa variabilidade intra e interindividual. Não há alteração da depuração após
+administração repetida. O perfil farmacocinético do levetiracetam, independente do tempo, foi
+igualmente confirmado após a perfusão intravenosa de 1500 mg de levetiracetam, durante 4 dias,
+com administração duas vezes ao dia.
+
+Não há evidência de qualquer variabilidade relevante relacionada com o sexo, raça ou circadiana.
+O perfil farmacocinético é comparável em voluntários saudáveis e em doentes com epilepsia.
+
+Adultos e adolescentes
+Distribuição
+A concentração plasmática máxima (Cmax) observada em 17 indivíduos após uma dose
+intravenosa única de 1500 mg, administrada durante 15 minutos, foi de 51 ± 19 μg/ml (média
+aritmética ± desvio padrão).
+Não existem dados disponíveis sobre a distribuição nos tecidos em humanos.
+Nem o levetiracetam, nem o metabolito primário se ligam significativamente às proteínas
+plasmáticas < 10%).
+O volume de distribuição do levetiracetam é aproximadamente de 0,5 a 0,7 l/kg, um valor próximo
+do volume de água corporal total.
+
+Biotransformação
+O levetiracetam não é extensivamente metabolizado nos humanos. A principal via metabólica
+(24% da dose) é uma hidrólise enzimática do grupo acetamida. A produção do metabolito
+primário, ucb L057, não é suportada pelas isoformas do citocromo P450 hepático. A hidrólise do
+grupo acetamida foi determinável num vasto número de tecidos, incluindo as células sanguíneas.
+O metabolito ucb L057 é farmacologicamente inativo.
+
+Dois metabolitos menores foram também identificados. Um deles foi obtido por hidroxilação do
+anel pirrolidona (1,6% da dose) e o outro pela abertura do anel pirrolidona (0,9% da dose).
+
+Outros componentes não identificados foram responsáveis por apenas 0,6% da dose.
+
+Não foi evidenciada qualquer interconversão enantiomérica in vivo para o levetiracetam ou para o
+seu metabolito primário.
+
+O levetiracetam e o seu metabolito primário têm mostrado, in vitro, não inibir as isoformas
+principais do citocromo P450 hepático humano (CYP3A4, 2A6, 2C9, 2C19, 2D6, 2E1 e 1A2), a
+glucuronil transferase (UGT1A1 e UGT1A6) e as atividades da epóxido-hidroxilase. Além disso, o
+levetiracetam não afeta a glucoronidação in vitro do ácido valpróico.
+
+Em hepatócitos humanos em cultura, o levetiracetam teve efeito mínimo ou ausência de efeito
+sobre CYP1A2, SULT1E1 ou UGT1A1. O levetiracetam provocou indução moderada sobre CYP2B6 e
+CYP3A4. Os resultados dos testes in vitro e da interação in vivo com contracetivos orais, digoxina e
+varfarina indicam que não é esperada uma indução enzimática significativa in vivo. Deste modo, a
+interação de Levetiracetam G.E.S. com outras substâncias, ou vice-versa, é pouco provável.
+
+Eliminação
+A semivida plasmática em adultos foi 7 ± 1 horas e não se alterou com a dose, via de
+administração ou com a administração repetida. A depuração corporal total média foi 0,96
+ml/min/kg.
+A principal via de excreção é a via urinária, sendo responsável por 95% da dose (aproximadamente
+93% da dose foi excretada no espaço de 48 horas). A excreção via fecal foi responsável por apenas
+0,3% da dose.
+
+A excreção urinária cumulativa do levetiracetam e do seu metabolito primário foi responsável por
+66% e 24% da dose, respetivamente, durante as primeiras 48 horas.
+
+A depuração renal do levetiracetam e do ucb L057 é de 0,6 e 4,2 ml/min/kg, respetivamente,
+indicando que o levetiracetam é excretado por filtração glomerular com subsequente reabsorção
+tubular e que o metabolito primário é igualmente excretado por secreção tubular ativa, além de
+ser excretado por filtração glomerular.
+
+A eliminação do levetiracetam está correlacionada com a depuração da creatinina.
+
+Idosos
+Nos idosos, a semivida é aumentada em cerca de 40% (10 a 11 horas). Isto está relacionado com a
+diminuição da função renal nestes indivíduos (ver secção 4.2).
+
+Compromisso renal
+A depuração corporal aparente de ambos levetiracetam e do seu metabolito primário está
+correlacionada com a depuração de creatinina. Recomenda-se além disso, o ajuste da dose diária
+de manutenção de Levetiracetam G.E.S. com base na depuração de creatinina em doentes com
+compromisso renal moderado e grave (ver secção 4.2).
+
+Nos indivíduos adultos em fase terminal anúrica de doença renal, a semivida foi aproximadamente
+25 e 3,1 horas, durante períodos interdiálise e intradiálise, respetivamente.
+A remoção fracional do levetiracetam foi de 51%, durante uma sessão comum de diálise de 4
+horas.
+
+Compromisso hepático
+Em indivíduos com compromisso hepático ligeiro e moderado, não houve alteração significativa
+relativamente à depuração do levetiracetam. Na maioria dos indivíduos com compromisso
+hepático grave, a depuração do levetiracetam diminuiu mais de cerca de 50%, devido a um
+compromisso renal concomitante (ver secção 4.2).
+
+População pediátrica
+Crianças (4 aos 12 anos)
+A farmacocinética em doentes pediátricos não foi averiguada após administração intravenosa.
+Contudo, com base nas características farmacocinéticas do levetiracetam, na farmacocinética em
+adultos após administração intravenosa e na farmacocinética em crianças após administração oral,
+espera-se que a exposição (AUC) ao levetiracetam seja semelhante em crianças com idade entre
+os 4 e os 12 anos, após administração oral e intravenosa.
+Após uma administração oral de dose única (20 mg/kg) a crianças epiléticas (6 aos 12 anos), a
+semivida do levetiracetam foi de 6,0 horas. A depuração corporal aparente, ajustada ao peso, foi
+mais elevada em cerca de 30% do que nos adultos epiléticos.
+
+Após administração de doses orais repetidas (20 a 60 mg/kg/dia) a crianças epiléticas (4 aos 12
+anos), o levetiracetam foi rapidamente absorvido. O pico da concentração plasmática foi
+observado 0,5 a 1 hora após a administração. Foram observados aumentos lineares e
+proporcionais à dose para o pico da concentração plasmática e para a área sob a curva. A semivida
+de eliminação foi de, aproximadamente, 5 horas. A depuração corporal aparente foi 1,1
+ml/min/kg.
+
+5.3    Dados de segurança pré-clínica
+Os dados não clínicos não revelam riscos especiais para o ser humano, segundo estudos
+convencionais de farmacologia de segurança, genotoxicidade, e potencial carcinogénico.
+
+Efeitos adversos não observados nos estudos clínicos, mas verificados no rato e em menor grau no
+ratinho, em níveis de exposição semelhantes aos níveis de exposição no Homem e com possível
+relevância para o uso clínico, foram as alterações hepáticas, indicando uma resposta adaptativa,
+tais como um aumento de peso e hipertrofia centrolobular, infiltração lipídica e aumento das
+enzimas hepáticas no plasma.
+Não foram observadas reações adversas na fertilidade ou reprodução dos ratos machos ou fêmeas
+com doses até 1800 mg/kg/dia (6 vezes a dose máxima diária recomendada para humanos,
+considerando mg/m2 ou exposição) nos pais e na geração F1.
+
+Foram efetuados dois estudos de desenvolvimento embrio-fetal (EFD) em ratos com doses de 400,
+1200 e 3600 mg/kg/dia. Com a dose de 3600 mg/kg/dia observou-se, em apenas um dos dois
+estudos EFD, uma ligeira diminuição no peso fetal associada a um aumento marginal de anomalias
+menores/alterações esqueléticas. Não foram observados efeitos sobre a mortalidade embrionária
+e não houve aumento da incidência de malformações. O NOAEL (Nível de efeito adverso não
+observável) foi de 3600 mg/kg/dia para ratos fêmea grávidos (doze vezes a dose máxima diária
+recomendada para humanos, considerando mg/m2) e 1200 mg/kg/dia para fetos.
+
+Foram efetuados quatro estudos de desenvolvimento embrio-fetal em coelhos abrangendo as
+doses de 200, 600, 800, 1200 e 1800 mg/kg/dia. A dose de 1800 mg/kg/dia induziu uma toxicidade
+materna marcada e uma diminuição no peso fetal associada ao aumento de incidência de fetos
+com anomalias cardiovasculares/esqueléticas. O NOAEL foi < 200 mg/kg/dia para as mães e 200
+mg/kg/dia para os fetos (igual à dose máxima diária recomendada para humanos, considerando
+mg/m2).
+
+Foi efetuado um estudo de desenvolvimento peri e pós-natal em ratos com doses de
+levetiracetam de 70, 350 e 1800 mg/kg/dia. O NOAEL foi ≥ 1800 mg/kg/dia para as fêmeas F0, e
+para a sobrevivência, crescimento e desenvolvimento dos descendentes F1 até ao desmame (6
+vezes a dose máxima diária recomendada para humanos, considerando mg/m2).
+
+Estudos animais realizados em ratos e cães recém-nascidos e jovens demonstraram que não
+ocorreram efeitos adversos sobre nenhum dos parâmetros padronizados para avaliação do
+desenvolvimento e maturação, com doses até 1800 mg/kg/dia (6 - 17 vezes a dose máxima diária
+recomendada para humanos, considerando mg/m2).
+
+
+
+6.        INFORMAÇÕES FARMACÊUTICAS
+
+6.1.      Lista dos excipientes
+
+Acetato de sódio tri-hidratado
+Ácido acético glacial
+Cloreto de sódio
+Água para injetáveis
+6.2     Incompatibilidades
+
+Este medicamento não deve ser misturado com outros medicamentos, exceto os mencionados na
+secção 6.6.
+
+6.3       Prazo de validade
+
+3 anos.
+
+Do ponto de vista microbiológico, o medicamento deve ser utilizado imediatamente após a
+diluição. Se não for usado imediatamente, a validade após abertura e as condições prévias à
+utilização são da responsabilidade do utilizador e normalmente não deverão exceder as 24h, a
+2-8ºC.
+
+6.4       Precauções especiais de conservação
+
+Este medicamento não tem nenhum requisito especial de condições de acondicionamento.
+
+Para as condições de armazenamento do medicamento diluído, ver secção 6.3.
+
+6.5       Natureza e conteúdo do recipiente
+
+Frasco para injetáveis de vidro tipo I, com capacidade de 7 ml. Cada frasco para injetáveis contém
+5 ml de concentrado de solução para perfusão.
+Tamanho da embalagem: 10 frascos para injetáveis.
+
+6.6      Precauções especiais de eliminação e manuseamento
+
+Ver Tabela 1 para a preparação e administração recomendada de Levetiracetam G.E.S.
+concentrado para solução para perfusão para atingir a dose diária total de 500 mg, 1000 mg, 2000
+mg ou 3000 mg, dividida em duas doses.
+
+Tabela 1. Preparação e administração de Levetiracetam G.E.S. concentrado para solução para
+perfusão
+
+Dose            Volume a          Volume de       Tempo de         Frequência de     Dose diária
+                retirar           solvente        perfusão         administração     total
+250 mg          2,5 ml (meio      100 ml          15 minutos       Duas vezes        500 mg/dia
+                frasco para                                        por dia
+                injetáveis de 5
+                ml)
+500 mg          5 ml (um          100 ml          15 minutos       Duas vezes        1000 mg/dia
+                frasco para                                        por dia
+                injetáveis de 5
+                ml)
+1000 mg         10 ml (dois       100 ml          15 minutos       Duas vezes        2000 mg/dia
+                frascos para                                       por dia
+                injetáveis de 5
+                ml)
+1500 mg         15 ml (três       100 ml          15 minutos       Duas vezes        3000 mg/dia
+                frascos para                                       por dia
+                injetáveis de 5
+                ml)
+
+Este medicamento é apenas para uso única, e qualquer solução não utilizada deve ser descartada.
+
+Levetiracetam G.E.S. concentrado para solução por perfusão é compatível fisicamente e estável
+quimicamente por, pelo menos, 24 horas quando misturado com os seguintes solventes e
+acondicionado em sacos de OVC a temperatura ambiente controlada entre 15-25ºC.
+
+Solventes:
+Cloreto de sódio 9 mg/ml (0,9%) solução para injetáveis, Lactato de Ringer solução para injetáveis,
+Dextrose 50 mg/ml (5%) solução para injetáveis.
+
+Medicamentos com partículas ou descoloração não devem ser utilizados. Qualquer medicamento
+não utilizado ou resíduos devem ser eliminados de acordo com as exigências locais.
+7.      TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+G.E.S. Genéricos Españoles Laboratorio S.A.
+C/ Cólquide 6, Portal 2, 1ª planta, Oficina F, Edificio Prisma.
+Las Rozas 28230 (Madrid)
+Espanha
+
+
+
+8.      NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+
+
+9.   DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+
+
+10.    DATA DA REVISÃO DO TEXTO
+12/2020
+

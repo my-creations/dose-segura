@@ -1,0 +1,44 @@
+{
+  "medId": "amoxicilina-acido-clavulanico",
+  "searchTerm": "Augmentin",
+  "retrievedAt": "2026-02-08T00:00:00.000Z",
+  "bestMatch": {
+    "infarmedId": "8645028",
+    "name": "Augmentin",
+    "dci": "Amoxicilina + Ácido clavulânico",
+    "form": "Pó e solvente para solução injetável",
+    "dosage": "1000 mg/20 ml + 200 mg/20 ml",
+    "holder": "GlaxoSmithkline Produtos Farmacêuticos, Lda.",
+    "score": 1.0,
+    "generic": false,
+    "processNumber": "6/101/84",
+    "administration": ["Via intravenosa"],
+    "classification": {
+      "atc": "J01CR02 - amoxicillin and beta-lactamase inhibitor",
+      "farmacoterapeutica": "1.1.5 - Associações de penicilinas com inibidores das lactamases beta"
+    },
+    "aimDate": "05/05/1986",
+    "lastUpdated": "22/06/2007",
+    "status": "Caducado (21/01/2008)"
+  },
+  "documents": {
+    "rcm": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "rcm/8645028-rcm.pdf",
+      "size": 78000,
+      "method": "POST with form state",
+      "lastUpdated": "22/06/2007"
+    },
+    "fi": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "fi/8645028-fi.pdf",
+      "size": 36000,
+      "method": "POST with form state",
+      "lastUpdated": "22/06/2007"
+    }
+  }
+}

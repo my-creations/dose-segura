@@ -1,0 +1,31 @@
+{
+  "medId": "tiaprida",
+  "searchTerm": "tiaprida",
+  "retrievedAt": "2026-02-09T00:49:07.355Z",
+  "bestMatch": {
+    "infarmedId": "8451",
+    "name": "Tiapridal",
+    "dci": "Tiaprida",
+    "form": "Solução injetável",
+    "dosage": "100 mg/2 ml",
+    "holder": "Neuraxpharm Portugal, Unipessoal Lda",
+    "isGeneric": false,
+    "score": 170
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/8451-rcm.pdf",
+      "size": 104802
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/8451-fi.pdf",
+      "size": 96296
+    }
+  }
+}

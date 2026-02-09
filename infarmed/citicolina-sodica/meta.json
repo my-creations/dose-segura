@@ -1,0 +1,26 @@
+{
+  "medId": "citicolina-sodica",
+  "searchTerm": "citicolina",
+  "retrievedAt": "2026-02-08T19:15:00.000Z",
+  "bestMatch": {
+    "infarmedId": "10808",
+    "name": "Trausan",
+    "dci": "Citicolina",
+    "form": "Solução injetável",
+    "dosage": "500 mg/2 ml",
+    "holder": "Faes Farma Portugal, S.A.",
+    "score": 1.0
+  },
+  "documents": {
+    "rcm": {
+      "status": "success",
+      "contentType": "application/pdf",
+      "file": "infarmed/citicolina-sodica/rcm/10808-rcm.pdf"
+    },
+    "fi": {
+      "status": "success",
+      "contentType": "application/pdf",
+      "file": "infarmed/citicolina-sodica/fi/10808-fi.pdf"
+    }
+  }
+}

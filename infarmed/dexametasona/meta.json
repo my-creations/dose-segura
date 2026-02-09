@@ -1,0 +1,26 @@
+{
+  "medId": "dexametasona",
+  "searchTerm": "dexametasona",
+  "retrievedAt": "2026-02-08T20:35:00.000Z",
+  "bestMatch": {
+    "infarmedId": "710626",
+    "name": "Dexametasona Basi",
+    "dci": "Dexametasona",
+    "form": "Solução injetável ou para perfusão",
+    "dosage": "4 mg/ml",
+    "holder": "Laboratórios Basi - Indústria Farmacêutica, S.A",
+    "score": 1.0
+  },
+  "documents": {
+    "rcm": {
+      "status": "success",
+      "contentType": "application/pdf",
+      "file": "infarmed/dexametasona/rcm/710626-rcm.pdf"
+    },
+    "fi": {
+      "status": "success",
+      "contentType": "application/pdf",
+      "file": "infarmed/dexametasona/fi/710626-fi.pdf"
+    }
+  }
+}

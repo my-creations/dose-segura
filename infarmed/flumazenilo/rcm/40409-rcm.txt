@@ -1,0 +1,591 @@
+                                                                   APROVADO EM
+                                                                   22-03-2021
+                                                                   INFARMED
+
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+
+1. NOME DO MEDICAMENTO
+
+Flumazenilo Fresenius Kabi 0,1 mg/ml solução injetável
+
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada ml contém 0,1 mg de flumazenilo.
+1 ampola com 5 ml contém 0,5 mg de flumazenilo.
+1 ampola com 10 ml contém 1 mg de flumazenilo.
+
+Excipientes com efeito conhecido:
+Cada ampola de 10 ml contém 37 mg de sódio.
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+3. FORMA FARMACÊUTICA
+
+Solução injetável.
+Concentrado para solução para perfusão.
+Solução límpida e incolor.
+
+
+4. INFORMAÇÕES CLÍNICAS
+
+4.1 Indicações terapêuticas
+
+Flumazenilo está indicado para a reversão completa ou parcial dos efeitos sedativos
+das benzodiazepinas sobre o Sistema Nervoso Central. Está, portanto, indicado na
+anestesia e nos cuidados intensivos das seguintes situações:
+
+Na anestesia
+- Suspensão dos efeitos hipnosedativos da anestesia geral induzida e/ou mantida
+pelas benzodiazepinas em doentes hospitalizados.
+- Reverter a sedação pelas benzodiazepinas em procedimentos diagnósticos e
+terapêuticos de curta duração, em doentes de ambulatório e doentes hospitalizados.
+- Para reverter a sedação consciente induzida por benzodiazepinas em crianças com
+idade> 1 ano.
+
+Em situações de cuidados intensivos
+- Para anular especificamente os efeitos centrais de Benzodiazepinas, com a
+finalidade de restabelecer a respiração espontânea.
+- Para diagnóstico e tratamento de intoxicações ou sobredosagem causada por
+benzodiazepinas ou principalmente por benzodiazepinas.
+
+4.2 Posologia e modo de administração
+
+Posologia
+                                                                   APROVADO EM
+                                                                   22-03-2021
+                                                                   INFARMED
+
+Adultos:
+Anestesia
+A dose inicial recomendada é 0,2 mg administrada por via intravenosa durante 15
+segundos.
+Se não se obteve o grau de consciência desejado ao fim de 60 segundos, pode
+injetar-se uma dose adicional de 0,1 mg e repeti-la em intervalos de 60 segundos em
+60 segundos, até uma dose máxima de 1,0 mg. A dose eficaz situa-se entre os 0,3
+mg e 0,6 mg, no entanto este valor varia consoante as características do doente e
+da benzodiazepina administrada.
+
+Cuidados intensivos
+A dose inicial recomendada é 0,3 mg administrada por via intravenosa durante 15
+segundos. Se o grau de consciência desejado não for obtido ao fim de 60 segundos,
+pode ser injetada uma dose adicional de 0,1 mg e repetida em intervalos de 60
+segundos em 60 segundos, até uma dose total de 2 mg ou até o doente acordar.
+Nos casos em que há regresso da sonolência, pode ser administrada uma segunda
+injeção por bólus.
+Também se provou ser útil uma perfusão intravenosa de 0,1-0,4 mg/h.
+A dosagem e taxa de perfusão devem ser estabelecidas individualmente para atingir
+o grau de consciência desejado.
+
+Se o estado de consciência do doente e a sua função respiratória não apresentarem
+melhorias significativas com as doses repetidas de flumazenilo, deve-se considerar
+que a intoxicação não é devida às benzodiazepinas.
+
+A perfusão deve ser descontinuada de 6 em 6 horas para verificar se a ressedação
+ocorre.
+
+Para evitar sintomas de privação, nos doentes tratados por longos períodos de
+tempo com elevadas doses de benzodiazepinas nas unidades de cuidados
+intensivos, a dosagem do flumazenilo tem de ser titulada individualmente e a injeção
+têm de ser administrada lentamente (ver 4.4).
+
+Idosos
+Na ausência de dados de administração de flumazenilo em doentes idosos, deve ser
+tido em conta que esta população é normalmente mais sensível para os efeitos de
+medicamentos e deve ser tratada com a devida precaução.
+
+Doentes com compromisso hepático
+Uma vez que o flumazenilo é principalmente metabolizado no fígado, é
+recomendada a titulação cuidadosa da dosagem em doentes com disfunção
+hepática.
+
+Doentes com compromisso renal
+Não são requeridos ajustamentos da dose em doentes com compromisso renal.
+
+População Pediátrica
+
+Crianças com idade superior a 1 ano
+Para reverter a sedação consciente induzida por benzodiazepinas em crianças com
+idade> 1 ano, a dose inicial recomendada é 10 microgramas/kg (até 200
+microgramas), administrada por via intravenosa em 15 segundos. Se após um
+período de tempo de 45 segundos, o nível de consciência requerido não for obtido,
+                                                                      APROVADO EM
+                                                                      22-03-2021
+                                                                      INFARMED
+
+pode administrar-se uma injeção de 10 microgramas/kg (até 200 microgramas), e
+quando necessário repetir-se em intervalos de 60 segundos (até um máximo de
+4 vezes) até uma dose máxima de 50 microgramas/kg ou 1 mg, dependendo de qual
+é a dose mais baixa. A dose deverá ser ajustada à resposta do doente. Não existem
+dados de segurança e eficácia da administração repetida de flumazenilo em crianças
+em caso de ressedação.
+
+Crianças com idade inferior a 1 ano
+Não existem dados suficientes da utilização de flumazenilo em crianças com menos
+de 1 ano.
+Deste modo, o flumazenilo deve ser apenas administrado em crianças com menos
+de 1 ano se os benefícios potenciais para o doente superarem os possíveis riscos.
+
+Modo de administração
+
+Flumazenilo deve ser administrado intravenosamente por um anestesista ou por um
+médico com experiência.
+Flumazenilo pode ser administrado como perfusão (ver 6.6).
+Flumazenilo pode ser utilizado concomitantemente com outras medidas de
+reanimação.
+
+Para instruções acerca da diluição do medicamento antes da administração, ver
+secção 6.6.
+
+4.3 Contraindicações
+
+- Hipersensibilidade à substância ativa ou a qualquer dos excipientes mencionados
+na secção 6.1.
+
+- Doentes a quem foram administradas benzodiazepinas no tratamento de situações
+de risco de vida (p.ex. controlo da pressão intracraniana ou crises de epilepsia).
+
+- Em intoxicações mistas com benzodiazepinas e antidepressivos tricíclicos e/ou
+tetracíclicos, a toxicidade dos antidepressivos pode ser mascarada por efeitos
+protetores das benzodiazepinas.
+Na presença de sintomas autónomos (anticolinérgicos), neurológicos
+(anormalidades motoras) ou cardiovasculares de intoxicação grave com
+tricíclicos/tetracíclicos, o Flumazenilo não deve ser administrado para neutralizar o
+efeito da benzodiazepina.
+
+4.4 Advertências e precauções especiais de utilização
+
+A utilização em crianças para outras indicações, para além da recuperação da
+consciência sedativa não é recomendada, uma vez que não existem estudos
+controlados.
+
+O doente deve ser monitorizado por um período adequado de tempo (ECG, pulso,
+oximetria, vigilância do doente e outros sinais vitais, tais como frequência cardíaca,
+frequência respiratória e pressão sanguínea)
+O flumazenilo reverte especificamente os efeitos das benzodiazepinas. Deste modo,
+se os doentes não acordarem, outra etiologia deve ser considerada.
+                                                                 APROVADO EM
+                                                                 22-03-2021
+                                                                 INFARMED
+
+Quando da sua aplicação em anestesiologia, no fim das intervenções cirúrgicas, o
+flumazenilo não deve ser administrado até que os efeitos dos relaxantes do músculo
+periférico tenham revertido completamente.
+Uma vez que a ação do flumazenilo é normalmente menor que a das
+benzodiazepinas e a sedação pode possivelmente recorrer, o doente deve ser
+sujeito a uma monitorização cuidadosa, preferencialmente na unidade de cuidados
+intensivos, até que o efeito do flumazenilo tenha presumivelmente desaparecido.
+Em doentes de elevado risco, os benefícios da sedação por benzodiazepinas devem
+ser ponderados em relação às desvantagens de um despertar rápido. Em doentes
+(ex. com problemas cardíacos) a manutenção de um certo nível de sedação pode
+ser preferível a estar completamente acordado.
+A injeção rápida de elevadas doses (mais de 1 mg) de flumazenilo deve ser evitada.
+Em doentes que recebem doses elevadas e/ou tratamento crónico com
+benzodiazepinas em qualquer altura nas semanas que precedem a administração de
+flumazenilo, a injeção rápida de doses iguais ou superiores a 1 mg provocaram
+sintomas de privação incluindo palpitações, agitação, ansiedade, instabilidade
+emocional assim como confusão ligeira e distorções sensoriais.
+Em doentes que sofrem de ansiedade pré-operatória ou tendo uma história de
+ansiedade crónica ou esporádica, a dose de flumazenilo deve ser ajustada
+cuidadosamente.
+A dor pós-operatória tem de ser tida em consideração. Pode ser preferível manter o
+doente ligeiramente sedado.
+Em doentes tratados por longos períodos com elevadas doses de benzodiazepinas,
+as vantagens da utilização de flumazenilo devem ser cuidadosamente ponderadas
+em relação aos riscos dos sintomas de privação. Se ocorrerem sintomas de privação
+apesar da dosagem cuidadosa, deverá ser administrada por via intravenosa
+lentamente uma dose titulada individualmente de 5 mg de diazepam ou 5 mg de
+midazolam.
+Doentes que receberam flumazenilo para a reversão dos efeitos das
+benzodiazepinas devem ser monitorizados quanto à ressedação, depressão
+respiratória ou outros efeitos residuais das benzodiazepinas administradas durante
+um período adequado baseado na dose e na duração do efeito das benzodiazepinas
+administradas. Como os doentes com compromisso hepático subjacente podem
+experienciar efeitos retardados como os descritos acima, pode ser necessário um
+período de observação mais prolongado nesses casos.
+Devido ao potencial para ressedação e depressão respiratória em crianças
+previamente sedadas com midazolam, devem ser monitorizadas pelo menos 2 horas
+após a administração do flumazenilo. No caso de outras benzodiazepinas sedativas,
+o tempo de monitorização tem de ser ajustado de acordo com a sua duração
+esperada.
+Até estarem disponíveis dados suficientes, o flumazenilo não deve ser administrado
+a crianças de 1 ano de idade ou mais jovens a menos que os riscos para o doente
+(especialmente no caso de sobredosagem acidental) tenham sido considerados em
+relação às vantagens da terapêutica.
+A administração de um antagonista não é recomendada em doentes com epilepsia,
+que tenham sido tratados com benzodiazepinas durante longos períodos de tempo.
+Embora o flumazenilo tenha alguns efeitos antiepiléticos intrínsecos, o efeito
+antagonista abrupto pode provocar convulsões em doentes com epilepsia.
+Em doentes com lesões cerebrais graves (e/ou pressão intracraniana instável) a
+receber flumazenilo – para neutralizar os efeitos das benzodiazepinas – pode
+desenvolver-se um aumento da pressão intracraniana.
+                                                                       APROVADO EM
+                                                                       22-03-2021
+                                                                       INFARMED
+
+Flumazenilo não é recomendado para o tratamento da dependência de
+benzodiazepinas ou para o tratamento a longo prazo da síndrome de abstinência por
+benzodiazepinas.
+Ataques de pânico têm sido descritos após a administração de flumazenilo em
+doentes com história de doenças de pânico.
+Devido ao aumento da frequência de tolerância e dependência às benzodiazepinas
+em doentes com alcoolismo e outras dependências a drogas, o flumazenilo deve ser
+administrado com precaução nestas populações.
+É necessária uma precaução especial quando se utiliza flumazenilo em casos de
+sobredosagem por múltiplos agentes. Em particular, no caso de uma intoxicação
+com benzodiazepinas e antidepressivos cíclicos, alguns efeitos tóxicos causados por
+estes antidepressivos, tais como convulsões e arritmias cardíacas, e antagonizados
+pelas benzodiazepinas, podem ser exacerbados pela administração de flumazenilo.
+A eliminação sofrer um atraso em doentes com compromisso da função hepática.
+Cada ampola de 5 ml contém menos de 1 mmol de sódio (ou 23 mg), ou seja, é
+praticamente “isento de sódio”.
+Cada ampola de 10 ml contém 1,61 mmol de sódio (ou 37 mg), equivalente a 1,9%
+da ingestão diária máxima recomendada pela OMS de 2 g de sódio para um adulto.
+
+4.5 Interações medicamentosas e outras formas de interação
+
+O flumazenilo bloqueia os efeitos das benzodiazepinas sobre o sistema nervoso
+central através da interação competitiva a nível dos recetores. Os efeitos dos
+agonistas não-benzodiazepínicos atuando via recetor de benzodiazepina, tais como
+zopiclone, triazolopiridazina e outros, são também antagonizados pelo flumazenilo.
+Contudo, o flumazenilo não bloqueia o efeito de medicamentos que não operem por
+esta via. A interação com outros depressores do sistema nervoso central não tem
+sido observada. É necessária precaução especial quando se utiliza o flumazenilo em
+casos de sobredosagem acidental, pois os efeitos tóxicos de outros medicamentos
+psicotrópicos (especialmente antidepressivos tricíclicos) administrados
+concomitantemente podem aumentar a antagonização do efeito da benzodiazepina.
+
+Não foram observadas alterações na farmacocinética do flumazenilo em combinação
+com as benzodiazepinas midazolam, flunitrazepam e lormetazepam. O flumazenilo
+não afeta a farmacocinética destas benzodiazepinas.
+
+Não existe interação farmacocinética entre o etanol e o flumazenilo.
+
+4.6 Fertilidade, gravidez e aleitamento
+
+Gravidez
+Embora nos estudos realizados em animais não tenha sido demonstrada a evidência
+da toxicidade embrionária ou teratogénica, o possível risco para humanos provocado
+pelo flumazenilo durante a gravidez não foi determinado (ver secção 5.3). Deste
+modo, o flumazenilo apenas deve ser administrado durante a gravidez se os
+possíveis benefícios para os doentes superarem os potenciais riscos para o feto.
+
+Amamentação
+É desconhecido se o flumazenilo é excretado no leite materno. Por esta razão, a
+amamentação deve ser suspensa durante 24 horas quando flumazenilo é
+administrado durante a lactação.
+A administração de emergência do flumazenilo durante a gravidez e lactação não
+está contraindicada.
+                                                                 APROVADO EM
+                                                                 22-03-2021
+                                                                 INFARMED
+
+
+Fertilidade
+Estudos em animais não demonstraram evidência de toxicidade embrionária ou
+teratogenicidade (ver secção 5.3).
+
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os doentes que receberam flumazenilo para reverter os efeitos sedativos das
+benzodiazepinas devem ser alertados para não conduzirem, utilizarem máquinas ou
+procederem a outras atividades que exijam a aplicação física ou mental pelo menos
+durante 24 horas, uma vez que o efeito da benzodiazepina pode reaparecer.
+
+4.8 Efeitos indesejáveis
+
+A convenção seguinte é utilizada para classificar as reações adversas:
+Muito frequentes             ≥1/10
+Frequentes                   ≥1/100, <1/10
+Pouco frequentes             ≥1/1.000, <1/100
+Raras                        ≥1/10.000, <1/1.000
+Muito raras                  <1/10.000
+Desconhecido        Não pode ser calculado a partir dos dados disponíveis
+
+     Doenças do sistema imunitário
+     Frequentes     Reações alérgicas
+     Desconhecido Reações de hipersensibilidade, incluindo anafilaxia
+     Perturbações do foro psiquiátrico
+     Frequentes     Ansiedade*, fragilidade emocional, insónia, sonolência
+     Pouco          Medo
+     frequentes
+     Desconhecido Sintomas de privação (ver em baixo); ataques de pânico (em
+                    doentes com história de reações de pânico); choro anormal,
+                    agitação, reações agressivas
+     Doenças do Sistema Nervoso
+     Frequentes     Vertigem, cefaleia, agitação*, tremor, boca seca,
+                    hiperventilação, perturbações da fala, parestesia.
+     Pouco          Convulsões (nos doentes que sofrem de epilepsia ou
+     frequentes     insuficiência hepática grave, principalmente após o
+                    tratamento a longo prazo com benzodiazepinas ou
+                    sobredosagem por múltiplos agentes (ver secção 4.4)).
+     Afeções do ouvido e do labirinto
+     Pouco          Audição anormal.
+     frequentes
+     Afeções oculares
+     Frequentes     Diplopia, estrabismo, aumento da lacrimação.
+     Cardiopatias
+     Frequentes     Palpitações*.
+     Pouco          Taquicardia ou bradicardia, extrassístole
+     frequentes
+     Vasculopatias
+     Frequentes     Afrontamento, hipotensão, hipotensão ortostática, aumento
+                    transitório da pressão arterial (no despertar).
+     Doenças respiratórias, torácicas e do mediastino
+                                                                   APROVADO EM
+                                                                   22-03-2021
+                                                                   INFARMED
+
+     Pouco           Dispneia, tosse, congestão nasal, dor no peito.
+     frequentes
+     Doenças gastrointestinais
+     Muito           Náuseas (durante a utilização pós-operatória).
+     frequentes
+     Frequentes      Vómitos (durante a utilização pós-operatória), soluços.
+     Afeções dos tecidos cutâneos e subcutâneos
+     Frequentes      Suores.
+
+     Perturbações gerais alterações no local de administração
+     Frequentes       Fadiga, dor no local da injeção
+     Pouco            Calafrios*.
+     frequentes
+* após a injeção rápida, o tratamento não é requerido.
+
+No seguimento da injeção rápida de doses de 1 mg ou superiores ou nos doentes
+tratados durante longos períodos e/ou com elevadas doses de benzodiazepinas, o
+flumazenilo pode induzir sintomas de privação. Os sintomas são: tensão, agitação,
+ansiedade, fragilidade emocional assim como confusão e perturbações sensoriais,
+alucinações, tremor e convulsões.
+
+Normalmente, o perfil dos efeitos indesejáveis em crianças é geralmente semelhante
+ao dos adultos. Quando se utiliza o flumazenilo para neutralizar a anormal sedação
+da consciência, têm sido descritos casos de choro, agitação e reações agressivas.
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento
+é importante, uma vez que permite uma monitorização contínua da relação
+benefício-risco do medicamento. Pede-se aos profissionais de saúde que notifiquem
+quaisquer suspeitas de reações adversas diretamente ao INFARMED, I.P.
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel.: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+E-mail: farmacovigilancia@infarmed.pt
+
+4.9 Sobredosagem
+
+A experiência de sobredosagem aguda com Flumazenilo em humanos é muito
+limitada. Contudo, mesmo quando administrado por via intravenosa em doses de
+100 mg, não se observaram sintomas de sobredosagem atribuíveis ao flumazenilo.
+
+Não há antídoto específico para a sobredosagem com Flumazenilo. O tratamento
+deverá consistir em medidas gerais de suporte, incluindo monitorização dos sinais
+vitais e observação do estado clínico do doente.
+
+Em casos de sobredosagem por múltiplos fármacos, em particular com
+antidepressivos cíclicos, podem manifestar-se efeitos tóxicos (tais como convulsões
+                                                                    APROVADO EM
+                                                                    22-03-2021
+                                                                    INFARMED
+
+e disritmias cardíacas) com a reversão dos efeitos das benzodiazepinas pelo
+Flumazenilo.
+
+
+5. PROPRIEDADES FARMACOLÓGICAS
+
+5.1 Propriedades farmacodinâmicas
+
+Categoria Farmacoterapêutica: 17. Medicamentos usados no tratamento de
+intoxicações
+Código ATC: V03A B25
+
+O flumazenilo, uma imidazobenzodiazepina, é uma benzodiazepina antagonista, a
+qual, por interação competitiva, bloqueia o efeito das substâncias atuando via
+recetor-benzodiazepina. A neutralização de reações paradoxais de benzodiazepinas
+tem sido documentada.
+
+De acordo com experiência em animais, os efeitos das substâncias, as quais não
+atuaram via recetor-benzodiazepina (tais como, barbitúricos, GABA-miméticos e
+agonistas dos recetores-adenosina), não são bloqueadas pelo flumazenilo. Os
+agonistas não benzodiazepínicos, tais como ciclopirrolones (zopiclon) e
+triazolopiridazinas, são bloqueados pelo flumazenilo. Os efeitos hipnosedativos das
+benzodiazepinas são bloqueados rapidamente (em 1-2 minutos) após a
+administração intravenosa. Dependendo da diferença no tempo de eliminação entre
+agonista e antagonista, o efeito pode recorrer após várias horas. O flumazenilo tem
+um possivelmente um ligeiro efeito agonista, anticonvulsivante. O flumazenilo
+provoca a privação, incluindo convulsões em animais a receber o tratamento a
+longo-prazo de flumazenilo.
+
+5.2 Propriedades farmacocinéticas
+
+Distribuição
+O flumazenilo é uma base fraca lipofílica com uma taxa de ligação às proteínas
+plasmáticas de aproximadamente 50%. Dois terços destas proteínas plasmáticas
+estão ligados à albumina. O flumazenilo distribui-se extensivamente no espaço
+extravascular. Durante a fase de distribuição, a concentração de flumazenilo no
+plasma diminui com uma semivida de 4-15 minutos. O volume de distribuição no
+estado estacionário (Vss- steady state) é 0,9-1,1 L/kg.
+
+Biotransformação
+O flumazenilo inalterado é principalmente eliminado através do metabolismo
+hepático. O metabolito do ácido carboxilíco foi encontrado no plasma (na forma livre)
+e na urina (na forma livre e conjugada) por ser o metabolito mais importante. Nos
+testes farmacológicos este metabolito demonstrou ser inativo como agonista ou
+antagonista das benzodiazepinas.
+
+Eliminação
+Quase nenhum flumazenilo inalterado é excretado na urina. Isto indica uma
+completa degradação metabólica da substância ativa no organismo. O medicamento
+radiomarcado é completamente eliminado em 72 horas, com 90 a 95% de
+radioatividade a aparecer na urina e 5 a 10% nas fezes. A eliminação é rápida, tal
+como demonstrado pelo tempo de semivida curto de 40 a 80 minutos. A depuração
+                                                                   APROVADO EM
+                                                                   22-03-2021
+                                                                   INFARMED
+
+total de flumazenilo no plasma é 0,8 a 1,0 L/hora/kg e pode quase ser
+completamente atribuída ao metabolismo hepático.
+
+A farmacocinética do flumazenilo é dose-proporcional em que a dose terapêutica
+varia até 100 mg.
+
+A ingestão de alimentos durante a perfusão intravenosa do flumazenilo resulta num
+aumento de 50% da depuração, provavelmente devido ao aumento pós-prandial da
+perfusão no fígado.
+
+Relação farmacocinética/farmacodinâmica
+
+Idosos
+A farmacocinética do flumazenilo em idosos não é diferente da farmacocinética em
+adultos jovens.
+
+Doentes com insuficiência da função hepática
+Nos doentes com uma insuficiência da função hepática moderada a grave, o tempo
+de semivida do flumazenilo é aumentado (aumento de 70%-210%) e a depuração
+total é baixa (entre 57 e 74%) comparado com os voluntários normais saudáveis.
+
+Doentes com insuficiência da função renal
+A farmacocinética do flumazenilo não é diferente em doentes com insuficiência da
+função renal ou doentes em hemodiálise comparado com voluntários normais
+saudáveis.
+
+População pediátrica
+O tempo de semivida do flumazenilo nas crianças acima de 1 ano de idade é
+ligeiramente mais curto e varia mais que nos adultos, aproximadamente 40 minutos,
+variando de 20 a 75 minutos. A depuração e o volume de distribuição, corrigido para
+o peso corporal, são os mesmos que nos adultos.
+
+5.3 Dados de segurança pré-clínica
+
+A exposição tardia pré-natal assim como per- e pós-natal ao flumazenilo induziu
+alterações comportamentais e um aumento da densidade do recetor da
+benzodiazepina no hipocampo, dos descendentes dos ratos. O efeito destes
+acontecimentos não é considerado relevante se o medicamento for utilizado num
+período de tempo muito curto tal como instruído.
+
+
+6. INFORMAÇÕES FARMACÊUTICAS
+
+6.1 Lista dos excipientes
+
+Edetato dissódico
+Ácido acético glacial
+Cloreto de sódio
+Hidróxido de sódio para ajuste de pH
+Água para preparações injetáveis
+
+6.2 Incompatibilidades
+                                                                   APROVADO EM
+                                                                   22-03-2021
+                                                                   INFARMED
+
+Este medicamento não pode ser misturado com outros medicamentos exceto para
+com os mencionados na secção 6.6.
+
+6.3 Prazo de validade
+
+3 anos.
+
+Prazo de validade após a primeira abertura:
+Após a primeira abertura o medicamento deve ser utilizado imediatamente.
+
+Prazo de validade após diluição:
+A estabilidade química e física em utilização têm sido demonstradas durante 24
+horas a 25ºC.
+
+Do ponto de vista microbiológico, o produto deve ser imediatamente utilizado. Se
+não for utilizado imediatamente, o tempo e as condições de conservação antes da
+administração são da responsabilidade do utilizador e não devem normalmente
+ultrapassar as 24 horas entre 2-8ºC, a menos que a diluição seja efetuada em
+condições assépticas validadas e controladas.
+
+6.4 Precauções especiais de conservação
+
+Não conservar acima de 25ºC.
+
+6.5 Natureza e conteúdo do recipiente
+
+Embalagem de cartão com 5 ou 10 ampolas (vidro tipo I) contendo 5 ml de solução
+injetável.
+
+Embalagem de cartão com 5 ou 10 ampolas (vidro tipo I) contendo 10 ml de solução
+injetável.
+
+É possível que não sejam comercializadas todas as apresentações.
+
+6.6 Precauções especiais de eliminação e manuseamento
+
+O medicamento é apenas para utilização única e qualquer solução não administrada
+deve ser eliminada.
+Por favor inspecione o medicamento visualmente. O medicamento só deve ser
+utilizado se a solução estiver límpida e praticamente livre de partículas.
+
+Quando o flumazenilo é utilizado na perfusão, tem de ser diluído antes da perfusão.
+O flumazenilo apenas deve ser diluído com uma solução de cloreto de sódio 9 mg/ml
+(0,9%), solução de glucose 50 mg/ml (5%) ou cloreto de sódio 4,5 mg/ml (0,45%) +
+solução de glucose 25 mg/ml (2,5%) (10, 20, 50 ml de Flumazenilo Fresenius Kabi
+0,1 mg/ml em 500 ml de solução). A compatibilidade entre flumazenilo e outras
+soluções para injeção não foi estabelecida.
+
+As soluções intravenosas para perfusão devem ser eliminadas após 24 horas.
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo
+com as exigências locais.
+                                                                     APROVADO EM
+                                                                     22-03-2021
+                                                                     INFARMED
+
+
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Fresenius Kabi Pharma Portugal, Lda.
+Zona Industrial do Lagedo,
+3465-157 Santiago de Besteiros, Portugal
+
+
+8. NÚMERO(S) DE AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Nº de registo: 5699780 - 5 ml solução injetável, 0,1 mg/ml, 5 ampolas vidro tipo I
+Nº de registo: 5699889 - 5 ml solução injetável, 0,1 mg/ml, 10 ampolas vidro tipo I
+Nº de registo: 5699988 - 10 ml solução injetável, 0,1 mg/ml, 5 ampolas de vidro tipo I
+Nº de registo: 5700083 - 10 ml solução injetável, 0,1 mg/ml, 10 ampolas de vidro tipo
+I
+
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO / RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 08/02/2006
+Data da última renovação: 28/04/2010
+
+
+10. DATA DA REVISÃO DO TEXTO
+

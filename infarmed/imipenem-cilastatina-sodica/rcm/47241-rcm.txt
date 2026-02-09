@@ -1,0 +1,751 @@
+                                                                   APROVADO EM
+                                                                    29-05-2020
+                                                                    INFARMED
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1. NOME DO MEDICAMENTO
+Imipenem/Cilastatina Hikma 500 mg/500 mg pó para solução para perfusão
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+Cada frasco contém 530 mg de imipenem mono-hidratado equivalente a 500 mg de
+imipenem, e 530 mg de cilastatina sódica, equivalente a 500 mg de cilastatina.
+Excipiente(s) com efeito conhecido:
+Cada frasco contém 20 mg de bicarbonato de sódio. A quantidade total por frasco é
+equivalente a aproximadamente 37,5 mg de sódio.
+Lista completa de excipientes, ver secção 6.1.
+
+3. FORMA FARMACÊUTICA
+Pó para solução para perfusão.
+Pó branco a amarelo claro.
+
+4. INFORMAÇÕES CLÍNICAS
+4.1 Indicações terapêuticas
+Imipenem/Cilastatina Hikma está indicado para o tratamento das seguintes infeções
+em adultos e crianças com 1 ano de idade ou mais (ver secções 4.4 e 5.1):
+Infeções intra-abdominais complicadas.
+Pneumonia grave incluindo pneumonia hospitalar e associada à ventilação.
+Infeções intra- e pós-parto.
+Infeções complicadas do trato urinário.
+Infeções complicadas da pele e dos tecidos moles.
+Imipenem/Cilastatina Hikma pode ser usado no tratamento de doentes
+neutropénicos com febre, que se suspeite ser devida a infeção bacteriana.
+Tratamento de doentes com bacteriemia que ocorre em associação com, ou que se
+suspeita estar associada a alguma das infeções listadas anteriormente.
+Devem ter-se em consideração as orientações oficiais sobre a utilização apropriada
+de agentes antibacterianos.
+4.2 Posologia e modo de administração
+Posologia
+                                                                  APROVADO EM
+                                                                   29-05-2020
+                                                                   INFARMED
+As recomendações posológicas para o Imipenem/Cilastatina Hikma representam a
+quantidade de imipenem/cilastatina a ser administrada.
+A dose diária de Imipenem/Cilastatina Hikma deve ser determinada com base no tipo
+de infeção e administrada em doses divididas igualmente considerando o grau de
+suscetibilidade do(s) agente(s) patogénico(s) e a função renal do doente (ver
+também secção 4.4 e 5.1).
+Adultos e adolescentes
+Para doentes com função renal normal (depuração da creatinina > 90 ml/min), a
+posologia recomendada é a seguinte:
+500 mg/500 mg cada 6 horas OU
+1000 mg/1000 mg cada 8 horas OU cada 6 horas
+Recomenda-se que infeções provocadas ou que se suspeite serem provocadas por
+espécies bacterianas menos suscetíveis (tais como Pseudomonas aeruginosa) e
+infeções muito graves (por exemplo em doente neutropénicos com febre) sejam
+tratadas com 1000 mg/1000 mg administrados a cada 6 horas.
+A redução da dose é necessária quando a depuração da creatinina é ≤ 90 ml/min
+(ver Tabela 1).
+A dose máxima diária total não deve exceder 4000 mg/4000 mg por dia.
+Compromisso renal
+Para determinar a redução da posologia para os adultos com compromisso renal:
+1. Deve ser selecionada a dose diária total (i.e. 2000/2000, 3000/3000 ou
+4000/4000 mg) que seria adequada para doentes com função renal normal.
+2. Com base na Tabela 1, é selecionada a redução apropriada do regime posológico,
+de acordo com os valores de depuração da creatinina do doente. Para tempos de
+perfusão ver Modo de administração.
+Depuração      da Se a dose diária Se a dose diária Se a dose diária
+creatinina        total for: 2000 total for: 3000 total for: 4000
+(ml/min):         mg/dia           mg/dia           mg/dia
+≥90                500                1000                 1000
+(normal)           q6h                q8h                  q6h
+Dose reduzida (mg) para doentes com compromisso renal:
+<90 - ≥60          400                500                  750
+                   q6h                q6h                  q8h
+<60 - ≥30          300                500                  500
+                   q6h                q8h                  q6h
+<30 - ≥15          200                500                  500
+                   q6h                q12h                 q12h
+Doentes com depuração da creatinina ≤15 ml/min
+                                                                  APROVADO EM
+                                                                   29-05-2020
+                                                                   INFARMED
+Estes doentes não devem receber Imipenem/Cilastatina Hikma, a não ser que seja
+instituída hemodiálise no prazo de 48 horas.
+Doentes em hemodiálise
+Quando se tratam doentes com valores de depuração da creatinina ≤ 15 ml/min,
+submetidos a hemodiálise, devem seguir-se as recomendações posológicas para os
+doentes com valores de depuração da creatinina de 15 a 29 m/min (ver Tabela 1).
+Tanto o imipenem como a cilastatina são removidos de circulação durante a
+hemodiálise. O doente deverá receber Imipenem/Cilastatina Hikma após a
+hemodiálise, e em intervalos de 12 em 12 horas, a contar do fim dessa sessão de
+hemodiálise. Os doentes em diálise devem ser cuidadosamente vigiados, sobretudo
+os que têm antecedentes de doença do sistema nervoso central (SNC); para doentes
+a fazer hemodiálise, Imipenem/Cilastatina Hikma é apenas recomendado se os
+benefícios da terapêutica forem superiores ao potencial risco de desenvolver
+crises/convulsões (ver secção 4.4).
+Atualmente, não há dados que permitam recomendar Imipenem/Cilastatina Hikma
+em doentes submetidos a diálise peritoneal.
+Compromisso hepático
+Para doentes com compromisso da função hepática, não é recomendado qualquer
+ajuste de dose (ver secção 5.2).
+Doentes idosos
+Não é necessário qualquer ajuste de dose para doentes idosos com função renal
+normal (ver secção 5.2)
+População pediátrica com idade ≥ 1 ano
+Para doentes pediátricos com idade ≥1 ano, a dose recomendada é 15/15 ou 25/25
+mg/kg/dose, administrada de 6 em 6 horas.
+Recomenda-se que infeções provocadas ou que se suspeite serem provocadas por
+espécies bacterianas menos suscetíveis (tais como Pseudomonas aeruginosa) e
+infeções muito graves (por exemplo em doente neutropénicos com febre) sejam
+tratadas com 25/25 mg/Kg administrados a cada 6 horas.
+População pediátrica com idade <1 ano
+Os dados clínicos são insuficientes para recomendar uma posologia para crianças
+com menos de 1 ano de idade.
+População pediátrica com compromisso renal
+Os dados clínicos são insuficientes para recomendar uma posologia para crianças
+com compromisso renal (creatinina sérica > 2 mg/dl). Ver secção 4.4.
+Modo de administração
+Imipenem/Cilastatina Hikma tem de ser reconstituído e posteriormente diluído (ver
+secções 6.2, 6.3 e 6.6), antes de ser administrado. Cada dose de ≤ 500 mg/500 mg
+deve ser administrada por perfusão intravenosa durante 20 a 30 minutos. Cada dose
+> 500 mg/500 mg deve ser perfundida durante 40 a 60 minutos. Em doentes que
+desenvolvam náusea durante a perfusão, a velocidade de perfusão pode ser
+reduzida.
+                                                                      APROVADO EM
+                                                                       29-05-2020
+                                                                       INFARMED
+
+4.3 Contraindicações
+Hipersensibilidade às substâncias ativas ou a qualquer um dos excipientes
+mencionados na secção 6.1.
+Hipersensibilidade a qualquer outro agente bacteriano carbapenem.
+Hipersensibilidade grave (por exemplo reações anafiláticas, reação cutânea grave) a
+qualquer outro antibiótico beta-lactâmico (por exemplo penicilinas ou
+cefalosporinas).
+4.4 Advertências e precauções especiais de utilização
+Gerais
+Ao selecionar-se imipenem/cilastatina para tratamento de um doente deve
+considerar-se a adequação da utilização de um carbapenem tendo em conta fatores
+como a gravidade da infeção, a prevalência de resistência a outros antibióticos
+adequados e o risco de se selecionar este antibiótico para bactérias resistentes a
+antibióticos carbapenemes.
+Hipersensibilidade
+Têm sido notificadas reações de hipersensibilidade graves e ocasionalmente fatais
+(anafilaxia) em doentes em tratamento com antibióticos beta-lactâmicos. Estas
+reações têm mais probabilidade de ocorrer em indivíduos com história de
+sensibilidade a vários alergenos. Antes de se iniciar a terapêutica com
+Imipenem/Cilastatina Hikma, deve ser feito um cuidadoso questionário sobre
+anteriores reações de hipersensibilidade a carbapenemes, penicilinas, cefalosporinas,
+outros antibióticos beta-lactâmicos e outros alergenos (ver secção 4.3). Se ocorrer
+uma reação alérgica ao Imipenem/Cilastatina Hikma, deve suspender-se o
+medicamento imediatamente. Reações anafiláticas requerem tratamento imediato de
+emergência.
+Hepático
+A função hepática deve ser cuidadosamente monitorizada durante o tratamento com
+imipenem/cilastatina devido ao risco de toxicidade hepática (tal como aumento das
+transaminases, insuficiência hepática e hepatite fulminante).
+Utilização em doentes com doença do fígado: doentes com afeções hepáticas pré-
+existentes devem ter a função hepática monitorizada durante o tratamento com
+imipenem/cilastatina. Não é necessário ajuste da dose (ver secção 4.2).
+Hematologia
+Durante o tratamento com imipenem/cilastatina pode surgir um resultado positivo
+direto ou indireto no teste Coombs.
+Espectro antibacteriano
+Deve ter-se em consideração o espectro antibacteriano do imipenem/cilastatina,
+especialmente em situações de risco de vida, antes de se instituir tratamento
+empírico. Além disso, devido à susceptbilidade limitada de agentes patogénicos
+específicos ao imipenem/cilastatina, associados por exemplo a infeções bacterianas
+na pele e nos tecidos moles, a prescrição deve ser encarada com precaução. O uso
+de imipenem/cilastatina não é adequado para tratamento deste tipo de infeções, a
+menos que, o agente patogénico esteja documentado e haja evidência de que é
+susceptível, ou uma elevada suspeita que o patogéneo mais provável é suscetível ao
+                                                                      APROVADO EM
+                                                                       29-05-2020
+                                                                       INFARMED
+tratamento. O uso de um agente anti-MRSA apropriado em associação, poderá ser
+indicado quando estão ou se suspeita que estejam envolvidas infeções MRSA nas
+indicações aprovadas. O uso concomitante de um aminoglicosídeo na indicação
+aprovada, poderá ser indicado quando estão ou se suspeita que estejam envolvidas
+infeções por Pseudomonas aeruginosa (ver secção 4.1).
+Interação com ácido valpróico
+Não se recomenda o uso concomitante de imipenem/cilastatina e ácido valpróico/
+valproato de sódio (ver secção 4.5).
+Clostridium difficile
+Tem sido notificada colite associada ao uso de antibióticos e colite
+pseudomembranosa com uso de imipenem/cilastatina e com quase todos os outros
+antibióticos e pode variar, em gravidade, de ligeira a capaz de por a vida em risco. É
+importante considerar este diagnóstico em doentes que desenvolvem diarreia
+durante ou depois do uso de imipenem/cilastatina (ver secção 4.8). Deve considerar-
+se a suspensão da terapêutica com imipenem/cilastatina e administração de
+tratamento específico para Clostridium difficile. Não devem ser administrados
+medicamentos que inibam o peristaltismo.
+Meningite
+Imipenem/Cilastatina Hikma não é recomendado para o tratamento de meningite.
+Compromisso renal
+Imipenem/cilastatina acumula em doentes com função renal reduzida. Podem
+ocorrer reações adversas do SNC se a dose não for ajustada à função renal, ver
+secção 4.2 e o subtítulo "Sistema nervoso central", nesta seção.
+Sistema nervoso central
+Têm sido notificadas reações adversas do SNC, como mioclonias, estados
+confusionais ou crises/convulsões, especialmente quando as posologias
+recomendadas, baseadas na função renal e no peso corporal, foram excedidas. Estes
+efeitos têm sido descritos mais frequentemente em doentes com afeções do SNC
+(por ex., lesões cerebrais ou história de crises/convulsões) e/ou com a função renal
+comprometida, nos quais pode ocorrer acumulação das substâncias administradas.
+Assim, recomenda-se uma aderência rigorosa aos esquemas posológicos prescritos,
+especialmente nestes doentes (ver secção 4.2). Deverá manter-se a terapêutica
+anticonvulsivante em doentes com distúrbios convulsivos conhecidos.
+Deve ser dada especial atenção a sintomas neurológicos ou convulsões em crianças
+com fatores de risco conhecidos que contribuam para o desenvolvimento de crises
+(convulsões), ou em tratamento concomitante com medicamentos que diminuem o
+limiar convulsivo.
+Se ocorrerem tremores focais, mioclonia ou crises/convulsões, os doentes devem ser
+reavaliados neurologicamente, e deve ser iniciada terapêutica anticonvulsivante,
+caso esta ainda não esteja instituída. Se os sintomas relacionados com o SNC
+persistirem, a dose de Imipenem/Cilastatina Hikma deverá ser diminuída ou o
+medicamento suspenso.
+Os doentes com depuração de creatinina ≤ 15 ml/min não devem receber
+Imipenem/Cilastatina Hikma, a menos que seja instituída hemodiálise em 48 horas.
+                                                                     APROVADO EM
+                                                                      29-05-2020
+                                                                      INFARMED
+Só se recomenda Imipenem/Cilastatina Hikma em doentes sob hemodiálise, se os
+benefícios esperados ultrapassarem o potencial risco de desenvolver
+crises/convulsões (ver secção 4.2).
+População pediátrica
+Os dados clínicos são insuficientes para recomendar a utilização de
+Imipenem/Cilastatina Hikma em crianças com idade inferior a 1 anos ou doentes
+pediátricos com função renal comprometida (creatinina sérica >2 mg/dl). Ver
+também acima Sistema Nervoso Central.
+Este medicamento contém 37,5 mg (1.6 mEq) de sódio por frasco, equivalente a
+1.88% da ingestão diária máxima recomendada pela OMS de 2g de sódio para um
+adulto.
+4.5 Interações medicamentosas e outras formas de interação
+Foram descritas convulsões generalizadas em doentes que receberam ganciclovir e
+Imipenem/Cilastatina. Estes medicamentos não devem ser utilizados
+concomitantemente, a menos que o potencial benefício compense os riscos.
+Durante a administração concomitante de ácido valpróico com carbapenemes, têm
+sido notificadas diminuições nos níveis de ácido valpróico, abaixo do valor
+terapêutico. Esta diminuição dos níveis de ácido valpróico, pode levar a um controlo
+inadequado das crises/convulsões; assim, o uso concomitante de imipenem e ácido
+valpróico/valproato de sódio não é recomendado e devem ser considerados
+tratamentos antibacterianos ou anticonvulsivantes alternativos (ver secção 4.4).
+Anticoagulantes orais
+A administração simultânea de antibióticos com varfarina pode aumentar o seu efeito
+anticoagulante. Tem sido notificado frequentemente o aumento do efeito
+anticoagulante de agentes anticoagulantes administrados oralmente, incluindo
+varfarina em doentes que estão a receber tratamento concomitante com antibióticos.
+O risco pode variar com a infeção subjacente, idade e estado geral do doente, pelo
+que a influência do antibiótico para o aumento do INR (international normalized
+ratio) é difícil de determinar. É recomendada a monitorização frequente do INR
+durante e após a coadministração de antibióticos com agentes anticoagulantes orais.
+A administração concomitante de Imipenem/Cilastatina Hikma e probenecida
+resultou num aumento mínimo dos níveis plasmáticos e da semivida plasmática de
+imipenem. A recuperação urinária de imipenem ativo (não metabolizado) diminuiu
+para cerca de 60% da dose quando Imipenem/Cilastatina Hikma foi administrado
+com probenecida. A administração concomitante de Imipenem/Cilastatina Hikma e
+probenecida duplicou o nível plasmático e a semivida de cilastatina, mas não teve
+qualquer efeito na recuperação urinária da cilastatina.
+População pediátrica
+Estudos de interação apenas foram realizados em adultos.
+4.6 Fertilidade, gravidez e aleitamento
+Gravidez
+                                                                   APROVADO EM
+                                                                    29-05-2020
+                                                                    INFARMED
+Não existem estudos adequados e bem controlados do uso de imipenem/cilastatina
+em mulheres grávidas.
+Estudos em macacos fêmea grávidas demonstraram toxicidade reprodutiva (ver
+secção 5.3). O potencial risco para humanos não é conhecido.
+Imipenem/Cilastatina Hikma deve ser utilizado durante a gravidez apenas se os
+potenciais benefícios justificarem o potencial risco para o feto.
+Aleitamento
+O imipenem e a cilastatina são excretados no leite materno em pequenas
+quantidades. Pequenas quantidades são absorvidas de ambas as substâncias quando
+administradas oralmente. É, portanto, improvável que o lactente seja exposto a
+quantidades significativas de fármaco. Se o uso de Imipenem/Cilastatina for
+considerado indispensável, deverá ser avaliado o benefício do aleitamento contra o
+risco potencial para criança.
+Fertilidade
+Não existem dados disponíveis em relação aos potenciais efeitos do tratamento com
+imipenem/cilastatina na fertilidade do homem ou da mulher.
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+Não foram realizados estudos sobre a capacidade de conduzir ou utilizar máquinas.
+No entanto, existem alguns efeitos indesejáveis (tais como alucinações, tonturas,
+sonolência e vertigens) associados à utilização deste medicamento que podem afetar
+a capacidade de conduzir ou utilizar máquinas (ver secção 4.8).
+4.8 Efeitos indesejáveis
+Em ensaios clínicos que incluíram 1.723 doentes, tratados com imipenem/cilastatina
+intravenoso as reações adversas sistémicas mais frequentemente notificadas, pelo
+menos possivelmente relacionadas com o tratamento foram náuseas (2,0%), diarreia
+(1,8%), vómitos (1,5%), erupção cutânea (0,9%), febre (0,5%), hipotensão (0,4%),
+crises/convulsões (0,4%) (ver secção 4.4), tonturas (0,3%), prurido (0,3%),
+urticária (0,2%), sonolência (0,2%). De forma semelhante, as reações adversas
+locais mais frequentemente notificadas foram flebite/tromboflebite (3.1%), dor no
+local de injeção (0,7%), eritema no local de injeção (0,4%) e endurecimento venoso
+(0,2%). São também frequentemente notificados aumentos das transaminases
+séricas e da fosfatase alcalina.
+As reações adversas seguintes foram notificadas em ensaios clínicos ou durante a
+experiência pós-comercialização:
+Todas as reações adversas são listadas de acordo com a classe de sistemas de
+órgãos e frequência: Muito frequentes (≥1/10), Frequentes (≥1/100, <1/10), Pouco
+frequentes (≥1/1000, <1/100), Raros (≥1/10000, <1/1000), Muito raros
+(<1/10000) e Desconhecido (não pode ser calculado a partir dos dados disponíveis).
+Dentro de cada grupo de frequência, os efeitos indesejáveis estão apresentados por
+ordem decrescente de gravidade.
+                                                                 APROVADO EM
+                                                                  29-05-2020
+                                                                  INFARMED
+Classe de sistema de Frequência           Efeito
+órgãos
+Infecções e infestações Raros             Colite pseudomembranosa, candidíase
+                        Muito raros       Gastroenterite
+                        Frequentes        Eosinofilia
+                        Pouco             Pancitopenia, neutropenia, leucopenia,
+Doenças do sangue e do frequentes         trombocitopenia, trombocitose
+sistema linfático       Raros             Agranulocitose
+                        Muito raros       Anemia hemolítica, depressão da medula
+                                          óssea
+Doenças do sistema Raros                  Reações anafiláticas
+imunitário
+Perturbações do foro Pouco                Distúrbios       psíquicos      incluindo
+psiquiátrico         frequentes           alucinações e estados confusionais
+                     Pouco                Crises/convulsões, mioclonias, tonturas,
+                     frequentes           sonolência
+Doenças do sistema Raros                  Encefalopatia, parestesia, tremor focal,
+nervoso                                   alterações do paladar
+                     Muito raros          Agravamento da miastenia grave,
+                                          cefaleia
+                          Raros           Perda auditiva
+Afeções do ouvido e do
+labirinto                 Muito raros   Vertigens, acufenos
+                          Desconhecidos Agitação, discinesia
+Cardiopatias              Muito raros   Cianose, taquicardia, palpitações
+                          Frequentes    Tromboflebite
+Vasculopatias             Pouco         Hipotensão
+                          frequentes
+                          Muito raros   Rubor
+Doenças respiratórias, Muito raros      Dispneia, hiperventilação, dor faríngea
+torácicas e do mediastino
+                          Frequentes    Diarreia, vómitos, náuseas,
+                                        Náuseas       relacionadas      com     o
+                                        medicamento e/ou vómitos parecem
+                                        ocorrer com mais frequência em doentes
+                                        granulocitopénicos do que em doentes
+Doenças gastrointestinais               não granulocitopénicos, tratados com
+                                        com imipenem/cilastatina
+                          Raros         Coloração dentária e/ou da língua
+                          Muito raros   Colite hemorrágica, dor abdominal, azia,
+                                        glossite, hipertrofia das papilas da
+                                        língua, salivação aumentada
+Afeções hepatobiliares    Raros         Insuficiência hepática, hepatite
+                          Muito raros   Hepatite fulminante
+Afeções dos tecidos Frequentes          Erupção cutânea (por ex. exantematoso)
+cutâneos e subcutâneos
+                                                                     APROVADO EM
+                                                                      29-05-2020
+                                                                      INFARMED
+                              Pouco          Urticária, prurido
+                              frequentes
+                              Raros          Necrólise         epidérmica        tóxica,
+                                             angioedema, síndrome de Stevens-
+                                             Johnson, eritema multiforme, dermatite
+                                             esfoliativa
+                              Muito raros    Hiperidrose, alteração na textura da pele
+  Afeções                     Muito raros    Poliartralgia, dor na coluna torácica
+  musculosqueléticas e dos
+  tecidos conjuntivos
+                              Raros          Compromisso            renal        aguda,
+                                             oligúria/anúria, poliúria, descoloração da
+                                             urina (não preocupante e não devendo
+                                             ser confundida com hematúria).
+  Doenças      renais     e                  A função de imipenem/cilastatina na
+  urinárias                                  alteração da função renal é difícil de
+                                             determinar, já que os fatores que
+                                             predispõem para azotemia pré-renal ou
+                                             para o compromisso da função renal,
+                                             normalmente já estão presentes.
+  Doenças dos órgãos Muito raros             Prurido vulvar
+  genitais e da mama
+                         Pouco               Febre, dor e endurecimento no local de
+  Perturbações gerais e frequentes           injeção, eritema no local de injeção
+  alterações no local de Muito raros         Desconforto torácico, astenia/fraqueza
+  administração
+                         Frequentes          Aumento das transaminases séricas,
+                                             aumento da fosfatase alcalina sérica
+  Exames complementares Pouco                Teste de Coombs direto positivo, tempo
+  de diagnóstico        frequentes           de protombina aumentado, diminuição
+                                             da hemoglobina, aumento da bilirrubina
+                                             sérica, aumento da creatinina sérica,
+                                             aumento do nível de ureia no sangue
+População pediátrica (≥ 3 meses de idade)
+Em estudos envolvendo 178 doentes pediátricos ≥3 meses de idade, as reações
+adversas notificadas foram consistentes com as reações adversas notificadas para
+adultos.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-
+risco do medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer
+suspeitas de reações adversas através do sistema nacional de notificação:
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+                                                                    APROVADO EM
+                                                                     29-05-2020
+                                                                     INFARMED
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+E-mail: farmacovigilancia@infarmed.pt
+4.9 Sobredosagem
+Os sintomas de sobredosagem que podem ocorrer, são consistentes com o perfil de
+reações adversas; podem incluir crises/convulsões, estados confusionais, tremores,
+náuseas, vómitos, hipotensão, bradicardia. Não existe informação específica
+disponível sobre o tratamento da sobredosagem com Imipenem/cilastatina Hikma. O
+imipenem e a cilastatina sódica são hemodialisáveis. No entanto, desconhece-se a
+utilidade deste procedimento em caso de sobredosagem.
+
+5. PROPRIEDADES FARMACOLÓGICAS
+5.1 Propriedades farmacodinâmicas
+Grupo        farmacoterapêutico:        1.1.4       Medicamentos   anti-infeciosos,
+Antibacterianos.Carbapenemes, Código ATC: J01D H51
+Mecanismo de ação
+Imipenem/cilastatina Hikma contém duas substâncias ativas: imipenem e cilastatina
+sódica, na proporção de 1:1 por peso.
+Imipenem, também conhecido como N-formimifoyl-thienamycin, é um derivado
+semissintético da tienamicina, um composto da família produzido pela bactéria
+filamentosa Streptomyces cattleya.
+Imipenem exerce a sua atividade bactericida por inibição da síntese da parede
+celular bacteriana, em bactérias Gram-positivas e Gram-negativas, através da
+ligação a proteínas de ligação à penicilina (PBPs).
+A Cilastatina sódica é um inibidor competitivo, reversível e específico da
+dehidropeptidase-I, a enzima renal que metaboliza e inativa o Imipenem. Não tem
+atividade antibacteriana intrínseca e não interfere na atividade antibacteriana do
+imipenem.
+Relação farmacocinética/farmacodinâmica (FC/FD)
+De forma semelhante a outros agentes antibacterianos beta-lactâmicos, o tempo
+durante o qual a concentração de imipenem excede o CMI (T>CMI) demonstrou ter a
+melhor correlação com a eficácia.
+Mecanismo de Resistência
+A resistência ao Imipenem pode ser devida ao seguinte:
+diminuição da permeabilidade da membrana externa das bactérias Gram-negativas
+(devido à diminuição da produção de porinas)
+                                                                      APROVADO EM
+                                                                       29-05-2020
+                                                                       INFARMED
+imipenem pode ser ativamente retirado das células através de uma bomba de
+efluxo;
+afinidade reduzida das PBPs ao imipenem
+imipenem é estável à hidrolise pela maior parte das beta-lactamases, incluindo
+penicilinases e cefalosporinases produzidas por bactérias gram-positivas e gram-
+negativas, com exceção das beta-lactamases hidrolisantes do carbapenem, que são
+relativamente raras. As espécies resistentes a outros carbapenemes, geralmente
+expressam resistência cruzada ao imipenem. Não existe resistência cruzada baseada
+em alvo entre imipenem e agentes das classes das quinolonas, aminoglicosídeos,
+macrólidos e tetraciclinas.
+Breakpoints
+Os breakpoints de CMIs EUCAST do imipenempara diferenciar agentes patogénicos
+sensíveis (S) e resistentes (R), são as seguintes (V1.1 2010-04-27):
+Enterobactereacea1: S ≤ 2 mg/l, R > 8 mg/l
+Pseudomonas spp.2: S ≤ 4 mg/l, R > 8 mg/l
+Acinetobacter spp.: S ≤ 2 mg/l, R > 8 mg/l
+Staphylococcus spp.3: inferida a partir da sensibilidade à cefoxitina
+Enterococcus spp.: S ≤ 4 mg/l, R >8 mg/l
+Streptococcus A, B, C, G: a sensibilidade às betalactamases dos Streptococcus beta-
+hemolíticos dos grupos A, B, C e G inferida a partir da sensibilidade à penincilina
+Streptococcus pneumoniae4: S ≤ 2 mg/l, R > 2 mg/l
+Outros streptococci4: S ≤ 2 mg/l, R > 2 mg/l
+Haemophilus influenzae4: S ≤ 2 mg/l, R > 2 mg/l
+Moraxella catarrhalis4: S ≤ 2 mg/l, R > 2 mg/l
+Neisseria gonorrahoeae: não existe evidência de que a Neisseria gonorrahoeae seja
+um bom alvo para terapêutica com imipenem
+Anaeróbios Gram-positivos: S ≤ 2 mg/l, R > 8 mg/l
+Anaeróbios Gram-negativos: S ≤ 2 mg/l, R > 8 mg/l
+Breakpoints não relacionados com a espécie5: S ≤ 2 mg/l, R > 8 mg/l
+1 As espécies Proteus e Morganella são considerados alvos fracos para o imipenem.
+2 Breakpoints, para Pseudomonas, relacionados com terapêuticas frequentes de dose
+elevada (1g por cada 6 horas).
+3A sensibilidade de Staphylococci aos carbapenemes é inferida através da
+sensibilidade à cefoxitina.
+4Estirpes com valores de CMIs acima do breakpoint de sensibilidade são muito raras,
+ou não foram ainda notificadas. Os testes de identificação e sensibilidade microbiana
+em qualquer isolado deste tipo, devem ser repetidos, e se o resultado for
+confirmado, o isolado deve ser enviado para um laboratório de referência. Até existir
+evidência relativamente à resposta clínica para isolados confirmados com CMIs acima
+do actual breakpoint considerado resistente, o isolado deve ser notificado como
+resistente.
+5 Breakpoints não relacionados com a espécie têm sido determinados com base em
+dados de FC/FD, e são independentes da distribuição das CMIs de espécies
+específicas. São para uso apenas em espécies não mencionadas no resumo dos
+breakpoints específicos para as espécies, ou nas notas de rodapé.
+Sensibilidade
+                                                                      APROVADO EM
+                                                                       29-05-2020
+                                                                       INFARMED
+A prevalência da resistência adquirida pode variar geograficamente e com o tempo
+para espécies selecionadas, e a informação local relativa à resistência é importante,
+particularmente quando se tratam de infeções graves. Sempre que necessário,
+deverá ser procurado aconselhamento especializado quando a prevalência local de
+resistência é tal que a utilidade do medicamento em alguns tipos de infeções é
+questionável.
+   Espécies normalmente sensíveis
+   Aeróbios Gram-positivos
+   Enterococcus faecalis
+   Staphylcoccus aureus (Meticilina-sensíveis)*
+   Staphylococcus coagulase negativa (Meticilina-sensíveis)
+   Streptococcus agalactiae
+   Streptococcus pneumoniae
+   Streptococcus pyogenes
+   Estreptococos do grupo viridans
+   Aeróbios Gram-negativos
+   Citrobacter freundii
+   Enterobacter aerogenes
+   Enterobacter cloacae
+   Escherichia coli
+   Haemophilus influenzae
+   Klebsiella oxytoca
+   Klebsiella pneumoniae
+   Moraxella catarrhalis
+   Serratia marcescens
+   Anaeróbios gram-positivos
+   Peptostreptococcus spp.**
+   Clostridium perfringens **
+   Anaeróbios gram-negativos
+   Bacteroides fragilis
+   Grupo do Bacteroides fragilis
+   Fusobacterium spp.
+   Prophyromonas asaccharolytica
+   Prevotella spp.
+   Veillonella spp.
+   Espécies para as quais a resistência adquirida pode ser um problema
+   Aeróbios Gram-negativo
+   Pseudomonas aeruginosa
+   Acinetobacter baumannii
+   Espécies de resistência inerente
+   Aeróbios gram-positivos
+   Enterococcus faecium
+   Aeróbios Gram-negativo
+   Algumas estirpes de Burkholderia cepacia (Pseudomonas cepacia)
+   Legionella spp.
+   Stenotrophomonas maltophilia (Xanthomonas maltophilia, Pseudomonas
+   maltophilia)
+   Outros
+                                                                     APROVADO EM
+                                                                      29-05-2020
+                                                                      INFARMED
+    Chlamydia spp.
+    Chlamydophila spp.
+    Mycoplasma spp.
+    Ureaplasma urealyticum
+*Todos os estafilococos meticilina-resistentes são resistentes ao
+imipenem/cilastatina.
+** São usados os valores de breakpoints-EUCAST não relacionados com a espécie
+5.2 Propriedades farmacocinéticas
+Imipenem
+Absorção
+Em voluntários normais, a perfusão intravenosa de Imipenem/Cilastatina, durante 20
+minutos, resultou em picos plasmáticos de imipenem que variaram entre 12 e 20
+µg/ml para a dose de 250 mg/250 mg, entre 21 e 58 µg/ml para a dose de 500
+mg/500 mg, e entre 41 e 83 µg/ml para a dose de 1000 mg/1000 mg. Após doses
+de 250 mg/250 mg, 500 mg/500 mg e 1000 mg/1000 mg, os picos plasmáticos
+médios de imipenem foram, respetivamente, 17, 39 e 66 µg/ml. Nestas doses, os
+níveis plasmáticos de imipenem, diminuíram para valores inferiores a 1 µg/ml, ao fim
+de 4 a 6 horas.
+Distribuição
+A ligação do imipenem às proteínas séricas humanas é de, aproximadamente, 20%.
+Biotransformação
+Quando administrado isoladamente o imipenem é metabolizado no rim pela
+dehidropeptidase I. Os níveis de recuperação urinária variam de 5 a 40%, com uma
+recuperação média de 15-20% em vários estudos.
+A cilastatina é um inibidor específico da enzima dehidropeptidase I, e inibe
+eficazmente o metabolismo do imipenem, de forma a que a administração
+concomitante de imipenem e cilastatina permite atingir níveis terapêuticos
+antibacterianos de imipenem, tanto na urina como no plasma.
+Eliminação
+O tempo de semivida plasmática do imipenem foi de uma hora. Aproximadamente
+70% do antibiótico administrado, foi recuperado intacto na urina no espaço de 10
+horas, e não foi posteriormente detetada qualquer excreção urinária do fármaco. As
+concentrações de imipenem na urina excederam 10 µg/ml, durante um período de
+até 8 horas após uma dose de 500 mg/500 mg de Imipenem/Cilastatina. A restante
+fração da dose administrada foi recuperada na urina, sob a forma de metabolitos
+sem atividade antibacteriana, e a eliminação fecal do imipenem foi praticamente
+nula.
+Em doentes com função renal normal, sob regimes terapêuticos de
+Imipenem/Cilastatina em que a frequência de administração foi de 6 em 6 horas,
+não se observou acumulação de imipenem no plasma ou na urina.
+Cilastatina
+                                                                     APROVADO EM
+                                                                      29-05-2020
+                                                                      INFARMED
+Absorção
+Os picos plasmáticos de cilastatina, após perfusão intravenosa de
+Imipenem/Cilastatina, durante 20 minutos, variaram entre 21 e 26 µg/ml para a
+dose de 250 mg/250 mg, entre 21 e 55 µg/ml para a dose de 500 mg/500 mg, e
+entre 56 e 88 µg/ml para a dose de 1000 mg/1000 mg. Após doses de 250 mg/250
+mg, 500 mg/500 mg e 1000 mg/1000 mg, os picos plasmáticos médios de cilastatina
+foram, respetivamente, 22, 42 e 72 µg/ml.
+Distribuição
+A ligação de cilastatina às proteínas plasmáticas humanas é de aproximadamente
+40%.
+Biotransformação e eliminação
+A semivida plasmática da cilastatina é de aproximadamente 1 hora. Cerca de 70-
+80% da dose de cilastatina foi recuperada, inalterada, na urina, sob a forma de
+cilastatina, em 10 horas após a administração de Imipenem/Cilastatina. Após este
+momento, não se detetou mais cilastatina na urina. Aproximadamente 10% da dose
+administrada foi encontrada na forma do metabolito N-acetil, que possui uma
+atividade inibitória da dehidropeptidase comparável à da cilastatina. A atividade da
+dehidropeptidase I no rim retorna aos níveis normais pouco depois da eliminação da
+cilastatina da corrente sanguínea.
+Farmacocinética em populações especiais
+Compromisso Renal
+Após a administração intravenosa de uma dose única de 250 mg/250 mg de
+Imipenem/Cilastatina Hikma, a área sob a curva (AUC) do imipenem aumentou 1,1
+vezes, 1,9 vezes e 2,7 vezes em indivíduos com compromisso renal ligeiro
+(depuração da creatinina (CrCl) de 50-80 ml/min/1,73 m2), moderado (CrCl de 30-
+<50 ml/min/1,73 m2), e grave (CrCl <30 ml/min/1,73 m2), respetivamente, quando
+comparado com indivíduos com função renal normal (CrCl >80 ml/min/1,73 m2), e
+as AUCs da cilastatina aumentaram 1,6 vezes, 2,0 vezes, e 6,2 vezes em indivíduos
+com compromisso renal ligeiro, moderado e grave, respetivamente, quando
+comparado com indivíduos com função renal normal. Após a administração
+intravenosa de uma dose única de 250 mg/250 mg de Imipenem/Cilastatina Hikma,
+24 horas após hemodiálise, as AUCs para o imipenem e cilastatina foram 3,7 vezes e
+16,4 vezes maiores, respetivamente, quando comparado com indivíduos com função
+renal normal. A recuperação urinária, a depuração renal e a depuração plasmática do
+imipenem e da cilastatina diminuíram com a diminuição da função renal após
+administração intravenosa de Imipenem/Cilastatina Hikma. Nos doentes com a
+função renal comprometida é necessário o ajuste de dose (ver secção 4.2).
+Insuficiência Hepática
+A farmacocinética do imipenem em doentes com insuficiência hepática não foi ainda
+estabelecida. Devido à limitada extensão do metabolismo hepático do imipenem, não
+se espera que a sua farmacocinética seja afetada pela afeção hepática. Desta forma,
+não é recomendado qualquer ajuste de dose em doentes com afeção hepática (ver
+secção 4.2).
+População pediátrica
+A depuração média (CL) e o volume de distribuição (Vdss) para o imipenem, foram
+aproximadamente 45% mais elevados em doentes pediátricos (3 meses a 14 anos)
+                                                                  APROVADO EM
+                                                                   29-05-2020
+                                                                   INFARMED
+do que em adultos. A AUC para o imipenem, após administração de 15/15 mg/kg de
+peso corporal de imipenem/cilastatina a doentes pediátricos, foi aproximadamente
+30% mais elevada do que a exposição em adultos em tratamento com a dose de 500
+mg/500 mg. Na dose mais elevada, a exposição após a administração de 25/25
+mg/kg de imipenem/cilastatina a crianças, foi 9% mais elevada quando comparado
+com a exposição em adultos a receber a dose de 1000 mg/1000 mg.
+Idosos
+Em voluntários idosos saudáveis (65 a 75 anos de idade com função renal normal
+para a idade), a farmacocinética de uma dose única de Imipenem/Cilastatina Hikma
+500 mg/500 mg, administrado por via intravenosa durante 20 minutos, foi
+consistente com a farmacocinética esperada em indivíduos com compromisso renal
+ligeiro, para os quais não é considerado necessário o ajuste da dose. A semivida
+plasmática média do imipenem e da cilastatina, foi 91±7,0 minutos e 69±15
+minutos, respetivamente. Doses múltiplas não tiveram efeito na farmacocinética
+tanto do imipenem como da cilastatina, e não se observou acumulação de
+imipenem/cilastatina (ver secção 4.2).
+5.3 Dados de segurança pré-clínica
+Os dados não-clínicos não revelam especiais riscos para o ser humano, segundo
+estudos toxicidade de dose repetida e genotoxicidade.
+Estudos em animais revelaram que a toxicidade produzida pelo imipenem, enquanto
+agente único, é limitada ao rim. A administração concomitante de cilastatina com
+imipenem numa proporção 1:1 evitou os efeitos nefrotóxicos do imipenem em
+coelhos e macacos. Os resultados disponíveis sugerem que a cilastatina previne a
+nefrotoxicidade ao impedir a entrada do imipenem nas células tubulares.
+Um estudo de teratogenicidade com imipenem-cilastatina sódica em fêmeas de
+macaco cynomolgus grávidas, em doses de 40 mg/40 mg/kg/dia (bólus intravenoso)
+resultou em toxicidade materna, incuindo emése, falta de apetite, perda de peso,
+diarreia, aborto e morte, em alguns casos. Quando foram administradas doses de
+imipenem-cilastatina sódica (aproximadamente 100 mg/100 mg/kg/dia, ou
+aproximadamente 3 vezes a dose intravenosa diária habitualmente recomendada em
+humanos) a fêmeas de macaco cynomolgus grávidas, a uma taxa de perfusão que
+simula o uso clínico humano, observou-se uma intolerância materna mínima (emése
+ocasional), não ocorreram mortes maternas, nem houve evidência de
+teratogenicidade, mas observou-se um aumento de perda embrionária em relação ao
+grupo de controlo (ver secção 4.6).
+Não foram realizados estudos de longa duração em animais, que permitissem avaliar
+o potencial carcinogénico de Imipenem-Cilastatina.
+
+6. INFORMAÇÕES FARMACÊUTICAS
+6.1 Lista dos excipientes
+Hidrogenocarbonato de sódio.
+6.2 Incompatibilidades
+                                                                      APROVADO EM
+                                                                       29-05-2020
+                                                                       INFARMED
+Imipenem/Cilastatina é quimicamente incompatível com lactato e não pode ser
+reconstituído em soluções que o contenham. No entanto, pode ser administrado num
+sistema IV, através do qual seja perfundida uma solução de lactato.
+Imipenem/Cilastatina não pode ser misturado com outros medicamentos, exceto os
+mencionados na secção 6.6.
+6.3 Prazo de validade
+Fechado: 3 anos
+Após reconstituição:
+A solução diluída deve ser utilizada de imediato. O intervalo de tempo entre o início
+da reconstituição e a finalização da perfusão intravenosa não deve exceder duas
+horas.
+Não congelar a solução reconstituída.
+6.4 Precauções especiais de conservação
+Conservar a temperatura inferior a 25ºC.
+Manter os frascos na embalagem exterior.
+Condições de conservação do medicamento após reconstituição, ver secção 6.3.
+6.5 Natureza e conteúdo do recipiente
+Frasco de vidro tipo III incolor, com 20 ml de capacidade, fechado com rolha
+bromobutílica de 20 mm de diâmetro.
+1 frasco/embalagem (frasco de 20 ml)
+10 frascos/embalagem (frascos de 20 ml)
+É possível que não sejam comercializadas todas as apresentações.
+6.6 Precauções especiais de eliminação e manuseamento
+Cada frasco destina-se a uma única utilização.
+Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as
+exigências locais.
+Reconstituição
+O conteúdo de cada frasco para injetáveis tem de ser transferido para 100 ml de
+uma solução para perfusão apropriada (ver secção 6.2 e 6.3): Cloreto de Sódio a
+0,9%. Em circunstâncias excecionais, em que, por motivos clínicos não possa ser
+utilizado cloreto de sódio a 0,9%, pode ser utilizada Glicose a 5%.
+Uma sugestão de procedimento é adicionar aproximadamente 10 ml da solução de
+perfusão adequada ao frasco para injectáveis. Agite bem e transfira a mistura
+resultante para o recipiente da solução de perfusão.
+                                                                  APROVADO EM
+                                                                   29-05-2020
+                                                                   INFARMED
+
+ATENÇÃO: a Mistura não é para perfusão direta.
+Repetir com 10 ml adicionais da solução de perfusão para garantir a transferência
+completa do conteúdo do frasco para injetáveis para a solução de perfusão. A
+mistura resultante deve ser agitada até estar límpida.
+A concentração da solução reconstituída, após o processo acima descrito é de
+aproximadamente 5 mg/ml para o imipenem e para a cilastatina.
+Alterações na cor, de incolor para amarelado, não afectam a potência do
+medicamento.
+
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+Hikma Farmacêutica, S.A.,
+Estrada do Rio da Mó, 8, 8A e 8B
+Fervença 2705-906
+Terrugem SNT
+Portugal
+Tel.: 351-21-960 84 10 / Fax: 351-21-961 51 02
+E-mail: portugalgeral@hikma.com
+
+8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+5339122, 5339130
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+Data da primeira autorização: 29 de Outubro de 2010
+
+10. DATA DA REVISÃO DO TEXTO
+01/2020
+

@@ -1,0 +1,706 @@
+                                                                    APROVADO EM
+                                                                    01-06-2023
+                                                                    INFARMED
+
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1. NOME DO MEDICAMENTO
+Colistimetato Accord 1000000 U.I. pó para solução injetável ou para perfusão
+Colistimetato Accord 2000000 U.I. pó para solução injetável ou para perfusão
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+Colistimetato Accord 1000000 U.I.:
+Cada frasco para injetáveis contém 1000000 de U.I. que é equivalente a
+aproximadamente 80 mg de colistimetato de sódio.
+Colistimetato Accord 2000000 U.I.:
+Cada frasco para injetáveis contém 2000000 de U.I. que é equivalente a
+aproximadamente 160 mg de colistimetato de sódio.
+Excipiente(s) com efeito conhecido
+Lista completa de excipientes, ver secção 6.1.
+
+3. FORMA FARMACÊUTICA
+Pó para solução injetável ou para perfusão
+Pó branco a esbranquiçado.
+
+4. INFORMAÇÕES CLÍNICAS
+4.1 Indicações terapêuticas
+Via intravenosa
+Colistimetato Accord é indicado em adultos e crianças, incluindo recém-nascidos,
+para o tratamento de infeções graves devido a agentes patogénicos Gram-negativos
+aeróbios em doentes com opções de tratamento limitadas (ver secções 4.2, 4.4, 4.8
+e 5.1)
+As orientações oficiais sobre a utilização adequada de agentes antibacterianos devem
+ser tidas em consideração.
+Via inalatória
+Colistimetato Accord é indicado para o controlo em adultos e em pediatria de
+infeções pulmonares crónicas devido a Pseudomonas aeruginosa em doentes com
+fibrose quística (ver secção 5.1).
+As orientações oficiais sobre a utilização adequada de agentes antibacterianos devem
+ser tidas em consideração.
+                                                                    APROVADO EM
+                                                                    01-06-2023
+                                                                    INFARMED
+
+4.2 Posologia e modo de administração
+Via intravenosa:
+A dose a administrar e a duração do tratamento devem ter em conta a gravidade da
+infeção, assim como a resposta clínica. As diretrizes terapêuticas devem ser
+cumpridas.
+A dose é expressa em unidades internacionais (U.I.) de colistimetato de sódio (CMS).
+Encontra-se incluída no final desta secção uma tabela de conversão de CMS em U.I.
+para mg de CMS assim como para mg de atividade base da colistina (CBA).
+Posologia
+As seguintes recomendações posológicas baseiam-se em dados farmacocinéticos
+populacionais limitados em doentes críticos (ver secção 4.4):
+Adultos e adolescentes
+Dose de manutenção de 9 milhões de U.I./dia dividida em 2-3 doses
+Em doentes críticos deve ser administrada uma dose de carga de 9 milhões de U.I.
+(MUI). O intervalo de tempo mais apropriado até à primeira dose de manutenção não
+foi estabelecido.
+O modelo sugere que, em alguns casos, podem ser necessárias doses de carga e de
+manutenção até 12 MUI em doentes com boa função renal. Contudo, a experiência
+clínica com essas doses é extremamente limitada e a segurança não foi estabelecida.
+A dose de carga aplica-se a doentes com função renal normal e com compromisso
+renal, incluindo doentes submetidos a terapêutica de substituição renal.
+Compromisso renal
+No compromisso renal são necessários ajustes posológicos, mas os dados
+farmacocinéticos disponíveis para doentes com compromisso renal são muito
+limitados.
+Os ajustes posológicos que se seguem são sugeridos como orientação.
+São recomendadas reduções da dose em doentes com depuração da creatinina <50
+ml/min:
+Recomenda-se uma dosagem de duas vezes ao dia.
+Depuração da creatinina    Dose diária
+(ml/min)
+< 50-30                    5,5-7,5 MUI
+<30-10                     4,5-5,5 MUI
+<10                        3,5 MUI
+                                                                    APROVADO EM
+                                                                    01-06-2023
+                                                                    INFARMED
+
+MUI = milhões de U.I.
+Hemodiálise e hemo(dia)filtração contínua
+A colistina parece ser dialisável através de hemodiálise convencional e de
+hemo(dia)filtração venovenosa contínua (CVVHF, CVVHDF). Existem dados
+extremamente limitados provenientes de estudos farmacocinéticos populacionais de
+números muito pequenos de doentes submetidos a terapêutica de substituição renal.
+Não é possível fazer firmes recomendações de dose. Podem ser considerados os
+seguintes regimes:
+Hemodiálise
+Dias sem HD: 2,25 MUI/dia (2,2-2,3 MUI/dia).
+Dias de HD: 3 MUI/dia nos dias da hemodiálise, a serem administradas após a
+sessão de HD. Recomenda-se uma dosagem de duas vezes ao dia.
+CVVHF/ CVVHDF
+Como nos doentes com função renal normal. Recomenda-se uma dosagem de três
+vezes ao dia.
+Compromisso hepático
+Não existem dados de doentes com compromisso hepático. Aconselha-se precaução
+na administração de colistimetato de sódio nestes doentes.
+Idosos
+Nos doentes idosos com função renal normal não é considerado necessário proceder
+a ajustes posológicos.
+População pediátrica
+Os dados que suportam o regime posológico em doentes pediátricos são muito
+limitados. Ao selecionar a dose deve ter-se em consideração a maturidade renal. A
+dose deve basear-se em peso corporal baixo.
+Crianças ≤ 40 kg
+75.000-150.000 U.I./kg/dia divididas em 3 doses.
+Para crianças com um peso corporal superior a 40 kg, deve considerar-se a utilização
+da recomendação posológica para adultos.
+A utilização de doses >150.000 U.I./kg/dia tem sido relatada em crianças com
+fibrose quística.
+Não existem dados relativos à utilização ou magnitude da dose de carga em doentes
+críticos pediátricos.
+Não foram estabelecidas recomendações posológicas em crianças com compromisso
+renal.
+Administração intratecal e intracerebroventricular
+Com base em dados limitados, recomenda-se a seguinte dose em adultos:
+Via intracerebroventricular
+                                                                    APROVADO EM
+                                                                    01-06-2023
+                                                                    INFARMED
+
+125.000 U.I./dia
+Via intratecal
+As doses administradas por via intratecal não devem exceder as doses
+recomendadas para a via intraventricular.
+Não é possível fazer recomendações posológicas específicas em crianças para as vias
+de administração intratecal e intraventricular.
+Modo de administração
+Colistimetato de sódio é administrado por via intravenosa na forma de uma perfusão
+lenta ao longo de 30 – 60 minutos.
+Os doentes com um dispositivo de acesso venoso totalmente implantável (TIVAD) in
+situ podem tolerar uma injeção em bólus de até 2 milhões de U.I. em 10 ml
+administrada durante um mínimo de 5 minutos (ver seção 6.6).
+O colistimetato de sódio é submetido a hidrólise para a substância ativa colistina em
+solução aquosa. Para a preparação da dose, particularmente quando é necessária a
+combinação de vários frascos para injetáveis, a reconstituição da dose necessária
+deve ser feita utilizando a técnica asséptica rigorosa (ver secção 6.6).
+Via inalatória
+Recomenda-se que colistimetato de sódio (CMS) seja administrado sob a supervisão
+de médicos com experiência apropriada na sua utilização.
+Posologia
+A dosagem pode ser ajustada dependendo da gravidade da condição e da resposta
+clínica.
+Intervalo posológico recomendado:
+Adultos, adolescentes e crianças ≥ 2 anos
+1-2 MUI duas a três vezes ao dia (máx. 6 MUI/dia)
+Crianças < 2 anos
+0,5-1 MUI duas vezes ao dia (máx. 2 MUI/dia)
+Deve cumprir-se a orientação clínica relevante sobre regimes de tratamento,
+incluindo duração do tratamento, periodicidade e administração concomitante de
+outros agentes antibacterianos.
+Idosos
+O ajuste posológico não é considerado necessário.
+Compromisso renal
+O ajuste posológico não é considerado necessário, no entanto, aconselha-se
+precaução em doentes com compromisso renal (ver secções 4.4 e 5.2).
+Compromisso hepático
+O ajuste posológico não é considerado necessário.
+                                                                    APROVADO EM
+                                                                    01-06-2023
+                                                                    INFARMED
+
+
+Modo de administração
+Via inalatória.
+O colistimetato de sódio é submetido a hidrólise para a substância ativa colistina em
+solução aquosa. Para precauções especiais de eliminação e manuseamento das
+soluções reconstituídas, ver secção 6.6.
+Se estiverem a ser tomados outros medicamentos, estes devem ser tomados na
+ordem recomendada pelo médico.
+Tabela de conversão de doses:
+Na UE, a dose de colistimetato de sódio (CMS) deve ser prescrita e administrada
+apenas na forma de Unidades Internacionais (U.I.). O rótulo do medicamento indica
+o número de U.I. por frasco.
+Ocorreram confusão e erros de medicação devido a diferentes expressões da dose
+em termos de potência. Nos EU, e noutras partes do mundo, a dose é expressa em
+miligramas de atividade base da colistina (mg de CBA).
+A tabela de conversão seguinte foi preparada para fins informativos e os valores
+devem ser considerados como sendo apenas nominais e aproximados.
+Tabela de conversão de CMS
+                Potência                        ≈ massa de CMS
+                U.I.            ≈ mg CBA        (mg)*
+                12.500          0.4             1
+                150.000         5               12
+                1.000.000       34              80
+                4.500.000       150             360
+                9.000.000       300             720
+* Potência nominal da substância farmacológica = 12.500 U.I./mg
+4.3 Contraindicações
+Hipersensibilidade ao colistimetato de sódio ou a qualquer um dos excipientes
+mencionados na secção 6.1.
+4.4 Advertências e precauções especiais de utilização
+Deve ter-se em consideração a administração intravenosa concomitante de
+colistimetato de sódio com outro agente antibacteriano sempre que tal seja possível,
+tendo em conta as restantes suscetibilidades do(s) agente(s) patogénico(s) em
+tratamento. Como tem sido relatado o desenvolvimento de resistência à colistina
+intravenosa, em particular quando esta é utilizada na forma de monoterapia, a
+administração concomitante com outros antibacterianos também deve ser tida em
+consideração a fim de evitar o aparecimento de resistência.
+                                                                   APROVADO EM
+                                                                   01-06-2023
+                                                                   INFARMED
+
+Existem dados clínicos limitados sobre a segurança e eficácia do colistimetato de
+sódio intravenoso. As doses recomendadas em todas as subpopulações baseiam-se
+igualmente         em        dados       limitados      (dados        clínicos    e
+farmacocinéticos/farmacodinâmicos). Em particular, existem dados de segurança
+limitados para a utilização de doses elevadas (> 6 MUI/dia) e a utilização de uma
+dose de carga, e para populações especiais (doentes com compromisso renal e
+população pediátrica). O colistimetato de sódio só deve ser utilizado quando outros
+antibióticos, prescritos com maior frequência, não forem eficazes ou apropriados.
+Foram notificados poucos casos de Síndrome de pseudo-Bartter em crianças e
+adultos com a utilização de colistimetato de sódio intravenoso. A monitorização dos
+eletrólitos séricos deve ser iniciada em casos suspeitos e deve ser implementada
+uma gestão adequada. No entanto, a normalização do desequilíbrio eletrolítico
+poderá não ser alcançada sem a descontinuação do tratamento com colistimetato de
+sódio.
+Broncoespasmo
+A nebulização de colistimetato de sódio pode induzir tosse ou broncoespasmo. É
+aconselhável administrar a primeira dose sob supervisão médica. A pré-dosagem
+com um broncodilatador é recomendada e deve ser rotina, especialmente se fizer
+parte do regime terapêutico atual do doente. O FEV1 deve ser avaliado antes e após
+a administração (ver secção 4.2). Se houver evidência de hiper-reactividade
+brônquica induzida por colistimetato de sódio num doente que não esteja a receber
+broncodilatadores antes do tratamento, o teste deve ser repetido numa ocasião
+separada usando um broncodilatador. A evidência de hiper-reactividade brônquica na
+presença de um broncodilatador pode indicar uma resposta alérgica e colistimetato
+de sódio deve ser descontinuado. O broncoespasmo que ocorra deve ser tratado
+conforme indicação médica.
+A hiper-reactividade brônquica em resposta ao colistimetato de sódio pode
+desenvolver-se com o uso continuado ao longo do tempo e é recomendado que os
+FEV1s pré e pós-tratamento sejam avaliados em visitas regulares à clínica.
+Hemoptise
+A hemoptise é uma complicação da fibrose quística e é mais frequente em adultos. A
+administração de colistimetato de sódio em doentes com hemoptise clinicamente
+significativa deve ser apenas efetuada ou continuada se os benefícios do tratamento
+forem considerados superiores aos riscos de induzir hemorragia adicional.
+Nefrotoxicidade
+Foi notificado compromisso da função renal, geralmente após o uso de doses
+intravenosas ou intramusculares mais altas do que as recomendadas em pacientes
+com função renal normal, ou incapacidade em reduzir a dosagem intravenosa ou
+intramuscular em pacientes com compromisso renal ou quando utilizado
+concomitantemente com outros medicamentos nefrotóxicos (ver seção 4.5). O efeito
+é geralmente reversível com a descontinuação da terapia.
+A monitorização da função renal deve ser efetuada no início do tratamento e
+regularmente durante o tratamento em todos os doentes. A dose de colistimetato de
+sódio deve ser ajustada de acordo com a depuração da creatinina (ver secção 4.2).
+                                                                    APROVADO EM
+                                                                    01-06-2023
+                                                                    INFARMED
+
+Doentes com hipovolemia ou a receberem outros fármacos potencialmente
+nefrotóxicos apresentam um risco aumentado de nefrotoxicidade da colistina (ver
+secções 4.5 e 4.8).
+Em alguns estudos, a nefrotoxicidade foi relatada como estando associada à dose
+cumulativa e à duração do tratamento. O benefício da duração prolongada do
+tratamento deve ser ponderado contra o possível aumento do risco de toxicidade
+renal.
+Aconselha-se precaução ao administrar colistimetato de sódio a latentes com < 1
+ano de idade, uma vez que a função renal ainda não está totalmente madura neste
+grupo etário. Além disso, o efeito da função renal e metabólica imatura na conversão
+do colistimetato de sódio para colistina é desconhecido.
+Embora seja improvável durante o tratamento por via inalatória, são recomendadas
+estimativas da concentração sérica, especialmente em doentes com compromisso
+renal, caso seja necessário um ajuste da dose.
+Hipersensibilidade
+No caso de uma reação alérgica, o tratamento com colistimetato de sódio deve ser
+interrompido, devendo ser implementadas medidas apropriadas.
+Neurotoxicidade
+Foram relatadas concentrações séricas elevadas de colistimetato de sódio, que
+podem estar associadas a sobredosagem ou à não-redução da dose em doentes com
+compromisso renal, que conduziram a efeitos neurotóxicos tais como parestesia
+facial, fraqueza muscular, vertigens, fala indistinta, instabilidade vasomotora,
+distúrbios visuais, confusão, psicose e apneia. Deve proceder-se a uma
+monitorização para parestesia perioral e parestesia nas extremidades, que são sinais
+de sobredosagem (ver secção 4.9).
+O uso concomitante com relaxantes musculares não despolarizantes ou
+antibacterianos com efeitos neurotóxicos semelhantes também pode causar
+neurotoxicidade.
+A redução da dose de colistimetato de sódio pode aliviar os sintomas.
+Miastenia gravis
+Sabe-se que o colistimetato de sódio reduz a libertação pré-sináptica de acetilcolina
+na junção neuromuscular, devendo ser utilizado com a maior precaução em doentes
+com miastenia grave e apenas se claramente necessário.
+Administração intramuscular
+Foi relatada paragem respiratória a seguir à administração intramuscular de
+colistimetato de sódio. O compromisso renal aumenta a possibilidade de apneia e
+bloqueio neuromuscular a seguir à administração de colistimetato de sódio.
+Administração intratecal ou intraventricular
+O colistimetato de sódio intravenoso não atravessa a barreira hematoencefálica
+numa extensão clinicamente relevante. A administração intratecal ou intraventricular
+de colistimetato de sódio no tratamento da meningite não foi sistematicamente
+investigado em ensaios clínicos e é apoiado apenas por notificações de casos. Os
+dados que sustentam a posologia são muito limitados. O efeito adverso observado
+                                                                    APROVADO EM
+                                                                    01-06-2023
+                                                                    INFARMED
+
+com maior frequência na administração de CMS foi meningite assética (ver secção
+4.8).
+Porfíria
+O colistimetato de sódio deve ser utilizado com extrema precaução em doentes com
+porfíria.
+Clostridium difficile associado a doença
+Foram relatadas colite associada a antibióticos e colite pseudomembranosa com
+praticamente todos os agentes antibacterianos, podendo ocorrer com colistimetato
+de sódio. Em termos de gravidade, estas podem ser desde ligeiras a constituírem
+perigo de vida. É importante considerar este diagnóstico em doentes que
+desenvolvam diarreia durante ou após a utilização de colistimetato de sódio (ver
+secção 4.8). Deve considerar-se a interrupção da terapêutica e a administração de
+tratamento específico para Clostridium difficile. Não devem ser administrados
+medicamentos inibidores da peristalse.
+Resistência microbiana
+Foi notificada resistência adquirida ao colistimetato de sódio no mucoide
+Pseudomonas aeruginosa durante o uso clínico. O teste da suscetibilidade deve ser
+realizado em doentes que são tratados durante um longo período, em visitas
+regulares à clínica e sempre que um doente apresentar uma exacerbação (ver secção
+5.1) nas revisões periódicas e sempre que o doente sofra uma exacerbação da
+doença.
+Se forem utilizados fisioterapia ou outros tratamentos de inalação, este medicamento
+deve ser administrado após estes, ver secção 4.2.
+Este medicamento contém menos do que 1mmol (23 mg) de sódio por ampola ou
+seja, é praticamente “isento de sódio”
+4.5 Interações medicamentosas e outras formas de interação
+A utilização concomitante de colistimetato de sódio intravenoso com outros
+medicamentos potencialmente nefrotóxicos ou neurotóxicos deve ser feita com
+grande precaução.
+Deve tomar-se precaução com a utilização concomitante de outras formulações de
+colistimetato de sódio, uma vez que existe pouca experiência, havendo a
+possibilidade de toxicidade cumulativa.
+Não foram realizados estudos de interação in vivo. O mecanismo de conversão do
+colistimetato de sódio na substância ativa, colistina, não está caracterizado. O
+mecanismo de depuração da colistina, incluindo a depuração renal, é igualmente
+desconhecido. Colistimetato de sódio ou colistina não induziu a atividade de qualquer
+enzima P 450 (CYP) testada (CYP1A2, 2B6, 2C8, 2C9, 2C19 e 3A4/5) em estudos in
+vitro em hepatócitos humanos.
+A possibilidade de interações fármaco-fármaco deve ser tida em mente quando
+Colistimetato Accord é administrado concomitantemente com fármacos conhecidos
+como sendo inibidores ou indutores das enzimas que metabolizam o fármaco ou
+                                                                      APROVADO EM
+                                                                      01-06-2023
+                                                                      INFARMED
+
+fármacos conhecidos como sendo substratos para os mecanismos de transporte
+renal.
+Devido aos efeitos da colistina na libertação da acetilcolina, os relaxantes musculares
+não-despolarizantes devem ser utilizados com precaução em doentes a receberem
+colistimetato de sódio, uma vez que os seus efeitos podem ser prolongados (ver
+secção 4.4).
+O tratamento concomitante com colistimetato de sódio e macrólidos, tais como
+azitromicina e claritromicina, ou fluoroquinolonas, tais como norfloxacina e
+ciprofloxacina, deve ser feito com precaução em doentes com miastenia grave (ver
+secção 4.4).
+A utilização concomitante de colistimetato de sódio inalado com outros
+medicamentos que são nefrotóxicos ou neurotóxicos (por exemplo, cefalotina de
+sódio, aminoglicosídeos, relaxantes musculares não despolarizantes) incluindo
+aqueles que são administrados por via IV ou IM deve ser realizada com a máxima
+precaução (ver secção 4.4).
+4.6 Fertilidade, gravidez e aleitamento
+Fertilidade
+Os estudos em animais são insuficientes em termos dos efeitos na reprodução. Este
+medicamento deve ser usado na gravidez apenas se os benefícios superarem
+qualquer risco potencial.
+Gravidez
+A segurança do colistimetato de sódio durante a gravidez não foi estabelecida. Existe
+evidência que o colistimetato de sódio atravessa a barreira placentária e
+consequentemente, existe o risco de toxicidade fetal se administrado a doentes
+grávidas (ver secção 5.3).
+Amamentação
+O colistimetato de sódio é excretado no leite materno e a amamentação deve ser
+evitada durante o tratamento.
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+A influência do colistimetato de sódio na capacidade de conduzir e utilizar máquinas
+é importante, uma vez que foram reportados casos de neurotoxicidade,
+caracterizados por tonturas, confusão e distúrbios visuais após administração
+parenteral de colistimetato de sódio. Os doentes devem ser aconselhados a não
+conduzir nem utilizar máquinas se algum destes sintomas ocorrer.
+4.8 Efeitos indesejáveis
+As reações adversas estão tabuladas abaixo por classes de sistemas de órgãos e
+frequência MedDRA. As frequências são definidas como muito frequentes (≥ 1/10);
+frequentes (≥ 1/100 a < 1/10); pouco frequentes (≥ 1/1.000 a < 1/100); raros
+(≥ 1/10.000 a < 1/1.000 ) e muito raros (< 1/10.000), desconhecido (não pode ser
+calculado a partir dos dados disponíveis).
+                                                                     APROVADO EM
+                                                                     01-06-2023
+                                                                     INFARMED
+
+As reações adversas mais frequentemente notificadas após administração
+intravenosa são aquelas notificadas em doentes com função renal normal, quando
+usado concomitantemente com outros antibacterianos nefrotóxicos. Os efeitos são
+geralmente reversíveis com a descontinuação da terapêutica e raramente é
+necessária intervenção (diálise).
+Foram notificadas concentrações séricas elevadas de colistimetato de sódio, que
+podem estar associadas a sobredosagem ou incapacidade de reduzir a dose em
+doentes com função renal comprometida, pode causar efeitos neurotóxicos, como
+parestesia facial, fraqueza muscular, vertigem, discurso mal articulado, instabilidade
+vasomotora, distúrbios visuais, confusão, psicose e apneia. O uso concomitante com
+outros relaxantes musculares não despolarizantes ou antibacterianos com efeitos
+neurotóxicos semelhantes também pode causar neurotoxicidade. Reduzir a dose de
+colistimetato de sódio pode aliviar os sintomas.
+Podem ocorrer reações de hipersensibilidade, como erupção cutânea e angioedema.
+No caso destas reações, o tratamento com colistimetato de sódio deve
+serdescontinuado.
+Classes de Sistemas de Frequência                         Reação adversa notificada
+Órgãos MedDRA
+Doenças do sistema Desconhecido                           Reações                 de
+imunitário                                                hipersensibilidade, como
+                                                          erupção       cutânea    e
+                                                          angioedema
+Doenças     do     sistema Muito frequente                Neurotoxicidade tais como
+nervoso                                                   parestesia facial, oral ou
+                                                          peri-oral, cefaleias e
+                                                          fraqueza muscular
+                             Desconhecido                 Tonturas
+                                                          Ataxia
+Afecções dos tecidos Muito frequente                      Prurido
+cutâneos e subcutâneos
+Doenças renais e       Muito frequente                    Função                 renal
+urinárias                                                 comprometida
+                                                          demonstrada por um
+                                                          aumento na creatinina
+                                                          sanguínea e/ou ureia e/ou
+                                                          uma       diminuição     na
+                                                          depuração da creatinina
+                                                          renal
+                            Muito raro                    Insuficiência renal
+Perturbações gerais e       Desconhecido                  Reação no local da injeção.
+alterações no local de
+administração
+Doenças do metabolismo Desconhecido                     Síndrome de pseudo-
+e da nutrição                                           Bartter*
+*Ver secção 4.4
+Os efeitos indesejáveis mais frequentes após nebulização de colistimetato de sódio
+são tosse e broncoespasmo (indicados por aperto no peito que pode ser detetado por
+                                                                  APROVADO EM
+                                                                  01-06-2023
+                                                                  INFARMED
+
+uma diminuição do FEV1) em aproximadamente 10% dos doentes (ver também a
+secção 4.4).
+Classes de Sistemas de Órgãos Frequência                   Reported adverse reaction
+MedDRA
+Doenças do sistema imunitário Desconhecido                 Reações de hipersensibilidade, com
+                                                           erupção cutânea
+Doenças respiratórias, torácicas Muito frequente           Tosse,      aperto       no     peit
+e do mediastino                                            broncoconstrição ou broncoespasmo
+Perturbações gerais e             Desconhecido             Dor de garganta ou irritação na boca
+alterações no local          de
+administração
+Os casos de dor de garganta ou irritação na boca podem ser decorrentes de
+hipersensibilidade ou superinfeção por espécies de Candida.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-
+risco do medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer
+suspeitas de reações adversas ao INFARMED, I.P através dos contactos abaixo:
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente) ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+E-mail: farmacovigilancia@infarmed.pt
+4.9 Sobredosagem
+A sobredosagem pode causar apneia, fraqueza muscular e compromisso renal.
+Não está disponível nenhum antídoto.
+O tratamento da sobredosagem é um tratamento de suporte e as medidas têm como
+objetivo aumentar a depuração do colistimetato de sódio, como a indução de diurese
+osmótica com manitol, diálise peritoneal ou diálise prolongada.
+
+5. PROPRIEDADES FARMACOLÓGICAS
+5.1 Propriedades farmacodinâmicas
+Grupo farmacoterapêutico: antibacterianos para utilização sistémica, outros
+antibacterianos, polimixinas
+Código ATC: J01XB01
+                                                                     APROVADO EM
+                                                                     01-06-2023
+                                                                     INFARMED
+
+
+Mecanismo de ação
+A colistina é um agente antibacteriano polipeptídeo cíclico pertencente ao grupo das
+polimixinas. As polimixinas danificam a membrana celular e os efeitos fisiológicos
+resultantes são letais para a bactéria. As polimixinas são seletivas para bactérias
+Gram-negativas aeróbias que possuam uma membrana externa hidrofóbica.
+Resistência
+As bactérias resistentes são caracterizadas pela modificação dos grupos fosfato dos
+lipopolissacarídeos, que são substituídos pela etanolamina ou aminoarabinose. As
+bactérias Gram-negativas naturalmente resistentes, tais como Proteus mirabilis e
+Burkholderia cepacia, apresentam uma substituição completa do seu fosfolípido pela
+etanolamina ou aminoarabinose.
+Resistência cruzada
+Prevê-se resistência cruzada entre a colistina (polimixina E) e a polimixina B. Uma
+vez que o mecanismo de ação das polimixinas é diferente do de outros agentes
+antibacterianos, não se prevê que a resistência à colistina e polimixina pelo
+mecanismo anteriormente mencionado por si só resulte em resistência a outras
+classes de fármacos.
+Relação farmacocinética/farmacodinâmica
+Foi relatado que as polimixinas têm um efeito bactericida dependente da
+concentração em bactérias suscetíveis. Considera-se que fAUC/MIC está
+correlacionada com a eficácia clínica.
+Limites superiores de suscetibilidade (breakpoints) EUCAST (v.11.1 Janeiro 2021)
+
+                      Suscetível (S) Resistente (R) a
+Acinetobacter         S≤2              R>2 mg/L
+Enterobacteriaceae S≤2                 R>2 mg/L
+Pseudomonas spp S≤4                    R>4 mg/L
+a Os limites superiores de suscetibilidade aplicam-se à dosagem de 2-3 MUI x 3.
+Pode ser necessária uma dose de carga (9 MUI).
+Suscetibilidade
+A prevalência de resistência adquirida pode variar geograficamente e com o tempo
+para espécies selecionadas, sendo desejável informação local sobre resistência,
+particularmente no tratamento de infeções graves. Conforme necessário, deve
+procurar-se aconselhamento especializado se a prevalência local de resistência for tal
+que a utilidade do agente, pelo menos nalguns tipos de infeção, é questionável.
+Espécies normalmente suscetíveis
+Acinetobacter baumannii
+Haemophilus influenzae
+Klebsiella spp
+Pseudomonas aeruginosa
+                                                                   APROVADO EM
+                                                                   01-06-2023
+                                                                   INFARMED
+
+Espécies nas quais a resistência adquirida pode constituir um
+problema
+Stenotrophomonas maltophilia
+Achromobacter xylosoxidans (anteriormente Alcaligenes
+xylosoxidans)
+Organismos com resistência inerente
+Burkholderia cepacia e espécies relacionadas
+Proteus spp
+Providencia spp
+Serratia spp
+5.2 Propriedades farmacocinéticas
+A informação sobre a farmacocinética de colistimetato de sódio (CMS) e colistina é
+limitada. Existem indicações que a farmacocinética em doentes críticos difere da de
+doentes com disfunção fisiológica menos grave e da de voluntários saudáveis. Os
+dados seguintes baseiam-se em estudos utilizando HPLC para determinar as
+concentrações plasmáticas de CMS/colistina.
+Após a perfusão de colistimetato de sódio, o profármaco inativo é convertido em
+colistina ativa. Demonstrouse que as concentrações plasmáticas máximas de
+colistina ocorreram com um atraso de até 7 horas após a administração de
+colistimetato de sódio em doentes críticos.
+Distribuição
+O volume de distribuição da colistina em indivíduos saudáveis é baixo e corresponde
+aproximadamente ao fluido extracelular (FEC). O volume de distribuição é
+relevantemente aumentado em doentes críticos. A ligação à proteína é moderada e
+diminui com concentrações mais elevadas. Na ausência de inflamação meníngea, a
+penetração no líquido cefalorraquidiano (LCR) é mínima, mas aumenta na presença
+de inflamação meníngea.
+Tanto o CMS como a colistina apresentam uma farmacocinética linear no intervalo
+posológico clinicamente relevante.
+Eliminação
+Não há informação sobre a eliminação de colistimetato de sódio após nebulização.
+Calcula-se que, aproximadamente, 30% do colistimetato de sódio é convertido em
+colistina em indivíduos saudáveis, a sua depuração é dependente da depuração da
+creatinina e, à medida que a função renal diminui, uma maior porção de CMS é
+convertida em colistina. Em doentes com função renal muito fraca (depuração da
+creatinina <30 ml/min), a extensão da conversão pode ser de 60% a 70%. O CMS é
+eliminado predominantemente pelos rins através de filtração glomerular. Em
+indivíduos saudáveis, 60% a 70% do CMS é eliminado inalterado na urina no prazo
+de 24 horas.
+A eliminação da colistina ativa encontra-se caracterizada de forma incompleta. A
+colistina é submetida a reabsorção tubular renal extensa e tanto pode ser depurada
+por via não renal como ser submetida ao metabolismo renal com o potencial para
+                                                                   APROVADO EM
+                                                                   01-06-2023
+                                                                   INFARMED
+
+acumulação renal. A depuração da colistina é reduzida no compromisso renal,
+possivelmente devido ao aumento da conversão do CMS.
+A semivida da colistina em indivíduos saudáveis e doentes com fibrose quística é
+relatada como sendo de cerca de 3 horas e 4 horas, com uma depuração total de
+cerca de 3 L/h. Em doentes críticos, a semivida foi comunicada como sendo
+prolongada para cerca de 9-18 horas.
+A cinética do colistimetato de sódio parece ser semelhante em todas as faixas
+etárias, desde que a função renal esteja normal.
+5.3 Dados de segurança pré-clínica
+Não foram realizados estudos de mutagenicidade ou carcinogenicidade.
+Não foram detetados efeitos adversos na fertilidade ou reprodução em ratos nas
+doses de 9,3 mg/kg/dia (0,30 vezes a dose diária máxima em humanos expressada
+em mg/mm2). No entanto, os estudos em animais são insuficientes para avaliar os
+efeitos na reprodução.
+Colistimetato de sódio administrado por via intramuscular a coelhos durante a
+organogénese, em doses de 4,15 e 9,3 mg/kg resultou em talipes equinovarus em
+2,6% e 2,9% dos fetos, respetivamente. Estas doses são 0,25 e 0,55 vezes a dose
+diária máxima em humanos expressa em mg/mm2. Adicionalmente, um aumento da
+reabsorção ocorreu a 9,3 mg/kg. Colistimetato de sódio não teve efeito teratogénico
+em ratos em doses de 4,15 ou 9,3 mg/kg. Estas doses são 0,13 e 0,30 vezes
+superiores à dose diária máxima em humanos, expressa em mg/mm2.
+
+6. INFORMAÇÕES FARMACÊUTICAS
+6.1 Lista dos excipientes
+Não existentes.
+6.2 Incompatibilidades
+Deve-se evitar a mistura de soluções contendo colistimetato de sódio com outras
+soluções para perfusão, soluções injetáveis ou soluções para nebulização.
+A adição de outros antibióticos como a eritromicina, tetraciclina e cefalotina à
+solução de colistimetato de sódio pode levar a precipitação.
+6.3 Prazo de validade
+Fechado:
+3 anos
+A hidrólise do colistimetato é significativamente aumentada quando a solução é
+reconstituída e diluída abaixo da concentração micelar crítica de aproximadamente
+80,000 U.I. por ml.
+Soluções abaixo desta concentração devem ser usadas imediatamente.
+                                                                    APROVADO EM
+                                                                    01-06-2023
+                                                                    INFARMED
+
+
+Soluções reconstituídas para injeção em bolus ou nebulização com uma concentração
+≥ 80,000 U.I./ml são quimicamente e fisicamente estáveis no frasco para injetáveis
+original por um período de 24 horas a 2-8ºC.
+Do ponto de vista microbiológico, a menos que o método de
+abertura/reconstituição/diluição exclua o risco de contaminação microbiológica, o
+produto deve ser utilizado imediatamente. Caso não seja utilizado imediatamente, os
+períodos de conservação e as condições em uso antes da utilização são da
+responsabilidade do utilizador.
+As soluções para injetáveis que tenham sido diluídas com um volume superior ao
+original do frasco para injetáveis e/ou com uma concentração <80,000 U.I./ml
+devem ser utilizadas imediatamente.
+No caso de ser uma administração intratecal e intraventricular, o volume da solução
+a ser administrada não deve exceder 1 ml (concentração de reconstituição de
+125,000 U.I./ml). A solução reconstituída deverá ser administrada imediatamente.
+6.4 Precauções especiais de conservação
+Este medicamento não requer precauções especiais de conservação.
+Condições de conservação do medicamento após reconstituição/diluição, ver secção
+6.3.
+Não utilize este medicamento se notar qualquer sinal de deterioração.
+
+6.5 Natureza e conteúdo do recipiente
+O medicamento está disponível em frascos para injetáveis de 10 ml de vidro incolor
+tipo I seladas com uma rolha de borracha de clorobutilo siliconisada e protegidas por
+uma cápsula de fecho de alumínio removível de 20 mm que inclui uma capa de
+plástico vermelho central de abertura fácil.
+ O medicamento está disponível em caixas de 10 frascos para injetáveis.
+6.6 Precauções especiais de eliminação e manuseamento
+Para injeção em bólus:
+Reconstituir o conteúdo do frasco para injetáveis com não mais de 10 ml de água
+para injetáveis ou 0,9% de cloreto de sódio.
+A dose máxima que pode ser administrada por bólus intravenoso é de 2 MUI diluídos
+em 10 ml administrados num tempo mínimo de 5 minutos.
+Para perfusão:
+Os constituintes do frasco para injetáveis reconstituído podem ser diluídos,
+geralmente com 50 ml de cloreto de sódio 9mg/ml, solução injetável (0,9%).
+Colistimetato de sódio é administrado em perfusão lenta durant 30-60 minutos.
+                                                                    APROVADO EM
+                                                                    01-06-2023
+                                                                    INFARMED
+
+A solução após reconstituição deve estar transparente e livre de partículas em
+suspensão. Se forem observadas partículas em suspensão, a solução deve ser
+eliminada.
+Para inalação com nebulizador:
+Este medicamento pode ser administrado por inalação usando um nebulizador
+adequado.
+Reconstituir o conteúdo do frasco para injetáveis com água para injetáveis para
+produzir uma solução hipotónica ou uma mistura 50:50 de água para injetáveis e
+0,9% de cloreto de sódio para produzir uma solução isotónica ou 0,9% de cloreto de
+sódio para produzir uma solução hipertónica.
+O volume de reconstituição deverá ser de acordo com as instruções de utilização do
+nebulizador, e, geralmente não excede os 4 ml.
+Após reconstituição, a solução deverá apresentar-se límpida e transparente, livre de
+partículas em suspensão. Caso sejam observadas partículas em suspensão a solução
+deverá ser descartada.
+Os nebulizadores convencionais funcionam em fluxo contínuo e é provável que algum
+medicamento nebulizado seja libertado no ambiente local. Quando usado com um
+nebulizador convencional, o colistimetato de sódio deve ser administrado numa sala
+bem ventilada, especialmente em hospitais onde vários doentes podem estar a usar
+nebulizadores ao mesmo tempo. Podem ser usados tubos médicos ou filtros para
+evitar que os resíduos de aerossol entrem no meio ambiente.
+Para administração intratecal e intracerebroventricular:
+O volume a ser administrado não deve exceder 1 ml (concentração de reconstituição
+de 125,000 U.I./ml). O produto reconstituído deve ser administrado imediatamente.
+Durante a reconstituição deve agitar ligeiramente para evitar a formação de espuma.
+A solução é para utilização única. Qualquer medicamento não utilizado ou resíduos
+devem ser eliminados de acordo com as exigências locais.
+
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+Accord Healthcare, S.L.U.
+Moll de Barcelona s/n,
+World Trade Center Edifici Est 6ªplanta
+08039 Barcelona
+
+8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+Registo n.º 5720644 no INFARMED - 1000000 U.I., pó para solução injetável ou para
+solução para inalação por nebulização, 10 frascos para injetáveis
+Registo n.º 5720651 no INFARMED - 2000000 U.I., pó para solução injetável ou para
+solução para inalação por nebulização, 10 frascos para injetáveis
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+                                                   APROVADO EM
+                                                   01-06-2023
+                                                   INFARMED
+
+
+Data da primeira autorização: 7 de julho de 2017
+
+10. DATA DA REVISÃO DO TEXTO
+

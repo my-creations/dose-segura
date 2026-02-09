@@ -1,0 +1,31 @@
+{
+  "medId": "metamizol-magnesico",
+  "searchTerm": "metamizol magnesico",
+  "retrievedAt": "2026-02-09T00:38:29.947Z",
+  "bestMatch": {
+    "infarmedId": "6168",
+    "name": "Nolotil",
+    "dci": "Metamizol magnésico",
+    "form": "Solução injetável",
+    "dosage": "2000 mg/5 ml",
+    "holder": "Boehringer Ingelheim, Portugal Lda.",
+    "isGeneric": false,
+    "score": 130
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/6168-rcm.pdf",
+      "size": 199214
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/6168-fi.pdf",
+      "size": 99432
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "medId": "levofloxacina",
+  "searchTerm": "levofloxacina",
+  "retrievedAt": "2026-02-09T00:38:21.936Z",
+  "bestMatch": {
+    "infarmedId": "47528",
+    "name": "Levofloxacina BasiMG",
+    "dci": "Levofloxacina",
+    "form": "Solução para perfusão",
+    "dosage": "5 mg/ml",
+    "holder": "Laboratórios Basi - Indústria Farmacêutica, S.A",
+    "isGeneric": false,
+    "score": 170
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/47528-rcm.pdf",
+      "size": 141558
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/47528-fi.pdf",
+      "size": 105349
+    }
+  }
+}

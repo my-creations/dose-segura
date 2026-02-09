@@ -1,0 +1,15 @@
+{
+  "bestMatch": {
+    "infarmedId": "3635",
+    "medicationName": "Fosfato Monopotássico Braun",
+    "dci": "Fosfato monopotássico",
+    "form": "Concentrado para solução para perfusão",
+    "dosage": "136.13 mg/ml",
+    "holder": "B. Braun Medical, Unipessoal Lda.",
+    "searchTerm": "fosfato monopotassico"
+  },
+  "documents": {
+    "rcm": "rcm/3635-rcm.pdf",
+    "fi": "fi/3635-fi.pdf"
+  }
+}

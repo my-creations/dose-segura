@@ -1,0 +1,876 @@
+1. NOME DO MEDICAMENTO
+
+Micafungina Accord 50 mg pó para concentrado para solução para perfusão
+Micafungina Accord 100 mg pó para concentrado para solução para perfusão
+
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Micafungina Accord 50 mg
+Cada frasco para injetáveis contém 50 mg de micafungina (sódica). Após a
+reconstituição, cada ml de concentrado para solução para perfusão contém 10 mg de
+micafungina (sódica).
+
+Micafungina Accord 100 mg
+Cada frasco para injetáveis contém 100 mg de micafungina (sódica). Após a
+reconstituição, cada ml de concentrado para solução para perfusão contém 20 mg de
+micafungina (sódica).
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+3. FORMA FARMACÊUTICA
+
+Pó para solução para concentrado para perfusão.
+Pó compacto de cor branca a esbranquiçado.
+pH da solução reconstituída 5.0-7.0
+
+
+4. INFORMAÇÕES CLÍNICAS
+
+4.1 Indicações terapêuticas
+
+Micafungina Accord é indicado em:
+
+Adultos, adolescentes ≥ 16 anos de idade e idosos:
+- Tratamento de candidíase invasiva.
+- Tratamento de candidíase esofágica em doentes para quem a terapêutica intravenosa é
+apropriada.
+- Profilaxia de infeção por Candida em doentes submetidos a transplante alogénico de
+células estaminais hematopoiéticas ou doentes onde é esperada neutropenia (contagem
+absoluta de neutrófilos < 500 células/μl) por 10 ou mais dias.
+
+Crianças (incluindo recém-nascidos) e adolescentes < 16 anos de idade:
+- Tratamento de candidíase invasiva.
+- Profilaxia de infeção por Candida em doentes submetidos a transplante alogénico de
+células estaminais hematopoiéticas ou doentes onde é esperada neutropenia (contagem
+absoluta de neutrófilos < 500 células/μl) por 10 ou mais dias.
+A decisão de usar Micafungina Accord deve ter em consideração um potencial risco de
+desenvolvimento de tumores hepáticos (ver secção 4.4). Por conseguinte, Micafungina
+Accord só deve ser usado se outros antifúngicos não forem adequados.
+
+Deve ter-se em consideração as orientações oficiais/nacionais sobre o uso adequado
+de agentes antifúngicos.
+
+4.2 Posologia e modo de administração
+
+O tratamento com Micafungina Accord deve ser iniciado por um médico com
+experiência no tratamento de infeções fúngicas.
+
+Posologia
+Antes da terapêutica, devem ser obtidas amostras para cultura fúngica e outros testes
+laboratoriais relevantes (incluindo histopatologia) para isolar e identificar o(s)
+organismo(s) em causa. A terapêutica pode ser instituída antes de serem conhecidos os
+resultados das culturas e de outros testes laboratoriais. No entanto, assim que estes
+resultados estejam disponíveis, a terapêutica antifúngica deverá ser ajustada de acordo
+com os mesmos.
+
+O regime de dosagem de micafungina depende do peso corporal do doente, como
+indicado nas seguintes tabelas:
+
+Utilização em adultos, adolescentes ≥ 16 anos de idade e idosos
+
+ Indicação                            Peso corporal > 40 kg       Peso   corporal         ≤
+                                                                  40 kg
+ Tratamento        de    candidíase   100 mg/dia*                 2 mg/kg/dia*
+ invasiva
+ Tratamento        de    candidíase   150 mg/dia                  3 mg/kg/dia
+ esofágica
+ Profilaxia de infeção por Candida    50 mg/dia                   1 mg/kg/dia
+*Se a resposta do doente não for adequada, por exemplo a persistência de culturas ou se a
+condição clínica não melhorar, a dose poderá ser aumentada para 200 mg/dia em doentes
+que pesem > 40 kg ou para 4 mg/kg/dia em doentes que pesem ≤ 40 kg.
+
+Duração do tratamento
+Candidíase invasiva: A duração do tratamento de infeção por Candida deve ser, no
+mínimo, de 14 dias. O tratamento antifúngico deve continuar durante pelo menos uma
+semana após serem obtidas duas culturas sanguíneas negativas seguidas e após o
+desaparecimento dos sinais e sintomas clínicos de infeção.
+
+Candidíase esofágica: A micafungina deve ser administrada até, pelo menos, uma semana
+após o desaparecimento dos sinais e sintomas clínicos.
+
+Profilaxia de infeções por Candida: A micafungina deve ser administrada até pelo menos
+uma semana após a recuperação dos neutrófilos.
+
+Utilização em crianças ≥ 4 meses de idade até adolescentes < 16 anos de idade
+ Indicação                            Peso corporal > 40 kg      Peso   corporal      ≤
+                                                                 40 kg
+ Tratamento        de    candidíase   100 mg/dia*                2 mg/kg/dia*
+ invasiva
+ Profilaxia de infeção por Candida    50 mg/dia                  1 mg/kg/dia
+*Se a resposta do doente não for adequada, por exemplo a persistência de culturas ou se a
+condição clínica não melhorar, a dose poderá ser aumentada para 200 mg/dia em doentes
+que pesem > 40 kg ou para 4 mg/kg/dia em doentes que pesem ≤ 40 kg.
+
+Utilização em crianças (incluindo recém-nascidos) < 4 meses de idade
+
+ Indicação
+ Tratamento de candidíase invasiva                           4 - 10 mg/kg/dia*
+ Profilaxia de infeção por Candida                           2 mg/kg/dia
+*Micafungina administrada em doses de 4 mg/kg em crianças com menos de 4 meses
+aproxima-se da exposição ao fármaco obtida em adultos que receberam 100 mg/dia
+para o tratamento de candidíase invasiva. Em caso de suspeita de infeção do sistema
+nervoso central (SNC), deve ser utilizada uma dosagem mais elevada (p. ex.:10
+mg/kg) devido à penetração dose-dependente da micafungina no SNC (ver secção
+5.2).
+
+Duração do tratamento
+Candidíase invasiva: A duração do tratamento de infeção por Candida deve ser, no
+mínimo, de 14 dias. O tratamento antifúngico deve continuar durante pelo menos uma
+semana, após serem obtidas duas culturas sanguíneas negativas seguidas e após o
+desaparecimento dos sinais e sintomas clínicos de infeção.
+
+Profilaxia de infeções por Candida: A micafungina deve ser administrada até pelo menos
+uma semana após a recuperação dos neutrófilos. A experiência com micafungina em
+doentes com menos de 2 anos de idade é limitada.
+
+Compromisso hepático
+Não são necessários ajustes na dose em doentes com compromisso hepático ligeiro ou
+moderado (ver secção 5.2). Neste momento, os dados disponíveis são insuficientes para a
+utilização de micafungina em doentes com compromisso hepático grave e a sua utilização
+nestes doentes não é recomendada (ver secções 4.4 e 5.2).
+
+Compromisso renal
+Não são necessários ajustes na dose em doentes com compromisso renal (ver secção
+5.2).
+
+População pediátrica
+A segurança e eficácia de doses de 4 e 10 mg/kg no tratamento de candidíase invasiva
+com envolvimento do SNC não foi adequadamente estabelecida em crianças (incluindo
+recém-nascidos) com idade inferior a 4 meses. Os dados disponíveis estão descritos nas
+secções 4.8, 5.1 e 5.2.
+
+Modo de administração
+Para administração intravenosa.
+
+Após a reconstituição e a diluição, a solução deve ser administrada por perfusão
+intravenosa durante aproximadamente 1 hora. Perfusões mais rápidas podem resultar
+em reações mediadas pela histamina mais frequentes. Para instruções de
+reconstituição, ver secção 6.6.
+
+4.3 Contraindicações
+
+Hipersensibilidade à substância ativa, a outras equinocandinas ou a qualquer um dos
+excipientes mencionados na secção 6.1.
+
+4.4 Advertências e precauções especiais de utilização
+
+Efeitos hepáticos:
+Observou-se em ratos o desenvolvimento de foci de hepatócitos alterados (FHA) e
+tumores hepatocelulares, após um período de tratamento de 3 meses ou mais. O limiar
+identificado para o desenvolvimento de tumores nos ratos situa-se, aproximadamente,
+no intervalo da exposição clínica. A relevância clínica desta descoberta é desconhecida.
+A função hepática deve ser monitorizada cuidadosamente durante o tratamento com
+a micafungina. Para minimizar o risco de regeneração adaptativa e, potencialmente, a
+subsequente formação de tumores hepáticos, recomenda-se a descontinuação
+precoce, no caso de uma subida significativa e persistente das ALT/AST. O tratamento
+com micafungina deve ser efetuado após uma cuidadosa avaliação do risco/benefício,
+especialmente em doentes com compromisso hepático grave ou doenças hepáticas
+crónicas, conhecidas por representarem condições pré-neoplásicas, como a fibrose
+hepática avançada, cirrose, hepatite viral, doença hepática neonatal ou deficiências
+enzimáticas congénitas, ou a receber uma terapêutica concomitante com propriedades
+hepatotóxicas e/ou genotóxicas.
+
+O tratamento com micafungina esteve associado a uma insuficiência significativa da
+função hepática (subida das ALT, AST ou bilirrubina total > 3 vezes o limite superior
+normal (LSN)) tanto em voluntários saudáveis como em doentes. Nalguns doentes, foram
+notificados casos de disfunção hepática mais grave, hepatite ou falência hepática,
+incluindo casos fatais. Os doentes pediátricos < 1 ano de idade podem ser mais propensos
+a lesões hepáticas (ver secção 4.8).
+
+
+Reações anafiláticas
+Durante a administração de micafungina, poderão ocorrer reações
+anafiláticas/anafilactóides, incluindo choque. Se ocorrerem estas reações, a perfusão de
+micafungina deve ser descontinuada e administrado o tratamento adequado.
+Reações cutâneas
+Foram notificadas reações cutâneas esfoliativas, tais como a síndrome de Stevens-
+Johnson e a necrólise epidérmica tóxica. O doente deverá ser atentamente monitorizado
+se desenvolver uma erupção cutânea e a micafungina deve ser descontinuada se as lesões
+progredirem.
+
+Hemólise
+Foram notificados casos raros de hemólise, que incluem hemólise intravascular aguda ou
+anemia hemolítica, em doentes tratados com micafungina. Durante a terapêutica com
+micafungina, os doentes que desenvolvam sinais clínicos ou laboratoriais de hemólise,
+deverão ser monitorizados atentamente quanto a sinais de agravamento destas patologias
+e avaliados relativamente ao risco/benefício da continuação da terapêutica com
+micafungina.
+
+Efeitos renais
+A micafungina pode causar problemas renais, falha renal e testes de função renal
+anormais. Os doentes devem ser atentamente monitorizados relativamente a sinais de
+agravamento da função renal.
+
+Interações com outros medicamentos
+A administração concomitante de micafungina e anfotericina B desoxicolato deve apenas
+ser utilizada quando os benefícios superam claramente os riscos, com monitorização
+apertada para a toxicidade da anfotericina B desoxicolato (ver secção 4.5).
+
+Os doentes a receber sirolímus, nifedipina ou itraconazol combinado com micafungina
+devem ser monitorizados em relação à toxicidade do sirolímus, nifedipina ou itraconazol
+e a dosagem de sirolímus, nifedipina ou itraconazol deverá ser reduzida, se necessário
+(ver secção 4.5).
+
+População pediátrica
+A incidência de algumas reações adversas foi mais elevada nos doentes pediátricos do
+que nos doentes adultos (ver secção 4.8).
+
+Excipientes
+Este medicamento contém menos de 1 mmol de sódio (23 mg) por frasco para
+injetáveis, ou seja, é praticamente “isento de sódio”.
+
+4.5 Interações medicamentosas e outras formas de interação
+
+A micafungina tem um baixo potencial de interação com medicamentos metabolizados
+pelas vias mediadas pelo CYP3A.
+
+Foram realizados estudos de interação medicamentosa em seres humanos saudáveis
+para avaliar o potencial de interação entre a micafungina e micofenolato de mofetil,
+ciclosporina, tacrolímus, prednisolona, sirolímus, nifedipina, fluconazol, ritonavir,
+rifampicina, itraconazol, voriconazol e anfotericina B. Nestes estudos, não foi
+observada prova de alteração da farmacocinética da micafungina. Não são necessários
+ajustes da dose quando estes medicamentos são administrados concomitantemente.
+A exposição (AUC) do itraconazol, sirolímus e nifedipina foi ligeiramente aumentada
+(22%, 21% e 18%, respetivamente), na presença da micafungina.
+
+A administração concomitante de micafungina e anfotericina B desoxicolato foi
+associada a um aumento de 30% da exposição à anfotericina B desoxicolato. Uma vez
+que este aumento pode ter significância clínica, a coadministração deve apenas ser
+utilizada quando os benefícios superam claramente os riscos, com monitorização apertada
+para a toxicidade da anfotericina B desoxicolato (ver secção 4.4).
+Os doentes a receber sirolímus, nifedipina ou itraconazol combinado com micafungina
+devem ser monitorizados em relação à toxicidade do sirolímus, nifedipina ou
+itraconazol e a dosagem de sirolímus, nifedipina ou itraconazol deverá ser reduzida,
+se necessário (ver secção 4.4).
+
+4.6 Fertilidade, gravidez e aleitamento
+
+Gravidez
+A quantidade de dados sobre a utilização de micafungina em mulheres grávidas, é
+inexistente. Nos estudos em animais, a micafungina atravessou a barreira placentária e foi
+observada toxicidade reprodutiva (ver secção 5.3). Desconhece-se o risco potencial para
+o ser humano.
+
+Micafungina Accord não deve ser utilizado durante a gravidez, a menos que tal seja
+claramente necessário.
+
+Amamentação
+Desconhece-se se a micafungina é excretada no leite humano materno. Os estudos
+em animais mostraram excreção de micafungina no leite materno. A decisão de
+continuar/descontinuar a amamentação ou continuar/descontinuar a terapêutica com
+Micafungina Accord deve ser tomada, tendo em conta o benefício da amamentação
+para a criança e o benefício da terapêutica com Micafungina Accord para a mãe.
+
+Fertilidade
+Foi observada toxicidade testicular em estudos realizados em animais (ver secção 5.3).
+A micafungina pode ter o potencial de afetar a fertilidade masculina nos humanos.
+
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos da Micafungina Accord sobre a capacidade de conduzir e utilizar máquinas
+são nulos ou desprezáveis. No entanto, os doentes devem ser informados que foram
+notificados alguns casos de tonturas durante o tratamento com micafungina (ver
+secção 4.8).
+
+4.8 Efeitos indesejáveis
+
+Resumo do perfil de segurança
+Com base na experiência dos ensaios clínicos, um total de 32.2% dos doentes sofreu
+reações adversas à medicação. As reações adversas mais frequentemente notificadas
+foram náuseas (2.8%), fosfatase alcalina no sangue aumentada (2.7%), flebite (2.5%,
+maioritariamente em doentes infetados com VIH e com cateteres periféricos), vómitos
+(2.5%) e aspartataminotransferase aumentada (2.3%).
+
+Lista tabelada de reações adversas
+Na tabela seguinte, as reações adversas encontram-se listadas pelo sistema de
+classificação de órgãos e pelo termo MedDRA mais adequado. Dentro de cada grupo
+de frequência, os efeitos indesejáveis encontram-se apresentados por ordem de
+gravidade decrescente.
+Classe       de    Frequentes       Pouco              Raros           Desconhecido
+sistemas     de    ≥ 1/100 a <      frequentes         ≥ 1/10,000 a    (não pode ser
+órgãos             1/10             ≥ 1/1,000 a <      < 1/1,000       calculado     a
+                                    1/100                              partir      dos
+                                                                       dados
+                                                                       disponíveis)
+Doenças      do    leucopenia,      pancitopenia,      anemia          coagulação
+sangue e     do    neutropenia,     trombocitopen      hemolítica,     intravascular
+sistema            anemia           ia, eosinofilia,   hemólise (ver   disseminada
+linfático                           hipoalbumine       secção 4.4)
+                                    mia
+Doenças      do                     reação                             Choque
+sistema                             anafilática    /                   anafilático   e
+imunitário                          anafilactóide                      anafilactóide
+                                    (ver     secção                    (ver     secção
+                                    4.4),                              4.4)
+                                    hipersensibilid
+                                    ade
+Doenças                             hiperhidrose
+endócrinas
+Doenças     do     hipocaliemia,    hiponatremia,
+metabolismo e      hipomagnese      hipercaliemia,
+da nutrição        mia,             hipofosfatemia
+                   hipocalcemia     , anorexia
+Perturbações                        insónia,
+do          foro                    ansiedade,
+psiquiátrico                        confusão
+Doenças       do   cefaleia         sonolência,
+sistema                             tremores,
+nervoso                             tonturas,
+                                    disgeusia
+Doenças                             taquicardia,
+Cardíacas                           palpitações,
+                                    bradicardia
+Vasculopatias      flebite          hipotensão,                        choque
+                                    hipertensão,
+                                    rubor
+Doenças                             dispneia
+respiratórias,
+torácicas e do
+mediastino
+Doenças            náuseas,         dispepsia,
+gastrointestina    vómitos,         obstipação
+is                 diarreia,  dor
+                   abdominal
+Afeções            fosfatase        insuficiência                      lesão
+hepatobiliares     alcalina    no   hepática (ver                      hepatocelular,
+                   sangue           secção     4.4),                   incluindo casos
+                   aumentada,       gama-                              fatais     (ver
+                   aspartato        glutamiltransf                     secção 4.4)
+                   aminotransfer    erase
+                   ase              aumentada,
+Classe      de   Frequentes        Pouco              Raros          Desconhecido
+sistemas    de   ≥ 1/100 a <       frequentes         ≥ 1/10,000 a   (não pode ser
+órgãos           1/10              ≥ 1/1,000 a <      < 1/1,000      calculado     a
+                                   1/100                             partir      dos
+                                                                     dados
+                                                                     disponíveis)
+                 aumentada,        icterícia,
+                 alanina           colestase,
+                 aminotransfer     hepatomegalia
+                 ase               , hepatite
+                 aumentada,
+                 Bilirrubina no
+                 sangue
+                 aumentada
+                 (incluindo
+                 hiperbilirrubin
+                 emia), prova
+                 da       função
+                 hepática
+                 anormal
+Afeções   dos    erupção           urticária,                        erupção
+tecidos          cutânea           prurido,                          cutânea
+cutâneos    e                      eritema                           tóxica, eritema
+subcutâneos                                                          multiforme,
+                                                                     síndrome      de
+                                                                     Stevens-
+                                                                     Johnson,
+                                                                     necrólise
+                                                                     epidérmica
+                                                                     tóxica      (ver
+                                                                     secção 4.4)
+Doenças                            creatininemia                     compromisso
+renais       e                     aumentada,                        renal       (ver
+urinárias                          ureia         no                  secção     4.4),
+                                   sangue                            insuficiência
+                                   aumentada,                        renal aguda
+                                   insuficiência
+                                   renal agravada
+Perturbações     pirexia,          trombose      no
+gerais       e   calafrios         local         da
+alterações no                      administração,
+local       de                     inflamação no
+administração                      local         da
+                                   perfusão, dor
+                                   no local da
+                                   administração,
+                                   edema
+                                   periférico
+Exames                             lactato
+complementar                       desidrogenase
+es          de                     no       sangue
+diagnóstico                        aumentada
+Descrição das seguintes reações adversas
+Possíveis sintomas alérgicos
+Sintomas, como erupção cutânea e calafrios, foram notificados em ensaios clínicos. A
+maioria foi de intensidade ligeira a moderada e não limitou o tratamento. Reações graves
+(por exemplo, reação anafilactóide: 0.2%, 6/3028) foram pouco frequentemente
+notificadas durante a terapêutica com micafungina e apenas em doentes com patologias
+subjacentes graves (por exemplo, SIDA em estado avançado, neoplasias malignas) com
+necessidade de múltipla medicação concomitante.
+
+Reações adversas hepáticas
+A incidência total de reações adversas hepáticas, em doentes tratados com micafungina
+em ensaios clínicos, foi de 8.6% (260/3028). A maioria das reações adversas hepáticas foi
+ligeira e moderada. As reações mais frequentes foram aumentos na fosfatase alcalina
+(FA) (2.7%), AST (2.3%), ALT (2.0%), bilirrubina sanguínea (1.6%) e prova de função
+hepática anormal (1.5%). Poucos doentes (1.1%; 0.4% graves) descontinuaram o
+tratamento devido a um evento hepático. Casos de disfunção hepática grave ocorreram
+pouco frequentemente (ver secção 4.4).
+
+Reações no local da administração
+Nenhuma reação adversa no local da administração limitou o tratamento.
+
+População pediátrica
+A incidência de algumas reações adversas (descritas na seguinte tabela) foi mais
+elevada em doentes pediátricos do que em doentes adultos. Adicionalmente, os
+doentes pediátricos < 1 ano de idade tiveram uma subida duas vezes mais frequente
+da ALT, AST e FA do que os doentes pediátricos mais velhos (ver secção 4.4). A razão
+mais provável para essas diferenças foi as diferentes condições subjacentes em
+comparação com os doentes adultos ou doentes pediátricos mais velhos observados
+nos ensaios clínicos. No início do estudo, a proporção de doentes pediátricos com
+neutropenia era muito superior à de doentes adultos (40.2% e 7.3% de crianças e
+adultos, respetivamente), assim como com HSCT alogénico (29.4% e 13.4%,
+respetivamente) e neoplasia maligna hematológica (29.1% e 8.7%, respetivamente).
+
+Doenças do sangue e do sistema linfático
+Frequentes:   trombocitopenia
+
+Doenças cardíacas
+Frequentes: taquicardia
+
+Vasculopatias
+Frequentes: hipertensão, hipotensão
+
+Afeções hepatobiliares
+Frequentes: hiperbilirrubinemia, hepatomegalia
+
+Doenças renais e urinárias
+Frequentes:              insuficiência renal aguda, ureia no sangue aumentada
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-
+risco do medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer
+suspeitas de reações adversas.
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+E-mail: farmacovigilancia@infarmed.pt
+
+4.9 Sobredosagem
+
+Foram administradas, em ensaios clínicos, doses diárias repetidas até 8 mg/kg (dose
+máxima total 896 mg) em doentes adultos sem ser notificada qualquer toxicidade que
+limitasse a dose. Numa notificação espontânea, foi reportado um caso de administração
+da dosagem de 16 mg/kg/dia, a um doente recém-nascido. Não foram associadas
+quaisquer reações adversas a esta dosagem elevada.
+
+Não há experiência de sobredosagens de micafungina. Em caso de sobredosagem,
+devem ser administradas medidas de apoio gerais e um tratamento sintomático. A
+micafungina liga-se fortemente às proteínas e não é dialisável.
+
+
+5. PROPRIEDADES FARMACOLÓGICAS
+
+5.1 Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: Antimicóticos para uso sistémico, outros antimicóticos para
+utilização sistémica, código ATC: J02AX05
+
+Mecanismo de ação
+A micafungina inibe de forma não competitiva a síntese do 1,3-β-D glucano que é um
+componente essencial da parede celular dos fungos. O 1,3-β-D-glucano não se encontra
+presente em células de mamíferos.
+
+A micafungina demonstra atividade fungicida contra a maioria das espécies de Candida e
+proeminentemente inibe ativamente o crescimento da hifa das espécies Aspergillus.
+
+Relação farmacocinética/farmacodinâmica
+Em modelos animais de candidíase, foi observada uma correlação entre a exposição da
+micafungina dividida pela CIM (AUC/CIM) e a eficácia, definida como o rácio requerido
+para prevenir o crescimento fúngico progressivo. Nestes modelos, foi necessária uma
+proporção de ~2400 e ~1300 para a C. albicans e a C. glabrata, respetivamente. Com a
+dose terapêutica de Micafungina Accord recomendada, estas proporções são alcançáveis
+para a Candida spp de tipo selvagem.
+
+Mecanismo(s) de resistência
+Como acontece com todos os agentes antimicrobianos, foram notificados casos de
+suscetibilidade e resistência reduzida e a resistência cruzada com outras equinocandinas
+não pode ser excluída. A reduzida sensibilidade às equinocandinas foi associada a
+mutações nos genes Fks1 e Fks2 que codificam para uma importante subunidade da
+glucano sintase.
+
+Limites dos testes de suscetibilidade
+Os critérios interpretativos CIM (concentração inibitória mínima) para os testes de
+suscetibilidade foram estabelecidos pelo Comité Europeu de Avaliação de
+Suscetibilidade Antimicrobiana (EUCAST) para micafungina e são enumerados no
+seguinte      endereço:      https://www.ema.europa.eu/documents/other/minimum-
+inhibitory-concentration-mic-breakpoints_en.xlsx
+
+Informação de estudos clínicos
+Candidemia e Candidíase Invasiva: a Micafungina (100 mg/dia ou 2 mg/kg/dia) foi tão
+eficaz e melhor tolerada do que a anfotericina B lipossómica (3 mg/kg) como tratamento
+de primeira linha da candidemia e candidíase invasiva num estudo aleatório, duplamente
+cego, multinacional de não-inferioridade.
+
+A micafungina e a anfotericina B lipossómica foram administradas durante um período
+médio de 15 dias (intervalo de 4 a 42 dias em adultos; 12 a 42 dias em crianças).
+
+A não-inferioridade foi provada em doentes adultos, e foram demonstrados resultados
+similares nas subpopulações pediátricas (incluindo recém-nascidos e bebés
+prematuros). Os resultados de eficácia foram consistentes, independentemente da
+espécie de Candida causadora da infeção, do local primário da infeção e do estado de
+neutropenia (ver tabela). Durante o tratamento, a micafungina demonstrou uma
+diminuição menor do pico médio da taxa de filtração glomerular estimada (p<0.001)
+e uma menor incidência de reações relacionadas com a perfusão (p=0.001) do que a
+anfotericina B lipossómica.
+
+Sucesso Global do Tratamento por Protocolo, Estudo de Candidíase Invasiva
+                                 Micafungina       Anfotericina    B % Diferença
+                                                   lipossómica       [95 % IC]
+                                 N     n (%)       N      n (%)
+ Doentes Adultos
+ Sucesso Global do Tratamento    202 181           190 170           0.1 [-5.9, 6.1] †
+                                       (89.6)             (89.5)
+ Sucesso Global do Tratamento por Estado de Neutropenia
+ Neutropenia na linha de base    24    18 (75.0)   15     12 (80.0)  0.7 [-5.3, 6.7] ‡
+ Sem neutropenia na linha de 178 163               175 158
+ base                                  (91.6)             (90.3)
+ Doentes Pediátricos
+ Sucesso Global do Tratamento    48    35 (72.9)   50     38 (76.0)  -2.7 [-17.3, 11.9]
+ < 2 anos de idade               26    21 (80.8)   31     24 (77.4)  §
+ Bebés prematuros                10    7 (70.0)    9      6 (66.7)
+                                    Micafungina        Anfotericina    B   % Diferença
+                                                       lipossómica         [95 % IC]
+                                    N     n (%)        N      n (%)
+ Recém-nascidos (0 dias a < 4       7     7 (100)      5      4 (80)
+ semanas)
+ 2 a 15 anos de idade            22   14 (63.6)    19   14 (73.7)
+ Adultos e Crianças Combinados, Sucesso Global do Tratamento por espécies de Candida
+ Candida albicans                102 91 (89.2)     98   89 (90.8)
+ Espécies não-albicans¶: all     151 133           140 123
+                                      (88.1)            (87.9)
+ C. tropicalis                   59   54 (91.5)    51   49 (96.1)
+ C. parapsilosis                 48   41 (85.4)    44   35 (79.5)
+ C. glabrata                     23   19 (82.6)    17   14 (82.4)
+ C. krusei                       9    8 (88.9)     7    6 (85.7)
+† Taxa de micafungina menos a taxa de anfotericina B lipossómica, intervalo de
+confiança bilateral de 95 % para a diferença na taxa de sucesso global baseada na
+aproximação normal de grandes amostras.
+‡ Ajustado para o estado de neutropenia; objetivo primário.
+§ A população pediátrica não foi dimensionada de forma a testar a não-inferioridade.
+¶ A eficácia clínica também foi observada (< 5 doentes) nas seguintes espécies
+Candida: C. guilliermondii, C. famata, C. lusitaniae, C. utilis, C. inconspicua e C.
+dubliniensis.
+
+Candidíase Esofágica: Num estudo aleatório e duplamente cego, que comparou a
+micafungina com o fluconazol, no tratamento de primeira linha de candidíase esofágica,
+518 doentes receberam, pelo menos, uma dose do medicamento em estudo. A duração
+mediana do tratamento foi de 14 dias e a dose diária mediana foi de 150 mg para a
+micafungina (N=260) e 200 mg para o fluconazol (N=258). No fim do tratamento, foi
+observado um grau endoscópico de 0 (cura endoscópica) em 87.7% (228/260) e 88.0%
+(227/258) dos doentes nos grupos da micafungina e do fluconazol, respetivamente (IC
+95% para a diferença: [-5.9%; 5.3%]). O limite inferior do IC 95% estava acima da
+margem de não-inferioridade predefinida de -10%, provando a não-inferioridade. A
+natureza e a incidência de reações adversas foram similares entre os dois grupos de
+tratamento.
+
+Profilaxia: A micafungina foi mais eficaz do que o fluconazol na prevenção de infeções
+fúngicas invasivas numa população de doentes com elevado risco de desenvolver uma
+infeção fúngica sistémica (doentes submetidos a transplante de células estaminais
+hematopoiéticas [HSCT], num estudo aleatório, duplamente cego e multicêntrico). O
+sucesso do tratamento foi definido como a ausência de uma infeção fúngica sistémica
+comprovada, provável ou suspeita até ao final do tratamento e a ausência de uma
+infeção fúngica sistémica comprovada ou provável até ao fim do estudo. A maioria dos
+doentes (97%, N=882) tinha neutropenia na linha de base (< 200 neutrófilos/μL). A
+neutropenia persistiu por um período mediano de 13 dias. Houve uma dose diária fixa
+de 50 mg (1.0 mg/kg) para a micafungina e de 400 mg (8 mg/kg) para o fluconazol.
+A duração média do tratamento foi de 19 dias para a micafungina e de 18 dias para o
+fluconazol na população adulta (N=798), e de 23 dias para ambos os grupos de
+tratamento na população pediátrica (N=84).
+A taxa de sucesso do tratamento foi estatística e significativamente superior na
+micafungina do que no fluconazol (1.6% versus 24% de infeções surgidas). O
+surgimento de infeções por Aspergillus foi observado em 1 versus 7 doentes e o
+surgimento de infeções comprovadas ou prováveis por Candida foi observado em 4
+versus 2 doentes, nos grupos da micafungina e do fluconazol, respetivamente. As
+outras infeções que surgiram foram causadas por Fusarium (1 e 2 doentes,
+respetivamente) e Zygomycetes (1 e 0 doentes, respetivamente). A natureza e a
+incidência de reações adversas foram similares entre os dois grupos de tratamento.
+
+5.2 Propriedades farmacocinéticas
+
+Absorção
+A farmacocinética é linear no intervalo de dose diária de 12.5 mg a 200 mg e 3 mg/kg a 8
+mg/kg. Não existem provas de acumulação sistémica com a administração repetida e o
+estado estacionário é geralmente atingido entre 4 a 5 dias.
+
+Distribuição
+Após administração intravenosa, as concentrações de micafungina mostram um declínio
+biexponencial. O medicamento é rapidamente distribuído pelos tecidos.
+
+Na circulação sistémica, a micafungina liga-se fortemente às proteínas plasmáticas (>
+99%), maioritariamente à albumina. A ligação à albumina é independente da
+concentração de micafungina (10-100 μg/ml). O volume de distribuição no estado
+estacionário (Vss) foi aproximadamente de 18-19 litros.
+
+Biotransformação
+A micafungina inalterada é o principal composto circulante na circulação sistémica. Foi
+demonstrado que a micafungina é metabolizada em vários compostos; destes, foram
+detetados na circulação sistémica, o M-1 (forma catecol), o M-2 (forma metoxi de M-1) e
+o M-5 (hidroxilação na cadeia lateral) da micafungina. A exposição a estes metabolitos é
+baixa e os metabolitos não contribuem para a eficácia global da micafungina.
+
+Embora a micafungina seja um substrato para o CYP3A in vitro, a hidroxilação pelo
+CYP3A não é uma importante via de metabolização da micafungina in vivo.
+
+Eliminação e excreção
+O tempo médio de semivida terminal é aproximadamente de 10-17 horas e mantém-se
+consistente em doses até 8 mg/kg e após administrações únicas e repetidas. A depuração
+total em indivíduos saudáveis e doentes adultos foi de 0.15-0.3 ml/min/kg e é
+independente da dose após administração única e repetida. Após uma dose única
+intravenosa de 14C-micafungina (25 mg) em voluntários saudáveis, 11.6% da
+radioatividade foi recuperada na urina e 71.0% nas fezes, ao longo de 28 dias. Estes
+dados indicam que a eliminação da micafungina é maioritariamente não renal. Foram
+detetados apenas concentrações vestigiais dos metabolitos M-1 e M-2 no plasma, e o
+metabolito M-5, o mais abundante, representou um total de 6.5% relativamente ao
+composto que lhe deu origem.
+
+Populações especiais
+Doentes pediátricos
+Em doentes pediátricos, os valores da AUC foram proporcionais à dose num intervalo de
+0.5-4 mg/kg. A depuração foi influenciada pelo peso, com valores medianos de
+depuração ajustada ao peso 1.35 vezes superior em crianças mais novas (4 meses a 5
+anos) e 1.14 vezes superior em doentes pediátricos com idade entre 6 a 11 anos. Crianças
+mais velhas (12-16 anos) apresentaram valores medianos de depuração semelhantes aos
+determinados em doentes adultos. A depuração mediana ajustada ao peso em crianças
+com idade inferior a 4 meses é aproximadamente 2.6 vezes superior à das crianças mais
+velhas (12-16 anos) e 2.3 vezes superior à dos adultos.
+
+Um estudo de transição de PK/PD demonstrou a penetração dose-dependente da
+micafungina no SNC com uma AUC mínima de 170 μg*h/l necessária para atingir a
+erradicação máxima da carga fúngica nos tecidos do sistema nervoso central. A
+modelação farmacocinética populacional demonstrou que uma dose de 10 mg/kg em
+crianças com menos de 4 meses de idade seria suficiente para alcançar a exposição
+alvo para o tratamento de infeções por Candida no SNC.
+
+Idosos
+Quando administrada uma dose de 50 mg, como perfusão única, durante 1 hora, a
+farmacocinética da micafungina no idoso (idades 66-78 anos) foi semelhante à dos
+indivíduos jovens (20-24 anos). Não é necessário um ajuste da dose nos idosos.
+
+Doentes com afeção hepática
+Num estudo realizado com doentes com afeção hepática moderada (Score 7-9 de “Child-
+Pugh”), (n=8), a farmacocinética da micafungina não diferiu significativamente da
+farmacocinética em sujeitos saudáveis (n=8). Por conseguinte, não são necessários ajustes
+na dose para doentes com afeção hepática ligeira a moderada. Num estudo realizado em
+doentes com afeção hepática grave (Score 10-12 de “Child-Pugh”), (n=8), verificaram-se
+menores concentrações plasmáticas da micafungina e maiores concentrações plasmáticas
+do metabolito hidróxido (M-5) comparadas com sujeitos saudáveis (n=8). Estes dados
+são insuficientes para suportar uma recomendação de dose em doentes com afeção
+hepática grave.
+
+Doentes com compromisso renal
+O compromisso renal grave (Taxa de Filtração Glomerular [TFG] < 30 ml/min) não
+influencia significativamente a farmacocinética da micafungina. Não é necessário ajustar
+a dose em doentes com compromisso renal.
+
+Género/Raça
+O género e a raça (caucasiana, negra e oriental) não influenciam significativamente
+os parâmetros farmacocinéticos de micafungina. Não é necessário ajustar a dose
+relativamente ao género ou raça.
+
+5.3 Dados de segurança pré-clínica
+
+O desenvolvimento de foci de hepatócitos alterados (FAH) e tumores hepatocelulares nos
+ratos esteve dependente tanto da dose como da duração do tratamento com a
+micafungina. Os FAH registados após um tratamento de 13 semanas ou mais, persistiram
+depois de um período de retirada de 13 semanas e desenvolveram-se em tumores
+hepatocelulares, após um período sem tratamento, que abrangeu a esperança de vida dos
+ratos. Não se realizaram estudos padrão de carcinogenicidade, mas o desenvolvimento
+dos FAH foi avaliado nos ratos fêmea, decorridos até 20 e 18 meses após a cessação de
+um tratamento de 3 e 6 meses, respetivamente. Em ambos os estudos, foi observado um
+aumento das incidências/números dos tumores hepatocelulares após o período sem
+tratamento de 18 e 20 meses, no grupo da dose mais elevada de 32 mg/kg/dia, assim
+como no grupo de dose mais baixa (apesar de não ser estatisticamente significativo). A
+exposição plasmática, no suposto limiar para o desenvolvimento de tumores nos ratos,
+(i.e., a dose onde não foram detetados quaisquer FAH ou tumores hepáticos) situou-se no
+mesmo intervalo que a exposição clínica. Desconhece-se a relevância do potencial
+hepatocarcinogénico da micafungina para a utilização terapêutica em seres humanos.
+
+A toxicologia da micafungina, após uma administração intravenosa repetida em ratos
+e/ou cães, demonstrou respostas adversas no fígado, no trato urinário, nos glóbulos
+vermelhos e nos órgãos reprodutores masculinos. Os níveis de exposição, em que tais
+efeitos não ocorreram (NOAEL), situaram-se no mesmo intervalo, comparativamente aos
+níveis da exposição clínica, ou num intervalo inferior. Consequentemente, pode ser
+esperada a ocorrência destas respostas adversas com o uso clínico da micafungina em
+humanos.
+
+Em testes padrão de segurança farmacológica, os efeitos cardiovasculares e de
+libertação de histamina da micafungina em doses elevadas foram evidentes e foram
+aparentemente dependentes do tempo acima do limite superior. O prolongamento do
+tempo de perfusão, reduzindo o pico de concentração plasmática, reduziu
+aparentemente estes efeitos.
+
+Nos estudos realizados sobre a toxicidade de dose repetida nos ratos, os sinais de
+hepatotoxicidade consistiram num aumento das enzimas hepáticas e em alterações
+degenerativas dos hepatócitos, acompanhadas por sinais de regeneração compensatória.
+No cão, os efeitos hepáticos consistiram num aumento do peso e hipertrofia
+centrolobular, não tendo sido observadas quaisquer alterações degenerativas dos
+hepatócitos.
+
+Nos ratos, foi observada a vacuolação do epitélio pélvico renal, assim como a
+vacuolação e espessamento (hiperplasia) do epitélio da bexiga, em estudos de 26
+semanas com doses repetidas. Num segundo estudo de 26 semanas, a hiperplasia das
+células de transição na bexiga teve uma incidência muito mais baixa. Estes resultados
+mostraram reversibilidade durante um período de seguimento de 18 meses. A duração
+da administração da micafungina, nestes estudos com ratos (6 meses), excede a
+duração habitual da administração da micafungina em doentes (ver secção 5.1).
+
+A micafungina hemolisou o sangue do coelho, in vitro. Nos ratos, foram observados
+sinais de anemia hemolítica após uma injeção repetida em bólus de micafungina. Nos
+estudos realizados em cães com doses repetidas, não foi observada anemia hemolítica.
+
+Nos estudos da toxicidade reprodutiva e do desenvolvimento, foi registado um peso
+reduzido das crias, à nascença. Nos coelhos, ocorreu um aborto com 32 mg/kg/dia. Os
+ratos machos, tratados por via intravenosa durante 9 semanas, demonstraram vacuolação
+das células do epitélio do ducto do epidídimo, aumento de peso do epidídimo e um
+número reduzido de células espermáticas (em 15%). No entanto, em estudos de 13 e 26
+semanas, estas alterações não ocorreram. Nos cães adultos, observou-se atrofia dos
+túbulos seminíferos com vacuolação do epitélio seminífero e diminuição do esperma nos
+epidídimos, após um tratamento prolongado (39 semanas), mas não após 13 semanas de
+tratamento. Nos cães jovens, o tratamento de 39 semanas, dependendo da dose, não
+induziu lesões nos testículos e nos epidídimos, no fim do tratamento, mas, após um
+período sem tratamento de 13 semanas, foi registado um aumento dependente da dose
+destas lesões nos grupos de recuperação tratados. Não foi observada qualquer limitação
+na fertilidade feminina ou masculina, nos estudos de fertilidade e de desenvolvimento
+embrionário precoce nos ratos.
+
+A micafungina não foi mutagénica nem clastogénica, quando avaliada numa bateria
+de testes padrão in vivo e in vitro, incluindo um estudo in vitro sobre a síntese
+inesperada do ADN, utilizando hepatócitos de ratos.
+
+
+6. INFORMAÇÕES FARMACÊUTICAS
+
+6.1 Lista dos excipientes
+
+Lactose monohidratada
+Ácido cítrico (para ajustar o pH)
+Hidróxido de sódio (para ajustar o pH)
+
+6.2 Incompatibilidades
+
+Este medicamento não deve ser misturado ou coadministrado                 com   outros
+medicamentos, exceto os mencionados na secção 6.6.
+
+6.3 Prazo de validade
+
+50 mg
+2 anos
+
+100 mg
+3 anos
+
+Concentrado reconstituído no frasco para injetáveis
+A estabilidade química e física foi comprovada para até 48 horas, a 25ºC, quando
+reconstituído com uma solução de cloreto de sódio a 9 mg/ml (0.9%) para perfusão ou
+uma solução de glucose a 50 mg/ml (5%) para perfusão.
+
+Solução diluída para perfusão
+A estabilidade química e física foi comprovada para 96 horas, a 25ºC, quando protegida
+da luz e quando diluída com uma solução de cloreto de sódio a 9 mg/ml (0.9%) para
+perfusão ou uma solução de glucose a 50 mg/ml (5%) para perfusão.
+Micafungina Accord não contém conservantes. Do ponto de vista microbiológico, as
+soluções reconstituídas e diluídas devem ser utilizadas de imediato. Se não forem
+utilizadas de imediato, os tempos de estabilidade e as condições prévias à utilização
+são da responsabilidade do utilizador e não deverão ser mais longas que 24 horas
+entre 2 a 8ºC, a menos que a reconstituição e diluição tenham sido realizadas em
+condições de assepsia controladas e validadas.
+
+6.4 Precauções especiais de conservação
+
+Este medicamento não requer condições de armazenamento especiais.
+Condições de conservação do medicamento após a reconstituição e diluição, ver secção
+6.3.
+
+6.5 Natureza e conteúdo do recipiente
+
+Frasco para injectáveis de vidro incolor tipo I de 10 ml com rolha de borracha de
+bromobutilo com revestimento de polímero fluorado e cápsula flip-off de alumínio com
+tampa em PP.
+
+O frasco para injetáveis está envolvido numa película protetora de raios UV.
+Apresentação: embalagem com 1 frasco para injetáveis.
+
+6.6 Precauções especiais de eliminação e manuseamento
+
+Qualquer produto não utilizado ou resíduo deve ser eliminado de acordo com os
+requisitos locais.
+
+Micafungina Accord não deve ser misturado ou coadministrado com outros
+medicamentos, exceto aqueles mencionados abaixo. Utilizando técnicas de assepsia e à
+temperatura ambiente, Micafungina Accord é reconstituído e diluído da seguinte forma:
+
+1. A tampa de plástico deve ser removida do frasco e a rolha vedante desinfetada com
+álcool.
+2. Cinco ml de solução de cloreto de sódio a 9 mg/ml (0.9%) para perfusão ou solução de
+glucose a 50 mg/ml (5%) para perfusão (tirado de uma garrafa/saco de 100 ml) deve ser
+asséptica e lentamente injetada em cada frasco para injetáveis, ao longo do lado da parede
+interna. Embora o concentrado faça espuma, deverão ser feitos todos os esforços para
+minimizar a quantidade de espuma criada. Deverão ser reconstituídos um número
+suficiente de frascos de Micafungina Accord para obter a dose desejada (ver tabela
+seguinte).
+3. O frasco para injetáveis deve ser girado suavemente. NÃO AGITAR. O pó dissolver-
+se-á completamente. O concentrado deve ser límpido e incolor. O concentrado deve ser
+imediatamente utilizado. O frasco para injetáveis é para uso único. Assim, tem de
+eliminar imediatamente qualquer concentrado reconstituído e não utilizado.
+4. Todo o concentrado reconstituído deve ser retirado de cada frasco para injetáveis e
+reposto na garrafa/saco de perfusão de onde foi inicialmente tirado. A perfusão com a
+solução diluída deve ser utilizada de imediato. A estabilidade química e física de
+utilização foi comprovada para 96 horas, a 25ºC, quando protegida da luz e diluída da
+forma acima descrita.
+5. A garrafa/saco de perfusão deve ser suavemente invertida(o) de maneira a dispersar a
+solução diluída, mas NÃO agitar de forma a evitar a formação de espuma. A solução não
+pode ser utilizada se se encontrar turva ou precipitada.
+6. A garrafa/saco de perfusão, que contém a solução com a perfusão diluída, deve ser
+colocada(o) num saco opaco que se possa fechar de forma a proteger da luz.
+
+Preparação da solução para perfusão
+ Dose    Frascos     de Volume do cloreto       Volume               Perfusão padrão
+ (mg)    Micafungina      de sódio (0.9%)       (concentração)       (adicionada   até
+         Accord           ou glucose (5%)       de             pó    100 ml)
+         utilizados       a ser adicionado      reconstituído        Concentração
+         (mg/frasco)      por frasco                                 final
+ 50      1 x 50           5 ml                  aprox. 5 ml          0.5 mg/ml
+                                                (10 mg/ml)
+ 100     1 x 100           5 ml                 aprox. 5 ml          1.0 mg/ml
+                                                (20 mg/ml)
+ 150     1 x 100 + 1 x     5 ml                 aprox. 10 ml         1.5 mg/ml
+         50
+ 200     2 x 100           5 ml                 aprox. 10 ml         2.0 mg/ml
+
+Após a reconstituição e a diluição, a solução deve ser administrada por perfusão
+intravenosa durante 1 hora, aproximadamente.
+
+
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Accord Healthcare S.L.U.
+World Trade Center, Moll de Barcelona, s/n, Edifici Est 6ª planta,
+08039 Barcelona,
+Espanha
+
+
+8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Número de registo nº 5811427, no INFARMED, I.P. (100 mg, 10 ml)
+Número de registo nº 5811435, no INFARMED, I.P. (50 mg, 10 ml)
+
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO                      DA    AUTORIZAÇÃO     DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 22 de abril de 2021
+Data da última renovação:
+
+
+10. DATA DA REVISÃO DO TEXTO
+

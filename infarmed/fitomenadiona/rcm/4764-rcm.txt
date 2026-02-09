@@ -1,0 +1,338 @@
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+
+1. NOME DO MEDICAMENTO
+
+Kanakion MM 10 mg/1 ml solução injetável
+
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada ampola de 1 ml contém 10 mg de fitomenadiona (vitamina K1 sintética).
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+3. FORMA FARMACÊUTICA
+
+Solução injetável
+
+
+4. INFORMAÇÕES CLÍNICAS
+
+4.1 Indicações terapêuticas
+
+Hemorragia ou risco de hemorragia resultante de hipoprotrombinemia grave (i.e.
+deficiência dos fatores de coagulação II, VII, IX e X) de origem diversa, incluindo
+sobredosagem dos anticoagulantes do tipo cumarínico, utilizados isoladamente ou em
+combinação com fenilbutazona e outras formas de hipovitaminose K (p. ex. icterícia
+obstrutiva, bem como alterações intestinais e hepáticas, e após uso prolongado de
+antibióticos, sulfonamidas ou salicilatos).
+
+Para profilaxia e tratamento da doença hemorrágica do recém-nascido, deve ser usado
+Kanakion MM pediátrico 2 mg/0,2 ml solução injetável.
+
+4.2 Posologia e modo de administração
+
+Kanakion MM destina-se a administração por via oral ou a injeção intravenosa.
+A solução da ampola não deve ser diluída ou misturada com outros medicamentos de uso
+parentérico, mas pode ser injetada, quando apropriado, na parte inferior de um dispositivo
+de perfusão, durante a perfusão contínua de cloreto de sódio 0,9% ou dextrose 5%.
+
+No recém-nascido e em bebés com menos de 1 ano é conveniente utilizar o Kanakion MM
+pediátrico, em virtude das menores doses requeridas.
+Posologia
+Hemorragia grave ou com perigo de vida, por exemplo durante o tratamento anticoagulante:
+
+O anticoagulante cumarínico deve ser retirado e a injeção intravenosa de Kanakion MM
+administrada lentamente (durante pelo menos 30 segundos) numa dose de 5-10 mg
+acompanhada de plasma fresco congelado (PFC) ou concentrado de complexo de
+protrombina (CCP). A dose de vitamina K1 pode ser repetida, se necessário.
+
+Recomendações de dose para tratamento com vitamina K1 de doentes assintomáticos com
+International Normalized Ratio (INR) elevado com ou sem hemorragia ligeira
+
+
+ Anticoagulante INR Vit.K1 oral                           Vit.K1
+                                                          intravenosa
+ Varfarina       5-9
+                  1,0 a 2,5 mg para reversão inicial      0,5 a 1,0 mg
+                  2,0 a 5,0 mg para reversão rápida       0,5 a 1,0 mg
+                  (adicionalmente 1,0 a 2,0 mg se
+                  INR persistir elevado após 24 h)
+              >9 2,5 a 5,0 mg (até 10,0 mg)          1,0 mg
+ Acenocumarol 5-8 1,0 a 2,0 mg                       1,0 a 2,0 mg
+              >8 3,0 a 5,0 mg                        1,0 a 2,0 mg
+ Fenprocumon 5-9 2,0 a 5,0 mg                        2,0 a 5,0 mg
+              >9 2,0 a 5,0 mg                        2,0 a 5,0 mg
+              >10 não recomendado                    doses adaptadas
+                                                     individualmente
+
+Para pequenas doses, podem utilizar-se uma ou mais ampolas de Kanakion MM pediátrico
+2 mg/0,2 ml (mesma solução).
+
+Recomendações de dose para tratamento com vitamina K1 de doentes com hemorragia
+grave e com perigo de vida
+
+ Anticoagulante Situação Vit.K1                  Tratamento concomitante
+                         intravenosa
+ Varfarina    Hemorragia 5,0 a 10,0 mg           PFC ou CCP
+              grave
+              Hemorragia 10,0 mg                 PFC, CCP ou             fator   VIIa
+              com perigo                         recombinante
+              de vida
+ Acenocumarol Hemorragia 5,0 mg                  PFC, CCP ou concentrados de
+              grave                              protrombina e fator VII
+ Fenprocumon Hemorragia 5,0 mg                   CCP
+              grave com
+              INR< 5,0
+                   Hemorragia 10,0 mg                CCP
+                   grave com
+                   INR> 5,0
+
+PFC – plasma fresco congelado
+CCP – concentrado de complexo de protrombina
+
+Instruções posológicas especiais
+
+Idosos:
+Os doentes idosos têm tendência a ser mais sensíveis à reversão da anticoagulação com
+Kanakion MM. A dosagem neste grupo de doentes deve, portanto, situar-se no limite
+inferior dos intervalos recomendados. Foi demonstrado que pequenas doses de 0,5 a 1,0 mg
+i.v. ou oral de vitamina K1 reduzem eficazmente o INR para < 5,0 em 24 horas.
+
+Crianças com mais de um ano de idade:
+O médico decidirá a dose adequada, de acordo com a indicação e o peso do doente. Uma
+dose única de um décimo da dose i.v. total de vitamina K1 no adulto é relatada como sendo
+eficaz na reversão do INR elevado (>8) em crianças assintomáticas com bom estado clínico.
+
+Crianças com menos de um ano de idade:
+Para este grupo de doentes, utilizar Kanakion MM pediátrico 2 mg/0,2 ml.
+
+4.3 Contraindicações
+
+Hipersensibilidade à substância activa ou a qualquer um dos excipientes mencionados na
+secção 6.1.
+Kanakion MM não deve ser administrado por via intramuscular, porque esta via exibe
+características depot e a libertação contínua de vitamina K1 poderia dificultar a reinstituição
+do tratamento anticoagulante. Além disso, injeções i.m. em indivíduos com tratamento
+anticoagulante apresentam risco de formação de hematomas.
+
+4.4 Advertências e precauções especiais de utilização
+
+A solução da ampola deve apresentar-se límpida no momento da utilização. Após
+conservação incorreta, a solução pode apresentar-se turva ou com duas fases de separação.
+Nestes casos, a ampola não deve ser utilizada.
+
+É necessário monitorizar o INR após administração de Kanakion MM a doentes com função
+hepática gravemente alterada.
+
+A vitamina K1 é antídoto dos anticoagulantes cumarínicos (p. ex. varfarina) mas não da
+heparina.
+
+Este medicamento contém 2,64 mg de sódio por 1 ml, equivalente a 0,13% da ingestão
+diária máxima recomendada pela OMS de 2 g de sódio para um adulto.
+4.5 Interações medicamentosas e outras formas de interação
+
+A vitamina K1 antagoniza o efeito dos anticoagulantes cumarínicos.
+A administração simultânea de anticonvulsivantes pode afetar a acção da vitamina K1.
+
+4.6 Fertilidade, gravidez e aleitamento
+
+Gravidez
+
+Como a vitamina K1 não atravessa facilmente a barreira placentária, não é recomendado
+administrar Kanakion MM a gestantes como profilaxia da doença hemorrágica do recém-
+nascido.
+
+Amamentação
+
+Apenas uma fração pequena da vitamina K1 passa ao leite materno. Em doses terapêuticas,
+a administração de Kanakion MM em mães que amamentam não constitui um risco para os
+lactentes.
+
+Kanakion MM não é recomendado em mães que amamentam como profilaxia da doença
+hemorrágica do recém-nascido.
+
+Fertilidade
+
+A vitamina K1 demonstrou potencial tóxico sobre o desenvolvimento embriofetal, no
+ratinho (ver secção 5.3). No entanto, com base na ampla experiência clínica, pode afirmar-
+se que nem a vitamina K1 nem os excipientes do Kanakion MM têm efeito tóxico sobre a
+reprodução quando são administrados nas doses recomendadas. No entanto, tal como com
+todos os medicamentos, Kanakion MM só deve ser usado na mulher grávida se o benefício
+para a mãe compensar o risco para o feto.
+
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Não foram observados efeitos sobre a capacidade de conduzir e utilizar máquinas.
+
+4.8 Efeitos indesejáveis
+
+Os efeitos indesejáveis são apresentados por classe de sistema de órgãos e frequência. As
+frequências são definidas em: muito frequentes (1/10), frequentes (1/100, <1/10), pouco
+frequentes (1/1000, <1/100), raro (1/10 000 <1/1000) e muito raros (<1/10 000) e
+desconhecido (não pode ser calculado a partir dos dados disponíveis).
+
+Doenças do sistema imunitário
+Muito raros:
+Reacções anafilactóides (como rubor facial, sudação, dor torácica, dispneia, cianose e
+colapso cardiovascular) após administração i.v. de Kanakion MM.
+
+Perturbações gerais e alterações no local de administração
+Muito raros: irritação venosa ou flebite em associação à administração intravenosa de
+Kanakion MM.
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-risco do
+medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas de
+reações adversas através do Infarmed.
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram (preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+E-mail: farmacovigilancia@infarmed.pt
+
+4.9 Sobredosagem
+
+Não se conhece síndrome clínica atribuível a hipervitaminose por fitomenadiona. A
+reintrodução de anti-coagulante pode ser afectada.
+
+
+5. PROPRIEDADES FARMACOLÓGICAS
+
+5.1 Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: XII-1-a) Nutrição. Vitaminas e sais minerais. Vitaminas
+lipossolúveis.
+Código ATC: B01BA01 – Fitomenadiona.
+
+Mecanismo de ação
+A vitamina K1 (fitomenadiona) é um fator de pró-coagulação. Como constituinte de um
+sistema de carboxilases hepático, a vitamina K1 está envolvida na carboxilação pós-
+translacional dos fatores da coagulação II (protrombina), VII, IX e X e dos inibidores da
+coagulação proteína C e proteína S. As cumarinas inibem a redução da vitamina K1 (forma
+de quinona) em vitamina K1 hidroquinona e previnem a formação do epóxido de vitamina
+K1, após a carboxilação, mediante redução a quinona.
+A vitamina K1 é um antagonista dos anticoagulantes cumarínicos, p. ex. varfarina, porém,
+não neutraliza a atividade da heparina. O antídoto da heparina é a protamina.
+A vitamina K1 é ineficaz na hipoprotrombinemia hereditária ou hipoprotrombinemia
+induzida por insuficiência hepática grave.
+A vitamina K1 é solubilizada no Kanakion MM mediante um sistema coloidal fisiológico
+de micelas ácido biliar-lecitina, um meio de transporte também presente no organismo.
+
+5.2 Propriedades farmacocinéticas
+
+Absorção
+Um estudo farmacocinético indicou que a solução MM de vitamina K1 administrada
+oralmente é rapidamente e efectivamente absorvida.
+
+Doses orais de vitamina K1 são principalmente absorvidas no intestino delgado. A
+biodisponibilidade sistémica após administração oral é de aproximadamente 50% com um
+amplo intervalo de variabilidade interindividual.
+O início de acção ocorre aproximadamente 1-3 horas após administração intravenosa e 4-6
+horas após administração oral.
+
+Distribuição
+O compartimento de distribuição principal corresponde ao volume plasmático. No plasma,
+90% da vitamina K1 está ligado a lipoproteínas (fracção VLDL). As concentrações
+plasmáticas normais de vitamina K1 variam de 0,4 a 1,2 ng/ml. Após administração i.v. de
+10 mg de vitamina K1 (1 ampola de Kanakion MM), o nível plasmático é cerca de 500
+ng/ml uma hora depois da administração e cerca de 50 ng/ml às 12 horas. A vitamina K1
+não atravessa facilmente a placenta e é fracamente distribuída no leite materno.
+
+Biotransformação
+A vitamina K1 é rapidamente convertida em metabolitos mais polares, incluindo o 2,3-
+epóxido de vitamina K1. Parte deste metabolito é reconvertido em vitamina K1.
+
+Eliminação
+Após metabolização, a vitamina K1 é excretada na bílis e urina sob a forma de glucorónidos
+e sulfoconjugados.
+A semivida terminal em adultos é de 14  6 h após administração i.v. e 10 10  6 h após
+administração oral.
+Menos de 10% da dose é excretado sem modificação na urina.
+
+Farmacocinética em situações clínicas especiais
+A absorção intestinal da vitamina K1 é prejudicada por várias alterações, incluindo a
+síndrome de mal absorção, síndrome de intestino curto, atresia biliar e insuficiência
+pancreática. A dosagem para este grupo de doentes situa-se no limite inferior do intervalo
+recomendado (ver secção 4.2).
+
+5.3 Dados de segurança pré-clínica
+Num estudo de toxicidade reprodutiva, realizados no ratinho, a administração de 0,45 mg
+de vitamina K1 por ratinho, por dia, do 6º ao 11º dia de gestação provocou efeitos
+teratogénicos.
+A vitamina K1 do Kanakion não revelou potencial genotóxico em estudos in vitro (teste de
+Ames e teste para indução de aberrações cromossómicas em linfócitos humanos). Não são
+conhecidos estudos de carcinogénese com a vitamina K1.
+As micelas mistas (MM) de ácido biliar/lecitina não revelaram potencial teratogénico, no
+rato e coelho, nem afetaram o desenvolvimento peri- e pós-natal do rato. As micelas mistas
+não evidenciaram potencial genotóxico no teste de Ames.
+
+
+6. INFORMAÇÕES FARMACÊUTICAS
+
+6.1 Lista dos excipientes
+
+Ácido glicocólico, lecitina, hidróxido de sódio, ácido clorídrico, água para preparações
+injetáveis.
+
+6.2 Incompatibilidades
+
+A solução injetável de Kanakion MM não deve ser diluída ou misturada com outros
+medicamentos de uso parentérico (ver secção 4.2).
+
+6.3 Prazo de validade
+
+2 anos
+
+6.4 Precauções especiais de conservação
+
+Não conservar acima de 25°C. Proteger da luz. Não congelar.
+
+6.5 Natureza e conteúdo do recipiente
+
+Ampolas de vidro com 1 ml de solução.
+Cada embalagem contém 5 ampolas.
+
+6.6 Precauções especiais de eliminação
+
+No momento da utilização, a solução da ampola deve ser transparente.
+A solução pode ser injetada, quando apropriado, na parte inferior de um dispositivo de
+perfusão durante a perfusão contínua de cloreto de sódio 0,9% ou dextrose 5% (ver secção
+4.2).
+Administração oral: retirar a quantidade requerida de solução da ampola utilizando uma
+seringa munida de agulha. Após retirar a agulha da seringa, deitar o conteúdo da seringa
+diretamente na boca do doente. Engolir com a ajuda de água.
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as
+exigências locais.
+
+
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+CHEPLAPHARM Arzneimittel GmbH,
+Ziegelhof 24
+17489 Greifswald,
+Alemanha
+
+
+8. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Nº de registo: 8969832 - 5 ampolas, solução injetável, 10 mg/1 ml, ampolas de vidro âmbar
+tipo I
+
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 3 de agosto de 1996
+Data da última renovação: 3 de agosto de 2006
+
+
+10. DATA DA REVISÃO DO TEXTO
+

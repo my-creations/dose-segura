@@ -1,0 +1,43 @@
+{
+  "medId": "aminofilina",
+  "searchTerm": "aminofilina",
+  "retrievedAt": "2026-02-08T00:00:00.000Z",
+  "bestMatch": {
+    "infarmedId": "3069093",
+    "name": "Aminofilina Labesfal",
+    "dci": "Aminofilina",
+    "form": "Solução injetável",
+    "dosage": "240 mg/10 ml",
+    "holder": "Labesfal - Laboratórios Almiro, S.A.",
+    "score": 1.0,
+    "generic": false,
+    "processNumber": "409/93",
+    "administration": ["Via intravenosa"],
+    "classification": {
+      "atc": "R03DA05 - aminophylline",
+      "farmacoterapeutica": "5.1.4 - Xantinas"
+    },
+    "aimDate": "23/12/1999",
+    "lastUpdated": "22/04/2022"
+  },
+  "documents": {
+    "rcm": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "rcm/3069093-rcm.pdf",
+      "size": 74000,
+      "method": "POST with form state",
+      "lastUpdated": "22/04/2022"
+    },
+    "fi": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "fi/3069093-fi.pdf",
+      "size": 69000,
+      "method": "POST with form state",
+      "lastUpdated": "22/04/2022"
+    }
+  }
+}

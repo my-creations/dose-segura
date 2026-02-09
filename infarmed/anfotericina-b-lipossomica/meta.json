@@ -1,0 +1,43 @@
+{
+  "medId": "anfotericina-b-lipossomica",
+  "searchTerm": "anfotericina B lipossomica",
+  "retrievedAt": "2026-02-08T00:00:00.000Z",
+  "bestMatch": {
+    "infarmedId": "5415815",
+    "name": "Ambisome Lipossomal",
+    "dci": "Anfotericina B",
+    "form": "Pó para dispersão para perfusão",
+    "dosage": "50 mg",
+    "holder": "Gilead Sciences Lda.",
+    "score": 1.0,
+    "generic": false,
+    "processNumber": "2/37/91",
+    "administration": ["Via intravenosa"],
+    "classification": {
+      "atc": "J02AA01 - amphotericin B",
+      "farmacoterapeutica": "1.2 - Antifúngicos"
+    },
+    "aimDate": "24/08/1992",
+    "lastUpdated": "19/02/2025"
+  },
+  "documents": {
+    "rcm": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "rcm/5415815-rcm.pdf",
+      "size": 138000,
+      "method": "POST with form state",
+      "lastUpdated": "19/02/2025"
+    },
+    "fi": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "fi/5415815-fi.pdf",
+      "size": 105000,
+      "method": "POST with form state",
+      "lastUpdated": "19/02/2025"
+    }
+  }
+}

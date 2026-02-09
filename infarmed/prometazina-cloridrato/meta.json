@@ -1,0 +1,31 @@
+{
+  "medId": "prometazina-cloridrato",
+  "searchTerm": "prometazina",
+  "retrievedAt": "2026-02-09T00:46:21.729Z",
+  "bestMatch": {
+    "infarmedId": "589147",
+    "name": "Prometazina BasiMG",
+    "dci": "Prometazina",
+    "form": "Solução injetável",
+    "dosage": "50 mg/2 ml",
+    "holder": "Laboratórios Basi - Indústria Farmacêutica, S.A",
+    "isGeneric": false,
+    "score": 170
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/589147-rcm.pdf",
+      "size": 122591
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/589147-fi.pdf",
+      "size": 116233
+    }
+  }
+}

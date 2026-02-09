@@ -1,0 +1,15 @@
+{
+  "bestMatch": {
+    "infarmedId": "4133",
+    "medicationName": "Haloperidol Teva MG",
+    "dci": "Haloperidol",
+    "form": "Solução injetável",
+    "dosage": "5 mg/1 ml",
+    "holder": "Teva Pharma, B.V.",
+    "searchTerm": "haloperidol"
+  },
+  "documents": {
+    "rcm": "rcm/4133-rcm.pdf",
+    "fi": "fi/4133-fi.pdf"
+  }
+}

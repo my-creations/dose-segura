@@ -1,0 +1,641 @@
+                                                                   APROVADO EM
+                                                                    14-02-2024
+                                                                    INFARMED
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1.     NOME DO MEDICAMENTO
+Alfentanilo Hameln, 0,5 mg/ml solução injetável
+
+2.     COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+1 ml de solução contém:
+543,8 microgramas de cloridrato de alfentanilo hidratado, equivalente a 500
+microgramas de alfentanilo
+Excipiente com efeito conhecido: 1 ml contém 0,15 mmol (3,54 mg) de sódio.
+Este medicamento contém:
+- 7,1 mg (ou 0,31 mmol) de sódio por ampola de 2 ml ou seja, essencialmente “livre
+de sódio”.
+- 35,4 mg (ou 1,54 mmol) de sódio por ampola de 10 ml, equivalente a 2% da dose
+diária máxima recomendada pela OMS de 2 g de sódio para um adulto.
+- 177 mg (ou 7,70 mmol) de sódio por frasco de 50 ml, equivalente a 9% da dose
+diária máxima recomendada pela OMS de 2 g de sódio para um adulto.
+
+Lista completa de excipientes, ver secção 6.1.
+
+3.    FORMA FARMACÊUTICA
+Solução injetável
+Solução límpida e incolor (pH 4,0 – 6,0)
+Osmolaridade: 270 – 310 mOsmol/kg
+
+4.     Informações clínicas
+4.1 Indicações terapêuticas
+Alfentanilo Hameln é indicado em adultos:
+- como suplemento analgésico para a indução de anestesia
+- como adjuvante na manutenção de anestesia geral
+Devido à sua ação rápida/curta, o alfentanilo é utilizado como analgésico opioide
+para procedimentos curtos e cirurgia em ambulatório, bem como enquanto
+suplemento analgésico para procedimentos de média e longa duração, uma vez que
+os períodos com mais dor podem ser tratados por pequenos suplementos de
+alfentanilo ou adaptando a velocidade de perfusão.
+Alfentanilo Hameln é indicado para utilização em recém-nascidos, bebés e crianças:
+como opioide em associação com um hipnótico para indução de anestesia
+                                                                  APROVADO EM
+                                                                   14-02-2024
+                                                                   INFARMED
+como analgésico narcótico em associação com anestesia geral e para procedimentos
+cirúrgicos curtos e longos
+4.2 Posologia e modo de administração
+A dosagem de Alfentanilo Hameln deve ser individualizada de acordo com a idade, o
+peso corporal, o estado físico, as patologias subjacentes, o consumo de outros
+fármacos, o tipo de cirurgia e a anestesia.
+Para evitar bradicardia, recomenda-se a administração de uma pequena dose
+intravenosa de um agente anticolinérgico logo antes da indução.
+Posologia
+Adultos
+Utilização como agente de indução
+Um bólus intravenoso com dose de 120 microgramas/kg (17 ml/70 kg) de alfentanilo
+induzirá a hipnose e a analgesia enquanto mantém a estabilidade cardiovascular em
+doentes com relaxamento muscular adequado.
+Para procedimentos curtos e utilização em ambulatório
+Pequenas doses de alfentanilo são adequadas para pequenos procedimentos
+cirúrgicos curtos mas dolorosos e em ambulatório, sempre com equipamento de
+monitorização adequado disponível.
+Um bólus intravenoso com dose de 7 a 15 microgramas/kg (1 a 2 ml/70 kg) será
+suficiente para procedimentos com duração inferior a 10 minutos. Se a duração do
+procedimento exceder 10 minutos, devem ser fornecidos incrementos adicionais de 7
+a 15 microgramas/kg (1 a 2 ml/70 kg) a cada 10 a 15 minutos ou conforme
+necessário.
+A respiração espontânea pode ser mantida na maioria dos casos com uma dose igual
+ou inferior a 7 microgramas/kg (1 ml/70 kg), injetada lentamente. Os incrementos
+sugeridos com esta técnica são de 3,5 microgramas/kg (0,5 ml/70 kg).
+Em caso de ocorrência de náuseas no pós-operatório, estas são de duração
+relativamente curta e facilmente controladas por medidas convencionais.
+Para procedimentos de média duração
+O bólus intravenoso com dose inicial deve ser adaptado à duração esperada do
+procedimento cirúrgico, conforme se segue:
+ duração do procedimento bólus IV com dose de alfentanilo
+ (minutos)               microgramas/kg            ml/70 kg
+ 10 a 30                 20 a 40                   3a6
+ 30 a 60                 40 a 80                   6 a 12
+ >60                     80 a 150                  12 a 20
+Quando a cirurgia é prolongada ou mais traumática, a analgesia pode ser mantida
+através de um dos seguintes métodos:
+                                                                       APROVADO EM
+                                                                        14-02-2024
+                                                                        INFARMED
+Incrementos de 15 microgramas/kg (2 ml/70 kg) de alfentanilo, quando necessário. Para
+evitar depressão respiratória no pós-operatório, a última dose de alfentanilo não deve
+ser administrada nos últimos 10 minutos da cirurgia; ou
+Perfusão de alfentanilo a uma velocidade de 1 micrograma/kg/minuto (0,14 ml/70
+kg/minuto) até 5 a 10 minutos antes da conclusão da cirurgia.
+Os períodos de estímulos muito dolorosos podem ser facilmente ultrapassados
+através de pequenos incrementos de alfentanilo ou do aumento temporário da
+velocidade de perfusão. Quando é utilizado alfentanilo sem protóxido de
+azoto/oxigénio ou outros agentes anestésicos por inalação, a dose de manutenção de
+alfentanilo deve ser aumentada.
+Para procedimentos longos (>2 horas)
+O alfentanilo pode ser utilizado como componente analgésico de anestesia para
+procedimentos cirúrgicos de longa duração, especialmente quando está indicada uma
+rápida extubação. As condições ideais de analgesia e do sistema autónomo com
+estabilidade mantêm-se através de uma dose intravenosa inicial adaptada
+individualmente e do ajuste da velocidade de perfusão à gravidade dos estímulos
+cirúrgicos e das reações dos doentes.
+População pediátrica
+Deve estar disponível equipamento de ventilação assistida para utilização em
+crianças de todas as idades mesmo em intervenções cirúrgicas de curta duração a
+crianças em respiração espontânea.
+Os dados em crianças, particularmente entre 1 mês e 1 ano de idade, são limitados
+(ver secção 5.2).
+Recém-nascidos (0-27 dias): A farmacocinética em recém-nascidos é muito variável,
+particularmente nos recém-nascidos pré-termo. A depuração e a ligação às proteínas
+são menores e pode ser necessária uma dose menor de alfentanilo. Os recém-
+nascidos devem ser cuidadosamente monitorizados e a dose de alfentanilo titulada
+em função da resposta.
+Lactentes e crianças (28 dias a 23 meses): A depuração pode ser superior em
+lactentes e crianças até aos 23 meses comparativamente aos adultos. Para a
+manutenção de analgesia a taxa de perfusão de alfentanilo pode necessitar de ser
+aumentada.
+Crianças (2 a 11 anos): A depuração pode ser ligeiramente superior em crianças e a
+taxa de perfusão pode ter que ser aumentada.
+Adolescentes: A farmacocinética de alfentanilo em adolescentes é semelhante à dos
+adultos e não são necessárias recomendações posológicas específicas.
+Recomendações posológicas para a população pediátrica
+A vasta variabilidade de resposta ao alfentanilo dificulta as recomendações
+posológicas em crianças mais novas. Em crianças mais velhas considera-se
+apropriado um bólus de 10 a 20 microgramas/kg de alfentanilo para induzir a
+anestesia (ou seja, para suplementar o propofol ou anestesia por inalação) ou como
+analgésico. Bólus suplementares de 5 a 10 microgramas/kg de alfentanilo podem ser
+administrados em intervalos apropriados.
+                                                                     APROVADO EM
+                                                                      14-02-2024
+                                                                      INFARMED
+
+Para manter a analgesia em crianças durante uma intervenção cirúrgica, pode ser
+administrada uma taxa de perfusão de Alfentanilo Hameln de 0,5 a 2
+microgramas/kg/minuto. A dose deve ser titulada para cima ou para baixo consoante
+as necessidades individuais do doente. Quando combinada com um agente
+anestésico intravenoso, a dose recomendada é de aproximadamente 1
+micrograma/kg/minuto.
+Pode haver um risco aumentado de complicações respiratórias e rigidez muscular
+quando é administrado alfentanilo a recém-nascidos e crianças muito novas. As
+precauções necessárias estão detalhadas na secção 4.4.
+Doentes idosos e debilitados
+A dose inicial deve ser devidamente reduzida em doentes idosos (> 65 anos) e
+debilitados. O efeito da dose inicial deve ser tido em consideração ao determinar
+doses suplementares.
+Modo de administração
+Alfentanilo Hameln é administrado por via intravenosa como injeção em bólus
+(procedimentos curtos) ou bólus suplementado por incrementos ou por perfusão
+(procedimentos cirúrgicos longos e dolorosos) e apenas deve ser administrado por
+profissionais com a devida formação na administração de anestésicos gerais e com
+monitorização dos efeitos de opioides potentes para a respiração.
+Alfentanilo Hameln pode ser misturado com uma solução de cloreto de sódio a 0,9%,
+solução de glicose a 5%, solução de glicose a 5% + cloreto de sódio a 0,9% ou
+solução de lactato de Ringer.
+Para instruções acerca da diluição do medicamento antes da administração, ver
+secção 6.6.
+4.3 Contraindicações
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados
+na secção 6.1 ou a outros opioides.
+4.4 Advertências e precauções especiais de utilização
+Tal como acontece com todos os opioides potentes:
+A depressão respiratória está relacionada com a dose e pode ser revertida por um
+antagonista opioide específico como a naloxona, mas podem ser necessárias doses
+adicionais deste último porque a depressão respiratória pode demorar mais tempo do
+que a duração da ação do antagonista opioide. A analgesia profunda é acompanhada
+por depressão respiratória marcada e perda de consciência, que pode persistir ou ser
+recorrente no período pós-operatório. Como tal, os doentes devem ser mantidos sob
+vigilância adequada. O equipamento de reanimação e os antagonistas opioides
+devem estar prontamente disponíveis. A hiperventilação durante a anestesia pode
+alterar as respostas do doente ao CO2, afetando assim a respiração no pós-
+operatório.
+Pode ocorrer indução de rigidez muscular, podendo envolver também os músculos
+torácicos, mas pode ser evitável através das seguintes medidas: injeção IV lenta
+                                                                      APROVADO EM
+                                                                       14-02-2024
+                                                                       INFARMED
+(geralmente suficiente para doses inferiores), pré-medicação com benzodiazepinas e
+utilização de relaxantes musculares.
+Podem surgir movimentos (mio)clónicos não epitéticos.
+Se o doente tiver recebido uma quantidade insuficiente de anticolinérgico, ou quando
+for combinado alfentanilo com relaxantes musculares não-vagolíticos, pode surgir
+bradicardia e possível paragem cardíaca. A bradicardia pode ser tratada com
+atropina.
+Os opioides podem induzir hipotensão, especialmente em doentes com hipovolémia.
+Devem ser tomadas medidas adequadas para manter uma tensão arterial estável.
+A administração de injeções de bólus de opioides rápidas deve ser evitada em
+doentes com compromisso da compliance intracerebral; nestes doentes, a diminuição
+transitória da tensão arterial média tem sido ocasionalmente acompanhada por uma
+redução da pressão de perfusão cerebral de curta duração.
+Risco devido ao uso concomitante de sedativos, como benzodiazepinas ou fármacos
+relacionado
+O uso concomitante de Alfentanilo Hameln e sedativos, como benzodiazepinas ou
+fármacos relacionado, pode resultar em sedação, depressão respiratória, coma e
+morte. Por causa destes riscos, a prescrição concomitante de medicamentos
+sedativos deve ser reservada a pacientes para os quais não haja opções de
+tratamento alternativas. Se for tomada a decisão de prescrição do Alfentanilo
+Hameln concomitantemente com de medicamentos sedativos, deve ser usada a dose
+efetiva mínima, e a duração do tratamento deve ser a mínima possível.
+Os pacientes devem ser acompanhados de perto, em busca de sinais e sintomas de
+depressão respiratória e sedação. A este respeito, recomenda-se fortemente que os
+pacientes e respetivos cuidadores informados e estejam conscientes destes sintomas
+(ver secção 4.5).
+Tolerância e distúrbio de uso de opioides (abuso e dependência)
+A administração repetida de opioides pode causar tolerância, dependência física e
+psicológica e pode levar a distúrbios de uso de opioides. Para todos os pacientes, a
+utilização prolongada deste produto pode levar à dependência (vício), mesmo em
+doses                                                                    terapêuticas.
+A utilização repetida de opioides pode levar ao distúrbio de uso de opioides (OUD). O
+abuso ou a utilização inadequada intencional de opioides pode resultar em
+sobredosagem e/ou morte. O risco de desenvolvimento de distúrbios de utilização de
+opioides é maior em doentes com historial pessoal ou familiar (pais ou irmãos) de
+distúrbios de utilização de substâncias (incluindo distúrbio de consumo de álcool),
+em consumidores habituais de tabaco ou em doentes com historial pessoal de outros
+problemas de saúde mental (por exemplo, depressão major, ansiedade e
+perturbação da personalidade).
+A dosagem deve ser reduzida em doentes idosos e debilitados.
+Os opioides devem ser titulados com precaução em doentes com qualquer das
+seguintes condições: hipotiroidismo não controlado; doença pulmonar; diminuição na
+reserva respiratória; alcoolismo; insuficiência hepática ou renal. Estes doentes
+também requerem monitorização prolongada no pós-operatório.
+                                                                      APROVADO EM
+                                                                       14-02-2024
+                                                                       INFARMED
+O alfentanilo pode produzir dependência, devido à sua estrutura química e às
+características morfinomiméticas. Quando for administrado alfentanilo apenas ao
+nível intraoperatório (conforme pretendido) como agente anestésico, não se espera
+que ocorra dependência.
+Hiperalgesia Induzida por Opioides
+A hiperalgesia induzida por opioides (HIO) é uma resposta paradoxal a um opioide,
+principalmente em altas doses ou com utilização crónica, em que há um aumento da
+perceção da dor apesar da exposição estável ou aumentada ao opioide. É diferente
+da tolerância, em que doses mais altas de opioides são necessárias para atingir o
+mesmo efeito analgésico ou tratar dores recorrentes. A OIH pode manifestar-se
+como níveis aumentados de dor, dor mais generalizada (ou seja, menos focal) ou dor
+de estímulos comuns (ou seja, não dolorosos) (alodinia), sem evidência de
+progressão da doença. Quando há suspeita de OIH, a dose de opioides deve ser
+reduzida ou diminuída gradualmente, se possível.
+População pediátrica
+Pode haver um risco aumentado de complicações respiratórias quando é
+administrado alfentanilo a recém-nascidos e crianças muito novas comparativamente
+com o uso em crianças mais velhas e adultos. Por este motivo, as crianças mais
+novas devem ser imediatamente monitorizados após o início da administração de
+alfentanilo. Deve estar disponível equipamento de ventilação assistida para utilização
+em crianças de todas as idades, mesmo para intervenções cirúrgicas de curta
+duração a crianças em respiração espontânea.
+Se for utilizado alfentanilo em recém-nascidos e lactentes, o uso simultâneo de um
+relaxante muscular deve ser considerado, devido ao risco de rigidez muscular. Todas
+as crianças devem ser monitorizadas por um período apropriado de tempo após a
+cessação do tratamento com alfentanilo, para garantir o retorno da respiração
+espontânea.
+Devido à variabilidade farmacocinética em recém-nascidos, pode ser necessária uma
+dose mais baixa de alfentanilo. Os recém-nascidos devem ser monitorizados e a dose
+de alfentanilo titulada de acordo com a resposta (ver secção 4.2).
+Este medicamento contém de sódio
+Esta informação deve ser tida em consideração em doentes com ingestão controlada
+de sódio.
+4.5 Interações medicamentosas e outras formas de interação
+Fármacos que alteram o efeito do alfentanilo
+Sedativos, como benzodiazepinas ou fármacos relacionados
+O uso concomitante de opiáceos com sedativos, como benzodiazepinas ou fármacos
+relacionados, aumenta o risco de sedação, depressão respiratória, coma e morte,
+devido à ação aditiva depressora do SNC. A dose e a duração do uso concomitante
+devem ser limitadas (ver secção 4.4).
+Outros depressores do Sistema Nervoso Central
+                                                                     APROVADO EM
+                                                                      14-02-2024
+                                                                      INFARMED
+Fármacos como os barbitúricos, os neuroléticos, os anestésicos gerais e outros
+depressores do SNC não seletivos (por exemplo: álcool) podem potenciar a
+depressão respiratória dos opioides.
+Quando tiverem sido administrados fármacos destes aos doentes, a dose de
+alfentanilo necessária será inferior ao normal. O uso concomitante de alfentanilo em
+pacientes com respiração espontânea pode aumentar o risco de depressão
+respiratória, sedação profunda, coma e morte (ver secção 4.4). A utilização
+concomitante de opioides e gabapentinoides (gabapentina e pregabalina) aumenta o
+risco de sobredosagem com opioides, depressão respiratória e morte.
+Efeito de alfentanilo em outros fármacos
+No seguimento da administração do alfentanilo, a dose de outros fármacos
+depressores do SNS deve ser reduzida. Isso é particularmente importante após a
+cirurgia, uma vez que uma analgesia significativa é acompanhada de depressão
+respiratória visível, que pode persistir ou recorrer no período pós-operatório. A
+administração de um depressor do SNS durante este período, como uma
+benzodiazepina, pode aumentar desproporcionalmente o risco de depressão
+respiratória (ver acima).
+Inibidores do citocroma P450 3A4 (CYP3A4)
+O alfentanilo é metabolizado principalmente através da enzima 3A4 do citocromo
+P450 em humanos. Os dados in vitro sugerem que os potentes inibidores da enzima
+3A4 do citocromo P450 (por exemplo: cetoconazol, itraconazol, ritonavir) podem
+inibir o metabolismo de alfentanilo. Há dados farmacocinéticos disponíveis que
+indicam que o metabolismo de alfentanilo em humanos é inibido por fluconazol,
+voriconazol, eritromicina, diltiazem e cimetidina (conhecidos inibidores da enzima
+3A4 do citocromo P450). Isto pode aumentar o risco de depressão respiratória
+prolongada ou tardia. A administração concomitante destes fármacos requer
+observação e cuidados especiais ao doente; em particular, pode ser necessário
+reduzir a dose de alfentanilo.
+Inibidores da monoamina oxidase (IMAO)
+Normalmente, recomenda-se descontinuar os inibidores MAO 2 semanas antes de
+qualquer procedimento cirúrgico ou anestésico.
+Medicamentos serotoninérgicos
+A coadministração de alfentanilo com um agente serotoninérgico, como inibidores
+seletivos de recaptação de serotonina (ISRS), inibidores seletivos da recaptação da
+serotonina e da noradrenalina (ISRSN) ou os inibidores da monoamina oxidase
+(IMAO), pode aumentar o risco de índrome de serotonina, um problema
+potencialmente fatal.
+Efeito do alfentanilo no metabolismo de outros fármacos
+Em combinação com alfentanilo, as concentrações sanguíneas de propofol são 17%
+superiores comparativamente à ausência de alfentanilo. A administração
+concomitante de alfentanilo e propofol pode requerer uma dose inferior de
+alfentanilo.
+4.6 Fertilidade, gravidez e aleitamento
+Gravidez
+                                                                        APROVADO EM
+                                                                         14-02-2024
+                                                                         INFARMED
+Não há dados suficientes disponíveis para avaliar quaisquer efeitos nocivos em
+humanos. Não foram observados efeitos teratogénicos ou embriotóxicos agudos em
+ensaios com animais. A utilização de alfentanilo durante a gravidez não é
+recomendada e devem ser tidos em consideração os possíveis riscos e potenciais
+benefícios antes da administração deste medicamento a doentes grávidas.
+A utilização de opioides a longo prazo durante a gravidez está associada ao risco da
+síndrome de abstinência neonatal, a qual pode ser fatal se não for reconhecida e
+tratada.
+A administração intravenosa durante o parto (incluindo cesariana) não é
+recomendada, na medida que o alfentanilo atravessa a placenta e devido ao facto de
+o centro respiratório fetal ser particularmente sensível a opioides. Se, no entanto, for
+administrado alfentanilo, deve estar disponível equipamento de ventilação assistida
+de imediato para utilização em caso de necessidade. Tem de haver sempre
+disponível um antagonista opioide para crianças. A semivida do antagonista opioide
+pode ser inferir à do alfentanilo, pelo que tem de ser considerada a administração
+repetida do antagonista opioide.
+Amamentação
+O alfentanilo é excretado no leite humano em concentrações muito baixas. Como tal,
+recomenda-se a interrupção da amamentação durante 24 horas após a
+administração de alfentanilo.
+Fertilidade
+Os dados disponíveis sobre os efeitos do alfentanilo na fertilidade masculina ou
+feminina em humanos são limitados.
+Há estudos em animais que não indicam efeitos nocivos diretos no que se refere à
+fertilidade (ver secção 5.3).
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+Os efeitos de alfentanilo sobre a capacidade de conduzir e utilizar máquinas são
+consideráveis.
+Nos casos em que seja expectável a antecipação de alta médica, os doentes devem
+ser aconselhados a não conduzir ou operar máquinas, pelo menos, nas 24 horas
+após a administração.
+4.8 Efeitos indesejáveis
+A segurança do alfentanilo foi avaliada em 1157 indivíduos que participaram em 18
+ensaios clínicos. Foi administrado alfentanilo como agente de indução anestésico ou
+como adjuvante de anestesia/analgésico em anestesia local e geral, em
+procedimentos cirúrgicos curtos, médios e longos. A estes indivíduos foi
+administrada, pelo menos, uma dose de alfentanilo e foram fornecidos dados de
+segurança.
+As reações adversas mais frequentes reportadas a partir destes ensaios clínicos
+(incidência de efeitos indesejáveis ≥ 5%) foram: náuseas (17%), vómitos (14%),
+apneia (8,6%), bradicardia (5,4%) e perturbações do movimento (7,9%).
+                                                                      APROVADO EM
+                                                                       14-02-2024
+                                                                       INFARMED
+As reações adversas de ensaios clínicos ou da experiência após introdução no
+mercado relacionadas com alfentanilo são ordenadas por frequência conforme se
+segue: muito frequentes (≥1/10); frequentes (≥1/100 a <1/10); pouco frequentes
+(≥1/1.000 a <1/100); raras (≥1/10.000 a <1/1.000); muito raras (<1/10.000); e
+desconhecidas (as frequências não podem ser calculadas a partir dos dados de
+ensaios clínicos disponíveis).
+Doenças do sistema imunitário
+Muito raras: hipersensibilidade (incluindo reação anafilática, reação anafilactoide e
+urticária)
+Perturbações do foro psiquiátrico
+Frequentes: estado eufórico
+Raras: agitação, choro
+Muito raras: desorientação
+Doenças do sistema nervoso
+Frequentes: perturbações do movimento, tonturas, sedação, discinesia
+Pouco frequentes: cefaleia, sonolência, falta de reação aos estímulos
+Muito raras: perda de consciência (durante o período pós-operatório), convulsão,
+mioclonia
+Afecções oculares
+Frequentes: perturbação visual
+Muito raras: miose
+Cardiopatias
+Frequentes: bradicardia, taquicardia
+Pouco frequentes: arritmia, diminuição do ritmo cardíaco
+Muito raras: paragem cardíaca
+Vasculopatias
+Frequentes: hipotensão, hipertensão
+Raras: dor venosa
+Doenças respiratórias, torácicas e do mediastino
+Frequentes: apneia
+Pouco frequentes: soluços, hipercapnia, laringospasmo, depressão respiratória
+(incluindo desfecho fatal)
+Raras: broncospasmo, epistaxe
+Muito raras: paragem respiratória, tosse
+Doenças gastrointestinais
+Muito frequentes: náuseas, vómitos
+Afecções dos tecidos cutâneos e subcutâneos
+Pouco frequentes: dermatite alérgica, hiperidrose
+Raras: prurido
+Muito raras: eritema, erupção cutânea
+Afecções musculosqueléticas e dos tecidos conjuntivos
+Frequentes: rigidez muscular
+                                                                    APROVADO EM
+                                                                     14-02-2024
+                                                                     INFARMED
+
+Perturbações gerais e alterações no local de administração
+Frequentes: fadiga, calafrios, dor no local da injeção
+Pouco frequentes: dor
+Muito raras: pirexia
+Complicações de intervenções relacionadas com lesões e intoxicações
+Frequentes: dor relacionada com o procedimento
+Pouco frequentes: confusão no pós-operatório, agitação no pós-operatório,
+complicação nas vias aéreas relacionada com a anestesia
+Raras: complicação anestésica, complicação neurológica relacionada com o
+procedimento, complicação relacionada com intubação endotraqueal
+População pediátrica
+É expectável que a frequência, o tipo e a gravidade das reações adversas em
+crianças sejam as mesmas que as verificadas em adultos, com exceção do que se
+segue:
+Verificou-se rigidez muscular leve a moderada com frequência em recém-nascidos,
+embora o número de recém-nascidos incluído em estudos clínicos fosse muito
+pequeno. Pode ocorrer rigidez grave e movimentos involuntários com menos
+frequência e estes podem ser acompanhados por perturbação transitória da
+ventilação, especialmente com doses elevadas de alfentanilo ou com uma rápida
+velocidade de injeção intravenosa.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-
+risco do medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer
+suspeitas de reações adversas diretamente ao:
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+E-mail: farmacovigilancia@infarmed.pt
+4.9 Sobredosagem
+Sinais e sintomas
+As manifestações de sobredosagem de alfentanilo são uma extensão das respetivas
+ações farmacológicas. Dependendo da sensibilidade individual, o quadro clínico é
+determinado principalmente pelo grau de depressão respiratória, que varia entre a
+bradipneia e a apneia.
+Tratamento
+Em caso de hipoventilação ou apneia, deve ser administrado oxigénio e a respiração
+deve ser assistida ou controlada conforme indicado. Deve ser utilizado um
+antagonista opioide específico, como a naloxona, conforme indicado para controlar a
+depressão respiratória. Isto não exclui a utilização de outras medidas mais
+                                                                      APROVADO EM
+                                                                       14-02-2024
+                                                                       INFARMED
+imediatas. A depressão respiratória pode durar mais tempo do que o efeito do
+antagonista, pelo que podem ser necessárias doses adicionais deste último.
+Se a depressão respiratória estiver associada a rigidez muscular, pode ser necessário
+um agente intravenoso de bloqueio neuromuscular para facilitar a respiração
+assistida ou controlada.
+O doente deve ser cuidadosamente observado, devendo ser mantida a temperatura
+corporal e a ingestão de líquidos conforme adequado. Em caso de hipotensão grave
+ou persistente, deve ser considerada a possibilidade de hipovolemia; se presente,
+deve ser controlada através da administração parentérica de líquidos conforme
+adequado.
+
+5.      PROPRIEDADES FARMACOLÓGICAS
+5.1 Propriedades farmacodinâmicas
+Grupo farmacoterapêutico: 2.12 - Analgésicos estupefacientes
+Código ATC: N01AH02 (alfentanilo)
+O alfentanilo é um potente analgésico opioide sintético de curta ação com efeitos
+farmacológicos µ-agonistas estruturalmente relacionado com o fentanilo. Após
+administração intravenosa de alfentanilo, a ação é quase instantânea; o início da
+ação dá-se com apenas um quarto do necessário para uma dose equianalgésica de
+fentanilo. O efeito máximo de depressão respiratória e analgésico ocorre no espaço
+de 1-2 minutos (30 minutos com morfina).
+A duração da ação do alfentanilo é de apenas um terço da verificada com uma dose
+equianalgésica de fentanilo e está claramente relacionada com a dose. Para
+analgesia com duração superior a 60 minutos, é preferível uma perfusão. Os seus
+efeitos depressores na velocidade respiratória e na ventilação alveolar também têm
+uma duração mais curta do que os do fentanilo; na maioria dos casos, a duração da
+analgesia excede a da depressão respiratória. A duração e o grau de depressão
+respiratória tendem a estar relacionados com a dose.
+As doses elevadas (>120 µg/kg) de alfentanilo induzem o sono e podem ser
+utilizadas para indução da anestesia. A indução é suave, sem dor e isenta de
+respostas de stress cardiovascular e hormonal à intubação.
+Tal como acontece com outros analgésicos opioides, o alfentanilo pode, dependendo
+da dose e da velocidade de administração, provocar rigidez muscular, bem como
+euforia, miose e bradicardia.
+Com doses de até 200 microgramas/kg, o alfentanilo não produziu um aumento
+significativo nos níveis de histamina ou evidências clínicas de libertação de
+histamina.
+A recuperação após a administração de alfentanilo é rápida e suave, com uma baixa
+incidência de náuseas e vómitos no pós-operatório.
+Todas as ações do alfentanilo são reversíveis de modo imediato e completo através
+de um antagonista opioide específico como a naloxona.
+5.2 Propriedades farmacocinéticas
+                                                                      APROVADO EM
+                                                                       14-02-2024
+                                                                       INFARMED
+
+O alfentanilo é um opioide sintético com efeitos farmacológicos µ-agonistas.
+Distribuição
+As semividas de distribuição sequencial de alfentanilo são 0,4-2,2 min. e 8-32 min. O
+baixo grau de ionização (11% com pH = 7,4) contribui para uma distribuição rápida
+mas limitada nos tecidos. Os volumes de distribuição reportados são 1,27-4,81 L
+(volume de distribuição do compartimento central) e 12,1-98,2 L (volume de
+distribuição no regime estacionário). A ligação às proteínas de plasma do alfentanilo
+é de cerca de 92%.
+Metabolismo
+O alfentanilo é principalmente metabolizado no fígado. Apenas é encontrado 1% de
+alfentanilo não alterado na urina. Os metabolitos são inativos e 70-80% destes são
+eliminados através da urina.
+Eliminação
+O alfentanilo é rapidamente eliminado após administração intravenosa. Foram
+reportadas semividas de eliminação terminal de 83-223 minutos. A depuração
+plasmática em indivíduos jovens tem uma média de 356 ml/min e diminui com a
+idade. Apenas é encontrado 1% de alfentanilo não alterado na urina. Quando tiver
+sido atingido o regime estacionário após a perfusão, a semivida de eliminação
+mantém-se inalterada. Geralmente, a recuperação do doente ocorre com rapidez
+após suspensão do alfentanilo sem efeitos secundários de opioides.
+Populações especiais
+População pediátrica
+Os dados em crianças são limitados. Os valores dos parâmetros farmacocinéticos são
+listados na tabela abaixo.
+Parâmetros farmacocinéticos de alfentanilo na população pediátrica
+                                  t1/2β             CL           Vdss
+                                  (h)               (ml/kg/min.) (l/kg)
+Recém-nascidos pré-termo (0-27 0,7-8,8              0,9-8,4      0,3-1,2
+dias)
+Idade gestacional 25-40 semanas;
+n= 68
+Recém-nascidos de termo (0-27 4,1-5,5               1,7-3,2          0,5-0,8
+dias)
+Idade gestacional: 35-41 semanas;
+n= 18
+Lactentes e crianças              0,9-1,2           7,7-13,1         0,4-1,1
+28 dias - 23 meses; n= 34
+Crianças                          0,7-1,3           4,7-10,2         0,2-1,0
+2-11 anos; n= 32
+Adolescentes                      1,1-1,9           5,5-7,4          0,3-0,6
+                                                                     APROVADO EM
+                                                                      14-02-2024
+                                                                      INFARMED
+12-14 anos; n= 3
+Nota: Os dados para recém-nascidos, lactentes e crianças são fornecidos em
+intervalos de valores médios.
+CL = depuração; Vdss = volume de distribuição no estado estacionário; t1/2β =
+tempo de semivida na fase de eliminação.
+A ligação às proteínas é de 75% em recém nascidos e aumenta para 85% em
+crianças. A informação acerca da farmacocinética de alfentanilo em crianças é
+limitada. O alfentanilo é metabolizado pela CYP3A4. A atividade da CYP3A4 é baixa
+em recém-nascidos e aumenta após o nascimento para atingir 30 a 40% dos níveis
+dos adultos no 1° mês de idade.
+Compromisso hepático
+Após a administração de uma única dose intravenosa de 50 microgramas/kg, a
+semivida terminal em doentes com cirrose é significativamente superior à verificada
+em grupos de controlo. O volume de distribuição mantém-se inalterado. A fração
+livre de alfentanilo aumenta em doentes com cirrose para 18,5% comparativamente
+a 11,5% em grupos de controlo. Este aumento na fração livre, juntamente com uma
+redução na depuração de 3,06 ml/min./kg em grupos de controlo para 1,60
+ml/min./kg em doentes com cirrose, resultará num efeito mais prolongado e
+pronunciado (ver secção 4.4.).
+Compromisso renal
+O volume de distribuição e depuração da fração livre é semelhante em doentes com
+insuficiência renal e grupos de controlo saudáveis. A fração livre de alfentanilo em
+doentes com insuficiência renal aumenta para 12,4 a 19% comparativamente aos
+10,3 a 11% em grupos de controlo. Isto pode resultar num aumento do efeito clínico
+do alfentanilo (ver secção 4.4.).
+Dados de segurança pré-clínica
+Apenas se observaram efeitos não clínicos a partir de níveis de exposição
+considerados suficientemente excessivos em relação ao nível máximo de exposição
+humana, pelo que se revelam pouco pertinentes para a utilização clínica.
+O alfentanilo não demonstrou potencial mutagénico em testes in vitro (ensaio de
+Ames) e in vivo (micronúcleos e gene letal dominante). Estudos de toxicidade
+reprodutiva realizados em ratazanas e coelhos não revelaram teratogenicidade.
+Foram observados efeitos embriocidas associados a toxicidade materna.
+
+6.     INFORMAÇÕES FARMACÊUTICAS
+6.1 Lista dos excipientes
+Cloreto de sódio, ácido clorídrico (para ajuste do pH) e água para preparações
+injetáveis
+6.2 Incompatibilidades
+Este medicamento não pode ser misturado com outros medicamentos, exceto os
+mencionados na secção 6.6.
+                                                                    APROVADO EM
+                                                                     14-02-2024
+                                                                     INFARMED
+
+6.3 Prazo de validade
+Prazo de validade antes da primeira abertura
+3 anos.
+Prazo de validade após diluição
+A estabilidade química e física em utilização de diluições (ver secção 6.6) foi
+demonstrada durante 48 horas a 25 °C.
+Do ponto de vista microbiológico, as diluições devem ser utilizadas de imediato.
+Se não forem utilizadas de imediato, as condições e os tempos de conservação em
+utilização antes de serem utilizadas são da responsabilidade do utilizador e,
+normalmente, não ultrapassariam 24 horas entre 2 e 8 °C, salvo se a diluição tiver
+sido realizada em condições assépticas controladas e validadas.
+Prazo de validade após a primeira abertura
+O produto deve ser utilizado de imediato após a abertura do recipiente.
+6.4 Precauções especiais de conservação
+Não são necessárias precauções especiais de conservação.
+Condições de conservação do medicamento após diluição, ver secção 6.3.
+6.5 Natureza e conteúdo do recipiente
+2 ml e 10 ml em ampolas de vidro incolor (tipo I)
+50 ml em frascos de vidro incolor (tipo I) com tampa de borracha de bromobutilo e
+cápsula de alumínio
+Tamanhos da embalagem:
+Embalagem com 5 / 10 ampolas de 2 ml cada
+Embalagem com 5 / 10 ampolas de 10 ml cada
+Embalagem com 1 / 5 / 10 frascos de 50 ml cada
+É possível que não sejam comercializadas todas as apresentações.
+6.6 Precauções especiais de eliminação e manuseamento
+Alfentanilo Hameln pode ser diluído com uma solução de cloreto de sódio a 0,9%,
+solução de glicose a 5%, solução de glicose a 5% + cloreto de sódio a 0,9% ou
+solução de lactato de Ringer, com uma concentração de 25-80 microgramas/ml.
+Estas diluições são compatíveis com sacos de plástico e conjuntos de administração.
+Qualquer solução não utilizada de ampolas ou frascos abertos deve ser eliminada.
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo
+com as exigências locais.
+
+7.    TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+                                                        APROVADO EM
+                                                         14-02-2024
+                                                         INFARMED
+
+hameln pharma gmbh
+Inselstraße 1
+31787 Hameln
+Alemanha
+8.     NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+5 x 2 ml: 5695218
+10 x 2 ml: 5695234
+5 x 10 ml: 5737622
+10 x 10 ml: 5737630
+1 x 50 ml: 5737648
+
+9.    DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+Data de primeira autorização: 18 Janeiro 2018
+
+10.   DATA DA REVISÃO DO TEXTO
+

@@ -1,0 +1,26 @@
+{
+  "medId": "clorazepato",
+  "searchTerm": "clorazepato",
+  "retrievedAt": "2026-02-08T19:55:00.000Z",
+  "bestMatch": {
+    "infarmedId": "8645",
+    "name": "Tranxene",
+    "dci": "Clorazepato dipotássico",
+    "form": "Pó e solvente para solução injetável",
+    "dosage": "100 mg/5 ml",
+    "holder": "Sanofi-Aventis - Produtos Farmacêuticos, S.A",
+    "score": 1.0
+  },
+  "documents": {
+    "rcm": {
+      "status": "success",
+      "contentType": "application/pdf",
+      "file": "infarmed/clorazepato/rcm/8645-rcm.pdf"
+    },
+    "fi": {
+      "status": "success",
+      "contentType": "application/pdf",
+      "file": "infarmed/clorazepato/fi/8645-fi.pdf"
+    }
+  }
+}

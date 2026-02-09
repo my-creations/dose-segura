@@ -1,31 +1,31 @@
 {
   "medId": "propofol",
-  "searchTerm": "Propofol",
-  "retrievedAt": "2026-02-07T23:00:33Z",
+  "searchTerm": "propofol",
+  "retrievedAt": "2026-02-09T00:46:31.135Z",
   "bestMatch": {
-    "infarmedId": "50368",
-    "name": "Propofol Baxter MG",
+    "infarmedId": "38954",
+    "name": "Propofol 1% MCT/LCT Fresenius",
     "dci": "Propofol",
     "form": "Emulsão injetável ou para perfusão",
     "dosage": "10 mg/ml",
-    "holder": "Baxter Holding BV",
-    "isGeneric": true,
-    "score": 129.64
+    "holder": "Fresenius Kabi Pharma Portugal, Lda.",
+    "isGeneric": false,
+    "score": 170
   },
   "documents": {
     "rcm": {
       "status": 200,
       "contentType": "application/pdf",
       "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
-      "file": "/Users/pedrorobalo/Documents/Personal/dose-segura/infarmed/propofol/rcm/50368-rcm.pdf",
-      "size": 87243
+      "file": "rcm/38954-rcm.pdf",
+      "size": 258299
     },
     "fi": {
       "status": 200,
       "contentType": "application/pdf",
       "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
-      "file": "/Users/pedrorobalo/Documents/Personal/dose-segura/infarmed/propofol/fi/50368-fi.pdf",
-      "size": 286358
+      "file": "fi/38954-fi.pdf",
+      "size": 116308
     }
   }
 }

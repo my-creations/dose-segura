@@ -1,0 +1,438 @@
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+
+1. NOME DO MEDICAMENTO
+
+Besilato de Atracúrio Basi 10 mg/ml solução injetável
+
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada ampola contém:
+25 mg de Besilato de Atracúrio em 2.5 ml de solução injetável;
+50 mg de Besilato de Atracúrio em 5 ml de solução injetável.
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+3. FORMA FARMACÊUTICA
+
+Solução injetável.
+
+
+4. INFORMAÇÕES CLÍNICAS
+
+4.1 Indicações terapêuticas
+
+O Besilato de Atracúrio Basi 10mg/ml Solução Injetável é um bloqueador
+neuromuscular altamente seletivo, competitivo e não despolarizante. É utilizado como
+coadjuvante na anestesia geral com o objetivo de permitir a intubação traqueal e o
+relaxamento dos músculos esqueléticos durante a cirurgia ou durante a ventilação
+controlada, e para facilitar a ventilação mecânica de doentes em Unidades de Cuidados
+Intensivos (UCI).
+
+4.2 Posologia e modo de administração
+
+Administração por injeção em adultos
+O Besilato de Atracúrio Basi 10mg/ml Solução Injetável administra-se por via
+intravenosa. A doses recomendada para os adultos é de 0.3 a 0.6 mg/Kg (dependendo da
+duração pretendida do bloqueio completo), proporcionando o relaxamento adequado
+entre 15 a 35 minutos.
+
+A intubação endotraqueal pode ser efetuada, geralmente, após 90 segundos da injeção
+intravenosa de 0.5 a 0.6 mg/Kg.
+
+O bloqueio completo pode prolongar-se através de doses suplementares de 0.1 a 0.2
+mg/Kg conforme seja necessário. A administração suplementar sucessiva não origina
+aumento da acumulação do efeito bloqueante neuromuscular.
+A recuperação espontânea desde o fim do bloqueio completo ocorre passados 35
+minutos, sendo determinada pela restauração da resposta tetânica de 95% da função
+neuromuscular normal.
+O bloqueio neuromuscular produzido pelo Besilato de Atracúrio Basi 10mg/ml Solução
+Injetável pode ser rapidamente revertido por doses padronizadas de agentes
+anticolinérgicos, tais como a neostigmina e o edrofónio, associados ou precedidos de
+atropina, sem evidência de recurarização.
+
+Administração em perfusão intravenosa em adultos:
+Após uma dose inicial de 0.3 a 0.6 mg/Kg, o Besilato de Atracúrio Basi 10mg/ml
+Solução Injetável pode ser utilizado na manutenção do bloqueio neuromuscular durante
+procedimentos cirúrgicos de longa duração através da administração em perfusão
+contínua a uma velocidade de 0.3 a 0.6 mg/kg/h.
+
+O Besilato de Atracúrio Basi 10mg/ml Solução Injetável pode administrar-se em
+perfusão intravenosa durante a cirurgia de by pass cardiovascular nas velocidades de
+perfusão recomendadas. A hipotermia induzida a uma temperatura corporal de 25ºC -
+26ºC, reduz a velocidade de inativação do besilato de atracúrio, pelo que, nestas
+temperaturas reduzidas, o bloqueio neuromuscular completo pode ser mantido com
+aproximadamente metade da velocidade de perfusão original.
+
+Administração em doentes em Unidade de Cuidados Intensivos:
+Após uma dose inicial em bólus de 0.3 a 0.6 mg/Kg, o Besilato de Atracúrio Basi
+10mg/ml Solução Injetável pode utilizar-se para manutenção do bloqueio
+neuromuscular administrando uma perfusão IV contínua nas velocidades compreendidas
+entre 11 e 13 mg/Kg/min (0.65 – 0.78 mg/Kg/hora). No entanto, existe uma grande
+variabilidade entre os doentes quanto à dose requerida. A dose requerida pode variar
+com o tempo. Em alguns doentes são necessárias velocidades de perfusão tão baixas
+como 4.5 mg/Kg/min (0.27 mg/Kg/h) ou velocidades elevadas como 29.5 mg/Kg/min
+(1.77 mg/Kg/h).
+
+A velocidade de recuperação espontânea do bloqueio neuromuscular após perfusão
+intravenosa do Besilato de Atracúrio Basi 10mg/ml Solução Injetável em doentes em
+UCI é independente da duração da administração. Para um quociente "train-of-four"
+superior a 0.75 (quociente entre a altura da quarta até à primeira contração no train-of-
+four), é possível esperar uma recuperação espontânea em aproximadamente 60 minutos.
+Nos ensaios clínicos observou-se uma variação de 31 - 108 minutos.
+
+População pediátrica
+A dosagem em crianças com idade superior a um mês é similar à dos adultos, tendo em
+conta o peso corporal.
+
+Idosos
+Nestes doentes pode utilizar-se o Besilato de Atracúrio Basi 10mg/ml Solução Injetável
+nas doses padronizadas, no entanto, recomenda-se que a dose inicial seja a
+correspondente ao limite inferior do intervalo recomendado, sendo esta administrada
+lentamente.
+
+Uso em doentes cardiovasculares:
+Em doentes com doença cardiovascular clinicamente significativa, a dose inicial deverá
+ser administrada ao longo de um período de 60 segundos.
+
+Insuficiência renal e/ou hepática:
+O Besilato de Atracúrio Basi 10mg/ml Solução Injetável pode ser administrado nas
+doses padronizadas recomendadas em todos os níveis de insuficiência renal ou hepática,
+incluindo a falência terminal.
+
+Monitorização:
+À semelhança de outros agentes de bloqueio neuromuscular, recomenda-se a
+monitorização da função neuromuscular durante a utilização desta especialidade, com o
+objetivo de individualizar a dose requerida.
+
+4.3 Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na
+secção 6.1.
+
+4.4 Advertências e precauções especiais de utilização
+
+Tal como outros agentes de bloqueio neuromuscular, o Besilato de Atracúrio Basi
+10mg/ml Solução Injetável paralisa os músculos respiratórios assim como outros
+músculos esqueléticos, não apresentando efeitos sobre a consciência. Deve administrar-
+se unicamente com anestesia geral adequada e mediante ou sob supervisão de um
+anestesista experiente, nas condições adequadas para intubação endotraqueal e
+ventilação artificial.
+
+À semelhança de outros agentes de bloqueio neuromuscular, durante a administração do
+Besilato de Atracúrio Basi 10mg/ml Solução Injetável existe a possibilidade de
+libertação de histamina em doentes suscetíveis. Deverá administrar-se com precaução
+em doentes com história clínica sugestiva de sensibilidade aumentada aos efeitos da
+histamina.
+
+No intervalo de doses recomendado, o Besilato de Atracúrio Basi 10mg/ml Solução
+Injetável não apresenta propriedades de bloqueio vagal ou ganglionar significativas.
+Consequentemente, não mostra efeitos significativos na frequência cardíaca nas doses
+recomendadas, não contrariando a bradicardia produzida por muitos agentes anestésicos
+ou por estimulação vagal durante a cirurgia.
+
+Tal como outros agentes de bloqueio neuromuscular não despolarizantes, poderá prever-
+se um aumento da sensibilidade ao besilato de atracúrio em alguns doentes com
+miastenia gravis ou com outras doenças neuromusculares, bem como doentes com
+desequilíbrio eletrolítico grave.
+
+O Besilato de Atracúrio Basi 10mg/ml Solução Injetável deve administrar-se durante
+um período de 60 segundos em doentes anormalmente sensíveis às descidas de pressão
+sanguínea, como por exemplo, os hipovolémicos.
+O Besilato de Atracúrio Basi 10mg/ml Solução Injetável é inativado a pH elevado, pelo
+que, não deverá misturar-se na mesma seringa com tiopental ou qualquer agente
+alcalino.
+
+Ao selecionar uma pequena veia como local de injeção, o Besilato de Atracúrio Basi
+10mg/ml Solução Injetável deve ser eliminado da mesma após a injeção, através de soro
+fisiológico. Quando outros anestésicos são administrados através da mesma agulha ou
+cânula que o Besilato de Atracúrio Basi 10mg/ml Solução Injetável, é importante que
+após utilização de cada fármaco se proceda à lavagem da veia com um volume
+adequado de soro fisiológico.
+
+O Besilato de Atracúrio Basi 10mg/ml Solução Injetável é hipotónico, pelo que não
+deve ser administrado no mesmo tubo de perfusão de uma transfusão sanguínea.
+
+Estudos de hipertermia maligna em animais suscetíveis (suínos) e estudos clínicos em
+doentes suscetíveis a esta patologia indicam que esta especialidade não desencadeia este
+síndroma.
+
+Tal como em outros agentes bloqueadores neuromusculares não despolarizantes, poderá
+desenvolver-se resistência em doentes com queimaduras. Tais doentes poderão requerer
+um aumento da dose dependendo do tempo decorrido desde a queimadura e da sua
+extensão.
+
+A administração de doses elevadas em animais de laboratório provocou hipotensão
+transitória e, em algumas espécies, efeitos excitatórios cerebrais associados à
+laudanosina, metabolito do besilato de atracúrio. Embora tenham sido observadas
+convulsões em doentes internados em UCI sujeitos a terapêutica com besilato de
+atracúrio, estas não foram atribuídas em nenhum dos casos à laudanosina.
+
+4.5 Interações medicamentosas e outras formas de interação
+
+O bloqueio neuromuscular produzido pelo Besilato de Atracúrio Basi 10mg/ml Solução
+Injetável pode aumentar devido ao uso concomitante de anestésicos inalatórios tais
+como o halotano, isoflurano e enflurano.
+
+Do mesmo modo que outros agentes de bloqueio neuromuscular não despolarizantes, a
+magnitude e/ou duração do bloqueio neuromuscular despolarizante do Besilato de
+Atracúrio Basi 10mg/ml Solução Injetável pode aumentar como resultado da interação
+com:
+
+Antibióticos, incluindo aminoglicosidos, polimixinas, espectinomicina, tetraciclina,
+lincomicina e clindamicina.
+Fármacos antiarrítmicos: propanolol, bloqueadores dos canais de cálcio, lidocaína,
+procaínamida e quinidina.
+Diuréticos: furosemida e possivelmente manitol, diuréticos tiazídicos e acetazolamida.
+Sulfato de magnésio.
+Cetamina.
+Sais de lítio.
+Bloqueadores ganglionares: trimetafano e hexametónio.
+Raramente, certos fármacos podem agravar ou expor a miastenia gravis latente ou
+mesmo induzir um síndrome miasténico. O aumento da sensibilidade ao Besilato de
+Atracúrio Basi 10mg/ml Solução Injetável pode ser uma consequência deste
+desenvolvimento. Estes fármacos incluem vários antibióticos, beta-bloqueadores
+(propanolol, oxprenolol), fármacos antiarrítmicos (procaínamida, quinidina), fármacos
+anti-reumáticos (cloroquina, D-penicilamina), trimetafano, clorpromazina, esteróides,
+fenitoína e lítio.
+
+Em doentes sujeitos a terapêutica anticonvulsionante crónica, o início do bloqueio
+neuromuscular não despolarizante poderá ser atrasado, sendo a sua duração mais
+reduzida.
+
+A administração de associações de agentes de bloqueio neuromuscular não
+despolarizante juntamente com o Besilato de Atracúrio Basi 10mg/ml Solução Injetável
+pode produzir um grau de bloqueio neuromuscular excessivo, quando comparado com o
+obtido com a administração de uma dose total equipotente de Besilato de Atracúrio Basi
+10mg/ml Solução Injetável. Qualquer efeito sinérgico pode variar entre as diferentes
+associações de fármacos.
+
+Não deve administrar-se um relaxante muscular despolarizante como o cloreto de
+suxametónio com o objetivo de prolongar os efeitos bloqueadores musculares dos
+agentes não despolarizantes, tais como o besilato de atracúrio, uma vez que pode
+ocorrer um bloqueio prolongado e complexo, difícil de reverter com fármacos
+anticolinérgicos.
+
+4.6 Fertilidade, gravidez e aleitamento
+
+Gravidez
+Tal como outros agentes de bloqueio neuromuscular, o Besilato de Atracúrio Basi
+10mg/ml Solução Injetável deverá utilizar-se durante a gravidez unicamente se o
+potencial benefício para a mãe se sobrepor aos potenciais riscos no feto.
+
+O Besilato de Atracúrio Basi 10mg/ml Solução Injetável pode ser utilizado para a
+manutenção do relaxamento muscular durante a cesariana, pois após administração das
+doses recomendadas, não atravessa a placenta em quantidades clinicamente
+significativas.
+
+Amamentação
+Não existem dados que indiquem a sua excreção no leite materno.
+
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Não existem dados acerca do efeito do Besilato de Atracúrio Basi 10mg/ml Solução
+Injetável na capacidade de conduzir e utilizar máquinas.
+
+4.8 Efeitos indesejáveis
+
+Foram referidas reações associadas ao Besilato de Atracúrio Basi 10mg/ml Solução
+Injetável como é o caso do rubor, hipotensão ligeira transitória ou broncoespasmos,
+atribuídos à libertação de histamina. Raramente têm sido reportadas reações anafiláticas
+graves em doentes em que se administrou esta especialidade associada a um ou mais
+agentes anestésicos.
+
+Registaram-se raros casos de convulsões em doentes em UCI sujeitos a terapêutica com
+besilato de atracúrio concomitantemente com outros fármacos. Estas convulsões não são
+atribuíveis à laudanosina. Estes doentes apresentavam uma ou mais condições médicas
+predisponentes a este tipo de convulsões, como é o caso do traumatismo cerebral,
+edema cerebral, encefalite viral, encefalopatia hipóxica e urémia. Nos ensaios clínicos
+não se estabeleceu uma relação causal entre a concentração plasmática de laudanosina e
+o aparecimento de convulsões.
+
+Foram relatados alguns casos de fraqueza muscular e/ou miopatia após utilização
+prolongada de relaxantes musculares em doentes graves da UCI. Na maioria dos
+doentes foram administrados corticoesteróides concomitantemente. Estes eventos foram
+observados com pouca frequência em associação com o Besilato de Atracúrio Basi
+10mg/ml Solução Injetável, não estando estabelecida uma relação causal.
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-risco
+do medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas
+de reações adversas diretamente ao INFARMED, I.P.:
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+E-mail: farmacovigilancia@infarmed.pt
+
+
+4.9 Sobredosagem
+
+Sintomatologia:
+Os principais sintomas de sobredosagem são a paralisia muscular prolongada e suas
+consequências.
+
+Tratamento:
+É essencial manter uma via aérea acessível, juntamente com uma ventilação assistida de
+pressão positiva, até que a respiração espontânea seja adequada. É possível que seja
+necessária uma sedação total uma vez que a consciência não será afetada. A recuperação
+poderá ser acelerada através da administração de agentes anticolinérgicos associados à
+atropina ou ao glicopirrolato, uma vez presente a evidência de recuperação espontânea.
+
+
+5. PROPRIEDADES FARMACOLÓGICAS
+5.1 Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 2.3.2 – Sistema Nervoso Central. Relaxantes musculares.
+Ação periférica, código ATC: M03 AC04.
+
+O Besilato de Atracúrio Basi 10mg/ml Solução Injetável é um bloqueador
+neuromuscular competitivo ou não- despolarizante, altamente seletivo. Não apresenta
+efeitos na pressão intra-ocular, pelo que pode ser utilizado na cirurgia oftálmica.
+
+5.2 Propriedades farmacocinéticas
+
+
+O Besilato de Atracúrio Basi 10mg/ml Solução Injetável é inativado por eliminação de
+Hofmann, um processo não enzimático que ocorre a pH e temperatura fisiológicos, e
+por hidrólise do grupo éster catalizada por esterases não específicas.
+
+O fim do bloqueio neuromuscular não depende do metabolismo deste fármaco ou sua
+excreção hepática ou renal. Sendo assim, é pouco provável que a sua duração de ação
+seja afetada pela insuficiência renal, hepática ou circulatória.
+
+Testes ao plasma de doentes com níveis baixos de pseudocolinesterases demonstram
+que a inativação do Besilato de Atracúrio Basi 10mg/ml Solução Injetável se processa
+sem alteração.
+
+As variações do pH sanguíneo e da temperatura corporal do doente, sempre que dentro
+de limites fisiológicos, não alteram significativamente a duração da ação do Besilato de
+Atracúrio Basi 10mg/ml Solução Injetável.
+
+A hemofiltração e hemodiafiltração têm efeitos mínimos nos níveis plasmáticos do
+besilato de atracúrio e seus metabolitos, incluindo a laudanosina. Os efeitos da
+hemodiálise e hemoperfusão sobre os níveis plasmáticos do besilato de atracúrio e seu
+metabolitos são desconhecidos.
+
+As concentrações dos metabolitos são superiores nos doentes na UCI com disfunção
+renal e/ou hepática (ver 4.4. Precauções especiais de utilização). Estes metabolitos não
+contribuem para o bloqueio neuromuscular.
+
+5.3 Dados de segurança pré-clínica
+
+Mutagenicidade:
+O Besilato de atracúrio foi avaliado em 3 ensaios de mutagenicidade de curto prazo.
+Não se manifestou mutagénico nos ensaios in vitro de Ames, em Salmonella nas
+concentrações de até 1000 mg/placa, nem nos ensaios in vivo de medula óssea de rato
+nas doses para as quais se produz efeito de bloqueio neuromuscular. Num segundo
+ensaio in vitro, o ensaio em linfoma de murganho, não se observou mutagenicidade nas
+doses de até 60 mg/ml, as quais provocaram a morte de até 50% das células tratadas. No
+entanto, foi moderadamente mutagénico nas concentrações de 80 mg/ ml na ausência de
+agentes metabólicos, e debilmente mutagénico em concentrações muito elevadas (1200
+mg/ml) quando se adicionam enzimas metabólicas. Em ambas as concentrações, ocorreu
+mais de 80% de mortes celulares.
+Tendo em conta a natureza da exposição humana ao besilato de atracúrio, o risco
+mutagénico dos doentes que sofrem relaxamento cirúrgico com Besilato de Atracúrio
+Basi 10mg/ml Solução Injetável deve considerar-se negligenciável.
+
+Carcinogenicidade:
+Não foram efetuados estudos de carcinogenicidade.
+
+Fertilidade:
+Não foram efetuados estudos de fertilidade.
+
+Teratogenicidade:
+Os estudos de teratogenicidade indicam que o besilato de atracúrio não apresenta efeitos
+significativos no desenvolvimento fetal.
+
+
+6. INFORMAÇÕES FARMACÊUTICAS
+
+6.1 Lista dos excipientes
+
+Ácido benzenosulfónico
+Água para preparações injetáveis.
+
+6.2 Incompatibilidades
+
+O Besilato de Atracúrio Basi 10mg/ml Solução Injetável não deve misturar-se na
+mesma seringa com tiopental ou com qualquer outro agente alcalino.
+
+6.3 Prazo de validade
+
+2 anos
+
+6.4 Precauções especiais de conservação
+
+Conservar no frigorífico (2ºC – 8ºC).
+Não congelar.
+Manter a ampola dentro da embalagem exterior para proteger da luz.
+São permitidos curtos períodos de tempo à temperatura de até 30ºC, no entanto,
+unicamente para permitir o transporte ou armazenamento temporário fora de ambiente
+frio. Estima-se uma perda de potência de 8% se armazenado a 30ºC durante um mês.
+
+6.5 Natureza e conteúdo do recipiente
+
+Embalagens de 5 ou 10 ampolas de vidro branco neutro, de qualidade hidrolítica I
+segundo a Farmacopeia Europeia, com 5 ml de capacidade, contendo 2.5 ml ou 5.0 ml
+de solução injetável.
+
+6.6 Precauções especiais de eliminação e manuseamento
+Qualquer quantidade de Besilato de Atracúrio Basi 10mg/ml Solução Injetável que
+permaneça nas ampolas abertas deve ser rejeitada.
+
+O Besilato de Atracúrio Basi 10mg/ml Solução Injetável é compatível com as seguintes
+soluções de perfusão, durante o período de tempo referido:
+
+                                                              Período de estabilidade
+- Perfusão intravenosa BP de cloreto de sódio (0.9% p/v)           24 horas
+- Perfusão intravenosa BP de glucose (5% p/v)                      8 horas
+- Solução injetável de Ringer USP                                  8 horas
+- Perfusão intravenosa BP de cloreto de sódio (0.18% p/v)
+  e glucose (4% p/v)                                                8 horas
+- Perfusão intravenosa BP de lactato de sódio composto              4 horas
+ (solução injetável de Hartmann)
+
+Uma vez diluído nestas soluções em concentrações iguais ou superiores a 0.5 mg/ml de
+besilato de atracúrio, as soluções resultantes são estáveis à luz do dia a temperaturas não
+superiores a 30ºC durante os tempos referidos.
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com
+as exigências locais.
+
+
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Laboratórios Basi - Indústria Farmacêutica, S.A.
+Parque Industrial Manuel Lourenço Ferreira, Lote 15
+3450-232 Mortágua
+Portugal
+Tel.: + 351 231 920 250
+Fax: + 351 231 921 055
+E-mail: basi@basi.pt
+
+
+8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+N.º registo: 5035688 - Embalagem de 5 ampolas com 2.5 ml de solução injetável
+
+N.º registo: 5035589 - Embalagem de 5 ampolas com 5.0 ml de solução injetável
+
+N.º registo: 5814454 - Embalagem de 10 ampolas com 2.5 ml de solução injetável
+
+N.º registo: 5794672 - Embalagem de 10 ampolas com 5.0 ml de solução injetável
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+
+10. DATA DA REVISÃO DO TEXTO
+

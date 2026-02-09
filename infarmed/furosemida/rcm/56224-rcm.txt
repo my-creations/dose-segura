@@ -1,0 +1,815 @@
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+
+1. NOME DO MEDICAMENTO
+
+Furosemida Hikma 20 mg/2 ml solução injetável ou para perfusão
+
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+1 ampola contém 20 mg de furosemida como substância ativa.
+
+Excipiente com efeito conhecido:
+Furosemida Hikma contém 7,7 mg de sódio em cada ampola de 2 ml.
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+3. FORMA FARMACÊUTICA
+
+Solução injetável ou para perfusão
+
+Apresenta-se na forma de solução límpida e incolor.
+
+
+4. INFORMAÇÕES CLÍNICAS
+
+4.1 Indicações terapêuticas
+
+- Tratamento de edemas devidos a cardiopatias e hepatopatias (ascite);
+- Tratamento de edemas de origem renal (no caso do síndroma nefrótico é essencial o
+tratamento da enfermidade de base);
+- Tratamento de edemas em resultado de queimaduras;
+- Insuficiência cardíaca aguda, em particular no edema pulmonar;
+- Crises hipertensivas, conjuntamente com outras medidas terapêuticas;
+- Apoio à diurese forçada no caso de intoxicações.
+
+4.2 Posologia e modo de administração
+
+Posologia
+
+A dose utilizada terá de ser a mais baixa que seja suficiente para atingir o efeito desejado.
+
+A furosemida é administrada por via intravenosa apenas quando a administração oral não
+é exequível ou não é eficaz (por exemplo, no caso de comprometimento da absorção
+intestinal) ou no caso de ser necessário um efeito rápido. Se for utilizada a terapia por via
+intravenosa, recomenda-se a transferência para a terapia por via oral logo que tal seja
+possível.
+
+Para obter uma maior eficácia e evitar contrarregulação, é geralmente de preferir uma
+perfusão de furosemida em vez de injeções de bólus repetidas. Nos casos em que a
+perfusão contínua de furosemida não é exequível, no seguimento do tratamento após uma
+ou várias doses agudas por bólus, é preferível um regime posológico de seguimento com
+doses baixas administradas em intervalos curtos (aproximadamente 4 horas) a um regime
+com administração por bólus de doses elevadas em intervalos longos.
+
+Nos adultos, a dose diária máxima de furosemida recomendada, tanto para a administração
+por via oral como para a administração por via intravenosa é de 1500 mg.
+A utilização da dose máxima depende da reação individual.
+População pediátrica
+
+Nas crianças, a dose recomendada de furosemida para administração oral é de 2 mg/kg
+de peso corporal até uma dose diária máxima de 40 mg. A dose recomendada de
+furosemida para administração parentérica é de 1 mg/kg de peso corporal até uma dose
+diária máxima de 20 mg.
+
+A duração do tratamento depende da indicação terapêutica e é determinado pelo médico
+para cada doente numa base individualizada.
+
+Recomendações de dosagem particulares
+
+A dosagem para adultos, é geralmente, baseada nas seguintes orientações:
+
+- Tratamento de edemas associados à insuficiência cardíaca congestiva aguda
+
+A dose inicial recomendada é de 20 a 40 mg administrados por bólus intravenoso. A dose
+pode ser ajustada se necessário de acordo com a resposta obtida.
+
+- Tratamento de edemas associados a insuficiência renal crónica
+
+A resposta natriurética à furosemida depende de inúmeros fatores, incluindo da gravidade
+da insuficiência renal e do equilíbrio de sódio, e, consequentemente o efeito de uma dose
+não pode ser previsto de uma forma precisa. Em doentes com insuficiência renal crónica,
+a dose deve ser titulada cuidadosamente para que a drenagem do edema seja gradual. No
+caso de adultos, isto significa que a dose pode conduzir a uma perda de aproximadamente
+de 2 kg de peso corporal (aproximadamente 280 mmol Na+) por dia.
+
+No caso de tratamento intravenoso, a dose de furosemida pode ser determinada
+começando com uma perfusão intravenosa contínua de 0,1 mg por minuto, aumentando
+depois gradualmente a taxa a cada meia hora de acordo com a resposta.
+
+- Manutenção da excreção de fluído no caso de insuficiência renal aguda
+
+A hipovolemia, hipotensão e desequilíbrios eletrolíticos e ácido-base terão de ser corrigidos
+antes de iniciar o tratamento com furosemida. É recomendável que a transferência da via
+de administração intravenosa para a via oral seja efetuada o mais rapidamente possível.
+
+A dose inicial recomendada é de 40 mg administrada na forma de injeção intravenosa.
+Se tal dosagem não conduzir ao aumento desejado na excreção de fluído, a furosemida
+pode ser administrada em perfusão intravenosa contínua, começando com uma taxa de
+perfusão de 50 mg a 100 mg por hora.
+
+- Tratamento de edemas associados à síndrome nefrótica
+
+A dose inicial diária recomendada é de 40 mg a 80 mg. Esta dose pode ser ajustada
+conforme necessário, de acordo com a resposta. A dose diária total pode ser administrada
+em dose única ou em várias doses fracionadas.
+
+- Tratamento de edemas de origem hepática
+
+A furosemida é utilizada para complementar o tratamento com antagonistas de aldosterona
+nos casos em que o tratamento com estes agentes em monoterapia não é suficiente. De
+forma a evitar complicações, tais como a intolerância ortostática ou desequilíbrios
+eletrolíticos ou ácido-base, a dose deve ser titulada cuidadosamente para que a perda
+inicial de líquido seja gradual. No caso de adultos, tal significa a dose que conduz a uma
+perda aproximada de 0,5 kg de peso corporal por dia.
+A dose oral inicial recomendada é de 20 mg a 80 mg diários. Esta dose pode ser ajustada
+conforme necessário de acordo com a resposta obtida. Esta dose diária pode ser
+administrada em dose única ou em várias doses fracionadas. No caso de o tratamento
+intravenoso ser absolutamente necessário, a dose unitária inicial é de 20 mg a 40 mg.
+
+- Hipertensão
+A furosemida pode ser utilizada em monoterapia ou em conjunto com outros agentes anti
+hipertensores.
+
+A dose de manutenção habitual é de 20 mg a 40 mg diários. Em caso de hipertensão
+associada a insuficiência renal crónica, poderá ser necessária uma dose superior.
+
+- Crises hipertensivas
+
+A dose inicial recomendada é de 20 mg a 40 mg administrada em injeção por bólus
+intravenoso. Esta dose pode ser ajustada conforme necessário de acordo com a resposta
+obtida.
+
+- Apoio à diurese forçada no caso de intoxicações
+
+Para além das soluções polieletrolíticas é também administrada furosemida por via
+intravenosa. A dose é dependente da resposta à furosemida. As perdas de fluidos e de
+eletrólitos podem ser corrigidas antes e durante o tratamento. Em caso de intoxicação por
+substâncias ácidas ou alcalinas, a eliminação pode ser incrementada respetivamente
+através da alcalinização ou acidificação da urina.
+
+A dose inicial recomendada é de 20 mg a 40 mg administrados por via intravenosa.
+
+Populações especiais
+
+Crianças
+
+Nas crianças a dosagem deve ser reduzida em função do peso corporal. Para doses
+máximas em crianças veja por favor , a secção 4.2 “Posologia”.
+
+Administração
+
+Perfusão/injeção intravenosa: A furosemida intravenosa tem de ser injetada ou perfundida
+lentamente; não deve ser excedido um débito de 4 mg por minuto. Nos doentes com
+insuficiência grave da função renal (creatinina sérica > 5 mg/dl), recomenda-se que o
+débito de perfusão de 2,5 mg por minuto não seja excedido.
+
+Injeção intramuscular: A administração intramuscular tem de ser restringida a casos
+excecionais, onde quer a administração por via oral, quer por via intravenosa não são
+exequíveis. Deve-se ter em consideração que a injeção intramuscular não é adequada ao
+tratamento de situações agudas, como é o caso de edema pulmonar.
+
+4.3 Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na
+secção 6.1. Os doentes que sejam alérgicos às sulfonamidas (ex.: antibióticos
+sulfonamídicos ou sulfonilureias) podem apresentar sensibilidade cruzada à furosemida.
+
+Doentes sofrendo de hipovolemia ou desidratação.
+
+Insuficiência renal com anúria que não responde à furosemida.
+
+Doentes com hipocaliemia grave (ver secção 4.8).
+Doentes com hiponatrémia grave.
+
+Doentes em coma hepático e pré-coma associado a encefalopatia hepática.
+
+Em mulheres a amamentar.
+
+Relativamente à utilização durante a gravidez, ver a seção 4.6.
+
+4.4 Advertências e precauções especiais de utilização
+
+O débito urinário deverá ser assegurado. No caso de doentes com obstrução parcial do
+débito urinário (por exemplo, doentes com alterações do esvaziamento da bexiga,
+hiperplasia prostática ou estreitamento da uretra), o aumento da produção de urina poderá
+provocar ou agravar as queixas. Consequentemente, estes doentes necessitam de uma
+monitorização cuidadosa-especialmente durante as fases iniciais do tratamento.
+
+O tratamento com Furosemida Hikma necessita de supervisão médica regular, sendo
+necessária uma monitorização particularmente cuidadosa no caso de:
+
+- doentes hipotensos
+- doentes que estejam numa situação de risco particular de ocorrência de uma diminuição
+pronunciada da pressão sanguínea, por exemplo doentes com estenoses significativas das
+artérias coronárias ou dos vasos sanguíneos que irrigam o cérebro.
+- doentes com diabetes mellitus manifesta ou latente.
+- doentes com gota.
+- doentes com síndrome hepatorrenal, i.e. com insuficiência renal funcional associada a
+doença hepática grave.
+- doentes com hipoproteinemia, associada por exemplo com síndrome nefrótico (o efeito
+da furosemida poderá ser enfraquecido e a sua ototoxicidade potenciada). É necessária
+uma titulação cuidadosa da dose.
+- em prematuros (possível desenvolvimento de nefrocalcinose/nefrolitíase; a função renal
+tem de ser monitorizada e terá de se proceder a uma ultrassonografia renal).
+
+Pode ocorrer hipotensão sintomática que resulte em tonturas, desmaio ou perda dos
+sentidos em doentes tratados com furosemida, em especial nos idosos, doentes a tomar
+outras medicações que possam provocar hipotensão e doentes com outras condições
+médicas que representem riscos de hipotensão.
+
+Na generalidade dos doentes é recomendável efetuar uma monitorização regular do sódio
+e potássio séricos, bem como da creatinina durante a terapia com furosemida; é
+necessário efetuar uma monitorização particularmente atenta em doentes com um risco
+elevado de desenvolver desequilíbrio eletrolítico, ou em casos de perda adicional de
+líquidos significativa (por exemplo devido a vómitos, diarreia ou sudação intensa). A
+hipovolemia ou desidratação, bem como quaisquer alterações eletrolítica e ácido-base
+significativas terão de ser corrigidas. Para tal poderá ser necessário descontinuar o
+tratamento com furosemida.
+
+Utilização concomitante com risperidona
+
+Em ensaios clínicos com risperidona controlados com placebo efetuados em doentes idosos
+que sofriam de demência, observou-se uma incidência superior de mortalidade nos doentes
+tratados concomitantemente com furosemida e risperidona (7,3%; mediana das idades:
+89 anos, intervalo de idades: 75-97 anos), comparativamente com os doentes tratados
+com risperidona em monoterapia (3,1%; mediana de idades: 84 anos, intervalo de idades:
+70-96 anos) ou com furosemida em monoterapia (4,1%; mediana de idades: 80 anos,
+intervalo de idades: 67-90 anos). A utilização concomitante de risperidona com outros
+diuréticos (como diuréticos tiazídicos utilizados em doses baixas) não foi associada a
+ocorrências similares.
+Não foi identificado qualquer mecanismo fisiopatológico para explicar esta ocorrência, não
+tendo sido também observado um padrão consistente para a causa de morte. No entanto,
+antes de tomar a decisão de utilizar este medicamento, deve-se ter precaução, levando
+em consideração os riscos e benefícios desta associação ou do tratamento concomitante
+com outros diuréticos potentes. Não se verificou um aumento da incidência de mortalidade
+entre os doentes a tomar outros diuréticos concomitantemente com a risperidona.
+Independentemente do tratamento, a desidratação foi um fator de risco global para a
+mortalidade, devendo por isso ser evitada em doentes com demência (ver seção 4.3).
+
+Existe a possibilidade de exacerbação ou ativação de lúpus eritematoso sistémico.
+
+Este medicamento contém 7,7 mg de sódio em cada ampola de 2 ml. Este medicamento
+contém menos do que 1 mmol (23 mg) de sódio por ampola, ou seja, é praticamente
+“isento de sódio”.
+
+4.5 Interações medicamentosas e outras formas de interação
+
+Alimentos
+A forma como a furosemida é ou não afetada pela ingestão de alimentos, bem como a
+extensão desta interação parece depender da forma farmacêutica em causa. É
+recomendável que as formulações orais sejam tomadas com o estômago vazio.
+
+Interações medicamentosas
+
+Associações não recomendadas
+
+Em casos isolados a administração intravenosa de furosemida num espaço de 24 horas
+após a administração de hidrato de cloral pode levar à ocorrência de rubor, hipersudorese,
+ansiedade, náusea, aumento da pressão arterial e taquicardia, em 24 horas. Assim, a
+utilização concomitante de furosemida e hidrato de cloral não é recomendada.
+
+A furosemida pode potenciar o efeito ototóxico no caso de administração concomitante de
+cisplatina e furosemida. Para além disso, a nefrotoxicidade da cisplatina pode ser
+aumentada se a furosemida não for administrada em doses baixas (por exemplo, 40 mg
+em doentes com função renal normal) e com um equilíbrio hídrico positivo, quando
+utilizada para alcançar a diurese forçada durante o tratamento com cisplatina.
+
+Precauções de utilização
+Existe um risco de efeito ototóxico no caso de administração concomitante de cisplatina e
+furosemida. Para além disso, a nefrotoxicidade da cisplatina pode ser aumentada se a
+furosemida não for administrada em doses baixas (por exemplo, 40 mg em doentes com
+função renal normal) e com um equilíbrio hídrico positivo, quando utilizada para alcançar
+a diurese forçada durante o tratamento com cisplatina.
+
+A furosemida administrada por via oral e o sucralfato não devem ser administrados com
+intervalos menores ou iguais a 2 horas entre ambos, porque o sucralfato diminui a absorção
+da furosemida a partir do intestino, reduzindo consequentemente o seu efeito.
+
+A excreção de sais de lítio é reduzida pela furosemida, podendo causar um aumento
+dosníveis séricos de lítio, resultando num aumento do risco de toxicidade associada ao lítio,
+incluindo um aumento do risco dos efeitos cardiotóxicos e neurotóxicos do lítio.
+Consequentemente, é recomendável que os níveis de lítio sejam monitorizados
+cuidadosamente em doentes a receber tratamento com esta associação.
+
+Os doentes a quem sejam administrados diuréticos podem sofrer hipotensão acentuada e
+deterioração da função renal, incluindo casos de insuficiência renal, especialmente aquando
+da administração concomitante pela primeira vez, ou pela primeira vez em doses elevadas
+de um inibidor da enzima de conversão da angiotensina (IECA) ou de um antagonista do
+recetor da angiotensina II.
+Deve considerar-se a possibilidade de interrupção temporária da administração de
+furosemida, ou pelo menos uma diminuição da dose durante os três dias que antecedem
+o início do tratamento, ou ainda um aumento da dose de um IECA ou de um antagonista
+do recetor da angiotensina II.
+
+Risperidona
+Antes de decidir a utilização deste fármaco deve exercer-se precaução quanto aos riscos e
+benefícios da associação ou do cotratamento com furosemida ou com outros diuréticos
+potentes. Ver a secção 4.4,relativamente ao aumento da mortalidade em doentes idosos
+com demência tratados concomitantemente com risperidona.
+
+Levotiroxina: doses elevadas de furosemida podem inibir a ligação das hormonas da
+tiróide a proteínas transportadoras e, consequentemente, levar a um aumento transitório
+inicial de hormonas da tiróide livres, seguido de uma diminuição global dos níveis totais
+de hormonas tiroideias. Os níveis de hormonas da tiróide devem ser monitorizados.
+
+O aliscireno reduz a concentração plasmática da furosemida administrada por via oral.
+Pode ser observada uma redução do efeito da furosemida em doentes tratados com
+aliscireno e furosemida oral, pelo que se recomenda a monitorização da redução do efeito
+diurético e o ajuste da dose em conformidade.
+
+Considerações
+
+A administração concomitante de medicamentos anti-inflamatórios não esteroides,
+incluindo o ácido acetilsalicílico, podem diminuir a ação da furosemida. Em doentes
+desidratados ou hipovolémicos, os anti-inflamatórios não esteróides poderão
+provocarinsuficiência renal aguda. A toxicidade dos salicilatos poderá ser incrementada
+pela furosemida.
+
+Poderá ocorrer uma redução do efeito da furosemida após a administração concomitante
+de fenitoína.
+
+A utilização de corticosteróides, carbenoxolona ou de alcaçuz em grandes quantidades e a
+utilização prolongada de laxantes, poderá aumentar o risco de desenvolver hipocaliemia.
+
+Algumas alterações eletrolíticas (por ex., hipocaliemia, hipomagnesemia) poderão
+aumentar a toxicidade de alguns medicamentos (como por ex. preparações digitálicas e
+fármacos indutores da síndroma do prolongamento do intervalo QT).
+
+No caso de serem administrados concomitantemente com a furosemida agentes
+antihipertensores, diuréticos ou outros fármacos com potencial para baixar a tensão
+arterial, deverá ser antecipada uma descida mais pronunciada da pressão sanguínea.
+
+A probenecida, o metotrexato e outros medicamentos que, tal como a furosemida sofrem
+secreção tubular renal significativa podem reduzir o efeito da furosemida. Inversamente,
+a furosemida poderá diminuir a eliminação renal destes fármacos. Em caso de tratamento
+com doses elevadas (em particular se tanto a furosemida como os outros fármacos forem
+administrados em doses elevadas), tal poderá conduzir a um aumento dos níveis
+plasmáticos e a um aumento do risco de ocorrência de efeitos adversos associados à
+furosemida ou à medicação concomitante.
+
+O efeito dos medicamentos antidiabéticos e dos simpaticomiméticos que aumentam a
+pressão sanguínea (como por ex., epinefrina, norepinefrina) poderão sofrer uma redução.
+Os efeitos dos relaxantes musculares curarizantes ou da teofilina poderão sofrer um
+incremento.
+
+O efeito nocivo no rim dos fármacos nefrotóxicos poderá ser incrementado.
+
+Poderá ocorrer um comprometimento da função renal em doentes a receber
+concomitantemente tratamento com furosemida e doses elevadas de certas cefalosporinas.
+
+A utilização concomitante de ciclosporina A e furosemida está associada ao aumento do
+risco de artrite gotosa secundária à hiperuricemia induzida pela furosemida e à insuficiente
+excreção renal de uratos associada à ciclosporina.
+
+Os doentes em risco de sofrer de nefropatia do radiocontraste tratados com furosemida
+tiveram uma maior incidência de deterioração da sua função renal após receberem
+radiocontraste, comparativamente com os doentes de alto risco que receberam apenas
+hidratação intravenosa antes de lhes ser administrado o agente de radiocontraste.
+
+4.6 Fertilidade, gravidez e aleitamento
+
+A furosemida - substância ativa de Furosemida Hikma atravessa a barreira placentária.
+Durante a gravidez, Furosemida Hikma só deve ser utilizado quando absolutamente
+indicado do ponto de vista clínico. O tratamento com Furosemida Hikma durante a gravidez
+requer a monitorização do crescimento fetal.
+
+Amamentação
+Durante o aleitamento, deve ter-se em conta que a furosemida passa ao leite materno,
+podendo inibir o aleitamento. As mulheres não devem amamentar se estiverem a ser
+tratadas com furosemida.
+
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Alguns efeitos adversos (por ex., uma diminuição pronunciada e indesejável da pressão
+sanguínea) poderão afetar a capacidade de concentração e de reação do doente
+e,consequentemente constituir um risco em situações em que estas capacidades se
+revestem de especial importância (por ex., quando conduzem um veículo ou utilizam
+maquinaria).
+
+4.8 Efeitos indesejáveis
+
+Os efeitos adversos apresentados na tabela são classificados de acordo com as classes de
+sistemas de órgãos. A frequência dos efeitos secundários possíveis é definida usando a
+seguinte convenção: Muito frequentes (≥1/10), Frequentes (≥1/100, <1/10), Pouco
+frequentes (≥1/1000, <1/100), Raros (≥1/10000, <1/1000), Muito raros (<1/10000),
+desconhecido (não pode ser calculada a partir dos dados disponíveis).
+
+ Classes de sistemas
+                       Frequência         Efeitos secundários
+ de órgãos
+                       Frequentes         Hemoconcentração
+                       Pouco              Trombocitopenia
+ Doenças do sangue     frequentes
+ e sistema linfático   Raros              Leucopenia; eosinofilia
+                                          Agranulocitose; anemia aplástica; anemia
+                       Muito raros
+                                          hemolítica
+                                          Reação anafiláticas e anafilactóides graves (ex.
+                       Raros
+ Doenças do sistema                       com choque);
+ imunitário                               Exacerbação ou ativação de lúpus eritematoso
+                       Desconhecido
+                                          sistémico.
+                                          Desequilíbrio       eletrolítico      (incluindo
+                                          sintomático);         desidratação/hipovolémia,
+                       Muito
+ Doenças       do                         especialmente nos doentes idosos; creatinina
+                       frequentes
+ metabolismo e da                         sanguínea aumentada; triglicéridos sanguíneos
+ nutrição (ver                            aumentados;
+ secção 4.4)                              Hiponatremia;    hipocloremia;     hipocaliemia;
+                       Frequentes         colesterol sanguíneo aumentado; ácido úrico
+                                          sanguíneo
+                                       aumentado; crises de gota, volume de urina
+                                       aumentado;
+                                       Tolerância à glucose alterada; uma diabetes
+                        Pouco          mellitus latente poderá vir a manifestar-se (ver
+                        frequentes     secção 4.4).
+
+                                       Hipocalcemia;       hipomagnesemia;         ureia
+                                       sanguínea aumentada; alcalose metabólica.
+                        Desconhecido   Síndrome de Bartter no contexto do uso
+                                       inapropriado e/ou uso prolongado de
+                                       furosemida
+                                       Encefalopatia hepática em doentes com
+                        Frequentes
+                                       insuficiência hepatocelular (ver secção 4.3).
+Doenças do sistema      Raros          Parestesias
+nervoso                                Tonturas, desmaio e perda dos sentidos
+                        Desconhecido   (provocados por hipotensão sintomática ou por
+                                       outras causas), cefaleias.
+                                       Afeções da audição, apesar de normalmente se
+                                       tratar    de     uma     situação     transitória,
+                                       particularmente no caso de doentes com
+                        Pouco
+                                       insuficiência   renal,   hipoproteinemia     (por
+Afeções do ouvido e     frequentes
+                                       exemplo em caso de síndrome nefrótico) e/ou
+do labirinto
+                                       quando      a   furosemida     intravenosa     foi
+                                       administrada de forma demasiado rápida.
+                        Raro           Surdez (por vezes irreversível);
+                        Raros          Zumbidos
+                        Muito          Hipotensão incluindo ortostática (ver secção
+                        frequentes     4.4);
+Vasculopatias
+                        Raros          Vasculite
+                        Desconhecido   Trombose
+                        Pouco          Náusea
+Doenças                 frequentes
+gastrointestinais       Raros          Vómitos, diarreia
+                        Muito raros    Pancreatite aguda
+Afeções                                Colestase; transaminases aumentadas.
+                        Muito raros
+hepatobiliares
+                                       Prurido; urticária; rashes; dermatite bulhosa;
+                        Pouco          eritema multiforme; penfig ó ide; dermatite
+                        frequentes     exfoliativa;      púrpura;        reação        de
+Afeções dos tecidos                    fotossensibilidade
+cutâneos          e                    Síndrome     de    Stevens-Johnson;      necrólise
+subcutâneos                            epidérmica      tóxica;     PGEA       (Pustulose
+                        Desconhecido   Generalizada Exantemática Aguda) e DRESS
+                                       (rash medicamentoso associado a eosinofilia e
+                                       sintomas sistémicos), reações liquenóides.
+Afeções                                Têm sido notificados casos
+musculosqueléticas                     de rabdomiólise, frequentemente
+                        Desconhecido
+e dos tecidos                          relacionados com hipocaliémia grave (ver
+conjuntivos                            secção 4.3)
+                        Frequentes     Volume de urina aumentado
+                        Raros          Nefrite tubolointersticial
+                                       Sódio na urina aumentado, cloro na urina
+Doenças renais      e                  aumentado; retenção de urina (em doentes com
+urinárias                              obstrução parcial do débito urinário, ver secção
+                        Desconhecido
+                                       4.4); nefrocalcinose/nefrolitíase em prematuros
+                                       (ver secção 4.4); insuficiência renal (ver secção
+                                       4.5);
+                                           Risco aumentado de persistência de canal
+ Afeções congénitas,
+                                           arterial identificável quando a furosemida é
+ familiares        e    Desconhecido
+                                           administrada a prematuros no decorrer das
+ genéticas
+                                           primeiras semanas de vida
+ Perturbações gerais                       Reação no local de administração após injeção
+                        Desconhecido
+ e   alterações  no                        intramuscular;
+ local           de                        Febre
+                        Raros
+ administração
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício‐risco
+do medicamento. Pede‐se aos profissionais de saúde que notifiquem quaisquer suspeitas
+de reações adversas diretamente ao INFARMED, I.P.:
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+e-mail: farmacovigilancia@infarmed.pt
+
+4.9 Sobredosagem
+
+a) Sinais e sintomas:
+O quadro clínico na sobredosagem aguda ou crónica depende primeiramente da extensão
+e consequências da perda de eletrólitos e de fluídos (ex.: hipovolemia, desidratação, hemo-
+concentração, arritmia cardíaca – incluindo bloqueio A-V e fibrilação ventricular). Os
+sintomas destas alterações incluem: hipotensão grave (e progressão para choque),
+insuficiência renal aguda, trombose, estados delirantes, paralisia flácida, apatia e confusão.
+
+b) Tratamento:
+Não se conhece um antídoto específico para a furosemida.
+
+As alterações do equilíbrio hidro eletrolítico clinicamente relevantes têm de ser corrigidas.
+Conjuntamente com a prevenção e o tratamento de complicações graves resultantes de
+tais desequilíbrios e de outros efeitos no organismo, esta ação corretiva pode necessitar
+de monitorização médica intensiva generalista e específica, bem como de medidas
+terapêuticas.
+
+Aos primeiros sinais de choque (suores, náusea, cianose) interromper de imediato a injeção
+(deixando a agulha na veia), colocar o doente com a cabeça baixa e permitir a livre
+respiração.
+
+Tratamento medicamentoso em caso de choque anafilático: -diluir 1 ml de uma solução de
+adrenalina 1:1000 em 10 ml e injetar lentamente 1 ml (correspondentes a 0,1 mg de
+adrenalina) desta solução controlando o pulso e a tensão, observando em especial a
+ocorrência de eventuais arritmias. Pode repetir-se a administração de adrenalina se
+necessário.
+
+Injetar em seguida um glucocorticóide por via intravenosa (por ex. 250-1000 mg de
+metilprednisolona), repetindo se necessário.
+
+Adaptar as doses acima referidas para crianças, de acordo com o peso corporal.
+Corrigir a hipovolemia pelos meios disponíveis e completar com respiração artificial,
+oxigénio e anti-histamínicos.
+
+
+5. PROPRIEDADES FARMACOLÓGICAS
+
+5.1 Propriedades farmacodinâmicas
+
+Grupo Farmacoterapêutico: 3.4.1.2 – Aparelho cardiovascular. Anti-hipertensores.
+Diuréticos. Diuréticos de ansa, código ATC: C03CA01.
+
+Mecanismo de ação
+
+Furosemida Hikma é um diurético de ansa potente, relativamente rápido, cujo princípio
+ativo é a furosemida. Do ponto de vista farmacológico, a furosemida inibe o sistema de co
+transporte (reabsorção) dos eletrólitos Na+, K+ e 2 Cl-, localizado ao nível da membrana
+da célula luminal do ramo ascendente da ansa de Henle. Consequentemente, a eficácia da
+ação salurética da furosemida, depende do facto de o medicamento alcançar o lúmen
+tubular através de um mecanismo de transporte aniónico.
+A ação diurética resulta da inibição da reabsorção de cloreto de sódio neste segmento da
+ansa de Henle. Como resultado, a fração de sódio excretado poderá ascender a 35% da
+filtração glomerular de sódio. Os efeitos secundários da excreção aumentada de sódio são
+o aumento da excreção urinária e o aumento da secreção distal de potássio ao nível do
+túbulo distal. A excreção de iões de cálcio e de magnésio também se encontra aumentada.
+
+A furosemida interrompe o mecanismo de feedback túbulo-glomerular na mácula densa,
+resultando na não atenuação da atividade salurética. A furosemida provoca a estimulação
+dose-dependente do sistema renina-angiotensina-aldosterona.
+
+Em caso de insuficiência cardíaca, a furosemida provoca uma redução aguda na pré-carga
+cardíaca (através do aumento da capacitância dos vasos sanguíneos). Este efeito vascular
+precoce parece ser mediado pelas prostaglandinas, e pressupõe uma função renal
+adequada com a ativação do sistema renina-angiotensina e uma síntese de prostaglandinas
+intata. Para além de que, dado o seu efeito natriurético, a furosemida diminui a reatividade
+vascular às catecolaminas, a qual se encontra aumentada nos doentes hipertensos.
+
+A eficácia antihipertensora da furosemida é atribuível ao aumento da excreção de sódio,
+redução do volume sanguíneo e da resposta do músculo liso vascular ao estímulo
+vasoconstritor.
+
+Efeitos farmacodinâmicos
+
+O efeito diurético da furosemida é estabelecido dentro de 15 minutos após administração
+de uma dose por via intravenosa, e dentro de 1 hora após uma dose administrada por via
+oral.
+
+Foi demonstrado um aumento dose-dependente na diurese e uma natriurese em indivíduos
+saudáveis a quem foi administrado furosemida (doses entre os 10 mg e os 100 mg). A
+duração da ação em indivíduos saudáveis após a administração de uma dose de 20 mg de
+furosemida por via intravenosa é de aproximadamente 3 horas e de 3 a 6 horas, no caso
+de uma dose de 40 mg administrada por via oral.
+
+Em indivíduos doentes, a relação entre as concentrações tubulares da furosemida (livre)
+na sua forma não ligada (estimada utilizando a taxa de excreção da furosemida na urina)
+e o seu efeito natriurético traduz-se num gráfico de forma sigmóide, com uma taxa mínima
+de excreção efetiva de furosemida, de aproximadamente 10 microgramas por minuto.
+Consequentemente, uma perfusão contínua de furosemida é mais eficaz do que injeções
+em bólus repetidas. Para além de que, acima de uma certa dose administrada em bólus, o
+efeito do fármaco não sofre um aumento significativo. O efeito da furosemida é reduzido
+no caso de existir uma secreção tubular diminuída ou uma ligação intra-tubular do fármaco
+à albumina.
+
+5.2 Propriedades farmacocinéticas
+
+Absorção
+A furosemida é rapidamente absorvida a partir do trato gastro-intestinal. O tmáx é de 1 a
+1,5 horas no caso de furosemida 40 mg. A absorção do fármaco denota uma ampla
+variabilidade intra e interindividual.
+
+A biodisponibilidade da furosemida em voluntários sãos é de aproximadamente 50% a 70%
+para os comprimidos. No caso de indivíduos doentes, a biodisponibilidade do fármaco é
+influenciada por diversos fatores, incluindo as doenças concomitantes, podendo sofrer uma
+redução da ordem dos 30% (por exemplo, no caso de síndrome nefrótica).
+
+O fato de a absorção da furosemida poder ser afetada pela ingestão de alimentos, parece
+depender da forma farmacêutica em causa.
+
+Distribuição
+O volume de distribuição da furosemida é de 0,1 a 1,2 litros por kg de peso corporal. O
+volume de distribuição pode também ser mais elevado em função do tipo de doença
+concomitante.
+
+A ligação proteica plasmática (maioritariamente à albumina) é superior a 98%.
+
+Eliminação
+A furosemida é eliminada maioritariamente na forma não conjugada, principalmente por
+secreção ao nível do túbulo proximal. Após administração intravenosa, 60% a 70% da dose
+de furosemida é excretada desta forma. O metabolito glucorónico da furosemida
+representa 10% a 20% das substâncias recuperadas na urina. A dose restante é excretada
+nas fezes, provavelmente após secreção biliar.
+
+A semi-vida terminal da furosemida            após   administração    intravenosa   é   de
+aproximadamente 1 a 1,5 horas.
+
+A furosemida é excretada no leite materno. A furosemida atravessa a barreira placentária
+transferindo-se lentamente para o feto, e alcança concentrações idênticas na mãe e no
+feto ou recém-nascido.
+
+Insuficiência renal
+Em caso de insuficiência renal, a eliminação da furosemida é mais lenta e a sua semi-vida
+é prolongada. A semivida terminal pode alcançar as 24 horas em doentes com insuficiência
+renal grave.
+
+Em caso de síndrome nefrótica, a concentração inferior de proteínas plasmáticas leva a
+que se atinjam concentrações mais elevadas de furosemida não conjugada (livre). Por
+outro lado, a eficácia da furosemida é reduzida nestes doentes, devido a ligação à albumina
+intratubular e à secreção tubular diminuída.
+
+A furosemida é pouco dialisável em doentes sob tratamento com hemodiálise, diálise
+peritoneal ou DPAC (Diálise Peritoneal Ambulatória Crónica).
+
+Insuficiência hepática
+
+Em caso de insuficiência hepática, a semi-vida da furosemida sofre um aumento da ordem
+dos 30% a 90%, maioritariamente devido ao volume de distribuição mais elevado.
+Para além disso, neste grupo de doentes existe uma variabilidade alargada dos parâmetros
+farmacocinéticos.
+Insuficiência cardíaca congestiva, hipertensão grave, idosos
+
+A eliminação da furosemida é mais lenta devido à função renal reduzida em doentes com
+insuficiência cardíaca congestiva, hipertensão grave ou nos idosos.
+
+Crianças prematuras e recém-nascidos
+
+Dependendo da maturidade do rim, a eliminação da furosemida pode ser mais lenta. O
+metabolismo do fármaco também se encontra reduzido no caso de crianças com
+insuficiência da capacidade de glucoronização. A semi-vida terminal é inferior a 12 horas
+em crianças com idade pós-conceção superior a 33 semanas. Em crianças com idade igual
+ou superior a 2 meses, a clearence terminal é idêntica à dos adultos.
+
+5.3 Dados de segurança pré-clínica
+
+Toxicidade aguda
+Estudos efetuados com administração oral e intravenosa de furosemida em várias espécies
+de roedores e cães revelaram uma baixa toxicidade aguda.
+
+A DL50 oral está compreendida entre 1050 e 4600 mg/Kg de peso corporal em ratinhos e
+ratos e de 243 mg/Kg de peso corporal em cobaios.
+Em cães, a DL50 oral é de cerca de 2000 mg/Kg de peso corporal, sendo a DL50 i.v.
+superior a 400 mg/Kg de peso corporal.
+
+Toxicidade crónica
+A administração de furosemida durante 6 e 12 meses em ratos e cães mostrou alterações
+renais (incluindo fibroses focais e calcificação) nos grupos de doses mais elevadas (10 a
+20 vezes a dose terapêutica em humanos).
+
+Ototoxicidade
+A furosemida pode interferir com os processos de transporte na faixa vascular do ouvido
+interno, conduzindo possivelmente a distúrbios auditivos – geralmente reversíveis.
+
+Carcinogenicidade
+A furosemida na concentração aproximada de 200 mg/kg de peso corporal (14,000 ppm)
+foi administrada diariamente a ratos e ratinhos fêmea durante um período de 2 anos
+concomitantemente com a sua dieta. Foi detetado um aumento da incidência de
+adenocarcinoma mamário em ratinhos, mas não nos ratos. Esta dose é consideravelmente
+superior à dose terapêutica administrada a doentes humanos. Para além disso, estes
+tumores eram morfologicamente idênticos aos tumores espontâneos observados em 2% a
+8% dos animais de controlo.
+
+Para além disso, é improvável que esta incidência de tumores seja relevante para o
+tratamento humano. De facto, não existe evidência de uma incidência aumentada de
+adenocarcinoma humano mamário após a utilização da furosemida. Não é possível a
+classificação da furosemida quanto à carcinogenicidade em humanos, tendo como base os
+estudos epidemiológicos.
+
+Num estudo de carcinogenicidade, administraram-se a ratos doses diárias de furosemida
+na ordem dos 15 e 30 mg/kg de peso corporal. Os ratos machos na categoria da dose de
+15 mg/kg-dose demonstraram um aumento marginal de tumores incomuns. Estas
+ocorrências foram consideradas raras.
+
+A carcinogénese da bexiga induzida pela nitrosamina em ratos não demonstrou evidência
+que sugerisse que a furosemida fosse um fator promotor da carcinogénese.
+
+Mutagenicidade
+Obtiveram-se tanto resultados positivos como negativos nos testes in-vitro efetuados em
+células bacterianas e de mamíferos. No entanto, a indução de mutações genéticas e
+cromossómicas, foi apenas observada quando a furosemida atingiu concentrações
+citotóxicas.
+
+Toxicidade reprodutiva
+A furosemida não teve um impacto negativo na fertilidade de ratos macho e fêmea em
+doses diárias de 90 mg/Kg de peso corporal, nem em ratinhos macho e fêmea em doses
+diárias de 200 mg/kg de peso corporal, administrada por via oral.
+
+Não se verificaram efeitos embriotóxicos ou teratogénicos nas várias espécies de
+mamíferos, incluindo ratinho, rato, gato, coelho e cão após tratamento com a furosemida.
+
+Foi descrita uma maturação renal retardada – uma redução no número de glomérulos
+diferenciados - na prole de ratos tratados com 75 mg de furosemida por kg de peso corporal
+durante os dias 7 a 11 e 14 a 18 de gestação.
+
+A furosemida atravessa a barreira placentária e o cordão umbilical, atingindo 100% das
+concentrações séricas maternas. Até à data não foram detetadas mal formações em
+humanos que pudessem estar ligadas à exposição à furosemida. No entanto, ainda não
+foram adquiridos estudos suficientes de forma a permitir uma avaliação conclusiva quanto
+aos possíveis efeitos nefastos no embrião/feto. A produção de urina do feto pode ser
+estimulada intra-uterinamente.
+
+Verificaram-se casos de urilitíase e nefrocalcinose após o tratamento de prematuros com
+furosemida.
+
+Não foram efetuados estudos para avaliar os efeitos da furosemida em crianças quando
+ingerida conjuntamente com o leite materno.
+
+
+6. INFORMAÇÕES FARMACÊUTICAS
+
+6.1 Lista de excipientes
+
+Hidróxido de sódio
+Cloreto de sódio
+Ácido clorídrico concentrado
+Água para preparações injetáveis
+
+6.2 Incompatibilidades
+
+Este medicamento não deve ser misturado com outros medicamentos na mesma seringa.
+
+Este medicamento não deve ser perfundido em conjunto com outros medicamentos.
+
+Furosemida Hikma é uma solução com um pH aproximado de 9, sem capacidade tampão.
+Consequentemente, a substância ativa pode precipitar a valores de pH inferiores a 7. Se
+esta solução for diluída, deve ter-se o cuidado de assegurar que o pH da solução diluída
+seja fracamente alcalino a neutro.
+
+A solução salina normal (soro fisiológico também chamada de solução de cloreto de sódio
+a 0,9% ou soluto de Ringer) é um diluente apropriado. É recomendável que as soluções
+sejam utilizadas o mais rapidamente possível.
+
+6.3 Prazo de validade
+
+3 anos.
+
+6.4 Precauções especiais de conservação
+Não conservar acima de 25ºC.
+Manter as ampolas dentro da embalagem de modo a proteger da luz.
+Manter este medicamento fora da vista e do alcance das crianças.
+
+6.5 Natureza e conteúdo do recipiente
+
+Ampolas de vidro âmbar Tipo I de 2 ml.
+
+6.6 Precauções especiais de eliminação e manuseamento
+
+Não existem requisitos especiais.
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as
+exigências locais.
+
+
+7. TITULAR DE AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Hikma Farmacêutica (Portugal), S.A.
+Estrada do Rio da Mó nº8, 8A e 8B
+Fervença
+2705-906 Terrugem Sintra
+Portugal
+
+
+8. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Nº de registo: 5550967 - 5 ampolas de solução injetável ou para perfusão, 20 mg/2 ml,
+ampola de vidro âmbar Tipo I de 2 ml
+
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO OU RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 08 de fevereiro de 2013
+Data da última renovação: 18 de maio de 2017
+
+
+10. DATA DA REVISÃO DO TEXTO
+

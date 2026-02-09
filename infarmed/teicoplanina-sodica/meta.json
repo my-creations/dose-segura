@@ -1,0 +1,31 @@
+{
+  "medId": "teicoplanina-sodica",
+  "searchTerm": "teicoplanina",
+  "retrievedAt": "2026-02-09T00:48:40.230Z",
+  "bestMatch": {
+    "infarmedId": "618262",
+    "name": "Teicoplanina AltanMG",
+    "dci": "Teicoplanina",
+    "form": "Pó e solvente para solução injetável ou para perfusão",
+    "dosage": "200 mg/3.2 ml",
+    "holder": "Altan Pharmaceuticals, S.A.",
+    "isGeneric": false,
+    "score": 170
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/618262-rcm.pdf",
+      "size": 208227
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/618262-fi.pdf",
+      "size": 160051
+    }
+  }
+}

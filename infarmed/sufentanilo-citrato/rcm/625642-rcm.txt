@@ -1,0 +1,766 @@
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+
+1.    NOME DO MEDICAMENTO
+
+Sontilen 5 mcg/ml solução injetável ou para perfusão
+Sontilen 50 mcg/ml solução injetável ou para perfusão
+
+
+2.    COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Sontilen 5 mcg/ml solução injetável ou para perfusão
+Cada ml de solução contém 5 microgramas de sufentanilo como citrato de sufentanilo.
+
+Sontilen 50 mcg/ml solução injetável ou para perfusão
+Cada ml de solução contém 50 microgramas de sufentanilo como citrato de sufentanilo.
+
+Excipiente com efeito conhecido: sódio
+Cada ml de solução injetável contém 0,39 mmol (9 mg) de sódio.
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+3.    FORMA FARMACÊUTICA
+
+Solução injetável ou para perfusão
+
+Solução límpida e incolor, livre de partículas visíveis, com um pH de 4,0-6,0 e osmolaridade
+250 - 310 mOsmol/kg.
+
+
+4.    INFORMAÇÕES CLÍNICAS
+
+4.1   Indicações terapêuticas
+
+Adultos:
+Analgésico em anestesia combinada.
+Analgesia epidural no tratamento da dor pós-operatória.
+Analgésico adjuvante da bupivacaína epidural durante o trabalho de parto e período de expulsão.
+
+População pediátrica:
+Via intravenosa: Sontilen está indicado como agente analgésico para utilização durante a
+indução e/ou manutenção de anestesia geral equilibrada em crianças com idade superior a 1
+mês.
+
+Via epidural: Sontilen está indicado para utilização em crianças com idade igual ou superior a 1
+ano no controlo da dor no pós-operatório de intervenções de cirurgia abdominal, torácica ou
+ortopédica.
+
+
+4.2   Posologia e modo de administração
+
+Adultos
+Anestesia combinada e analgesia:
+- Analgesia: 0,5-5 microgramas/kg i.v.
+- Anestésico: 25-50 microgramas/kg i.v.
+Analgesia epidural no tratamento pós-operatório da dor: 25-50 microgramas.
+Analgésico adjuvante durante o parto e período de expulsão: 5-20 microgramas via peridural.
+
+Administração intravenosa
+Para evitar o aparecimento de bradicardia, recomenda-se administrar uma pequena dose de um
+anticolinérgico imediatamente antes da indução.
+
+Administração epidural
+Deve-se verificar se a agulha ou cateter foi colocado(a) adequadamente, no espaço epidural
+antes de injetar Sontilen.
+
+População pediátrica
+Administração intravenosa
+Crianças com idade ≤ 1 mês (recém-nascidos)
+Devido à grande variabilidade dos parâmetros farmacocinéticos em recém-nascidos, não deve
+ser dada uma recomendação da dose. Ver secções 4.4 e 5.2.
+
+Crianças com idade > 1 mês
+Para todas as doses, para evitar o aparecimento de bradicardia, recomenda-se a pré-medicação
+com um anticolinérgico (como a atropina), a menos que seja contraindicado.
+
+Indução da anestesia
+Sontilen pode ser administrado com uma injeção lenta de 0,2-0,5 microgramas/kg durante 30
+segundos, ou mais, em combinação com um agente de indução anestésica. Numa cirurgia
+considerada grande e de risco (por exemplo, cirurgia cardíaca) podem ser administradas doses
+de até 1 micrograma/kg.
+
+Manutenção da anestesia em doentes ventilados
+Sontilen pode ser administrado como parte de uma anestesia combinada. A dosagem depende da
+dose dos anestésicos concomitantes, do tipo e duração da cirurgia. Uma dose inicial de 0,3-2
+microgramas/kg administrada em bólus por injeção lenta durante pelo menos 30 segundos pode
+ser seguida por injeções bólus suplementares de 0,1-1 microgramas/kg, conforme necessário, até
+um total máximo de 5 microgramas/kg para uma cirurgia cardíaca.
+
+Administração epidural
+Sontilen pode ser administrado por via epidural em crianças apenas por anestesistas
+sspecificamente treinados na realização de anestesia epidural pediátrica e no controlo dos efeitos
+de depressão respiratória dos opióides. Deve estar imediatamente disponível um equipamento
+de reanimação adequado, incluindo dispositivos de manutenção da função respiratória, bem
+como um antagonista opióide.
+Os doentes pediátricos devem ser monitorizados quanto a sinais de depressão respiratória
+durante, pelo menos, 2 horas após a administração epidural de Sontilen.
+A administração epidural de Sontilen em doentes pediátricos foi documentada apenas num
+número limitado de casos.
+
+Crianças com idade <1 ano:
+A segurança e eficácia de sufentanilo em crianças om idade inferior a 1 ano ainda não foram
+estabelecidas (ver secção 4.4 e secção 5.1).
+s dados atualmente disponíveis para crianças com idade superior a 3 meses estão descritos na
+secção 5.1, contudo não é possível efetuar recomendações posológicas.
+Não existem dados disponíveis para recém-nascidos nem para crianças com idade inferior a 3
+meses.
+
+Crianças com idade > 1 ano:
+Uma dose única em bólus de 0,25-0,75 microgramas/kg de sufentanilo administrada no
+intraoperatório proporciona analgesia por um período de 1 a 12 horas. A duração de uma
+analgesia eficaz é influenciada pelo procedimento cirúrgico e pela utilização epidural
+concomitante de um anestésico local amídico.
+
+Idosos (65 anos e mais) e doentes debilitados:
+Como com qualquer outro opióide, os doentes idosos e debilitados necessitarão de doses mais
+baixas.
+A dose total pretendida deve ser cuidadosamente titulada em doentes com qualquer uma das
+seguintes perturbações:
+    - Hipotiroidismo não compensado
+    - Distúrbios pulmonares, principalmente se a capacidade vital estiver reduzida
+    - Alcoolismo ou insuficiência hepática e renal (ver secção 4.4).
+A monitorização pós-operatória prolongada destes doentes também é aconselhável.
+
+Doentes com tratamento crónico com opióides ou com historial de abuso de opiáceos podem
+necessitar de doses mais altas.
+
+
+4.3   Contraindicações
+
+• Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na
+  secção 6.1.
+• A administração intravenosa durante o parto, ou antes de clampar o cordão umbilical durante
+  cesarianas, não está recomendado pela possibilidade de depressão respiratória do recém-
+  nascido. Pelo contrário, na administração por via epidural durante o parto, sufentanilo em
+  doses até 30 microgramas, não influencia o estado da mãe ou do recém-nascido. Ver secção
+  4.4 e secção 4.6.
+• Excesso de secreções brônquicas.
+• Depressão respiratória consequente de uma terapêutica medicamentosa simultânea.
+• Situações nas quais deve ser evitada uma depressão do centro respiratório.
+
+Tal como outros opióides administrados via epidural, o sufentanilo não deve ser administrado
+na presença de:
+• hemorragia grave ou choque
+• septicémia
+• infeção no local da injeção
+• alterações na hemostase sanguínea, como trombocitopenia e coagulopatia
+• terapêutica medicamentosa simultânea ou situação clínica que possa contraindicar a técnica
+   de administração epidural.
+
+
+4.4   Advertências e precauções especiais de utilização
+
+A administração intravenosa de sufentanilo deve ser realizada apenas por por anestesistas
+experientes em hospitais ou outras instituições com instalações para intubação endotraqueal e
+ventilação mecânica.
+As funções vitais do doente devem ser monitorizadas com frequência, incluíndo na fase pós-
+operatória.
+
+Hiperalgesia induzida por opioides
+Assim como com outros opiáceos, em caso de um controlo insuficiente da dor em resposta a um
+aumento da dose de sufentanilo, deve ter-se em consideração a possiblidade de hiperalgesia
+induzida por opiáceos. Pode haver indicação para uma redução da dose ou para a
+descontinuação do sufentanilo ou a revisão do tratamento
+
+À semelhança do que acontece com todos os opióides potentes:
+A depressão respiratória está relacionada com a dose e pode ser revertida com a administração
+de um antagonista narcótico (naloxona), mas pode ser necessário administrar doses adicionais
+deste antagonista, pois a depressão respiratória pode ter uma maior duração do que a da ação do
+antagonista opióide.
+A analgesia profunda é acompanhada por depressão respiratória marcada e perda de
+consciência, que pode persistir no período pós-operatório e poderá até recorrer, se Sontilen tiver
+sido administrado por via intravenosa.
+A hiperventilação durante a anestesia pode alterar a resposta do doente ao CO2, afetando a
+respiração, no período pós-operatório.
+O risco de depressão respiratória retardada dever ser sempre tido em consideração e os doentes
+deverão permanecer sob vigilância adequada. Equipamento de reanimação e antagonistas
+narcóticos devem estar prontamente disponíveis.
+
+Risco de uso concomitante de medicamentos sedativos, como benzodiazepínicos ou
+medicamentos relacionados:
+O uso concomitante de sufentanilo e medicamentos sedativos, como benzodiazepínicos ou
+medicamentos relacionados, pode resultar em sedação, depressão respiratória, coma e morte.
+Devido a esses riscos, a prescrição concomitante destes medicamentos sedativos deve ser
+reservada para doentes para os quais não são possíveis opções alternativas de tratamento. Caso
+seja nessário prescrever sufentanilo concomitantemente com medicamentos sedativos, deve ser
+utilizada a dose mais baixa eficaz e a duração do tratamento deve ser a mais curta possível.
+Os doentes devem ser monitorizados quanto a sinais e sintomas de depressão respiratória e
+sedação. Recomenda-se informar os doentes e os seus cuidadores para que estejam cientes
+destes sintomas (ver secção 4.5).
+
+É normal descontinuar a toma de inibidores da MAO duas semanas antes da anestesia ou de
+procedimentos cirúrgicos.
+
+A indução de rigidez muscular pode ocorrer levando à depressão respiratória. Esta poderá ser
+evitável com as seguintes medidas: injeção intravenosa lenta (habitualmente suficiente para
+doses mais baixas), pré-medicação com benzodiazepinas e uso de relaxantes musculares.
+
+Perturbações respiratórias relacionadas com o sono
+Os opioides podem causar perturbações respiratórias relacionadas com o sono, incluindo apneia
+central do sono (ACS) e hipoxia relacionada com o sono. A utilização de opioides aumenta o
+risco de ACS de uma forma dependente da dose. Em doentes que se apresentam com ACS,
+considerar reduzir a dose total de opioides.
+
+Miastenia Gravis:
+O sufentanilo pode causar rigidez muscular após administração por injeção i.v., que pode levar
+ao uso de relaxantes musculares. Portanto, o sufentanilo não deve ser administrado em doentes
+com miastenia gravis, pois o uso de relaxantes musculares é inadequado para estes doentes.
+
+Podem surgir movimentos (mio)clónicos não epiléticos.
+
+Se o doente recebeu uma quantidade insuficiente de anticolinérgico, ou quando o Sontilen é
+associado com um relaxante muscular não-vagolítico pode surgir bradicardia e, possivelmente
+paragem cardíaca. A bradicardia pode ser tratada com a administração de atropina.
+Os opióides podem causar hipotensão, especialmente em doentes com hipovolémia e com
+insuficiência cardíaca. As doses de indução devem ser ajustadas e administradas lentamente
+para evitar a depressão cardiovascular. Devem-se tomar medidas adequadas para manter a
+tensão arterial estável.
+
+Em doentes com compromisso da compliance intracerebral e pressão intracraniana elevada
+deve-se evitar o uso de injeções rápidas de bólus de opióides; nestes doentes, a diminuição
+transitória na pressão arterial média foi ocasionalmente acompanhada por uma redução de curta
+duração da pressão de perfusão cerebral.
+
+Os doentes em tratamento crónico com opióides ou com uma história de abuso de opióides
+podem precisar de doses mais elevadas.
+
+Tolerância e Transtorno por Uso de Opióides (abuso e dependência)
+A administração repetida de opioides pode causar tolerância, dependência física e psicológica e
+pode levar a transtornos por uso de opioides (TUO). O abuso ou a utilização inadequada
+intencional de Dzuveo pode resultar em sobredosagem e/ou morte. O risco de desenvolvimento
+de TUO é maior em doentes com historial pessoal ou familiar (pais ou irmãos) de distúrbios de
+utilização de substâncias (incluindo distúrbio de consumo de álcool), em consumidores
+habituais de tabaco ou em doentes com historial pessoal de outros problemas de saúde mental
+(por exemplo, depressão major, ansiedade e perturbação da personalidade). Vai ser necessário
+monitorizar os doentes quanto a sinais de comportamento de procura de fármacos (p. ex.,
+pedidos demasiado precoces de novas receitas). Isto inclui a revisão de opioides e fármacos
+psicoativos (como as benzodiazepinas) concomitantes. Para os doentes com sinais e sintomas de
+TUO, deve ser considerada uma consulta com um especialista em dependência.
+
+Descontinuação do tratamento e síndrome de abstinência
+A administração repetida em intervalos curtos por períodos prolongados pode resultar no
+desenvolvimento de síndrome de abstinência após a interrupção do tratamento. Sintomas após a
+descontinuação de Sontilen, incluindo taquicardia, hipertensão e agitação, foram reportados com
+pouca frequência após a interrupção abrupta, particularmente após administração prolongada de
+mais de 3 dias. Quando reportado, a reintrodução e redução gradual da perfusão foram
+benéficas. O uso de Sontilen em doentes com terapêutica intensiva com ventilação mecânica
+não é recomendado para tratamento com duração superior a dias.
+
+Efeitos gastrointestinais
+O sufentanilo como antagonista dos recetores µ-opioides pode reduzir a motilidade
+gastrointestinal. Por conseguinte, o sufentanilo deve ser utilizado com precaução em doentes
+com risco de íleo paralítico. O sufentanilo como antagonista dos recetores µ-opioides pode
+causar espasmos do esfíncter de Oddi. Assim, o sufentanilo deve ser utilizado com precaução
+em doentes com doenças da vesícula e vias biliares, incluindo pancreatite aguda.
+
+Recomenda-se reduzir a dose em doentes idosos ou debilitados. Embora as meias-vidas não
+tenham sido medidas em idosos, uma frequência maior de distúrbios circulatórios foi observada
+nesses pacientes.
+
+A titulação dos opióides deve ser efetuada com precaução em doentes com qualquer das
+seguintes condições: hipotiroidismo, doença pulmonar; diminuição na reservarespiratória;
+alcoolismo; insuficiência hepática ou renal. Estes doentes tambémprecisam de monitorização
+prolongada no pós-operatório.
+
+Devem ser tomadas precauções na administração, por via epidural em situações de
+depressão respiratória, compromisso da função respiratória, ou na presença de sofrimento
+fetal. Deve-se monitorizar cuidadosamente os doentes, durante pelo menos uma hora, após cada
+administração, uma vez que pode surgir depressão respiratória precoce.
+A frequência cardíaca fetal pode mudar durante a administração epidural, portanto, é necessário
+monitorizar a frequência e pode ser necessário tratamento.
+
+População pediátrica
+Devido à ampla variabilidade dos parâmetros farmacocinéticos nos neonatos, existe um
+risco de sobre ou sub-dosagem na administração intravenosa de sufentanilo durante o
+período neonatal. Ver secção 4.2 e secção 5.2.
+
+A segurança e eficácia da administração epidural de Sontilen em crianças com idade inferior a 1
+ano ainda não foram estabelecidas (ver secção 4.2 e secção 5.1).
+
+Pode-se esperar que recém-nascidos e crianças sejam particularmente sensíveis à depressão
+respiratória do sufentanilo, como contece com outros opióides. Portanto, a relação
+benefício/risco deve ser cuidadosamente avaliada antes de o sufentanilo ser utilizado em recém-
+nascidos e crianças.
+
+Este medicamento contém 9 mg de sódio por ml de solução injetável, equivalente a 0,45 % da
+dose diária máxima adulta recomendada pela OMS de 2 g de sódio.
+
+
+4.5   Interações medicamentosas e outras formas de interação
+
+Depressores do sistema nervoso central (depressores do SNC)
+Medicamentos como barbitúricos, benzodiazepinas, neurolépticos, gases halogénicos e
+outros depressores do sistema nervoso central não seletivos (como por exemplo, o álcool)
+podem potenciar a depressão respiratória de narcóticos.
+Quando os doentes receberam tais medicamentos, a dose necessária de sufentanilo será inferior
+à habitual. A administração concomitante de sufentanilo em doentes com respiração espontânea
+pode aumentar o risco de depressão respiratória, sedação profunda, coma e morte.
+
+Efeito do Sontilen em outras medicamentos
+Após a administração de Sontilen, a dose de depressores do SNC deve ser diminuída. Isto é
+muito importante após a cirurgia, pois a analgesia profunda é acompanhada por uma depressão
+respiratória acentuada que pode durar, ou retornar, durante o período pós-operatório.
+A administração de um depressor do SNC, como as benzodiazepinas, durante esse período pode
+aumentar o risco de depressão respiratória de forma desproporcional.
+
+Ao administrar, concomitantemente, doses elevadas de sufentanilo e óxido nitroso ou mesmo
+pequenas doses de benzodiazepínicos (por exemplo, diazepam ou midazolam) pode ocorrer uma
+redução da função cardíaca (redução da pressão sanguínea, da frequência cardíaca e do débito
+cardíaco).
+
+
+
+A administração concomitante de sufentanilo e suxametónio pode resultar na indução de
+bradicardia, especialmente se o pulso já se encontrar fraco (ex.: em doentes a receber
+bloqueadores do canal de cálcio ou beta-bloqueadores). Por isso recomenda-se a redução
+adequada da dose de um ou de ambos os medicamentos.
+
+Inibidores da monoamina oxidase (IMAOs)
+Em tratamentos com inibidores das MAO até 14 dias antes da terapêutica de opiáceos com
+petidina, foram observadas interações muito graves no SNC (agitação, rigidez muscular, febre
+alta, convulsões), bem como na função respiratória e circulatória (depressão circulatória,
+hipotensão, instabilidade hemodinâmica, coma). Essas interações não são excluídas com o uso
+de sufentanilo e, portanto, recomenda-se interromper os inibidores das MAO (pelo menos) 2
+semanas antes de qualquer intervenção cirúrgica ou anestésica.
+
+Medicamentos serotoninérgicos
+A co-administração de sufentanilo com um agente serotoninérgico, tais como Inibidores
+Seletivos da Recaptação da Serotonina (ISRSs), Inibidores da Recaptação da Serotonina e
+Noradrenalina (IRSNs), ou Inibidores da Monoamino-Oxidase (IMAOs), pode aumentar o risco
+de síndrome serotoninérgica, uma situação potencialmente com risco de vida. Os Inibidores da
+Monoamino-Oxidase não devem ser tomados nas 2 semanas anteriores ou ao mesmo tempo que
+a toma de Sontilen.
+
+Inibidores do CYP3A4 (citocromo P450 3A4)
+O sufentanilo é metabolizado principalmente via a enzima do citocromo humano P 3A4.
+No entanto, não foi observada inibição in vivo pela eritromicina (um conhecido inibidor da
+enzima do citocromo P450 3A4). Apesar da falta de dados clínicos, os dados in vitro sugerem
+que outros potentes inibidores da enzima do citocromo P450 3A4, como o cetoconazol,
+itraconazol e ritonavir, podem inibir o metabolismo do sufentanilo. Isto pode aumentar o risco
+de depressão prolongada ou retardada. A utilização concomitante de tais medicamentos exige
+um cuidado e observação especial dos doentes; em particular, pode ser necessário reduzir a dose
+de Sontilen.
+
+Gabapentinoides
+A utilização concomitante de opioides e gabapentinoides (gabapentina e pregabalina) aumenta o
+risco de sobredosagem com opioides, depressão respiratória e morte.
+
+4.6   Fertilidade, gravidez e aleitamento
+
+Gravidez
+A segurança de sufentanilo por via intravenosa em mulheres grávidas não foi ainda avaliada,
+embora estudos em animais não tenham demonstrado quaisquer efeitos teratogénicos (ver
+secção 5.3). Tal como com outros medicamentos, os riscos deverão ser ponderados em relação
+aos potenciais benefícios para a doente.
+
+A administração intravenosa durante o parto, ou antes de clampar o cordão umbilical durante
+cesarianas, não está recomendado pela possibilidade de depressão respiratória do recém-
+nascido.
+
+O sufentanilo atravessa rapidamente a placenta e a concentração aumenta linearmente com o
+aumento da concentração materna. A relação entre a concentração na veia umbilical e a
+concentração venosa materna é de 0,81.
+
+O sufentanilo pode ser administrado via epidural. Ensaios clínicos controlados e realizados
+durante o trabalho de parto, demonstraram que sufentanilo adicionado à bupivacaína e
+administrado por via epidural, em doses totais até 30 microgramas, não tem efeitos adversos
+nem na mãe, nem no recém-nascido. O sufentanilo atravessa a placenta. Após administração
+epidural de uma dose total até 30 microgramas, foram detetadas, na veia umbilical,
+concentrações plasmáticas médias de 0.016 ng/ml.
+
+Deverá sempre ter-se disponível um antídoto para a criança.
+
+Amamentação
+Sufentanilo é excretado através do leite materno. Deve-se administrar sufentanilo a lactantes
+com precaução.
+4.7      Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+O sufentanil afeta significativamente a capacidade de conduzir ou utilizar máquinas.
+Os doentes não devem conduzir ou operar máquinas até que tenha passado tempo suficiente
+após a administração de Sontilen.
+
+Após a administração, os doentes não devem ser enviados para casa sem supervisão, e é
+recomendado que evitem a ingestão de álcool.
+
+
+4.8      Efeitos indesejáveis
+
+A segurança de sufentanilo foi avaliada em 650 indivíduos tratados com sufentanilo que
+participaram em 6 ensaios clínicos. Destes, 78 indivíduos participaram em 2 ensaios clínicos em
+que sufentanilo foi administrado por via intravenosa como agente anestésico para indução e
+manutenção da anestesia em indivíduos sujeitos a procedimentos cirúrgicos major (bypass
+arterial coronário ou cirurgia de coração aberto). Os restantes 572 indivíduos participaram em 4
+ensaios clínicos de sufentanilo epidural administrado como analgésico pós-operatório ou como
+analgésico adjuvante da bupivacaína durante trabalho de parto ou expulsão. Estes indivíduos
+tomaram, pelo menos, 1 dose de sufentanilo e forneceram dados de segurança.
+
+Com base nos resultados destes ensaios clínicos, os efeitos indesejáveis mais frequentemente
+reportados foram (≥ 5 % de incidência): sedação (19.5%), prurido (15.2%), náuseas (9.8%) e
+vómitos (5.7%).
+
+População pediátrica
+Espera-se que a frequência, tipo e gravidade das reações adversas em crianças sejam iguais aos
+dos adultos.
+
+Além dos efeitos indesejáveis mencionados acima, a tabela seguinte descreve os efeitos
+indesejáveis reportados com o uso de sufentanilo quer nos ensaios clínicos, quer de experiências
+pós-comercialização.
+
+As frequências são fornecidas de acordo com a seguinte convenção:
+Muito frequentes (≥1/10); frequentes (≥1/100, <1/10); pouco frequentes (≥1/1,000, <1/100),
+raros (≥1/10.000, <1/1.000); muito raros (<1/10.000); desconhecido (não pode ser calculado a
+partir dos dados disponíveis).
+
+Tabela 1 – Efeitos inesejáveis
+
+
+ Reações Adversas
+                                                    Frequência
+       Classes de    Muito        Frequentes    Pouco          Raros           Desconhecidos
+      sistemas de    frequentes   (≥1/100 a     frequentes     (≥1/10.000 a
+         órgãos      (≥ 1/10)     <1/10)        (≥1/1,000 a    <1/1.000)
+                                                <1/100)
+ Infeções e                                     Rinite
+ infestações
+ Doenças do                                     Hipersensibi-                  Choque
+ sistema                                        lidade                         anafilático,
+ imunitário                                                                    Reação
+                                                                               anafilática,
+                                                                               Reação
+                                                                               anafilatóide
+ Perturbações do                                Apatia,
+foro psiquiátrico                             Nervosismo
+Doenças do          Sedação   Tremor          Ataxia,          Coma,
+sistema nervoso               neonatal,       Discinesia       Convulsão,
+                              Tonturas,       neonatal,        Contrações
+                              Enxaquecas      Distonia,        musculares
+                                              Hiperreflexia,   involuntárias
+                                              Hipertonia,
+                                              Hipocinesia
+                                              neonatal,
+                                              Sonolência
+Afeções                                       Distúrbios       Miose
+oculares                                      visuais
+Cardiopatias                  Taquicardia     Bloqueio         Paragem
+                                              Auriculoven-     cardíaca
+                                              tricular,
+                                              Cianose,
+                                              Bradicardia,
+                                              Arritmia,
+                                              Eletrocardio-
+                                              grama
+                                              anormal
+Vasculopatias                 Hipertensão,                     Choque
+                              Hipotensão,
+                              Palidez
+Doenças                       Cianose         Broncoespas-     Paragem
+respiratórias,                neonatal        mo,              respiratória,
+torácicas e do                                Hipoventila-     Apneia,
+mediastino                                    ção, Disfonia,   Depressão
+                                              Tosse,           respiratória,
+                                              Soluços,         Edema
+                                              Perturbações     Pulmonar,
+                                              respiratórias    Laringoespasmo
+Doenças                       Vómitos,
+gastrointestinais             Náuseas
+Afeções dos         Prurido   Descoloração    Dermatite        Eritema
+tecidos cutâneos              da pele         alérgica,
+e subcutâneos                                 Hiperhidrose,
+                                              Rash, Rash
+                                              neonatal, Pele
+                                              seca
+Afeções                       Contrações      Dores nas        Espasmos
+musculosque-                  musculares      costas,          musculares
+léticas e dos                                 Hipotonia
+tecidos                                       neonatal,
+conjuntivos                                   Rigidez
+                                              muscular
+Doenças renais                Retenção
+e urinárias                   urinária,
+                              Incontinência
+                              urinária
+Perturbações                  Pirexia         Hipotermia,
+gerais e                                      Decréscimo
+alterações no                                 da
+local de                                      temperatura
+administração                                 corporal,
+                                              Aumento
+                                              da
+                                              temperatura
+                                              corporal,
+                                              Arrepios,
+                                                 Reação no
+                                                 local de
+                                                 injeção, Dor
+                                                 no local de
+                                                 injeção, Dor
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante,
+uma vez que permite uma monitorização contínua da relação benefício-risco do medicamento.
+Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas
+diretamente ao INFARMED, I.P.:
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+E-mail: farmacovigilancia@infarmed.pt
+
+
+
+4.9   Sobredosagem
+
+Sinais e sintomas
+As manifestações de sobredosagem de sufentanilo são uma extensão das suas ações
+farmacológicas. Dependendo da sensibilidade individual, o quadro clínico será determinado
+principalmente pelo grau de depressão respiratória, variando de bradipneia a apneia.
+
+Tratamento
+Quando surge hipoventilação ou apneia, deverá ser administrado oxigénio e fazer ventilação
+controlada ou assistida, consoante indicado. Um antídoto específico dos opiódes deverá ser
+utilizado para controlar a depressão respiratória, como indicado, o que não exclui a utilização de
+outras medidas terapêuticas imediatas. A depressão respiratória pode durar mais tempo do que o
+efeito do antagonista; pelo que se poderão ter de se administrar doses suplementares deste
+antagonista.
+Se a depressão respiratória se associar a rigidez muscular, administrar um medicamento
+bloqueador neuromuscular por via endovenosa, para facilitar a respiração assistida ou
+controlada.
+
+O doente deverá ser cuidadosamente observado, a temperatura corporal e hidratação adequada
+devem ser mantidas. Se a hipotensão, for grave e persistente, deverá considerar-se a hipótese de
+hipovolémia que, se presente, deverá ser controlada, através da administração parentérica
+adequada de líquidos.
+
+
+5.    PROPRIEDADES FARMACOLÓGICAS
+
+5.1   Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 2.12- Sistema nervoso central. Analgésicos estupefacientes,
+código ATC: N01AH03
+O sufentanilo é um analgésico opióide altamente potente com efeito farmacológico μ-agonista.
+O sufentanilo é um analgésico narcótico muito potente (7-10 vezes mais potente do que o
+fentanilo no homem) com uma grande margem de segurança (DL50/DE50 para o menor nível de
+analgesia) em ratos; o valor desta relação 25.211 é superior quer ao fentanilo, (277) quer ao da
+morfina (69,5). Sufentanilo administrado por via intravenosa tem um rápido início de ação. A
+acumulação limitada e a eliminação rápida dos tecidos permitem um recobro rápido. A
+profundidade da analgesia está relacionada com a dose e pode ajustar-se ao nível da dor da
+intervenção cirúrgica.
+À semelhança de outros narcóticos analgésicos, o sufentanilo (dependendo da dose e da
+velocidade de administração) pode causar rigidez muscular, bem como euforia, miose e
+bradicardia.
+
+Os doseamentos de histamina não evidenciaram nenhum potencial de este fármaco provocar a
+libertação de histamina em doentes a fazer sufentanilo.
+Todas as ações de sufentanilo são imediata e completamente revertidas por um antagonista
+narcótico específico.
+A administração de sufentanilo por via epidural provoca analgesia, com início rápido (5 a 10
+minutos) e uma duração moderada (geralmente 4-6 horas).
+
+População pediátrica
+Administração epidural
+A média do início de ação e da duração da analgesia foi de 3,0 ± 0,3 e 198 ± 19 minutos,
+respetivamente, após administração epidural de 0,75 microgramas/kg de sufentanilo em 15
+crianças com idades compreendidas entre 4 e 12 anos.
+O sufentanilo foi administrado por via epidural em apenas um número limitado de crianças com
+idades compreendidas entre os 3 meses e 1 ano, na forma de dose única em bólus de 0,25-0,75
+microgramas/kg para o controlo da dor em pós-operatório.
+Em crianças com idade superior a 3 meses, uma dose epidural em bólus de 0,1 microgramas/kg
+de sufentanilo seguida de uma perfusão epidural de 0,03-0,3 microgramas/kg/h combinada com
+um anestésico local amídico proporcionou uma analgesia em pós-operatório eficaz por um
+período de até 72 horas em doentes submetidos a cirurgia subumbilical.
+
+
+5.2   Propriedades farmacocinéticas
+
+Absorção
+Com a administração por via epidural as concentrações máximas atingem-se em 10 minutos e
+são 4-6 vezes menores do que as obtidas após administração intravenosa. A associação com
+epinefrina (50-75 microgramas) reduz a absorção rápida inicial em 25%-50%.
+
+
+Distribuição
+Nos estudos em que se administrou o sufentanilo foi administrado em doses que variaram entre
+250 e 1500 microgramas, que permitiram a colheita prolongada de amostras de sangue e a
+quantificação dos níveis plasmáticos do medicamento, obtiveram-se os seguintes valores:
+tempos de semivida de distribuição sequenciais de 2,3-4,5 minutos e 35-73 minutos, um volume
+de distribuição de compartimento central de 14,2 l, um volume de distribuição no estado
+estacionário de 344 l.
+As fases de distribuição sequenciais, mas não a fase terminal (tempo de semivida variou de 4,1
+h após 250 microgramas a 10-16 h após 500-1500 microgramas), determinaram o decaimento
+das concentrações plasmáticas de sufentanilo de níveis terapêuticos até aos de recuperação. A
+farmacocinética de sufentanilo é linear no intervalo de dosagem estudado.
+A ligação de sufentanilo às proteínas plasmáticas é cerca de 92,5%.
+
+Biotransformação
+O fígado e intestino delgado são os principais locais de biotransformação. Sufentanilo é
+metabolizado sobretudo via enzima do citocromo P450 3A4 humano.
+
+Eliminação
+A semivida média de eliminação de sufentanilo é 784 (656-938) min. Devido às limitações do
+ensaio de deteção, a semivida de eliminação de sufentanilo foi significativamente menor (240
+min) após a dosagem de 250 microgramas do que após a dosagem de 1500 microgramas. A
+depuração plasmática é 917 ml/min. Aproximadamente 80% da dose administrada é excretada
+em 24h e apenas 2% da dose é eliminada na forma inalterada.
+
+Populações especiais
+Compromisso hepático
+O volume de distribuição está significativamente aumentado e a depuração total
+significativamente diminuída em doentes com cirrose quando comparados com o controlo. Isto
+resulta num prolongamento significativo da semivida em cerca de 30% o que requer um período
+de observação pós-operatório mais longo (ver secção 4.4).
+
+Compromisso renal
+O volume de distribuição em estado de equilíbrio, depuração total e semivida de eliminação
+terminal em doentes em diálise e sujeitos a transplante renal não são diferentes da população
+controlo saudável. A fração livre de sufentanilo nesta população não é diferente dos doentes
+sem compromisso renal.
+
+População pediátrica
+A informação farmacocinética em crianças é limitada.
+
+Administração intravenosa
+A ligação às proteínas plasmáticas em crianças é mais baixa comparativamente à dos adultos,
+sendo que aumenta com a idade. Em recém-nascidos, o sufentanilo está cerca de 80,5% ligado a
+proteínas comparado com 88,5% nos bebés, 91,9% nas crianças e 92,5% nos adultos.
+Após a administração intravenosa em bólus de 10-15 microgramas/kg de sufentanilo nos
+doentes pediátricos submetidos a cirurgia cardíaca, a farmacocinética de sufentanilo pode ser
+descrita por uma curva triexponencial, tal como nos adultos. A depuração normalizada para o
+peso corporal revelou ser superior nos bebés e nas crianças em comparação com os
+adolescentes, os quais tiveram taxas de depuração comparáveis às dos adultos. Nos recém-
+nascidos, a depuração estava significativamente reduzida, tendo exibido uma ampla
+variabilidade (intervalo de 1,2 a 8,8 ml/min/kg e um valor discrepante de 21,4 ml/min/kg). Os
+neonatos demonstraram ter um maior volume de distribuição no estado estacionário e uma
+semivida de eliminação prolongada. As diferenças farmacodinâmicas resultantes das diferenças
+nos parâmetros farmacocinéticos podem ser superiores se se contemplar a fração não ligada.
+
+Tabela 2: Média dos parâmetros farmacocinéticos de sufentanilo em crianças após
+administração intravenosa de uma dose única em bólus de 10-15 microgramas/kg de
+sufentanilo (N = 28)
+
+ Grupo etário                  N   Vdss (L/kg)         T1/2β (min)       Depuração
+                                   Média (± SD)        Média (± SD)      (ml/kg/min)
+                                                                         Média (± SD)
+ Neonatos (0 a 30 dias)        9   4,15 (1,01)         737 (346)         6,7 (6,1)
+ Bebés (1 a 23 meses)          7   3,09 (0,95)         214 (41)          18,1 (2,8)
+ Crianças (3 a 11 anos)        7   2,73 (0,50)         140 (30)          16,9 (3,2)
+ Adolescentes (13 a 18 anos)   5   2,75 (0,53)         209 (23)          13,1 (3,6)
+D = Depuração, normalizada para o peso corporal; N= número de doentes incluídos na análise;
+DP = desvio padrão; T1/2β = semivida de eliminação; Vdss = volume de distribuição no estado
+estacionário. Os grupos etários referidos correspondem aos das crianças estudadas.
+Administração epidural
+Após administração epidural de 0,75 microgramas/kg de sufentanilo em 15 crianças com idades
+compreendidas entre 4 e 12 anos, os níveis plasmáticos obtidos aos 30, 60, 120 e 240 min após
+injeção situaram-se no intervalo de 0,08 ± 0,01 a 0,10 ± 0,01 ng/ml.
+Em 6 crianças com idades compreendidas entre os 5 e os 12 anos que receberam 0,6
+microgramas/kg de sufentanilo em bólus seguido de uma perfusão contínua por via epidural de
+0,08 microgramas/kg/h de sufentanilo e 0,2 mg/kg/h de bupivacaína durante 48 h, foram obtidas
+concentrações máximas aproximadamente aos 20 min após a injeção em bólus, num intervalo
+que se situa entre valores abaixo do limite de quantificação (< 0,02 ng/ml) e 0,074 ng/ml.
+
+
+5.3    Dados de segurança pré-clínica
+
+Nenhum.
+
+
+6.     INFORMAÇÕES FARMACÊUTICAS
+
+6.1.   Lista dos excipientes
+
+Cloreto de sódio
+Hidróxido de sódio (para ajuste de pH)
+Ácido clorídrico (para ajuste de pH)
+Água para preparações injetáveis
+
+
+6.2    Incompatibilidades
+
+Este medicamento não deve ser misturado com outros medicamentos, exceto os mencionados na
+secção 6.6.
+
+
+6.3    Prazo de validade
+
+Embalagem fechada
+30 meses.
+
+Após abertura
+Após a primeira abertura, o medicamento deve ser utilizado imediatamente.
+
+Após reconstituição
+A estabilidade química e física foi demonstrada durante 24 horas abaixo de 25ºC e a 2-8°C. No
+entanto, do ponto de vista microbiológico, o produto deve ser utilizado imediatamente. Se não
+for usado imediatamente, os tempos de armazenamento e condições prévias ao uso são da
+responsabilidade do utilizador e não devem ultrapassar as 24 horas a 2-8°C, a menos que
+tenham sido utilizadas condições assépticas controladas e validadas.
+
+
+6.4    Precauções especiais de conservação
+
+Este medicamento não necessita de condições especiais de conservação.
+Manter as ampolas dentro de embalagem exterior para proteger da luz.
+
+Condições de conservação do medicamento após reconstituição, ver secção 6.3.
+6.5     Natureza e conteúdo do recipiente
+
+Ampolas de vidro tipo I transparente de 10 ml e 5 ml, respetivamente. As ampolas são
+apresentadas com uma etiqueta e são secundariamente embaladas em bandejas de PVC
+moldadas (cada bandeja contém 5 ampolas), seladas com folha de PE. A membrana removível
+em blisters de PVC é utilizada apenas no caso das ampolas de 5 ml.
+
+Embalagens de 5 ou 10 ampolas.
+
+É possível que não sejam comercializadas todas as apresentações.
+
+
+
+6.6   Precauções especiais de eliminação e manuseamento
+
+Pode ser misturado com solução para perfusão isotónica de cloreto de sódio, solução para
+perfusão de glucose a 5% e solução para perfusão de lactato de Ringer.
+
+Use luvas ao abrir o frasco. A exposição acidental da pele deve ser tratada enxaguando a área
+afetada com água. Evite usar sabão, álcool e outros produtos de limpeza que possam causar
+danos químicos ou físicos à pele.
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as
+exigências locais.
+
+
+7.    TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Medochemie Ltd.
+1-10 Constantinoupoleos Street
+3011 Limassol
+Chipre
+
+
+8.    NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+
+Sontilen 5 mcg/ml solução injetável ou para perfusão
+
+Registo nº 5767843 – 5x10ml ampolas, 5mcg/ml, vidro tipo I
+
+
+Sontilen 50 mcg/ml solução injetável ou para perfusão
+
+Registo nº 5767876 – 5x5ml ampolas, 50mcg/ml, vidro tipo I
+
+
+9.    DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+      INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização:
+
+
+10.     DATA DA REVISÃO DO TEXTO
+

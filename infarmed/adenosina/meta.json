@@ -1,0 +1,75 @@
+{
+  "medId": "adenosina",
+  "searchTerm": "adenosina",
+  "retrievedAt": "2026-02-08T00:00:00.000Z",
+  "bestMatch": {
+    "infarmedId": "DE/H/6166/001",
+    "name": "Adenosina Baxter",
+    "dci": "Adenosina",
+    "form": "Solução injetável",
+    "dosage": "6 mg/2 ml",
+    "holder": "Baxter Holding BV",
+    "score": 1.0,
+    "generic": true,
+    "processNumber": "DE/H/6166/001",
+    "administration": ["Via intravenosa"],
+    "classification": {
+      "atc": "C01EB10 - adenosine",
+      "farmacoterapeutica": "3.2.5 - Outros antiarrítmicos"
+    },
+    "aimDate": "07/05/2015",
+    "lastUpdated": "11/04/2019"
+  },
+  "documents": {
+    "rcm": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/DE-H-6166-001-rcm.pdf",
+      "size": 95058,
+      "method": "POST with form state",
+      "lastUpdated": "11/04/2019"
+    },
+    "fi": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/DE-H-6166-001-fi.pdf",
+      "size": 157696,
+      "method": "POST with form state",
+      "lastUpdated": "05/11/2025"
+    }
+  },
+  "alternatives": [
+    {
+      "name": "Adenosina Hikma MG",
+      "holder": "Hikma Farmacêutica (Portugal), S.A.",
+      "form": "Solução injetável",
+      "dosage": "6 mg/2 ml"
+    },
+    {
+      "name": "Adenosina Kabi",
+      "holder": "Fresenius Kabi Pharma Portugal, Lda.",
+      "form": "Solução injetável em seringa pré-cheia",
+      "dosage": "12 mg/4 ml"
+    },
+    {
+      "name": "Adenosina Kabi",
+      "holder": "Fresenius Kabi Pharma Portugal, Lda.",
+      "form": "Solução injetável em seringa pré-cheia",
+      "dosage": "3 mg/1 ml"
+    },
+    {
+      "name": "Adenosina Kabi",
+      "holder": "Fresenius Kabi Pharma Portugal, Lda.",
+      "form": "Solução injetável em seringa pré-cheia",
+      "dosage": "6 mg/2 ml"
+    },
+    {
+      "name": "Adenosina Pharma Bavaria MG",
+      "holder": "Pharma Bavaria Internacional (PBI) Portugal, Unipessoal Lda.",
+      "form": "Solução injetável",
+      "dosage": "6 mg/2 ml"
+    }
+  ]
+}

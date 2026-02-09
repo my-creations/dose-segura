@@ -1,0 +1,31 @@
+{
+  "medId": "linezolida",
+  "searchTerm": "linezolida",
+  "retrievedAt": "2026-02-08T23:46:53.123Z",
+  "bestMatch": {
+    "infarmedId": "610145",
+    "name": "Linezolida AltanMG",
+    "dci": "Linezolida",
+    "form": "Solução para perfusão",
+    "dosage": "600 mg/300 ml",
+    "holder": "Altan Pharmaceuticals, S.A.",
+    "isGeneric": false,
+    "score": 170
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/610145-rcm.pdf",
+      "size": 186689
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/610145-fi.pdf",
+      "size": 186744
+    }
+  }
+}

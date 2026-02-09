@@ -1,0 +1,15 @@
+{
+  "bestMatch": {
+    "infarmedId": "51238",
+    "medicationName": "Iloprost Waymade MG",
+    "dci": "Iloprost",
+    "form": "Concentrado para solução para perfusão",
+    "dosage": "50 µg/0.5 ml",
+    "holder": "Waymade B.V.",
+    "searchTerm": "iloprost"
+  },
+  "documents": {
+    "rcm": "rcm/51238-rcm.pdf",
+    "fi": "fi/51238-fi.pdf"
+  }
+}

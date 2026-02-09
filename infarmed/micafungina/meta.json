@@ -1,0 +1,31 @@
+{
+  "medId": "micafungina",
+  "searchTerm": "micafungina",
+  "retrievedAt": "2026-02-09T00:44:13.513Z",
+  "bestMatch": {
+    "infarmedId": "645465",
+    "name": "Micafungina AccordMG",
+    "dci": "Micafungina",
+    "form": "Pó para concentrado para solução para perfusão",
+    "dosage": "100 mg",
+    "holder": "Accord Healthcare, S.L.U.",
+    "isGeneric": false,
+    "score": 170
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/645465-rcm.pdf",
+      "size": 227652
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/645465-fi.pdf",
+      "size": 47371
+    }
+  }
+}

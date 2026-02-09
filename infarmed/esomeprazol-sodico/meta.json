@@ -1,0 +1,30 @@
+{
+  "medId": "esomeprazol-sodico",
+  "searchTerm": "esomeprazol",
+  "retrievedAt": "2026-02-08T23:10:00Z",
+  "bestMatch": {
+    "infarmedId": "56366",
+    "name": "Esomeprazol AzevedosMG",
+    "dci": "Esomeprazol",
+    "form": "Pó para solução injetável ou para perfusão",
+    "dosage": "40 mg",
+    "holder": "Laboratórios Azevedos - Indústria Farmacêutica, S.A.",
+    "score": 139.56
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/56366-rcm.pdf",
+      "size": 209482
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/56366-fi.pdf",
+      "size": 219430
+    }
+  }
+}

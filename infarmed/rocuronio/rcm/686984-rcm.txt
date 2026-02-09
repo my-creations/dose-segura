@@ -1,0 +1,901 @@
+                                                                              APROVADO EM
+                                                                              15-03-2024
+                                                                              INFARMED
+
+1.    NOME DO MEDICAMENTO
+
+Brometo de Rocurónio Aguettant 10 mg/ml solução injetável em seringa pré-cheia
+
+
+2.    COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada ml de solução injetável contém 10 mg de brometo de rocurónio.
+Cada 5 ml de solução injetável em seringa pré-cheia contém 50 mg de brometo de rocurónio.
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+3.    FORMA FARMACÊUTICA
+
+Solução injetável em seringa pré-cheia (injeção).
+Solução límpida, incolor a castanho-amarelado pálido.
+pH 3,8 – 4,2
+Osmolalidade: 270 – 330 mOsm/kg
+
+
+4.    INFORMAÇÕES CLÍNICAS
+
+4.1   Indicações terapêuticas
+
+Brometo de Rocurónio Aguettant é indicado em adultos e população pediátrica com mais de 2
+anos de idade como adjuvante da anestesia geral para facilitar a intubação traqueal, durante a
+indução de rotina e para obter um relaxamento muscular geral durante os procedimentos
+cirúrgicos.
+
+Em adultos, Brometo de Rocurónio Aguettant é também indicado para facilitar a intubação
+traqueal durante indução rápida e como adjuvante na Unidade de Cuidados Intensivos (UCI) para
+facilitar a intubação traqueal e a ventilação mecânica, para utilização a curto prazo.
+
+4.2   Posologia e modo de administração
+
+Posologia
+
+Tal como outros bloqueadores neuromusculares, Brometo de Rocurónio Aguettant só deve ser
+administrado por ou sob supervisão de médicos experientes que estejam familiarizados com a
+ação e a utilização deste tipo de fármacos.
+Assim como outras substâncias bloqueadoras neuromusculares, a dosagem de Brometo de
+Rocurónio Aguettant deve ser determinada individualmente para cada doente. O método
+anestésico utilizado, a duração prevista para a intervenção cirúrgica, o método de sedação, a
+duração prevista da ventilação mecânica, a possível interação com outros fármacos administrados
+concomitantemente e o estado do doente, são fatores que devem ser tomados em consideração na
+determinação da dose. Recomenda-se o uso de uma técnica de monitorização neuromuscular
+apropriada para avaliar o bloqueio e a recuperação neuromuscular.
+Os anestésicos de inalação potenciam os efeitos de bloqueio neuromuscular de Brometo de
+Rocurónio Aguettant . Este efeito apenas se torna clinicamente relevante no decurso da anestesia,
+                                                                                APROVADO EM
+                                                                                15-03-2024
+                                                                                INFARMED
+
+quando os anestésicos de inalação atingem as concentrações tissulares necessárias para esta
+interação. Consequentemente, durante os procedimentos cirúrgicos que durem mais do que 1 hora
+sob anestesia de inalação, deve ser administrado Brometo de Rocurónio Aguettant em menores
+doses de manutenção em intervalos de frequência inferiores (ver secção 4.5).
+
+Nos adultos, as doses de Brometo de Rocurónio Aguettant abaixo indicadas servem como
+orientação para a intubação traqueal e para o relaxamento muscular em intervenções cirúrgicas de
+curta ou longa duração e para o uso na UCI por períodos curtos.
+
+Intervenções Cirúrgicas
+
+Intubação traqueal
+
+Adultos
+
+A dose de intubação padrão durante uma indução de rotina é de 0,6 mg.kg-1 de brometo de
+rocurónio, após a qual se estabelecem condições de intubação adequadas em praticamente todos
+os doentes, dentro de 60 segundos. Para facilitar a intubação traqueal durante a indução rápida da
+anestesia, recomenda-se o uso de uma dose de 1,0 mg.kg-1 de brometo de rocurónio, após a qual
+se estabelecem condições de intubação adequadas em praticamente todos os doentes, dentro de 60
+segundos. Caso se utilize uma dose de 0,6 mg.kg-1 de brometo de rocurónio na indução rápida da
+anestesia, recomenda-se a intubação do doente 90 segundos após a administração de brometo de
+rocurónio.
+
+População pediatrica
+
+Para crianças (≥ 2 anos) com mais de 10 kg de peso corporal, a dose recomendada para intubação
+durante uma anestesia de rotina é idêntica à dos adultos.
+Brometo de Rocurónio Aguettant não deve ser dado a crianças com menos de 2 anos porque a
+sub-graduação da seringa pré-cheia não permite uma administração precisa do produto nestas
+populações (ver secção 6.6). No entanto, outras formulações de brometo de rocurónio estão
+disponíveis para utilização.
+
+A experiência com brometo de rocurónio durante a indução rápida em doentes pediátricos é
+limitada. O brometo de rocurónio não é portanto recomendado para facilitar as condições de
+intubação traqueal durante a indução rápida em doentes pediátricos.
+
+Doentes geriátricos e doentes com doença hepática e/ou das vias biliares e/ou falência renal
+
+Em geriatria e em doentes com doença hepática e/ou das vias biliares e/ou falência renal, a dose
+de intubação padrão durante a anestesia de rotina é de 0,6 mg.kg-1 de brometo de rocurónio. Para
+os doentes que se espera um prolongamento da duração da ação, deve ser considerada a dose de
+0,6 mg.kg-1 de brometo de rocurónio para indução rápida da anestesia. Se a dose de 0,6 mg.kg-1
+de brometo de rocurónio for utilizada para uma indução rápida da anestesia, é aconselhável
+intubar o doente apenas após 90 segundos após a administração de brometo de rocurónio.
+
+Gravidez e Cesariana
+
+Gravidez
+                                                                                APROVADO EM
+                                                                                15-03-2024
+                                                                                INFARMED
+
+Como os sais de magnésio aumentam o bloqueio neuromuscular, a reversão do bloqueio
+neuromuscular após a administração de agentes bloqueadores neuromusculares pode ser atrasada
+ou insuficiente em doentes tratados com sais de magnésio para a pré-eclâmpsia da gravidez. A
+dosagem de brometo de rocurónio nestes doentes deve, portanto, ser reduzida e ajustada em
+função da resposta de contração.
+
+Cesariana
+A dosagem de 0,6 mg.kg-1 de brometo de rocurónio não têm influência no índice de Apgar, tónus
+muscular fetal nem na adaptação cardiorrespiratória. Nas amostras de sangue do cordão
+umbilical, foi demonstrado que apenas quantidades limitadas de brometo de rocurónio
+atravessam a placenta, o que não conduz a efeitos clínicos adversos no recém-nascido (ver secção
+6.6).
+Foram investigadas doses de 1 mg.kg-1 durante a indução rápida da anestesia, mas não em
+doentes submetidos a cesarianas.
+
+Doses mais elevadas
+
+Se houver alguma razão para selecionar uma dose mais elevada: a doentes que foram dadas doses
+iniciais de até 2 mg.kg-1 de brometo de rocurónio não foram observados quaisquer efeitos
+cardiovasculares adversos. A utilização de uma dose mais elevada encurta o tempo de início e
+prolonga a duração da ação (ver secção 5.1).
+
+Dose de manutenção
+
+Adultos
+
+A dose recomendada de manutenção é de 0,15 mg.kg-1 de brometo de rocurónio. No caso de uma
+anestesia de inalação de longa duração, deve ser reduzida para 0,075 - 0,1 mg.kg-1 de brometo de
+rocurónio. A dose de manutenção deve ser preferencialmente administrada quando a contração
+tiver recuperado para 25% do valor de controlo, ou quando tiverem ocorrido 2 a 3 respostas à
+estimulação train-of-four (TOF).
+
+População Pediatrica
+
+Para crianças (≥12 anos) com mais de 35 kg de peso corporal, a dose de intubação na anestesia de
+rotina e a dose de manutenção recomendadas são idênticas às dos adultos.
+A dose de manutenção não é adequada para crianças com menos de 12 anos porque a sub-
+graduação da seringa pré-cheia não permite uma administração precisa do produto nesta
+população. No entanto, outras formulações de rocurónio estão disponíveis para a dose de
+manutenção nesta população.
+
+Doentes geriátricos e doentes com doença hepática e/ou das vias biliares e/ou falência renal
+
+Independentemente da técnica de anestesia usada, a dose de manutenção recomendada para estes
+doentes é de 0,075 – 0,1 mg.kg-1 de brometo de rocurónio.
+
+Uso em doentes com excesso de peso e doentes obesos
+                                                                                APROVADO EM
+                                                                                15-03-2024
+                                                                                INFARMED
+
+Quando usado em doentes com excesso de peso ou doentes obesos (definidos como doentes com
+peso 30%, ou mais, acima do peso ideal), as doses devem ser reduzidas tendo em conta o peso
+ideal.
+
+Utilização na Unidade de Cuidados Intensivos de curta duração
+
+Intubação traqueal
+
+Para a intubação traqueal, aplicam-se as mesmas recomendações de dosagem que para os
+procedimentos cirúrgicos.
+
+Populações especiais
+
+Brometo de Rocurónio Aguettant não é recomendado para facilitar a ventilação mecânica em
+doentes pediátricos e geriátricos, devido à falta de dados de segurança e eficácia.
+
+Modo de administração
+
+Brometo de Rocurónio Aguettant é administrado por via intravenosa como uma injeção em bólus.
+
+4.3   Contraindicações
+
+Hipersensibilidade ao rocurónio ou ao ião brometo ou a qualquer um dos excipientes
+mencionados na secção 6.1.
+
+4.4   Advertências e precauções especiais de utilização
+
+Uma vez que brometo de rocurónio provoca a paralisia dos músculos respiratórios, é necessário
+manter o doente sob ventilação assistida até que recupere a respiração espontânea.
+Tal como com todos os relaxantes musculares, deve ser feita uma pré-avaliação para estabelecer
+se podem ser previstas dificuldades de intubação, particularmente quando se utilizada indução
+rápida de anestesia. No caso de dificuldades de intubação que resultem numa necessidade clínica
+de inversão imediata do bloqueio neuromuscular induzido pelo rocurónio, deve ser considerado o
+uso de sugammadex.
+
+Curarização residual
+Assim como com outros bloqueadores neuromusculares, tem sido referida a curarização residual
+para brometo de rocurónio. Com o objetivo de prevenir complicações resultantes da curarização
+residual, recomenda-se que o doente só seja desintubado após suficiente recuperação do bloqueio
+neuromuscular. Os doentes geriátricos (65 anos ou mais) podem ter um risco acrescido de
+bloqueio neuromuscular residual. Devem ser igualmente considerados outros fatores (p. ex.,
+interações medicamentosas ou o estado do doente) que possam causar curarização residual após
+desintubação na fase pós-operatória.
+Se o sugammadex ou outro antagonista (por exemplo, um inibidor da acetilcolinesterase) não
+fizer parte da parte clínica padrão, a sua utilização deve ser considerada, especialmente nos casos
+em que é provável que ocorra curarização residual (ver secção 4.9 e 5.1).
+
+Anafilaxia
+Podem ocorrer reações anafiláticas após a administração de agentes bloqueadores
+neuromusculares (ver secção 4.8). Devem ser sempre tomadas precauções para o tratamento
+                                                                              APROVADO EM
+                                                                              15-03-2024
+                                                                              INFARMED
+
+destas reações, especialmente no caso de reações anafiláticas prévias aos bloqueadores
+neuromusculares. Deve ter-se extremo cuidado, uma vez que foi relatada uma hipersensibilidade
+cruzada alérgica entre os agentes bloqueadores neuromusculares. Uma vez que os agentes
+bloqueadores neuromusculares podem causar a libertação de histamina, tanto localmente, no local
+da injeção, como sistemicamente, o início do prurido do local de injeção e do eritema e/ou
+reações histaminoides sistémicas (anafilactoides) devem ser sempre considerados aquando da
+administração destes medicamentos. Em estudos clínicos, observou-se apenas um ligeiro
+aumento dos níveis médios de histamina no plasma após a administração rápida de uma dose de
+0,3 - 0,9 mg.kg-1 de brometo de rocurónio.
+
+Utilização com suxametónio
+Se for usado suxametónio para a intubação, é aconselhável não administrar brometo de rocurónio
+até o doente ter recuperado do bloqueio neuromuscular causado pelo suxametónio (ver secção
+4.5).
+Como o brometo de rocurónio é sempre utilizado juntamente com outros medicamentos e devido
+ao risco de hipertermia maligna durante a anestesia, mesmo na ausência de fatores
+desencadeantes conhecidos, os médicos devem estar atentos aos sintomas iniciais, de diagnóstico
+confirmatório e de tratamento da hipertermia maligna antes da anestesia.
+Estudos com animais mostram que o brometo de rocurónio não é um fator desencadeante para a
+hipertermia maligna. Foram observados casos raros de hipertermia maligna com brometo de
+rocurónio durante a vigilância pós-comercialização; contudo, a associação causal não foi
+comprovada.
+
+As seguintes condições podem influenciar a farmacocinética e/ou farmacodinâmica de brometo
+de rocurónio:
+
+Doença hepática e/ou das vias biliares e falência renal
+
+Como o rocurónio é excretado na urina e bílis, deve ser usado com precaução em indivíduos com
+doenças hepáticas e/ou das vias biliares e/ou falência renal clinicamente significativas. Nestes
+grupos de doentes foi observado um prolongamento da ação com doses de 0,6 mg.kg-1 de
+brometo de rocurónio (ver secção 4.2).
+
+Prolongamento do tempo de circulação
+
+Condições associadas com o prolongamento do tempo de circulação, tais como doenças
+cardiovasculares, velhice e formação de edemas associados a um aumento do volume de
+distribuição, podem contribuir para um atraso do início da ação. A duração de ação pode também
+estar prolongada devido à redução da depuração plasmática.
+
+Doença neuromuscular
+
+Tal como com outras substâncias bloqueadoras neuromusculares, o brometo de rocurónio deve
+ser usado com a extrema precaução em doentes com doença neuromuscular (miastenia gravis),
+doenças musculares (miopatias) ou em presença de sequelas motoras (paresia, plegia) à distância
+de um acidente agudo (traumatismo medular, poliomielite, imobilização prolongada), visto que a
+resposta às substâncias bloqueadoras neuromusculares pode estar consideravelmente alterada
+nestes doentes. A extensão e a natureza desta alteração podem variar muito. Em doentes com
+miastenia gravis, com síndrome miasténica (Eaton-Lambert), ou miopatias, doses baixas de
+brometo de rocurónio podem causar efeitos profundos. Em doentes com sequelas motoras, há
+                                                                                APROVADO EM
+                                                                                15-03-2024
+                                                                                INFARMED
+
+uma diminuição da sensibilidade do brometo de rocurónio (aumento das doses). Nessas
+condições, a dose de brometo de rocurónio deve ser determinada em função da resposta.
+
+Hipotermia
+
+Nas cirurgias sob hipotermia, o efeito bloqueador neuromuscular do brometo de rocurónio está
+aumentado e a sua duração prolongada.
+
+Obesidade
+
+Tal como outras substâncias bloqueadoras neuromusculares, o brometo de rocurónio pode
+apresentar um prolongamento da duração de ação e do tempo de recuperação espontânea em
+doentes obesos, quando as doses administradas são calculadas com base no peso corporal real.
+No doente obeso ou com excesso de peso (excesso de peso superior a 30% ou mais em relação ao
+peso ideal), as doses devem ser reduzidas com base no peso teórico ideal.
+
+Queimaduras
+
+Sabe-se que os doentes com queimaduras desenvolvem resistência aos bloqueadores
+neuromusculares não despolarizantes. Recomenda-se o ajustamento da dose em função da
+resposta.
+
+Situações que podem aumentar o efeito de brometo de rocurónio
+
+Hipocaliemia (p. ex.: após vómito intenso, diarreias e terapêutica diurética), hipermagnesemia,
+hipocalcemia (após transfusões maciças), hipoproteinemia, desidratação, acidose, hipercapnia e
+caquexia. Distúrbios eletrolíticos graves, alteração do pH sanguíneo ou desidratação devem ser
+corrigidos quando possível, antes da administração de brometo de rocurónio.
+
+Sódio
+
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por seringa pré-cheia, ou seja,
+é praticamente “isento de sódio”.
+
+4.5     Interações medicamentosas e outras formas de interação
+
+Os fármacos que se seguem mostraram influenciar a intensidade e/ou duração da ação dos
+bloqueadores neuromusculares não despolarizantes.
+
+Aumento do efeito
+
+- Os anestésicos de inalação halogenados potenciam o bloqueio neuromuscular do brometo de
+rocurónio. O efeito só se torna aparente com a dosagem de manutenção (ver secção 4.2). A
+reversão do bloqueio com inibidores da acetilcolinesterase pode também estar inibida.
+- Após intubação com uso de suxametónio (ver secção 4.4).
+
+Outros fármacos
+
+- Antibióticos: aminoglicosídeos          e    antibióticos   polipeptídicos,   lincosamida   e
+acilaminopenicilinas.
+                                                                                 APROVADO EM
+                                                                                 15-03-2024
+                                                                                 INFARMED
+
+- Diuréticos, quinidina e o seu isómero quinina, sais de magnésio, bloqueadores dos canais de
+cálcio, sais de lítio, anestésicos locais (lidocaína, bupivacaína epidural) e administração aguda de
+fenitoína ou agentes bloqueadores do receptor β.
+- A recurarização foi relatada após a administração pós-operatória de: aminoglicosídeos,
+lincosamida, antibióticos polipeptídicos e acilaminipenicilínicos, quinidina, quinina e sais de
+magnésio (ver secção 4.4).
+
+Diminuição de efeito
+
+- Administração crónica prévia de corticosteroides, fenitoína ou carbamazepina.
+- Inibidores da protease (gabexate, ulinastatina).
+- Cloreto de cálcio, cloreto de potássio.
+
+Efeito variável
+
+Dependendo da ordem de administração e do bloqueador neuromuscular utilizado, a
+administração concomitante de outras substâncias bloqueadoras neuromusculares não
+despolarizantes e do brometo de rocurónio pode atenuar ou potenciar o bloqueio neuromuscular.
+A administração de suxametónio após administração do brometo de rocurónio pode potenciar ou
+atenuar o efeito bloqueador neuromuscular.
+
+Efeitos de Brometo de Rocurónio Aguettant sobre outros fármacos
+
+A administração concomitante de lidocaína e Brometo de Rocurónio Aguettant ode resultar num
+início de ação mais rápido da lidocaína.
+
+População pediátrica
+
+Não foram realizados estudos formais de interação. As interações mencionadas acima para
+adultos e as suas advertências e precauções especiais de utilização (ver secção 4.4) devem ser
+igualmente tidas em consideração para doentes pediátricos.
+
+4.6   Fertilidade, gravidez e aleitamento
+
+Gravidez
+No que respeita ao brometo de rocurónio, não existem dados clínicos sobre gravidezes a ele
+expostas. Os estudos em animais não indicam quaisquer efeitos nefastos diretos ou indiretos no
+que respeita à gravidez, ao desenvolvimento embrionário/fetal, parto ou desenvolvimento pós-
+natal. Este medicamento só deve ser utilizado em mulheres grávidas com muita precaução.
+
+Cesariana
+Em mulheres sujeitas a cesariana, o brometo de rocurónio pode ser utilizado como parte da
+técnica de indução de sequência rápida, desde que não se prevejam dificuldades de entubação e
+que seja administrada uma dose suficiente de agente anestésico ou após entubação facilitada por
+suxametónio. O brometo de rocurónio, administrado em doses de 0,6 mg.kg-1, demonstrou ser
+seguro em parturientes submetidas a cesarianas. O brometo de rocurónio não afeta o índice de
+Apgar, o tónus muscular fetal nem a adaptação cardiorespiratória. A partir de amostras de sangue
+do cordão umbilical é evidente que apenas ocorre uma transferência placentária limitada de
+brometo de rocurónio que não leva à observação de efeitos clínicos adversos no recém-nascido.
+                                                                                   APROVADO EM
+                                                                                   15-03-2024
+                                                                                   INFARMED
+
+ Nota 1: foram estudadas doses de 1,0 mg.kg-1 durante a anestesia de indução de sequência rápida,
+ mas não em mulheres sujeitas a cesariana. Consequentemente, apenas se recomenda a dose de 0,6
+ mg.kg-1 neste grupo de doentes.
+ Nota 2: a reversão do bloqueio neuromuscular induzido pelos agentes bloqueadores
+ neuromusculares pode ser inibida ou insuficiente em mulheres a receber sais de magnésio para a
+ pré-eclâmpsia, dado que os sais de magnésio aumentam o bloqueio neuromuscular. Portanto,
+ nestas doentes, a dosagem de brometo de rocurónio deve ser reduzida e ser ajustada em função da
+ resposta de contração.
+
+ Amamentação
+ Desconhece-se como é que o brometo de rocurónio é excretado no leite materno. Os estudos em
+ animais demonstraram valores insignificantes do brometo de rocurónio no leite materno. Apenas
+ deve ser administrado a mulheres a amamentar quando o clínico responsável decida que as
+ vantagens superam os riscos. Após a administração de uma dose única, é recomendado não
+ efetuar a próxima amamentação durante um período de cinco vezes o tempo de semivida do
+ rocurónio, isto é, durante 6 horas.
+
+ Fertilidade
+ Não há dados disponíveis sobre o efeito do brometo de rocurónio na fertilidade.
+
+ 4.7   Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+ Como o brometo de rocurónio é utilizado na anestesia geral, para os doentes em ambulatório
+ devem ser tomadas as medidas de precaução usuais após uma anestesia geral.
+
+ 4.8   Efeitos indesejáveis
+
+ As reações adversas mais frequentes incluem dor/reação no local de injeção, alterações nos sinais
+ vitais e bloqueio neuromuscular prolongado. As reações adversas graves mais frequentemente
+ notificadas durante a vigilância pós-comercialização foram as reações anafiláticas e
+ anafilactoides e os sintomas associados. Ver, também, as explicações abaixo da tabela.
+
+
+
+
+MedDRA                  Termo preferido MedDRA(1)
+Classes de Sistemas     Pouco                 Muito raros(2)                    Desconhecido(2)
+de                      frequentes/Raros (2)
+                                              (1/10 000)                       (a frequência não
+Órgãos                  (1/100 a ≥1/10 000)                                    pode ser calculada a
+                                                                                partir dos dados
+                                                                                disponíveis)
+Doenças do sistema                                Hipersensibilidade
+imunitário                                        Reação anafilática
+                                                  Reação        anafilactoide
+                                                  Choque anafilático
+                                                  Choque anafilactoide
+Doenças do sistema                                Paralisia flácida
+nervoso
+Doenças cardíacas       Taquicardia                                             Síndrome de Kounis
+                                                                                APROVADO EM
+                                                                                15-03-2024
+                                                                                INFARMED
+
+Vasculopatias            Hipotensão                Colapso circulatório    e
+                                                   choque
+                                                   Afrontamento
+Doenças respiratórias,                             Broncospasmo
+torácicas    e     do
+mediastino
+Afeções dos tecidos                                Angioedema
+cutâneos            e                              Urticária
+subcutâneos                                        Erupção cutânea
+                                                   Erupção eritematosa
+Afeções                                            Fraqueza muscular
+musculosqueléticas e
+dos             tecidos
+conjuntivos
+Perturbações gerais e Fármaco             ineficaz Edema facial
+alterações no local de Efeito/resposta
+administração             terapêutica diminuída
+                          Efeito/resposta
+                          terapêutica aumentada
+                          Dor no local da injeção
+                          Reação no local da
+                          injeção
+Complicações         de Prolongamento           do Complicação da anestesia
+intervenções              bloqueio neuromuscular nas vias aéreas
+relacionadas       com Recuperação retardada
+lesões e intoxicações     da anestesia
+  1) As frequências foram estimadas com base em relatórios de vigilância pós-comercialização e
+  dados da literatura geral.
+  2) As frequências exatas não podem ser obtidas a partir dos dados de vigilância pós-
+  comercialização. Por conseguinte, a frequência dos relatórios foi dividida em 2 categorias em vez
+  de 5.
+
+ Reações anafiláticas
+
+ Embora muito raras, foram notificadas reações anafiláticas graves às substâncias bloqueadoras
+ neuromusculares, incluindo brometo de rocurónio. As reações anafiláticas/ anafilactoides incluem
+ sintomas tais como broncoespasmo, alterações cardiovasculares (por exemplo, hipotensão,
+ taquicardia e choque/colapso circulatório) e alterações cutâneas (por exemplo, angioedema,
+ urticária). Estas reações têm sido, em alguns casos, fatais. Devido à possível gravidade destas
+ reações, elas devem ser sempre tidas em consideração e as precauções necessárias devem ser
+ tomadas (ver também secção 4.4).
+
+ Libertação de histamina e reações histaminoides
+
+ As substâncias bloqueadoras neuromusculares podem causar a libertação de histamina, tanto
+ localmente no local de injeção como sistemicamente, o início do prurido e eritema no local de
+ injeção e/ou reações histaminoides sistémicas (anafilactoides), que devem ser sempre
+ considerados ao administrar estes medicamentos (ver também acima em "Reações anafiláticas").
+                                                                              APROVADO EM
+                                                                              15-03-2024
+                                                                              INFARMED
+
+Em estudos clínicos, observou-se apenas um ligeiro aumento dos níveis médios de histamina no
+plasma após a administração rápida de uma dose em bólus de 0,3 - 0,9 mg.kg-1 de brometo de
+rocurónio.
+
+Prolongamento do bloqueio neuromuscular
+
+A reação adversa mais frequente a agentes de bloqueio neuromuscular, enquanto classe
+terapêutica, consiste no prolongamento da ação farmacológica do fármaco para além do período
+de tempo necessário. Esta situação pode variar entre a fraqueza musculoesquelética e a paralisia
+musculoesquelética profunda e prolongada, resultando em insuficiência respiratória ou apneia.
+
+Reações no local de injeção
+
+Durante a anestesia com indução de sequência rápida, foi referida a ocorrência de dor no local da
+injeção, especialmente, quando o doente ainda não tinha perdido completamente a consciência e,
+particularmente, quando foi usado propofol como agente da indução. Nos estudos clínicos, a dor
+por injeção foi observada em 16% dos doentes submetidos à indução rápida da anestesia com
+propofol e em menos de 0,5% dos doentes submetidos à indução rápida da anestesia com fentanil
+e tiopental.
+
+População pediátrica
+
+Uma meta-análise de 11 estudos clínicos em doentes pediátricos (n=704) com brometo de
+rocurónio (até um máximo de 1 mg/kg) revelou que a taquicardia ocorreu como reação adversa
+com uma frequência de 1,4%.
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante,
+uma vez que permite uma monitorização contínua da relação benefício-risco do medicamento.
+Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas
+diretamente ao INFARMED, I.P.:
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+e-mail: farmacovigilancia@infarmed.pt
+
+4.9   Sobredosagem
+
+Em caso de sobredosagem e bloqueio neuromuscular prolongado, o doente deve continuar a
+receber ventilação e sedação. Nesta situação, existem duas opções para a inversão do bloqueio
+neuromuscular:
+(1) Em adultos, o sugammadex pode ser utilizado para a reversão do bloqueio intenso (total) e
+profundo. A dose de sugammadex administrada depende da intensidade do bloqueio
+neuromuscular.
+                                                                              APROVADO EM
+                                                                              15-03-2024
+                                                                              INFARMED
+
+(2) Um inibidor da acetilcolinesterase (por exemplo, neostigmina, edrofónio, piridostigmina) ou
+sugammadex pode ser utilizado uma vez iniciada a recuperação espontânea e deve ser
+administrado na dosagem correta. Esta administração é orientada pelos dados fornecidos pela
+monitorização instrumental da curarização com, em particular, a presença de 4 respostas claras ao
+adutor do polegar após uma estimulação train-of-four. Se a administração de um inibidor de
+acetilcolinesterase não conseguir reverter os efeitos neuromusculares do brometo de rocurónio, a
+ventilação deve ser continuada até que a respiração espontânea seja restaurada. A administração
+repetida de um inibidor de acetilcolinesterase pode ser perigosa.
+
+Em estudos em animais, não ocorreu depressão grave da função cardiovascular que pudesse
+culminar em colapso cardíaco até uma dose cumulativa de 750 x DE90 (135 mg.kg-1 de brometo
+de rocurónio).
+
+
+5.    PROPRIEDADES FARMACOLÓGICAS
+
+5.1   Propriedades farmacodinâmicas
+
+Grupo Farmacoterapêutico: 2.3.2 - Sistema Nervoso Central. Relaxantes musculares. Ação
+periférica; código ATC: M03AC09
+
+Mecanismo de ação
+
+Brometo de Rocurónio Aguettant (brometo de rocurónio) é uma substância bloqueadora
+neuromuscular não despolarizante de início rápido. Tem todas as propriedades farmacológicas
+características desta classe de medicamentos (curariformes). Bloqueia de forma competitiva os
+recetores colinérgicos nicotínicos na placa terminal motora. Esta ação é antagonizada por
+inibidores da acetilcolinesterase como a neostigmina, o edrofónio e a piridostigmina.
+
+Efeitos farmacodinâmicos
+
+A DE90 (dose necessária para produzir uma depressão de 90% da resposta da contração do
+polegar à estimulação do nervo cubital) durante uma anestesia intravenosa é de aproximadamente
+0,3 mg.kg-1 de brometo de rocurónio. A DE95 em neonatos e bebés é mais baixa do que em
+adultos e crianças (0,25, 0,35 e 0,40 mg.kg-1 respetivamente).
+
+A duração clínica da ação (a duração entre o tempo de administração e o início da recuperação da
+contração até 25% do nível do controlo) numa dose de 0,6 mg.kg-1 de brometo de rocurónio é de
+30 - 40 minutos. A duração total da ação (tempo de recuperação até 90% do valor de controlo) é
+de 50 minutos.
+O tempo médio de recuperação da resposta da contração muscular de 25 a 75% (Índice de
+recuperação) após uma dose em bólus de 0,6 mg.kg-1 de brometo de rocurónio é de 14 minutos.
+Com dosagens inferiores a 0,3 - 0,45 mg.kg-1 de brometo de rocurónio (1 - 1,5 x DE90), o início
+de ação é mais lento e a duração da ação é mais curta. Com doses elevadas de 2 mg.kg-1 a
+duração clínica é de 110 minutos.
+
+Intubação durante a anestesia de rotina
+
+Nos 60 segundos após administração intravenosa de uma dose de 0,6 mg.kg-1 de brometo de
+rocurónio (2 x DE90 sob anestesia intravenosa), as condições de intubação adequadas podem ser
+                                                                             APROVADO EM
+                                                                             15-03-2024
+                                                                             INFARMED
+
+alcançadas em quase todos os doentes, para os quais 80% da condições de intubação foram
+classificadas como excelentes. Dentro de 2 minutos após a administração desta dose, consegue-se
+uma paralisia muscular geral adequada para qualquer tipo de procedimento. Após a administração
+de 0,45 mg.kg-1 de brometo de rocurónio, são alcançadas condições de intubação aceitáveis após
+90 segundos.
+
+Indução de sequência rápida
+
+Durante a anestesia com indução de sequência rápida com propofol ou fentanil/tiopental, as
+condições adequadas de intubação são atingidas ao fim de 60 segundos em 93% e 96% dos
+doentes, respetivamente, após a administração de uma dose de 1 mg.kg-1 de brometo de
+rocurónio.
+Dentro destes grupos, as condições de intubação são classificadas como excelentes em 70% dos
+casos.
+A duração clínica da ação com esta dose é de aproximadamente 1 hora, após a qual o bloqueio
+neuromuscular pode ser revertido em segurança. Após a administração de uma dose de 0,6
+mg.kg-1 de brometo de rocurónio, as condições de intubação aceitáveis são alcançadas em 60
+segundos em 81% e 75% dos doentes submetidos à técnica de indução de sequência rápida com
+propofol ou fentanil/tiopental, respetivamente.
+
+População pediátrica
+
+Em lactentes, crianças pequenas e crianças, o tempo médio de início de ação com uma dose de
+intubação de 0,6 mg.kg-1 é ligeiramente menor do que nos adultos. A comparação entre os grupos
+etários pediátricos mostrou que o tempo médio de início de ação em recém-nascidos e
+adolescentes (1 minuto) é ligeiramente mais longo do que em bebés, crianças pequenas e crianças
+(0,4, 0,6 e 0,8 minutos, respetivamente).
+A duração da ação e o tempo de recuperação são normalmente mais curtos em crianças do que
+em bebés e adultos. Uma comparação entre os grupos etários pediátricos mostrou que o tempo
+médio para o reaparecimento do T3 foi prolongado em recém-nascidos e bebés (56,7 e 60,7
+minutos, respetivamente) quando comparado com bebés, crianças e adolescentes (45,4, 37,6 e
+42,9 minutos, respetivamente).
+
+Tempo de início médio (Desvio Padrão) e duração clínica da ação após uma dose inicial de
+intubação* de 0,6 mg/kg de brometo de rocurónio durante a anestesia (manutenção) com
+sevoflurano/óxido nítrico e isoflurano/óxido nítrico (população pediátrica)
+
+                                     Tempo para bloqueio         Tempo para o reaparecimento
+                                       máximo** (min)                  de T3** (min)
+Recém-nascidos (0-27 dias)               0,98 (0,62)                   56,69 (37,04)
+n=10                                                                        n=9
+Lactentes (28 dias-2 meses)               0,44 (0,19)                  60,71 (16,52)
+n=11                                         n=10
+Crianças pequenas (3 meses-               0,59 (0,27)                    45,46 (12,94)
+23 meses)                                                                    n=27
+n=28
+Crianças (2-11 anos)                      0,84 (0,29)                    37,58 (11,82)
+n=34
+Adolescentes (12-17 anos)                 0,98 (0,38)                    42,90 (15,83)
+                                                                                APROVADO EM
+                                                                                15-03-2024
+                                                                                INFARMED
+
+n=31                                                                          n=30
+*Dose de rocurónio administrada a cada 5 segundos
+**Calculado a partir do fim da administração da dose de intubação de rocurónio
+
+Doentes geriátricos e doentes com doença hepática e/ou das vias biliares e/ou falência renal
+
+A duração de ação com doses de manutenção de 0,15 mg.kg-1 de rocurónio pode ser um pouco
+mais prolongada sob anestesia com enflurano e isoflurano, em geriatria e em doentes hepáticos
+e/ou renais (aproximadamente 20 minutos) do que em doentes sem este tipo de falência e sob
+anestesia intravenosa (aproximadamente 13 minutos) (ver secção 4.2). Com doses de manutenção
+repetidas de acordo com as recomendações, não foi observada acumulação de efeitos
+(prolongamento progressivo da duração da ação).
+
+Unidade de Cuidados Intensivos (UCI)
+
+Após perfusão contínua na UCI, o tempo de recuperação da taxa do train-of-four para 0,7
+depende do nível de bloqueio no final da perfusão. Após uma perfusão contínua durante 20 horas
+ou mais, o tempo médio (intervalo) entre o retorno do T2 à estimulação train-of-four e a
+recuperação para 0,7 da taxa train-of-four é de, aproximadamente, 1,5 (1-5) horas em doentes
+sem falência de vários órgãos e de 4 (1-25) horas em doentes com falência de vários órgãos.
+
+Cirurgia cardiovascular
+
+Nos doentes submetidos a cirurgia cardiovascular, as alterações cardiovasculares mais comuns
+durante o início do bloqueio máximo em doses de 0,6 - 0,9 mg.kg-1 de brometo de rocurónio são
+um ligeiro e clinicamente insignificante aumento da frequência cardíaca até 9% e um aumento da
+pressão arterial média até 16% dos valores de controlo.
+
+Reversão do relaxamento muscular
+
+A ação do brometo de rocurónio pode ser antagonizada quer pelo sugammadex quer pelos
+inibidores da acetilcolinesterase (neostigmina, piridostigmina ou edrofónio).
+O sugammadex pode ser dado para reversão de rotina (às 1 - 2 contagens pós-tetânicas no
+reaparecimento de T2) ou para reversão imediata (3 minutos após a administração de brometo de
+rocurónio). Os inibidores de acetilcolinesterase podem ser administrados durante o
+reaparecimento de T2 ou durante os primeiros sinais de recuperação clínica.
+
+5.2   Propriedades farmacocinéticas
+
+Após a administração intravenosa de uma única dose de brometo de rocurónio em bólus, a sua
+vida plasmática decorre em três fases exponenciais. Em adultos, a semivida média (intervalo de
+confiança de 95%) de eliminação é de 73 (66 - 80) minutos, o volume (aparente) de distribuição
+em condições de estado estacionário é de 203 (193 - 214) ml.kg-1 e a depuração de plasma é de
+3,7 (3,5 - 3,9) ml.kg-1,min-1.
+
+O brometo de rocurónio é excretado através da urina e da bílis. A excreção via urina é de
+aproximadamente 40% dentro de 12 - 24 horas. Após a injeção de uma dose de brometo de
+rocurónio marcada radioativamente, 47% do componente radioativo é, em média, excretado na
+                                                                                  APROVADO EM
+                                                                                  15-03-2024
+                                                                                  INFARMED
+
+urina e 43% nas fezes ao fim de 9 dias. Aproximadamente 50% da dose é recuperada como
+composto original.
+
+População pediátrica
+
+A farmacocinética do brometo de rocurónio em doentes pediátricos (n=146) com idades
+compreendidas entre os 0 e os 17 anos, foi avaliada utilizando uma análise populacional dos
+conjuntos de dados farmacocinéticos agrupados de dois ensaios clínicos, onde a anestesia foi
+induzida com sevoflurano e mantida com isoflurano/óxido nitroso. Verificou-se que todos os
+parâmetros farmacocinéticos eram linearmente proporcionais ao peso corporal exemplificado por
+uma depuração similar (l.h-1.kg-1). O volume de distribuição (l.kg-1) e a eliminação de meia-vida
+(hora) diminuem com a idade (anos). Os parâmetros farmacocinéticos dos doentes pediátricos
+típicos dentro de cada grupo etário são resumidos a seguir:
+
+Parâmetros farmacocinéticos estimados (PK) (média [Desvio padrão]) de brometo de rocurónio
+em doentes pediátricos típicos durante o sevoflurano e óxido nitroso (indução) e isoflurano/óxido
+nitroso (anestesia de manutenção)
+
+Parâmetro                                          Idade dos doentes
+farmacocinético        Recém-        Lactentes     Crianças        Crianças      (2-   Adolescentes
+(PK)                   nascidos de   (28 dias a    pequenas (3- 11 anos)               (12-17 anos)
+                       termo (0-27   2 meses)      23 meses)
+                       dias)
+Cl (l/kg-1.h-1)        0,31 (0,07)   0,30 (0,08)   0,33 (0,10)     0,35 (0,09)         0,29 (0,14)
+Volume            de   0,42 (0,06)   0,31 (0,03)   0,23 (0,03)     0,18 (0,02)         0,18 (0,01)
+distribuição
+(1/kg)
+t1/2 β (hora)          1,1 (0,2)     0,9 (0,3)     0,8 (0,2)       0,7 (0,2)           0,8 (0,3)
+
+Doentes geriátricos e doentes com doença hepática e/ou das vias biliares e/ou falência renal
+
+Em estudos controlados, a depuração plasmática em doentes geriátricos e em doentes com
+disfunção renal encontra-se reduzida; na maioria dos estudos, porém, sem atingir o nível de valor
+estatisticamente significativo. Em doentes com doença hepática, a semivida de eliminação média
+está prolongada em 30 minutos e a depuração plasmática média está reduzida em 1 ml.kg-1.min-1
+(ver secção 4.2).
+
+Unidade de Cuidados Intensivos (UCI)
+
+Após uma perfusão contínua durante um período de 20 horas ou mais para facilitar a ventilação
+mecânica, a semivida média de eliminação foi prolongada e o volume médio (aparente) de
+distribuição em condições de estado de equilibrio foi aumentado. Foi demonstrada uma grande
+variabilidade interdoente em estudos clínicos, relacionado com a natureza e extensão da falência
+de (múltiplos) órgãos e do estado do doente. Em doentes com falência de múltiplos órgãos, a
+semivida média (± DP) de eliminação é de 21,5 (± 3,3) horas, o volume (aparente) de distribuição
+em condições de estado estacionário é de 1,5 (± 0,8) l.kg-1 e a depuração de plasma é de 2,1 (±
+0,8) ml.kg-1.min-1.
+
+5.3    Dados de segurança pré-clínica
+                                                                               APROVADO EM
+                                                                               15-03-2024
+                                                                               INFARMED
+
+
+Apenas se observaram efeitos não clínicos a partir de níveis de exposição considerados
+suficientemente excessivos em relação ao nível máximo de exposição humana, pelo que se
+revelam pouco pertinentes para a utilização clínica.
+Não existe nenhum modelo animal representativo da situação clínica que, normalmente, é
+extremamente complexa, de um doente numa UCI. Portanto, a segurança de brometo de
+rocurónio, quando utilizado para facilitar a ventilação mecânica numa UCI, baseia-se
+principalmente nos resultados obtidos nos estudos clínicos.
+
+
+6.     INFORMAÇÕES FARMACÊUTICAS
+
+6.1.   Lista dos excipientes
+
+Acetato de sódio tri-hidratado (E 262)
+Cloreto de sódio
+Ácido acético, glacial (para ajuste do pH) (E 260)
+Água para preparações injetáveis
+
+6.2    Incompatibilidades
+
+O brometo de rocurónio é fisicamente incompatível com as soluções dos seguintes
+medicamentos: anfotericina, amoxicilina, azatioprina, cefazolina, cloxacilina, dexametasona,
+diazepam, enoximona, eritromicina, famotidina, furosemida, succinato sódico de hidrocortisona,
+insulina, metohexital, metilprednisolona, succinato sódico de prednisolona, tiopental, trimetoprim
+e vancomicina.
+O brometo de rocurónio é também incompatível com o intralipid.
+
+6.3    Prazo de validade
+
+Embalagem fechada: 18 meses.
+Após a abertura, o medicamento deve ser utilizado imediatamente.
+Este medicamento pode ser armazenado a temperaturas não superiores a 30°C durante um
+período máximo de 12 semanas. Em todos os casos, uma vez retirado inicialmente do
+armazenamento refrigerado, o medicamento deve ser eliminado após 12 semanas. Uma vez
+retirado, o produto não pode ser colocado novamente no frigorífico. O período de conservação
+não poderá exceder o prazo de validade na embalagem.
+
+6.4    Precauções especiais de conservação
+
+Armazenar no frigorífico (2ºC - 8ºC). Não congelar.
+Para condições de armazenamento após a primeira abertura do medicamento, ver secção 6.3.
+
+6.5    Natureza e conteúdo do recipiente
+
+Seringa pré-cheia (polipropileno) que contém 5 ml de solução injetável de brometo de rocurónio,
+com rolha de êmbolo (clorobutilo), sem agulha, com etiqueta transparente autocolante graduada
+(sub-graduações de 0,2 ml de 0 a 5 ml). Uma tampa na extremidade (polipropileno) protege a
+ponta da seringa.
+A seringa pré-cheia é embalada individualmente num blister transparente.
+                                                                                  APROVADO EM
+                                                                                  15-03-2024
+                                                                                  INFARMED
+
+Disponível em caixas de cartão de 10 seringas pré-cheias.
+
+6.6     Precauções especiais de eliminação e manuseamento
+
+Instruções de utilização:
+
+Por favor preparar a seringa cuidadosamente como se segue:
+A seringa pré-cheia é apenas para um único doente. Deitar fora a seringa após a sua utilização.
+Não reutilizar.
+O conteúdo de um blister não aberto e não danificado é estéril, e o blister não deve ser aberto até
+que a seringa pré-cheia esteja pronta para ser utilizada.
+O produto deve ser inspecionado visualmente para detetar partículas e descoloração antes da
+administração. Só deve ser utilizada uma solução incolor a castanho-amarelado pálido livre de
+partículas ou precipitados. O produto não deve ser utilizado se o selo inviolável evidente na
+seringa estiver quebrado.
+
+Não utilizar este medicamento se se observarem sinais visíveis de deterioração.
+A superfície externa da seringa é estéril até que o blister seja aberto. O blister não deve ser aberto
+até à sua utilização.
+Quando manuseado com um método asséptico, este medicamento pode ser colocado num campo
+estéril, uma vez retirado do blister.
+O volume a administrar deve ser calculado em função da posologia apropriada.
+A seringa pré-cheia não é adequada para a administração exata do produto em crianças com
+menos de 2 anos de idade (ver secção 4.2).
+
+      1) Retirar a seringa pré-cheia esterilizada do blister.
+
+
+
+                                   2) Empurrar o êmbolo para libertar a rolha do êmbolo. O
+                                   processo de esterilização pode ter causado a aderência da rolha
+                                   ao corpo da seringa.
+
+
+
+
+                                   3) Rodar a tampa da extremidade para quebrar o selo. Não tocar
+                                   no adaptador luer exposto, de modo a evitar a contaminação.
+                                                                              APROVADO EM
+                                                                              15-03-2024
+                                                                              INFARMED
+
+
+
+                                4) Verificar se o selo da ponta da seringa foi completamente
+                                removido. Caso contrário, recolocar a tampa e torcer novamente.
+
+
+
+
+                                5) Expulsar o ar, empurrando suavemente o êmbolo.
+
+
+
+
+6) Conectar a seringa ao dispositivo de acesso vascular utilizando um sistema de fecho luer/luer
+lock. Empurrar o êmbolo lentamente para injetar o volume necessário. Administrar o produto de
+acordo com a via de administração adequada.
+
+A seringa pré-cheia não é adequada para bombas perfusoras de seringa. A seringa pré-cheia é um
+produto pronto a administrar, e não é adequado para diluição num saco de perfusão.
+
+Qualquer seringa que tenha sido danificada ou manuseada sem respeitar as condições de
+esterilidade não deve ser utilizada.
+Qualquer produto ou material residual não utilizado deve ser eliminado de acordo com os
+requisitos locais.
+
+
+7.    TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Laboratoire Aguetant
+1, rue Alexander Fleming
+ 69007 Lyon
+França
+
+
+8.    NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+<[A ser completado nacionalmente]>
+
+
+9.    DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+      INTRODUÇÃO NO MERCADO
+
+<Data da primeira autorização: {DD de mês de AAAA}>
+                                                  APROVADO EM
+                                                  15-03-2024
+                                                  INFARMED
+
+<Data da última renovação: {DD de mês de AAAA}>
+
+<[A ser completado nacionalmente]>
+
+
+10.    DATA DA REVISÃO DO TEXTO
+
+05/2023
+

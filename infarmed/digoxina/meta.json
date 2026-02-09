@@ -1,0 +1,30 @@
+{
+  "medId": "digoxina",
+  "searchTerm": "digoxina",
+  "retrievedAt": "2026-02-08T23:15:00Z",
+  "bestMatch": {
+    "infarmedId": "17982",
+    "name": "Lanoxin",
+    "dci": "Digoxina",
+    "form": "Solução para perfusão",
+    "dosage": "0.25 mg/ml",
+    "holder": "Aspen Pharma Trading Ltd.",
+    "score": 99.86
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/17982-rcm.pdf",
+      "size": 260949
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/17982-fi.pdf",
+      "size": 229933
+    }
+  }
+}

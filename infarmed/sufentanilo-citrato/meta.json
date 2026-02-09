@@ -1,0 +1,31 @@
+{
+  "medId": "sufentanilo-citrato",
+  "searchTerm": "sufentanilo",
+  "retrievedAt": "2026-02-09T00:48:19.269Z",
+  "bestMatch": {
+    "infarmedId": "625642",
+    "name": "SontilenMG",
+    "dci": "Sufentanilo",
+    "form": "Solução injetável ou para perfusão",
+    "dosage": "0.005 mg/ml",
+    "holder": "Medochemie Ltd.",
+    "isGeneric": false,
+    "score": 130
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/625642-rcm.pdf",
+      "size": 270466
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/625642-fi.pdf",
+      "size": 172642
+    }
+  }
+}

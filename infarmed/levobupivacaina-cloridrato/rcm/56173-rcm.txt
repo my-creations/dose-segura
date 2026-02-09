@@ -1,0 +1,613 @@
+                                                                    APROVADO EM
+                                                                     01-03-2015
+                                                                     INFARMED
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1. NOME DO MEDICAMENTO
+Levobupivacaína NORMON 2,5 mg/ml solução injetável ou para perfusão
+Levobupivacaína NORMON 5 mg/ml solução injetável ou para perfusão
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+Levobupivacaína NORMON 2,5 mg/ml solução injetável ou para perfusão:
+Cada ml contém 2,5 mg de levobupivacaína (sob a forma de cloridrato).
+Cada ampola contém 25 mg de levobupivacaína (sob a forma de cloridrato) em 10
+ml.
+Excipientes com efeito conhecido: 2,8 mg/ml de sódio por ampola.
+Lista completa de excipientes, ver secção 6.1.
+Levobupivacaína NORMON 5 mg/ml solução injetável ou para perfusão:
+Cada ml contém 5 mg de levobupivacaína (sob a forma de cloridrato).
+Cada ampola contém 50 mg de levobupivacaína (sob a forma de cloridrato) em 10
+ml.
+Excipientes com efeito conhecido: 2,8 mg/ml de sódio por ampola.
+Lista completa de excipientes, ver secção 6.1.
+
+3. FORMA FARMACÊUTICA
+Solução injectável ou para perfusão
+Solução límpida, incolor.
+
+4. INFORMAÇÕES CLÍNICAS
+4.1 Indicações terapêuticas
+Adultos e adolescentes com mais de 12 anos de idade
+Anestesia cirúrgica
+- Em grande cirurgia, por exemplo no bloqueio epidural (incluindo para cesarianas),
+intratecal, de nervos periféricos.
+- Em pequena cirurgia, por exemplo para infiltração local, bloqueio peribulbar em
+cirurgia oftalmológica.
+Gestão da dor
+Perfusão epidural contínua, administração única ou múltipla de bólus epidural para
+gestão da dor, especialmente no pós-operatório ou analgesia no trabalho de parto.
+Crianças (com menos de 12 anos de idade)
+O uso de levobupivacaína em crianças com menos de 12 anos de idade está apenas
+indicada para analgesia (bloqueios ilioinguinais e ilioipogástricos).
+4.2 Posologia e modo de administração
+                                                                     APROVADO EM
+                                                                      01-03-2015
+                                                                      INFARMED
+A levobupivacaína só deve ser administrada por, ou sob a supervisão de, um médico
+com a formação e experiência adequada em anestesia.
+Posologia
+O quadro seguinte é um guia de dosagens para os bloqueios mais comummente
+utilizados. Para analgesia (por ex: administração epidural para gestão da dor), são
+recomendadas concentrações e doses menores. Quando é necessária uma anestesia
+mais profunda ou prolongada com intenso bloqueio motor (por ex.: bloqueio epidural
+ou peribulbar), podem ser usadas concentrações mais elevadas. Recomenda-se a
+aspiração cuidadosa antes e durante a injeção para evitar a injeção intravascular.
+É limitada a experiência da segurança com o tratamento com levobupivacaína por
+períodos excedendo 24 horas.
+De modo a minimizar o risco de complicações neurológicas graves, o doente e a
+duração de administração de levobupivacaína devem ser cuidadosamente
+monitorizados (ver secção 4.4).
+A aspiração deve ser repetida antes e durante a administração da dose de bólus, que
+deverá ser injetada lentamente e em doses crescentes à velocidade de 7,5-30
+mg/min ao mesmo tempo que se observam com regularidade as funções vitais do
+doente e se mantém um contacto verbal com o mesmo.
+Se ocorrerem sintomas tóxicos, deve parar-se imediatamente a injeção.
+Dose máxima
+A dose máxima deve ser determinada pela avaliação do tamanho e estado físico do
+doente, juntamente com a concentração do fármaco, a zona e via de administração.
+Verifica-se variação individual no início e durante o bloqueio. A experiência dos
+ensaios clínicos revela um início do bloqueio sensorial adequado para a cirurgia 10-
+15 minutos após a administração epidural, com um tempo de normalização de cerca
+de 6-9 horas.
+A dose máxima recomendada é de 150 mg. Quando se pretende manter um bloqueio
+motor e sensorial para um procedimento prolongado, podem ser necessárias doses
+adicionais. A dose máxima recomendada durante um período de 24 horas é de 400
+mg. Para o controlo da dor pós-operatória, a dose não deve exceder 18,75 mg/h.
+Obstetrícia
+Em procedimentos de obstetrícia (incluindo cesarianas) não devem ser usadas
+concentrações superiores à da solução de 5,0 mg/ml (ver secção 4.3). A dose
+máxima recomendada é de 150 mg.
+Para analgesia no trabalho de parto por perfusão epidural, a dose não deve exceder
+12.5 mg/hora.
+População pediátrica
+Em crianças (menos de 12 anos de idade), a dose máxima recomendada para
+analgesia (bloqueios ilioinguinais/ ilioipogástricos) é de 1,25 mg/kg/local.
+A dose máxima deve ser ajustada de acordo com o tamanho, estrutura corporal e
+estado físico do doente/criança.
+                                                                     APROVADO EM
+                                                                      01-03-2015
+                                                                      INFARMED
+A segurança e eficácia da levobupivacaína em crianças não foram estabelecidas para
+outras indicações.
+Populações especiais
+A doentes debilitados, idosos ou com doenças agudas devem ser administradas
+doses menores de levobupivacaína, adequadas ao seu estado físico.
+Na gestão da dor pós-operatória, deve ser tida em consideração a dose administrada
+durante a cirurgia.
+Não existem dados relevantes em doentes com insuficiência hepática (ver secções
+4.4 e 5.2).
+Tabela Posológica
+Adultos e adolescentes com mais de 12 anos de idade
+                             Concentração      Dose               Bloqueio motor
+                             (mg/ml)1
+Anestesia Cirúrgica
+Bolus epidural (lento) para                    10-20 ml (50- Moderado              a
+cirurgia2                   5,0-7,5            150 mg)       completo
+- Adultos
+Injeção epidural lenta em 5,0                  15-30 ml (75- Moderado              a
+cesarianas 3                                   150 mg)          completo
+Intratecal                   5,0               3 ml (15 mg)     Moderado           a
+                                                                completo
+Nervo periférico             2,5-5,0           1-40 ml (2,5-150 Moderado           a
+                                               mg máx.)         completo
+Oftalmológico (bloqueio   7,5                  5–15 ml (37,5- Moderado             a
+peribulbar)                                    112.5 mg)        completo
+Infiltração local         2,5                  1-60 ml (2,5-150 Não aplicável
+- Adultos                                      mg máx.)
+Gestão da dor4                                 6-10 ml (15-25 Mínimo               a
+Analgesia no trabalho de 2.5                   mg)            moderado
+parto (bólus epidural 5)
+Analgesia no trabalho de 1.25 6                4-10 ml/h (5- Mínimo                a
+parto (perfusão epidural)                      12.5 mg/h)         moderado
+                                               10-15        ml/h
+                             1,256             (12,5-             Mínimo           a
+Dor pós-operatória           2,5               18.75mg/h)         moderado
+                                               5-7.5ml/h (12,5
+                                               –18.75mg/h)
+1 Levobupivacaína solução injectável ou para perfusão está disponível nas soluções a
+2,5, 5,0 e 7,5 mg/ml.
+                                                                      APROVADO EM
+                                                                       01-03-2015
+                                                                       INFARMED
+2 Administrada durante 5 minutos (ver também texto).
+3 Administrada durante 15-20 minutos.
+4 Nos casos em que a levobupivacaína é associada a outros fármacos, por ex.:
+opióides no tratamento da dor, a dose de levobupivacaína deve ser reduzida, sendo
+preferível a utilização de uma concentração mais baixa (por ex.: 1,25 mg/ml).
+5 O intervalo mínimo recomendado entre as injeções intermitentes é de 15 minutos.
+6Para informação sobre diluição, ver secção 6.6.
+População pediátrica
+                             Concentração       Dose               Bloqueio motor
+                             (mg/ml)1
+Anestesia Cirúrgica
+                             2,5                 0,5 ml/kg/local
+Bloqueio                                         (1,25
+Ilioinguinal/Ilioipogástrico 5,0                 mg/kg/local)
+em crianças com menos de                                            Não aplicável
+12 anos de idade                                 0,25  ml/kg/local
+                                                 (1,25
+                                                 mg/kg/local)
+1 Levobupivacaína solução injectável ou para perfusão está disponível nas soluções a
+2,5, 5,0 e 7,5 mg/ml.
+Modo de administração
+Para instruções acerca da diluição do medicamento antes da administração, ver
+secção 6.6.
+4.3 Contraindicações
+Deverão ser consideradas as contraindicações gerais relacionadas com a anestesia
+regional, independentemente do anestésico local usado.
+As soluções de levobupivacaína estão contraindicadas em doentes com uma
+hipersensibilidade conhecida à levobupivacaína, anestésicos locais do tipo amida (ver
+secção 4.8) ou a qualquer um dos excipientes mencionados na secção 6.1.
+As soluções de levobupivacaína estão contraindicadas para anestesia regional
+intravenosa (bloqueio de Bier).
+As soluções de levobupivacaína estão contraindicadas em doentes com hipotensão
+grave, tais como choque cardiogénico ou hipovolémico.
+As soluções de levobupivacaína estão contraindicadas para uso no bloqueio
+paracervical em obstetrícia (ver secção 4.6).
+4.4 Advertências e precauções especiais de utilização
+Todas as formas de anestesia local e regional com levobupivacaína devem ser
+efetuadas em instalações bem equipadas e administradas por profissionais treinados
+                                                                      APROVADO EM
+                                                                       01-03-2015
+                                                                       INFARMED
+e com experiência nas técnicas de anestesia necessárias, e capazes de diagnosticar e
+tratar quaisquer efeitos adversos que possam ocorrer.
+A levobupivacaína pode causar reações alérgicas agudas, efeitos cardiovasculares e
+lesão neurológica (ver secção 4.8).
+A levobupivacaína deve ser usada com precaução na anestesia regional em doentes
+com função cardiovascular diminuída, por ex. arritmias cardíacas graves (ver secção
+4.3).
+A administração de anestésicos locais pela via de administração intratecal ou
+epidural no sistema nervoso central, em doentes com doenças preexistentes do SNC,
+pode exacerbar potencialmente algumas destas situações clínicas.
+Consequentemente, deve proceder-se a uma avaliação clínica quando se considerar
+uma anestesia epidural ou intratecal nesses doentes.
+Anestesia Epidural
+Durante a administração epidural da levobupivacaína, as soluções concentradas (0,5
+– 0,75%) devem ser administradas em doses incrementadas de 3 a 5 ml com tempo
+suficiente entre as doses para detetar manifestações tóxicas de injeções
+intravasculares ou intratecais inadvertidas. Foram notificados casos de bradicardia
+grave, hipotensão e compromisso respiratório com paragem cardíaca (alguns dos
+quais fatais) associados a anestésicos locais, incluindo a levobupivacaína. Quando for
+injetada uma dose elevada, por ex. no bloqueio epidural, recomenda-se administrar
+uma dose teste de 3-5 ml de lidocaína com adrenalina. Uma injeção intravascular
+inadvertida pode então ser reconhecida por um aumento temporário na frequência
+cardíaca e a injeção intratecal acidental por sinais de um bloqueio espinal.
+Podem também ser efetuadas aspirações com uma seringa antes e durante cada
+injeção suplementar através de técnicas contínuas (intermitentes) com cateter. Uma
+injeção intravascular é ainda possível mesmo que as aspirações de sangue sejam
+negativas. Durante a administração da anestesia epidural, recomenda-se que a dose
+teste seja administrada inicialmente, e os efeitos monitorizados antes da
+administração da dose total
+A anestesia epidural com qualquer anestésico local pode causar hipotensão e
+bradicardia. Todos os doentes devem ter um acesso intravenoso estabelecido. Deve
+assegurar-se que estejam disponíveis fluídos apropriados, vasopressores,
+anestésicos com propriedades anticonvulsivantes, miorelaxantes e atropina,
+equipamento de ressuscitação e técnicos experientes (ver secção 4.9).
+Analgesia Epidural
+Têm havido notificações pós-comercialização da síndrome de cauda equina e
+acontecimentos indicativos de neurotoxicidade (ver secção 4.8) temporariamente
+associadas com o uso de levobupivacaína por pelo menos 24 horas para analgesia
+epidural. Estes acontecimentos foram mais graves e em alguns casos conduziram a
+sequelas permanentes quando se administrou levobupivacaína durante mais de 24
+horas. Portanto deve – se considerar cuidadosamente a perfusão de levobupivacaína
+durante períodos superiores a 24 horas e esta só deve ser usada nos casos em que
+os benefícios para o doente são superiores aos riscos.
+Para evitar a injeção intravascular ou intratecal, é essencial que a aspiração de
+sangue ou líquido cefalorraquidiano (quando aplicável) se realize antes da injeção de
+                                                                     APROVADO EM
+                                                                      01-03-2015
+                                                                      INFARMED
+qualquer anestésico local, seja a dose inicial ou as doses subsequentes. No entanto,
+uma aspiração negativa não previne uma injeção intravascular ou intratecal.
+A levobupivacaína deve ser utilizada com precaução em doentes que recebem outros
+anestésicos locais ou agentes estruturalmente relacionados com anestésicos locais
+tipo amida, uma vez que os efeitos tóxicos destes medicamentos são aditivos.
+Bloqueios do nervo regional principal
+O doente deve receber fluídos intravenosamente através de um cateter interno, de
+modo a assegurar uma via intravenosa funcionante. Deve ser usada a dose mais
+baixa de anestésico local que resulta numa anestesia eficaz, de modo a evitar níveis
+plasmáticos elevados ou efeitos secundários graves. Deve evitar-se a injeção rápida
+de um grande volume de solução anestésica local e, quando possível, devem usar-se
+doses fracionadas (incrementais).
+Uso na Zona da Cabeça e Pescoço
+Pequenas doses de anestésicos locais administradas na zona da cabeça e pescoço,
+incluindo bloqueios retrobulbar, dental e dos gânglios estrelados, podem produzir
+reações adversas semelhantes à toxicidade sistémica observada com injeções
+intravasculares inadvertidas de doses mais elevadas. Os procedimentos de injeção
+requerem cuidados extremos. As reações podem ser devidas a injeção intra-arterial
+do anestésico local com fluxo retrógrado para a circulação cerebral. Podem também
+ser devidas a punção do revestimento dural do nervo ótico durante o bloqueio
+retrobulbar com difusão de qualquer anestésico local ao longo do espaço subdural
+para o mesencéfalo. Os doentes que recebem estes bloqueios devem estar sujeitos a
+monitorização da circulação e respiração e devem ser observados constantemente.
+Devem estar imediatamente disponíveis equipamento de ressuscitação e técnicos
+para tratar as reações adversas.
+Uso na Cirurgia Oftálmica
+Os médicos que efetuam bloqueios retrobulbares devem estar conscientes de que
+foram descritos casos de paragem respiratória, após injeção de anestésicos locais. A
+exemplo do que acontece com todos os outros procedimentos regionais, antes do
+bloqueio retrobulbar, deverá assegurar-se disponibilidade imediata de equipamento,
+medicamentos e técnicos para tratar a paragem ou depressão respiratória,
+convulsões e estimulação ou depressão cardíaca. Como acontece com outros
+procedimentos de anestesia, os doentes devem ser constantemente monitorizados
+após os bloqueios oftalmológicos para sinais destas reações adversas.
+Populações especiais
+Indivíduos debilitados, idosos e gravemente doentes: a levobupivacaína deve ser
+usada com precaução em indivíduos debilitados, idosos ou gravemente doentes (ver
+secção 4.2).
+Insuficiência hepática: visto que a levobupivacaína é metabolizada no fígado, deverá
+ser usada com precaução nos doentes com doença hepática ou com perfusão
+hepática diminuída, por ex.: alcoólicos ou cirróticos (ver secção 5.2).
+Este medicamento contém 1,22 mmol (28 mg) de sódio na solução da ampola, o que
+deve ser tido em consideração nos doentes com dieta com controlo de sódio.
+4.5 Interações medicamentosas e outras formas de interação
+                                                                      APROVADO EM
+                                                                       01-03-2015
+                                                                       INFARMED
+Os estudos in vitro indicam que as isoformas CYP3A4 e CYP1A2 fazem a mediação do
+metabolismo da levobupivacaína. Embora não tenham sido efetuados estudos
+clínicos, o metabolismo da levobupivacaína pode ser afetado pelos inibidores da
+CYP3A4, por ex.: cetoconazol e inibidores da CYP1A2, por ex.: metilxantinas.
+A levobupivacaína deverá ser usada com precaução em doentes tratados com
+antiarrítmicos com atividade anestésica local, por ex: mexiletina ou antiarrítmicos de
+classe III, visto que os seus efeitos tóxicos podem ser aditivos.
+Não foram completados quaisquer estudos clínicos para avaliar a levobupivacaína em
+associação com adrenalina.
+4.6 Fertilidade, gravidez e aleitamento
+Fertilidade
+A quantidade de dados sobre a utilização de levobupivacaína é limitada ou
+inexistente.
+Gravidez
+As soluções de levobupivacaína estão contraindicadas para uso no bloqueio
+paracervical em obstetrícia. Com base na experiência com bupivacaína pode ocorrer
+bradicardia fetal após bloqueio paracervical (ver secção 4.3).
+Não existem dados clínicos sobre o uso da levobupivacaína durante o primeiro
+trimestre de gravidez. Estudos efetuados em animais não revelaram efeitos
+teratogénicos mas revelaram toxicidade embriofetal em níveis de exposição
+sistémica da mesma ordem que os obtidos no uso clínico (ver secção 5.3).
+Desconhece-se o potencial risco para o ser humano. Portanto, a levobupivacaína só
+poderá ser administrada durante o início da gravidez, se absolutamente necessário.
+No entanto, até à data, a experiência clínica com bupivacaína em cirurgia obstétrica
+(no termo da gravidez ou no parto) é extensa e não revelou efeito fetotóxico.
+Amamentação
+Desconhece-se se a levobupivacaína é excretada no leite humano. No entanto, como
+a bupivacaína, é possível que a levobupivacaína seja fracamente excretada no leite
+materno. A amamentação é pois possível após anestesia local.
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+A levobupivacaína pode ter uma influência importante na capacidade de conduzir ou
+utilizar máquinas. Os doentes deverão ser aconselhados a não conduzir nem utilizar
+máquinas até todos os efeitos da anestesia e os efeitos imediatos da cirurgia terem
+passado.
+4.8 Efeitos indesejáveis
+As reações adversas para a levobupivacaína são consistentes com as que se
+conhecem para a respetiva classe de medicamentos. As reações adversas mais
+frequentemente descritas são hipotensão, náuseas, anemia, vómitos, tonturas,
+cefaleias, pirexia, dor resultante da técnica anestésica, dor lombar e síndrome de
+sofrimento fetal quando usado em obstetrícia (ver quadro abaixo).
+                                                                   APROVADO EM
+                                                                    01-03-2015
+                                                                    INFARMED
+As reações adversas notificadas espontaneamente ou observadas em ensaios clínicos
+são descritas no quadro seguinte. As reações adversas ao medicamento são
+classificadas por frequência, dentro de cada sistema de classe de órgãos, usando a
+seguinte convenção: muito frequentes (≥ 1/10), frequentes (≥ 1/100, <1/10),
+pouco frequentes (≥ 1/1000, <1/100), desconhecido (não pode ser calculado a partir
+dos dados disponíveis).
+Classes de sistemas de Frequência                      Reação Adversa
+orgãos
+Doenças do sangue e do Muito frequentes                Anemia
+sistema linfático
+                       Desconhecido                    Reações alérgicas (em
+Doenças do sistema                                     casos graves choque
+imunitário             Desconhecido                    anafilático)
+                                                       Hipersensibilidade
+                   Frequentes                          Tonturas
+                   Frequentes                          Cefaleias
+                   Desconhecido                        Convulsões
+Doenças do sistema Desconhecido                        Perda de consciência
+nervoso            Desconhecido                        Sonolência
+                   Desconhecido                        Síncope
+                   Desconhecido                        Parestesia
+                   Desconhecido                        Paraplegia
+                   Desconhecido                        Paralisia1
+                   Desconhecido                        Visão turva
+Afeções oculares   Desconhecido                        Ptose2
+                   Desconhecido                        Miose2
+                   Desconhecido                        Enoftalmia 2
+                             Desconhecido              Bloqueio
+                             Desconhecido              auriculoventricular
+Cardiopatias                 Desconhecido              Paragem cardíaca
+                             Desconhecido              Taquiarritmia ventricular
+                             Desconhecido              Taquicardia
+                                                       Bradicardia
+Vasculopatias                 Muito frequentes         Hipotensão
+                              Desconhecido             Rubor2
+                              Desconhecido             Paragem respiratória
+Doenças        respiratórias, Desconhecido             Edema laríngeo
+torácicas e do mediastino Desconhecido                 Apneia
+                              Desconhecido             Espirros
+                             Muito frequentes          Náuseas
+                             Frequentes                Vómitos
+Doenças gastrointestinais    Desconhecido              Hipoestesia oral
+                             Desconhecido              Perda de controlo no
+                                                       esfíncter1
+                                                                    APROVADO EM
+                                                                     01-03-2015
+                                                                     INFARMED
+                           Desconhecido                Angioedema
+                           Desconhecido                Urticária
+Afeções dos tecidos Desconhecido                       Prurido
+cutâneos e subcutâneos     Desconhecido                Hiperidrose
+                           Desconhecido                Anidrose2
+                           Desconhecido                Eritema
+Afeções                    Frequentes                  Dor lombar
+musculoesqueléticas e dos Desconhecido                 Contração muscular
+tecidos conjuntivos        Desconhecido                Fraqueza muscular
+Doenças renais e urinárias Desconhecido                Disfunção na bexiga1
+Situações na gravidez, no Frequentes                   Síndrome de sofrimento
+puerpério e perinatais                                 fetal
+Doenças dos órgãos Desconhecido                        Priapismo1
+genitais e da mama
+Perturbações gerais e Frequentes
+alterações no local de                                 Pirexia
+administração
+                                                       Diminuição do débito
+Exames complementares Desconhecido                     cardíaco
+de diagnóstico        Desconhecido                     Alterações        no
+                                                       eletrocardiograma
+Complicações              de
+intervenções relacionadas Frequentes                   Dor no procedimento
+com lesões e intoxicações
+1 Pode ser um sinal ou sintoma de síndrome de cauda equina (ver informação
+adicional na secção 4.8 no texto abaixo).
+2 Pode ser um sinal ou sintoma de síndrome de Horner transitório (ver informação
+adicional na secção 4.8 no texto abaixo).
+As reações adversas com anestésicos locais de tipo amida são raras, mas podem
+ocorrer como resultado de sobredosagem ou de injeção intravascular não intencional
+e podem ser graves.
+Foi descrita sensibilidade cruzada nos doentes do grupo que recebeu o anestésico
+local tipo amida (ver secção 4.3).
+A injeção intratecal acidental de anestésicos locais pode originar uma anestesia
+espinal muito alta.
+Os efeitos cardiovasculares estão relacionados com uma depressão do sistema de
+condução do coração e com uma redução da excitabilidade e contractilidade
+miocárdicas. Normalmente, estas são precedidas por uma toxicidade importante do
+SNC, isto é, por convulsões, mas, em casos raros, pode ocorrer paragem cardíaca
+sem efeitos prodrómicos do SNC.
+                                                                      APROVADO EM
+                                                                       01-03-2015
+                                                                       INFARMED
+A lesão neurológica é uma consequência rara mas muito conhecida da anestesia
+regional e, especialmente, da anestesia epidural e da raquianestesia. Pode ser devida
+à lesão direta na medula espinal ou dos nervos raquidianos, à síndrome da artéria
+espinal anterior, à injeção de uma substância irritante ou à injeção de uma solução
+não estéril. Raramente, estes efeitos podem ser permanentes.
+Foram notificados casos de debilidade prolongada ou perturbações sensoriais, alguns
+dos quais podem ter sido permanentes, associados ao tratamento com
+levobupivacaína. É difícil determinar se os efeitos a longo prazo foram o resultado de
+toxicidade do medicamento ou traumatismo desconhecido durante a cirurgia ou
+outros fatores mecânicos, como por exemplo inserção e manipulação do cateter.
+Foram notificados casos de síndrome de cauda equina ou sinais e sintomas de
+potencial lesão na base da medula espinal ou na raiz nervosa espinal (incluindo
+parestesia nas extremidades inferiores, fraqueza ou paralisia, perda de controlo
+intestinal e/ou de controlo da bexiga e priapismo) associados ao tratamento com
+levobupivacaína. Estes acontecimentos foram mais graves e em alguns casos não
+desapareceram quando a levobupivacaína foi administrada por mais de 24 horas (ver
+secção 4.4).
+No entanto, não é possível determinar se estes acontecimentos são devido ao efeito
+da levobupivacaina, traumatismo mecânico na medula espinal ou raiz nervosa
+espinal, ou da colheita de sangue na base da coluna vertebral.
+Foram também notificados casos raros de síndrome de Horner transitório (ptose,
+miose, enoftalmia, sudorese unilateral e/ou rubor) associados ao uso de anestésicos
+regionais, incluindo a levobupivacaína. Estes acontecimentos desapareceram com a
+suspensão do tratamento.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-
+risco do medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer
+suspeitas de reações adversas através de:
+INFARMED, I.P.
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+Fax: + 351 21 798 73 97
+Sítio da internet: http://extranet.infarmed.pt/page.seram.frontoffice.seramhomepage
+E-mail: farmacovigilancia@infarmed.pt
+4.9 Sobredosagem
+Uma injeção intravascular acidental de um anestésico local pode causar reações
+tóxicas imediatas. Em caso de sobredosagem, os picos de concentração plasmática
+podem não ser atingidos até 2 horas após a administração, dependendo do local da
+injeção e, como tal, os sinais de toxicidade podem ser retardados. Os efeitos do
+produto podem ser prolongados.
+                                                                     APROVADO EM
+                                                                      01-03-2015
+                                                                      INFARMED
+As reações adversas sistémicas após sobredosagem ou injeção intravascular
+acidental descritas com outros agentes anestésicos locais de ação prolongada
+englobam efeitos sobre o SNC e efeitos cardiovasculares.
+Efeitos sobre o SNC
+As convulsões devem ser tratadas imediatamente com tiopental ou diazepam por via
+intravenosa doseados conforme necessário. O tiopental e o diazepam também
+deprimem o sistema nervoso central e as funções respiratórias e cardíaca. Portanto,
+o seu uso pode originar uma apneia. Podem ser utilizados bloqueadores
+neuromusculares apenas se o médico considerar apropriado a manutenção de
+ventilação e prestar cuidados a um doente totalmente paralisado.
+Se não forem tratadas rapidamente, as convulsões seguidas de hipóxia e hipercápnia
+com depressão miocárdica resultante dos efeitos do anestésico local sobre o coração,
+podem originar arritmias cardíacas, fibrilhação ventricular ou paragem cardíaca.
+Efeitos Cardiovasculares
+A hipotensão pode ser prevenida ou atenuada com pré-tratamento utilizando fluídos
+intravenosos e/ou vasopressores. Se ocorrer hipotensão, esta deve ser tratada com
+cristaloides ou coloides intravenosos e/ou doses incrementais de um vasopressor,
+como a efedrina 5-10 mg. Qualquer causa de hipotensão coexistente deve ser
+tratada rapidamente.
+Se se verificar bradicardia grave, o tratamento com atropina 0,3-1,0 mg irá
+restabelecer a frequência cardíaca num nível aceitável.
+A arritmia cardíaca deve ser tratada conforme necessário e a fibrilhação ventricular
+deve ser tratada por cardioversão.
+
+5. PROPRIEDADES FARMACOLÓGICAS
+5.1 Propriedades farmacodinâmicas
+Grupo farmacoterapêutico: 2.2 – Sistema Nervoso Central. Anestésicos Locais,
+código ATC: N01B B10
+A levobupivacaína é um anestésico e analgésico local de ação prolongada. Bloqueia a
+condução nervosa nos nervos sensitivos e motores, em grande parte por interação
+com os canais de sódio da membrana celular dependentes da voltagem, mas
+bloqueia também os canais de potássio e cálcio.
+A levobupivacaína interfere também com a transmissão do impulso nervoso e com a
+condução em outros tecidos, sendo os efeitos a nível do sistema cardiovascular e
+sistema nervoso central os mais importantes para a ocorrência de reações adversas
+clínicas.
+A dose de levobupivacaína é expressa sob a forma de base, enquanto, no racémico
+bupivacaína a dose é expressa sob a forma de sal cloridrato. Isto ocasiona um
+aumento de aproximadamente 13% mais substância ativa nas soluções de
+levobupivacaína relativamente à bupivacaína. Nos estudos clínicos, a
+levobupivacaína, em concentrações nominais idênticas revelou efeito clínico
+semelhante à bupivacaína.
+                                                                   APROVADO EM
+                                                                    01-03-2015
+                                                                    INFARMED
+Num estudo de farmacologia clínica usando um modelo de bloqueio do nervo cubital,
+a levobupivacaína foi equipotente à bupivacaína.
+É limitada a experiência da segurança com o tratamento com levobupivacaína por
+períodos excedendo 24 horas.
+5.2 Propriedades farmacocinéticas
+Em estudos realizados no Homem, a cinética de distribuição da levobupivacaína após
+administração intravenosa foi essencialmente a mesma da bupivacaína. A
+concentração plasmática da levobupivacaína após administração terapêutica depende
+da dose e, como a absorção a partir do local de administração é afetada pela
+vascularização do tecido, da via de administração.
+Não existem dados relevantes em doentes com insuficiência hepática (ver secção
+4.4).
+Não existem dados disponíveis em doentes com insuficiência renal. A
+levobupivacaína é largamente metabolizada e a levobupivacaína inalterada não é
+excretada na urina.
+No Homem, a ligação da levobupivacaína às proteínas plasmáticas foi avaliada in
+vitro sendo> 97% nas concentrações entre 0,1 e 1,0 µg/ml.
+Num estudo de farmacologia clínica em que se administraram 40 mg de
+levobupivacaína por via intravenosa, a semivida média foi aproximadamente 80 ± 22
+minutos, a Cmax foi de 1,4 ± 0,2 µg/ml e a AUC de 70 ± 27 µg·min/ml.
+A Cmax e AUC média (0-24 h) da levobupivacaína foram aproximadamente
+proporcionais à dose após administração epidural de 75 mg (0,5%) e 112,5 mg
+(0,75%) e as doses seguintes de 1 mg/kg (0,25%) e 2 mg/kg (0,5%) usadas no
+bloqueio do plexo braquial. Após a administração epidural de 112,5 mg (0,75%) os
+valores médios da Cmax e AUC foram de 0,58 µg/ml e 3,56 µg·h/ml,
+respetivamente.
+A depuração plasmática total média e semivida terminal da levobupivacaína após
+perfusão intravenosa foram respetivamente de 39 litros/hora e de 1,3 horas. O
+volume de distribuição após administração intravenosa foi de 67 litros.
+A levobupivacaína é largamente metabolizada não sendo detetada qualquer
+levobupivacaína inalterada na urina ou fezes. A 3-hidroxi-levobupivacaína, um
+importante metabolito da levobupivacaína, é excretada na urina sob a forma de
+ácido glucurónico e de conjugados de sulfatos éster. Estudos in vitro demonstraram
+que as isoformas CYP3A4 e CYP1A2 medeiam o metabolismo da levobupivacaína
+respetivamente em desbutil-levobupivacaína e 3-hidroxi-levobupivacaína. Estes
+estudos indicam também que o metabolismo da levobupivacaína e da bupivacaína
+são semelhantes.
+Após administração intravenosa, a recuperação de levobupivacaína foi quantitativa,
+sendo uma média total de 95% recuperada na urina (71%) e fezes (24%) em 48
+horas.
+Não existem evidências de racemização da levobupivacaína in vivo.
+                                                                         APROVADO EM
+                                                                          01-03-2015
+                                                                          INFARMED
+5.3 Dados de segurança pré-clínica
+Num estudo de toxicidade embriofetal em ratos, observou-se um aumento da
+incidência de pélvis renal dilatada, ureteres dilatados, dilatação olfativa ventricular e
+costelas torácico-lombares extra, após níveis de exposição sistémica da mesma
+ordem dos obtidos em utilização clínica. Não se registaram malformações
+relacionadas com o tratamento.
+A levobupivacaína não foi genotóxica num conjunto padrão de ensaios de
+mutagenicidade e clastogenicidade. Não foram realizados testes de
+carcinogenicidade.
+
+6. INFORMAÇÕES FARMACÊUTICAS
+6.1 Lista dos excipientes
+Cloreto de sódio
+Hidróxido de sódio
+Ácido clorídrico
+Água para preparações injetáveis
+6.2 Incompatibilidades
+A levobupivacaína pode formar um precipitado, se for diluída com soluções alcalinas
+e não deve ser diluída ou coadministrada com injeções de bicarbonato de sódio.
+Este medicamento não deve ser misturado com outros medicamentos, exceto com os
+mencionados na secção 6.6.
+6.3 Prazo de validade
+Prazo de validade na embalagem de venda: 3 anos.
+Prazo de validade após primeira abertura: o produto deve ser utilizado
+imediatamente.
+Prazo de validade após diluição em solução de cloreto de sódio a 0,9%: foi
+demonstrada estabilidade química e física em uso durante 7 dias, entre 20-22ºC. Foi
+demonstrada estabilidade química e física em uso com clonidina, morfina ou
+fentanilo durante 40 horas, entre 20-22ºC.
+Do ponto de vista microbiológico, o medicamento deve ser usado imediatamente. Se
+não for usado imediatamente, os tempos de conservação em uso e condições antes
+de utilização são da responsabilidade do utilizador e normalmente não devem ser
+superiores a 24 horas entre 2-8 °C, exceto se a diluição tiver sido efetuada em
+condições assépticas controladas e validadas.
+6.4 Precauções especiais de conservação
+Este medicamento não requer precauções especiais de conservação.
+Condições de conservação do medicamento após reconstituição, ver secção 6.3.
+                                                                    APROVADO EM
+                                                                     01-03-2015
+                                                                     INFARMED
+6.5 Natureza e conteúdo do recipiente
+Levobupivacaína NORMON 2,5 mg/ml solução injectável ou para perfusão: Ampola
+de vidro tipo I incolor contendo 10 ml de solução injetável ou para perfusão. Cada
+embalagem contém 10 ampolas.
+Levobupivacaína NORMON 5 mg/ml solução injectável ou para perfusão: Ampola de
+vidro tipo I incolor contendo 10 ml de solução injetável ou para perfusão. Cada
+embalagem contém 10 ampolas.
+6.6 Precauções especiais de eliminação e manuseamento
+Apenas para utilização única. Elimine toda a solução não utilizada.
+A solução/diluição deve ser inspecionada visualmente antes da utilização. Devem ser
+usadas apenas as soluções límpidas, sem partículas visíveis.
+A diluição de soluções padrão de levobupivacaína deve ser efetuada com solução
+injetável/ de cloreto de sódio 9 mg/ml (0,9%), usando técnicas assépticas.
+A clonidina 8,4 µg/ml, morfina 0,05 mg/ml e fentanilo 4 µg/ml mostraram ser
+compatíveis com a levobupivacaína em solução injetável/ de cloreto de sódio 9
+mg/ml (0,9%).
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo
+com as exigências locais.
+
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+Laboratórios NORMON, S.A.
+Av. Infante D. Henrique, nº 333H
+Piso 3 - Esc. 42
+1800-282 Lisboa
+Portugal
+
+8. NÚMERO (S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+Nº de registo:
+5585609        Levobupivacaína Normon, 2.5 mg/ml, Solução injetável ou para
+               perfusão, 10 ampolas de 10 ml
+5585617        Levobupivacaína Normon, 5 mg/ml, Solução injetável ou para
+               perfusão, 10 ampolas de 10 ml
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+Data da primeira autorização: 20 de novembro de 2013.
+10. DATA DA REVISÃO DO TEXTO
+

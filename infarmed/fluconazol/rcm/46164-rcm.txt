@@ -1,0 +1,1224 @@
+                                                                         APROVADO EM
+                                                                         24-04-2024
+                                                                         INFARMED
+
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1. NOME DO MEDICAMENTO
+Fluconazol Kabi 2 mg/ml solução para perfusão
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+Cada 50 ml de solução para perfusão contém 100 mg de fluconazol.
+Cada 100 ml de solução para perfusão contém 200 mg de fluconazol.
+Cada 200 ml de solução para perfusão contém 400 mg de fluconazol.
+Cada ml contém 2 mg de fluconazol.
+Excipiente(s) com efeito conhecido:
+Cada ml contém 9 mg de cloreto de sódio (equivalente a 0,154 mmol de sódio) (ver
+secção 4.4).
+Lista completa de excipientes, ver secção 6.1.
+
+3. FORMA FARMACÊUTICA
+Solução para perfusão
+Solução incolor, límpida isenta de partículas visíveis, com pH de 4,0 a 8,0 e osmolalidade
+de aproximadamente 308 mOsmol/kg.
+
+4. INFORMAÇÕES CLÍNICAS
+4.1 Indicações terapêuticas
+Fluconazol Kabi está indicado nas seguintes infeções fúngicas (ver secção 5.1).
+Fluconazol Kabi está indicado nos adultos para o tratamento de:
+Meningite criptocócica (ver secção 4.4).
+Coccidioidomicose (ver secção 4.4).
+Candidíase invasiva.
+Candidíase das mucosas incluindo candidíase orofaríngea, esofágica, candidúria e
+candidíase mucocutânea crónica.
+Candidíase oral crónica atrófica (lesão na boca provocada por prótese dentária) se a
+higiene dentária ou tratamento tópico forem insuficientes.
+Fluconazol Kabi está indicado nos adultos para a profilaxia de:
+Recidiva da meningite criptocócica em doentes com risco elevado de recorrência.
+Recidiva de candidíase orofaríngea ou esofágica em doentes infetados com VIH que estão
+em alto risco de terem uma recidiva.
+Profilaxia das infeções por Candida em doentes com neutropenia prolongada (tais como
+doentes com malignidades hematológicas a receber quimioterapia ou doentes a receber
+transplante de Células Estaminais Hematopoiéticas (ver secção 5.1)).
+                                                                        APROVADO EM
+                                                                        24-04-2024
+                                                                        INFARMED
+
+Fluconazol Kabi está indicado em bebés recém-nascidos de termo, bebés, lactentes,
+crianças e adolescentes com idades entre os 0 e os 17 anos de idade.
+Fluconazol Kabi é utilizado para o tratamento de candidíase das mucosas (orofaríngea,
+esofágica), candidíase invasiva, meningite criptocócica e na profilaxia de infeções por
+Candida em doentes imunocomprometidos. Fluconazol Kabi pode ser utilizado como
+terapêutica de manutenção para prevenir a recidiva da meningite criptocócica em
+crianças com elevado risco de recorrência (ver secção 4.4).
+A terapêutica pode ser instituída antes de serem conhecidos os resultados das culturas e
+de outros estudos laboratoriais; no entanto, assim que estes resultados estejam
+disponíveis, a terapêutica anti-infeciosa deve ser ajustada em conformidade.
+Devem ser tidas em consideração as orientações oficiais sobre o uso apropriado dos
+medicamentos antifúngicos.
+4.2 Posologia e modo de administração
+Posologia
+A dose deve ser baseada na natureza e gravidade da infeção fúngica. O tratamento de
+infeções que requerem doses múltiplas deve ser continuado até que os parâmetros
+clínicos ou testes laboratoriais indiquem que a infeção fúngica ativa desapareceu. Um
+período de tratamento inadequado pode levar à recorrência da infeção ativa.
+Adultos:
+Indicações                       Posologia           Duração do Tratamento
+Criptococose      - Tratamento Dose de carga: Habitualmente pelo menos
+                  da meningite 400 mg no Dia 1       6 a 8 semanas. Nas
+                  criptocócica   Dose subsequente: infeções que põem a vida
+                                 200 mg a 400 mg uma em risco a dose diária
+                                 vez por dia         pode ser aumentada para
+                                                     800 mg.
+                  -Terapêutica 200 mg uma vez por Indefinidamente com uma
+                  de             dia                 dose diária de 200 mg
+                  manutenção
+                  para prevenir
+                  a recidiva de
+                  meningite
+                  criptocócica
+                  em doentes
+                  com alto risco
+                  de
+                  recorrências
+Coccidioidomicose                200 mg a 400 mg uma 11 meses até 24 meses ou
+                                 vez por dia         por       mais      tempo
+                                                     dependendo do doente.
+                                                     Pode-se considerar 800
+                                                     mg por dia em algumas
+                                                     infeções e especialmente
+                                                     na doença meníngica
+                                                                  APROVADO EM
+                                                                  24-04-2024
+                                                                  INFARMED
+
+Indicações                     Posologia             Duração do Tratamento
+Candidíase                     Dose de carga: Geralmente, a duração
+invasiva                       800 mg no Dia 1.      recomendada               da
+                               Dose subsequente: terapêutica          para      a
+                               400 mg uma vez por candidemia é durante 2
+                               dia                   semanas após o primeiro
+                                                     resultado negativo da
+                                                     cultura de sangue e
+                                                     resolução de sinais e
+                                                     sintomas atribuíveis à
+                                                     candidemia.
+Tratamento da - Candidíase Dose de carga: 7 a 21 dias (até a
+candidíase das orofaríngea     200 mg a 400 mg no candidíase         orofaríngea
+mucosas                        Dia 1.                estar em remissão).
+                               Dose subsequente: Podem           ser     usados
+                               100 mg a 200 mg uma períodos mais longos em
+                               vez por dia           doentes com função imune
+                                                     gravemente
+                                                     comprometida.
+                  - Candidíase Dose de carga: 14 a 30 dias (até a
+                  esofágica    200 mg a 400 mg no candidíase esofágica estar
+                               Dia 1.                em remissão).
+                               Dose subsequente: Podem           ser     usados
+                               100 mg a 200 mg uma períodos mais longos em
+                               vez por dia           doentes com função imune
+                                                     gravemente
+                                                     comprometida.
+                  - Candidúria 200 mg a 400 mg uma 7 a 21 dias. Podem ser
+                               vez por dia           usados períodos mais
+                                                     longos em doentes com
+                                                     função            imunitária
+                                                     gravemente
+                                                     comprometida.
+                  - Candidíase 50 mg uma vez por 14 dias
+                  crónica      dia
+                  atrófica
+                  - Candidíase 50 mg a 100 mg uma Até 28 dias. Podem ser
+                  mucocutânea vez por dia            usados períodos mais
+                  crónica                            longos dependendo tanto
+                                                     da gravidade da infeção
+                                                     como do compromisso
+                                                     imunitário e infeção
+                                                     subjacentes.
+Prevenção      da - Candidíase 100 mg a 200 mg uma Um período indefinido
+recidiva       da orofaríngea  vez por dia ou 200 mg para      doentes       com
+candidíase das                 3 vezes por semana    supressão imune crónica
+mucosas       em
+doentes infetados
+com VIH que têm - Candidíase 100 mg a 200 mg uma Um período indefinido
+um risco elevado esofágica     vez por dia ou 200 mg para      doentes       com
+de recidiva                    3 vezes por semana    supressão imune crónica
+                                                                       APROVADO EM
+                                                                       24-04-2024
+                                                                       INFARMED
+
+Indicações                          Posologia           Duração do Tratamento
+Profilaxia    das                   200 mg a 400 mg uma O tratamento deve
+infeções      por                   vez por dia         começar vários dias antes
+Candida                                                 do aparecimento esperado
+                                                        da neutropenia e deve
+                                                        continuar por 7 dias após
+                                                        a      recuperação     da
+                                                        neutropenia após a
+                                                        contagem de neutrófilos
+                                                        subir acima de 1000
+                                                        células por mm3
+Populações especiais
+Idosos
+A dosagem deve ser ajustada com base na função renal (ver “Compromisso renal”).
+Compromisso renal
+Fluconazol é excretado predominantemente na urina sob a forma de substância ativa
+inalterada. Não são necessários ajustes na terapêutica de dose única. Em doentes
+(incluindo a população pediátrica) com compromisso da função renal que vão receber
+doses múltiplas de fluconazol, deve ser administrada uma dose inicial de 50 mg a 400
+mg, com base na dose diária recomendada para a indicação. Após esta dose de carga
+inicial, a dose diária (de acordo com a indicação) deve ser baseada na tabela seguinte:
+   Depuração de creatinina (ml/min)         Percentagem da dose recomendada
+   >50                                      100%
+   ≤50 (sem hemodiálise)                    50%
+   Hemodiálise                              100% após cada hemodiálise
+Doentes a fazer hemodiálise devem receber 100% da dose recomendada após cada
+hemodiálise; nos dias em que não faz diálise, os doentes devem receber uma dose
+reduzida de acordo com a sua depuração da creatinina.
+Compromisso hepático
+Os dados disponíveis em doentes com compromisso hepático são limitados; pelo que o
+fluconazol deve ser administrado com precaução em doentes com disfunção hepática
+(ver secções 4.4 e 4.8).
+População pediátrica
+Na população pediátrica não deve ser excedida a dose máxima de 400 mg por dia.
+Tal como para as infeções semelhantes no adulto, a duração do tratamento baseia-se na
+resposta clínica e micológica. Fluconazol Kabi é administrado como uma dose única
+diária.
+Para doentes pediátricos com compromisso da função renal, ver a dose em
+“Compromisso renal”. A farmacocinética do fluconazol não foi estudada na população
+pediátrica com insuficiência renal (para “Recém-nascidos de termo” que normalmente
+apresentam imaturidade renal primária, por favor ver abaixo).
+Lactentes, crianças pequenas e crianças (dos 28 dias aos 11 anos de idade):
+                                                                        APROVADO EM
+                                                                        24-04-2024
+                                                                        INFARMED
+
+Indicação                    Posologia                      Recomendações
+- Candidíase das mucosas     Dose inicial: 6 mg/kg          A dose inicial pode
+                             Dose subsequente: 3 mg/kg uma ser utilizada no
+                             vez por dia                    primeiro dia de
+                                                            forma a atingir
+                                                            estados
+                                                            estacionários mais
+                                                            rapidamente.
+- Candidíase invasiva        Dose: 6 a 12 mg/kg uma vez por Depende           da
+- Meningite criptocócica     dia                            gravidade         da
+                                                            doença
+- Terapêutica de manutenção Dose: 6 mg/kg uma vez por dia Depende             da
+para prevenção da meningite                                 gravidade         da
+criptocócica em crianças com                                doença
+risco elevado de recidiva
+- Profilaxia de Candida em Dose: 3 a 12 mg/kg uma vez por Depende             da
+doentes imunocomprometidos dia                              extensão e da
+                                                            duração           da
+                                                            neutropenia
+                                                            induzida        (ver
+                                                            posologia        dos
+                                                            Adultos)
+Adolescentes (dos 12 aos 17 anos de idade):
+Dependendo do peso e do desenvolvimento da puberdade, o médico prescritor
+necessitará de avaliar que posologia (adultos ou crianças) é a mais apropriada. Os dados
+clínicos indicam que as crianças têm uma depuração do fluconazol mais elevada do que a
+observada para os adultos. Uma dose de 100 mg, 200 mg e 400 mg no adulto
+corresponde a uma dose de 3 mg, 6 mg e 12 mg/kg em crianças para obter uma
+exposição sistémica comparável.
+Recém-nascidos de termo (dos 0 aos 27 dias):
+Os recém-nascidos excretam o fluconazol lentamente.
+Há poucos dados de farmacocinética para suportar a posologia em recém-nascidos de
+termo (ver secção 5.2).
+Grupo etário         Posologia                       Recomendações
+Recém-nascidos    de A mesma dose em mg/kg do que Não deve ser excedida a
+termo (dos 0 aos 14 a dos bebés, lactentes e dose máxima de 12 mg/kg
+dias)                crianças, deve ser administrada a cada 72 horas
+                     a cada 72 horas
+Recém-nascidos    de A mesma dose em mg/kg do que Não deve ser excedida a
+termo (dos 15 aos 27 a dos bebés, lactentes e dose máxima de 12 mg/kg
+dias)                crianças, deve ser administrada a cada 48 horas
+                     a cada 48 horas
+Modo de administração
+Fluconazol pode ser administrado quer por via oral, quer por perfusão intravenosa, a via
+de administração depende do estado clínico do doente. Na passagem da via intravenosa
+para a via oral, ou vice-versa, não há necessidade de alterar a dose diária.
+A perfusão intravenosa deve ser administrada a uma velocidade que não exceda 10
+ml/minuto. Fluconazol Kabi é formulado em solução para perfusão de cloreto de sódio a
+9 mg/ml (0,9%), cada 200 mg (frasco de 100 ml) contém 15 mmol tanto de Na+ como
+de Cl–. Como Fluconazol Kabi é disponibilizado como uma solução diluída de cloreto de
+                                                                       APROVADO EM
+                                                                       24-04-2024
+                                                                       INFARMED
+
+sódio, em doentes que requerem restrição de líquidos ou sódio, deve ter-se em
+consideração a velocidade de administração da solução.
+Para instruções acerca da diluição do medicamento antes da administração, ver secção
+6.6.
+4.3 Contraindicações
+Hipersensibilidade à substância ativa, a compostos azólicos relacionados ou a qualquer
+um dos excipientes mencionados na secção 6.1.
+Hipersensibilidade a substâncias azólicas relacionadas.
+A coadministração de terfenadina está contraindicada em doentes medicados com
+Fluconazol Kabi em doses múltiplas iguais ou superiores a 400 mg por dia com base nos
+resultados de um estudo de interação de doses múltiplas. A coadministração de outros
+medicamentos conhecidos por prolongarem o intervalo QT e que são metabolizados pelo
+citocromo P450 (CYP) 3A4, tais como a cisaprida, o astemizol, a pimozida, a quinidina e
+a eritromicina, está contraindicada em doentes em tratamento com fluconazol (ver
+secções 4.4 e 4.5).
+4.4 Advertências e precauções especiais de utilização
+Tinea capitis
+O fluconazol tem sido estudado para o tratamento da tinea capitis em crianças. Foi
+demonstrado que não foi superior à griseofulvina e que a taxa global de eficácia foi
+inferior a 20%. Assim, Fluconazol Kabi não deve ser utilizado na tinea capitis.
+Criptococose
+A evidência de eficácia do fluconazol no tratamento da criptococose noutros locais (por
+exemplo, criptococose pulmonar e cutânea) é limitada, o que impede recomendações de
+doses.
+Micoses profundas endémicas
+É limitada a evidência de eficácia do fluconazol no tratamento de outras formas de
+micoses endémicas como a paracoccidioidomicose, esporotricose linfocutânea e
+histoplasmose, o que impede recomendações de dose específicas.
+Sistema renal
+O Fluconazol Kabi deve ser administrado com precaução em doentes com disfunção renal
+(ver secção 4.2).
+Insuficiência suprarrenal
+Cetoconazol é conhecido por causar insuficiência das suprarrenais; e isto poderá também
+ser aplicável ao fluconazol, embora raramente.
+Insuficiência suprarrenal relacionada com o tratamento concomitante com prednisona,
+ver secção 4.5 “Efeito do fluconazol noutros medicamentos”.
+Sistema hepatobiliar
+O Fluconazol Kabi deve ser administrado com precaução a doentes com disfunção
+hepática.
+Fluconazol tem sido associado a casos raros de toxicidade hepática grave, incluindo
+morte, principalmente em doentes com situações clínicas subjacentes graves. Nos casos
+de hepatotoxicidade associada ao fluconazol, não se observou nenhuma relação evidente
+com a dose diária total, a duração do tratamento, o género ou a idade do doente. A
+hepatoxicidade do fluconazol é habitualmente reversível com a interrupção do
+tratamento.
+                                                                         APROVADO EM
+                                                                         24-04-2024
+                                                                         INFARMED
+
+Os doentes que apresentem testes da função hepática alterados durante a terapêutica
+com fluconazol têm de ser rigorosamente monitorizados para detetar o desenvolvimento
+de lesões hepáticas mais graves.
+O doente deve ser informado dos sintomas sugestivos de efeitos hepáticos graves
+(astenia significativa, anorexia, náuseas persistentes, vómitos e icterícia). O tratamento
+com fluconazol deve ser imediatamente descontinuado e o doente deve consultar um
+médico.
+Sistema cardiovascular
+Alguns azóis, incluindo o fluconazol, têm sido associados ao prolongamento do intervalo
+QT no eletrocardiograma. O fluconazol causa prolongamento do intervalo QT através da
+inibição da corrente de retificação do canal de potássio (Ikr). O prolongamento do
+intervalo QT causado por outros medicamentos (tais como amiodarona) pode ser
+amplificado através da inibição do citocromo P450 (CYP) 3A4. Durante a vigilância pós-
+comercialização, ocorreram casos muito raros de prolongamento do intervalo QT e de
+torsades de pointes em doentes a receber tratamento com o fluconazol. Estes casos
+incluíram indivíduos gravemente doentes com múltiplos fatores de risco tais como
+doença cardíaca estrutural, alterações eletrolíticas e tratamento concomitante, que
+podem ter tido alguma contribuição. Os doentes com hipocaliemia e insuficiência cardíaca
+avançada e torsades de pointes têm maior risco para a ocorrência de arritmias que põem
+a vida em perigo.
+Fluconazol Kabi deve ser administrado com precaução em doentes com condições
+potencialmente pró-arrítmicas. A coadministração de outros medicamentos conhecidos
+por prolongarem o intervalo QT e que são metabolizados através do citocromo P450
+(CYP) 3A4 está contraindicada (ver secções 4.3 e 4.5).
+Halofantrina
+A halofantrina, substrato do CYP3A4, demonstrou prolongar o intervalo QTc com a dose
+terapêutica recomendada. A utilização concomitante de fluconazol e halofantrina não é
+recomendada (ver secção 4.5).
+Reações dermatológicas
+Durante o tratamento com fluconazol, os doentes raramente desenvolveram reações
+cutâneas esfoliativas, tais como a síndrome de Stevens-Johnson ou necrólise epidérmica
+tóxica.
+Foram notificados casos de reação medicamentosa com eosinofilia e sintomas sistémicos
+(DRESS).
+Os doentes com SIDA estão mais sujeitos a desenvolverem reações cutâneas graves a
+muitos fármacos. Se no decurso do tratamento da infeção fúngica superficial se verificar
+uma erupção cutânea imputável ao fluconazol, o tratamento deve ser interrompido. Se
+os doentes com infeções fúngicas invasivas/sistémicas desenvolverem erupções
+cutâneas, devem ser monitorizados de perto e o fluconazol deve ser interrompido caso se
+desenvolvam lesões vesiculares ou eritema multiforme.
+Hipersensibilidade
+Foram notificados casos raros de anafilaxia (ver secção 4.3).
+Citocromo P450
+O Fluconazol é um inibidor moderado do CYP2C9 e do CYP3A4. O Fluconazol é também
+um inibidor potente do CYP2C19. Os doentes tratados com Fluconazol Kabi e que estão a
+ser tratados concomitantemente com medicamentos com uma janela terapêutica
+estreita, metabolizados através do CYP2C9, CYP2C19 e CYP3A4, devem ser
+monitorizados (ver secção 4.5).
+Terfenadina
+                                                                       APROVADO EM
+                                                                       24-04-2024
+                                                                       INFARMED
+
+A coadministração de fluconazol em doses inferiores a 400 mg por dia com terfenadina
+deve ser cuidadosamente monitorizada (ver secções 4.3 e 4.5).
+Candidíase:
+Estudos demonstraram uma prevalência aumentada de infeções com espécies de
+Candida que não a C.albicans. Estas são, com frequência, inerentemente resistentes
+(p.ex., C.krusei e C.auris) ou exibem uma suscetibilidade reduzida ao fluconazol (C.
+glabrata). Estas infeções podem exigir uma terapêutica antifúngica alternativa
+secundária à falha do tratamento. Por conseguinte, os prescritores são aconselhados a
+ter em conta a prevalência da resistência ao fluconazol em várias espécies de Candida.
+Excipientes
+Este medicamento contém 88,5 mg de sódio por 25 ml, equivalente a 4,4% da ingestão
+diária máxima recomendada pela OMS de 2 g de sódio para um adulto. A dose diária
+máxima deste medicamento é equivalente a 71% da ingestão diária máxima
+recomendada pela OMS de sódio.
+Considera-se que Fluconazol Kabi representa um nível de sódio elevado. É especialmente
+relevante em doentes com uma dieta com baixo teor em sódio.
+4.5 Interações medicamentosas e outras formas de interação
+É contraindicada a utilização concomitante dos seguintes medicamentos
+Cisaprida: Têm sido notificados acontecimentos cardíacos incluindo torsades de pointes
+em doentes a quem o fluconazol e a cisaprida foram coadministrados. Um estudo
+controlado revelou que a administração concomitante de 200 mg de fluconazol uma vez
+por dia, e de 20 mg de cisaprida quatro vezes por dia, provocava um aumento
+significativo dos níveis plasmáticos de cisaprida e o prolongamento do intervalo QTc. O
+tratamento concomitante com fluconazol e cisaprida está contraindicado (ver secção
+4.3).
+Terfenadina: Foram realizados estudos de interação devido à ocorrência de disritmias
+cardíacas graves secundárias ao prolongamento do intervalo QTc em doentes tratados
+com antifúngicos azólicos em associação com terfenadina. Um estudo em que foi
+utilizada uma dose diária de 200 mg de fluconazol não conseguiu demonstrar um
+prolongamento no intervalo QTc. Um outro estudo com doses diárias de 400 mg e
+800 mg de fluconazol demonstrou que o fluconazol, administrado em doses iguais ou
+superiores a 400 mg por dia aumenta significativamente os níveis plasmáticos de
+terfenadina quando administrados concomitantemente. Está contraindicada a utilização
+concomitante de fluconazol, em doses iguais ou superiores a 400 mg, e terfenadina (ver
+secção 4.3). A coadministração de fluconazol em doses inferiores a 400 mg por dia e
+terfenadina deve ser cuidadosamente monitorizada.
+Astemizol: A administração concomitante de fluconazol com astemizol pode diminuir a
+depuração do astemizol. O aumento resultante das concentrações plasmáticas de
+astemizol pode levar ao prolongamento do intervalo QT e a ocorrências raras de torsades
+de pointes. A coadministração de fluconazol e astemizol está contraindicada (ver secção
+4.3).
+Pimozida: Embora não tenha sido estudada in vitro ou in vivo, a administração
+concomitante de fluconazol com pimozida pode resultar na inibição do metabolismo da
+pimozida. O aumento das concentrações plasmáticas da pimozida pode levar ao
+prolongamento do intervalo QT e a ocorrências raras de torsades de pointes. Está
+contraindicada a coadministração de fluconazol e pimozida (ver secção 4.3).
+Quinidina: Embora não tenha sido estudada in vitro ou in vivo, a administração
+concomitante de fluconazol com quinidina pode resultar na inibição do metabolismo da
+                                                                        APROVADO EM
+                                                                        24-04-2024
+                                                                        INFARMED
+
+quinidina. A utilização de quinidina tem sido associada ao prolongamento do intervalo QT
+e a ocorrências raras de torsades de pointes. Está contraindicada a coadministração de
+fluconazol e quinidina (ver secção 4.3).
+Eritromicina: A utilização concomitante de fluconazol e eritromicina potencia o aumento
+do risco de cardiotoxicidade (prolongamento do intervalo QT, torsades de pointes) e
+consequentemente o de morte cardíaca súbita. A coadministração de fluconazol e
+eritromicina está contraindicada (ver secção 4.3).
+Não pode ser recomendada a utilização concomitante com os seguintes medicamentos
+Halofantrina: O fluconazol pode aumentar a concentração plasmática da halofantrina
+devido a um efeito inibitório no CYP3A4. A utilização concomitante do fluconazol e
+halofantrina potencia o aumento do risco de cardiotoxicidade (prolongamento do
+intervalo QT, torsades de pointes) e consequentemente o de morte cardíaca súbita. Esta
+associação deve ser evitada (ver secção 4.4).
+Utilização concomitante que deve ser utilizada com precaução:
+Amiodarona: A administração concomitante do fluconazol com amiodarona poderá
+aumentar o prolongamento do intervalo QT. Consequentemente, deve ter-se precaução
+quando os dois fármacos são combinados, notavelmente com doses elevadas de
+fluconazol (800 mg).
+A utilização concomitante dos seguintes medicamentos leva a precauções e ajustes de
+dose
+O efeito de outros medicamentos no fluconazol
+Rifampicina: A administração concomitante de fluconazol e rifampicina resultou numa
+diminuição de 25% na AUC e 20% da semivida do fluconazol. Em doentes a receber
+concomitantemente rifampicina, deve considerar-se um aumento da dose de fluconazol.
+Os estudos de interação demonstraram que, quando o fluconazol por via oral é
+coadministrado com alimentos, cimetidina, antiácidos ou é seguido de irradiação corporal
+total para o transplante de medula óssea, não ocorreu nenhum compromisso
+clinicamente significativo da absorção do fluconazol.
+Hidroclorotiazida: Num estudo de interação farmacocinética, a coadministração de doses
+múltiplas de hidroclorotiazida em voluntários saudáveis a receber fluconazol aumentou a
+concentração plasmática de fluconazol em 40%. Um efeito desta magnitude não deverá
+necessitar que se altere o esquema posológico do fluconazol nos doentes a receber
+diuréticos concomitantes.
+Efeito do fluconazol noutros medicamentos
+O fluconazol é um inibidor moderado do citocromo P450 (CYP) isoenzimas 2C9 e 3A4. O
+fluconazol é também um inibidor potente da isoenzima CYP2C19. Adicionalmente às
+interações observadas/documentadas abaixo indicadas, existe um risco de aumento da
+concentração plasmática de outros compostos metabolizados pelo CYP2C9, CYP2C19 e
+CYP3A4 coadministrados com fluconazol. Deste modo, deve-se ter precaução quando se
+utilizam estas associações e os doentes devem ser cuidadosamente monitorizados. O
+efeito inibidor da enzima pelo fluconazol persiste 4-5 dias após a descontinuação do
+tratamento com fluconazol devido à semivida longa do fluconazol (ver secção 4.3).
+                                                                             APROVADO EM
+                                                                             24-04-2024
+                                                                             INFARMED
+
+Abrocitinib: Fluconazol (inibidor de CYP2C19, 2C9, 3A4) aumentou a exposição da porção
+ativa de abrocitinib em 155%. Se co-administrado com fluconazol, ajustar a dose de
+abrocitinib como instruído na informação de prescrição de abrocitinib.
+Alfentanilo: Durante o tratamento concomitante com fluconazol (400 mg) e alfentanilo
+intravenoso (20 µg/kg) em voluntários saudáveis, a AUC10 do alfentanilo duplicou,
+provavelmente através da inibição do CYP3A4.
+Poderá ser necessário um ajuste de dose do alfentanilo.
+Amitriptilina, nortriptilina: O fluconazol aumenta o efeito da amitriptilina e nortriptilina. A
+5-nortriptilina e/ou S-amitriptilina podem ser medidas no início da terapêutica combinada
+e após uma semana. Se necessário, devem ajustar-se as doses de
+amitriptilina/nortriptilina.
+Anfotericina B: A administração concomitante de fluconazol e anfotericina B em ratinhos
+infetados normais e imunodeprimidos demonstrou os seguintes resultados: um pequeno
+efeito antifúngico aditivo na infeção sistémica por C. albicans, nenhuma interação na
+infeção intracraniana com Cryptococcus neoformans, e antagonismo dos dois fármacos
+na infeção sistémica com Aspergillus Fumigatus. Desconhece-se o significado clínico dos
+resultados obtidos nestes estudos.
+Anticoagulantes: Na experiência de pós-comercialização, tal como acontece com outros
+antifúngicos azólicos, foram notificados alguns acontecimentos hemorrágicos
+(equimoses, epistaxe, hemorragias gastrointestinais, hematúria e melenas), associados
+ao aumento do tempo de protrombina em doentes a receber fluconazol e varfarina
+concomitantemente. Durante o tratamento concomitante com fluconazol e varfarina o
+tempo de protrombina duplicou, provavelmente devido a uma inibição do metabolismo
+da varfarina através do CYP2C9. Em doentes em tratamento com anticoagulantes do tipo
+cumarínicos ou indanediona concomitantemente com fluconazol, o tempo de protrombina
+deve ser cuidadosamente monitorizado. Pode ser necessário ajuste de dose do
+anticoagulante.
+Benzodiazepinas (curta duração de ação), isto é, midazolam, triazolam: Após a
+administração de midazolam por via oral a doentes medicados com fluconazol ocorreram
+aumentos significativos nas concentrações de midazolam e dos efeitos psicomotores. A
+administração concomitante por via oral de 200 mg de fluconazol e de 7,5 mg de
+midazolam aumentou a AUC e a semivida 3,7 vezes e 2,2 vezes, respetivamente.
+200 mg de fluconazol por dia concomitantemente com 0,25 mg de triazolam por via oral
+aumentaram a AUC e a semivida do triazolam 4,4 e 2,3 vezes, respetivamente. Foram
+observados efeitos potenciadores e prolongados do triazolam em tratamento
+concomitante com o fluconazol. Se for necessária terapêutica concomitante de
+benzodiazepinas em doentes em tratamento com fluconazol, deve ser tida em
+consideração a diminuição da dosagem de benzodiazepinas, e os doentes devem ser
+monitorizados apropriadamente.
+Carbamazepina: O fluconazol inibe o metabolismo da carbamazepina e foi observado um
+aumento de 30% da carbamazepina sérica. Existe o risco de desenvolvimento de
+toxicidade devida à carbamazepina. Pode ser necessário ajuste posológico da
+carbamazepina, dependendo das medições da concentração/efeito.
+Bloqueadores dos canais de cálcio: Alguns antagonistas dos canais de cálcio (nifedipina,
+isradipina, verapamil e felodipina) são metabolizados através do CYP3A4. O fluconazol
+tem o potencial para aumentar a exposição sistémica dos antagonistas dos canais de
+cálcio. Recomenda-se uma monitorização frequente dos acontecimentos adversos.
+Celecoxib: Durante o tratamento concomitante de fluconazol (200 mg por dia) e
+celecoxib (200 mg), a Cmáx e a AUC do celecoxib aumentaram em 68% e 134%,
+                                                                          APROVADO EM
+                                                                          24-04-2024
+                                                                          INFARMED
+
+respetivamente. Pode ser necessária a redução para metade da dose do celecoxib
+quando combinado com fluconazol.
+Ciclofosfamida: A terapêutica de associação de ciclofosfamida e fluconazol resulta num
+aumento da bilirrubina sérica e da creatinina sérica. Esta associação pode ser utilizada
+tendo em elevada consideração o risco de aumento da bilirrubina sérica e creatinina
+sérica.
+Fentanilo: Foi notificado um caso fatal de intoxicação com fentanilo devido a uma
+possível interação entre o fentanilo e o fluconazol. Além disso, foi demonstrado em
+voluntários saudáveis que o fluconazol atrasou significativamente a eliminação do
+fentanilo. A concentração elevada de fentanilo pode levar a depressão respiratória. Os
+doentes devem ser monitorizados cuidadosamente para o risco potencial de depressão
+respiratória. Pode ser necessário ajuste posológico do fentanilo.
+Inibidores da HMG-CoA reductase: O risco de miopatia e rabdomiólise aumenta (dose-
+dependente) quando o fluconazol é coadministrado com os inibidores da HMG-CoA
+reductase metabolizados através do CYP3A4, tais como a atorvastatina e sinvastatina, ou
+através do CYP2C9, tal como a fluvastatina (diminuição do metabolismo hepático da
+estatina). Se for necessária terapêutica concomitante, o doente deve ser observado para
+detetar sintomas de miopatia e rabdomiólise e os níveis de creatina quinase devem ser
+monitorizados. Deve-se descontinuar o tratamento com inibidores da HMG-CoA
+reductase se se observar um aumento acentuado da creatina quinase ou se for
+diagnosticada ou houver suspeita de miopatia/rabdomiólise. Podem ser necessárias
+doses mais baixas de inibidores de HMG-CoA redutase, conforme indicado nas
+informações de prescrição das estatinas.
+Ibutinib: Os inibidores moderados do CYP3A4, como o fluconazol, aumentam as
+concentrações plasmáticas de ibrutinib e poderão aumentar o risco de toxicidade. Se a
+combinação não puder ser evitada, reduzir a dose de ibrutinib para 280 mg uma vez por
+dia (duas cápsulas) durante a utilização do inibidor e disponibilizar monitorização clínica
+rigorosa.
+Ivacaftor (isolado ou combinado com fármacos da mesma classe terapêutica): A
+coadministração com ivacaftor, um potenciador do regulador da condutibilidade
+transmembranar da fibrose quística (cystic fibrosis transmembrane conductance
+regulator - CFTR), aumentou 3 vezes a exposição do ivacaftor e em 1,9 vezes a do
+hidroximetil-ivacaftor (M1). A redução da dose de ivacaftor (isolado ou combinado) é
+necessária como instruído na informação de prescrição do ivacaftor (isolado ou
+combinado).
+Olaparib: Inibidores moderados do CYP3A4 tais como o fluconazol aumentam as
+concentrações plasmáticas do olaparib; a utilização concomitante não é recomendada. Se
+a combinação não puder ser evitada, a dose de olaparib deve ser limitada a 200 mg duas
+vezes por dia.
+Imunossupressores (isto é ciclosporina, everolímus, sirolímus e tacrolímus):
+Ciclosporina: O fluconazol aumenta significativamente a concentração e a AUC da
+ciclosporina. Durante o tratamento concomitante com 200 mg de fluconazol por dia e de
+ciclosporina (2,7 mg/kg/dia) houve um aumento de 1,8 vezes na AUC da ciclosporina.
+Esta associação pode ser utilizada reduzindo a dose de ciclosporina dependendo da
+concentração da ciclosporina.
+Everolímus: Apesar de não estudado in vivo ou in vitro, o fluconazol pode aumentar as
+concentrações séricas do everolímus através da inibição do CYP3A4.
+                                                                        APROVADO EM
+                                                                        24-04-2024
+                                                                        INFARMED
+
+Sirolímus: O fluconazol aumenta as concentrações plasmáticas do sirolímus
+presumivelmente por inibição do metabolismo do sirolímus através do CYP3A4 e
+glicoproteína P. Esta associação pode ser utilizada com um ajuste da dose de sirolímus,
+dependendo das medições da concentração/efeito.
+Tacrolímus: O fluconazol pode aumentar as concentrações séricas do tacrolímus
+administrado oralmente até 5 vezes devido à inibição do metabolismo do tacrolímus
+através do CYP3A4 nos intestinos. Não se observaram alterações farmacocinéticas
+significativas quando o tacrolímus é administrado intravenosamente. Os níveis elevados
+de tacrolímus têm sido associados a nefrotoxicidade. A dose do tacrolímus administrado
+oralmente deve ser reduzida dependendo da concentração do tacrolímus.
+Losartan: O fluconazol inibe o metabolismo do losartan no seu metabolito ativo (E-31 74)
+que é o responsável por uma grande parte do antagonismo ao recetor de angiotensina-II
+que ocorre durante o tratamento com losartan. Os doentes devem ter a sua pressão
+arterial monitorizada continuamente.
+Lurasidona: Os inibidores moderados de CYP3A4 como o fluconazol podem aumentar as
+concentrações plasmáticas de lurasidona. Se o uso concomitante não puder ser evitado,
+reduzir a dose de lurasidona como instruído na informação de prescrição da lurasidona.
+Metadona: O fluconazol pode aumentar as concentrações séricas da metadona. Pode ser
+necessário ajuste posológico da metadona.
+Medicamentos anti-inflamatórios não esteroides (AINEs): A Cmáx e a AUC do
+flurbiprofeno aumentaram em 23% e 81%, respetivamente, quando coadministrado com
+o fluconazol comparativamente à administração isolada de flurbiprofeno. De forma
+semelhante, a Cmáx e a AUC do isómero farmacologicamente ativo [S-(+)-ibuprofeno]
+aumentaram 15% e 82%, respetivamente, quando o fluconazol foi coadministrado com
+ibuprofeno racémico (400 mg), comparativamente com a administração isolada de
+ibuprofeno racémico.
+Apesar de não ter sido especificamente estudado, o fluconazol tem o potencial para
+aumentar a exposição sistémica de outros AINEs que são metabolizados pelo CYP2C9
+(por exemplo naproxeno, lornoxicam, meloxicam, diclofenac). É recomendada uma
+monitorização frequente para a deteção de acontecimentos adversos e toxicidade
+relacionados com os AINEs. Pode ser necessário o ajuste posológico dos AINEs.
+Fenitoína: O fluconazol inibe o metabolismo hepático da fenitoína. A administração
+concomitante repetida de 200 mg de fluconazol e 250 mg de fenitoína intravenosamente,
+causou um aumento da AUC24 da fenitoína em 75% e da Cmin da fenitoína em 128%.
+Com a coadministração, os níveis da concentração sérica da fenitoína devem ser
+monitorizados de modo a evitar toxicidade por fenitoína.
+Prednisona: Foi notificado um caso de um doente recetor de um transplante hepático
+tratado com prednisona que desenvolveu uma insuficiência aguda da suprarrenal quando
+um tratamento de 3 meses com fluconazol foi interrompido. A descontinuação do
+fluconazol provocou provavelmente um aumento na atividade do CYP3A4, que levou ao
+aumento do metabolismo da prednisona. Doentes em tratamento de longo prazo com
+fluconazol e prednisona devem ser cuidadosamente monitorizados para detetar sinais de
+insuficiência das suprarrenais quando o fluconazol é descontinuado.
+Rifabutina: O fluconazol aumenta as concentrações séricas da rifabutina, levando a um
+aumento na AUC da rifabutina até 80%. Têm sido notificados casos de uveíte em doentes
+a quem o fluconazol e a rifabutina foram coadministrados. Na terapêutica combinada,
+deve ter-se em consideração os sintomas de toxicidade por rifabutina.
+                                                                        APROVADO EM
+                                                                        24-04-2024
+                                                                        INFARMED
+
+Saquinavir: O fluconazol aumenta a AUC e a Cmáx do saquinavir em aproximadamente
+50% e 55%, respetivamente, devido à inibição do metabolismo hepático do saquinavir
+pelo CYP3A4 e à inibição da glicoproteína P. Não foi estudada a interação com
+saquinavir/ritonavir que poderá ser mais marcada. Pode ser necessário o ajuste
+posológico de saquinavir.
+Sulfonilureias: O fluconazol demonstrou prolongar a semivida sérica das sulfonilureias
+orais (por exemplo, clorpropamida, glibenclamida, glipizida, tolbutamida), quando
+administrado concomitantemente, em voluntários saudáveis. Os níveis sanguíneos da
+glucose devem ser frequentemente monitorizados e é recomendada a redução
+apropriada da dose de sulfonilureia durante a coadministração.
+Teofilina: Num estudo de interação controlado por placebo, a administração de 200 mg
+de fluconazol durante 14 dias resultou numa diminuição de 18% da velocidade de
+depuração plasmática média da teofilina. Os doentes que recebem doses elevadas de
+teofilina ou que estejam em risco elevado de toxicidade por teofilina, devem ser
+cuidadosamente monitorizados para deteção de sinais de toxicidade por teofilina durante
+a administração de fluconazol. A terapêutica deverá ser alterada se se desenvolverem
+sinais de toxicidade.
+Tofacitinib: A exposição ao tofacitinib é aumentada quando o tofacitinib é coadministrado
+com medicamentos que resultam tanto na inibição moderada do CYP3A4 e na forte
+inibição do CYP2C19 (ex., fluconazol). Consequentemente, recomenda-se reduzir a dose
+de tofacitinib para 5 mg uma vez por dia quando é combinado com estes medicamentos.
+Tolvaptano: A exposição ao tolvaptano é significativamente aumentada (200% na AUC;
+80% na Cmax) quando o tolvaptano, um substrato do CYP3A4, é coadministrado com
+fluconazol, um inibidor moderado do CYP3A4, com risco de um aumento significativo de
+reações adversas particularmente significativas de diurese, desidratação e falência renal
+aguda. Em caso de utilização concomitante, a dose de tolvaptano deve ser reduzida
+conforme indicado na informação de prescrição de tolvaptano e o doente deve ser
+frequentemente monitorizado para quaisquer reações adversas associadas com o
+tolvaptano.
+Alcaloides de vinca: Apesar de não estudado, o fluconazol pode aumentar os níveis
+plasmáticos dos alcaloides de vinca (por exemplo vincristina e vinblastina) e originar
+neurotoxicidade, que é possivelmente devida ao efeito inibitório do CYP3A4.
+Vitamina A: Com base na notificação de um caso de um doente a receber terapêutica
+combinada com ácido all-trans-retinóico (uma forma ácida da vitamina A) e fluconazol,
+em que se desenvolveram efeitos adversos relacionados com o SNC na forma de
+pseudotumor cerebral, que desapareceu após a descontinuação do tratamento com
+fluconazol. Esta combinação pode ser utilizada, mas deve-se ter atenção à incidência de
+efeitos indesejáveis relacionados com o SNC.
+Voriconazol (inibidores CYP2C9, CYP2C19 e CYP3A4): Coadministração de voriconazol por
+via oral (400 mg de 12 em 12 horas durante 1 dia, depois 200 mg de 12 em 12 horas
+durante 2,5 dias) e fluconazol por via oral (400 mg no dia 1, depois 200 mg cada 24
+horas durante 4 dias) a 8 indivíduos masculinos saudáveis resultou num aumento da
+Cmáx e da AUCτ do voriconazol numa média de 57% (IC 90%: 20%, 107%) e de 79%
+(IC 90%: 40%, 128%), respetivamente. Não foi estabelecida a dose reduzida e/ou
+frequência do voriconazol e fluconazol que eliminariam este efeito. É recomendada a
+monitorização dos acontecimentos adversos associados ao voriconazol se este for
+utilizado sequencialmente após o fluconazol.
+Zidovudina: O fluconazol aumenta a Cmáx e a AUC da zidovudina em 84% e 74%,
+respetivamente, devido a uma diminuição em aproximadamente 45% da depuração da
+zidovudina oral. A semivida da zidovudina foi também prolongada em aproximadamente
+                                                                         APROVADO EM
+                                                                         24-04-2024
+                                                                         INFARMED
+
+128% após terapêutica de associação com fluconazol. Os doentes a receber esta
+combinação devem ser monitorizados para detetar o desenvolvimento de reações
+adversas relacionadas com zidovudina. Deve ser considerada a redução posológica da
+zidovudina.
+Azitromicina: Um estudo aberto, aleatorizado, cruzado, de 3 braços, em 18 voluntários
+saudáveis, avaliou o efeito de uma dose única de 1200 mg de azitromicina, por via oral,
+sobre a farmacocinética de uma dose única de 800 mg de fluconazol, por via oral, assim
+como os efeitos do fluconazol sobre a farmacocinética da azitromicina. Não se detetou
+interação farmacocinética significativa entre o fluconazol e a azitromicina.
+Contracetivos orais: Foram realizados dois estudos farmacocinéticos com contracetivos
+orais combinados e doses múltiplas de fluconazol. Não se verificaram efeitos
+significativos nos níveis das hormonas no estudo efetuado com 50 mg de fluconazol,
+enquanto que com 200 mg diários, as AUC do etinilestradiol e do levonorgestrel
+aumentaram 40% e 24%, respetivamente. Assim, não parece provável que o tratamento
+com doses múltiplas de fluconazol nestas posologias produza efeito sobre a eficácia dos
+contracetivos orais combinados.
+4.6 Fertilidade, gravidez e aleitamento
+Mulheres com potencial para engravidar
+Antes de iniciar o tratamento, a doente deve ser informada do risco potencial para o feto.
+Após o tratamento de dose única, recomenda-se um período de washout de 1 semana
+(correspondente a 5-6 semividas) antes de engravidar (ver secção 5.2).
+Para ciclos de tratamento mais longos, a contraceção pode ser considerada, conforme
+apropriado, em mulheres com potencial para engravidar durante o período de tratamento
+e durante 1 semana após a dose final.
+Gravidez
+Estudos observacionais sugerem um risco aumentado de aborto espontâneo em
+mulheres tratadas com fluconazol durante o primeiro e/ou o segundo trimestre, em
+comparação com mulheres não tratadas com fluconazol ou tratadas com azóis tópicos
+durante o mesmo período.
+Dados de vários milhares de mulheres grávidas tratadas com uma dose cumulativa ≤
+150 mg de fluconazol, administrada no primeiro trimestre, não revelam qualquer
+aumento do risco global de malformações no feto. Num grande estudo observacional de
+coorte, a exposição durante o primeiro trimestre a fluconazol oral foi associada a um
+pequeno aumento do risco de malformações musculosqueléticas, correspondendo a
+aproximadamente 1 caso adicional por 1000 mulheres tratadas com doses cumulativas ≤
+450 mg comparativamente a mulheres tratadas com azóis tópicos e a aproximadamente
+4 casos adicionais por 1000 mulheres tratadas com doses cumulativas superiores a 450
+mg. O risco relativo ajustado foi de 1,29 (IC 95%: 1,05 a 1,58) para 150 mg de
+fluconazol oral e de 1,98 (IC 95%: 1,23 a 3,17) para doses superiores a 450 mg de
+fluconazol.
+Os estudos epidemiológicos disponíveis sobre malformações cardíacas associadas ao uso
+de fluconazol durante a gravidez fornecem resultados inconsistentes. No entanto, uma
+meta-análise de 5 estudos observacionais, incluindo vários milhares de mulheres
+grávidas expostas a fluconazol durante o primeiro trimestre, revela um risco aumentado
+de malformações cardíacas de 1,8 a 2 vezes em comparação com a ausência de
+utilização de fluconazol e/ou de utilização de azóis tópicos.
+                                                                       APROVADO EM
+                                                                       24-04-2024
+                                                                       INFARMED
+
+Os relatórios de casos descrevem um padrão de defeitos congénitos em crianças cujas
+mães receberam uma dose elevada (400 a 800 mg/dia) de fluconazol durante a gravidez
+durante 3 meses ou mais, no tratamento da coccidioidomicose. Os defeitos congénitos
+observados nestas crianças incluem braquicefalia, displasia das orelhas, fontanelas
+anteriores gigantes, arqueamento femoral e sinostose radioumeral. Uma relação causal
+entre o uso de fluconazol e estes defeitos congénitos é incerta.
+O fluconazol em doses-padrão e em tratamentos de curto prazo, não deve ser utilizado
+na gravidez exceto se for claramente necessário.
+O fluconazol em doses elevadas e/ou em regimes prolongados, não deve ser utilizado
+durante a gravidez exceto em caso de infeções que potencialmente causem risco de vida.
+Amamentação
+O fluconazol passa para o leite e alcança concentrações semelhantes às do plasma (ver
+secção 5.2). A amamentação pode ser mantida após uma dose única de 150 mg de
+fluconazol. A amamentação não é recomendada após utilização repetida ou após doses
+elevadas de fluconazol. Os benefícios da amamentação para o desenvolvimento e para a
+saúde devem ser considerados juntamente com a necessidade clínica da mãe de
+Fluconazol Kabi e quaisquer potenciais efeitos adversos na criança pequena pelo
+Fluconazol Kabi ou da condição subjacente da mãe.
+Fertilidade
+Fluconazol não afetou a fertilidade dos ratos-macho ou fêmea (ver secção 5.3).
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+Não foram efetuados estudos sobre os efeitos de Fluconazol sobre a capacidade de
+conduzir ou utilizar máquinas. Os doentes devem ser advertidos para o potencial para
+tonturas ou convulsões (ver secção 4.8) enquanto tomam Fluconazol Kabi e devem ser
+aconselhados a não conduzir nem operar máquinas se algum destes sintomas ocorrer.
+4.8 Efeitos indesejáveis
+Resumo do perfil de segurança:
+Foram notificados casos de reação medicamentosa com eosinofilia e sintomas sistémicos
+(DRESS)
+em associação com o tratamento com fluconazol (ver secção 4.4).
+As reações adversas mais frequentemente notificadas (≥1/100 a <1/10) são cefaleias,
+dor abdominal, diarreia, náuseas, vómitos, alanina aminotransferase aumentada,
+aspartato aminotransferase aumentada, fosfatase alcalina sérica aumentada e erupção
+cutânea.
+As seguintes reações adversas foram observadas e notificadas durante o tratamento com
+Fluconazol com as seguintes frequências: Muito frequentes (≥1/10); frequentes (≥1/100
+a <1/10); pouco frequentes (≥1/1000 a <1/100); raros (≥1/10000 a <1/1000); muito
+raros (<1/10000); desconhecido (não pode ser calculado a partir dos dados disponíveis).
+Classes           de                Pouco
+sistemas de órgãos Frequentes       frequentes Raros                 Desconhecido
+Doenças           do                Anemia     Agranulocitose,
+sangue e do                                    leucopenia,
+sistema linfático                              trombocitopenia,
+                                               neutropenia
+                                                                        APROVADO EM
+                                                                        24-04-2024
+                                                                        INFARMED
+
+Classes           de                Pouco
+sistemas de órgãos Frequentes       frequentes Raros                   Desconhecido
+Doenças           do                           Anafilaxia
+sistema imunitário
+Doenças           do                Diminuição Hipercolesterolemia,
+metabolismo e da                    do apetite hipertrigliceridemia,
+nutrição                                        hipocaliemia
+Perturbações do                     Sonolência,
+foro psiquiátrico                   insónia
+Doenças           do Cefaleias      Convulsões, Tremores
+sistema nervoso                     parestesia,
+                                    tonturas,
+                                    alteração
+                                    do paladar
+Afeções do ouvido                   Vertigens
+e do labirinto
+Cardiopatias                                    Torsades de pointes
+                                                (ver secção 4.4),
+                                                prolongamento do
+                                                intervalo QT (ver
+                                                secção 4.4)
+Doenças            Dor abdominal, Obstipação,
+gastrointestinais  vómitos,           dispepsia,
+                   diarreia, náuseas flatulência,
+                                      xerostomia
+Afeções            Alanina            Colestase Insuficiência
+hepatobiliares     aminotransferase (ver secção hepática             (ver
+                   aumentada (ver 4.4),           secção            4.4),
+                   secção       4.4), icterícia   necrose
+                   aspartato          (ver secção hepatocelular (ver
+                   aminotransferase 4.4),         secção            4.4),
+                   aumentada (ver aumento da hepatite (ver secção
+                   secção       4.4), bilirrubina 4.4),           lesões
+                   fosfatase alcalina (ver secção hepatocelulares
+                   sérica             4.4)        (ver secção 4.4)
+                   aumentada (ver
+                   secção 4.4)
+Afeções        dos Erupção cutânea Erupção        Necrólise               Reação
+tecidos cutâneos e (ver secção 4.4) iatrogénica* epidérmica tóxica medicamentosa
+subcutâneos                           (ver secção (ver secção 4.4), com eosinofilia e
+                                      4.4),       síndrome             de sintomas
+                                      urticária Stevens-Johnson sistémicos
+                                      (ver secção (ver secção 4.4), (DRESS)
+                                      4.4),       pustulose
+                                      prurido,    exantemática aguda
+                                      aumento da generalizada (ver
+                                      sudorese secção               4.4),
+                                                  dermatite
+                                                  esfoliativa,
+                                                  angioedema, edema
+                                                  facial, alopecia
+Afeções                               Mialgia
+musculosqueléticas
+e dos tecidos
+conjuntivos
+                                                                       APROVADO EM
+                                                                       24-04-2024
+                                                                       INFARMED
+
+Classes          de                   Pouco
+sistemas de órgãos Frequentes         frequentes Raros                Desconhecido
+Perturbações                          Fadiga,
+gerais e alterações                   mal-estar,
+no local          de                  astenia,
+administração                         febre
+*incluindo Eritema Fixo Medicamentoso
+População pediátrica
+O padrão e a incidência de reações adversas e de alterações laboratoriais registados
+durante os ensaios clínicos em pediatria são comparáveis aos observados nos adultos.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-risco
+do medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas
+de reações adversas diretamente ao INFARMED, I.P.:
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+E-mail: farmacovigilancia@infarmed.pt
+4.9 Sobredosagem
+Têm sido notificados casos de sobredosagem com fluconazol. Alucinações e
+comportamento paranoico foram notificados concomitantemente.
+Em caso de sobredosagem, poderá ser adequado o tratamento sintomático (com
+medidas de suporte necessário e lavagem gástrica).
+O fluconazol é extensamente excretado na urina; a diurese forçada poderá aumentar a
+taxa de eliminação. Uma sessão de hemodiálise de 3 horas diminui os níveis plasmáticos
+em aproximadamente 50%.
+
+5. PROPRIEDADES FARMACOLÓGICAS
+5.1 Propriedades farmacodinâmicas
+Grupo farmacoterapêutico: 1.2 Medicamentos Anti-Infeciosos - Antifúngicos, Código ATC:
+J02AC01
+Mecanismo de ação
+O fluconazol é um antifúngico triazólico. O seu mecanismo de ação primário é a inibição
+do citocromo P-450 fúngico que medeia a desmetilação do 14 alfa-lanosterol, um passo
+essencial na biossíntese do ergosterol fúngico. A acumulação de esteróis 14 alfa-metil
+está relacionada com a subsequente perda de ergosterol na membrana celular fúngica e
+pode ser responsável pela atividade antifúngica do fluconazol. O fluconazol demonstrou
+ser mais seletivo para as enzimas citocromo P-450 fúngicas do que para as enzimas do
+citocromo P-450 dos vários sistemas dos mamíferos.
+A administração de 50 mg de fluconazol por dia durante 28 dias demonstrou não afetar
+as concentrações plasmáticas da testosterona nos homens ou as concentrações de
+esteroides em mulheres com potencial para engravidar. A administração de 200 mg a
+                                                                          APROVADO EM
+                                                                          24-04-2024
+                                                                          INFARMED
+
+400 mg de fluconazol por dia não tem efeito clinicamente significativo nos níveis de
+esteróis endógenos ou na resposta à estimulação da ACTH em voluntários masculinos
+saudáveis. Estudos de interação com a antipirina indicam que doses únicas ou múltiplas
+de 50 mg de fluconazol não afetam o seu metabolismo.
+Suscetibilidade in vitro
+In vitro, o fluconazol exibe uma atividade antifúngica contra espécies comuns de Candida
+(incluindo C. albicans, C. parapsilosis, C. tropicalis). A C. glabrata demonstra
+suscetibilidade reduzida ao fluconazol, enquanto a C. krusei e a C. auris são resistentes
+ao fluconazol. As CIMs e o valor de corte epidemiológico (ECOFF) do fluconazol para C.
+guilliermondii são mais elevados do que para C. albicans.
+O fluconazol também exibe atividade in vitro contra o Cryptococcus neoformans e
+Cryptococcus gattii assim como nos fungos endémicos Blastomyces dermatiditis,
+Coccidioides immitis, Histoplasma capsulatum e Paracoccidioides brasiliensis.
+Efeitos farmacodinâmicos
+Em estudos com animais, existe uma correlação entre os valores CIM e a eficácia contra
+micoses experimentais devidas a Candida spp. Em estudos clínicos, existe uma relação
+quase linear 1:1 entre a AUC e a dose de fluconazol. Há também uma relação direta
+embora imperfeita entre a AUC ou a dose e uma boa resposta clínica à candidíase oral e
+uma menor disseminação da candidemia ao tratamento. Uma cura semelhante é menos
+provável para infeções causadas por estirpes com uma CIM mais elevada ao fluconazol.
+Mecanismo(s) de resistência
+A Candida spp desenvolveu um número de mecanismos de resistência aos agentes
+antifúngicos azólicos. As estirpes fúngicas que desenvolveram um ou mais destes
+mecanismos de resistência são conhecidas por apresentarem elevadas concentrações
+inibitórias mínimas (CIMs) ao fluconazol que impacta negativamente a eficácia in vivo e
+clínica.
+Em espécies normalmente suscetíveis de Candida, o mecanismo de desenvolvimento de
+resistência mais frequentemente encontrado envolve as enzimas-alvo dos azóis, as quais
+são responsáveis pela biossíntese do ergosterol. A resistência pode ser causada por
+mutações, aumento da produção de uma enzima, mecanismos de efluxo de fármacos ou
+pelo desenvolvimento de vias de compensação.
+Há notificações de superinfeções com outras espécies de Candida que não a C. albicans,
+que muitas vezes têm inerentemente uma suscetibilidade reduzida (C. glabrata) ou
+resistência ao fluconazol (por ex. C. krusei, C. auris). Estas infeções podem necessitar de
+tratamento antifúngico alternativo. Os mecanismos de resistência não foram
+completamente elucidados em algumas espécies intrinsecamente resistentes (C. krusei)
+ou emergentes (C. auris) de Candida.
+Breakpoints (de acordo com EUCAST)
+Com base na análise dos dados da relação farmacocinética/farmacodinâmica (PK/PD), na
+suscetibilidade in vitro e na resposta clínica, o EUCAST-AFST (Comité Europeu de
+Avaliação de Suscetibilidade Antimicrobiana – Subcomité de Avaliação de Suscetibilidade
+Antifúngica) determinou breakpoints para o fluconazol para espécies de Candida
+(EUCAST Fluconazole rational document
+(2020) - versão 3; tabelas de breakpoints para a interpretação de CIMs para agentes
+antifúngicos do EUCAST, versão 10.0, em vigor desde 04-02-2020). Estes foram
+divididos em breakpoints não relacionados com espécies, que foram determinados
+principalmente com base nos dados da relação PK/PD e são independentes das
+distribuições da CIM de espécies específicas, e os breakpoints relacionados com espécies
+para aquelas espécies mais frequentemente associadas com a infeção humana. Estes
+breakpoints são indicados na tabela abaixo:
+                                                                          APROVADO EM
+                                                                          24-04-2024
+                                                                          INFARMED
+
+
+Antifúngic Breakpoints relacionados com espécies (S≤/R> [mg/l])                   Breakpoints
+o                                                                                 não
+                                                                                  relacionado
+                                                                                  s       com
+                                                                                  espéciesA
+                                                                                  S≤/R>
+                                                                                  [mg/l]
+              Candi Candida Candida Candida Candida Candida
+              da       dublinien glabrata krusei         parapsilos tropicalis
+              albica sis                                 is
+              ns
+Fluconazol 2/4         2/4        0,001*/16 --           2/4         2/4           2/4
+  S = Suscetível, R = Resistente
+  A = Breakpoints não relacionados com a espécie foram determinados principalmente com
+  base nos dados farmacocinéticos/farmacodinâmicos e são independentes das
+  distribuições da CIM de espécies específicas. São utilizados apenas para organismos que
+  não têm breakpoints específicos.
+  -- = Teste de suscetibilidade não recomendado visto que a espécie é um alvo fraco para
+  o tratamento com o medicamento.
+  *= Toda a C. glabrata está na categoria I. As CIMs contra C. glabrata devem ser
+  interpretadas como "resistente" quando estão acima de 16 mg/l. A categoria "suscetível"
+  (≤ 0,001 mg/l) é apenas para evitar classificar erroneamente estirpes "I" como estirpes
+  "S". I - Suscetível, exposição aumentada: um microrganismo é categorizado como sendo
+  "Suscetível, exposição aumentada" quando existe uma elevada probabilidade de sucesso
+  terapêutico porque a exposição ao agente é aumentada através do ajuste do regime
+  posológico ou da sua concentração no local da infeção.
+  5.2 Propriedades farmacocinéticas
+  As propriedades farmacocinéticas do fluconazol são semelhantes após a administração
+  por via intravenosa ou oral. Absorção
+  Após administração oral, o fluconazol é bem absorvido sendo os níveis plasmáticos (e a
+  biodisponibilidade sistémica) superiores a 90% dos níveis alcançados após administração
+  intravenosa. A absorção oral não é afetada pela ingestão concomitante de alimentos. No
+  estado de jejum, os picos de concentração plasmática ocorrem entre 0,5 e 1,5 horas
+  após a administração da dose. As concentrações plasmáticas são proporcionais à dose.
+  Com múltiplas doses de uma toma ao dia atingem-se, por volta do quarto ou quinto dia,
+  níveis do estado de equilíbrio de 90%. A administração de uma dose inicial (no dia 1)
+  dupla da dose diária habitual, faz com que os níveis plasmáticos se aproximem, por volta
+  do dia 2, de 90% do estado de equilíbrio.
+  Distribuição
+  O volume aparente de distribuição do fluconazol aproxima-se do da água corporal total.
+  A ligação às proteínas plasmáticas é baixa (11%-12%).
+  O fluconazol atinge uma boa penetração em todos os fluidos corporais estudados. Os
+  níveis de fluconazol na saliva e expetoração são semelhantes aos níveis plasmáticos. Nos
+  doentes com meningite fúngica, os níveis de fluconazol no líquido cefalorraquidiano (LCR)
+  são aproximadamente 80% dos níveis plasmáticos correspondentes.
+  São alcançadas concentrações elevadas de fluconazol na pele, superiores às
+  concentrações séricas, no estrato córneo, epiderme-derme e nas secreções sudoríparas
+  écrinas. O fluconazol acumula-se no estrato córneo. A administração de uma dose de
+  50 mg de fluconazol, uma vez por dia, deu origem a concentrações 73 µg/g de fármaco
+  após 12 dias e ainda de 5,8 µg/g, 7 dias após a interrupção do tratamento. Com a
+                                                                      APROVADO EM
+                                                                      24-04-2024
+                                                                      INFARMED
+
+administração de uma dose semanal de 150 mg, a concentração de fluconazol no estrato
+córneo no dia 7 era 23,4 µg/g e 7 dias após a segunda dose era ainda de 7,1 µg/g.
+A concentração de fluconazol nas unhas 4 meses após a administração de uma dose de
+150 mg, uma vez por semana, era de 4,05 µg/g nas unhas saudáveis e 1,8 µg/g nas
+unhas doentes; e o fluconazol era ainda mensurável em amostras de unhas 6 meses
+após o fim do tratamento.
+Biotransformação
+O fluconazol é metabolizado apenas numa pequena extensão. De uma dose radioativa,
+apenas 11% é excretada numa forma alterada na urina. O fluconazol é um inibidor
+moderado das isoenzimas CYP2C9 e CYP3A4 (ver secção 4.5). O fluconazol é também
+um inibidor potente da isoenzima CYP2C19.
+Eliminação
+A semivida de eliminação plasmática do fluconazol é de aproximadamente 30 horas. A
+via renal é a principal via de eliminação, aparecendo na urina aproximadamente 80% da
+dose administrada sob a forma inalterada. A depuração do fluconazol é proporcional à
+depuração da creatinina. Não há indício de metabolitos na circulação.
+A semivida de eliminação plasmática prolongada proporciona a base para o regime de
+uma única toma para o tratamento da candidíase vaginal e de uma toma diária e
+semanal no tratamento de todas as outras indicações.
+Farmacocinética no compromisso renal
+Em doentes com insuficiência renal grave (TFG <20 ml/min), a semivida aumentou de 30
+para 98 horas. Consequentemente, é necessária uma redução da dose. O fluconazol é
+removido por hemodiálise e numa menor extensão por diálise peritoneal. Após três horas
+de sessão de hemodiálise, cerca de 50% do fluconazol é eliminado do sangue.
+Farmacocinética durante o aleitamento
+Um estudo farmacocinético em dez mulheres em aleitamento, que tinham parado
+temporariamente ou permanentemente de amamentar os seus filhos, avaliou as
+concentrações de fluconazol no plasma e no leite materno durante 48 horas no
+seguimento de uma dose única de 150 mg de fluconazol. O Fluconazol foi detetado no
+leite materno numa concentração média de aproximadamente 98% da do plasma
+materno. A média da concentração máxima no leite materno foi 2,61 mg/l às 5,2 horas
+após a dose. A dose diária estimada de fluconazol do leite materno para os lactentes
+(assumindo um consumo médio de leite de 150 ml/kg/dia) baseada na média da
+concentração máxima no leite de 0,39 mg/kg/dia, que é aproximadamente 40% da dose
+neonatal (<2 semanas de idade) ou 13% da dose infantil recomendada para candidíase
+das mucosas.
+Farmacocinética em crianças
+Os dados farmacocinéticos foram avaliados em 113 doentes pediátricos em 5 estudos; 2
+estudos de dose única, 2 estudos de dose-múltipla e 1 estudo em recém-nascidos
+prematuros. Os dados de um estudo não foram interpretáveis devido a alterações no
+esquema de formulação ao longo do estudo. Foram disponibilizados dados adicionais a
+partir de um estudo de uso compassivo.
+Após administração de 2-8 mg/kg de fluconazol em crianças com idades entre os 9
+meses e os 15 anos, foi encontrado uma AUC de cerca de 38 µg h/ml por cada dose de
+1 mg/kg. A semivida média de eliminação do fluconazol no plasma variou entre 15 e 18
+horas e o volume de distribuição foi aproximadamente 880 ml/kg após doses múltiplas.
+Foi registada uma semivida de eliminação do fluconazol no plasma mais elevada de
+aproximadamente 24 horas, após dose única. Isto é comparável com a semivida de
+eliminação do fluconazol no plasma após administração única de 3 mg/kg por via
+                                                                        APROVADO EM
+                                                                        24-04-2024
+                                                                        INFARMED
+
+intravenosa em crianças com 11 dias-11 meses de idade. O volume de distribuição neste
+grupo etário foi de cerca 950 ml/kg.
+A experiência com fluconazol em recém-nascidos limita-se a estudos farmacocinéticos
+em recém-nascidos prematuros. A idade média da primeira dose foi de 24 horas
+(variação de 9-36 horas) e o peso médio foi de 0,9 kg (grupo de 0,75-1,10 kg) para 12
+recém-nascidos prematuros com uma gestação média de cerca de 28 semanas. Sete
+doentes cumpriram o protocolo; foram administradas um máximo de cinco perfusões
+intravenosas de 6 mg/kg de fluconazol, em cada 72 horas. A semivida média (horas) foi
+de 74 (variação de 44-185) no dia 1, diminuindo com o tempo para uma média de 53
+(variação de 30-131) no dia 7 e 47 (variação de 27-68) no dia 13. A área sob a curva
+(micrograma.h/ml) foi 271 (variação de 173-385) no dia 1 e aumentou com uma média
+de 490 (variação de 292-734) no dia 7, diminuindo para uma média de 360 (variação de
+167-566) no dia 13. O volume de distribuição (ml/kg) era 1183 (grupo de 1070-1470) no
+dia 1 e aumentou, com o tempo, para uma média de 1184 (grupo de 510-2130) no dia 7
+e 1328 (grupo de 1040-1680) no dia 13.
+Farmacocinética nos idosos
+Realizou-se um estudo farmacocinético em 22 indivíduos, com 65 anos ou mais de idade
+recebendo uma dose única oral de 50 mg de fluconazol. Dez destes doentes recebiam
+concomitantemente diuréticos. A Cmáx foi 1,54 µg/ml e ocorreu 1,3 horas após a
+administração. A AUC média foi 76,4 ± 20,3 µg h/ml, e a semivida terminal média foi
+46,2 horas. Estes valores dos parâmetros farmacocinéticos são superiores aos valores
+análogos registados em homens voluntários jovens normais. A coadministração de
+diuréticos não alterou significativamente a AUC ou a Cmáx. Além disso, a depuração da
+creatinina (74 ml/min), a percentagem de medicamento recuperada inalterada na urina
+(0-24 horas, 22%), e a depuração renal de fluconazol estimada (0,124 ml/min/kg) para
+os idosos, foram geralmente inferiores em relação aos valores em voluntários mais
+jovens. Assim, a alteração da distribuição do fluconazol nos idosos parece estar
+relacionada com a diminuição da função renal característica deste grupo.
+5.3 Dados de segurança pré-clínica
+Os efeitos em estudos não-clínicos foram observados apenas em exposições
+consideradas suficientemente superiores à exposição humana, indicando pouca
+relevância para o uso clínico.
+Carcinogénese
+O fluconazol não evidenciou potencial carcinogénico em ratinhos e ratos tratados por via
+oral durante 24 meses com doses de 2,5; 5 ou 10 mg/kg/dia (aproximadamente 2 a 7
+vezes a dose humana recomendada). Os ratos-macho tratados com 5 e 10 mg/kg/dia de
+fluconazol evidenciaram um aumento da incidência de adenomas hepatocelulares.
+Mutagénese
+Fluconazol, com ou sem ativação metabólica, foi negativo nos testes de mutagenicidade
+em 4 espécies de Salmonella typhimurium, e no sistema L5178Y de linfoma do ratinho.
+Estudos citogenéticos in vivo (células da medula óssea de murinos, no seguimento da
+administração oral de fluconazol) e in vitro (linfócitos humanos expostos a 1000 µg/ml
+de fluconazol) não demonstraram evidência de mutações cromossómicas.
+Toxicidade reprodutiva
+O fluconazol não afetou a fertilidade nos ratos-macho ou ratos-fêmea tratados com doses
+de 5, 10 ou 20 mg/kg por via oral, ou com doses de 5, 25, ou 75 mg/kg por via
+parentérica.
+Não foram observados efeitos fetais com 5 ou 10 mg/kg; foi observado aumento de
+variações anatómicas fetais (costelas supranumerárias, dilatação da pélvis renal) e
+                                                                        APROVADO EM
+                                                                        24-04-2024
+                                                                        INFARMED
+
+atrasos na ossificação, com 25 e 50 mg/kg e com doses mais elevadas. Doses entre
+80 mg/kg e 320 mg/kg, aumentaram a embrioletalidade em ratos e as anormalidades
+fetais incluíram costelas onduladas, fenda palatina e ossificação craniofacial anormal.
+O início do parto foi ligeiramente retardado com a dose de 20 mg/kg por via oral e foram
+observados distocia e prolongamento do parto em algumas fêmeas que receberam
+20 mg/kg e 40 mg/kg por via intravenosa. As alterações no parto traduziram-se por um
+ligeiro aumento do número de nados-mortos e diminuição da sobrevida neonatal a estes
+níveis de dose. Os efeitos no parto são consistentes com a diminuição estrogénica
+específica das espécies associada à administração de doses elevadas de fluconazol. Tal
+alteração hormonal não foi observada em mulheres tratadas com fluconazol (ver secção
+5.1).
+
+6. INFORMAÇÕES FARMACÊUTICAS
+6.1 Lista dos excipientes
+Cloreto de sódio.
+Água para preparações injetáveis.
+Ácido clorídrico ou hidróxido de sódio para ajuste do pH.
+6.2 Incompatibilidades
+Este medicamento não pode ser misturado com outros medicamentos, exceto os
+mencionados na secção 6.6.
+6.3 Prazo de validade
+Antes da abertura
+Frascos LPDE (KabiPac®): 3 anos
+Saco de poliolefina (freeflex®): 2 anos
+Depois da abertura:
+O medicamento deve ser utilizado imediatamente.
+Depois da diluição
+A diluição não é necessária antes da administração.
+Para o medicamento diluído a estabilidade química e física foi demonstrada durante 24
+horas a 25ºC. Do ponto de vista microbiológico, o medicamento deverá ser utilizado
+imediatamente.
+Se não for utilizado imediatamente, os tempos de conservação durante a utilização e as
+condições antes de utilizar são da responsabilidade do utilizador e não deverão,
+normalmente, exceder as 24 horas entre 2ºC a 8ºC.
+6.4 Precauções especiais de conservação
+Saco de poliolefina (freeflex®): Não conservar acima de 25ºC. Não congelar.
+Frascos LPDE (KabiPac®): Não congelar.
+Condições de conservação do medicamento após diluição ou abertura ver secção 6.3.
+6.5 Natureza e conteúdo do recipiente
+A solução para perfusão é apresentada em frascos de polietileno de baixa densidade–
+LPDE (KabiPac®) ou em sacos de poliolefina (freeflex®).
+Tamanhos das embalagens
+                                                                      APROVADO EM
+                                                                      24-04-2024
+                                                                      INFARMED
+
+Frascos de 50 ml ou sacos de 50 ml (100 mg de Fluconazol) em caixas de 1, 10, 20, 25,
+30, 40, 50 ou 60.
+Frascos de 100 ml ou sacos de 100 ml (200 mg de Fluconazol) em caixas de 1, 10, 20,
+25, 30, 40, 50, ou 60.
+Frascos de 200 ml ou sacos de 200 ml (400 mg de Fluconazol) em caixas de 1, 10, 20,
+25, 30 ou 40.
+É possível que não sejam comercializadas todas as apresentações.
+6.6 Precauções especiais de eliminação e manuseamento
+A solução deve ser inspecionada visualmente antes de ser utilizada e só as soluções
+límpidas, sem partículas, devem ser utilizadas. Não utilizar se o frasco/saco estiver
+danificado.
+Fluconazol solução intravenosa para perfusão é compatível com as seguintes soluções
+para perfusão:
+- Solução de dextrose a 20%
+- Solução de Ringer
+- Solução de Lactato de Ringer
+- Cloreto de potássio em solução de dextrose a 5%
+- Bicarbonato de sódio a 4,2%
+- Solução de cloreto de sódio a 9 mg/ml (0,9%)
+O fluconazol pode ser administrado através do sistema já existente com uma das
+soluções acima descritas. Apesar de não se terem observado incompatibilidades
+específicas, não se recomenda a mistura com qualquer outro medicamento, antes da sua
+perfusão.
+A solução para perfusão é apenas para utilização única. Depois de utilizar, eliminar o
+frasco/saco e qualquer solução remanescente.
+A diluição deve ser feita em condições assépticas. A solução deve ser inspecionada
+visualmente para deteção de partículas ou descoloração, antes da administração. A
+solução deve apenas ser utilizada se estiver límpida e isenta de partículas visíveis.
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com os
+requisitos locais.
+
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+FRESENIUS KABI PHARMA PORTUGAL, Lda.
+Zona Industrial do Lagedo
+3465-157 Santiago de Besteiros
+
+8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+5277322     Frasco - 1 unidade(s) - 50 ml
+5277330     Frasco - 10 unidade(s) - 50 ml
+5277348     Frasco - 20 unidade(s) - 50 ml
+5277355     Frasco - 25 unidade(s) - 50 ml
+5277363     Frasco - 30 unidade(s) - 50 ml
+                                            APROVADO EM
+                                            24-04-2024
+                                            INFARMED
+
+5277371   Frasco - 40 unidade(s) - 50 ml
+5382874   Frasco - 50 unidade(s) - 50 ml
+5277405   Frasco - 60 unidade(s) - 50 ml
+5277413   Frasco - 1 unidade(s) - 100 ml
+5277421   Frasco - 10 unidade(s) - 100 ml
+5277439   Frasco - 20 unidade(s) - 100 ml
+5277447   Frasco - 25 unidade(s) - 100 ml
+5277454   Frasco - 30 unidade(s) - 100 ml
+5277462   Frasco - 40 unidade(s) - 100 ml
+5277470   Frasco - 60 unidade(s) - 100 ml
+5277504   Frasco - 1 unidade(s) - 200 ml
+5277512   Frasco - 10 unidade(s) - 200 ml
+5277520   Frasco - 20 unidade(s) - 200 ml
+5277538   Frasco - 25 unidade(s) - 200 ml
+5277546   Frasco - 30 unidade(s) - 200 ml
+5277553   Frasco - 40 unidade(s) - 200 ml
+5382866   Frasco - 50 unidade(s) - 100 ml
+5684618   Saco - 1 unidade(s) - 50 ml
+5684626   Saco - 10 unidade(s) - 50 ml
+5684634   Saco - 20 unidade(s) - 50 ml
+5684642   Saco - 25 unidade(s) - 50 ml
+5684659   Saco - 30 unidade(s) - 50 ml
+5684667   Saco - 40 unidade(s) - 50 ml
+5684675   Saco - 50 unidade(s) - 50 ml
+5684709   Saco - 60 unidade(s) - 50 ml
+5684717   Saco - 1 unidade(s) - 100 ml
+5684725   Saco - 10 unidade(s) - 100 ml
+5684733   Saco - 20 unidade(s) - 100 ml
+5684741   Saco - 25 unidade(s) - 100 ml
+5684758   Saco - 30 unidade(s) - 100 ml
+5684766   Saco - 40 unidade(s) - 100 ml
+5684774   Saco - 50 unidade(s) - 100 ml
+5684808   Saco - 60 unidade(s) - 100 ml
+5684816   Saco - 1 unidade(s) - 200 ml
+5684824   Saco - 10 unidade(s) - 200 ml
+5684832   Saco - 20 unidade(s) - 200 ml
+5684840   Saco - 25 unidade(s) - 200 ml
+5684857   Saco - 30 unidade(s) - 200 ml
+5684865   Saco - 40 unidade(s) - 200 ml
+                                                         APROVADO EM
+                                                         24-04-2024
+                                                         INFARMED
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO
+NO MERCADO
+Data da primeira autorização: 09/03/2010
+Data da última renovação: 15/06/2021
+
+10. DATA DA REVISÃO DO TEXTO
+

@@ -1,0 +1,31 @@
+{
+  "medId": "levetiracetam",
+  "searchTerm": "levetiracetam",
+  "retrievedAt": "2026-02-09T00:35:41.308Z",
+  "bestMatch": {
+    "infarmedId": "637202",
+    "name": "Levetiracetam AltanMG",
+    "dci": "Levetiracetam",
+    "form": "Concentrado para solução para perfusão",
+    "dosage": "100 mg/ml",
+    "holder": "Altan Pharmaceuticals, S.A.",
+    "isGeneric": false,
+    "score": 170
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/637202-rcm.pdf",
+      "size": 198417
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/637202-fi.pdf",
+      "size": 123247
+    }
+  }
+}

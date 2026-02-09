@@ -1,0 +1,43 @@
+{
+  "medId": "alfentanil",
+  "searchTerm": "alfentanil",
+  "retrievedAt": "2026-02-08T00:00:00.000Z",
+  "bestMatch": {
+    "infarmedId": "5695234",
+    "name": "Alfentanilo Hameln",
+    "dci": "Alfentanilo",
+    "form": "Solução injetável",
+    "dosage": "1 mg/2 ml",
+    "holder": "Hameln Pharma GmbH",
+    "score": 1.0,
+    "generic": true,
+    "processNumber": "NL/H/3451/001/DC",
+    "administration": ["Via intravenosa"],
+    "classification": {
+      "atc": "N01AH02 - alfentanil",
+      "farmacoterapeutica": "2.12 - Analgésicos estupefacientes"
+    },
+    "aimDate": "18/01/2018",
+    "lastUpdated": "14/02/2024"
+  },
+  "documents": {
+    "rcm": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "rcm/5695234-rcm.pdf",
+      "size": 83451,
+      "method": "POST with form state",
+      "lastUpdated": "14/02/2024"
+    },
+    "fi": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "fi/5695234-fi.pdf",
+      "size": 81307,
+      "method": "POST with form state",
+      "lastUpdated": "14/02/2024"
+    }
+  }
+}

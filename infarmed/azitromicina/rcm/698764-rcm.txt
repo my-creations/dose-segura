@@ -1,0 +1,873 @@
+1.    NOME DO MEDICAMENTO
+
+Azitromicina Altan 500 mg pó para solução para perfusão
+
+2.    COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada frasco contém 500 mg de azitromicina base (equivalente a 524 mg de azitromicina di-hidratada)
+que, após reconstituição, dá origem a uma solução de azitromicina base a 100 mg/mL.
+
+Excipientes com efeito conhecido: cada frasco para injetáveis contém 101,5 mg de sódio (na forma de
+hidróxido de sódio).
+Lista completa de excipientes, ver secção 6.1.
+
+
+3.    FORMA FARMACÊUTICA
+
+Pó para solução para perfusão.
+
+O pó é de cor branca ou esbranquiçada.
+
+4.    INFORMAÇÕES CLÍNICAS
+
+4.1   Indicações terapêuticas
+
+Azitromicina Altan 500 mg pó para solução para perfusão, está indicado em adultos para o tratamento
+das seguintes infeções causadas por microrganismos sensíveis (ver secções 4.2, 4.4 e 5.1):
+
+- Pneumonia adquirida na comunidade
+- Doença pélvica inflamatória, quando os outros antibióticos comummente usados são considerados
+inadequados.
+
+Devem ser consideradas as recomendações oficiais sobre a utilização adequada de agentes
+antimicrobianos.
+
+4.2   Posologia e modo de administração
+
+Posologia
+A posologia e duração do tratamento é detalhada a seguir: Estas são estabelecidas com base na idade,
+peso, gravidade e local da infeção, bem como a sensibilidade do microrganismo. Existem diversas
+apresentações para administração oral.
+
+Adultos
+
+                                                           Resumo da Posologia
+ Pneumonia adquirida na comunidade       Duração do Tratamento: 7 – 10 dias.
+                                         Administrar 500 mg por dia numa única perfusão diária
+                                         pelo menos durante 1 ou 2 dias consecutivos.
+                                         Seguidamente, administrar 500 mg por dia numa única dose
+                                         oral pelo menos durante 5 dias consecutivos.
+ Doença pélvica inflamatória             Duração do Tratamento: 1 – 2 dias.
+                                         Seguidamente, administrar 250 mg por dia numa única dose
+                                         oral pelo menos durante 5 dias consecutivos até completar
+                                         um tratamento de 7 dias.
+
+Idosos
+Nos doentes idosos é utilizada a mesma dose descrita para os doentes adultos. Uma vez que os doentes
+idosos podem apresentar estados proarrítmicos, recomenda-se um cuidado especial devido ao risco de
+desenvolverem arritmia cardíaca e torsade de pointes (ver secção 4.4).
+
+Doentes com insuficiencia renal
+Em doentes com insuficiencia renal ligeira a moderada (TFG 10 - 80 mL/min) não é necessário ajuste
+de dose (ver secção 4.4).
+
+Pacientes com insuficiência hepática
+Nos doentes com insuficiência hepática ligeira a moderada (Classe Child-Pugh A ou B) não é
+necessário ajuste de dose (ver secção 4.4).
+
+População pediátrica
+A segurança e eficácia deste medicamento não se encontram estabelecidas para esta população (ver
+secção 4.4).
+
+Modo de administração
+Via intravenosa.
+Reconstituir e diluir antes de usar. As instruções de reconstituição do medicamento podem ser
+consultadas na secção 6.6.
+
+Administrar por perfusão intravenosa durante, pelo menos, 60 minutos. A concentração da solução e
+velocidade de perfusão para este medicamento deve ser 1 mg/mL durante 3 horas ou 2 mg/mL durante
+1 hora. Não administrar por bólus ou injeção intramuscular (ver secções 4.4 e 6.6).
+
+4.3   Contraindicações
+
+Hipersensibilidade à azitromicina, à eritromicina, ou a qualquer antibiótico da classe dos macrólidos
+ou quetólidos ou a qualquer um dos excipientes mencionados na secção 6.1.
+
+4.4   Advertências e precauções especiais de utilização
+
+Hipersensibilidade
+Como acontece com a eritromicina e outros macrólidos, foram notificadas raramente reações alérgicas
+graves, incluindo angioedema e anafilaxia (raramente fatais), e reações dermatológicas incluindo
+Pustulose Exantematosa Generalizada Aguda, síndrome de Stevens-Johnson e necrólise epidérmica
+tóxica (raramente fatal) e reação medicamentosa com eosinofilia e sintomas sistémicos (DRESS) (ver
+secção 4.8). Algumas destas reações com a azitromicina resultaram em sintomatologia recorrente e
+requereram um longo período de observação e tratamento.
+
+Se ocorrer uma reação alérgica, o tratamento com azitromicina deve ser descontinuado e dever ser
+estabelecida uma terapêutica apropriada. Os médicos devem ter conhecimento de que o
+reaparecimento dos sintomas alérgicos pode ocorrer quando a terapêutica sintomática é descontinuada.
+
+Hepatotoxicidade
+Uma vez que o fígado é a principal via de eliminação da azitromicina, a sua utilização deverá ser
+ponderada nos doentes com doença hepática significativa. Casos de hepatite fulminante que podem
+levar à insuficiência hepática com risco de vida foram notificados em doentes em tratamento com
+azitromicina (ver secção 4.8). Alguns doentes poderiam apresentar doença hepática pré-existente ou
+ter tomado outros medicamentos hepatotóxicos.
+
+No caso de sinais e sintomas de disfunção hepática, tais como rápido desenvolvimento de astenia
+associada com icterícia, urina escura, tendência para hemorragias ou encefalopatia hepática devem ser
+realizados imediatamente testes à função hepática. A administração de azitromicina deve ser
+interrompida em caso de aparecimento de disfunção hepática ou na presença de sinais e sintomas da
+mesma.
+Derivados da ergotamina
+Em doentes tratados com derivados da ergotamina, a coadministração de alguns antibióticos
+macrólidos poderá desencadear ergotismo. Não existem dados relativos à possibilidade de interação
+entre a ergotamina e a azitromicina. No entanto, e devido à possibilidade teórica de ergotismo, não
+deverão ser administrados concomitantemente.
+
+Superinfeção
+Como acontece com outros antibióticos, é recomendada a observação de sinais de superinfeção por
+microrganismos não sensíveis, incluindo fungos.
+
+Doença associada a Clostridium difficile
+Foi notificada diarreia associada a Clostridium difficile (colite pseudomembranosa) com a utilização
+de antibióticos, incluindo a azitromicina, cuja gravidade poderá variar desde ligeira a colite fatal. O
+tratamento com antibióticos altera a flora normal do cólon permitindo um crescimento excessivo de C.
+difficile.
+
+Clostridium difficile produz toxinas A e B que contribuem para o desenvolvimento da colite
+pseudomembranosa. As estirpes de C. difficile produtoras de toxinas causam um aumento da
+morbilidade e mortalidade, visto estas infeções poderem ser refratárias à terapêutica antimicrobiana e
+ser necessária colectomia. Deve considerar-se o diagnóstico de diarreia associada a C. difficile em
+doentes que desenvolvam diarreia após a administração de antibióticos. É necessário uma análise
+cuidadosa do historial clínico visto terem sido notificados casos de colite pseudomembranosa 2 meses
+após a administração de antibióticos.
+
+Compromisso renal
+Em doentes com compromisso renal grave (TFG <10 ml/min) verificou-se um aumento de 33% da
+exposição sistémica à azitromicina (ver secção 5.2). Assim, a azitromicina deve ser utilizada com
+precaução neste tipo de doentes.
+
+Prolongamento do intervalo QT
+Foi identificado um prolongamento na repolarização cardíaca e no intervalo QT, que tem sido
+associado ao risco de desenvolvimento de arritmia cardíaca e “torsades de pointes”, em doentes em
+tratamento com macrólidos, incluindo azitromicina (ver secção 4.8). Desta forma, dado que as
+seguintes situações podem levar ao aumento do risco de arritmias ventriculares (incluindo torsade de
+pointes), que podem originar paragem cardíaca, a azitromicina deve ser utilizada com precaução nos
+doentes com estados de proarrítmicas contínuas, (especialmente doentes do sexo feminino e idosos),
+tais como:
+- com prolongamento QT congénito ou documentado.
+- atualmente em tratamento com outras substâncias ativas conhecidas por prolongar o intervalo QT,
+tais como antiarrítmicos de classe IA (quinidina e procainamida) e de classe III (dofetilide,
+amiodarona e sotalol), cisaprida e terfenadina, fármacos antipsicóticos (tais como a pimozida),
+antidepressivos (tais como o citalopram) e anti-infeciosos (fluoroquinolonas tais como a
+moxifloxacina ou levofloxacina e cloroquina).
+- com distúrbio eletrolítico, particularmente em casos de hipocaliemia e hipomagnesemia.
+- com bradicardia, arritmia cardíaca clinicamente relevantes ou insuficiência cardíaca grave.
+
+Miastenia gravis
+Exacerbação dos sintomas de miastenia grave e aparecimento de síndrome de miastenia foram
+notificados em doentes a receber tratamento com azitromicina (ver secção 4.8).
+
+As seguintes recomendações devem ser consideradas antes de prescrever azitromicina:
+
+Devem ser evitadas concentrações para perfusão após a diluição superiores a 2,0 mg/mL, dado ter sido
+observada uma maior incidência de reação no local de administração em voluntários saudáveis.
+
+Em zonas com resistência aumentada à eritromicina A, é importante considerar a evolução do padrão
+de sensibilidade para a azitromicina e outros macrólidos.
+População pediátrica
+A segurança e eficácia não se encontram estabelecidas para esta população.
+
+Foram reportados casos de estenose hipertrófica do piloro infantil após tratamento com azitromicina
+em recém-nascidos (tratamento até aos 42 dias de idade). Os pais e cuidadores devem ser informados
+que caso ocorram vómitos ou irritabilidade após a alimentação, devem contactar o médico.
+
+Avisos sobre os excipientes
+Este medicamento contém 101,5 mg (4,4 mmol) de sódio por frasco de injetáveis, equivalente a 5,1%
+da ingestão diária máxima de sódio (2 g) recomendada para um adulto segundo a OMS.
+
+4.5   Interações medicamentosas e outras formas de interação
+
+Antiácidos
+Num estudo farmacocinético que investigou os efeitos da administração simultânea de antiácidos e
+azitromicina, não se observaram efeitos na biodisponibilidade global, embora se tenha verificado uma
+redução de cerca de 25% na concentração máxima plasmática. Em doentes em tratamento com
+azitromicina oral e antiácidos, os dois fármacos não devem ser administrados em simultâneo.
+
+Cetirizina
+Em individuos saudáveis, a coadministração de azitromicina num regime de 5 dias com cetirizina 20
+mg em estado estacionário, não resultou em interações farmacocinéticas nem alterações significativas
+no intervalo QT.
+
+Didanosina
+A coadministração de doses diárias de 1200 mg/dia de azitromicina com 400 mg/dia de didanosina a 6
+doentes VIH-positivos, pareceu não afetar a farmacocinética em estado estacionário da didanosina,
+comparativamente com o placebo.
+
+Digoxina e colquicina
+Foi notificado um aumento dos níveis séricos do substrato da glicoproteína P como resultado da
+administração concomitante de antibióticos da classe macrólidos, incluindo a azitromicina, com
+substratos da glicoproteína P, como a digoxina e a colquicina. Deste modo, deve ser considerada a
+possibilidade de um aumento das concentrações séricas da digoxina, se a azitromicina e os substratos
+da glicoproteína P, tais como a digoxina, forem administrados concomitantemente. É necessária uma
+monitorização clínica, e possivelmente dos níveis séricos da digoxina, durante o tratamento com
+azitromicina e após a sua descontinuação.
+
+Zidovudina
+Doses únicas de 1000 mg e doses múltiplas de 1200 mg ou 600 mg de azitromicina tiveram pouco
+efeito na farmacocinética plasmática ou na excreção urinária da zidovudina ou do seu metabolito
+glucuronido. Contudo, a administração de azitromicina aumentou as concentrações de zidovudina
+fosforilada, o metabolito clinicamente ativo, nas células mononucleares do sangue periférico. O
+significado clínico desta constatação não é claro, mas pode ser benéfico para o doente.
+
+Medicamentos conhecidos por prolongar o intervalo QT
+A azitromicina deve ser utilizada com precaução em pacientes a receber medicamentos que prolongam
+o intervalo QT, cisaprida, terfenadina, antiarrítmicos de classe IA e III, antidepressivos tricíclicos,
+antipsicóticos e alguns anti-infeciosos, devido a risco aumentado de arritmia ventricular (ver secção
+4.4).
+
+Hidroxicloroquina
+A azitromicina deve ser usada com cautela em pacientes recebendo medicamentos conhecidos por
+prolongar o intervalo QT com potencial para induzir arritmia cardíaca, por exemplo, hidroxicloroquina.
+Derivados da ergotamina
+Existe uma possibilidade teórica de interação entre a azitromicina e derivados da ergotamina a (ver
+secção 4.4); deste modo o uso concomitante não é recomendado.
+
+Citocromo P450
+A azitromicina não interage significativamente com o sistema citrocomo P450 hepático. Não se
+pressupõe que haja uma interação farmacocinética como se verifica com a eritromicina e outros
+macrólidos. A indução do citocromo P450 hepático ou a inativação via complexo citocromo-
+metabolito não ocorre com a azitromicina.
+
+Foram conduzidos estudos farmacocinéticos entre a azitromicina e os seguintes medicamentos
+conhecidos por sofrerem metabolismo significativo mediado pelo citrocromo P450.
+
+Atorvastatina
+A coadministração de atorvastatina (10 mg/dia) e azitromicina (500 mg/dia) não alterou as
+concentrações plasmáticas da atorvastatina (com base na análise da inibição do citocromo HMG-CoA
+redutase). No entanto, foram notificados casos pós-comercialização de rabdomiólise em doentes a
+tomar azitromicina com estatinas.
+
+Carbamazepina
+Num estudo de interação farmacocinética realizado em voluntários saudáveis não se observaram
+efeitos significativos nos níveis plasmáticos de carbamazepina ou do seu metabolito ativo, quando o
+medicamento foi administrado concomitantemente com azitromicina.
+
+Cimetidina
+Num estudo farmacocinético que investigou os efeitos da administração de uma dose única de
+cimetidina (administrada 2 horas antes) na farmacocinética da azitromicina, não foi observada
+qualquer alteração. Deste modo, este medicamento pode ser administrado concomitantemente com
+azitromicina.
+
+Ciclosporina
+Num estudo farmacocinético com voluntários saudáveis aos quais foi administrada uma dose oral de
+500 mg/dia de azitromicina durante 3 dias e depois administrada uma dose oral única de 10 mg/kg de
+ciclosporina, verificou-se um aumento significativo de Cmáx e AUC0-5 da ciclosporina.
+Consequentemente, devem ser tomadas algumas precauções antes da administração concomitante
+destes medicamentos. Se for necessário, os níveis de ciclosporina devem ser monitorizados e a dose
+adequadamente ajustada.
+
+Efavirenz
+A coadministração de uma dose única de 600mg de azitromicina e 400mg de efavirenz diariamente,
+durante 7 dias, não resultou em qualquer interação farmacocinética clinicamente significativa.
+
+Fluconazol
+A coadministração de uma dose única de 1200mg de azitromicina não alterou a farmacocinética de
+uma dose única de 800mg de fluconazol. A exposição total e a semivida da azitromicina não foram
+alteradas pela coadministração de fluconazol, mas foi observada uma diminuição clinicamente não
+significativa na Cmáx (18%) da azitromicina.
+
+Indinavir
+A coadministração de uma dose única de 1200mg de azitromicina não teve efeito estatisticamente
+significativo na farmacocinética de indinavir de 800 mg administrado 3 vezes ao dia durante 5 dias.
+
+Metilprednisolona
+Num estudo farmacocinético de interação realizado em voluntários saudáveis, a azitromicina não teve
+efeito significativo na farmacocinética da metilprednisolona.
+
+Midazolam
+Em voluntários saudáveis, a coadministração de 500 mg/dia de azitromicina durante 3 dias não causou
+qualquer alteração clinicamente significativa na farmacocinética e farmacodinâmica de uma dose
+única de 15 mg de midazolam.
+
+Nelfinavir
+A coadministração de 1200mg de azitromicina com nelfinavir no estado estacionário (750 mg 3 vezes
+ao dia) produziu aumento da concentração de azitromicina. Não é necessário um ajuste da dose
+quando administrados concomitantemente. Não foram observados efeitos adversos clinicamente
+significativos.
+
+Rifabutina
+A coadministração de azitromicina e rifabutina não altera as concentrações séricas de qualquer um dos
+fármacos.
+Foi observada neutropenia em indivíduos a tomar concomitantemente azitromicina e rifabutina.
+Apesar da neutropenia ter sido associada à utilização de rifabutina, não foi estabelecida uma relação
+causal da associação com a azitromicina (ver secção 4.8).
+
+Sildenafil
+Em voluntários saudáveis do sexo masculino, não se encontrou evidência do efeito da azitromicina
+(500 mg/dia durante 3 dias) na AUC e Cmáx de sildenafil ou do seu principal metabolito em
+circulação.
+
+Terfenadina
+Estudos de farmacocinética não evidenciaram qualquer interação entre a azitromicina e a terfenadina.
+Foram notificados casos raros em que a possibilidade de uma interação deste tipo não pode ser
+inteiramente excluída; no entanto, não existe evidência específica de que tal interação tenha ocorrido.
+
+Teofilina
+Estudos realizados com voluntários saudáveis não evidenciaram qualquer interação farmacocinética
+clinicamente significativa entre a azitromicina e a teofilina quando administrados concomitantemente.
+
+Triazolam
+Em 14 individuos saudáveis, a coadministração de 500 mg de azitromicina (Dia 1) e 250 mg (Dia 2)
+com 0,125 mg de triazolam (Dia 2), não teve qualquer efeito significativo nas variáveis
+farmacocinéticas de triazolam, comparativamente com o triazolam e o placebo.
+
+Trimetropim + Sulfametoxazol
+A coadministração de trimetoprim + sulfametoxazol (160 mg/800 mg) durante 7 dias com 1200 mg de
+azitromicina no Dia 7 não teve efeito significativo na concentração máxima, exposição total ou
+excreção urinária do trimetoprim ou do sulfametoxazol. As concentrações séricas de azitromicina
+foram similares às observadas noutros estudos.
+
+
+4.6   Fertilidade, gravidez e aleitamento
+
+Gravidez
+Não existem dados adequados relativos à utilização de azitromicina em mulheres grávidas. Em estudos
+de toxicidade na reprodução, realizados em animais, a azitromicina demonstrou atravessar a placenta,
+embora não se tenham observado efeitos teratogénicos. A segurança da azitromicina não foi
+confirmada no que se refere à utilização da substância ativa durante a gravidez. Deste modo, a
+azitromicina só deve ser utilizada durante a gravidez se os benefícios forem superiores ao risco.
+
+Amamentação
+A informação limitada disponível na literatura publicada indica que a azitromicina está presente no
+leite humano, com uma dose diária média mais alta estimada entre 0,1 a 0,7 mg/kg/dia. Não foram
+observados efeitos adversos graves da azitromicina nos lactentes.
+A decisão de descontinuação da amamentação ou do tratamento com azitromicina, deve ser tomada
+tendo em consideração o benefício da amamentação para a criança e o benefício da terapêutica para a
+mulher.
+
+Fertilidade
+Em estudos de fertilidade realizados em ratos, foi observado uma redução das taxas de gravidez após a
+administração de azitromicina. É desconhecida a relevância clinica desta constatação.
+
+4.7   Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos de Azitromicina Altan 500 mg pó para solução para perfusão sobre a capacidade de
+conduzir e utilizar máquinas são nulos ou negligenciáveis.
+
+
+4.8   Efeitos indesejáveis
+
+A tabela abaixo apresenta as reações adversas identificadas em ensaios clínicos e na vigilância pós-
+comercialização (em itálico), organizadas por classe de sistema de órgãos de acordo com a convenção
+MedDRA. A frequência foi ordenada de acordo com a importância clínica. A frequência é definida
+como: Muito frequentes (≥ 1/10); Frequentes (≥ 1/100 a < 1/10); Pouco frequentes (≥ 1/1.000 a <
+1/100), Raros (≥ 1/10.000 a < 1/1.000); Muito raros (< 1/10.000); desconhecida (a frequência não
+pode ser calculada a partir dos dados disponíveis). Em cada grupo de frequência, os efeitos
+indesejáveis encontram-se por ordem decrescente de gravidade.
+
+Reações adversas possíveis ou provavelmente relacionadas com a azitromicina com base na
+experiência de ensaios clínicos e na vigilância pós-comercialização.
+
+ Sistema de           Muito      Frequentes    Pouco              Raros           Desconhecida
+ Classificação de     frequent   (≥ 1/100, <   Frequentes         (≥ 1/10.00      (a frequência não
+ Órgãos MedDRA        es         1/10)         (≥ 1/1.000,        0, < 1/1.000)   pode ser
+                      (≥ 1/10)                 < 1/100)                           calculada a partir
+                                                                                  dos dados
+                                                                                  disponíveis)
+ Infeções e                                    Candidíase,                        Colite
+ infestações                                   Infeção                            pseudomembrano
+                                               vaginal,                           sa
+                                               Pneumonia,                         (ver secção 4.4)
+                                               Infeção
+                                               fúngica, Infeção
+                                               bacteriana,
+                                               Faringite,
+                                               Gastroenterite,
+                                               Perturbação
+                                               respiratória,
+                                               Rinite,
+                                               Candidíase oral
+ Doenças do                                    Leucopenia,                        Trombocitopenia,
+ sangue e do                                   Neutropenia,                       Anemia
+ sistema linfático                             Eosinofilia                        hemolítica
+ Doenças do                                    Angioedema,                        Reação
+ sistema imunitário                            Hipersensibilida                   anafilática (ver
+                                               de                                 secção 4.4)
+ Doenças do                                    Anorexia
+ metabolismo e da
+ nutrição
+ Perturbações do                               Nervosismo,        Agitação        Agressividade,
+ foro psiquiátrico                             Insónia                            Ansiedade,
+                                                                             Delírio,
+                                                                             Alucinação
+Doenças do                     Cefaleias    Tonturas,                        Síncope,
+sistema nervoso                             Sonolência,                      Convulsões,
+                                            Disgeusia,                       Hipoestesia,
+                                            Parestesia                       Hiperatividade
+                                                                             psicomotora,
+                                                                             Anosmia,
+                                                                             Ageusia,
+                                                                             Parosmia,
+                                                                             Miastenia gravis
+                                                                             (ver secção 4.4)
+Afeções oculares                            Perturbações
+                                            visuais
+Afeções do                                  Surdez,                          Compromisso
+ouvido e do                                 Insuficiência                    auditivo
+labirinto                                   auditiva,                        incluindo surdez
+                                            Vertigem                         e/ou acufenos
+Cardiopatias                                Palpitações                      Torsades de
+                                                                             pointes (ver
+                                                                             secção 4.4),
+                                                                             Arritmia (ver
+                                                                             secção 4.4),
+                                                                             incluindo
+                                                                             Taquicardia
+                                                                             ventricular,
+                                                                             Intervalo QT
+                                                                             prolongado no
+                                                                             ECG (ver secção
+                                                                             4.4)
+Vasculopatias                               Afrontamentos                    Hipotensão
+Doenças                                     Dispneia,
+respiratórias,                              Epistaxe
+torácicas e do
+mediastino
+Doenças             Diarreia   Vómitos,     Obstipação,                      Pancreatite,
+gastrointestinais              Dor          Flatulência,                     Descoloração da
+                               abdominal,   Dispepsia,                       língua
+                               Náusea       Gastrite,
+                                            Disfagia,
+                                            Distensão
+                                            abdominal,
+                                            Boca seca,
+                                            Eructação,
+                                            Úlceras na boca,
+                                            Hipersecreção
+                                            salivar
+Afeções                                                        Função        Insuficiência
+hepatobiliares                                                 hepática      hepática
+                                                               anómala,      (raramente fatal)
+                                                               Icterícia     (ver secção 4.4),
+                                                               colestática   Hepatite
+                                                                             fulminante,
+                                                                             Necrólise
+                                                                             hepática
+Afeções dos                         Erupção              Reação de       Síndrome de
+tecidos cutâneos e                  cutânea,             fotossensi      Stevens-Johnson,
+subcutâneos                         Prurido,             bilidade,       Necrólise
+                                    Urticária,           Reação          epidérmica
+                                    Dermatite,           medicamento     tóxica, Eritema
+                                    Xerose cutânea,      sa com          multiforme
+                                    Hiperidrose          eosinofilia e
+                                                         sintomas
+                                                         sistémicos
+                                                         (DRESS),
+                                                         Pustolose
+                                                         exantematosa
+                                                         aguda
+                                                         generalizada
+Afeções                             Osteoartrite,                        Artralgia
+musculoesquelétic                   Mialgia,
+as e dos tecidos                    Dorsalgia, Dor
+conjuntivos                         cervical
+Doenças renais e                    Disúria, Dor                         Falência renal
+urinárias                           renal                                aguda,
+                                                                         Nefrite
+                                                                         intersticial
+Doenças dos                         Metrorragia,
+órgãos genitais e                   Doença
+da mama                             testicular
+Perturbações          Dor no        Edema, Astenia,
+gerais e alterações   local de      Mal-estar,
+no local de           injeção,      Fadiga, Edema
+administração         Inflamação    da face, Dor
+                      no local de   torácica, Pirexia,
+                      injeção       Dor, Edema
+                                    periférico
+Exames                Número de     Aspartato
+complementares        linfócitos    aminotransferas
+de diagnóstico        diminuído,    e aumentada,
+                      Número de     Alanina
+                      eosinófilos   aminotransferas
+                      aumentado     e aumentada,
+                      ,             Bilirrubinemia
+                      Bicarbonat    aumentada,
+                      o no          Uremia,
+                      sangue        Creatininemia
+                      diminuído,    aumentada,
+                      Basófilos     Valores de
+                      no sangue     potássio do
+                      aumentado     sangue
+                      s,            anómalos,
+                      Monócitos     Fosfatase
+                      aumentado     alcalina no
+                      s,            sangue
+                      Neutrófilo    aumentada,
+                      s             Cloreto
+                      aumentado     aumentado,
+                      s             Glucose
+                                    aumentada,
+                                    Plaquetas
+                                    aumentadas,
+                                              Hematócrito
+                                              diminuído,
+                                              Bicarbonato no
+                                              sangue
+                                              aumentado,
+                                              Valores de sódio
+                                              anómalos
+ Complicações de                              Complicação
+ intervenções                                 pós intervenção
+ relacionadas com
+ lesões e
+ intoxicações
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício/risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas diretamente ao
+INFARMED, I.P:
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente) ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+E-mail: farmacovigilancia@infarmed.pt
+
+4.9   Sobredosagem
+
+As reações adversas observadas com doses superiores às recomendadas foram semelhantes às
+observadas com doses normais.
+
+Sintomas
+Os sintomas característicos da sobredosagem com antibióticos macrólidos incluem perda reversível da
+audição, náuseas graves, vómitos e diarreia.
+
+Tratamento
+Em caso de sobredosagem são indicadas a administração de carvão ativado, medidas sintomáticas
+gerais e medidas de suporte básico de vida.
+
+
+5.    PROPRIEDADES FARMACOLÓGICAS
+
+5.1   Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 1.1.8. Medicamentos anti-infeciosos. Antibacterianos, Macrólidos,
+Macrólidos
+Código ATC: J01FA10
+
+A azitromicina é o primeiro de uma subclasse de antibióticos macrólidos designada quimicamente por
+azalidos.
+
+A molécula é formada pela inserção de um átomo de azoto no anel lactona da eritromicina A. O nome
+químico da azitromicina é 9-deoxi-9a-aza-9a-metil-9a-homoeritromicina A.
+
+Mecanismo de ação
+A azitromicina liga-se ao componente ribossomal ARN 23S (ARNr) da subunidade ribossomal 50S.
+Bloqueia a síntese proteica por inibição do passo transpeptidação/translocação da sintese respetiva
+proteica.
+
+Resistência
+Geralmente, a resistência de diferentes espécies de bactérias aos macrólidos ocorre através de três
+mecanismos associados à alteração do local de administração, alteração do antibiótico ou por alteração
+do transporte do antibiótico (bombas de efluxo). As bombas de efluxo em streptococci deve-se à
+presença de genes mef e leva a uma resistência limitada aos macrólidos (fenotipo M). A modificação
+no alvo é controlada por metilases codificadas por genes erm.
+
+Os dois mecanismos de resistência mais frequentemente encontrados para os macrólidos, incluindo a
+azitromicina, são modificações do alvo (mais frequentemente por metilação do ARN ribossomal 23S)
+e efluxo ativo. A ocorrência destes mecanismos de resistência variam de espécie para espécie e dentro
+da mesma espécie, a frequência da resistência varia por localização geográfica.
+
+Os dois mecanismos de resistência aos macrólidos mais frequentemente encontrados, incluindo a
+azitromicina, são a modificação do local de administração (muitas vezes por metilação do ARNr 23S)
+e a bomba de efluxo. A ocorrência destes mecanismos de resistência varia de espécie para espécie e,
+dentro da mesma espécie, a frequência de resistência varia de acordo com a localização geográfica.
+
+Existe uma resistência cruzada completa entre a eritromicina, a azitromicina, outros macrólidos e
+lincosamidas no Streptococcus pneumoniae, streptococci beta-hemolíticos do grupo A, Enterococcus
+spp. e Staphylococcus aureus, incluindo S. aureus resistente à meticilina (MRSA).
+
+*Estirpes de S. pneumoniae sensíveis à penicilina são provavelmente mais sensíveis à azitromicina do
+que estirpes de S. pneumoniae resistentes à penicilina. As estirpes de S. aureus resistentes à meticilina
+(MRSA) são provavelmente menos sensíveis à azitromicina do que as estirpes sensíveis à meticilina
+(MSSA).
+
+A indução de resistência significativa em ambos os modelos, in vitro e in vivo, é rara, com aumento =1
+de diluição em CIM para S. pyogenes, H. influenzae e Enterobacteriae, após 9 administrações
+subletais de substância ativa e três aumentos de diluição para o desenvolvimento de resistência in vitro
+causada por mutação de S. aureus é rara.
+
+Breakpoints
+Os critérios de sensibilidade à azitromicina para agentes patogénicos bacterianos típicos baseados na
+determinação da Concentração Inibitória Mínima (CIM) de acordo com o EUCAST (Comité Europeu
+de Testes de Susceptibilidade Antimicrobiana, v 9.0 (01.01.2019) estão listados no quadro abaixo:
+
+                                                                     CIM (mg/L)
+                                                        Sensível                    Resistente
+ Staphylococcus spp.                                      ≤1                           >2
+ Streptococcus spp (grupos A, B, C e G)                  ≤ 0,25                       > 0,5
+ Streptococcus pneumoniae                                ≤ 0,25                       > 0,5
+ Moxarella catarrhalis                                   ≤ 0,25                       > 0,5
+
+A prevalência de resistência adquirida pode variar geográfica e temporalmente para as espécies
+selecionadas, devendo existir informação local sobre esta, especialmente quando se trata de infeções
+graves. Se necessário, deverá ser solicitado aconselhamento por parte de um perito quando a
+prevalência local da resistência é tal que a utilidade do agente em alguns tipos de infeções é
+questionável.
+
+Espécies com resistência adquirida podem ser um problema: A prevalência de resistências é igual ou
+superior a 10% em, pelo menos num país da UE.
+Tabela: Espetro antibacteriano da azitromicina
+
+  Espécies frequentemente sensíveis
+
+  Aeróbios Gram-negativo
+  Haemophilus influenzae
+  Legionella spp.
+  Moraxella catarrhalis
+
+  Anaeróbios
+  Peptostreptococcus spp.
+
+  Outros microrganismos
+  Chlamydia pneumoniae
+  Chlamydia trachomatis
+  Mycoplasma spp
+
+  Espécies com resistência adquirida podem ser um problema
+
+  Aeróbios Gram-positivo
+  Streptococcus pneumoniae *
+
+  Aeróbios Gram-negativo
+  Neisseria gonorrhoeae
+
+  Organismos com resistência intrínseca
+  Anaeróbios Gram-negativo
+  Escherichia coli
+
+
+
+5.2   Propriedades farmacocinéticas
+
+Absorção
+Após administração oral, a biodisponibilidade da azitromicina é de aproximadamente 37%. O tempo
+para atingir concentrações plasmáticas é de 2-3 horas.
+
+Após administração intravenosa de uma dose diária única de 500 mg de azitromicina (1 hora de
+perfusão a 2 mg/mL de concentração durante 2-5 dias), a média de Cmax (DP) alcançada foi de 3,63
+(1,60) µg/mL, enquanto que a Cmin (DP) às 24 horas foi de 0,20 (0,15) µg/mL e a AUC0-24 foi de 9,60
+(4,80) µg·h/mL.
+Um estudo com voluntários saudáveis que receberam 500 mg de azitromicina em perfusão intravenosa
+durante 3 horas numa concentração de 1 mg/mL, os valores médios de Cmax, Cmin após 24 h e AUC0-
+24 foram de 1,14 (0,14) µg/mL, 0,18 (0,02) µg/mL e 8,03 (0,86) µg·h/mL, respetivamente.
+
+Distribuição
+A azitromicina após administração oral é amplamente distribuída por todo o organismo. Estudos
+farmacocinéticos mostraram concentrações de azitromicina no tecido significativamente superiores às
+concentrações plasmáticas (até 50 vezes a concentração plasmática máxima observada). Isto indica
+que o fármaco se liga extensivamente aos tecidos (o volume de distribuição em estado estacionário é
+de aproximadamente 31 l/kg). O valor máximo da concentração média (Cmax) observado após a
+administração de uma dose única de 500 mg é de aproximadamente 0,4 microgramas/mL, 2-3 horas
+após a administração. Com a posologia recomendada, não ocorre acumulação no plasma/soro. A
+acumulação no tecido ocorre quando os níveis são muito superiores aos do plasma/soro. Três dias após
+a administração de 500 mg em única dose ou dividida em várias doses, as seguintes concentrações 1,3-
+4,8 microgramas/g, 0,6-2,3 microgramas/g, 2,0-2,8 microgramas/g e 0-0,3 microgramas/mL foram
+encontradas nos pulmões, próstata, amígdalas e plasma, respetivamente.
+As concentrações médias determinadas em leucócitos periféricos são superiores a CIM90 dos agentes
+patogénicos mais comuns.
+
+Estudos experimentais in vitro e in vivo mostraram que a azitromicina é acumulada em fagócitos; a
+libertação é promovida pela fagocitose ativa. Em modelos animais, este processo parece contribuir
+para a acumulação de azitromicina nos tecidos. A ligação da azitromicina às proteínas plasmáticas no
+soro é variável e vai de 52% a 0,005 microgramas/mL a 18% a 0,5 microgramas/mL, dependendo da
+concentração sérica.
+
+Biotransformação e Eliminação
+A semivida de eliminação terminal no plasma reflete a semivida de depleção do tecido de 2-4 dias.
+
+Aproximadamente, 12% da dose intravenosa é excretada inalterada na urina em 3 dias; a maioria
+durante as primeiras 24 horas.
+
+Foram encontradas concentrações até 237 microgramas/mL de azitromicina na bílis humana
+juntamente com 10 outros metabolitos (formados por N- e O-desmetilação, por hidroxilação de anéis
+de desoxamina e anel de glucose, ou por hidrólise do conjugado de cladinose), 2 dias após um
+tratamento de 5 dias. A comparação dos resultados obtidos por métodos de HPLC e microbiológicos
+sugere que os metabolitos não desempenham um papel importante na atividade microbiológica da
+azitromicina.
+
+Farmacocinética em populações especiais
+
+Idosos
+A farmacocinética da azitromicina nos idosos era semelhante à dos adultos jovens; no entanto, em
+mulheres idosas velhas, embora se observassem concentrações máximas mais elevadas (cerca de 30-
+50%), não houve acumulação significativa.
+
+Em voluntários idosos (> 65 anos) foram observados valores de AUC superiores (29%) em
+comparação com voluntários jovens (< 45 anos) após um tratamento de 5 dias. No entanto, estas
+diferenças não são considerados clinicamente significativos, não sendo recomendado ajuste da dose.
+
+Compromisso renal
+Após uma dose única oral de 1 g de azitromicina, a Cmax média e AUC0-120 aumentou 5,1% e 4,2%,
+respetivamente, em indivíduos com insuficiência renal ligeira a moderada (taxa de filtração glomerular
+10-80 ml/min) em comparação com a função renal normal (taxa de filtração glomerular > 80 mL/min).
+Em indivíduos com insuficiência renal grave (taxa de filtração glomerular < 10 mL/min), a Cmax média
+e AUC0-120 aumentaram 61% e 35%, respetivamente, em comparação com os valores normais (ver
+secção 4.2).
+
+Compromisso hepático
+Em doentes com compromisso hepático ligeiro a moderado, não há evidência de alteração acentuada
+na farmacocinética sérica da azitromicina, comparando com os que apresentam função hepática
+normal. Nestes doentes, a recuperação urinária de azitromicina parece aumentar provavelmente para
+compensar a redução da depuração hepática. Não existem dados sobre a utilização da azitromicina no
+compromisso hepático mais grave (ver secção 4.2).
+
+População pediátrica
+A farmacocinética tem sido estudada em crianças com idades compreendidas entre os 4 meses e os 15
+anos com administração de cápsulas, grânulos ou suspensão. O Cmax obtido com 10 mg/kg no dia 1
+seguido de 5 mg/kg nos dias 2 a 5 foi ligeiramente inferior ao dos adultos com 224 microgramas/L em
+crianças com idades compreendidas entre 0,6 a 5 anos e após 3 dias e 383 microgramas/L em idades
+compreendidas entre os 6 a 15 anos. O t1/2 após 36 h em crianças estava dentro do intervalo esperado
+em adultos (ver secção 4.2).
+5.3    Dados de segurança pré-clínica
+
+Estudos com animais, utilizando uma exposição 40 vezes superior à alcançada com doses terapêuticas
+clínicas, mostraram que a azitromicina causou fosfolipidose reversível; contudo, em geral, não foram
+observadas consequências tóxicas relacionadas. A relevância desta constatação para o homem a
+receber doses de azitromicina recomendadas, é desconhecida.
+
+Investigações eletrofisiológicas mostraram que a azitromicina prolonga o intervalo QT.
+
+Potencial carcinogénico
+Não foram realizados estudos a longo termo em animais para avaliar o potencial carcinogénico.
+
+Potencial mutagénico
+Não há evidência de potencial para mutações genéticas e cromossómicas em modelos in vivo e in
+vitro.
+
+Toxicidade reprodutiva
+Não foram observados efeitos teratogénicos em estudos de embriotoxicidade com ratos após a
+administração oral de azitromicina. Em ratos, uma posologia de azitromicina entre 100 e 200 mg/kg de
+peso corporal/dia produziu ligeiros atrasos no desenvolvimento ósseo fetal e no aumento do peso
+corporal da mãe. Estudos peri- e pós-natais em ratos, mostraram ligeiros atrasos após a administração
+de 50 mg/kg/dia de azitromicina.
+
+6.     INFORMAÇÕES FARMACÊUTICAS
+
+6.1.   Lista dos excipientes
+
+Ácido cítrico mono-hidratado
+Hidróxido de sódio NF
+Hidróxido de sódio 30% (ajuste de pH)
+
+6.2    Incompatibilidades
+
+A solução reconstituída de Azitromicina Altan pode ser diluída de acordo com as instruções e soluções
+para perfusão compatíveis, indicadas na secção 6.6. Não devem ser adicionadas a Azitromicina Altan
+outras substâncias intravenosas, aditivos ou medicamentos, nem administrados simultaneamente por
+perfusão através da mesma linha intravenosa.
+
+6.3    Prazo de validade
+
+24 meses.
+Recomenda-se a utilização imediata da solução concentrada reconstituída de Azitromicina Altan 500
+mg, pó para solução para perfusão (de acordo com a secção 6.6) ou armazenar entre 2ºC e 8ºC durante
+não mais de 24 horas.
+
+Após reconstituição com água para injetáveis (100 mg/ml), a estabilidade química e física em uso foi
+demonstrada durante 24 horas a 2 - 8ºC.
+
+Após reconstituição com água para injetáveis e subsequente diluição (1 mg/ml; 2 mg/ml), a
+estabilidade química e física em uso foi demonstrada durante 3 horas a 20 °C para a diluição de 1
+mg/ml e 1 hora a 20 ºC para a diluição de 2 mg/ml.
+
+Do ponto de vista microbiológico, a menos que o método de abertura/reconstituição/diluição exclua o
+risco de contaminação microbiana, o produto deve ser utilizado imediatamente. Se não for utilizado
+imediatamente, o tempo e condições de conservação em uso antes da utilização são da
+responsabilidade do utilizador e não seriam superiores aos tempos acima indicados para a estabilidade
+química e física em uso, o que for mais curto.
+6.4   Precauções especiais de conservação
+
+A solução concentrada reconstituída deve ser utilizada de imediato ou pode ser armazenada entre 2 a
+8°C por um período não superior a 24 horas.
+
+6.5   Natureza e conteúdo do recipiente
+
+Azitromicina Altan 500 mg, pó para solução para perfusão é apresentada em 1 frasco ou 5 frascos de
+vidro tipo I incolor de 10 mL equipado com uma rolha de borracha butílica, fechado por uma cápsula
+flip-off de alumínio com tampa branca.
+
+6.6   Precauções especiais de eliminação e manuseamento
+
+Qualquer produto não utilizado ou material que tenha estado em contacto com este devem ser
+eliminados de acordo com as exigências locais.
+
+A Azitromicina Altan 500 mg, pó para solução para perfusão é fornecida em frascos de dose única.
+
+A Azitromicina Altan 500 mg, pó para solução para perfusão é administrada por perfusão intravenosa
+após reconstituição e diluição.
+
+Instruções para reconstituição e diluição do medicamento antes de administrar:
+
+Reconstituição:
+A preparação inicial de Azitromicina Altan 500 mg, pó para solução para perfusão é efetuada por
+adição de 4,8 mL de água para injetáveis ao frasco de 500 mg com agitação até que todo o pó seja
+dissolvido. Recomenda-se a utilização de uma seringa padrão de 5 ml (não-automatizada) de modo a
+garantir a adição exata de 4,8 mL de água para injetáveis. Cada mL de solução reconstituída deve
+conter 100 mg de azitromicina (100 mg/mL).
+
+Os medicamentos de administração parentérica devem ser inspecionados visualmente para deteção de
+partículas em suspensão antes da administração; neste caso, sendo evidente no líquido reconstituído, a
+solução deve ser rejeitada.
+
+Destinado apenas para uma única utilização. Deitar fora qualquer solução não utilizada.
+
+Diluir a solução antes da administração, conforme indicado abaixo.
+
+Diluição:
+Para alcançar uma concentração entre 1,0 mg/mL a 2,0 mg/mL de azitromicina, transferir 5 mL da
+solução de azitromicina a 100 mg/mL para a quantidade apropriada de qualquer um dos solventes
+listados nesta secção. As quantidades de diluente são indicadas abaixo:
+
+  Concentração final da solução                                             Tempo de perfusão
+                                    Quantidade de solvente (mL)
+    para perfusão (mg/mL)                                                     recomendado
+          1,0 mg/mL                            500 mL                            3 horas
+          2,0 mg/mL                            250 mL                            1 hora
+
+A solução reconstituída pode ser diluída com:
+Cloreto de sódio a 0,9%
+Cloreto de sódio a 0,45 %
+Dextrose a 5% em água
+Solução de lactato de Ringer
+Dextrose a 5% em cloreto de sódio a 0,45% com 20mEq de KCI
+Dextrose a 5% em solução de lactato de Ringer
+Dextrose a 5% em cloreto de sódio a 0,3%
+Dextrose a 5% em cloreto de sódio a 0,45%.
+
+Após a diluição, a solução não utilizada deve ser rejeitada.
+
+Concentrações superiores a 2 mg/mL não devem ser usadas e o tempo de perfusão recomendado deve
+ser respeitado.
+
+Azitromicina Altan 500 mg, pó para solução para perfusão não deve ser administrado em bólus
+ou injeção intramuscular.
+
+
+7.    TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Altan Pharmaceuticals, S.A.
+Cólquide 6, Portal 2, 1ª planta. Edificio Prisma. Oficina F
+28230 Las Rozas (Madrid)
+Espanha
+
+8.    NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+5859863
+
+9.    DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+      INTRODUÇÃO NO MERCADO
+
+28/06/2023
+
+10.     DATA DA REVISÃO DO TEXTO
+
+11/08/2023
+

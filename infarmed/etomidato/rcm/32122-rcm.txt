@@ -1,0 +1,533 @@
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+
+1. NOME DO MEDICAMENTO
+
+Etomidato-Lipuro, 2 mg/ml, emulsão injetável
+
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+ 1 ml de emulsão injetável contém                       2 mg de etomidato
+10 ml de emulsão injetável (= 1 ampola) contêm         20 mg de etomidato
+
+Excipiente(s) com efeito conhecido:
+
+Uma ampola (10 ml) de emulsão injetável contém:
+Óleo de soja refinado                        1,0 g
+Sódio (sob a forma de oleato de sódio)       0,23 mg
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+3. FORMA FARMACÊUTICA
+
+Emulsão injetável.
+Emulsão de óleo em água, de cor branca leitosa.
+pH    6,0-8,5
+
+
+4. INFORMAÇÕES CLÍNICAS
+
+4.1 Indicações terapêuticas
+
+Etomidato-Lipuro 2mg/ml está indicado para a indução de anestesia geral em adultos, bebés,
+crianças com mais de 6 meses, crianças e adolescentes.
+
+4.2 Posologia e modo de administração
+
+Posologia
+
+Em todos os doentes, a dosagem deve ser ajustada de acordo com a resposta individual e o efeito
+clínico.
+
+Deverão ser seguidas as seguintes orientações de dosagem:
+
+Adultos e adolescentes
+Regra geral, a dose hipnótica eficaz é de 0,3 mg de etomidato por kg de peso corporal, que
+corresponde a 0,15 ml de Etomidato-Lipuro 2mg/ml por kg de peso corporal.
+Dessa forma, num doente adulto, uma ampola é geralmente suficiente para um sono com duração
+de 4-5 min.
+A hipnose pode ser prolongada através de injeções adicionais de Etomidato-Lipuro 2mg/ml.
+Não exceder a quantidade total de 3 ampolas (30 ml).
+
+População pediátrica
+
+Em crianças com menos de 15 anos, a dosagem poderá ter de ser aumentada: uma dose
+suplementar de até 30% da dose normal para adultos é ocasionalmente necessária para obter a
+mesma profundidade e duração de sono obtida em adultos.
+
+Doentes idosos
+
+Aos doentes idosos deve ser administrada uma dose única de 0,15 a 0,2 mg de etomidato por kg
+de peso corporal e a dose deverá ser seguidamente ajustada de acordo com os efeitos (ver secção
+4.4).
+
+Outros grupos especiais de doentes
+
+A dose deverá ser reduzida em doentes com cirrose hepática ou naqueles que tenham já recebido
+medicação neuroléptica, opiáceos ou sedativos.
+
+Modo de administração
+
+Via intravenosa
+
+Etomidato-Lipuro 2mg/ml deve ser injetado exclusivamente por via intravenosa e de forma lenta,
+normalmente ao longo de aproximadamente 30 segundos, se necessário em frações.
+
+Deverá evitar-se a injeção intra-arterial. A injeção paravenosa causa dor local grave.
+
+O uso de analgésicos narcóticos ou diazepam como pré-medicação e durante a cirurgia irá reduzir
+os movimentos musculares espontâneos não controlados (mioclonia) evidenciados por alguns
+doentes após a administração de Etomidato-Lipuro 2mg/ml (ver secções 4.4 e 5.1).
+
+Uma vez que o etomidato não tem efeito analgésico, recomenda-se a administração de um
+opióide adequado (p. ex. fentanilo por via intravenosa 1-2 min antes da injeção de Etomidato-
+Lipuro (ver secções 4.4 e 5.1).
+
+O medicamento deve apenas ser utilizado por médicos treinados em intubação endotraqueal.
+Deve estar disponível equipamento para respiração artificial (ver secção 4.4).
+
+4.3 Contraindicações
+
+Hipersensibilidade ao etomidato, à soja, ao amendoim ou a qualquer um dos excipientes
+mencionados na secção 6.1 (ver também a secção 4.8).
+
+Os recém-nascidos e bebés até à idade de 6 meses devem ser excluídos do tratamento com
+Etomidato-Lipuro 2mg/ml, exceto em casos de indicações imperativas durante o tratamento de
+doentes internados.
+
+4.4 Advertências e precauções especiais de utilização
+
+Advertências especiais
+A injeção de Etomidato-Lipuro 2mg/ml deve apenas ser administrada por via intravenosa.
+
+A indução com Etomidato-Lipuro 2mg/ml pode ser acompanhada por uma queda ligeira e
+passageira na tensão arterial devido a uma redução da resistência vascular periférica
+(especialmente após uma administração prévia de droperidol). Em doentes debilitados em que a
+hipotensão pode ser perigosa, devem ser tomadas as seguintes medidas:
+Antes da indução, deve obter-se acesso intravenoso para a gestão do volume de sangue circulante.
+Tanto quanto possível devem ser evitados outros indutores.
+A indução deve ser levada a cabo com o doente em posição supina.
+O medicamento deve ser injetado lentamente (p. ex. 10 ml em 1 minuto).
+
+O etomidato inibe a biossíntese adrenocortical de esteroides. Doses únicas de indução de
+etomidato podem levar a insuficiência suprarrenal transitória e a diminuição dos níveis séricos de
+cortisol (ver secção 5.1 Propriedades farmacodinâmicas). Quando o etomidato é utilizado para
+indução, o aumento do nível pós-operatório de cortisol sérico observado após a indução por
+tiopentona é retardado por aproximadamente 3-6 horas (ver secção 5.1).
+
+Quando existem reservas em doentes que sofrem de stress grave, particularmente aqueles com
+disfunção adrenocortical, deve ser considerada a suplementação com cortisol exógeno (p. ex.
+50-100 mg de hidrocortisona). Nessas situações, a estimulação da glândula suprarrenal com
+ACTH não é útil.
+
+A supressão prolongada do cortisol e aldosterona endógenos pode surgir como consequência
+direta do etomidato quando administrado por perfusão contínua ou em doses repetidas. A
+utilização de etomidato para a manutenção da anestesia deverá assim ser evitada. Nessas
+situações, a estimulação da glândula suprarrenal com ACTH não é útil.
+
+Etomidato deve ser utilizado com precaução em doentes em estado crítico, incluindo doentes com
+sépsis.
+
+A dose de etomidato deverá ser reduzida em doentes com cirrose hepática, ou naqueles que
+tenham já recebido medicação neuroléptica, opiáceos ou sedativos.
+
+Podem surgir movimentos espontâneos em um ou mais grupos de músculos, particularmente
+quando não foi administrada qualquer pré-medicação (ver também secção 4.8). Estes movimentos
+têm sido atribuídos à desinibição subcortical (ver secção 5.1). Podem ser prevenidos em grande
+medida pela administração intravenosa de pequenas doses de fentanilo, com droperidol ou
+diazepam 1-2 min antes da indução com Etomidato-Lipuro (ver também secção 4.2).
+
+Observa-se mioclonia e dor no local de injeção, que habitualmente é ligeira, durante a
+administração de Etomidato-Lipuro, especialmente quanto é injetado sem ser diluído numa veia
+pequena. Tal pode ser evitado em grande medida pela administração intravenosa de uma dose
+pequena de opióides adequados, p. ex. fentanilo, 1 a 2 minutos antes da indução. Para minimizar
+o risco de dor local, devem ser utilizadas veias maiores.
+
+Etomidato-Lipuro deve ser utilizado com cuidado em doentes idosos, uma vez que existe o
+potencial para a diminuição do débito cardíaco, que foi relatado em doses superiores às
+recomendadas (ver secção 4.2).
+Em experiências em animais, foi demonstrado que Etomidato-Lipuro possui um potencial
+porfirogénico. Assim, não deverá ser administrado a doentes com perturbações hereditárias da
+biossíntese do grupo heme, a menos que não exista outra alternativa segura.
+
+Precauções de utilização
+
+Uma vez que Etomidato-Lipuro não possui ação analgésica, deverão ser utilizados analgésicos
+adequados durante os procedimentos cirúrgicos. Se utilizado para narcose de curta duração,
+deverá ser administrado um analgésico potente, p. ex. fentanilo, antes ou simultaneamente com
+Etomidato-Lipuro (ver secção 4.2). Também deve ser prestada atenção às instruções dadas nas
+secções 4.5 e 6.6.
+
+Etomidato-Lipuro apenas deve ser utilizado por um médico habilitado a executar intubação
+endotraqueal.
+
+Quando se utiliza Etomidato-Lipuro, deve estar disponível equipamento de reanimação, de forma
+a lidar com a depressão respiratória e possibilidade de apneia.
+
+Etomidato-Lipuro contém menos do que 1 mmol (23 mg) de sódio (sob a forma de oleato de
+sódio) por ampola, ou seja, é praticamente "isento de sódio".
+
+4.5 Interações medicamentosas e outras formas de interação
+O efeito hipnótico do etomidato pode ser potenciado por:
+medicamentos neurolépticos
+opióides
+sedativos
+álcool.
+
+A indução com etomidato pode ser acompanhada de uma redução na resistência vascular
+periférica ligeira e passageira que pode potenciar o efeito de outros medicamentos que reduzem a
+pressão arterial.
+
+Alfentanilo
+Foi relatado que a administração concomitante de etomidato com alfentanilo diminui a semivida
+terminal do etomidato para aproximadamente 29 minutos. Deverão ser tomadas precauções
+quando forem utilizados ambos os medicamentos juntamente, uma vez que a concentração de
+etomidato pode descer abaixo do limiar de hipnose.
+
+Fentanilo
+A depuração total do plasma e o volume de distribuição do etomidato é diminuída em 2 a 3 vezes,
+sem uma redução na semivida quando administrado com fentanilo por via intravenosa. Quando o
+etomidato é administrado concomitantemente com fentanilo por via intravenosa, poderá ser
+necessário reduzir a dose.
+
+Cetamina
+A administração concomitante de etomidato e cetamina não aparenta ter efeitos significativos nas
+concentrações plasmáticas ou nos parâmetros farmacocinéticos da cetamina ou do seu principal
+metabolito, norcetamina.
+
+Bloqueadores neuronais adrenérgicos, bloqueadores alfa
+A associação com anestésicos gerais conduz a uma potenciação do efeito hipotensor destas
+substâncias.
+
+Bloqueadores dos canais de cálcio (Verapamil, Diltiazem)
+A associação com anestésicos gerais resulta numa potenciação do efeito hipotensor, bem como
+em atraso da condução AV.
+
+Inibidores da Monoamina oxidase (IMAO)
+Devido às interações perigosas entre anestésicos gerais e IMAO, estes devem normalmente ser
+interrompidos 2 semanas antes da intervenção cirúrgica.
+
+4.6 Fertilidade, gravidez e aleitamento
+
+Gravidez
+
+Não foi ainda estabelecida a segurança da utilização de Etomidato-Lipuro durante a gravidez. Os
+estudos em animais revelaram toxicidade reprodutiva (ver secção 5.3). Foi observada uma
+diminuição na taxa de sobrevivência a doses tóxicas durante a gravidez em ratos.
+Etomidato-Lipuro apenas deve ser utilizado durante a gravidez se o benefício potencial justificar
+os riscos para o feto.
+Durante a anestesia obstétrica, o etomidato pode atravessar a placenta. Os índices Apgar de
+recém-nascidos a cujas mães foi administrado etomidato são comparáveis aos dos bebés nascidos
+após a utilização de outros hipnóticos.
+Foi observada uma redução temporária nos níveis de cortisol, com uma duração de
+aproximadamente 6 horas, em recém-nascidos após administração de etomidato à mãe. Os valores
+diminuídos mantiveram-se dentro dos parâmetros normais.
+
+Amamentação
+
+O etomidato é excretado no leite humano. Devem ser tomadas precauções quando Etomidato-
+Lipuro 2 mg/ml é administrado a mães em amamentação.
+Se tiver de ser administrado Etomidato-Lipuro durante o período de amamentação, esta deve ser
+interrompida e não retomada durante 24 horas após a administração; o leite materno secretado
+durante este período deve ser eliminado.
+
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos do etomidato sobre a capacidade de conduzir e utilizar máquinas são consideráveis.
+Não se recomenda a utilização de máquinas potencialmente perigosas ou a condução de veículos
+durante as primeiras 24 horas após a administração.
+O regresso ao nível de alerta normal pode variar de acordo com a duração da operação, a dose
+total de etomidato administrada e a medicação utilizada de forma concomitante. Assim, a decisão
+de permitir a condução ou utilização pós-operatória de máquinas deve ser o resultado de uma
+avaliação a ser levada a cabo pela equipa de tratamento pós-anestesia.
+
+4.8 Efeitos indesejáveis
+
+Tal como a maioria dos anestésicos gerais, o etomidato pode afetar as funções respiratórias e
+vasculares. Tal como outros anestésicos gerais, o etomidato pode causar movimentos musculares
+involuntários. Para além disso, o etomidato afeta frequentemente as funções adrenocorticais.
+Os efeitos indesejáveis estão indicados de acordo com as suas frequências da seguinte forma:
+Muito frequentes (≥ 1/10)
+Frequentes (≥ 1/100, < 1/10)
+Pouco frequentes (≥ 1/1.000, < 1/100)
+Raros (≥ 1/10.000, < 1/1.000)
+Muito raros (< 1/10.000)
+Desconhecido (não pode ser calculado a partir dos dados disponíveis)
+                                              Reações Adversas Medicamentosas
+                                                  Categoria de Frequência
+                      Muito           Frequentes        Pouco          Raros               Desconhecido
+Classes de sistemas
+                    Frequentes         (1/100),      Frequentes    (≥1/10.000,            (não pode ser
+de órgãos
+                     (1/10)            <1/10)        (1/1.000,     <1/1.000)           calculado a partir
+                                                       <1/100)                                dos dados
+                                                                                            disponíveis)
+                                                                                        Hipersensibilidade1
+                                                                                         (tal como choque
+Doenças do sistema
+                                                                                        anafilático, reação
+imunitário
+                                                                                        anafilática, reação
+                                                                                           anafilactóide)
+Doenças               Diminuição                                                            Insuficiência
+endócrinas            de cortisol                                                            suprarrenal
+                                                        Hipertonia,
+                                                        Contrações                          Convulsão
+Doenças do sistema                                      musculares                          (incluindo
+                   Discinesia          Mioclonia
+nervoso                                               involuntárias,                        convulsão
+                                                        Nistagmo,                         tonicoclónica)
+                                                         Calafrios
+                                                       Bradicardia,                     Paragem cardíaca,
+                                                      Extrassístoles,                        Bloqueio
+Cardiopatias
+                                                      Extrassístoles                     atrioventricular
+                                                       ventriculares                         completo
+Vasculopatias                         Hipotensão       Hipertensão                           Choque
+                                                                        Laringospasmo        Depressão
+Doenças
+                                       Apneia2,                                             respiratória2,
+respiratórias,                                       Hipoventilação,
+                                    Hiperventilação,                                       Broncospasmo
+torácicas e do                                       Soluços, Tosse
+                                       Estridor                                         (incluindo desfecho
+mediastino
+                                                                                                fatal)
+Doenças                                Vómitos,       Hipersecreção
+gastrointestinais                       Náusea           salivar
+Afeções dos tecidos                                                                        Síndrome de
+cutâneos e                          Erupção cutânea      Eritema                         Stevens-Johnson,
+subcutâneos                                                                                  Urticária
+Afeções
+musculosqueléticas                                       Rigidez
+                                                                                              Trismo
+e dos tecidos                                            muscular
+conjuntivos
+Perturbações gerais
+e alterações no                                       Dor no local de
+local de                                                 injeção
+administração
+Complicações de                                        Complicação
+intervenções                                            anestésica,
+relacionadas com                                       Recuperação
+lesões e                                               demorada da
+intoxicações                                            anestesia,
+                                         Reações Adversas Medicamentosas
+                                             Categoria de Frequência
+                      Muito      Frequentes        Pouco          Raros           Desconhecido
+Classes de sistemas
+                    Frequentes    (1/100),      Frequentes    (≥1/10.000,         (não pode ser
+de órgãos
+                     (1/10)       <1/10)        (1/1.000,     <1/1.000)        calculado a partir
+                                                  <1/100)                            dos dados
+                                                                                    disponíveis)
+                                                  Analgesia
+                                                inadequada,
+                                               Náusea devido a
+                                                 intervenção
+
+   Foi observada libertação de histamina após a administração de etomidato.
+   Etomidato-Lipuro contém óleo de soja, que pode causar reações alérgicas graves muito
+   raramente.
+   A depressão respiratória e apneia podem ocorrer especialmente após a administração de doses
+   mais elevadas de etomidato em associação com medicamentos depressores centrais. Em doentes
+   com 55 anos de idade ou mais, pode ocorrer depressão respiratória e apneia especialmente após
+   doses que excedam a dose máxima recomendada de 0,2 mg de etomidato por kg de peso corporal.
+
+   Notificação de suspeitas de reações adversas
+   A notificação de suspeitas de reações adversas após a autorização do medicamento é importante,
+   uma vez que permite uma monitorização contínua da relação benefício-risco do medicamento.
+   Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas
+   diretamente ao INFARMED, I.P.:
+
+   INFARMED, I.P.
+   Direção de Gestão do Risco de Medicamentos
+   Parque da Saúde de Lisboa, Av. Brasil 53
+   1749-004 Lisboa
+   Tel: +351 21 798 73 73
+   Linha do Medicamento: 800222444 (gratuita)
+   Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+   E-mail: farmacovigilancia@infarmed.pt
+
+   4.9 Sobredosagem
+
+   Sintomas
+
+   Uma sobredosagem de etomidato, administrada como bolus, aprofunda o sono e pode causar
+   depressão respiratória e mesmo paragem respiratória, sendo obrigatório o suporte respiratório
+   adequado nesses casos.
+   Também foi observada hipotensão nesses casos.
+   A sobredosagem pode deprimir a secreção cortical. Tal pode estar associado a desorientação e
+   atraso no acordar.
+
+   Tratamento
+
+   O tratamento depende da natureza e gravidade dos sintomas, incluindo se necessário, suporte
+   respiratório.
+Para além das medidas de suporte (p. ex. de respiração), pode ser necessária a administração de
+50-100 mg de hidrocortisona (não ACTH).
+Deve estar disponível todo o equipamento e medicação habitualmente utilizada em
+procedimentos de anestesia geral.
+
+
+5. PROPRIEDADES FARMACOLÓGICAS
+
+5.1 Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 2.1. Outros anestésicos gerais, código ATC: N01AX07.
+
+Mecanismo de ação, efeitos farmacodinâmicos
+
+O efeito do etomidato inicia-se rapidamente e a duração do efeito hipnótico é curta, como
+resultado da redistribuição e inativação metabólica. Uma dose única de 0,3 mg/kg de peso
+corporal resulta em perda de consciência em 30-60 segundos e em narcose com uma duração de
+3-5 minutos, seguida de sono.
+
+Outros efeitos farmacológicos
+
+O etomidato suprime a função do córtex suprarrenal. O etomidato inibe a produção de cortisol
+pelas células adrenais, ao bloquear de forma reversível a enzima de síntese de esteroides 11-β-
+hidroxilase. A supressão de cortisol é não respondente a ACTH e dura até 8 h após a
+administração de uma dose única de 0,3 mg/kg de etomidato. A inibição da síntese de cortisol é
+reversível e depende da concentração de etomidato no plasma.
+
+As contrações musculares involuntárias observadas após a administração de etomidato resultam
+da desinibição das excitações diencefálicas fisiológicas, semelhantes à mioclonia durante o sono
+fisiológico.
+
+Existem relatos de que o etomidato possui propriedades anticonvulsivas e um efeito protetor nas
+células cerebrais contra danos por hipóxia.
+
+Uma vez que o etomidato não tem qualquer efeito analgésico, é necessária a administração
+concomitante de analgésicos para todos os procedimentos cirúrgicos.
+
+5.2 Propriedades farmacocinéticas
+
+Absorção
+Uma vez que Etomidato-Lipuro é administrado por via intravenosa a sua biodisponibilidade é de
+100%.
+
+Distribuição
+O etomidato separa-se rapidamente das partículas de óleo após a injeção. Isto reflete-se na
+concentração plasmática de etomidato, que é comparável à da formulação aquosa.
+A ligação do etomidato às proteínas plasmáticas (principalmente à albumina) é de cerca de 75%,
+sendo reduzida em caso de disfunção renal ou danos crónicos no fígado.
+O etomidato é rapidamente distribuído para o cérebro e outros tecidos.
+O volume total de distribuição é de cerca de 4,5 l/kg.
+A distribuição rápida a partir do compartimento central para um compartimento periférico e um
+compartimento periférico mais profundo, bem como uma taxa de eliminação elevada, fazem com
+que a concentração plasmática caia rapidamente durante cerca de 30 minutos após uma única
+administração. Seguidamente, a concentração plasmática diminui de forma mais lenta.
+
+Biotransformação e eliminação
+O passo principal da biotransformação é a hidrólise do éster etílico no fígado. Uma pequena
+proporção está também sujeita a N-desalquilação oxidativa. Todos os metabolitos descobertos são
+farmacologicamente inativos.
+A semivida de eliminação é relativamente longa (semivida de eliminação terminal de 2-5 horas)
+apesar de uma alta taxa de extração hepática devido à redistribuição lenta do etomidato a partir do
+compartimento periférico mais profundo.
+Cerca de 75% da dose de etomidato administrada surge na urina no espaço de 24 horas,
+principalmente sob a forma de metabolitos. As outras vias de excreção desempenham um papel
+menor.
+O principal metabolito na urina (cerca de 80%) é o produto da hidrólise do etomidato,
+nomeadamente o ácido R-(+)-1-(-metilbenzilo)-5-imidazolcarboxílico. Apenas 2% do etomidato
+é excretado na urina inalterado.
+A semivida das partículas lipídicas é curta.
+Não foi observada acumulação.
+
+5.3 Dados de segurança pré-clínica
+
+Os estudos publicados realizados em animais (incluindo primatas), com doses que induzem uma
+anestesia ligeira a moderada, demonstram que o uso de anestésicos durante o período de
+crescimento cerebral rápido ou de sinaptogénese resulta em perda celular no cérebro em
+desenvolvimento, o que pode estar associado a deficiências cognitivas prolongadas. Não é
+conhecida a relevância clínica destes dados não clínicos.
+
+
+6. INFORMAÇÕES FARMACÊUTICAS
+
+6.1 Lista dos excipientes
+
+Óleo de soja refinado,
+Triglicéridos de cadeia média,
+Glicerol,
+Lecitina de ovo,
+Oleato de sódio,
+Água para preparações injetáveis.
+
+6.2 Incompatibilidades
+
+Etomidato-Lipuro não deve ser misturado com outros medicamentos.
+
+6.3 Prazo de validade
+
+Fechado
+2 anos
+
+Após a primeira abertura
+A ser utilizado imediatamente, ver secção 6.6.
+
+Após a reconstituição / diluição
+não aplicável
+
+6.4 Precauções especiais de conservação
+
+Não congelar.
+Manter as ampolas dentro da embalagem exterior para proteger da luz.
+
+Condições de conservação do medicamento após primeira abertura, ver secção 6.3.
+
+
+6.5 Natureza e conteúdo do recipiente
+
+O medicamento é fornecido em ampolas de vidro incolor (vidro tipo I, Farm. Eur.) de 10 ml
+Apresentações: embalagens de 10 ampolas
+
+6.6 Precauções especiais de eliminação e manuseamento
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as
+exigências locais.
+
+As ampolas devem ser agitadas antes da utilização de forma a assegurar uma distribuição
+homogénea. Apenas deve ser utilizada se a emulsão for homogénea e de cor branca leitosa após
+agitação. Se forem observadas duas camadas após agitação, a ampola não deve ser utilizada.
+
+Não deve ser utilizado se a ampola evidenciar sinais de danos.
+
+Etomidato-Lipuro 2 mg/ml não contém conservantes antimicrobianos. Após a abertura da ampola
+a emulsão tem de ser recolhida com uma seringa sob condições assépticas e injetada
+imediatamente, uma vez que as emulsões de lípidos promovem o crescimento microbiano. Os
+resíduos não utilizados devem ser eliminados.
+
+Os medicamentos a ser administrados concomitantemente com Etomidato-Lipuro 2 mg/ml, p. ex.
+um analgésico, devem ser administrados consecutivamente através da mesma linha ou através de
+cânulas venosas separadas.
+
+Etomidato-Lipuro 2 mg/ml pode ser injetado no tubo de uma perfusão de cloreto de sódio
+isotónico, que tenha sido temporariamente interrompida.
+
+
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+B. Braun Medical, Unipessoal Lda.
+Estrada Consiglieri Pedroso, 80 – Queluz de Baixo Barcarena
+2730-053 Barcarena,
+Portugal
+8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Nº de Registo: 3790680 – Ampola de vidro Tipo I – 10 ml – 10 unidades
+
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 09 de novembro de 2001
+Data da última renovação: 14 de dezembro de 2015
+
+
+10. DATA DA REVISÃO DO TEXTO
+
+08/2021
+

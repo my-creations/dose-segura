@@ -1,0 +1,31 @@
+{
+  "medId": "ertapenem",
+  "searchTerm": "ertapenem",
+  "retrievedAt": "2026-02-08T22:24:46.318Z",
+  "bestMatch": {
+    "infarmedId": "609143",
+    "name": "Ertapenem GenerisMG",
+    "dci": "Ertapenem",
+    "form": "Pó para concentrado para solução para perfusão",
+    "dosage": "1000 mg",
+    "holder": "Eugia Pharma (Malta) Limited",
+    "isGeneric": false,
+    "score": 170
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/609143-rcm.pdf",
+      "size": 808849
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/609143-fi.pdf",
+      "size": 529025
+    }
+  }
+}

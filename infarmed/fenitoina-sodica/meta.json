@@ -1,0 +1,15 @@
+{
+  "bestMatch": {
+    "infarmedId": "30691",
+    "medicationName": "Fenitoína GenerisMG",
+    "dci": "Fenitoína",
+    "form": "Solução injetável",
+    "dosage": "250 mg/5 ml",
+    "holder": "Eugia Pharma (Malta) Limited",
+    "searchTerm": "fenitoina"
+  },
+  "documents": {
+    "rcm": "rcm/30691-rcm.pdf",
+    "fi": "fi/30691-fi.pdf"
+  }
+}

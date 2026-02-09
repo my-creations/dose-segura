@@ -1,0 +1,15 @@
+{
+  "bestMatch": {
+    "infarmedId": "4764",
+    "medicationName": "Kanakion Mm",
+    "dci": "Fitomenadiona",
+    "form": "Solução injetável",
+    "dosage": "10 mg/1 ml",
+    "holder": "Cheplapharm Arzneimittel GmbH",
+    "searchTerm": "fitomenadiona"
+  },
+  "documents": {
+    "rcm": "rcm/4764-rcm.pdf",
+    "fi": "fi/4764-fi.pdf"
+  }
+}

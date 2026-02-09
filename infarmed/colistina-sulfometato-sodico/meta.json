@@ -1,0 +1,15 @@
+{
+  "bestMatch": {
+    "infarmedId": "613962",
+    "medicationName": "Colistimetato AccordMG",
+    "dci": "Colistimetato de sódio",
+    "form": "Pó para solução injetável ou para solução para inalação por nebulização",
+    "dosage": "1000000 U.I.",
+    "holder": "Accord Healthcare, S.L.U.",
+    "searchTerm": "colistimetato"
+  },
+  "documents": {
+    "rcm": "rcm/613962-rcm.pdf",
+    "fi": "fi/613962-fi.pdf"
+  }
+}

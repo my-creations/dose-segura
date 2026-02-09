@@ -1,0 +1,31 @@
+{
+  "medId": "labetalol-cloridrato",
+  "searchTerm": "labetalol",
+  "retrievedAt": "2026-02-09T00:43:19.008Z",
+  "bestMatch": {
+    "infarmedId": "632442",
+    "name": "Labetalol PharmakernMG",
+    "dci": "Labetalol",
+    "form": "Solução injetável",
+    "dosage": "5 mg/ml",
+    "holder": "Pharmakern Portugal - Produtos Farmacêuticos, Sociedade Unipessoal, Lda.",
+    "isGeneric": false,
+    "score": 170
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/632442-rcm.pdf",
+      "size": 156632
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/632442-fi.pdf",
+      "size": 60443
+    }
+  }
+}

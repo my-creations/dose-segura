@@ -1,0 +1,1074 @@
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+
+1. NOME DO MEDICAMENTO
+
+Levofloxacina Basi 5 mg/ml solução para perfusão
+
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+250 mg de levofloxacina em saco com 50 ml de solução para perfusão.
+500 mg de levofloxacina em saco ou frasco com 100 ml de solução para perfusão.
+Cada ml de solução contém 5 mg de levofloxacina.
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+3. FORMA FARMACÊUTICA
+
+Solução para perfusão.
+
+
+4. INFORMAÇÕES CLÍNICAS
+
+4.1 Indicações terapêuticas
+
+Levofloxacina Basi solução para perfusão está indicado em adultos para o tratamento
+das seguintes infeções (ver secções 4.4 e 5.1):
+
+- Pneumonia adquirida na comunidade
+- Infeções cutâneas e dos tecidos moles complicadas
+Para as infeções previamente indicadas, Levofloxacina Basi deve ser usado apenas
+quando é considerado inadequado o uso de outros agentes antibacterianos
+normalmente recomendados para o tratamento destas infeções.
+- Pielonefrite aguda e infeções do trato urinário complicadas (ver secção 4.4)
+- Prostatite bacteriana crónica
+- Antraz por inalação: profilaxia de pós-exposição e tratamento curativo (ver secção
+4.4)
+Devem ser consideradas as orientações oficiais sobre a utilização apropriada de
+agentes antibacterianos.
+
+4.2 Posologia e modo de administração
+
+Levofloxacina Basi solução para perfusão, é administrado por perfusão intravenosa
+lenta, uma ou duas vezes por dia. A posologia depende do tipo e gravidade da
+infeção e da suscetibilidade do presumível patogéneo causal. O tratamento com
+Levofloxacina Basi após utilização inicial intravenosa, pode ser completado com uma
+apresentação oral apropriada de acordo com o RCM dos comprimidos revestidos por
+película e a situação do doente. Dada a bioequivalência das formas oral e parentérica,
+pode ser usada a mesma posologia.
+
+Posologia
+As seguintes recomendações de dose podem ser utilizadas para o Levofloxacina Basi:
+Posologia em doentes com função renal normal (depuração da creatinina > 50
+ml/min)
+
+Indicação                       Regime posológico diário      Duração        total        do
+                                (de    acordo   com    a      tratamento1
+                                gravidade)                    (de     acordo     com       a
+                                                              gravidade)
+Pneumonia      adquirida    na 500 mg uma ou duas vezes       7 - 14 dias
+comunidade                       por dia
+Pielonefrite aguda               500 mg uma vez por dia        7 - 10 dias
+Infeções complicadas do trato 500 mg uma vez por dia           7 – 14 dias
+urinário
+Prostatite bacteriana crónica    500 mg uma vez por dia        28 dias
+infeções cutâneas e dos 500 mg uma ou duas vezes 7 - 14 dias
+tecidos moles complicadas        por dia
+Antraz por inalação              500 mg uma vez por dia        8 semanas
+1 A duração total do tratamento inclui o tratamento por via intravenosa e por via oral.
+O tempo para passagem do tratamento por via intravenosa para o tratamento por
+via oral depende da situação clínica, mas normalmente é 2 a 4 dias.
+
+Populações especiais
+
+Compromisso da função renal (depuração da creatinina £ 50 ml/min)
+
+                         Posologia
+ Depuração          da   250 mg/24 h           500 mg/24 h             500 mg/12 h
+ creatinina              primeira dose: 250    primeira dose: 500      primeira dose: 500
+                         mg                    mg                      mg
+ 50 - 20 ml/min          em seguida:           em seguida:             em seguida:
+                         125 mg/24 h           250 mg/24 h             250 mg/12 h
+ 19 - 10 ml/min          em seguida:           em seguida:             em seguida:
+                         125 mg/48 h           125 mg/24 h             125 mg/12 h
+ <10           ml/min    em seguida:           em seguida:             em seguida:
+ (incluindo              125 mg/48 h           125 mg/24 h             125 mg/24 h
+ hemodiálise         e
+ DPAC)1
+1 Não são necessárias doses adicionais após hemodiálise ou diálise peritoneal
+ambulatória contínua (DPAC).
+
+Compromisso da função hepática
+
+Não é necessário ajuste da dose dado que a levofloxacina não é metabolizada em
+quantidade relevante pelo fígado e é principalmente excretada pelos rins.
+
+População idosa
+
+Não é necessário ajuste da dose em idosos, exceto o que se impuser em face da
+função renal (ver secção 4.4 “Tendinite e rutura de tendões” e “Prolongamento do
+intervalo QT”).
+População pediátrica
+O Levofloxacina Basi está contraindicado em crianças e adolescentes em crescimento
+(ver secção 4.3).
+
+Modo de administração
+
+Levofloxacina Basi, solução para perfusão, destina-se apenas à perfusão intravenosa
+lenta e é administrado uma ou duas vezes por dia. O tempo de perfusão deve ser de,
+pelo menos, 30 minutos para 250 mg ou 60 minutos para 500 mg de Levofloxacina
+Basi, solução para perfusão (ver secção 4.4).
+
+Para incompatibilidades ver secção 6.2 e compatibilidade com outras soluções para
+perfusão ver secção 6.6.
+
+4.3 Contraindicações
+
+A solução para perfusão de levofloxacina não deve ser usada:
+
+- em doentes com hipersensibilidade à levofloxacina, outras quinolonas ou a
+qualquer dos excipientes mencionados na secção 6.1,
+- em doentes com epilepsia,
+- em doentes com história de distúrbios tendinosos relacionados com a
+administração de fluoroquinolonas,
+- em crianças e adolescentes em crescimento,
+- durante a gravidez,
+- em mulheres que amamentam.
+
+4.4 Advertências e precauções especiais de utilização
+
+O uso de levofloxacina deverá ser evitada em doentes que tenham tido reações
+adversas graves no passado ao utilizar medicamentos que contêm quinolona ou
+fluoroquinolona (ver secção 4.8). O tratamento destes doentes com levofloxacina só
+deverá ser iniciado na ausência de opções de tratamento alternativas e após uma
+avaliação cuidadosa do benefício/risco- (ver também secção 4.3).
+
+Aneurisma e dissecção da aorta, e regurgitação/insuficiência da válvula cardíaca
+
+Estudos epidemiológicos relatam um aumento do risco de aneurisma e dissecção da
+aorta, particularmente nos doentes idosos, e de regurgitação da válvula mitral e
+aórtica após a toma de fluoroquinolonas. Foram notificados casos de aneurisma e
+dissecção da aorta, por vezes complicados por rutura (incluindo casos fatais), e de
+regurgitação/insuficiência de qualquer uma das válvulas cardíacas em doentes que
+receberam fluoroquinolonas (ver secção 4.8).
+
+Portanto, as fluoroquinolonas devem ser utilizadas apenas após avaliação cuidadosa
+do benefício-risco e após consideração de outras opções terapêuticas em doentes
+com história familiar positiva de aneurisma ou doença congénita das válvulas
+cardíacas, ou em doentes diagnosticados com aneurisma aórtico pré-existente e/ou
+dissecção aórtica ou doença das válvulas cardíacas, ou na presença de outros fatores
+de risco ou condições predisponentes
+
+- para ambos aneurisma e dissecção da aorta e regurgitação/insuficiência da válvula
+cardíaca (por ex., doenças do tecido conjuntivo, tais como síndrome de Marfan ou
+síndrome de Ehlers-Danlos, síndrome de Turner, doença de Behçet, hipertensão,
+artrite reumatoide) ou adicionalmente
+- para aneurisma e dissecção da aorta (por ex., vasculopatias, tais como arterite de
+Takayasu ou arterite de células gigantes, ou aterosclerose conhecida, ou síndrome
+de Sjögren) ou adicionalmente
+- para regurgitação/insuficiência da válvula cardíaca (por ex., endocardite infeciosa).
+
+O risco de aneurisma e dissecção da aorta, e a sua rutura, pode também estar
+aumentado em doentes tratados concomitantemente com corticosteroides sistémicos.
+
+Em caso de dor súbita abdominal, no peito ou nas costas, os doentes devem ser
+aconselhados a consultar imediatamente um médico num departamento de
+emergência.
+
+Os doentes devem ser aconselhados a procurar cuidados médicos imediatos em caso
+de dispneia aguda, novo aparecimento de palpitações cardíacas ou desenvolvimento
+de edema do abdómen ou das extremidades inferiores.
+
+Os S. aureus resistentes à meticilina (SARM) muito provavelmente possuem
+corresistência às fluoroquinolonas, incluindo à levofloxacina. Deste modo, a
+levofloxacina não está recomendada para o tratamento de infeções suspeitas ou
+conhecidas por SARM, a não ser que os resultados laboratoriais confirmem a
+suscetibilidade do micro-organismo à levofloxacina (e os agentes antibacterianos
+geralmente recomendados para o tratamento de infeções por SARM sejam
+considerados inadequados).
+
+A resistência da E. coli – o patogéneo mais frequentemente envolvido nas infeções
+do trato urinário - às fluoroquinolonas varia na União Europeia. Os prescritores
+devem considerar a prevalência local da resistência da E. coli às fluoroquinolonas.
+
+Antraz por inalação: o uso em humanos é baseado em dados de suscetibilidade in
+vitro do Bacillus anthracis e em dados experimentais em animais conjuntamente com
+dados limitados em humanos. Os médicos devem considerar os documentos
+nacionais e/ou internacionais referentes ao tratamento do antraz.
+Tempo de perfusão
+
+Deve ser respeitado o tempo de perfusão recomendado de pelo menos 30 minutos
+para 250 mg ou 60 minutos para 500 mg da solução para perfusão de Levofloxacina
+Basi. É conhecido que durante a perfusão de ofloxacina se pode desenvolver
+taquicardia e uma diminuição temporária da tensão arterial. Em casos raros, como
+consequência de uma queda acentuada da tensão arterial, pode ocorrer um colapso
+circulatório. Se ocorrer uma queda acentuada durante a perfusão de levofloxacina
+(isómero l da ofloxacina), a perfusão deve ser interrompida imediatamente.
+
+Reações adversas medicamentosas graves, prolongadas, incapacitantes e
+potencialmente irreversíveis
+Foram notificados casos muito raros de reações adversas medicamentosas graves
+prolongadas (que persistem meses ou anos), incapacitantes e potencialmente
+irreversíveis que afetam sistemas de órgãos diferentes, por vezes múltiplos
+(musculoesquelético, nervoso, psiquiátrico e sensorial) em doentes tratados
+quinolonas e fluoroquinolonas, independentemente da sua idade e de fatores de risco
+preexistentes. A levofloxacina deve ser descontinuada imediatamente aos primeiros
+sinais ou sintomas de qualquer reação adversa grave e os doentes deverão ser
+aconselhados a contactar o seu médico para aconselhamento.
+
+Tendinite e rutura de tendão
+
+Poderá ocorrer, em doentes que estejam a receber doses diárias de 1000 mg de
+levofloxacina, tendinite e rutura de tendão (entre outros, mas especialmente, o
+tendão de Aquiles), por vezes bilateral, logo nas 48 horas após o início do
+tratamento com quinolonas e fluoroquinolonas e a sua ocorrência foi notificada até
+vários meses após a descontinuação do tratamento. O risco de tendinite e rutura de
+tendão é maior em doentes mais idosos, doentes com compromisso renal, doentes
+com transplantes de órgãos sólidos e doentes tratados concomitantemente com
+corticosteroides e doentes que estejam a receber doses diárias de 1000 mg. Portanto,
+deve ser evitada a utilização concomitante de corticosteroides.
+
+Ao primeiro sinal de tendinite (por exemplo, edema doloroso, inflamação), deverá
+ser descontinuado o tratamento com levofloxacina e considerado um tratamento
+alternativo. O(s) membro(s) afetado(s) deverá(ão) ser devidamente tratado(s) (por
+exemplo, por imobilização). Não deverão ser utilizados corticosteroides se ocorrerem
+sinais de tendinopatia.
+
+Mioclonia
+Foram reportados casos de mioclonia em doentes a receber levofloxacina (ver secção
+4.8). O risco de mioclonia é maior em doentes idosos, e em doentes com
+compromisso renal caso a dose de levofloxacina não seja ajustada de acordo com a
+depuração de creatinina. A levofloxacina deve ser descontinuada imediatamente à
+primeira ocorrência de mioclonia e deve ser iniciado o tratamento adequado.
+
+Doença associada com o Clostridium difficile
+
+A ocorrência de diarreia, particularmente se for grave, persistente e/ou
+sanguinolenta, durante ou após o tratamento com levofloxacina (incluindo várias
+semanas após o tratamento), pode ser sintomática de doença associada ao
+Clostridium difficile (DACD). A DACD pode variar em termos de gravidade desde
+ligeira até potencialmente fatal, da qual a forma mais grave é a colite
+pseudomembranosa (ver secção 4.8). É, portanto, importante considerar este
+diagnóstico em doentes que desenvolveram diarreia grave durante ou após o
+tratamento com levofloxacina. Se se suspeitar ou confirmar a DACD, a terapêutica
+com levofloxacina deve ser imediatamente interrompida e deve ser iniciado
+tratamento apropriado, o quanto antes. Nesta situação clínica, os inibidores do
+peristaltismo estão contraindicados.
+
+Doentes predispostos a convulsões
+
+As quinolonas podem diminuir o limiar convulsivo e desencadear crises convulsivas.
+A levofloxacina está contraindicada em doentes com história de epilepsia (ver secção
+4.3) e, tal como outras quinolonas, deve ser usada com extrema precaução em
+doentes predispostos a convulsões ou com tratamento concomitante com
+substâncias ativas que diminuem o limiar de convulsão cerebral, tais como a teofilina
+(ver secção 4.5). No caso de crises convulsivas (ver secção 4.8), o tratamento com
+levofloxacina deverá ser descontinuado.
+
+Doentes com deficiência da G-6-fosfato desidrogenase
+Doentes com deficiência latente ou existente da atividade da glucose-6-fosfato-
+desidrogenase podem ser suscetíveis a reações hemolíticas quando tratados com
+agentes antibacterianos da classe das quinolonas. Assim, se a levofloxacina tiver que
+ser utilizada nestes doentes a potencial ocorrência de hemólise deverá ser
+monitorizada.
+
+Doentes com compromisso da função renal
+
+Dado que a levofloxacina é excretada principalmente pelos rins, a dose de
+Levofloxacina Basi deve ser ajustada em doentes com compromisso da função renal
+(ver secção 4.2).
+
+Reações de hipersensibilidade
+
+A levofloxacina pode provocar reações de hipersensibilidade graves ou
+potencialmente fatais (por ex. de angioedema a choque anafilático), ocasionalmente
+após a dose inicial (ver secção 4.8). Os doentes devem descontinuar o tratamento de
+imediato e contactar o seu médico ou um médico de urgência, que iniciará medidas
+de emergência adequadas.
+
+Reação Adversa Cutânea Grave
+Reações adversas cutâneas graves (SCARs) incluindo necrólise epidérmica tóxica
+(TEN: também conhecida como síndrome de Lyell), síndrome de Stevens Johnson
+(SJS) e reação medicamentosa com eosinofilia e sintomas sistémicos (DRESS), que
+podem ser potencialmente fatais ou fatais, foram reportadas com a levofloxacina
+(ver secção 4.8). No momento da prescrição, os doentes devem ser informados
+sobre os sinais e sintomas das reações cutâneas graves e devem ser monitorizados
+de perto. Se surgirem sinais e sintomas sugestivos destas reações, a levofloxacina
+deve ser descontinuada imediatamente e um tratamento alternativo deve ser
+considerado. Se o doente tiver desenvolvido uma reação grave, como SJS, TEN ou
+DRESS com o uso de levofloxacina, o tratamento com levofloxacina não deve ser
+reiniciado neste doente em nenhum momento.
+
+Alterações dos níveis de glucose sérica
+
+Tal como com todas as quinolonas, têm sido notificados distúrbios dos níveis de
+glucose no sangue, incluindo hipoglicemia e hiperglicemia, normalmente em
+diabéticos tratados simultaneamente com agentes hipoglicemiantes orais (por ex.
+glibenclamida) ou com insulina. Têm sido notificados também casos de coma
+hipoglicémico. Nos doentes diabéticos recomenda-se uma monitorização cuidadosa
+dos níveis de glucose no sangue (ver secção 4.8).
+
+Prevenção de fotossensibilização
+
+Tem sido notificada fotossensibilização com a levofloxacina (ver secção 4.8).
+Recomenda-se que os doentes não se devem expor desnecessariamente a luz solar
+forte ou a raios UV artificiais (por ex., lâmpada de raios solares, solário) durante o
+tratamento e nas 48 horas após a descontinuação do tratamento, a fim de evitar
+fotossensibilização.
+
+Doentes tratados com antagonistas da vitamina K
+Devido ao possível aumento dos testes de coagulação (TP/INR) e/ou de hemorragia
+em doentes tratados com levofloxacina em associação com antagonistas da vitamina
+K (por ex. varfarina), os testes de coagulação devem ser monitorizados quando estes
+medicamentos são administrados concomitantemente (ver secção 4.5).
+
+Reações psicóticas
+
+Têm sido observadas reações psicóticas em doentes que tomaram quinolonas,
+incluindo levofloxacina. Em casos muito raros, estes progrediram para ideação
+suicida e comportamento autodestrutivo – algumas vezes apenas após uma toma
+única de levofloxacina (ver secção 4.8). No caso de o doente desenvolver estas
+reações, a levofloxacina deve ser descontinuada e deverão ser instituídas medidas
+apropriadas. Recomenda-se precaução se a levofloxacina for para ser usada em
+doentes psicóticos ou em doentes com antecedentes de doença psiquiátrica.
+
+Prolongamento do intervalo QT
+
+Deve-se ter precaução quando se usam fluoroquinolonas, incluindo a levofloxacina,
+em doentes com fatores de risco conhecidos por prolongarem o intervalo QT tais
+como, por exemplo:
+- síndroma congénito de QT longo;
+- uso concomitante de medicamentos conhecidos por prolongarem o intervalo QT (ex.
+antiarrítmicos de classe IA e III, antidepressores tricíclicos, macrólidos e
+antipsicóticos);
+- desequilíbrio eletrolítico não corrigido (ex. hipocaliemia, hipomagnesemia);
+- doença cardíaca (ex. insuficiência cardíaca, enfarte do miocárdio, bradicardia).
+Doentes idosos e mulheres podem ser mais sensíveis aos medicamentos que
+prolongam o intervalo QT. Deste modo, deve ter-se cuidado com a utilização de
+fluoroquinolonas, incluindo levofloxacina, nestas populações.
+(Ver secções 4.2 Idosos, 4.5, 4.8 e 4.9).
+
+Estudos epidemiológicos têm evidenciado um aumento do risco de aneurisma aórtico
+e dissecção aórtica após a administração de fluoroquinolonas, em particular na
+população mais idosa.
+
+Por conseguinte, as fluoroquinolonas apenas devem ser utilizadas após uma
+cuidadosa avaliação da relação benefício-risco e após serem equacionadas outras
+opções terapêuticas em doentes com antecedentes familiares de aneurisma, em
+doentes com um aneurisma aórtico e/ou dissecção aórtica pré-existentes ou em
+doentes com a presença de outros fatores de risco ou patologias que possam
+constituir fatores de predisposição para aneurisma aórtico ou dissecção aórtica (p.
+ex., Síndrome de Marfan, síndrome de Ehlers-Danlos do tipo vascular, arterite de
+Takayasu, arterite de células gigantes, doença de Behçet, hipertensão, aterosclerose
+conhecida).
+
+No caso de dor súbita no abdómen, peito ou costas, os doentes devem ser
+aconselhados a consultar de imediato um médico num serviço de emergência.
+
+Neuropatia periférica
+
+Foram notificados casos de polineuropatia sensorial ou sensorio motora que
+resultaram em parestesias, hipoestesias, disestesias ou fraqueza em doentes aos
+quais foram administradas quinolonas, incluindo fluoroquinolonas. Os doentes em
+tratamento com levofloxacina devem ser aconselhados a informar previamente o seu
+médico antes de continuar o tratamento no caso de desenvolverem sintomas de
+neuropatia tais como dor, sensação de ardor, formigueiro, adormecimento ou
+fraqueza de modo a prevenir o desenvolvimento de uma situação potencialmente
+irreversível (ver secção 4.8).
+
+Afeções hepatobiliares
+
+Têm sido notificados casos de necrose hepática até insuficiência hepática fatal, com
+levofloxacina, principalmente em doentes com doenças subjacentes, como por ex.
+sepsis (ver secção 4.8). Os doentes devem ser aconselhados a parar o tratamento e
+contactar o seu médico assistente caso desenvolvam sinais e sintomas de doença
+hepática, tais como anorexia, icterícia, urina escura, prurido ou abdómen sensível à
+dor.
+
+Exacerbação de miastenia gravis
+
+As fluoroquinolonas, incluindo a levofloxacina, têm atividade de bloqueio
+neuromuscular e podem exacerbar a fraqueza muscular em doentes com miastenia
+gravis. Têm sido associadas reações adversas graves, incluindo mortes e
+necessidade de suporte respiratório, com o uso de fluoroquinolonas em doentes com
+miastenia gravis. Assim, a levofloxacina não é recomendada em doentes com história
+de miastenia gravis.
+
+Alterações da visão
+
+Se ocorrer uma diminuição da visão ou se se verificarem quaisquer efeitos a nível
+ocular deve ser consultado imediatamente um oftalmologista (ver secções 4.7 e 4.8).
+
+Doenças do sangue
+Insuficiência da medula óssea, incluindo leucopenia, neutropenia, pancitopenia,
+anemia hemolítica, trombocitopenia, anemia aplástica, ou agranulocitose podem
+ocorrer durante o tratamento com levofloxacina (ver secção 4.8). Se houver suspeita
+de alguma destas doenças do sangue, o hemograma deve ser monitorizado. No caso
+de resultados anormais, a descontinuação do tratamento com levofloxacina deve ser
+considerada.
+
+Superinfeção
+
+O uso de levofloxacina, principalmente se prolongado, pode resultar em crescimento
+excessivo de organismos não suscetíveis. Se a superinfeção ocorrer durante o
+tratamento, devem ser tomadas medidas apropriadas.
+
+Interferência com testes laboratoriais
+
+Em doentes tratados com levofloxacina, a determinação de opiáceos na urina pode
+originar resultados falsos-positivos. Poderá ser necessário confirmar a presença de
+opiáceos através de métodos mais específicos.
+
+A levofloxacina pode inibir o crescimento de Mycobacterium tuberculosis e, portanto,
+dar origem a resultados falsos-negativos no diagnóstico bacteriológico da
+tuberculose.
+Conteúdo em sódio
+Este medicamento contém 177 mg (sacos de 50 ml) ou 354 mg (sacos de 100 ml)
+de sódio (principal componente de sal de cozinha/sal de mesa). Isto é equivalente a
+8.85 ou 17.7% da ingestão diária máxima de sódio recomentada na dieta para um
+adulto.
+
+4.5 Interações medicamentosas e outras formas de interação
+
+Efeito de outros medicamentos no Levofloxacina Basi
+
+Teofilina, fenbufeno ou medicamentos anti-inflamatórios não esteroides similares
+
+Não foram encontradas interações farmacocinéticas da levofloxacina com a teofilina
+num estudo clínico. Contudo, pode ocorrer uma diminuição pronunciada do limiar de
+convulsão cerebral quando as quinolonas são administradas concomitantemente com
+teofilina, anti-inflamatórios não esteroides ou outros agentes que diminuem o limiar
+convulsivo.
+As concentrações de levofloxacina são cerca de 13% mais elevadas na presença de
+fenbufeno do que em administração isolada.
+
+Probenecida e cimetidina
+
+A probenecida e a cimetidina tiveram um efeito estatisticamente significativo na
+eliminação da levofloxacina. A depuração renal da levofloxacina foi reduzida pela
+cimetidina (24%) e pela probenecida (34%). Isto deve-se ao facto de que ambos os
+medicamentos são capazes de bloquear a secreção tubular renal da levofloxacina.
+Contudo, é improvável que nas doses testadas no estudo, estas diferenças
+farmacocinéticas estatisticamente significativas tenham relevância clínica.
+Deve-se ter especial cuidado quando a levofloxacina é coadministrada com
+medicamentos que afetam a secreção tubular renal tais como a probenecida e a
+cimetidina, especialmente em doentes com compromisso da função renal.
+
+Outra informação relevante
+
+Estudos de farmacologia clínica demonstraram que a farmacocinética da
+levofloxacina não foi afetada de maneira clinicamente relevante quando a
+levofloxacina foi administrada em conjunto com os seguintes medicamentos:
+carbonato de cálcio, digoxina, glibenclamida, ranitidina.
+
+Efeitos do Levofloxacina Basi noutros medicamentos
+
+Ciclosporina
+
+A semivida da ciclosporina aumentou em 33% quando coadministrada com a
+levofloxacina.
+
+Antagonistas da vitamina K
+
+Foram relatados, em doentes tratados com levofloxacina em associação com
+antagonistas da vitamina K (por ex., varfarina), um aumento dos testes de
+coagulação (TP/INR) e/ou de hemorragia, os quais podem ser graves. Por
+conseguinte, os testes de coagulação devem ser monitorizados nos doentes em
+terapêutica com antagonistas da vitamina K (ver secção 4.4).
+Medicamentos conhecidos por prolongarem o intervalo QT
+
+A levofloxacina, tal como outras fluoroquinolonas, deve ser usada com precaução em
+doentes a fazer tratamento com medicamentos conhecidos por prolongarem o
+intervalo QT (ex. antiarrítmicos de classe IA e III, antidepressores tricíclicos,
+macrólidos e antipsicóticos) (ver secção 4.4 Prolongamento do intervalo QT).
+
+Outra informação relevante
+
+Num estudo de interação farmacocinética, a levofloxacina não afetou a
+farmacocinética da teofilina (um substrato para o CYP1A2), indicando que a
+levofloxacina não é um inibidor do CYP1A2.
+
+4.6 Fertilidade, gravidez e aleitamento
+
+Gravidez
+
+Os dados sobre a utilização de levofloxacina em mulheres grávidas são limitados.
+Estudos em animais não mostraram efeitos prejudiciais diretos ou indiretos no que
+diz respeito a toxicidade reprodutiva (ver secção 5.3).
+Contudo, na ausência de dados em seres humanos e devido aos dados experimentais
+que sugerem risco de lesões, causadas pelas fluoroquinolonas, das cartilagens
+articulares de organismos em crescimento, a levofloxacina não deve ser usada em
+mulheres grávidas (ver secções 4.3 e 5.3).
+
+Amamentação
+
+Levofloxacina Basi está contraindicado em mulheres que amamentam. Não existe
+informação suficiente relativa à excreção da levofloxacina no leite humano; no
+entanto, outras fluoroquinolonas são excretadas no leite materno. Na ausência de
+dados em seres humanos e devido aos dados experimentais que sugerem risco de
+lesões, causadas pelas fluoroquinolonas, das cartilagens articulares de organismos
+em crescimento, a levofloxacina não deve ser usada em mulheres que amamentam
+(ver secções 4.3 e 5.3).
+
+Fertilidade
+
+A levofloxacina não teve efeito na fertilidade ou no desempenho reprodutivo em
+ratos.
+
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Alguns efeitos indesejáveis (por ex., tonturas/vertigens, sonolência, perturbações
+visuais) podem afetar a capacidade do doente para se concentrar e reagir, podendo,
+deste modo, constituir um risco nas situações em que essas capacidades têm
+importância especial (por ex. conduzir um automóvel ou utilizar máquinas).
+
+4.8 Efeitos indesejáveis
+
+A informação seguinte baseia-se em dados de estudos clínicos em mais de 8300
+doentes e em extensa experiência pós-comercialização.
+As frequências são definidas segundo a seguinte convenção: muito frequentes
+(≥1/10), frequentes (≥1/100, <1/10), pouco frequentes (≥1/1000, ≤1/100), raros
+(≥1/10000, ≤1/1000), muito raros (≤1/10000), desconhecido (não pode ser
+calculado a partir dos dados disponíveis).
+Dentro de cada grupo de frequência, os efeitos indesejáveis apresentam-se por
+ordem decrescente de gravidade.
+
+Classe              de Frequentes   Pouco          Raros              Desconhecido (não
+sistemas            de (≥1/100    a frequentes     (≥1/10,000       a pode ser calculado
+órgãos                 <1/10)       (≥1/1,000      <1/1,000)          a partir dos dados
+                                    a <1/100)                         disponíveis)
+Infeções             e              Infeções
+infestações                         fúngicas
+                                    incluindo
+                                    infeções por
+                                    Candida
+                                    Resistência
+                                    patogénica
+Doenças             do              Leucopenia     Trombocitopenia      insuficiência     da
+sangue      e       do              Eosinofilia    Neutropenia          medula         óssea
+sistema linfático                                                       incluindo     anemia
+                                                                        aplástica,
+                                                                        pancitopenia,
+                                                                        agranulocitose
+                                                                        anemia hemolítica
+Doenças        do                                  Angioedema           Choque
+sistema imunitário                                 Hipersensibilidad    anafiláticoa
+                                                   e                    Choque
+                                                   (ver secção 4.4)     anafilactóidea
+                                                                        (ver secção 4.4)
+Doenças                                            Síndrome        de
+endócrinas                                         secreção
+                                                   inapropriada    da
+                                                   hormona
+                                                   antidiurética
+                                                   (SIADH)
+
+Doenças       do                    Anorexia       Hipoglicemia         Hiperglicemia
+metabolismo e da                                   particularmente      Coma
+nutrição                                           em         doentes   hipoglicémico
+                                                   diabéticos           (ver secção 4.4)
+                                                   (ver secção 4.4)
+Perturbações     do Insónia         Ansiedade      Reações              Reações psicóticas
+foro psiquiátrico*                  Estado         psicóticas    (por   com
+                                    confusional    ex., alucinações,    comportamentos
+                                    Nervosismo     paranoia)            autodestrutivos,
+                                                   Depressão            tais como ideação
+                                                   Agitação             ou comportamento
+                                                   Sonhos anormais      suicida
+                                                   Pesadelos            (ver secção 4.4)
+                                                                        Mania
+Classe         de Frequentes   Pouco           Raros              Desconhecido (não
+sistemas       de (≥1/100    a frequentes      (≥1/10,000       a pode ser calculado
+órgãos            <1/10)       (≥1/1,000       <1/1,000)          a partir dos dados
+                               a <1/100)                          disponíveis)
+Doenças        do Cefaleias    Sonolência      Convulsão     (ver Neuropatia
+sistema nervoso* Tonturas      Tremor          secções 4.3 e periférica sensorial
+                               Disguesia       4.4)               (ver secção 4.4)
+                                               Parestesias        Neuropatia
+                                                                  periférica sensorial
+                                                                  motora (ver secção
+                                                                  4.4)
+                                                                  Parosmia incluindo
+                                                                  anosmia
+                                                                  Discinesia
+                                                                  Desordens
+                                                                  extrapiramidais
+                                                                  Ageusia
+                                                                  Síncope
+                                                                  Hipertensão
+                                                                  intracraniana
+                                                                  benigna
+                                                                  Mioclonia
+Afeções oculares*                              Distúrbios visuais Perda     transitória
+                                               tais como visão de        visão     (ver
+                                               turva (ver secção secção 4.4)
+                                               4.4)
+Afeções do ouvido                  Vertigens   Zumbidos           Perda de audição
+e do labirinto*                                                   Distúrbio          na
+                                                                  audição
+Cardiopatias**                                 Taquicardia        Taquicardia
+                                               Palpitação         ventricular,     que
+                                                                  pode resultar em
+                                                                  paragem cardíaca
+                                                                  Arritmia ventricular
+                                                                  e     torsade      de
+                                                                  pointes (notificado
+                                                                  predominantement
+                                                                  e em doentes com
+                                                                  fatores de risco de
+                                                                  prolongamento do
+                                                                  intervalo       QT),
+                                                                  eletrocardiograma
+                                                                  com intervalo QT
+                                                                  prolongado       (ver
+                                                                  secções 4.4 e 4.9)
+Vasculopatias**     Aplicável                  Hipotensão
+                    apenas     à
+                    formulação
+                    iv:
+                    Flebite
+Classe           de Frequentes   Pouco         Raros           Desconhecido (não
+sistemas         de (≥1/100    a frequentes    (≥1/10,000    a pode ser calculado
+órgãos              <1/10)       (≥1/1,000     <1/1,000)       a partir dos dados
+                                 a <1/100)                     disponíveis)
+Doenças                          Dispneia                      Broncoespasmo
+respiratórias,                                                 Pneumonite
+torácicas    e   do                                            alérgica
+mediastino
+
+Doenças               Diarreia   Dor                         Diarreia – diarreia
+gastrointestinais     Vómitos    abdominal                   sanguinolenta que,
+                      Náuseas    Dispepsia                   em casos muito
+                                 Flatulência                 raros, pode ser
+                                 Obstipação                  indicativa         de
+                                                             enterocolite,
+                                                             incluindo       colite
+                                                             pseudomembranos
+                                                             a (ver secção 4.4)
+                                                             Pancreatite
+Afeções            Aumento     Aumento da                    Icterícia e dano
+hepatobiliares     das enzimas bilirubina                    hepático      grave,
+                   hepáticas   sérica                        incluindo casos de
+                   (ALT/AST,                                 insuficiência
+                   fosfatase                                 hepática       aguda
+                   alcalina,                                 fatal,
+                   GGT)                                      principalmente em
+                                                             doentes          com
+                                                             doenças
+                                                             subjacentes graves
+                                                             (ver secção 4.4).
+                                                             Hepatite
+Afeções        dos             Erupção     Reação            Necrólise
+tecidos cutâneos e             cutânea     medicamentosa     epidérmica tóxica
+subcutâneos b                  Prurido     com eosinofilia e Síndrome
+                               Urticária   sintomas          Stevens-Johnson
+                               Hiperhidros sistémicos        Eritema multiforme
+                               e           (DRESS)      (ver Reação             de
+                                           secção            fotossensibilidade
+                                           4.4),             (ver secção 4.4)
+                                           Erupção           Vasculite
+                                           medicamentosa     leucocitoclástica
+                                           fixa              Estomatite
+                                                             Hiperpigmentação
+                                                             cutânea
+Classe         de Frequentes   Pouco           Raros               Desconhecido (não
+sistemas       de (≥1/100    a frequentes      (≥1/10,000        a pode ser calculado
+órgãos            <1/10)       (≥1/1,000       <1/1,000)           a partir dos dados
+                               a <1/100)                           disponíveis)
+Afeções                        Artralgia       Alterações      nos Rabdomiólise
+musculosquelética              Mialgia         tendões        (ver Rutura de tendões
+s e dos tecidos                                secções 4.3 e (por ex. tendão de
+conjuntivos*                                   4.4)      incluindo Aquiles)       (ver
+                                               tendinite (por ex. secções 4.3 e 4.4)
+                                               Tendão           de Rutura           de
+                                               Aquiles)            ligamentos
+                                               Fraqueza            Rutura muscular
+                                               muscular        que Artrite
+                                               pode      ser    de
+                                               especial
+                                               importância em
+                                               doentes        com
+                                               miastenia gravis
+                                               (ver secção 4.4)
+Doenças renais e                   Aumento da Insuficiência
+urinárias                          creatinina  renal aguda (ex.
+                                   sérica      devido a nefrite
+                                               intersticial)
+Perturbações         Aplicável     Astenia     Pirexia             Dor (incluindo dor
+gerais             e apenas     à                                  nas costas, peito e
+alterações no local formulação                                     extremidades)
+de administração* iv:
+                     Reação    no
+                     local     de
+                     perfusão
+                     (dor,
+                     vermelhidão
+                     )
+ a Reações anafiláticas e anafilactóides podem por vezes ocorrer mesmo após a
+ primeira dose
+ b Reações mucocutâneas podem por vezes ocorrer mesmo após a primeira dose
+ *Foram notificados casos muito raros de reações adversas medicamentosas graves,
+ prolongadas (que persistem meses ou anos), incapacitantes e potencialmente
+ irreversíveis, que afetam várias, por vezes múltiplas, classes de sistemas de órgãos
+ e sentidos (incluindo reações como tendinite, rutura de tendão, artralgia, dor nas
+ extremidades, perturbações da marcha, neuropatias associadas a parestesia,
+ depressão, fadiga, perda de memória, distúrbios do sono e diminuição da audição,
+ visão, paladar e olfato) , em associação com o uso de quinolonas e fluoroquinolonas,
+ em alguns casos independentemente de fatores de risco preexistentes (ver Secção
+ 4.4).
+ ** Foram notificados casos de aneurisma e dissecção da aorta, por vezes
+ complicados por rutura (incluindo casos fatais), e de regurgitação/insuficiência de
+ qualquer uma das válvulas cardíacas em doentes que receberam fluoroquinolonas
+ (ver secção 4.4).
+
+Outros efeitos indesejáveis que têm sido associados com a administração de
+fluoroquinolonas incluem:
+ataques de porfíria em doentes com porfiria.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-
+risco do medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer
+suspeitas de reações adversas diretamente ao INFARMED, I.P.:
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+E-mail: farmacovigilancia@infarmed.pt
+
+4.9 Sobredosagem
+
+De acordo com estudos de toxicidade em animais ou estudos de farmacologia clínica
+realizados com doses supra terapêuticas, os sinais mais importantes que podem ser
+esperados após sobredosagem aguda com a solução para perfusão de Levofloxacina
+Basi são sintomas do sistema nervoso central tais como confusão, tonturas,
+perturbações da consciência e convulsões, aumento do intervalo QT.
+
+Têm sido observados, em experiência pós-comercialização, efeitos no SNC que
+incluem estado confusional, convulsões, mioclonia, alucinações e tremores.
+
+No caso de sobredosagem, deve ser implementado tratamento sintomático. Deve ser
+utilizada monitorização com ECG devido à possibilidade do prolongamento do
+intervalo QT. A hemodiálise, incluindo diálise peritoneal e DPAC não são eficazes
+para remover a levofloxacina do organismo. Não existe antídoto específico.
+
+
+5. PROPRIEDADES FARMACOLÓGICAS
+
+5.1 Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 1.1.10 – Medicamentos anti-infeciosos. Antibacterianos.
+Quinolonas.
+Código ATC: J01MA12
+
+Levofloxacina é um agente antibacteriano sintético da classe das fluoroquinolonas e
+é o enantiómero S (-) da substância ativa racémica ofloxacina.
+
+Mecanismo de ação
+
+Como agente antibacteriano da classe das fluoroquinolonas, a levofloxacina atua no
+complexo girase ADN-ADN e na topoisomerase IV.
+
+Relação PK/PD
+O grau de atividade bactericida de levofloxacina depende da razão entre a
+concentração sérica máxima (Cmax) ou da área sob a curva (AUC) e a concentração
+inibitória mínima (CIM).
+
+Mecanismo de resistência
+
+A resistência à levofloxacina é adquirida através de um processo gradual de
+mutações no local alvo em ambas as topoisomerases tipo II, ADN girase e
+topoisomerase IV. Outros mecanismos de resistência, tais como, barreiras de
+permeabilidade (frequente na Pseudomonas aeruginosa) e mecanismos de efluxo
+podem também afetar a sensibilidade à levofloxacina.
+
+Existe uma resistência cruzada entre a levofloxacina e outras fluoroquinolonas.
+Devido ao mecanismo de ação, normalmente não existe resistência cruzada entre a
+levofloxacina e outras classes de agentes antibacterianos.
+
+Limites de suscetibilidade
+
+Os limites de CIM recomendados pela EUCAST (European Committee on
+Antimicrobial Susceptibility Testing) para a levofloxacina, separando os organismos
+sensíveis dos com sensibilidade intermédia e os organismos com sensibilidade
+intermédia dos organismos resistentes, estão apresentados na tabela seguinte para
+os testes CIM (mg/l):
+
+Limites de CIM clínicos da EUCAST para levofloxacina (versão 2.0, 2012-01-01)
+
+Agente patogénico            Sensível              Resistente
+Enterobacteriacae            ≤1 mg/l               >2 mg/l
+Pseudomonas spp.             ≤1 mg/l               >2 mg/l
+Acinetobacter spp.           ≤1 mg/l               >2 mg/l
+Staphylococcus spp.          ≤1 mg/l               >2 mg/l
+S. pneumoniae1               ≤2 mg/l               >2 mg/l
+Streptococcus A, B, C, G ≤1 mg/l                   >2 mg/l
+H. influenzae2, 3            ≤1 mg/l               >1 mg/l
+M. catarrhalis3              ≤1 mg/l               >1 mg/l
+Limites para espécies ≤1 mg/l                      >2 mg/l
+não comuns4
+1 Os limites estão relacionados com doses terapêuticas elevadas.
+2 Uma resistência de nível baixo às fluoroquinolonas (CIM da
+ciprofloxacina de 0.12-0.5 mg/l) pode ocorrer, mas não existe evidência
+de que esta tenha importância clínica nas infeções do trato respiratório
+com H. influenzae
+3 Estirpes com valores de CIM superiores aos limites de suscetibilidade
+são muito raros ou ainda não foram notificados. A identificação e os
+testes de sensibilidade antimicrobiana em qualquer isolado devem ser
+repetidos e se o resultado for confirmado, o isolado deve ser enviado
+para um laboratório de referência. Até que hajam evidências sobre a
+resposta clínica para isolados confirmados com CIM acima do atual
+limite de resistência, estes devem ser notificados como resistentes.
+4 Os limites de suscetibilidade aplicam-se a uma dose oral de
+500 mg x 1 a 500 mg x 2, e a uma dose intravenosa de 500 mg x 1 a
+500 mg x 2
+A prevalência da resistência pode variar geograficamente e ao longo do tempo para
+espécies selecionadas, e é desejável informação local sobre a resistência,
+particularmente no tratamento de infeções graves. Quando necessário, deve
+procurar-se ajuda de um especialista quando a prevalência de resistência local é tal,
+que a utilidade do agente em pelo menos alguns tipos de infeções é questionável.
+
+Espécies frequentemente sensíveis
+
+Bactérias aeróbias Gram-positivas
+Bacillus anthracis
+Staphylococcus aureus sensíveis à meticilina
+Staphylococcus saprophyticus
+Streptococci, grupo C e G
+Streptococcus agalactiae
+Streptococcus pneumoniae
+Streptococcus pyogenes
+
+Bactérias aeróbias Gram-negativas
+Eikenella corrodens
+Haemophilus influenzae
+Haemophilus para-influenzae
+Klebsiella oxytoca
+Moraxella catarrhalis
+Pasteurella multocida
+Proteus vulgaris
+Providencia rettgeri
+
+Bactérias anaeróbias
+Peptostreptococcus
+
+Outras
+Chlamydophila pneumoniae
+Chlamydophila psittaci
+Chlamydia trachomatis
+Legionella pneumophila
+Mycoplasma pneumoniae
+Mycoplasma hominis
+Ureaplasma urealyticum
+
+Espécies para as quais a resistência adquirida pode ser um problema
+
+Bactérias aeróbias Gram-positivas
+Enterococcus faecalis
+Staphylococcus aureus resistentes à meticilina#
+Staphylococcus spp coagulase negativo
+
+Bactérias aeróbias Gram-negativas
+Acinetobacter baumannii
+Citrobacter freundii
+Enterobacter aerogenes
+Enterobacter cloacae
+Escherichia coli
+Klebsiella pneumoniae
+Morganella morganii
+Proteus mirabilis
+Providencia stuartii
+Pseudomonas aeruginosa
+Serratia marcescens
+
+Bactérias anaeróbias
+Bacteroides fragilis
+
+Espécies com resistência intrínseca
+
+Bactérias aeróbias Gram-positivas
+Enterococcus faecium
+
+# Os S. aureus resistentes à meticilina muito provavelmente possuem corresistência
+às fluoroquinolonas, incluindo a levofloxacina.
+
+5.2 Propriedades farmacocinéticas
+
+Absorção
+
+A levofloxacina administrada oralmente é rápida e quase completamente absorvida,
+alcançando-se concentrações plasmáticas máximas dentro de 1-2 h. A
+biodisponibilidade absoluta é de 99-100%.
+
+Os alimentos têm pouco efeito sobre a absorção da levofloxacina.
+
+O estado estacionário é alcançado em 48 horas, seguindo uma posologia de 500 mg
+uma a duas vezes por dia.
+Distribuição
+
+Aproximadamente 30 a 40% da levofloxacina liga-se às proteínas séricas.
+
+O volume médio de distribuição da levofloxacina é aproximadamente de 100 l após
+doses únicas e repetidas de 500 mg, indicando uma ampla distribuição pelos tecidos
+corporais.
+
+Penetração nos tecidos e fluidos corporais
+
+A levofloxacina penetra na mucosa brônquica, no fluido de revestimento epitelial, nos
+macrófagos alveolares, no tecido pulmonar, na pele (fluido de flitenas), no tecido
+prostático e na urina. No entanto, apresenta fraca penetração no fluido
+cefalorraquidiano.
+
+Biotransformação
+
+A metabolização da levofloxacina é pouco extensa, sendo os metabolitos a
+levofloxacina desmetilada e a levofloxacina N-óxido. Estes metabolitos representam
+<5% da dose e são excretados na urina. A levofloxacina é estereoquimicamente
+estável e não sofre inversão quiral.
+
+Eliminação
+Após administração oral e intravenosa, a levofloxacina é eliminada do plasma de
+forma relativamente lenta (t1/2: 6-8h). A excreção é predominantemente por via
+renal (>85% da dose administrada).
+
+A depuração corporal total aparente média da levofloxacina, após uma dose única de
+500 mg, é de 175 +/-29.2 ml/min.
+
+Não existem diferenças relevantes na farmacocinética da levofloxacina após
+administração intravenosa e oral, o que sugere que as vias oral e intravenosa são
+intermutáveis.
+
+Linearidade
+
+A levofloxacina obedece a uma farmacocinética linear num intervalo de 50 a 1000
+mg.
+
+Populações especiais
+
+Indivíduos com compromisso da função renal
+
+A farmacocinética da levofloxacina é afetada pelo compromisso renal. Com a
+diminuição da função renal, a eliminação e a depuração estão diminuídas e as
+semividas de eliminação aumentadas, como se mostra na tabela abaixo:
+
+Farmacocinética no compromisso renal, seguindo uma dose oral única de 500 mg
+
+              Clcr [ml/min]   < 20     20 - 49   50 - 80
+              ClR [ml/min]    13       26        57
+              t1/2 [h]        35       27        9
+
+Indivíduos idosos
+
+Não existem diferenças significativas na farmacocinética da levofloxacina entre
+indivíduos jovens e idosos, exceto as que estiverem associadas com diferenças na
+depuração da creatinina.
+
+Diferença entre géneros
+
+Análises separadas para indivíduos do sexo masculino ou feminino mostraram
+diferenças pequenas ou marginais na farmacocinética da levofloxacina. Não existe
+evidência de que estas diferenças entre géneros sejam clinicamente relevantes.
+
+5.3 Dados de segurança pré-clínica
+
+Os dados não clínicos não revelam riscos especiais para o ser humano, segundo
+estudos convencionais de toxicidade de dose única, toxicidade de dose repetida,
+potencial carcinogénico e toxicidade reprodutiva e desenvolvimento.
+
+A levofloxacina não teve efeito na fertilidade ou no desempenho reprodutivo em
+ratos, e seu único efeito nos fetos foi uma maturação retardada como resultado de
+toxicidade maternal.
+A levofloxacina não induziu mutações genéticas em células bacterianas ou de
+mamíferos mas induziu aberrações cromossómicas nas células pulmonares do
+hamster chinês in vitro. Estes efeitos podem ser atribuídos à inibição da
+topoisomerase II. Testes in vivo (micronúcleo, trocas de cromatídeos irmãos, síntese
+não programada de ADN, testes letais dominantes) não mostraram qualquer
+potencial genotóxico.
+
+Estudos em ratos mostraram que a levofloxacina apenas apresenta atividade
+fototóxica em doses muito elevadas. A levofloxacina não mostrou qualquer potencial
+genotóxico num ensaio de fotomutagenecidade e reduziu o desenvolvimento tumoral
+num estudo de fotocarcinogénese.
+
+Tal como com outras fluoroquinolonas, a levofloxacina mostrou efeitos na cartilagem
+(vesículas e cavidades) em ratos e cães. Estes resultados foram mais marcados em
+animais jovens.
+
+
+6. INFORMAÇÕES FARMACÊUTICAS
+
+6.1 Lista dos excipientes
+
+Cloreto de sódio
+Hidróxido de sódio
+Ácido clorídrico
+Água para preparações injetáveis
+
+6.2 Incompatibilidades
+
+Este medicamento não deve ser misturado com heparina ou soluções alcalinas (por
+ex., bicarbonato de sódio).
+
+Este medicamento não deve ser misturado com outros medicamentos, exceto os
+mencionados na secção 6.6.
+
+6.3 Prazo de validade
+
+3 anos.
+
+Após diluição com solução de cloreto de sódio 0.9 %, glucose a 5%, glucose a 2.5%
+em solução de Ringer é estável durante 8 horas a temperatura inferior a 22ºC.
+
+6.4 Precauções especiais de conservação
+
+Manter o saco ou frasco na embalagem exterior para proteger da luz (ver secção
+6.3).
+Após diluição, conservar a temperatura inferior a 22 ºC.
+
+6.5 Natureza e conteúdo do recipiente
+
+Saco de polietileno contendo 50 ml de solução para perfusão. Estão disponíveis
+embalagens de 1, 5, 10, 20 e 50 sacos.
+Saco de polietileno contendo 100 ml de solução para perfusão. Estão disponíveis
+embalagens de 1, 5, 10, 20 e 50 sacos.
+É possível que não sejam comercializadas todas as apresentações.
+Frasco de polipropileno com tampa de plástico (Pull-Off e Twin Head) com uma
+borracha interna contendo 100 ml de solução para perfusão. Estão disponíveis
+embalagens de 50 frascos
+
+6.6 Precauções especiais de eliminação
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo
+com as exigências locais.
+
+
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Laboratórios Basi – Indústria Farmacêutica, S.A.
+Parque Industrial Manuel Lourenço Ferreira, lote 15
+3450-232 Mortágua
+Portugal
+Tel: + 351 231 920 250 | Fax: + 351 231 921 055
+E-mail: basi@basi.pt
+
+
+8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+N.º de registo: 5172036– 1 saco LDPE, 50 ml
+N.º de registo: 5172044 – 1 saco LDPE, 100 ml
+N.º de registo: 5172051 – 5 sacos LDPE, 50 ml
+N.º de registo: 5172069 – 5 sacos LDPE, 100 ml
+N.º de registo: 5172077 – 10 sacos LDPE, 50 ml
+N.º de registo: 5172101 – 10 sacos LDPE, 100 ml
+N.º de registo: 5172119 – 20 sacos LDPE, 50 ml
+N.º de registo: 5172127 – 20 sacos LDPE, 100 ml
+N.º de registo: 5174701 – 50 sacos LDPE, 50 ml
+N.º de registo: 5174719 – 50 sacos LDPE, 100 ml
+N.º de registo: 5731138 – 50 frascos de polipropileno, 100 ml
+
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 30 de janeiro de 2009
+Data da última renovação: 28 de dezembro de 2015
+
+
+10. DATA DA REVISÃO DO TEXTO
+

@@ -1,0 +1,748 @@
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+
+1. NOME DO MEDICAMENTO
+
+Nolotil 2000 mg/5 ml solução injetável
+
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada ampola de 5 ml contém 2000 mg de fenil-dimetil-pirazolona-metilamino-
+metano-sulfonato de magnésio (metamizol magnésico).
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+3. FORMA FARMACÊUTICA
+
+Solução injetável.
+
+
+4. INFORMAÇÕES CLÍNICAS
+
+4.1 Indicações terapêuticas
+
+Dor aguda intensa, incluindo dor espasmódica e dor tumoral.
+Febre alta, que não responde a outras terapêuticas antipiréticas.
+A administração parentérica só é indicada na dor aguda intensa e apenas quando
+a administração entérica não é considerada apropriada.
+
+4.2 Posologia e modo de administração
+
+Posologia
+
+A posologia é determinada pela intensidade da dor ou da febre e pela
+sensibilidade individual de resposta a Nolotil. É essencial escolher a dose mais
+baixa que controla a dor e a febre.
+
+Em crianças e adolescentes até aos 14 anos de idade, pode ser administrada uma
+dose única de 8-16 mg de metamizol por kg de peso corporal. Em caso de febre,
+uma dose de 10 mg de metamizol por quilograma de peso corporal é geralmente
+suficiente para as crianças. Adultos e adolescentes a partir dos 15 anos de idade
+(>53 kg) podem tomar até 1000 mg em dose única.
+
+Dependendo da dose máxima diária, pode ser tomada uma dose única até 4
+vezes por dia, em intervalos de 6-8 horas.
+Pode esperar-se um efeito claro 30 minutos após a administração parentérica.
+Para minimizar o risco de reação hipotensora, a injeção intravenosa deve ser
+administrada muito lentamente.
+A tabela seguinte apresenta as doses únicas recomendadas e as doses diárias
+máximas, dependendo do peso ou da idade:
+
+
+       Peso corporal             Dose única               Dose máxima diária
+       kg         idade          ml         mg            ml        mg
+                  3-             0,1-0,3    40-120        0,4-1,2   160-480
+       5-8
+                  11 meses
+       9-15       1-3 anos       0,2-0,6     80-240       0,8-2,4      320-960
+       16-23      4-6 anos       0,3-0,9     120-360      1,2-3,6      480-1440
+       24-30      7-9 anos       0,5-1,2     200-480      2,0-4,8      800-1920
+       31-45      10-12 anos     0,6-1,8     240-720      2,4-7,2      960-2880
+                                                                       1440-
+       46-53        13-14 anos 0,9-2,1       360-840      3,6-8,4
+                                                                       3360
+                                                                       1600-
+       >53          ≥ 15 anos    1,0-2,5*    400-1000*    4,0-10,0*
+                                                                       4000*
+
+* Se necessário, a dose única pode ser aumentada para 6,2 ml (correspondente a
+2480 mg de metamizol) e a dose diária para 12,5 ml (correspondente a 5000 mg
+de metamizol).
+
+
+Modo de administração
+
+Nolotil só deverá ser administrado por via intravenosa ou intramuscular profunda.
+Uma administração intra-arterial inadvertida poderá causar necrose da área
+vascular distal.
+
+A solução deverá ser aquecida à temperatura corporal antes da administração.
+
+No caso da administração parentérica, deve estar presente o equipamento
+necessário para o tratamento de casos raros de choque.
+
+A causa mais comum de uma descida crítica da pressão arterial e choque é uma
+injeção dada, indevidamente, demasiado rápido. A administração intravenosa
+deve ser dada lentamente (não mais do que 1 ml por minuto) com o doente
+deitado. A pressão arterial, a frequência cardíaca e a respiração devem ser
+monitorizadas. Tendo em conta a hipótese de que a descida da pressão arterial
+não alérgica é dose-dependente, a administração parentérica de doses individuais
+de Nolotil superiores a 1 g deverá ser cuidadosamente avaliada.
+
+As ampolas de Nolotil podem ser misturadas ou diluídas em glucose a 5%,
+solução salina a 0,9% ou soluto de Ringer. No entanto, este tipo de soluções só se
+mantém estável por um curto período de tempo, pelo que devem ser
+administradas imediatamente.
+
+Devido à possibilidade de incompatibilidades, o Nolotil não deve ser misturado
+com outros medicamentos na mesma seringa.
+Caso a dor persistir ou se agravar, deverá ser consultado um médico para
+avaliação da causa dos sintomas.
+
+Populações especiais:
+
+População idosa, doentes debilitados e doentes com depuração da creatinina
+reduzida
+
+A dose deve ser reduzida em idosos, em doentes debilitados e em doentes com
+depuração da creatinina reduzida, uma vez que a eliminação dos produtos
+metabólicos do metamizol pode ser prolongada.
+
+Compromisso hepático ou renal
+
+Uma vez que a taxa de eliminação é reduzida quando a função renal ou hepática
+está comprometida, deve evitar-se a utilização de doses múltiplas e elevadas. Não
+é necessária uma redução da dose quando utilizada apenas durante um período
+de tempo curto. Até à data, a experiência com a utilização a longo prazo do
+metamizol em doentes com compromisso hepático e renal grave foi insuficiente.
+
+4.3 Contraindicações
+
+Nolotil está contraindicado nas seguintes situações:
+- antecedentes de agranulocitose induzida por metamizol, outras pirazolonas ou
+pirazolidinas,
+- função da medula óssea comprometida ou doenças do sistema hematopoiético,
+- doentes que revelaram hipersensibilidade ao metamizol e a outras pirazolonas
+ou pirazolidinas (por exemplo, isopropilaminofenazona, propifenazona, fenazona
+ou fenilbutazona) ou a qualquer um dos excipientes mencionados na secção 6.1,
+- doentes com síndrome de asma induzida pelos analgésicos ou intolerância
+conhecida aos analgésicos do tipo urticária/angioedema, ou seja, doentes que
+manifestaram broncoespasmo ou outras reações anafilatoides após a
+administração de salicilatos, paracetamol ou outros analgésicos não-narcóticos,
+como por exemplo diclofenac, ibuprofeno, indometacina ou naproxeno,
+- doentes com deficiência congénita da glucose-6-fosfato-desidrogenase (risco de
+hemólise),
+- porfiria hepática aguda intermitente (risco de desencadear um ataque de porfiria).
+- terceiro trimestre de gravidez (ver secção 4.6),
+
+No caso de doenças hereditárias raras em que haja incompatibilidade com um
+excipiente do medicamento (ver secção 6.1), o uso do medicamento é
+contraindicado.
+
+A administração das ampolas de Nolotil está também contraindicada em:
+- doentes com hipotensão arterial e com circulação instável,
+Está ainda contraindicada a administração por injeção intra-arterial (ver secção
+4.4).
+4.4 Advertências e precauções especiais de utilização
+
+ Agranulocitose
+
+ O tratamento com metamizol pode causar agranulocitose, que pode ser fatal (ver
+ secção 4.8). Pode ocorrer mesmo depois de o metamizol ter sido utilizado
+ anteriormente sem complicações.
+
+ A agranulocitose induzida pelo metamizol é uma reação adversa idiossincrática.
+ Não é dependente da dose e pode ocorrer em qualquer altura durante o
+ tratamento, mesmo pouco tempo depois da sua interrupção.
+
+ Os doentes devem ser instruídos no sentido de interromperem o tratamento e
+ procurarem assistência médica imediata caso surjam sintomas sugestivos de
+ agranulocitose (por exemplo, febre, arrepios, dores de garganta e alterações
+ dolorosas das mucosas, especialmente na boca, nariz e garganta ou na região
+ genital ou anal).
+
+ Se o metamizol for tomado para a febre, alguns dos primeiros sintomas de
+ agranulocitose podem passar despercebidos. Da mesma forma, os sintomas
+ também podem ser mascarados em doentes que estiverem a receber terapia
+ antibiótica.
+
+ Se surgirem sinais e sintomas sugestivos de agranulocitose, deve ser efetuado
+ imediatamente um hemograma completo (incluindo hemograma diferencial) e o
+ tratamento deve ser interrompido enquanto se aguardam os resultados. Se
+ confirmado, o tratamento não deve ser reintroduzido (ver secção 4.3).
+
+
+Reações hematológicas (tais como agranulocitose ou pancitopenia)
+O medicamento contém metamizol, um derivado da pirazolona, que pode constituir
+um risco raro, mas potencialmente fatal, de agranulocitose (ver secção 4.8).
+
+Caso surjam sinais clínicos de reações hematológicas (tais como agranulocitose,
+anemia aplástica, trombocitopenia ou pancitopenia), o tratamento com Nolotil deve
+ser imediatamente descontinuado e deve-se monitorizar o hemograma (incluindo
+hemograma diferencial) até que tenha voltado ao normal (ver secção 4.8). A
+descontinuação do medicamento não deve ser protelada até serem obtidos os
+resultados laboratoriais. Todos os doentes devem ser aconselhados a consultar
+imediatamente um médico se durante o tratamento com Nolotil ocorrerem sinais e
+sintomas que sugiram discrasia sanguínea (por exemplo, mal-estar geral, infeção,
+febre persistente, hematomas, hemorragias ou palidez).
+Os doentes que revelam uma reação imunológica ao Nolotil como agranulocitose,
+têm também um risco elevado de responder da mesma forma a outras pirazolonas
+e pirazolidinas.
+
+Reações anafiláticas/ anafilatoides
+Ao escolher a via de administração, deve ter-se em conta que a administração
+parentérica de Nolotil tem um risco mais elevado de reações anafiláticas ou
+anafilatoides.
+
+O risco de reações anafilatoides potencialmente graves a Nolotil é
+substancialmente mais elevado em doentes com:
+- síndrome de asma induzida por analgésicos ou intolerância a analgésicos de tipo
+urticária/angioedema (ver secção 4.3),
+- asma brônquica, em particular na presença de rinosinusite e pólipos nasais,
+- urticária crónica,
+- intolerância a corantes (por exemplo, tartrazina) e/ou conservantes (por exemplo,
+benzoatos),
+- intolerância ao álcool. Estes doentes reagem a quantidades mínimas de bebidas
+alcoólicas com sintomas como espirros, olhos lacrimejantes e acentuado rubor
+facial. Este tipo de intolerância ao álcool pode ser indicativa de síndrome de asma
+induzida por analgésicos ainda não diagnosticada (ver secção 4.3).
+
+O metamizol pode constituir um risco raro, mas potencialmente fatal de choque
+(ver secção 4.8).
+
+A probabilidade de ocorrer um choque anafilático é superior em doentes
+suscetíveis. É necessário especial cuidado quando se utiliza Nolotil em doentes
+com asma ou atopia.
+
+Deve ser feito um rigoroso questionário ao doente antes da administração de
+Nolotil. Nos doentes com risco elevado de reações anafilatoides, Nolotil só deve
+ser administrado depois de serem avaliados os riscos potenciais relativamente aos
+benefícios esperados. Se Nolotil for administrado nestes casos, o doente deve ser
+cuidadosamente monitorizado, garantindo que estão disponíveis as medidas de
+emergência que possam vir a ser necessárias.
+
+Os doentes que revelam uma reação anafilática ou outra reação imunológica ao
+Nolotil têm também um risco elevado de responder da mesma forma a outras
+pirazolonas, pirazolidinas e outros analgésicos não narcóticos.
+
+Reações hipotensivas isoladas
+Metamizol pode provocar reações de hipotensão (ver "Efeitos indesejáveis").
+Estas reações podem depender da dose e são mais prováveis quando a
+administração é por via parentérica em vez de entérica.
+O risco destas reações também é maior em caso de:
+- injeção intravenosa demasiado rápida (ver secção 4.2),
+- doentes que, entre outras situações, tenham hipotensão arterial prévia,
+diminuição do volume ou desidratação, circulação instável ou ligeira insuficiência
+circulatória (nomeadamente doentes com enfarte do miocárdio ou
+politraumatismo),
+- doentes com febre alta.
+
+Deste modo, para estes doentes é essencial um cuidadoso diagnóstico e uma
+monitorização rigorosa. Podem ser necessárias medidas preventivas (por
+exemplo, estabilização da circulação) para reduzir o risco de reações de
+hipotensão. A utilização de Nolotil obriga a uma monitorização intensa dos
+parâmetros hemodinâmicos quando utilizado em doentes nos quais é necessário
+evitar a todo o custo uma descida da pressão sanguínea, como acontece na
+insuficiência coronária grave ou numa estenose relevante dos vasos que fornecem
+sangue ao cérebro.
+
+Reações cutâneas graves
+Foram notificadas reações cutâneas adversas graves (RCAG), incluíndo síndrome
+Stevens-Johnson (SSJ), necrólise epidérmica tóxica (NET) e reação
+medicamentosa com eosinofilia e sintomas sistémicos (DRESS), que podem ser
+potencialmente fatais ou fatais, com o tratamento com metamizol.
+
+Os doentes devem ser alertados para os sinais e sintomas e cuidadosamente
+monitorizados quanto a reações cutâneas.
+
+Se surgirem sinais e sintomas sugestivos destas reações o metamizol deve ser
+interrompido imediatamente, e não deve ser retomado em momento algum (ver
+secção 4.3).
+
+Hemorragias gastrointestinais
+Foram reportados casos de hemorragia gastrointestinal em doentes tratados com
+metamizol. Muitos desses doentes estavam a fazer tratamentos concomitantes
+(por exemplo, com AINEs) associados a hemorragia gastrointestinal ou registaram
+uma sobredosagem de metamizol.
+
+Risco associado a via de administração incorreta
+Deverá ser garantida a técnica de injeção apropriada. Caso seja inadvertidamente
+administrado por via intra-arterial, poderá ocorrer necrose potencialmente
+causadora de amputação da zona vascular distal.
+
+Risco em populações específicas
+Nos doentes com insuficiência renal ou hepática, Nolotil só deve ser utilizado
+depois de serem ponderados os riscos e benefícios, e de serem tomadas
+precauções apropriadas (ver secção 4.2).
+
+Lesão hepática induzida pelo medicamento
+
+Foram notificados casos de hepatite aguda com padrão predominantemente
+hepatocelular em doentes tratados com metamizol com início de alguns dias a
+poucos meses após a introdução do tratamento. Os sinais e sintomas incluem o
+aumento das enzimas hepáticas séricas com ou sem icterícia, frequentemente no
+contexto de outras reações de hipersensibilidade a medicamentos (por ex.,
+erupção cutânea, discrasias sanguíneas, febre e eosinofilia) ou acompanhado por
+características de hepatite autoimune. A maioria dos doentes recuperou com a
+interrupção do tratamento com metamizol; no entanto, em casos isolados, foi
+notificada progressão para insuficiência hepática aguda requerendo transplante
+hepático.
+O mecanismo da lesão hepática induzida pelo metamizol não está claramente
+elucidado, mas os dados indicam um mecanismo imunoalérgico.
+
+Os doentes devem ser instruídos a contactar o seu médico no caso de ocorrerem
+sintomas sugestivos de lesão hepática. Nestes doentes, o metamizol deve ser
+interrompido e a função hepática deve ser avaliada.
+
+O metamizol não deve ser reintroduzido em doentes com um episódio de lesão
+hepática
+durante o tratamento com metamizol para o qual não foi determinada outra causa
+de lesão hepática.
+
+
+4.5 Interações medicamentosas e outras formas de interação
+
+Metotrexato
+A administração concomitante de metamizol e metotrexato pode aumentar a
+toxicidade sanguínea do metotrexato, especialmente em doentes idosos. Esta
+combinação deve, portanto, ser evitada.
+Cloropromazina
+A utilização concomitante de metamizol e cloropromazina pode causar hipotermia
+grave.
+
+Ácido acetilsalicílico
+Quando administrados concomitantemente, o metamizol pode reduzir o efeito
+antiagregante plaquetário do ácido acetilsalicílico. Nolotil deve, por isso, ser
+utilizado com precaução em doentes que estão a tomar doses baixas de ácido
+acetilsalicílico para cardioproteção.
+
+Indução farmacocinética das enzimas metabolizadoras:
+
+O metamizol pode induzir as enzimas metabolizadoras, incluindo o CYP2B6 e o
+CYP3A4.
+
+A coadministração de metamizol com bupropiom, efavirenz, metadona, valproato,
+ciclosporina, tacrolímus ou sertralina, pode causar uma redução nas
+concentrações plasmáticas destes medicamentos com uma potencial diminuição
+da eficácia clínica. Assim, aconselha-se precaução quando o metamizol é
+administrado concomitantemente; a resposta clínica e/ou os níveis do fármaco
+devem ser monitorizados conforme apropriado.
+
+
+Álcool
+Os efeitos do álcool e do metamizol podem interferir entre si quando administrados
+em simultâneo.
+
+Interações adicionais das pirazolonas
+As pirazolonas também podem provocar interações com anticoagulantes orais,
+captopril, lítio, metotrexato e triamtereno. Podem igualmente afetar a eficácia dos
+anti-hipertensores. Desconhece-se até que ponto o metamizol pode provocar
+estas interações.
+
+O efeito hipoglicemiante dos antidiabéticos orais pode ser aumentado pela
+fenilbutazona e anti-inflamatórios não esteroides relacionados. Contudo, este
+efeito não foi notificado no caso da administração concomitante do metamizol com
+medicamentos hipoglicemiantes orais, como a sulfonilureia.
+Num estudo randomizado, controlado por placebo e com desenho crossover, que
+incluiu 12 doentes diabéticos a tomar glibenclamida (sulfonilureia), uma dose
+diária de metamizol de 1 g administrado durante 2 dias não interagiu com a
+glibenclamida. Neste estudo, foi demonstrado que doses de metamizol até 500 mg
+duas vezes por dia podem ser concomitantemente administradas com segurança
+com 4,5 mg de glibenclamida.
+
+Não foi notificada qualquer interação entre o metamizol e as sulfonamidas. Parece
+não existir evidência razoável de interação entre as sulfonamidas e o metamizol.
+
+4.6 Fertilidade, gravidez e aleitamento
+
+Gravidez
+Existem apenas dados limitados sobre a utilização do metamizol em mulheres
+grávidas.
+
+Com base em dados publicados de mulheres grávidas expostas ao metamizol
+durante o primeiro trimestre (n=568), não foi identificada qualquer evidência de
+efeitos teratogénicos ou embriotóxicos. Em casos selecionados, podem ser
+aceites doses únicas de metamizol durante o primeiro e o segundo trimestres de
+gravidez, quando não existirem outras opções de tratamento. No entanto, no geral,
+não se recomenda a utilização de metamizol durante o primeiro e o segundo
+trimestres de gravidez. A utilização durante o terceiro trimestre de gravidez está
+associada a fetotoxicidade (compromisso renal e constrição do canal arterial), pelo
+que a utilização de metamizol está contraindicada durante o terceiro trimestre de
+gravidez (ver secção 4.3). Em caso de utilização inadvertida do metamizol durante
+o terceiro trimestre de gravidez, o líquido amniótico e o canal arterial devem ser
+controlados por ecografia e ecocardiografia.
+
+O metamizol atravessa a barreira placentária.
+
+Em animais, o metamizol induziu toxicidade reprodutiva, mas não teratogenicidade
+(ver secção 5.3).
+
+Amamentação
+
+Os produtos de degradação do metamizol passam para o leite materno em
+quantidades consideráveis e o risco para o lactente não pode ser excluído. Assim,
+deve evitar-se a utilização repetida de metamizol, especialmente durante a
+amamentação. No caso de uma administração única de metamizol, as mães são
+aconselhadas a recolher e a rejeitar o leite materno durante 48 horas após a dose.
+Fertilidade
+
+Não foram realizados estudos clínicos sobre o efeito do metamizol na fertilidade
+humana. Estudos pré-clínicos realizados com metamizol não demonstraram
+qualquer efeito adverso sobre a fertilidade, em doses clinicamente relevantes (ver
+secção 5.3).
+
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar
+máquinas. Se for administrado na dose recomendada, não é previsível que este
+medicamento afete a concentração ou as reações. No entanto, por precaução, os
+doentes devem ser avisados de que, caso o medicamento seja administrado em
+doses mais elevadas, deverá ter-se em atenção a possibilidade de ocorrerem
+reações imprevistas.
+Os doentes devem, por isso, evitar utilizar máquinas, conduzir ou empreender
+atividades perigosas. O mesmo se aplica, de forma particular, à combinação deste
+medicamento com álcool.
+
+4.8 Efeitos indesejáveis
+
+Lista de reações adversas em formato tabelar
+
+As reações adversas são apresentadas por frequência absoluta. As frequências
+são definidas como muito frequente (≥1/10), frequente (≥1/100, <1/10), pouco
+frequente (≥1/1.000, < 1/100), raro (≥1/10.000, < 1/1.000), muito raro (< 1/10.000)
+ou desconhecido (não pode ser calculado a partir dos dados disponíveis).
+
+
+
+ Doenças do         Agranulocitose (incluindo casos fatais)        Muito raro
+ sangue e sistema   Anemia aplástica, pancitopenia (incluindo      Desconhecido
+ linfático          casos fatais)
+                    Sepsis (incluindo casos fatais)                Desconhecido
+                    Leucopenia                                     Raro
+                    Trombocitopenia                                Muito raro
+ Doenças do         Choque anafilático (incluindo casos            Desconhecido
+ sistema imunitário fatais)*
+ e afeções dos      Reação anafilática*                            Raro
+ tecidos cutâneos e Reação anafilatoide*                           Raro
+ subcutâneos        Necrólise epidérmica tóxica                    Muito raro
+                    Síndrome de Stevens-Johnson                    Muito raro
+                    Asma (em doentes com síndrome                  Raro
+                    asmática causada por analgésicos)
+                    Erupção medicamentosa                          Pouco
+                                                                   frequente
+                      Erupção cutânea maculo-papular               Raro
+                       Reações cutâneas                       Pouco
+                                                              frequente
+                       Hipersensibilidade                     Desconhecido
+                       Reação medicamentosa com eosinofilia e Desconhecido
+                       sintomas sistémicos (DRESS)
+                       Erupção fixa medicamentosa             Pouco
+                                                              frequente
+ Cardiopatias          Síndrome de Kounis                     Desconhecido
+ Vasculopatias         Choque                                 Muito raro
+                       Hipotensão                             Frequente
+                       Flebite                                Muito raro
+                       Dor no local da injeção                Pouco
+                                                              frequente
+                       Reação no local da injeção             Desconhecido
+ Doenças               Hemorragia gastrointestinal            Desconhecido
+ gastrointestinais
+ Afeções               Lesão hepática induzida pelo                  Desconhecido
+ hepatobiliares        medicamento incluindo hepatite aguda,
+                       icterícia, aumento das enzimas hepáticas
+                       (ver secção 4.4)
+ Doenças renais e      Insuficiência renal aguda                     Muito raro
+ urinárias             Anúria                                        Muito raro
+                       Nefrite intersticial                          Muito raro
+                       Oligúria                                      Muito raro
+                       Proteinúria                                   Muito raro
+                       Insuficiência renal                           Muito raro
+                       Cromatúria                                    Desconhecido
+
+* sobretudo após administração parentérica.
+
+Doenças do sangue e sistema linfático
+Tratar-se-á provavelmente de reações imunológicas, que poderão ocorrer mesmo
+que o metamizol tenha sido administrado em ocasiões prévias sem que tenham
+ocorrido complicações.
+A agranulocitose manifesta-se sob a forma de pirexia, arrepios, dor orofaríngea,
+disfagia, estomatite, rinite, faringite, inflamação do trato genital e inflamação anal.
+Estes sinais podem ser mínimos em doentes que estejam a tomar antibióticos. A
+ocorrência de linfadenopatia ou esplenomegalia foi diminuta ou mesmo
+inexistente. Verifica-se um aumento acentuado da velocidade de sedimentação
+dos glóbulos vermelhos; há uma diminuição considerável ou mesmo uma ausência
+total de granulócitos. Os valores da hemoglobina, glóbulos vermelhos e plaquetas
+podem ser anormais.
+Recomenda-se fortemente que Nolotil seja imediatamente descontinuado e que se
+recorra a um médico sem esperar pelos resultados laboratoriais, nos seguintes
+casos:
+- se se verificar um agravamento inesperado do estado geral do doente
+- se a febre não baixar ou reaparecer
+- se houver alterações dolorosas da mucosa da boca, nariz e garganta.
+Doenças do sistema imunitário e afeções dos tecidos cutâneos e subcutâneos
+A ocorrência de reações mais ligeiras (como, por exemplo, reações cutâneas ou
+que envolvam as mucosas, nomeadamente prurido, sensação de queimadura,
+eritema, inchaço, dispneia ou alterações gastrointestinais) pode levar a reações
+mais graves (como, por exemplo, urticária generalizada, angioedema grave,
+incluindo a região da laringe, broncoespamo grave, arritmia, diminuição da
+pressão arterial que, por vezes, é antecipada por uma subida da mesma). Nolotil
+deverá ser imediatamente descontinuado, caso se verifiquem reações cutâneas.
+Caso essas reações sejam graves, deve descontinuar-se imediatamente a
+administração de Nolotil e consultar um médico.
+O tratamento apropriado deverá ser iniciado assim que surjam sinais/sintomas de
+anafilaxia.
+As reações anafiláticas poderão ocorrer durante, ou imediatamente após, a
+administração de Nolotil ou algumas horas depois. Geralmente, tais reações
+ocorrem na primeira hora após a administração.
+
+Vasculopatias
+As reações hipotensivas que ocorram durante ou após a utilização podem ser
+induzidas pelo fármaco, sem surgirem associadas a outros sinais de reações
+anafilatoides/anafiláticas. Tais reações podem conduzir a hipotensão grave.
+
+Uma injeção intravenosa rápida aumenta o risco de reações hipotensivas.
+No caso de hiperpirexia, ou após uma injeção demasiadamente rápida, pode
+ocorrer uma descida crítica e dose dependente da pressão arterial, sem que se
+verifiquem outros sinais de intolerância.
+
+Doenças renais e urinárias
+A excreção de ácido rubazónico, um metabolito inofensivo do metamizol, pode
+provocar uma coloração avermelhada da urina, que desaparece quando o
+tratamento é descontinuado.
+
+Foram notificadas reações cutâneas adversas graves, incluindo síndrome de
+Stevens-Johnson (SSJ), necrólise epidérmica tóxica (NET) e reação
+medicamentosa com eosinofilia e sintomas sistémicos (DRESS), associadas ao
+tratamento com metamizol (ver secção 4.4).
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do
+medicamento é importante, uma vez que permite uma monitorização contínua da
+relação benefício-risco do medicamento. Pede-se aos profissionais de saúde que
+notifiquem quaisquer suspeitas de reações adversas diretamente ao INFARMED,
+I.P.:
+Portugal
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+E-mail: farmacovigilancia@infarmed.pt
+
+4.9 Sobredosagem
+
+Sintomas
+Após sobredosagem aguda, observaram-se náuseas, vómitos, dor abdominal,
+insuficiência renal crónica/aguda (manifestada, por exemplo, por nefrite intersticial)
+e, mais raramente, sintomas do sistema nervoso central (tonturas, sonolência,
+coma, convulsões) e uma descida da pressão arterial ou mesmo choque e
+taquicardia.
+Após administração de doses muito elevadas, a excreção do ácido rubazónico
+pode provocar uma coloração avermelhada da urina.
+
+Tratamento
+Não se conhece nenhum antídoto específico para o metamizol. Caso o
+medicamento tenha sido administrado há pouco tempo, poderão adotar-se
+medidas que diminuam a absorção (por exemplo, carvão ativado) com o objetivo
+de limitar a absorção pelo organismo. O principal metabolito (4-N-metil-amino-
+antipirina) pode ser eliminado através de hemodiálise, hemofiltração,
+hemoperfusão ou filtração do plasma.
+O tratamento da intoxicação e a prevenção de complicações graves pode obrigar
+a monitorização e tratamento médico gerais e específicos.
+
+Medidas agudas em caso de intolerância grave ao fármaco (choque):
+Aos primeiros sinais (por exemplo, reações cutâneas tais como urticária,
+vermelhidão, agitação, dores de cabeça, sudorese intensa, náuseas) deverá
+parar-se imediatamente a administração.
+Deverá deixar-se a cânula na veia ou preparar um acesso venoso. Para além das
+medidas de emergência habituais, como inclinar a cabeça e a parte superior do
+tronco, manter as vias aéreas, administrar oxigénio, pode ainda ser necessário
+administrar simpatomiméticos, expansores do volume ou glucocorticoides.
+
+
+5. PROPRIEDADES FARMACOLÓGICAS
+
+5.1 Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 2.10 – Sistema Nervoso Central. Analgésicos e
+antipiréticos, código ATC: N02BB
+
+Mecanismo de ação
+O metamizol magnésico, o princípio ativo do Nolotil, é um analgésico pirazolónico
+não narcótico que possui ação analgésica, antipirética e espasmolítica. O seu
+mecanismo de ação não está completamente esclarecido. Os dados sugerem que
+o metamizol e o seu metabolito principal (4-N-metilamino-antipirina) poderão ter
+um mecanismo de ação combinado a nível central e periférico. Em doses
+supraterapêuticas verifica-se um efeito anti-inflamatório que poderá resultar da
+inibição da síntese das prostaglandinas.
+
+5.2 Propriedades farmacocinéticas
+
+Absorção
+Após administração oral, o metamizol é rapidamente hidrolisado a nível do suco
+gástrico no seu metabolito principal, 4-metilaminoantipirina (4-MMA), que é
+rapidamente absorvido. Após administração oral, o metamizol é quase totalmente
+absorvido. A biodisponibilidade de 4-MAA para os comprimidos foi de 85-93% e
+para a via I.M. de 87%. A média dos valores de tmax foram de 1,2 a 2 h para a
+administração oral e 1, 7h para a administração IM. A ingestão concomitante de
+alimentos não tem qualquer efeito relevante sobre a farmacocinética do
+metamizol.
+
+Distribuição
+A ligação do 4-MAA às proteínas plasmáticas é de 58%. A ligação às proteínas
+plasmáticas dos outros metabolitos do metamizol é a seguinte: 4-amino-antipirina;
+48%, 4-formilaminoantipirina, 18%; e 4-acetilaminoantipirina, 14%. O metamizol
+pode passar a barreira placentária. Os metabolitos são excretados no leite
+materno.
+
+Biotransformação
+O principal metabolito (4-MAA) é também metabolizado pelo fígado por oxidação e
+desmetilação, seguida por acetilação. Os principais metabolitos do metamizol são:
+4-metilaminoantipirina (4-MAA), 4-amino-antipirina (4-AA), 4-formilaminoantipirina
+(4-FAA) e 4-acetilaminoantipirina (4-AcAA). A análise dos quatro principais
+metabolitos do metamizol mostra que o efeito antipirético, analgésico e anti-
+inflamatório pode ser atribuído aos metabolitos 4-MAA e 4-AA.
+
+Eliminação
+Em homens saudáveis, após administração oral e I.V., mais de 90% da dose foi
+eliminada na urina no espaço de 7 dias. A semivida de eliminação do metamizol
+marcado por isótopos radioativos é cerca de 10 horas. Para o 4-MMA, as
+semividas terminais de eliminação, após administração por diferentes vias,
+variaram entre 2,5±0,06 e 3,2±0,8 horas; para os outros metabolitos principais a
+semivida de eliminação é de 3,7 a 11,2 horas. As crianças eliminam os
+metabolitos mais rapidamente que os adultos.
+Em voluntários idosos sãos, a semivida de eliminação do 4-MAA foi
+significativamente mais longa e a sua clearance significativamente mais baixa do
+que em indivíduos jovens.
+Em doentes com insuficiência hepática, a semivida de eliminação do 4-MAA e 4-
+FAA aumentou cerca de três vezes. Em doentes com insuficiência renal, a
+eliminação de alguns metabolitos (4-AcAA, 4-FAA) é menor. Consequentemente,
+devem evitar-se doses elevadas em doentes com insuficiência hepática e renal.
+
+Linearidade/não-linearidade
+Todos os metabolitos do metamizol mostram uma farmacocinética não linear.
+Desconhece-se a relevância clínica deste fenómeno. Durante o tratamento de
+curto prazo, a acumulação de metabolitos não tem qualquer importância.
+
+5.3 Dados de segurança pré-clínica
+
+Foram efetuados estudos de toxicidade de dose única e repetida em roedores e
+não-roedores. A toxicidade oral aguda é baixa com valores de DL50 entre 3127-
+4351 mg/kg para murganhos e ratos.
+Após administração intravenosa os valores da DL50 foram de 2389 mg/kg em
+ambas as espécies. Os sinais de toxicidade foram inicialmente taquipneia seguida
+de sedação e analgesia. Animais tratados com doses letais, desenvolveram
+convulsões antes de morrer. As doses letais provocaram a morte na primeira hora
+quando administradas por via parentérica e ao fim de um dia quando a
+administração é feita por via oral.
+
+Os efeitos da administração subcutânea e intravenosa do metamizol em toma
+diária de 50, 150 ou 450 mg/kg durante 4 semanas foram estudados em ratos e
+cães. Em ambas as espécies foram observadas reações locais no sítio da injeção
+com 450 mg/kg. Observou-se também um aumento dos corpos de Heinz e
+reticulócitos com esta dose. Nos cães foram observados vómitos ocasionais e
+aumento da salivação após injeção intravenosa de 150 mg/kg e foi observada uma
+redução do hematócrito com 450 mg/kg. Foi observada uma coloração vermelha
+da urina resultante da excreção renal da degradação do ácido rubazónico. Não
+houve evidência morfológica de danos orgânicos.
+
+Foram realizados testes de toxicidade oral crónica (6 meses) em ratos (100, 300
+ou 900 mg/kg/dia) e cães (30, 100, 300 ou 600 mg/kg/dia). Nos cães foram
+observados vómitos ocasionais com doses de 100 mg/kg e um aumento da
+salivação após administração de 300 mg/kg. O peso corporal ganho sofreu uma
+diminuição, nos ratos após administração de 900 mg/kg e nos cães após
+administração de 600 mg/kg. Foi observada uma coloração vermelha na urina em
+ambas as espécies nas doses mais altas. Observou-se aumento nos corpos de
+Heinz e nos reticulócitos, nos ratos após administração de 900 mg/kg e nos cães
+após administração de 300 e 600 mg/kg. Após administração de 600 mg/kg foi
+observado nos cães uma diminuição dos eritrócitos, hemoglobina e leucócitos.
+Com exceção de siderose no fígado canino, atribuída à destruição dos eritrócitos,
+não foram observadas alterações morfológicas.
+
+Num estudo oral de fertilidade em ratos (100, 250 ou 625 mg/kg/dia) não foi
+observada nenhuma influência na fertilidade dos machos da geração F1 e
+nenhuma alteração da geração F2. Nas fêmeas da geração F0, para doses
+maternotóxicas (650mg/kg/dia), foram observadas reduções no peso corporal, no
+consumo de alimentos e no número de crias.
+
+Num estudo de teratogenicidade em ratos (100, 400 ou 800 mg/kg/dia), foi
+observada uma diminuição do número de fetos e uma ligeira redução no peso
+médio das crias com a dosagem mais alta. Não se verificaram malformações.
+Num estudo oral de teratogenicidade em coelhos (25, 100 ou 400 mg/kg/dia), a
+curva do desenvolvimento do peso corporal das fêmeas sofreu um ligeiro
+alisamento com a dose mais alta. Com as doses de 100 e 400 mg/kg, o número de
+crias foi reduzido. Não se verificaram malformações.
+
+Não houve indicação de potencial genotóxico in-vitro e in-vivo.
+
+Em estudos de carcinogenicidade de dois anos, em ratos (1000 ou 3000 ppm) e
+em murganhos (400, 1000 ou 2500 ppm) não houve sinais que possam sugerir um
+potencial efeito tumorigénico do metamizol. Não foi observado potencial
+tumorigénico quando foram administrados aos ratos simultaneamente 1000 ou
+3000 ppm de metamizol na alimentação e 1000 ppm de nitrito de sódio na água de
+beber.
+Num estudo carcinogénico transplacentário, ratos fêmea grávidas receberam 500
+mg/kg de metamizol através de sonda gástrica e 1000 ppm de nitrito de sódio na
+água de beber. Não se verificou efeito carcinogénico transplacentário.
+
+
+6. INFORMAÇÕES FARMACÊUTICAS
+
+6.1 Lista dos excipientes
+
+Água para preparações injetáveis
+
+6.2 Incompatibilidades
+
+Devido a possíveis incompatibilidades, Nolotil não deverá ser adicionado a outros
+fármacos na mesma seringa.
+
+6.3 Prazo de validade
+
+3 anos.
+
+6.4 Precauções especiais de conservação
+
+Conservar a temperatura inferior a 25ºC.
+Conservar ao abrigo da luz, em local seco.
+
+6.5 Natureza e conteúdo do recipiente
+
+5 ml de solução injetável em ampolas de vidro âmbar. Embalagens de 5 ou 100
+ampolas (embalagem hospitalar).
+
+6.6 Precauções especiais de eliminação e manuseamento
+
+Não aplicável.
+
+
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+Boehringer Ingelheim Portugal, Lda.
+Avenida de Pádua, 11
+1800-294 Lisboa
+Tel: 21 313 53 00
+Fax: 21 313 53 03
+
+
+8. NÚMEROS DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Nº de registo: 8512202 - 5 ml de solução injetável, 2000 mg/5 ml, 5 ampolas de
+vidro âmbar
+Nº de registo: 8512210 - 5 ml de solução injetável, 2000 mg/5 ml, 100 ampolas de
+vidro âmbar
+
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 14 de agosto de 1980
+Data da última renovação: 14 de outubro de 2004
+
+
+10. DATA DA REVISÃO DO TEXTO
+

@@ -1,0 +1,31 @@
+{
+  "medId": "ferro-hidroxido-sacarato",
+  "searchTerm": "ferro",
+  "retrievedAt": "2026-02-09T00:37:58.615Z",
+  "bestMatch": {
+    "infarmedId": "2459",
+    "name": "Desferal",
+    "dci": "Desferroxamina",
+    "form": "Pó para solução injetável",
+    "dosage": "500 mg",
+    "holder": "Mitem Pharma",
+    "isGeneric": false,
+    "score": 110
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/2459-rcm.pdf",
+      "size": 149661
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/2459-fi.pdf",
+      "size": 95652
+    }
+  }
+}

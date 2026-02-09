@@ -1,0 +1,463 @@
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+
+1. NOME DO MEDICAMENTO
+
+Heparina LEO 25000 U.I./5 ml solução injetável
+
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada ml de solução injetável contém 5000 U.I. de heparina sódica.
+
+Excipiente(s) com efeito conhecido
+álcool benzílico – 10 mg/ml
+para-hidroxibenzoato de metilo – 1 mg/ml
+para-hidroxibenzoato de propilo – 0.2 mg/ml
+sódio – 6,5 mg/ml (sob a forma de cloreto de sódio e citrato de sódio)
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+3. FORMA FARMACÊUTICA
+
+Solução injetável.
+
+
+4. INFORMAÇÕES CLÍNICAS
+
+4.1 Indicações terapêuticas
+
+A heparina está indicada para a profilaxia e tratamento da trombose venosa e da embolia
+pulmonar; tratamento do enfarte de miocárdio e embolia arterial; para prevenir a coagulação em
+cirurgia arterial e cardíaca e para a prevenção da trombose cerebral. Pode também empregar-se
+como anticoagulante nas transfusões sanguíneas, circulação extracorporal, processos de diálise e
+para fins laboratoriais.
+
+4.2 Posologia e modo de administração
+
+A heparina administra-se por via intravenosa ou subcutânea. Devido à alta incidência de
+hematomas não se aconselha a injeção intramuscular. O aumento do tempo de coagulação
+manifesta-se logo a seguir à administração e dura 4 a 6 horas após a injeção intravenosa e cerca
+de 8 horas após a injeção subcutânea.
+
+Hemodiálise:
+Normalmente são necessárias 7.500 a 12.500 U.I. (sem conservantes) por diálise.
+
+Administração intravenosa:
+5.000 a 10.000 U.I. de 4 em 4 horas, quer por injeção quer por perfusão contínua diluída em
+cloreto de sódio ou dextrose. A dose deve ser ajustada, de acordo com os resultados dos testes de
+coagulação efetuados momentos antes de cada administração. O tempo de coagulação deve ser 2
+a 3 vezes o valor determinado nas provas.
+Administração subcutânea (dose terapêutica):
+A administração subcutânea de 10.000 U.I. deve praticar-se 8 horas depois de aplicada uma
+injeção intravenosa inicial de 5.000 U.I.
+
+Dose profilática:
+Devem dar-se 5.000 U.I. por via subcutânea 2 a 6 horas do pré-operatório e cada 8 a 12 horas do
+pós-operatório durante 10 a 14 dias ou até que o doente se movimente.
+
+Enfarte do miocárdio:
+5.000 U.I., por via subcutânea, de 12 em 12 horas, começando dentro das 12 horas seguintes ao
+aparecimento do primeiro sinal de enfarte do miocárdio.
+
+Cirurgia do coração aberto:
+Operações de menos de 2 horas, 120 U.I./kg/hora.
+Para intervenções de duração mais longa deverá administrar-se 1 vez e meia esta dose. Para cada
+450 ml de sangue utilizado são necessárias 2.000 U.I..
+Os períodos de tratamento variam entre 10 e 14 dias na profilaxia peri-operatória e durante 6
+semanas no tratamento de uma trombose estabelecida.
+Prevê-se que a heparina desaparecerá da corrente sanguínea 4 horas depois da injeção intravenosa
+de 5.000 U.I., e 6 a 8 horas depois da administração de 10.000 U.I. e 15.000 U.I., respetivamente.
+Nos estados que necessitem de grandes quantidades de heparina, tal como no by-pass
+cardiopulmunar, deve empregar-se a heparina sem conservante. Se não se puder dispor de
+heparina sem conservante, deve utilizar-se a solução mais concentrada de heparina (25.000
+U.I./ml) para minimizar a quantidade de conservante administrado.
+
+Utilização em crianças:
+Perfusão intravenosa contínua: administrar uma dose inicial de 75 UI/kg durante 10 minutos
+seguido de uma dose de manutenção de 28 UI/kg/hora em crianças com menos de 1 ano e 20
+UI/kg/hora em crianças com mais de 1 ano.
+O tratamento deve ser monitorizado através da determinação do APTT. A dose pediátrica deve
+ser ajustada de forma a manter um APTT em 60-85 segundos.
+
+Posologia em pessoas idosas
+As mulheres de certa idade têm maior tendência para hemorragias podendo pois ser necessária
+uma redução da dose de acordo com os ensaios de coagulação, mas para fins profiláticos, raras
+vezes é indicado modificar a dose.
+
+Utilização durante a gravidez
+Tratamento da trombose venosa profunda e embolismo pulmonar
+O tratamento padrão deve ser descontinuado 24 horas antes do momento esperado do parto (em
+mulheres com elevado risco de TVP recorrente – 4 a 6 horas antes do parto).
+Prevenção do tromboembolismo venoso
+Inicialmente é por norma adequada a dose subcutânea padrão de 5.000 UI a cada 8-12 horas, mas
+poderá ser necessário administrar doses até 10.000 UI a cada 12 horas no terceiro trimestre. É
+aconselhável a monitorização através da determinação do APTT.
+Grávidas com próteses de válvulas cardíacas
+Em grávidas com próteses de válvulas cardíacas recomenda-se durante a gravidez a administração
+subcutânea duas vezes dia de doses de heparina ajustadas de forma a manter os valores do APTT
+com pelo menos o dobro do controlo.
+4.3 Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na secção
+6.1.
+
+História ou atual trombocitopenia imunomediada induzida por heparina (tipo II) (ver secção 4.4).
+
+Hemorragia major ativa e fatores de risco para hemorragia major.
+
+Endocardite sética.
+
+A anestesia loco-regional está contraindicada em procedimentos cirúrgicos eletivos em doentes
+que estejam a receber tratamento com heparina. Para além disso, está contraindicada a inserção de
+cateter epidural em doentes a receber doses de tratamento de heparina. A remoção ou
+manipulação de um cateter epidural apenas deve ser efetuada quando os benefícios compensem
+os riscos (ver secção 4.4).
+
+4.4 Advertências e precauções especiais de utilização
+
+Deve ter-se precaução quando a Heparina for administrada a doentes com risco de hemorragia
+(ver secção 4.3).
+
+A combinação com medicamentos que afetem a função plaquetária ou o sistema de coagulação
+deve ser evitada ou cuidadosamente monitorizada (ver secção 4.5).
+
+Em doentes submetidos a anestesia peridural ou espinal ou punção espinal, o uso profilático de
+heparina pode estar raramente associado a hematoma epidural ou espinal, resultando em paralisia
+prolongada ou permanente. O risco está aumentado pelo uso de cateter peridural ou espinal para
+anestesia, pelo uso concomitante de medicamentos que afetem a hemóstase, como os anti-
+inflamatórios não esteroides (AINEs), inibidores plaquetários ou anticoagulantes, e por punção
+traumática ou repetida.
+
+Devem ser considerados o perfil do doente e as características do produto na decisão do intervalo
+que decorre entre a última administração de heparina em doses profiláticas (≤15.000 UI/dia) e a
+colocação ou remoção de um cateter peridural ou espinal. A colocação ou remoção de um cateter
+peridural ou espinal não deve ser permitida até que decorram 4 a 6 horas da última administração
+de heparina e a dose subsequente não deve ser administrada antes de ter passado, pelo menos, 1
+hora do procedimento. Para doses de tratamento (>15.000 UI/dia), a colocação ou remoção do
+cateter peridural ou espinal não deve ser permitida até que decorram 4 a 6 horas da última
+administração intravenosa de heparina ou 8 a 12 horas após a última administração subcutânea de
+heparina. A readministração deve ser atrasada até que o procedimento cirúrgico esteja finalizado
+ou tenha passado, pelo menos, 1 hora.
+
+Se o médico decidir administrar anticoagulação no contexto de uma anestesia peridural ou
+espinal, deve efetuar-se uma vigilância extrema e monitorização frequente, de forma a detetar
+quaisquer sinais ou sintomas de insuficiência neurológica, como dor lombar, défice sensorial e
+motor (dormência e fraqueza nos membros inferiores) e disfunção do intestino e bexiga. Os
+enfermeiros devem ser treinados para a deteção destes sinais e sintomas. Os doentes devem ser
+instruídos no sentido de informarem de imediato o enfermeiro ou médico se ocorrer algum destes
+efeitos. Se se suspeitar de sinais ou sintomas de hematoma espinal, deve ser realizado um
+diagnóstico urgente e tratamento que inclua descompressão da espinal medula.
+A heparina não deve ser administrada por injeção intramuscular devido ao risco de hematoma.
+Devido ao risco de hematoma, devem evitar-se injeções intramusculares concomitantes.
+
+Devido ao risco de trombocitopenia imunomediada induzida por heparina (tipo II), deve efetuar-
+se contagem de plaquetas antes do início do tratamento e periodicamente após o tratamento. A
+Heparina LEO deve ser descontinuada em doentes que desenvolvam trombocitopenia
+imunomediada induzida por heparina (tipo II) (ver secções 4.3 e 4.8). a contagem de plaquetas
+normalizará em 2 a 4 semanas após descontinuação.
+
+As heparinas de baixo peso molecular não devem ser utilizadas como alternativa à heparina, em
+caso de trombocitopenia induzida por heparina (tipo II).
+
+Os medicamentos à base de heparina podem causar a supressão da secreção renal de aldosterona,
+resultando em hipercaliemia (ver secção 4.8). Os fatores de risco são diabetes mellitus, falência
+renal crónica, terapêutica concomitante com medicamentos que elevem o potássio plasmático e
+uso prolongado de heparina (ver secção 4.5).
+
+Em doentes em risco, os níveis de potássio devem ser medidos antes de iniciar o tratamento com
+Heparina LEO, devendo ser monitorizados regularmente. A hipercaliemia relacionada com
+heparina é, geralmente, reversível após descontinuação do tratamento, embora possam ter de ser
+consideradas outras abordagens se o tratamento com heparina for considerado fundamental (ex:
+diminuação da ingestão de potássio, interrupção de outros tratamentos que possam afetar o
+equilíbrio do potássio).
+
+Este medicamento contém álcool benzílico, metil e propilhidrobenzoato e sódio.
+O metil e propilhidroxibenzoato podem causar reações alérgicas (possivelmente retardadas) e,
+excecionalmente, broncoespasmo.
+
+Este medicamento contém 10 mg/ml de álcool benzílico. O álcool benzílico pode causar reações
+alérgicas.
+
+A administração intravenosa de álcool benzílico tem sido associada com acontecimentos adversos
+graves e morte em recém-nascidos (“síndrome de gasping”) e não deve usado em bebés recém-
+nascidos (até 4 semanas de idade). A quantidade mínima de álcool benzílico em que pode ocorrer
+toxicidade é desconhecida. Devido ao risco aumentado de acumulação, este medicamento não
+deve ser utilizado durante mais do que uma semana em crianças pequenas (menos do que 3 anos
+de idade).
+
+Grandes volumes devem ser utilizados com precaução e apenas se necessário, especialmente em
+indivíduos com compromisso hepático e renal devido ao risco de acumulação e toxicidade
+(acidose metabólica).
+
+Este medicamento contém 6,5 mg/ml de sódio, o que é menos do que 1 mmol (23 mg) de sódio
+por ml, ou seja, é praticamente “isento de sódio” para doses até 3,5 ml (o correspondente a 17500
+UI de heparina sódica).
+
+Este medicamento contém 33 mg de sódio por frasco para injetáveis, equivalente a 1,7 % da
+ingestão diária máxima recomendada pela OMS de 2 g de sódio para um adulto.”
+
+4.5 Interações medicamentosas e outras formas de interação
+O efeito anticoagulante da Heparina LEO pode ser potenciado pela administração concomitante
+de outros medicamentos que afetem o sistema de coagulação, como inibidores da função
+plaquetária (ex: ácido acetilsalicílico, outros anti-inflamatórios não esteroides (AINEs) e
+inibidores seletivos da recaptação de serotonina (ISRSs), agentes trombolíticos, antagonistas da
+vitamina K, proteína C ativada e inibidores diretos da trombina. Estas associações devem ser
+evitadas ou cuidadosamente monitorizadas (ver secção 4.4).
+
+4.6 Fertilidade, gravidez e aleitamento
+
+Gravidez
+O tratamento anticoagulante em mulheres grávidas requer o envolvimento de um especialista.
+
+Um grande número de dados em mulheres grávidas (mais de 1000 resultados de gravidez)
+indicam que não existir malformações ou toxicidade feto/neonatal associadas à heparina.
+
+A heparina não atravessa a placenta e pode ser utilizada em todos os trimestres da gravidez, se
+clinicamente necessária.
+Deve ser tomada precaução em relação ao risco de hemorragia, especialmente durante o parto e
+anestesia epidural (ver secções 4.3 e 4.4).
+
+Devido ao risco de hematoma espinal, as doses de tratamento de heparina estão contraindicadas
+em doentes submetidos a anestesia neuraxial (ver secção 4.3). Assim, a anestesia epidural em
+mulheres grávidas deve ser sempre atrasada até pelo menos 4 a 6 horas após a administração
+intravenosa do último tratamento de heparina, e 8 a 12 horas após a administração subcutânea do
+último tratamento de heparina. No entanto, as doses profiláticas podem ser utilizadas desde que se
+permita um intervalo de 4 a 6 horas entre a última administração de heparina e a colocação de
+agulha ou cateter (ver secção 4.4).
+
+A Heparina LEO contém álcool benzílico que pode acumular-se e causar acidose metabólica. Este
+conservante pode atravessar a placenta.
+
+Amamentação
+A heparina não é excretada no leite humano e pode ser utilizada durante a amamentação.
+
+A Heparina LEO contém álcool benzílico que pode acumular-se e causar acidose metabólica.
+
+Fertilidade
+Não existem estudos clínicos para a heparina no que diz respeito à fertilidade.
+
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos da Heparina LEO sobre a capacidade de conduzir e utilizar máquinas são nulos ou
+desprezíveis.
+
+4.8 Efeitos indesejáveis
+
+A estimativa de frequência dos efeitos indesejáveis baseia-se numa análise conjunta de dados de
+estudos clínicos e notificação espontânea.
+
+As reações adversas mais frequentemente relatadas são hemorragia e eritema.
+A hemorragia pode estar presente em qualquer órgão e apresentar diferentes graus de severidade
+(ver secção 4.4). Podem ocorrer complicações quando são administradas doses elevadas. Embora
+hemorragias major sejam pouco frequentes, em alguns casos, foi relatada incapacidade
+permanente ou morte.
+
+A trombocitopenia imunomediada induzida por heparina (tipo II) é pouco frequente, mas é bem
+conhecida a sua relação com a heparina. A trombocitopenia imunomediada induzida por heparina
+(tipo II) manifesta-se em 5 a 14 dias após a administração da primeira dose. Para além disso, foi
+descrito um rápido início em doentes previamente expostos à heparina. A trombocitopenia
+imunomediada induzida por heparina (tipo II) pode estar associada a trombose venosa e arterial.
+A heparina deve ser descontinuada em todos os casos de trombocitopenia imunomediada induzida
+por heparina (tipo II) (ver secção 4.4).
+
+Em casos raros, a heparina pode causar hipercaliemia devido a hipoaldosteronismo. Os doentes
+em risco incluem os que sofrem de diabetes mellitus e insuficiência renal (ver secção 4.4).
+
+Os efeitos indesejáveis encontram-se enumerados por classes de sistemas de órgãos MedDRA e
+os efeitos indesejáveis individuais estão listados começando pelos mais frequentemente relatados.
+Dentro de cada classe de frequência, as reações adversas apresentam-se por ordem decrescente de
+gravidade.
+
+Muito frequentes ≥1/10
+Frequentes         ≥1/100 a <1/10
+Pouco frequentes ≥1/1.000 a <1/100
+Raras       ≥1/10.000 a <1/1000
+Muito raras        <1/10.000
+
+  Doenças do sangue e do sistema linfático
+  Pouco frequentes:                     Trombocitopenia, incluindo trombocitopenia não
+                                        imune associada à heparina (tipo I)
+  Doenças do sistema imunitário
+  Pouco frequentes:                     Reação anafilática
+                                        Trombocitopenia induzida pela heparina (tipo II)
+                                        Hipersensibilidade
+  Doenças do metabolismo e da nutrição
+  Pouco frequentes:                     Hipercaliemia
+  Vasculopatias
+  Frequentes:                           Hemorragia
+                                        Hematoma
+  Afeções dos tecidos cutâneos e subcutâneos
+  Frequentes:                           Eritema
+  Pouco frequentes:                     Necrose da pele
+                                        Erupção cutânea*
+                                        Urticária
+                                        Prurido
+
+                                         *Foram relatados vários tipos de erupção cutânea,
+                                         como eritematosa, generalizada, macular, maculo-
+                                         papular, papular e prurítica.
+  Afeções musculosqueléticas e dos tecidos conjuntivos
+  Pouco frequentes:                      Osteoporose (relacionada com tratamentos
+                                         prolongados)
+  Doenças dos órgãos genitais e da mama
+  Pouco frequentes:                      Priapismo
+  Perturbações gerais e alterações no local de administração
+  Pouco frequentes:                      Reação no local de injeção
+  Exames complementares de diagnóstico
+  Frequentes:                            Aumento das transaminases
+  Pouco frequentes:                      Tempo de tromboplastina parcial prolongado
+                                         além da margem terapêutica
+
+População pediátrica
+O perfil de segurança observado é semelhante em crianças e adultos.
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante,
+uma vez que permite uma monitorização contínua da relação benefício-risco do medicamento.
+Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas
+diretamente ao INFARMED, I.P.:
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+E-mail: farmacovigilancia@infarmed.pt
+
+4.9 Sobredosagem
+
+A hemorragia é a complicação principal que pode surgir com uma sobredosagem.
+As heparinas são rapidamente eliminadas, pelo que a descontinuação do tratamento é suficiente
+no caso de hemorragias minor.
+Hemorragias graves podem requerer a administração do antídoto sulfato de protamina. Os
+doentes devem ser monitorizados cuidadosamente.
+
+
+5. PROPRIEDADES FARMACOLÓGICAS
+
+5.1 Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 4.3.1.1- Sangue. Anticoagulantes e antitrombóticos. Anticoagulantes.
+Heparinas, código ATC B01AB01 HEPARINA
+
+A heparina sódica, princípio ativo da Heparina LEO, é uma substância heterogénea que se
+encontra normalmente combinada com proteínas em muitos tecidos animais.
+A origem da Heparina LEO é a mucosa intestinal do porco.
+As propriedades anticoagulantes da heparina foram descritas pela primeira vez em 1961 e durante
+as últimas décadas tem sido largamente usada no tratamento e prevenção das perturbações
+tromboembólicas bem como anticoagulante nas transfusões sanguíneas, na circulação extra-
+corporal nos processos de diálise e para fins laboratoriais.
+
+Modo de ação
+A heparina atua como anticoagulante natural impedindo a coagulação do sangue “in vivo” e “in
+vitro”. A administração contínua de heparina em doses terapêuticas aumenta o tempo de
+coagulação, o tempo de trombina e a primeira fase do tempo de protrombina.
+O aumento do tempo de coagulação é proporcional à dose administrada. Em doses terapêuticas,
+regra geral, o tempo de hemorragia não é afetado.
+Na maioria dos casos, baixas doses de heparina não influenciam o tempo de coagulação.
+A heparina atua em vários pontos do sistema normal da coagulação. Pequenas quantidades de
+heparina em associação com a antitrombina III (cofator da heparina) podem evitar o
+desenvolvimento de um estado hipercoagulável por inativação do Fator X ativado, impedindo a
+conversão da protrombina em trombina (princípio da profilaxia com doses baixas). Uma vez que
+exista estado hipercoagulável, grandes quantidades de heparina em combinação com a
+antitrombina III, podem inibir o processo da coagulação inativando a trombina, impedindo a
+conversão do fibrinogénio em fibrina (princípio da dose terapêutica).
+A heparina também evita a formação de um coágulo de fibrina insolúvel ao inibir a ativação do
+fator estabilizador da fibrina.
+Para além das suas propriedades anticoagulantes, tem também algum efeito depurador sobre a
+lipémia, acelerando o metabolismo das lipoproteínas ricas em triglicéridos.
+A heparina não exerce atividade fibrinolítica, por isso não provoca a lise dos coágulos já
+existentes.
+
+5.2 Propriedades farmacocinéticas
+
+O aumento do tempo de coagulação dado pela heparina torna-se aparente imediatamente após
+administração e dura 4 a 6 horas após injeção intravenosa e durante 8 horas após injeção
+subcutânea.
+A heparina, ou os seus fragmentos anticoagulantes, não são absorvidos pelo trato gastrointestinal.
+Deve ser, pois, administrada por injeção intravenosa ou subcutânea.
+A semi-vida da heparina em voluntários normais é de aproximadamente 1,5 horas, mas varia em
+proporção com a dose. O volume de distribuição da heparina é de 0,007 l /kg, a depuração
+plasmática é de 0,5 a 0,6 ml/min/kg, sendo menor com o aumento da dosagem. A semi-vida de
+eliminação não está bem definida mas pensa-se que a heparina é transferida para alguns espaços
+extravasculares, provavelmente o sistema reticuloendotelial.
+A semi-vida diminui em doentes com embolia pulmonar.
+Nas doenças hepáticas alguns investigadores referem o aumento da semi-vida em doentes com
+cirrose avançada, enquanto outros referem que há redução da semi-vida.
+
+5.3 Dados de segurança pré-clínica
+
+Não existem dados pré-clínicos relevantes para o prescritor adicionais aos que já estão incluídos
+em outras secções deste RCM.
+
+
+6. INFORMAÇÕES FARMACÊUTICAS
+
+6.1 Lista dos excipientes
+Álcool benzílico
+Para-hidroxibenzoato de metilo
+Para-hidroxibenzoato de propilo
+Citrato de sódio
+Cloreto de sódio
+Água para preparações injetáveis
+Ácido clorídico (para ajuste de pH).
+
+6.2 Incompatibilidades
+
+Devido ao risco de incompatibilidades físico químicas, a heparina não deve ser misturada com
+outros fármacos na mesma seringa.
+Há relatos de incompatibilidade da heparina em solução aquosa com certas substâncias, como por
+exemplo alguns antibióticos, hidrocortisona, fenotiazinas, analgésicos narcóticos e alguns anti-
+histamínicos.
+
+6.3 Prazo de validade
+
+3 anos.
+Foi demonstrada a estabilidade química e física, durante a utilização, até 28 dias a 30 ºC
+
+Do ponto de vista microbiológico, uma vez aberto, o produto pode ser armazenado no máximo
+durante 28 dias a 30 ºC. Outros períodos e condições de armazenamento durante a utilização são
+da responsabilidade do utilizador.
+
+6.4 Precauções especiais de conservação
+
+O medicamento não necessita de quaisquer precauções especiais de conservação
+
+Condições de conservação do medicamento após primeira abertura, ver secção 6.3.
+
+6.5 Natureza e conteúdo do recipiente
+
+Frasco de vidro incolor (resistência hidrolítica grupo I), com a capacidade de 5 ml; tampa de
+borracha fixada por cápsula de alumínio; rotulados.
+Cada embalagem contém 50 frascos.
+
+6.6 Precauções especiais de eliminação e manuseamento
+
+Não existem requisitos especiais.
+
+
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+LEO Pharma A/S
+Industriparken 55 DK2750 Ballerup
+Dinamarca
+
+
+8. NÚMERO(S) DE AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+Nº de registo: 8790311 - 50 unidade(s), solução injetável, 25000 U.I./5 ml, Frasco para injetáveis
+
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização:17 de setembro de 1991
+Data da última renovação:16 de maio de 2006
+
+
+10. DATA DA REVISÃO DO TEXTO
+

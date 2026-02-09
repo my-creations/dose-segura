@@ -1,0 +1,858 @@
+                     RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+
+1.        NOME DO MEDICAMENTO
+
+Ertapenem Generis 1 g pó para concentrado para solução para perfusão
+
+
+2.        COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada frasco para injetáveis contém 1,0 g de ertapenem (como ertapenem de sódio).
+
+Excipiente com efeito conhecido: Cada frasco para injetáveis contém aproximadamente 6,0 mEq de sódio
+(cerca de 137 mg).
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+3.        FORMA FARMACÊUTICA
+
+Pó para concentrado para solução para perfusão.
+
+Pó branco a esbranquiçado.
+
+
+4.        INFORMAÇÕES CLÍNICAS
+
+4.1       Indicações terapêuticas
+
+Tratamento
+
+Ertapenem Generis é indicado em doentes pediátricos (3 meses a 17 anos de idade) e em adultos para o
+tratamento das seguintes infeções, quando causadas por bactérias com suscetibilidade conhecida ou muito
+provável ao ertapenem, e quando for necessária terapêutica por via parentérica (ver secções 4.4 e 5.1):
+
+         Infeções intra-abdominais
+         Pneumonia adquirida na comunidade
+         Infeções ginecológicas agudas
+         Infeções do pé diabético na pele e tecidos moles (ver secção 4.4).
+
+Prevenção
+
+Ertapenem Generis está indicado em adultos para a profilaxia de infeção no local de intervenção cirúrgica
+após cirurgia colorretal eletiva (ver secção 4.4).
+
+Deverão ter-se em consideração as normas orientadoras sobre o uso adequado dos produtos
+antibacterianos.
+
+4.2       Posologia e modo de administração
+Posologia
+
+Tratamento
+Adultos e adolescentes (13 a 17 anos de idade): A dose de Ertapenem Generis é de 1 grama (g)
+administrado uma vez por dia por via intravenosa (ver secção 6.6).
+
+Lactentes e crianças (3 meses a 12 anos de idade): A dose de Ertapenem Generis é de 15 mg/kg
+administrado duas vezes por dia (de modo a não exceder 1 g/dia) por via intravenosa (ver secção 6.6).
+
+Prevenção
+Adultos: Para prevenir as infeções no local de intervenção cirúrgica após cirurgia colorretal eletiva, a
+posologia recomendada é de 1 g administrado como uma dose intravenosa única, a ser finalizada até 1
+hora antes da incisão cirúrgica.
+
+População pediátrica
+A segurança e eficácia de Ertapenem Generis em crianças com idade inferior a 3 meses não foram ainda
+estabelecidas.
+Não existem dados disponíveis.
+
+Compromisso renal
+Ertapenem Generis pode ser usado para o tratamento de infeções em doentes adultos com compromisso
+renal leve a moderado. Em doentes que tenham depuração da creatinina > 30 ml/min/1,73 m2, não é
+necessário qualquer ajustamento posológico. Os dados existentes sobre segurança e eficácia do ertapenem
+em doentes com compromisso renal grave são inadequados para apoiar uma recomendação posológica.
+Consequentemente, o ertapenem não deve ser usado nestes doentes (ver secção 5.2). Não há dados em
+crianças e adolescentes com compromisso renal.
+
+Hemodiálise
+Os dados existentes sobre segurança e eficácia do ertapenem em doentes em hemodiálise são inadequados
+para apoiar uma recomendação posológica. Consequentemente, o ertapenem não deve ser usado nestes
+doentes.
+
+Compromisso hepático
+Não é recomendado qualquer ajustamento posológico em doentes com função hepática comprometida
+(ver secção 5.2).
+
+Idosos
+A dose recomendada de Ertapenem Generis deve ser administrada, exceto em casos de compromisso
+renal grave (ver Compromisso renal).
+
+Modo de administração
+
+Administração por via intravenosa: Ertapenem Generis deve ser administrado por perfusão durante um
+período de 30 minutos.
+
+A duração habitual da terapêutica com Ertapenem Generis é de 3 a 14 dias, podendo variar, dependendo
+do tipo e gravidade da infeção e do(s) microrganismo(s) patogénico(s) causal(ais). Quando for
+clinicamente indicado, se tiver sido observada melhoria clínica, pode ser implementada a substituição por
+um medicamento antibacteriano de administração oral adequado.
+
+Para instruções acerca da preparação do medicamento antes da administração, ver secção 6.6.
+4.3     Contraindicações
+
+ Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na secção 6.1
+ Hipersensibilidade a qualquer outro agente antibacteriano do grupo carbapenem
+ Hipersensibilidade grave (ex. reações anafiláticas, reação cutânea grave) a qualquer outro tipo
+de agentes antibacterianos beta-lactâmicos (ex. penicilinas ou cefalosporinas).
+
+4.4     Advertências e precauções especiais de utilização
+
+Hipersensibilidade
+Foram notificadas reações de hipersensibilidade (anafiláticas) graves e ocasionalmente fatais em doentes
+a receber terapêutica com beta-lactâmicos. Há maior probabilidade destas reações ocorrerem em
+indivíduos com história de hipersensibilidade a múltiplos alérgenos. Antes de se iniciar a terapêutica com
+o ertapenem, deverá ser feito um interrogatório cuidadoso relativamente a anteriores reações de
+hipersensibilidade a penicilinas, cefalosporinas, outros beta-lactâmicos e outros alérgenos (ver secção
+4.3). Se ocorrer uma reação alérgica ao ertapenem (ver secção 4.8), a terapêutica tem que ser interrompida
+imediatamente. Reações anafiláticas graves necessitam de imediato tratamento de emergência.
+
+Superinfeção
+A utilização prolongada de ertapenem pode resultar numa proliferação de organismos não suscetíveis. É
+essencial a avaliação constante do estado do doente. Se ocorrer uma superinfeção durante a terapêutica,
+devem ser tomadas medidas adequadas.
+
+Colite associada a antibióticos
+Foram notificadas colite associada a antibióticos e colite pseudomembranosa com ertapenem que podem
+variar em termos de gravidade, desde ligeira até acarretar risco de vida. Assim, é importante considerar
+este diagnóstico em doentes que apresentem diarreia subsequente à administração de medicamentos
+antibacterianos. Deve considerar-se a interrupção da terapêutica com Ertapenem Generis e a
+administração de tratamento específico para o Clostridioides difficile. Não devem ser administrados
+medicamentos que inibam o peristaltismo.
+
+Convulsões
+Durante a investigação clínica foram notificadas convulsões em doentes adultos tratados com ertapenem
+(1 g uma vez por dia) durante o tratamento ou no período de acompanhamento de 14 dias. As convulsões
+ocorreram mais frequentemente em doentes idosos e naqueles com doenças preexistentes do sistema
+nervoso central (SNC) (por ex., lesões cerebrais ou história de crises convulsivas) e/ou função renal
+comprometida. Foram feitas observações semelhantes no ambiente pós-comercialização.
+
+Encefalopatia
+Foi notificada encefalopatia com a utilização de ertapenem (ver secção 4.8). Em caso de suspeita de
+encefalopatia induzida pelo ertapenem (por exemplo, mioclonia, convulsões, estados confusionais,
+diminuição do nível de consciência) deve ser considerada a descontinuação do ertapenem. Os doentes
+com compromisso da função renal apresentam um risco mais elevado de encefalopatia induzida pelo
+ertapenem e a resolução pode ser prolongada.
+
+Utilização concomitante com ácido valpróico
+Não é recomendada a utilização concomitante de ertapenem e ácido valpróico/valproato de sódio (ver
+secção 4.5).
+
+Exposição subótima
+Com base nos dados disponíveis não se pode excluir que nos poucos casos de intervenções cirúrgicas que
+excedem as 4 horas, os doentes possam ficar expostos a concentrações subótimas de ertapenem e
+consequentemente em risco de possível insucesso do tratamento. Consequentemente, deve ter-se
+precaução nesses casos pouco vulgares.
+
+Considerações para o uso em populações específicas
+É limitada a experiência com a utilização de ertapenem no tratamento de infeções graves. Em estudos
+clínicos para o tratamento da pneumonia adquirida na comunidade, em adultos, 25% dos doentes
+passíveis de avaliação tratados com ertapenem apresentavam doença grave (definida pelo índice de
+gravidade de pneumonia > III). Num estudo clínico para o tratamento de infeções ginecológicas agudas,
+em adultos, 26% dos doentes passíveis de avaliação tratados com ertapenem tinham doença grave
+(definida por temperatura 39ºC e/ou bacteremia); dez doentes apresentavam bacteremia. Num estudo
+clínico para o tratamento de infeções intra-abdominais com ertapenem, em adultos, de entre os doentes
+passíveis de avaliação, 30% tinham peritonite generalizada e 39% apresentavam infeções noutros locais
+para além do apêndice, incluindo o estômago, duodeno, intestino delgado, colón e vesícula biliar; foi
+limitado o número de doentes incluídos passíveis de avaliação, com valores de APACHE II 15, não
+tendo sido estabelecida a eficácia nestes doentes.
+
+Não foi estabelecida a eficácia do Ertapenem no tratamento da pneumonia adquirida na comunidade
+causada pelo Streptococucus pneumoniae resistente à penicilina.
+
+Não foi estabelecida a eficácia do ertapenem no tratamento de infeções do pé diabético com osteomielite
+concomitante.
+
+É relativamente pequena a experiência com ertapenem em crianças com menos de dois anos de idade.
+Neste grupo etário, deve-se dar particular atenção ao estabelecimento da suscetibilidade do(s)
+organismo(s) infecioso(s) ao ertapenem. Não há dados disponíveis em crianças com menos de 3 meses de
+idade.
+
+Excipiente
+Este medicamento contém aproximadamente 137 mg de sódio por cada frasco para solução injetável,
+equivalente a 6.85% da dose diária máxima recomendada pela a OMS de 2 g de sódio para um adulto.
+
+4.5     Interações medicamentosas e outras formas de interação
+
+É improvável a ocorrência de interações causadas pela inibição da depuração mediada pela glicoproteína-
+P ou pela inibição da depuração dos medicamentos mediada pelo CYP (ver secção 5.2).
+
+A coadministração de ácido valpróico e agentes antibacterianos do grupo carbapenem está associada à
+notificação de reduções nos níveis séricos de ácido valpróico, promovendo, em alguns casos, níveis
+inferiores aos terapêuticos. A redução dos níveis séricos de ácido valpróico pode levar ao controle
+inadequado das convulsões, pelo que a utilização de ertapenem e ácido valpróico/valproato de sódio não é
+recomendada, devendo ser consideradas alternativas terapêuticas antibacterianas ou anticonvulsivas.
+
+4.6     Fertilidade, gravidez e aleitamento
+
+Gravidez
+Não foram realizados estudos adequados e bem controlados em mulheres grávidas. Os estudos em
+animais não indicam quaisquer efeitos nefastos diretos ou indiretos no que respeita à gravidez, ao
+desenvolvimento embrionário e fetal, parto ou desenvolvimento pós-natal. Contudo, o ertapenem não
+deve ser usado durante a gravidez, exceto se o possível benefício ultrapassar o potencial risco para o feto.
+Amamentação
+O ertapenem é excretado no leite humano. Devido à potencial ocorrência de efeitos adversos nos
+lactentes, as mães não deverão amamentar os seus recém-nascidos enquanto lhes estiver a ser
+administrado Ertapenem Generis.
+
+Fertilidade
+Não existem estudos adequados e bem controlados sobre o efeito da utilização de ertapenem na fertilidade
+em homens e mulheres. Estudos pré-clínicos não indicam quaisquer efeitos nefastos diretos ou indiretos
+no que respeita à fertilidade (ver secção 5.3).
+
+4.7    Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+Ertapenem pode influenciar a capacidade dos doentes para conduzir e utilizar máquinas. Os doentes
+devem ser informados que foram notificadas tonturas e sonolência com Ertapenem Generis (ver secção
+4.8).
+
+4.8    Efeitos indesejáveis
+
+Resumo do perfil de segurança
+Adultos
+O número total de doentes tratados com ertapenem em estudos clínicos foi superior a 2.200, dos quais
+mais de 2.150 receberam uma dose de 1 g de ertapenem. Foram notificadas reações adversas (i.e.,
+consideradas pelo investigador como possível, provável ou definitivamente relacionadas com o
+medicamento) em aproximadamente 20% dos doentes tratados com ertapenem. O tratamento foi
+interrompido devido a reações adversas em 1,3% dos doentes. Um grupo adicional de 476 doentes
+recebeu uma dose única de 1 g de ertapenem antes da cirurgia num estudo clínico para a profilaxia de
+infeções no local de intervenção cirúrgica após cirurgia colorretal.
+
+Para os doentes que receberam apenas ertapenem, as reações adversas mais frequentemente notificadas
+durante a terapêutica e num período de acompanhamento de 14 dias após a paragem do tratamento foram:
+diarreia (4,8%), complicações na veia onde foi administrada a perfusão (4,5%) e náusea (2,8%).
+
+Para os doentes que receberam apenas ertapenem, as anomalias laboratoriais mais frequentemente
+notificadas e as respetivas taxas de incidência durante a terapêutica e num período de acompanhamento
+de 14 dias após a paragem do tratamento foram: aumentos da ALT (4,6%), AST (4,6%), fosfatase alcalina
+(3,8%) e contagem plaquetária (3,0%).
+
+População pediátrica (dos 3 meses aos 17 anos de idade):
+O número total de doentes tratados com ertapenem em estudos clínicos foi de 384. O perfil de segurança
+global é comparável ao dos doentes adultos. As reações adversas (i.e., consideradas pelo investigador
+como possível, provável ou definitivamente relacionadas com o medicamento) foram notificadas em
+aproximadamente 20,8% dos doentes tratados com ertapenem. O tratamento foi interrompido em 0,5%
+dos doentes devido a reações adversas.
+
+Para os doentes que receberam apenas ertapenem, as reações adversas mais frequentemente notificadas
+durante a terapêutica e num período de seguimento de 14 dias após a paragem do tratamento foram:
+diarreia (5,2%) e dor no local de perfusão (6,1%).
+Para os doentes que receberam apenas ertapenem, as anomalias laboratoriais mais frequentemente
+notificadas e as respetivas taxas de incidência durante a terapêutica e num período de seguimento de 14
+dias após paragem do tratamento foram: diminuições do número de neutrófilos (3,0%) e aumentos da
+ALT (2,9%) e da AST (2,8%).
+
+Lista tabelar de reações adversas
+Para os doentes que receberam apenas ertapenem, foram notificadas as seguintes reações adversas durante
+a terapêutica e num período de acompanhamento de 14 dias após a interrupção do tratamento:
+
+Frequentes (≥ 1/100 a < 1/10); Pouco frequentes (≥ 1/1.000 a < 1/100); Raras (≥ 1/10.000 a < 1/1.000);
+Muito raras (< 1/10.000); Desconhecido (não pode ser calculado a partir dos dados disponíveis).
+
+                                    Adultos com idade igual ou           Crianças e adolescentes (dos 3
+                                    superior a 18 anos                   meses aos 17 anos de idade)
+ Infeções e infestações             Pouco frequentes: Candidíase
+                                    oral, candidíase, infeção fúngica,
+                                    enterocolite pseudomembranosa,
+                                    vaginite
+                                    Raras: Pneumonia,
+                                    dermatomicose, infeção de
+                                    ferida pós-operatória, infeção do
+                                    trato urinário
+ Doenças do sangue e do             Raras: Neutropenia,
+ sistema linfático                  trombocitopenia
+ Doenças do sistema imunitário      Raras: Alergia
+                                    Desconhecido: Anafilaxia
+                                    incluindo reações anafilactoides
+ Doenças do metabolismo e da        Pouco frequentes: Anorexia
+ nutrição                           Raras: Hipoglicemia
+ Perturbações do foro               Pouco frequentes: Insónia,           Desconhecido: Estado mental
+ psiquiátrico                       confusão                             alterado (incluindo
+                                    Raras: Agitação, ansiedade,          agressividade)
+                                    depressão
+                                    Desconhecido: Estado mental
+                                    alterado (incluindo
+                                    agressividade, delírio,
+                                    desorientação, alterações de
+                                    estado mental)
+ Doenças do sistema nervoso         Frequentes: Cefaleias                Pouco frequentes: Cefaleias
+                                    Pouco frequentes: Tonturas,          Desconhecido: Alucinações
+                                    sonolência, alterações do
+                                    paladar, convulsões (ver secção
+                                    4.4)
+                                    Raras: Tremores, síncope
+                                    Desconhecido: Alucinações,
+                                    depressão da consciência,
+                                    discinesia, mioclonia,
+                                    perturbações da marcha,
+                                    encefalopatia (ver secção 4.4)
+ Afeções oculares                   Raras: Alteração da esclerótica
+Cardiopatias                    Pouco frequentes: Bradicardia
+                                sinusal
+                                Raras: Arritmia, taquicardia
+Vasculopatias                   Frequentes: Complicação na        Pouco frequentes:
+                                veia perfundida,                  Afrontamento, hipertensão
+                                flebite/tromboflebite
+                                Pouco frequentes: Hipotensão
+                                Raras: Hemorragia, aumento da
+                                pressão arterial
+Doenças respiratórias,          Pouco frequentes: Dispneia,
+torácicas e do mediastino       mal-estar da faringe
+                                Raras: Congestão nasal, tosse,
+                                epistaxis, respiração
+                                ruidosa/roncos, respiração
+                                sibilante
+Doenças gastrointestinais       Frequentes: Diarreia, náuseas,    Frequentes: Diarreia
+                                vómitos                           Pouco frequentes: Fezes
+                                Pouco frequentes: Obstipação,     descoradas, melenas
+                                regurgitação ácida, xerostomia,
+                                dispepsia, dor abdominal
+                                Raras: Disfagia, incontinência
+                                fecal, peritonite pélvica
+                                Desconhecido: dentes
+                                manchados
+Afeções hepatobiliares          Raras: Colecistite, icterícia,
+                                perturbações do fígado
+Afeções dos tecidos             Frequentes: Erupção cutânea,      Frequentes: Dermatite das
+cutâneos e subcutâneos          prurido                           fraldas
+                                Pouco frequentes: Eritema,        Pouco frequentes: Eritema,
+                                urticária                         erupção cutânea, petéquias
+                                Raras: Dermatite, descamação,
+                                vasculite de hipersensibilidade
+                                Desconhecido: Pustulose
+                                exantematosa generalizada
+                                aguda (PEGA), Erupção
+                                Cutânea com Eosinofilia e
+                                Sintomas Sistémicos (Síndrome
+                                de DRESS)
+Afeções musculosqueléticas e    Raras: Cãibras musculares, dor
+dos tecidos conjuntivos         no ombro
+                                Desconhecido: Fraqueza
+                                muscular
+Doenças renais e urinárias      Raras: Insuficiência renal,
+                                insuficiência renal aguda
+Situações na gravidez, no       Raras: Aborto
+puerpério e perinatais
+Doenças dos órgãos genitais e   Raras: Hemorragia genital
+da mama
+Perturbações gerais e           Pouco frequentes:                 Frequentes: Dor no local de
+alterações no local de          Extravasamento, astenia/fadiga,   perfusão
+administração              febre, edema/tumefação, dor         Pouco frequentes: Ardor no
+                           torácica                            local de perfusão, prurido no
+                           Raras: Endurecimento                local de perfusão, eritema no
+                           no local de injeção, mal-estar      local de perfusão, eritema no
+                                                               local de injeção, calor no local
+                                                               de perfusão
+Exames complementares de
+diagnóstico
+Parâmetros químicos        Frequentes: Aumentos da ALT,        Frequentes: Valores
+                           da AST, da fosfatase alcalina       aumentados de ALT e AST
+                           Pouco frequentes: Aumentos na
+                           bilirrubina sérica total,
+                           bilirrubinemia sérica direta,
+                           bilirrubinemia sérica indireta,
+                           creatininemia, uremia,
+                           glicemia
+                           Raras: Diminuições do
+                           bicarbonato sérico,
+                           creatininemia e potássio sérico;
+                           aumentos da HDL sérica,
+                           fósforo sérico, potássio sérico
+Hematologia                Frequentes: Aumento do              Frequentes: Diminuições do
+                           número de plaquetas                 número de neutrófilos
+                           Pouco frequentes: Diminuição        Pouco frequentes: Aumentos do
+                           dos leucócitos, do número de        número de plaquetas, do tempo
+                           plaquetas, dos neutrófilos          de tromboplastina parcial
+                           segmentados, da hemoglobina e       ativada, do tempo de
+                           do hematócrito; aumento dos         protrombina, diminuição da
+                           eosinófilos, aumento do tempo       hemoglobina
+                           de tromboplastina parcial
+                           ativada, do tempo de
+                           protrombina, dos neutrófilos
+                           segmentados e dos leucócitos
+                           Raras: Diminuição dos
+                           linfócitos; aumento dos
+                           neutrófilos em banda, dos
+                           linfócitos, dos metamielócitos,
+                           dos monócitos, dos mielócitos;
+                           linfócitos atípicos;
+Análise de urina           Pouco frequentes: Aumento das
+                           bactérias na urina, dos
+                           leucócitos na urina, das células
+                           epiteliais na urina e dos
+                           eritrócitos na urina; presença de
+                           leveduras
+                           Raras: Aumento do
+                           urobilinogénio
+Outros                     Pouco frequentes: Toxina do
+                           Clostridioides difficile positiva
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma vez
+que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através de:
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente) ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+E-mail: farmacovigilancia@infarmed.pt
+
+4.9     Sobredosagem
+
+Não está disponível informação específica sobre o tratamento de sobredosagem com ertapenem. É
+improvável a ocorrência de sobredosagem com ertapenem. A administração intravenosa de ertapenem a
+voluntários adultos saudáveis numa dose diária de 3 g durante 8 dias não provocou toxicidade
+significativa. Em estudos clínicos em adultos, a administração inadvertida de uma dose até 3 g num dia
+não causou reações adversas clinicamente importantes. Em estudos clínicos pediátricos, uma dose
+intravenosa (IV) única de 40 mg/kg até um máximo de 2 g não resultou em toxicidade.
+
+Contudo, na eventualidade de ocorrência de sobredosagem, o tratamento com ertapenem deve ser
+interrompido, devendo ser ministrado tratamento de suporte até que se verifique a eliminação renal.
+
+O ertapenem pode ser parcialmente removido por hemodiálise (ver secção 5.2); contudo, não está
+disponível informação sobre a utilização da hemodiálise para tratar a sobredosagem.
+
+
+5.      PROPRIEDADES FARMACOLÓGICAS
+
+5.1     Propriedades farmacodinâmicas
+
+Propriedades gerais
+Grupo farmacoterapêutico: 1.1.4 Medicamentos anti-infeciosos. Antibacterianos. Carbapenemes, código
+ATC: J01DH03
+
+Mecanismo de ação
+O ertapenem inibe a síntese da parede celular bacteriana, após fixação às proteínas de ligação à penicilina
+(PLPs). No caso da Escherichia coli, a afinidade é mais forte para as PLPs 2 e 3.
+
+Relação farmacocinética/farmacodinâmica
+Tal como outros agentes antimicrobianos beta-lactâmicos, foi demonstrado em estudos pré-clínicos de
+farmacocinética/farmacodinâmica que o tempo em que a concentração plasmática de ertapenem excede a
+CIM do microrganismo é o parâmetro que se correlaciona melhor com a eficácia.
+
+Mecanismo de resistência
+Para as espécies consideradas suscetíveis ao ertapenem, a resistência foi pouco frequente nos estudos de
+vigilância na Europa. Nos isolados de microrganismos resistentes, foi observada resistência a outros
+agentes antibacterianos da classe dos carbapenem em alguns deles, mas não em todos os isolados. O
+ertapenem é efetivamente estável à hidrólise pela maioria das classes de beta-lactamases, incluindo as
+penicilinases, cefalosporinases e beta-lactamases de largo espectro, mas não à das metalo-beta-
+lactamases.
+
+Os estafilococos resistentes à meticilina e os enterococos são resistentes ao ertapenem, devido à
+insensibilidade para o alvo das PLP; A P. aeruginosa e outras bactérias não fermentadoras são geralmente
+resistentes, provavelmente devido à penetração limitada e ao efluxo ativo.
+
+A resistência é pouco frequente nas Enterobacteriaceae e o ertapenem é geralmente ativo contra as que
+possuem beta-lactamases de largo espectro (ESLBs). Contudo, pode ser observada resistência quando as
+ESLBs ou outras beta-lactamases potentes (por ex., AmpC) estão presentes conjuntamente com uma
+redução da permeabilidade, surgindo através da perda de uma ou mais porinas da membrana externa ou
+com o efluxo ativado. A resistência pode também surgir através da aquisição de beta-lactamases com
+significativa atividade hidrolítica dos carbapenemes (por ex. metalo-beta-lactamases IMP e VIM ou tipos
+de KPC), sendo, no entanto, raras.
+
+O mecanismo de ação do ertapenem difere do mecanismo de ação de outras classes de antibacterianos,
+como as quinolonas, aminoglicosidos, macrólidos e tetraciclinas. Não existe qualquer resistência cruzada
+dependente do alvo entre o ertapenem e estas substâncias. Contudo, os microrganismos podem apresentar
+resistência a mais do que uma classe de agentes antibacterianos, quando o mecanismo é, ou inclui,
+impermeabilidade a alguns compostos e/ou uma bomba de efluxo.
+
+Breakpoints
+Limites dos testes de sensibilidade
+Os critérios interpretativos da CIM (concentração inibitória mínima) para os testes de sensibilidade foram
+estabelecidos pelo European Committee on Antimicrobial Testing (EUCAST) para ertapenem e estão
+enumerados no seguinte endereço: https://www.ema.europa.eu/documents/other/minimuminhibitory-
+concentration-mic-breakpoints_en.xlsx
+Os médicos devem ser informados para consultar os breakpoints locais do CIM, se disponíveis.
+
+Suscetibilidade microbiológica
+A prevalência da resistência adquirida pode variar geograficamente e com o tempo para as espécies
+selecionadas, sendo necessária informação sobre a resistência na região, particularmente no tratamento de
+infeções graves. Na União Europeia foi notificada a existência de focos de infeções localizados devidos
+aos organismos resistentes aos carbapenem. A seguinte informação fornece apenas uma orientação
+aproximada sobre a probabilidade dos microrganismos serem ou não suscetíveis ao ertapenem.
+
+ Espécies habitualmente suscetíveis
+ Aeróbios gram-positivos:
+ Estafilococos suscetíveis à meticilina (incluindo o Staphylococcus aureus)*
+ Streptococcus agalactiae*
+ Streptococcus pneumoniae*†
+ Streptococcus pyogenes
+ Aeróbios gram-negativos:
+ Citrobacter freundii
+ Enterobacter aerogenes
+ Enterobacter cloacae
+ Escherichia coli*
+ Haemophilus influenzae*
+ Haemophilus parainfluenzae
+ Klebsiella oxytoca
+ Klebsiella pneumoniae*
+ Moraxella catarrhalis*
+ Morganella morganii
+ Proteus mirabilis*
+ Proteus vulgaris
+ Serratia marcescens
+ Anaeróbios:
+ Espécies de Clostridium (excluindo C. difficile)*
+ Espécies de Eubacterium*
+ Espécies de Fusobacterium*
+ Espécies de Peptostreptococcus*
+ Porphyromonas asaccharolytica*
+ Espécies de Prevotella*
+ Espécies para as quais a resistência adquirida pode constituir um problema:
+ Aeróbios gram-positivos:
+ Estafilococos resistentes à meticilina +#
+ Anaeróbios:
+ Bacteroides fragilis e espécies do Grupo B. fragilis*
+ Organismos com resistência intrínseca:
+ Aeróbios gram-positivos:
+ Corynebacterium jeikeium
+ Enterococos incluindo o Enterococcus faecalis e o Enterococcus faecium
+ Aeróbios gram-negativos:
+ Espécies de Aeromonas
+ Espécies de Acinetobacter
+ Burkholderia cepacia
+ Pseudomonas aeruginosa
+ Stenotrophomonas maltophilia
+ Anaeróbios:
+ Espécies de Lactobacillus
+ Outros:
+ Espécies de Chlamydia
+ Espécies de Mycoplasma
+ Espécies de Rickettsia
+ Espécies de Legionella
+* Foi demonstrada atividade de forma satisfatória nos estudos clínicos.
+† Não foi estabelecida a eficácia do Ertapenem no tratamento de pneumonia adquirida na comunidade
+provocada por Streptococcus pneumoniae resistente à penicilina.
++ Frequência de resistência adquirida > 50% em alguns Estados Membros
+# Estafilococos resistentes à meticilina (incluindo MRSA) são sempre resistentes aos beta-lactâmicos.
+
+Informação dos estudos clínicos
+
+Eficácia em Estudos Pediátricos
+O ertapenem foi primeiramente avaliado para a segurança pediátrica e secundariamente para a eficácia em
+estudos multicêntricos, com distribuição aleatória comparativos, em doentes pediátricos dos 3 meses aos
+17 anos de idade.
+Na visita pós-tratamento, a proporção de doentes com uma avaliação da resposta clínica favorável na
+população IDTM é a seguir demonstrada:
+ Estratificação       Estratificação          Ertapenem                       Ceftriaxona
+ da Doença†           da Idade              n/m         %                  n/m                 %
+ Pneumonia            3 aos 23 meses       31/35       88,6               13/13               100,0
+ adquirida na
+ comunidade
+ (PAC)
+                      2 aos 12 anos        55/57        96,5              16/17                94,1
+                      13 aos 17 anos        3/3         100,0              3/3                100,0
+
+ Estratificação       Estratificação          Ertapenem                   Ticarcilina/clavulanato
+ da Doença            da Idade              n/m         %                  n/m                   %
+ Infeções             2 aos 12 anos        28/34       82,4                 7/9                77,8
+ intraabdominais
+ (IIA)
+                        13 aos 17 anos      15/16        93,8              4/6                 66,7
+  Infeções              13 aos 17 anos      25/25       100,0              8/8                100,0
+  pélvicas
+  agudas (IPA)
+†
+  Inclui 9 doentes do grupo do ertapenem (7 PAC e 2 IIA), 2 doentes do grupo da ceftriaxona (2 PAC) e 1
+doente com IIA do grupo da ticarcilina/clavulanato com bacteremia secundária no início do estudo.
+
+5.2    Propriedades farmacocinéticas
+
+Concentrações plasmáticas
+As concentrações plasmáticas médias de ertapenem após uma perfusão intravenosa única de 30 minutos
+de uma dose de 1 g em adultos jovens saudáveis (25 a 45 anos de idade) foram de 155 microgramas/ml
+(Cmáx) 0,5 h após a administração (final da perfusão), de 9 microgramas/ml 12 h após a administração e de
+1 micrograma/ml 24 h após a administração.
+
+A área sob a curva das concentrações plasmáticas (AUC) do ertapenem em adultos aumenta quase
+proporcionalmente à dose no intervalo posológico de 0,5 g a 2 g.
+
+Não há acumulação de ertapenem em adultos após administração de doses intravenosas múltiplas no
+intervalo 0,5 a 2 g por dia.
+
+As concentrações plasmáticas médias do ertapenem após uma perfusão intravenosa única de 30 minutos
+de uma dose de 15 mg/kg (até uma dose máxima de 1 g) em doentes dos 3 aos 23 meses de idade, foram
+de 103,8 microgramas/ml (Cmáx) 0,5 horas após a administração (final da perfusão), de 13,5
+microgramas/ml 6 horas após a administração e de 2,5 microgramas/ml 12 horas após a administração.
+
+As concentrações plasmáticas médias do ertapenem após uma perfusão intravenosa única de 30 minutos
+de uma dose de 15 mg/kg (até uma dose máxima de 1 g) em doentes dos 2 aos 12 anos de idade foram de
+113,2 microgramas/ml (Cmáx) 0,5 horas após a administração (final da perfusão), de 12,8 microgramas/ml
+6 horas após a administração e de 3,0 microgramas/ml 12 horas após a administração.
+
+As concentrações plasmáticas médias do ertapenem após uma perfusão intravenosa única de 30 minutos
+de uma dose de 20 mg/kg (até uma dose máxima de 1 g) em doentes dos 13 aos 17 anos de idade foram
+de 170,4 microgramas/ml (Cmáx) 0,5 horas após a administração (final da perfusão), de 7,0
+microgramas/ml 12 horas após a administração e de 1,1 microgramas/ml 24 horas após a administração.
+As concentrações plasmáticas médias do ertapenem após uma perfusão intravenosa única de 30 minutos
+de uma dose de 1 g em três doentes dos 13 aos 17 anos de idade foram de 155,9 microgramas/ml (Cmáx)
+0,5 horas após a administração (final da perfusão) e de 6,2 microgramas/ml 12 horas após a
+administração.
+
+Distribuição
+O ertapenem apresenta-se largamente ligado às proteínas plasmáticas humanas. Em adultos jovens
+saudáveis (25 a 45 anos de idade), a ligação do ertapenem às proteínas diminui, com o aumento das
+concentrações plasmáticas, desde uma ligação de aproximadamente 95% com uma concentração
+plasmática aproximada < 50 microgramas/ml, a uma ligação de aproximadamente 92% com uma
+concentração plasmática aproximada de 155 microgramas/ml (concentração média atingida no final da
+perfusão, após a administração de 1 g por via intravenosa).
+
+O volume de distribuição (Vdss) do ertapenem em adultos é de aproximadamente 8 litros (0,11 litros/kg) e
+de, aproximadamente, 0,2 litros/kg em doentes pediátricos dos 3 meses aos 12 anos de idade e
+aproximadamente de 0,16 litros/kg em doentes pediátricos dos 13 aos 17 anos de idade.
+
+As concentrações de ertapenem atingidas no fluido da vesícula cutânea dos adultos, em cada ponto de
+amostragem, no terceiro dia de administração de doses intravenosas de 1 grama por dia, apresentaram um
+rácio de AUC no fluido da vesícula cutânea: AUC no plasma de 0,61.
+
+Os estudos in vitro indicam que foi reduzido o efeito do ertapenem sobre a capacidade de ligação às
+proteínas plasmáticas dos medicamentos com elevada ligação às proteínas (varfarina, etinilestradiol, e
+noretindrona). A alteração na ligação foi < 12% na concentração plasmática máxima de ertapenem após a
+administração de uma dose de 1 g. Nos estudos in vivo, a probenecida (500 mg de 6 em 6 horas) diminuiu
+a fração ligada do ertapenem no plasma no final da perfusão em indivíduos a quem se administrou uma
+dose única de 1 g por via intravenosa, de aproximadamente 91% para aproximadamente 87%. Pensa-se
+que os efeitos desta alteração sejam transitórios. É improvável a existência de interação clinicamente
+significativa devida à deslocação de outro medicamento pelo ertapenem ou à deslocação do ertapenem
+por outro medicamento.
+
+Estudos in vitro indicam que o ertapenem não inibe o transporte mediado pela glicoproteína-P, da
+digoxina nem da vimblastina, e que o ertapenem não é substrato para o transporte mediado pela
+glicoproteína-P.
+
+Biotransformação
+Em adultos jovens saudáveis (23 a 49 anos de idade), após perfusão intravenosa de 1 g de ertapenem
+marcado radioativamente, a radioatividade plasmática consiste predominantemente (94%) em ertapenem.
+O principal metabolito do ertapenem é o derivado de anel aberto formado pela hidrólise do anel beta-
+lactâmico mediada pela desidropeptidase-I.
+
+Estudos in vitro efetuados em microssomas hepáticos humanos indicam que o ertapenem não inibe o
+metabolismo mediado por qualquer das seis principais isoformas do CYP: 1A2, 2C9, 2C19, 2D6, 2E1 e
+3A4.
+
+Eliminação
+Após a administração a adultos jovens saudáveis (23 a 49 anos de idade) de uma dose intravenosa de 1 g
+de ertapenem marcado radioativamente, aproximadamente 80% é recuperado na urina e 10% nas fezes.
+Dos 80% recuperados na urina, aproximadamente 3 % é excretado como fármaco inalterado e
+aproximadamente 37% na forma do metabolito de anel aberto.
+Em adultos jovens saudáveis (18 a 49 anos de idade) e em doentes dos 13 aos 17 anos de idade a quem se
+administrou uma dose intravenosa de 1 g, a semivida plasmática média é de aproximadamente 4 horas. A
+semivida plasmática média em crianças dos 3 meses aos 12 anos de idade é de aproximadamente 2,5
+horas. As concentrações médias de ertapenem na urina excederam os 984 microgramas/ml durante o
+período de 0 a 2 horas após a administração, e excederam os 52 microgramas/ml durante o período de 12
+a 24 horas após a administração.
+
+Populações especiais
+
+Sexo
+As concentrações plasmáticas de ertapenem são comparáveis em homens e mulheres.
+
+Idosos
+As concentrações plasmáticas após a administração de uma dose intravenosa de 1 g e 2 g de ertapenem
+são ligeiramente superiores (em aproximadamente 39% e 22%, respetivamente) em adultos idosos
+saudáveis (≥65 anos), em relação a adultos jovens (< 65 anos). Na ausência de compromisso renal grave,
+não é necessário qualquer ajustamento posológico em doentes idosos.
+
+População pediátrica
+As concentrações plasmáticas de ertapenem são comparáveis em doentes pediátricos dos 13 aos 17 anos
+de idade e em adultos, após a administração de uma dose intravenosa diária de 1 g.
+
+Após a administração da dose de 20 mg/kg (até uma dose máxima de 1 g), os valores dos parâmetros
+farmacocinéticos em doentes dos 13 aos 17 anos de idade foram, de modo geral, comparáveis aos dos
+adultos jovens saudáveis. Por forma a fornecer uma estimativa dos dados farmacocinéticos, se todos os
+doentes deste grupo etário recebessem uma dose de 1 g, e assumindo linearidade, os dados
+farmacocinéticos foram calculados ajustando para uma dose de 1 g. Uma comparação de resultados
+demonstra que com uma dose diária de 1 g de ertapenem, o perfil farmacocinético em doentes dos 13 aos
+17 anos de idade é comparável ao dos adultos. Os rácios (13 a 17 anos/adultos) para a AUC, a
+concentração no final da perfusão e a concentração no ponto médio do intervalo posológico foram,
+respetivamente, de 0,99, 1,20 e 0,84.
+
+As concentrações plasmáticas no ponto médio do intervalo posológico após a administração de uma dose
+intravenosa única de 15 mg/kg de ertapenem em doentes dos 3 meses aos 12 anos de idade são
+comparáveis às concentrações plasmáticas no ponto médio do intervalo posológico após a administração a
+adultos de uma dose intravenosa diária de 1 g (ver Concentrações plasmáticas). A depuração plasmática
+(ml/min/kg) de ertapenem em doentes dos 3 meses aos 12 anos de idade é aproximadamente 2 vezes
+maior, quando comparada com a dos adultos. Com a dose de 15 mg/kg, o valor de AUC e as
+concentrações plasmáticas no ponto médio do intervalo posológico em doentes dos 3 meses aos 12 anos
+de idade, foram comparáveis às dos adultos jovens saudáveis a receber uma dose intravenosa de 1 g de
+ertapenem.
+
+Compromisso hepático
+Não foi estabelecida a farmacocinética do ertapenem em doentes com afeção hepática. Devido à limitada
+metabolização hepática do ertapenem, não se espera que a sua farmacocinética seja afetada pelo
+compromisso hepático. Assim, não é recomendado qualquer ajustamento posológico em doentes com
+compromisso hepático.
+
+Compromisso renal
+Após a administração de uma dose intravenosa única de 1 g de ertapenem a adultos, as AUCs do
+ertapenem total (ligado e não ligado) e do ertapenem não ligado são semelhantes em doentes com
+compromisso renal ligeiro (Clcr 60 a 90 ml/min/1,73 m2), em comparação com indivíduos saudáveis (com
+idades compreendidas entre os 25 e 82 anos). As AUCs do ertapenem total e do ertapenem não ligado são
+aproximadamente 1,5 vezes e 1,8 vezes superiores, respetivamente, em doentes com compromisso renal
+moderado (Clcr 31 a 59 ml/min/1,73 m2), em comparação com indivíduos saudáveis. As AUCs do
+ertapenem total e do ertapenem não ligado são aproximadamente 2,6 vezes e 3,4 vezes superiores,
+respetivamente, em doentes com compromisso renal grave (Clcr 5 a 30 ml/min/1,73 m2), em comparação
+com indivíduos saudáveis. Nos doentes que necessitam de hemodiálise, as AUCs do ertapenem total e do
+ertapenem não ligado são aproximadamente 2,9 vezes e 6,0 vezes superiores, respetivamente, entre as
+sessões de diálise, em comparação com indivíduos saudáveis. Após a administração de uma dose
+intravenosa única de 1 g, imediatamente antes de uma sessão de hemodiálise, aproximadamente 30% da
+dose é recuperada no dialisado. Não há dados em doentes pediátricos com compromisso renal.
+
+Os dados existentes sobre segurança e eficácia do ertapenem em doentes com compromisso renal
+avançada e doentes a necessitar de hemodiálise são inadequados para apoiar uma recomendação
+posológica. Consequentemente, o ertapenem não deve ser usado nestes doentes.
+
+5.3      Dados de segurança pré-clínica
+
+Os dados não clínicos não revelam riscos especiais para o ser humano, segundo estudos convencionais de
+farmacologia de segurança, toxicidade de dose repetida, genotoxicidade e toxicidade reprodutiva e
+desenvolvimento. Contudo, ocorreu diminuição do número de neutrófilos em ratos que receberam doses
+elevadas de ertapenem, não tendo este facto sido considerado um problema de segurança significativo.
+Não foram realizados estudos a longo prazo em animais para avaliar o potencial carcinogénico do
+ertapenem.
+
+
+6.       INFORMAÇÕES FARMACÊUTICAS
+
+6.1      Lista dos excipientes
+
+Bicarbonato de sódio
+Hidróxido de sódio para ajustar o pH a 7,6
+Hidróxido de sódio usado como agente de tamponamento
+
+6.2      Incompatibilidades
+
+Não utilizar solventes ou fluidos de perfusão contendo dextrose na reconstituição ou administração do
+ertapenem.
+
+Na ausência de estudos de compatibilidade, este medicamento não pode ser misturado com outros
+medicamentos exceto os mencionados na secção 6.6.
+
+6.3      Prazo de validade
+
+2 anos
+
+Após reconstituição: As soluções diluídas devem ser imediatamente utilizadas.
+
+Após diluição:
+Foi demonstrada a estabilidade química e física em uso de soluções diluídas por 6 horas a 15-25 ºC ou por
+24 horas a 2 a 8 ºC (no frigorífico). As soluções devem ser usadas até quatro horas após serem removidas
+do frigorífico. Não congelar soluções de Ertapenem Generis.
+
+De um ponto de vista microbiológico, a não ser que o método de abertura impossibilite o risco de
+contaminação microbiana, o produto deve ser usado imediatamente. Se não for usado imediatamente, os
+tempos e as condições de armazenamento em uso são da responsabilidade do utilizador.
+
+6.4     Precauções especiais de conservação
+
+Não conservar acima de 30°C.
+
+Condições de conservação do medicamento após reconstituição e diluição, ver secção 6.3.
+
+6.5     Natureza e conteúdo do recipiente
+
+Frascos para injetáveis de vidro Tipo I de 20 ml com uma rolha bromo butílica cinzenta e com película de
+selagem de alumínio contendo um disco de propileno.
+
+Está disponível em embalagens de 1 frasco para injetáveis, 5 frascos para injetáveis e 10 frascos
+injetáveis.
+
+É possível que não sejam comercializadas todas as apresentações.
+
+6.6     Precauções especiais de eliminação e manuseamento
+
+Instruções de utilização:
+
+Para utilização única.
+
+As soluções concentradas devem ser diluídas em solução de cloreto de sódio a 9 mg/ml (0,9%)
+imediatamente após a preparação.
+
+Preparação para administração intravenosa
+Antes da administração, ertapenem tem de ser primeiro reconstituído e depois diluído.
+
+Instruções para inserção da agulha na rolha de borracha:
+Para a reconstituição do produto e a fim de evitar o fenómeno de perfuração do tampão, quando inserir a
+agulha na rolha de borracha, é recomendada a utilização de uma agulha de calibre 21 ou outra de menor
+diâmetro.
+A agulha deve ser inserida unicamente no centro da rolha de borracha, na direção vertical.
+
+Adultos e adolescentes (dos 13 aos 17 anos de idade)
+Reconstituição
+Reconstituir o conteúdo de um frasco para injetáveis de 1 g de Ertapenem Generis com 10 ml de água
+para injetáveis ou solução de cloreto de sódio a 9 mg/ml (0,9%) para se obter uma solução concentrada de
+aproximadamente 100 mg/ml. Agitar bem para dissolver. (Ver secção 6.4).
+
+Diluição
+Em saco de 50 ml de solvente: Para uma dose de 1 g, transferir imediatamente a solução concentrada para
+um saco de 50 ml de solução de cloreto de sódio a 9 mg/ml (0,9%); ou
+Em frasco para injetáveis de 50 ml de solvente: Para uma dose de 1 g, retirar de um frasco para injetáveis
+de 50 ml, 10 ml de solução de cloreto de sódio a 9 mg/ml (0,9%) e rejeitar. Transferir a solução
+concentrada do frasco para injetáveis de 1 g de Ertapenem Generis para o frasco para injetáveis e 50 ml
+de solução de cloreto de sódio a 9 mg/ml (0,9%).
+
+Perfusão
+Administrar por perfusão durante um período de 30 minutos.
+
+Crianças (dos 3 meses aos 12 anos de idade)
+Reconstituição
+Reconstituir o conteúdo de um frasco para injetáveis de 1 g de Ertapenem Generis com 10 ml de água
+para injetáveis ou solução de cloreto de sódio a 9 mg/ml (0,9%) para se obter uma solução concentrada de
+aproximadamente 100 mg/ml. Agitar bem para dissolver. (Ver secção 6.4).
+
+Diluição
+Em saco de solvente: Transferir um volume igual a 15 mg/kg de peso corporal (de modo a não exceder 1
+g/dia) para um saco de solução de cloreto de sódio a 9 mg/ml (0,9%) para obtenção de uma solução com
+concentração final inferior ou igual a 20 mg/ml; ou
+Em frasco para injetáveis de solvente: Transferir um volume igual a 15 mg/kg de peso corporal (de modo
+a não exceder 1 g/dia) para um frasco para injetáveis de solução de cloreto de sódio a 9 mg/ml (0,9%)
+para obtenção de uma solução com concentração final inferior ou igual a 20 mg/ml.
+
+Perfusão
+Administrar por perfusão durante um período de 30 minutos.
+
+Foi demonstrada a compatibilidade do ertapenem com soluções intravenosas contendo heparina sódica e
+cloreto de potássio.
+
+As soluções reconstituídas devem ser inspecionadas visualmente antes da administração, em relação à
+presença de partículas e de descoloração, sempre que o recipiente o permita. As soluções de ertapenem
+oscilam de incolores a amarelo pálido. As variações dentro desta gama de cores não afetam a potência.
+
+Após reconstituição, a solução de Ertapenem Generis não apresenta partículas visíveis.
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+
+
+7.      TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Eugia Pharma (Malta) Limited
+Vault 14, Level 2,
+Valletta Waterfront,
+Floriana FRN-1914,
+Malta
+
+
+8.      NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Nº de registo: 5746417 – 10 frascos para injetáveis, 1 g, frasco de 20 ml
+9.   DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 04 de maio de 2018
+
+
+10.    DATA DA REVISÃO DO TEXTO
+

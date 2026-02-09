@@ -1,0 +1,43 @@
+{
+  "medId": "albumina-humana",
+  "searchTerm": "albumina humana",
+  "retrievedAt": "2026-02-08T00:00:00.000Z",
+  "bestMatch": {
+    "infarmedId": "5631007",
+    "name": "Albumina Humana CSL Behring",
+    "dci": "Albumina humana",
+    "form": "Solução para perfusão",
+    "dosage": "200 g/l",
+    "holder": "CSL Behring GmbH",
+    "score": 1.0,
+    "generic": false,
+    "processNumber": "DE/H/1943/001/MR",
+    "administration": ["Via intravenosa"],
+    "classification": {
+      "atc": "B05AA01 - albumin",
+      "farmacoterapeutica": "12.6 - Substitutos do plasma e das frações proteicas do plasma"
+    },
+    "aimDate": "29/09/2016",
+    "lastUpdated": "28/06/2019"
+  },
+  "documents": {
+    "rcm": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "rcm/5631007-rcm.pdf",
+      "size": 45796,
+      "method": "POST with form state",
+      "lastUpdated": "28/06/2019"
+    },
+    "fi": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "fi/5631007-fi.pdf",
+      "size": 44002,
+      "method": "POST with form state",
+      "lastUpdated": "28/06/2019"
+    }
+  }
+}

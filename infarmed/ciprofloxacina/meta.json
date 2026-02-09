@@ -1,0 +1,26 @@
+{
+  "medId": "ciprofloxacina",
+  "searchTerm": "ciprofloxacina",
+  "retrievedAt": "2026-02-08T18:55:00.000Z",
+  "bestMatch": {
+    "infarmedId": "41205",
+    "name": "Ciprofloxacina Kabi",
+    "dci": "Ciprofloxacina",
+    "form": "Solução para perfusão",
+    "dosage": "200 mg/100 ml",
+    "holder": "Fresenius Kabi Pharma Portugal, Lda.",
+    "score": 1.0
+  },
+  "documents": {
+    "rcm": {
+      "status": "success",
+      "contentType": "application/pdf",
+      "file": "infarmed/ciprofloxacina/rcm/41205-rcm.pdf"
+    },
+    "fi": {
+      "status": "success",
+      "contentType": "application/pdf",
+      "file": "infarmed/ciprofloxacina/fi/41205-fi.pdf"
+    }
+  }
+}

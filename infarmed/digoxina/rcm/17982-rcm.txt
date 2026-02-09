@@ -1,0 +1,1089 @@
+               RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+
+1. NOME DO MEDICAMENTO
+
+Lanoxin 0,25 mg comprimido
+Lanoxin MD 0,125 mg comprimido
+Lanoxin 0,25 mg/ml Solução para perfusão
+
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Lanoxin MD comprimido: cada comprimido contém 0,125 mg de digoxina.
+Excipiente(s) com efeito conhecido:
+lactose - 47,76 mg (sob a forma de lactose mono-hidratada)
+
+Lanoxin comprimido: cada comprimido contém 0,25 mg de digoxina.
+Excipiente(s) com efeito conhecido:
+lactose - 95,52 mg (sob a forma de lactose mono-hidratada)
+
+Lanoxin solução para perfusão: cada ml contém 0,25 mg de digoxina.
+Excipiente(s) com efeito conhecido:
+etanol - 0,104 mg/ml
+sódio - 0,58 mg/ml (sob a forma de fosfato de sódio)
+
+Lista completa dos excipientes, ver secção 6.1.
+
+
+3. FORMA FARMACÊUTICA
+
+Lanoxin MD comprimido: comprimidos brancos, redondos, achatados, não ranhurados.
+Lanoxin comprimido: comprimidos brancos, biconvexos, ranhurados.
+Lanoxin solução para perfusão: solução para perfusão, aquosa, estéril, límpida e incolor.
+
+
+4. INFORMAÇÕES CLÍNICAS
+
+4.1 Indicações terapêuticas
+
+Insuficiência cardíaca
+A digoxina está indicada no tratamento da insuficiência cardíaca crónica em que o problema é a
+disfunção sistólica. O seu benefício terapêutico é maior nos doentes com dilatação ventricular.
+A digoxina está especificamente indicada quando a insuficiência cardíaca é acompanhada por
+fibrilhação auricular.
+
+Arritmias supraventriculares
+A digoxina está indicada no tratamento de certas arritmias supraventriculares, particularmente
+flutter e fibrilhação auricular crónicos.
+
+4.2 Posologia e modo de administração
+Posologia:
+A dose de digoxina tem de ser ajustada individualmente a cada doente de acordo com a idade,
+peso corporal ideal e função renal.
+As doses sugeridas pretendem ser apenas orientações iniciais.
+
+Nos casos em que tenham sido tomados glicosidos cardíacos nas duas semanas anteriores, as
+recomendações posológicas iniciais para o doente devem ser reconsideradas, sendo aconselhada
+uma dose reduzida.
+
+A diferença de biodisponibilidade entre as formulações injetável e oral da digoxina deve ser
+considerada ao mudar de uma forma farmacêutica para outra. Por exemplo, se os doentes
+passarem da formulação oral para a dose intravenosa, a posologia deve ser reduzida em,
+aproximadamente, 33 %.
+
+Adultos e populações pediátricas com idade superior a 10 anos
+
+Carga oral rápida:
+
+Se clinicamente adequado, a digitalização rápida pode ser alcançada de várias formas, tal como:
+
+750 a 1500 microgramas (0,75 a 1,5 mg) numa dose única.
+
+Em caso de menor urgência, ou de maior risco de toxicidade, por exemplo em populações
+idosas, a dose de carga oral deve ser administrada em doses fracionadas, com intervalos de seis
+horas, sendo aproximadamente metade da dose total administrada na primeira toma.
+
+A resposta clínica deve ser avaliada antes de se administrar cada dose adicional (ver Secção
+4.4).
+
+Carga oral lenta:
+
+Em alguns doentes, por exemplo, os que têm insuficiência cardíaca ligeira, a digitalização pode
+ser alcançada mais lentamente, com doses de 250 a 750 microgramas (0,25 a 0,75 mg) por dia
+durante uma semana, seguida de uma dose de manutenção apropriada. Deverá observar-se uma
+resposta clínica no período de uma semana.
+
+A escolha entre uma carga oral rápida e lenta depende do estado clínico do doente e da urgência
+da situação.
+
+Carga parentérica:
+
+A carga parentérica deve ser utilizada apenas em doentes aos quais não foram administrados
+glicosidos cardíacos nas duas semanas anteriores.
+
+A dose total de carga parentérica de digoxina é de 500 a 1000 microgramas (0,5 a 1,0 mg)
+dependendo da idade, peso corporal ideal e função renal. A dose total de carga deve ser
+administrada em doses fracionadas, com aproximadamente metade da dose total a ser
+administrada na primeira toma e as seguintes frações da dose total a ser administrada em
+intervalos de quatro a oito horas. Deve ser efetuada uma avaliação da resposta clínica antes de
+se administrar cada dose adicional.
+Cada dose deve ser administrada por perfusão intravenosa (ver Modo de Administração,
+abaixo) ao longo de 10 a 20 minutos.
+
+Dose de manutenção:
+
+A dose de manutenção deve basear-se na percentagem de reservas orgânicas máximas perdidas
+em cada dia através da eliminação. A fórmula que se segue tem vasta utilização clínica:
+
+        Dose de manutenção = Reservas orgânicas máximas x perda diária (%)
+                                100
+
+em que:
+Reservas orgânicas máximas = Dose de carga personalizada
+Perda diária (em percentagem) = 14 + depuração da creatinina (Clcr)/5
+
+Clcr é a depuração da creatinina corrigida para um peso corporal de 70 kg ou 1,73 m2 de área
+de superfície corporal. Se só estiverem disponíveis as concentrações de creatinina sérica (Scr), a
+Clcr no homem (corrigida para um peso corporal de 70 kg) pode ser estimada como:
+
+                 Clcr = (140 - idade)
+                    Scr (em mg/100 ml)
+
+NOTA: Quando os valores de creatinina sérica forem obtidos em micromol/l, poderão ser
+convertidos para mg/100 ml (mg %) do seguinte modo:
+
+
+       Scr (mg/100 ml) = Scr (micromol/l) x 113,12 =          Scr (micromol/l)
+                 10 000                           88,4
+
+
+em que: 113,12 corresponde ao peso molecular da creatinina.
+Para as mulheres, este resultado deve ser multiplicado por 0,85.
+
+NOTA: Estas fórmulas não podem ser utilizadas para a depuração da creatinina em crianças.
+
+Na prática, isto significará que a maioria dos doentes com insuficiência cardíaca será mantida
+com 125 a 250 microgramas (0,125 a 0,25 mg) de digoxina por dia. Contudo, nos que
+mostraram uma sensibilidade aumentada aos efeitos adversos da digoxina, poderá ser suficiente
+uma dose diária de 62,5 microgramas (0,0625 mg) ou menos. Inversamente, alguns doentes
+poderão necessitar de uma dose mais elevada.
+
+Recém-nascidos, lactentes e populações pediátricas com idade até 10 anos
+
+Se tiverem sido administrados glicosidos cardíacos nas duas semanas anteriores ao início da
+terapêutica com digoxina, deverá esperar-se que as doses de carga ótima de digoxina sejam
+inferiores às recomendadas em baixo.
+Nos recém-nascidos, especialmente nos lactentes prematuros, a depuração renal da digoxina
+está diminuída e devem observar-se reduções adequadas da dose, em detrimento das instruções
+posológicas gerais.
+
+A seguir ao período neonatal, as crianças requerem, em geral, doses proporcionalmente maiores
+que as dos adultos, relativamente ao peso corporal ou área de superfície corporal, conforme
+indicado no regime posológico abaixo. As crianças com idade superior a dez anos necessitam
+de doses de adulto proporcionais ao seu peso corporal.
+
+Dose de carga parentérica:
+
+A dose de carga intravenosa nos grupos acima deverá ser administrada de acordo com o
+seguinte regime posológico:
+
+ Recém-nascidos prematuros com menos de 1,5 kg:              20 microgramas /kg ao longo de
+                                                             24 h.
+ Recém-nascidos prematuros entre 1,5 kg - 2,5 kg:            30 microgramas/kg ao longo de
+                                                             24 h.
+ Recém-nascidos de termo até 2 anos:                         35 microgramas /kg ao longo de
+                                                             24 h.
+ 2 a 5 anos:                                                 35 microgramas/kg ao longo de
+                                                             24 h.
+ 5 a 10 anos:                                                25 microgramas/kg ao longo de
+                                                             24 h.
+
+A dose de carga deve ser administrada em doses fracionadas, com aproximadamente metade da
+dose total a ser administrada na primeira toma e as seguintes frações da dose total administradas
+em intervalos de quatro a oito horas, avaliando-se a resposta clínica antes de administrar cada
+dose adicional. Cada dose deve ser administrada por perfusão intravenosa (ver Modo de
+Administração, abaixo) ao longo de 10 a 20 minutos.
+
+Dose de carga oral:
+
+Deve ser administrada de acordo com o seguinte regime posológico:
+
+ Recém-nascidos prematuros com menos de 1,5 kg:              25 microgramas/kg por 24 h.
+ Recém-nascidos prematuros entre 1,5 e 2,5 kg:               30 microgramas/kg por 24 h
+ Recém-nascidos de termo até 2 anos:                         45 microgramas/kg por 24 h
+ 2 a 5 anos:                                                 35 microgramas/kg por 24 h
+ 5 a 10 anos:                                                25 microgramas/kg por 24 h
+
+A dose de carga deve ser administrada em doses fracionadas, com aproximadamente metade da
+dose total a ser administrada na primeira toma e as seguintes frações da dose total administradas
+em intervalos de quatro a oito horas, avaliando-se a resposta clínica antes de administrar cada
+dose adicional.
+
+Dose de manutenção:
+
+A dose de manutenção deve ser administrada de acordo com o seguinte regime posológico:
+Recém-nascidos prematuros:
+dose diária = 20% da dose de carga para 24h (IV ou oral).
+
+Recém-nascidos de termo e crianças até 10 anos:
+dose diária = 25% da dose de carga para 24h (IV ou oral).
+
+Estes regimes posológicos são apenas orientações, devendo ser efetuada uma cuidadosa
+avaliação clínica e monitorização dos níveis séricos da digoxina (ver Secção 4.4) como base
+para o ajuste da dosagem nestes grupos de doentes pediátricos.
+
+Populações idosas
+
+Quando se consideram populações idosas, deverá ter-se em consideração a possibilidade de
+uma função renal reduzida e menor massa corporal magra.
+Se necessário, a dosagem deve ser reduzida e ajustada à farmacocinética alterada, de modo a
+prevenir o aparecimento de níveis séricos de digoxina elevados e o risco de toxicidade. Os
+níveis séricos de digoxina devem ser verificados com frequência e a hipocaliemia deve ser
+evitada.
+
+Insuficiência renal
+As recomendações posológicas devem ser reconsideradas em doentes idosos ou se existirem
+outros motivos para a redução da depuração renal da digoxina. Deve considerar-se uma redução
+tanto da dose inicial como da dose de manutenção. (ver Secção 4.4).
+
+Modo de administração:
+
+Injeção
+
+Diluição da digoxina injetável:
+A digoxina injetável pode ser administrada sob a forma não diluída ou diluída num volume de
+quatro vezes ou superior de cloreto de sódio 0,9% para perfusão, cloreto de sódio
+0,18%/glucose 4% para perfusão ou glucose 5% para perfusão. Um volume de quatro vezes de
+diluente corresponde a adicionar uma ampola de 2 ml de digoxina a 6 ml de solução para
+perfusão. A utilização de um volume de diluente inferior a 4 vezes pode levar à precipitação da
+digoxina.
+
+A digoxina injetável, quando diluída na proporção de 1 para 250 demonstrou ser compatível
+com as seguintes soluções para perfusão e estável até 48 horas à temperatura ambiente (20 a
+25°C):
+Cloreto de sódio para perfusão intravenosa, B.P., 0,9% p/v.
+Cloreto de sódio (0,18% p/v) e glucose (4% p/v) para perfusão intravenosa, B.P.
+Glucose para perfusão intravenosa, B.P. 5% p/v.
+
+Uma proporção de 1 para 250 pode ser obtida, por exemplo, através da diluição de uma ampola
+de 2 ml em 500 ml de solução para perfusão.
+
+A diluição deve ser efetuada em condições asséticas ou imediatamente antes da utilização.
+Qualquer solução não utilizada deve ser eliminada (ver Secção 6.6).
+
+Administração da injeção de digoxina:
+Cada dose deve ser administrada por perfusão intravenosa ao longo de 10 a 20 minutos.
+A dose de carga total deve ser administrada em doses fracionadas, com aproximadamente
+metade da dose total a ser administrada na primeira toma e as seguintes frações da dose total
+administradas em intervalos de quatro a oito horas. Deve proceder-se a uma avaliação da
+resposta clínica antes de se administrar cada dose adicional.
+A via intramuscular é dolorosa e está associada a necrose muscular. Esta via de administração
+não pode ser recomendada.
+
+A injeção intravenosa rápida pode causar vasoconstrição produzindo hipertensão e/ou fluxo
+coronário reduzido. É, por isso, importante utilizar uma velocidade de injeção lenta na
+insuficiência cardíaca hipertensa e no enfarte agudo do miocárdio.
+
+Comprimido
+
+Apenas para uso oral.
+
+4.3 Contraindicações
+
+Hipersensibilidade à(s) substância(s) ativa(s) ou a outros glicosidos digitálicos ou a qualquer
+um dos excipientes mencionados na secção 6.1.
+
+A digoxina está contraindicada nos seguintes casos:
+bloqueio cardíaco completo intermitente ou no bloqueio auriculoventricular de segundo grau,
+especialmente em doentes com antecedentes de crises de Stokes-Adams;
+arritmias causadas por intoxicação com glicosidos cardíacos; arritmias supraventriculares
+associadas a uma via acessória auriculoventricular, como acontece na síndrome de Wolff-
+Parkinson-White, a menos que as características eletrofisiológicas da via acessória e qualquer
+possível efeito nocivo da digoxina sobre estas características tenham sido avaliados. A digoxina
+está igualmente contraindicada quando se saiba ou suspeite da presença de uma via acessória e
+não existam antecedentes de arritmias supraventriculares anteriores
+taquicardia ou fibrilhação ventriculares;
+cardiomiopatia hipertrófica obstrutiva, a menos que exista fibrilhação auricular e insuficiência
+cardíaca concomitantes. Contudo, mesmo nessas situações, devem tomar-se precauções se se
+utilizar digoxina.
+
+4.4 Advertências e precauções especiais de utilização
+
+Monitorização:
+Os doentes a receber digoxina devem efetuar avaliações periódicas dos valores dos eletrólitos
+séricos e da função renal (concentração sérica de creatinina). A frequência das avaliações
+dependerá da situação clínica.
+
+As concentrações séricas de digoxina podem ser expressas em unidades convencionais,
+nanogramas/ml, ou em unidades do SI, nanomol/ml. Para converter nanogramas/ml em
+nanomol/l, multiplique nanograma/ml por 1,28.
+
+A concentração sérica da digoxina pode ser determinada por radioimunoensaio.
+
+O sangue deve ser colhido seis horas ou mais após a última dose de digoxina.
+Não existem orientações rígidas relativamente ao intervalo de concentrações séricas mais
+eficazes. Análises post-hoc de doentes com insuficiência cardíaca no ensaio Digitalis
+Investigation Group sugerem que o nível sérico ótimo da digoxina pode situar-se entre 0,5
+nanogramas/ml (0,64 nanomol/l) e 1,0 nanograma/ml (1,28 nanomol/l).
+
+A toxicidade da digoxina está mais frequentemente associada a concentrações de digoxina
+sérica superiores a 2 nanogramas/ml. Contudo, a concentração sérica de digoxina deve ser
+interpretada no contexto clínico. Pode ocorrer toxicidade com concentrações séricas de digoxina
+inferiores. Ao decidir se os sintomas de um doente são ou não devidos à digoxina, o estado
+clínico, juntamente com os níveis séricos de potássio e função da tiroide, são fatores
+importantes (ver Secção 4.9).
+
+A determinação da concentração sérica de digoxina pode ser muito útil para tomar a decisão de
+continuar a tratar com digoxina, mas outros glicosidos e substâncias endógenas tipo digoxina,
+incluindo metabolitos da digoxina, podem interferir com os ensaios disponíveis e deverá ter-se
+sempre atenção aos valores que pareçam não concordar com o estado clínico do doente. Poderá
+ser mais adequado efetuar exames enquanto se suspende temporariamente a digoxina.
+
+Arritmias
+A toxicidade da digoxina pode precipitar arritmias algumas das quais se podem assemelhar às
+arritmias para as quais o medicamento é indicado. Por exemplo, a taquicardia auricular com
+bloqueio auriculoventricular variável requer especial cuidado uma vez que, clinicamente, o
+ritmo é semelhante à fibrilhação auricular.
+
+Muitos dos efeitos benéficos da digoxina nas arritmias resultam de um certo grau de bloqueio
+da condução auriculoventricular. Contudo, quando já existe bloqueio auriculoventricular
+incompleto, devem antecipar-se os efeitos de uma progressão rápida no bloqueio. No bloqueio
+cardíaco completo o ritmo idioventricular de escape pode ser suprimido.
+
+Doença sinoauricular
+Em alguns casos de afeção sinoauricular (isto é, síndrome "Sick Sinus") a digoxina pode causar
+ou exacerbar bradicardia sinusal ou causar bloqueio sinoauricular.
+
+Enfarte do Miocárdio
+A administração de digoxina no período imediatamente após enfarte do miocárdio não está
+contraindicada. Contudo, a utilização de medicamentos inotrópicos em alguns doentes nesta
+situação pode resultar em aumentos indesejáveis da carência de oxigénio e isquémia, alguns
+estudos retrospetivos de seguimento sugeriram que a digoxina está associada a um risco
+aumentado de morte. A possibilidade de ocorrência de arritmias em doentes que possam estar
+hipocaliémicos após enfarte do miocárdio e que são suscetíveis de se encontrar
+hemodinamicamente instáveis deve ser tida em consideração. As limitações subsequentemente
+impostas à cardioversão de corrente direta devem ser igualmente tidas em consideração.
+
+Amiloidose cardíaca
+
+O tratamento com digoxina deve, em geral, ser evitado em doentes com insuficiência cardíaca
+associada a amiloidose cardíaca. Contudo, se os tratamentos alternativos não forem adequados,
+pode utilizar -se a digoxina para controlar a frequência ventricular nos doentes com amiloidose
+cardíaca e fibrilhação auricular.
+
+Miocardite
+Em situações raras, a digoxina pode precipitar a vasoconstrição e, por esse motivo, deve ser
+evitada em doentes com miocardite.
+
+Doença cardíaca por beribéri
+Os doentes com doença cardíaca por beribéri podem não responder adequadamente à digoxina
+se a deficiência de tiamina subjacente não for tratada concomitantemente.
+
+Pericardite constritiva
+A digoxina não deve ser usada na pericardite constritiva, salvo se for utilizada para controlar a
+frequência ventricular na fibrilhação auricular ou para melhorar a disfunção sistólica.
+
+Tolerância ao exercício
+A digoxina melhora a tolerância ao exercício em doentes com compromisso da função sistólica
+ventricular esquerda e ritmo sinusal normal. Isto poderá ou não estar associado a uma melhoria
+do perfil hemodinâmico. Contudo, o benefício da digoxina em doentes com arritmias
+supraventriculares é mais evidente em repouso e menos evidente com o exercício.
+
+Interrupção
+Em doentes a receber diuréticos e um inibidor da ECA, ou apenas diuréticos, a interrupção da
+digoxina demonstrou resultar numa deterioração do estado clínico.
+
+Electrocardiograma
+A utilização de doses terapêuticas de digoxina pode causar o prolongamento do intervalo PR e a
+depressão do segmento ST no eletrocardiograma.
+
+A digoxina pode determinar alterações ST-T falsamente positivas no eletrocardiograma
+efetuado durante o exercício. Tais efeitos eletrofisiológicos refletem um efeito esperado do
+medicamento e não são indicativos de toxicidade.
+
+Doença respiratória grave
+Os doentes com doença respiratória grave podem ter uma sensibilidade miocárdica aumentada
+aos glicosidos digitálicos.
+
+Hipocaliemia
+A hipocaliemia sensibiliza o miocárdio à ação dos glicosidos cardíacos.
+
+Hipoxia, hipomagnesemia e hipercalcemia
+A hipoxia, hipomagnesemia e hipercalcemia marcada aumentam a sensibilidade do miocárdio
+aos glicosidos cardíacos.
+
+Doença da tiroide
+A administração de digoxina a doentes com doença da tiroide requer precaução. As doses
+inicial e de manutenção de digoxina devem ser reduzidas quando a função da tiroide for inferior
+ao normal. No hipertiroidismo existe uma resistência relativa à digoxina e a dose pode ter que
+ser aumentada. No decurso do tratamento da tirotoxicose, a dose deve ser reduzida à medida
+que a tirotoxicose é controlada.
+
+Má absorção
+Doentes com síndrome de má absorção ou com reconstruções gastrointestinais poderão
+necessitar de doses mais elevadas de digoxina.
+Insuficiência cardíaca congestiva crónica
+Embora muitos doentes com insuficiência cardíaca congestiva crónica beneficiem da
+administração aguda de digoxina, em alguns deles isso não conduz a uma melhoria
+hemodinâmica constante, marcada ou duradoura. É, por isso, importante avaliar a resposta
+individual de cada doente quando a digoxina é administrada a longo prazo.
+
+Cardioversão de corrente direta:
+O risco de provocar arritmias graves com cardioversão de corrente direta está muito aumentado
+na presença de toxicidade digitálica e é proporcional à energia de cardioversão utilizada.
+
+Para a cardioversão de corrente direta eletiva de um doente a tomar digoxina, o medicamento
+deve ser descontinuado durante 24 horas antes de se efetuar a cardioversão. Em casos de
+emergência como paragem cardíaca, deve aplicar-se a energia eficaz mais baixa quando se
+tentar a cardioversão.
+
+A cardioversão de corrente direta não é apropriada no tratamento de arritmias que se pense
+serem causadas por glicosidos cardíacos.
+
+Interferência no teste laboratorial
+Podem ocorrer resultados falsamente elevados dos níveis séricos de digoxina quando as
+amostras de doentes a receber enzalutamida são analisadas mediante imunoensaio
+quimioluminiscente de micropartículas (CMIA), independentemente de estarem a ser tratados
+com digoxina. Em caso de resultados dúbios, recomenda-se a confirmação dos níveis séricos de
+digoxina com um ensaio alternativo sem interferência conhecida, a fim de evitar qualquer
+interrupção ou diminuição desnecessária da dose de digoxina (ver secção 4.5).
+
+Advertências em relação aos excipientes
+
+Os comprimidos de digoxina contêm lactose.
+Doentes com problemas hereditários raros de intolerância à galactose, deficiência total de
+lactase ou malabsorção de glucose-galactose não devem tomar este medicamento.
+
+A solução para injetáveis de digoxina contém etanol.
+
+Etanol
+Este medicamento contém 10% (volume) de etanol (álcool) ou 0,2 ml de etanol em cada ampola
+de 2 ml (0,5 mg de digoxina), ou seja, até 176 mg de etanol por ampola, equivalente a
+aproximadamente 5 ml (uma colher de chá) de cerveja, ou menos de 2 ml de vinho. Prejudicial
+para os indivíduos que sofrem de alcoolismo. Para ter em consideração quando utilizado em
+mulheres grávidas ou a amamentar, crianças e em grupos de alto risco tais como doentes com
+problemas de fígado ou epilepsia.
+
+4.5 Interações medicamentosas e outras formas de interação
+
+Podem ocorrer devido a efeitos sobre a excreção renal, ligação aos tecidos, ligação às proteínas
+plasmáticas, distribuição no organismo, capacidade de absorção intestinal, atividade da
+glicoproteína-P e sensibilidade à digoxina. A melhor precaução, é considerar-se sempre a
+possibilidade de interação sempre que se contempla terapêutica concomitante e recomenda-se a
+verificação da concentração sérica de digoxina quando exista qualquer dúvida.
+A digoxina é um substrato da glicoproteína-P. Deste modo, os inibidores da glicoproteína-P
+podem aumentar as concentrações sanguíneas da digoxina ao aumentar a sua absorção e/ou ao
+reduzir a sua depuração renal (ver Secção 5.2). A indução da glicoproteína-P pode resultar em
+diminuições das concentrações plasmáticas da digoxina.
+
+Associações medicamentosas que devem ser evitadas
+
+Associações medicamentosas que podem aumentar os efeitos da digoxina quando administradas
+concomitantemente:
+
+Em associação com medicamentos bloqueadores do adrenoceptor beta, a digoxina pode
+aumentar o tempo de condução auriculo-ventricular.
+
+Agentes que causem hipocaliemia ou deficiência intracelular de potássio podem provocar um
+aumento da sensibilidade à digoxina. Entre eles estão os sais de lítio, corticosteroides,
+carbenoxolona e alguns diuréticos. A coadministração com diuréticos como os diuréticos de
+ansa ou a hidroclorotiazida deve ocorrer sob rigorosa monitorização dos eletrólitos séricos e da
+função renal.
+
+O cálcio, em especial se administrado rapidamente por via intravenosa, pode produzir arritmias
+graves em doentes a tomar digitálicos.
+
+Os medicamentos simpaticomiméticos possuem efeitos cronotrópicos positivos diretos que
+podem promover arritmias cardíacas e também conduzir à hipocaliemia, que pode levar a ou
+agravar arritmias cardíacas. A utilização concomitante de digoxina e simpaticomiméticos pode
+aumentar o risco de arritmias cardíacas.
+
+Associações medicamentosas que requerem precaução
+
+Associações medicamentosas que podem aumentar os efeitos da digoxina quando administradas
+concomitantemente:
+
+amiodarona, canagliflozina, daclatasvir, flibanserina, flecainida, prazosina, propafenona,
+quinidina, espironolactona, antibióticos macrólidos por exemplo: eritromicina e claritromicina,
+tetraciclina (e eventualmente outros antibióticos), gentamicina, isavuconazol, posaconazol,
+itraconazol, ivacaftor, quinina, trimetoprim, alprazolam, indometacina, propantelina,
+mirabegrom, nefazodona, atorvastatina, ciclosporina, epoprostenol (transitório), antagonistas
+dos recetores da vasopressina (tolvaptan e conivaptan), carvedilol, ritonavir/regimes
+posológicos contendo ritonavir, taleprevir, dronedarona, ranolazina, simeprevir, telmisartan,
+ticagrelor, venetoclax, vemurafenib, osimertinib, vandetanib, lapatinib e vepatasvir.
+Recomenda-se precaução quando qualquer um dos medicamentos acima é utilizado em
+associação com digoxina. As concentrações séricas de digoxina devem ser monitorizadas e
+utilizadas para a titulação da digoxina.
+
+A utilização concomitante de digoxina e senosidos pode estar associada a um aumento
+moderado do risco de toxicidade por digoxina em doentes com insuficiência cardíaca.
+
+Os doentes a receber digoxina são mais suscetíveis aos efeitos da hipercaliemia exacerbada pelo
+suxametónio.
+A coadministração de lapatinib com digoxina administrada por via oral resultou num aumento
+da AUC (área sob a curva) da digoxina. A administração concomitante de digoxina com
+lapatinib deve ser efetuada com precaução.
+
+Os medicamentos que modificam o tónus vascular das arteríolas aferentes e eferentes podem
+alterar a filtração glomerular. Os inibidores da enzima de conversão da angiotensina (IECAs) e
+os Antagonistas dos recetores da angiotensina (ARAs) diminuem a vasoconstrição da arteríola
+eferente mediada pela angiotensina II, enquanto os anti-inflamatórios não esteroides (AINEs) e
+os inibidores da enzima ciclo-oxigenase-2 (COX-2) diminuem a vasodilatação da arteríola
+aferente mediada pelas prostaglandinas. ARAs, IECAs, AINEs e inibidores da COX-2 não
+alteraram significativamente a farmacocinética (FC) da digoxina ou não alteraram os
+parâmetros FC de modo consistente. Contudo, estes medicamentos podem modificar a função
+renal em alguns doentes, resultando num aumento secundário da digoxina.
+Os agentes bloqueadores dos canais de cálcio podem aumentar ou não provocar qualquer
+alteração dos níveis séricos de digoxina. Verapamil, felodipina e tiapamil aumentam os níveis
+séricos de digoxina. Nifedipina e diltiazem podem aumentar ou não ter qualquer efeito sobre os
+níveis séricos de digoxina, enquanto que a isradipina não causa qualquer alteração. Os
+bloqueadores dos canais de cálcio são também conhecidos por possuírem efeitos depressores na
+condução nodal sinoauricular e auriculoventricular, em especial o diltiazem e o verapamilo.
+
+Os inibidores da bomba de protões (IBP) podem aumentar os níveis plasmáticos de digoxina. A
+absorção de digoxina inalterada é aumentada e o metabolismo da digoxina no trato
+gastrointestinal é inibido pelo omeprazol, resultando no aumento dos níveis plasmáticos de
+digoxina. Foram notificados efeitos semelhantes com pantoprazol e rabeprazol, em menor grau.
+
+Associações medicamentosas que podem diminuir os efeitos da digoxina quando administradas
+concomitantemente:
+antiácidos, alguns laxantes expansores do volume, caulino-pectina, acarbose, neomicina,
+penicilamina, rifampicina, alguns citostáticos, metoclopramida, sulfasalazina, adrenalina,
+salbutamol, colestiramina, fenitoína, hipericão (Hypericum perforatum), bupropiona e nutrição
+entérica suplementar.
+A bupropiona e o seu principal metabolito circulante, com e sem digoxina, estimularam o
+transporte de digoxina mediado por OATP4C1. A digoxina foi identificada como sendo um
+substrato para OATP4C1 no lado basolateral dos túbulos renais proximais. A ligação da
+bupropiona e dos seus metabolitos a OATP4C1 poderá, possivelmente, aumentar o transporte
+de digoxina e, portanto, aumentar a secreção renal da digoxina.
+
+Outras interações
+A milrinona não altera os níveis séricos de digoxina no estado de equilíbrio.
+
+A determinação das concentrações séricas de digoxina com imunoensaio quimioluminiscente de
+micropartículas (CMIA) durante a utilização de enzalutamida pode causar níveis séricos de
+digoxina falsamente elevados. Os resultados devem ser confirmados por outro tipo de ensaio
+(ver secção 4.4).
+
+4.6 Fertilidade, gravidez e aleitamento
+
+Gravidez
+A utilização da digoxina na gravidez não está contraindicada, embora a posologia possa ser
+menos previsível em mulheres grávidas do que nas não-grávidas, necessitando algumas de um
+aumento da dose de digoxina durante a gravidez. Tal como acontece com outros medicamentos,
+a utilização só deve ser considerada quando os benefícios clínicos do tratamento esperados para
+a mãe se sobreponham a qualquer possível risco para o feto em desenvolvimento.
+
+Apesar da extensa exposição pré-natal a formulações contendo digitálicos, não foram
+observados efeitos adversos significativos no feto ou recém-nascido quando as concentrações
+séricas maternas de digoxina são mantidas dentro dos valores normais. Embora se tenha
+especulado que o efeito direto da digoxina sobre o miométrio pudesse resultar em
+prematuridade relativa e baixo peso à nascença, não se pode excluir um papel contributivo da
+doença cardíaca subjacente. A digoxina administrada à mãe foi utilizada com sucesso no
+tratamento da taquicardia e insuficiência cardíaca congestiva fetais.
+
+Têm sido relatados efeitos adversos para o feto em mães com toxicidade digitálica.
+
+Amamentação
+Apesar de a digoxina ser excretada no leite materno, as quantidades são diminutas e a
+amamentação não está contraindicada.
+
+Fertilidade
+Não existe informação disponível sobre o efeito da digoxina na fertilidade humana. Não
+existem dados disponíveis relativamente à digoxina ter ou não efeitos teratogénicos.
+
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Uma vez que foram relatadas perturbações do sistema nervoso central e da visão em doentes a
+receber digoxina, os doentes devem ter precaução antes de conduzir, utilizar máquinas ou
+participar em atividades perigosas.
+
+4.8 Efeitos indesejáveis
+
+Resumo do perfil de segurança
+
+Em geral, as reações adversas da digoxina dependem da dose e ocorrem com doses superiores
+às necessárias para obter um efeito terapêutico.
+
+Assim, as reações adversas são menos frequentes quando a digoxina é utilizada dentro do
+intervalo de dose recomendada ou intervalo de concentração sérica terapêutica e quando se
+toma especial atenção à medicação e condições clínicas concomitantes.
+
+ Lista tabelada de reações adversas
+As reações adversas são indicadas em baixo por sistema de classe de órgãos e frequência. As
+frequências são definidas como:
+Muito frequentes ≥1/10
+Frequentes ≥1/100 a <1/10
+Pouco frequentes ≥1/1000 a <1/100
+Raros ≥1/10000 a <1/1000
+Muito raros < 1/10000, incluindo relatos isolados.
+
+Os acontecimentos muito frequentes, frequentes e pouco frequentes foram, em geral,
+determinados a partir de dados de ensaios clínicos. A incidência com placebo foi tida em conta.
+As reações adversas ao medicamento identificadas através de vigilância pós-comercialização,
+foram consideradas raras ou muito raras (incluindo relatos isolados).
+ Classe de sistemas de órgãos   Frequência      Efeitos secundários
+ Doenças do sangue e do         Muito raros     Trombocitopenia
+ sistema linfático
+ Doenças do metabolismo e       Muito raros     Diminuição do apetite
+ da nutrição
+ Perturbações do foro           Pouco           Depressão
+ psiquiátrico                   frequentes
+                                Muito raros     Perturbação psicótica, apatia, estado de
+                                                confusão
+ Doenças do sistema nervoso     Frequentes      Afeções do sistema nervoso, tonturas
+                                Muito raros     Dores de cabeça
+ Afeções oculares               Frequentes      Insuficiência visual (visão turva ou
+                                                xantopsia)
+ Cardiopatias                   Frequentes      Arritmia, perturbação da condução,
+                                                bigeminismo, trigeminismo, prolongamento
+                                                do segmento PR, bradicardia sinusal
+                                Muito raros     Taquiarritmia supraventricular, taquicardia
+                                                auricular (com ou sem bloqueio), taquicardia
+                                                (supraventricular (arritmia nodal), arritmia
+                                                ventricular, extrassístoles ventriculares,
+                                                depressão do segmento ST do
+                                                eletrocardiograma (ECG)
+ Doenças gastrointestinais      Frequentes      Náuseas, vómitos, diarreia
+                                Muito raros     Isquémia intestinal, necrose gastrointestinal
+ Afeções dos tecidos cutâneos   Frequentes      Erupção cutânea*
+ e subcutâneos
+ Doenças dos órgãos genitais Muito raros       Ginecomastia*
+ e da mama
+ Perturbações gerais e         Muito raros     Fadiga, mal-estar geral, astenia
+ alterações no local de
+ administração
+* Ver “Descrição de determinadas reações adversas”
+
+Descrição de determinadas reações adversas
+
+Afeções dos tecidos cutâneos e subcutâneos
+As erupções cutâneas do tipo urticária ou escarlatina podem ser acompanhadas de eosinofilia
+marcada.
+
+Doenças dos órgãos genitais e da mama
+Pode ocorrer ginecomastia com a administração a longo prazo.
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-risco do
+medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas de reações
+adversas diretamente ao INFARMED, I.P.:
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+E-mail: farmacovigilancia@infarmed.pt
+
+4.9 Sobredosagem
+
+Sintomas e sinais
+Os sintomas e sinais de toxicidade são, em geral, semelhantes aos descritos na Secção 4.8, mas
+podem ser mais frequentes e mais graves.
+
+Os sinais e sintomas de toxicidade da digoxina tornam-se mais frequentes com níveis acima dos
+2,0 nanogramas/ml (2,56 nanomol/l), apesar de existir uma variação interindividual
+considerável. Contudo, para decidir se os sintomas de um doente são ou não devidos à digoxina,
+o estado clínico do doente juntamente com os níveis séricos de eletrólitos e a função da tiroide
+são fatores importantes (ver Secção 4.2). A utilização de digoxina em doentes submetidos a
+hemodiálise está associada a um aumento da mortalidade; os doentes com concentrações baixas
+de potássio antes da diálise apresentam um risco mais elevado.
+
+Adultos
+
+Em adultos sem doença cardíaca, a observação clínica sugere que a sobredosagem com 10-15
+mg de digoxina resultou na morte de metade dos doentes. Nos casos da ingestão de mais de 25
+mg de digoxina por um adulto sem doença cardíaca, ocorreram morte ou toxicidade progressiva
+respondendo unicamente a anticorpos de fragmentos Fab que se ligam à digoxina.
+
+Manifestações cardíacas
+As manifestações cardíacas são o sinal mais frequente e grave de toxicidade, tanto aguda como
+crónica. O pico dos efeitos cardíacos ocorre em geral 3 a 6 horas após a sobredosagem e pode
+persistir nas 24 horas subsequentes ou por mais tempo. A toxicidade por digoxina pode resultar
+em praticamente qualquer tipo de arritmia. É frequente haver múltiplas perturbações do ritmo
+no mesmo doente. Estas incluem taquicardia auricular paroxística com bloqueio
+auriculoventricular (AV) variável, ritmo juncional acelerado, fibrilhação auricular lenta (com
+muito pouca variação da frequência ventricular) e taquicardia ventricular bidirecional.
+
+As contrações ventriculares prematuras (CVP) são, com frequência, as arritmias mais comuns e
+precoces.O bigeminismo ou trigeminismo também ocorrem frequentemente.
+
+A bradicardia sinusal e outras bradiarritmias são muito frequentes.
+
+O bloqueio cardíaco de primeiro, segundo e terceiro grau e a dissociação auriculoventricular
+também são frequentes.
+
+A toxicidade precoce pode-se manifestar apenas através do prolongamento do intervalo PR.
+
+A taquicardia ventricular também pode ser uma manifestação de toxicidade.
+A paragem cardíaca por assistolia ou fibrilhação ventricular devido à toxicidade por digoxina é,
+normalmente, fatal.
+
+Uma sobredosagem aguda com digoxina pode resultar em hipercaliemia ligeira a pronunciada
+devido à inibição da bomba de sódio-potássio (Na+-K+). A hipocaliemia pode contribuir para
+toxicidade (ver Secção 4.4).
+
+Manifestações não-cardíacas
+Os sintomas gastrointestinais são muito frequentes tanto na toxicidade aguda como crónica. Na
+maioria dos casos descritos na literatura, os sintomas precedem as manifestações cardíacas em
+aproximadamente metade dos doentes. Foram comunicados casos de anorexia, náuseas e
+vómitos com uma incidência até 80%. Em geral, estes sintomas manifestam-se precocemente no
+decurso de uma sobredosagem.
+
+Tanto na toxicidade aguda como crónica, ocorreram manifestações neurológicas e visuais.
+Tonturas, diversas perturbações do SNC, fadiga e mal-estar geral são muito frequentes. O
+distúrbio visual mais frequente é uma aberração da visão de cores (predominância do verde
+amarelado). Estes sintomas neurológicos e visuais podem persistir mesmo depois de os outros
+sinais de toxicidade terem desaparecido.
+
+Na toxicidade crónica, poderão predominar sintomas não-cardíacos inespecíficos, como mal-
+estar geral e fraqueza.
+
+População pediátrica
+Em crianças com idades entre 1 e 3 anos sem doença cardíaca, as observações clínicas sugerem
+que a sobredosagem com 6 a 10 mg de digoxina resulta na morte de metade dos doentes. A
+ingestão de uma dose de digoxina superior a 10 mg por uma criança com idade entre 1 e 3 anos
+sem doença cardíaca, teve resultados uniformemente fatais quando não foi administrado o
+tratamento com fragmentos Fab.
+
+A maioria das manifestações de toxicidade crónica em crianças ocorre no decurso, ou pouco
+tempo depois, de uma sobredosagem com digoxina.
+
+Manifestações cardíacas
+As mesmas arritmias ou combinações de arritmias que ocorrem nos adultos podem ocorrer nos
+doentes pediátricos. A taquicardia sinusal, taquicardia supraventricular e fibrilhação auricular
+rápida são observadas com menor frequência na população pediátrica.
+
+Os doentes pediátricos são mais suscetíveis de apresentar distúrbios na condução AV ou
+bradicardia sinusal.
+
+A ectopia ventricular é menos frequente, contudo, em situações de sobredosagem massiva,
+foram notificados casos de ectopia ventricular, taquicardia ventricular e fibrilhação ventricular.
+
+Nos recém-nascidos, a bradicardia ou paragem sinusal e/ou o prolongamento do intervalo PR
+são sinais frequentes de toxicidade. A bradicardia sinusal é frequente em lactentes e crianças
+mais novas. Em crianças mais velhas, os bloqueios AV são os distúrbios de condução mais
+frequentes.
+Qualquer arritmia ou alteração da condução cardíaca que se desenvolva numa criança a tomar
+digoxina deve ser considerada resultante da digoxina, até que o contrário seja provado por
+exames adicionais.
+
+Manifestações não cardíacas
+As manifestações não cardíacas frequentes são semelhantes às observadas nos adultos tais
+como: gastrointestinais, do SNC e visuais. Contudo, as náuseas e vómitos não são frequentes
+em lactentes e crianças pequenas.
+
+Para além dos efeitos indesejáveis observados com as doses recomendadas, foram notificados
+perda de peso nos grupos mais velhos e perturbações do crescimento em lactentes, dores
+abdominais devido a isquémia da artéria mesentérica, sonolência e alterações comportamentais
+incluindo manifestações psicóticas, em casos de sobredosagem.
+
+Tratamento
+
+Na sequência da ingestão recente acidental ou por auto-envenenamento deliberado, a carga
+disponível para absorção pode ser diminuída por lavagem gástrica. A lavagem gástrica aumenta
+o tónus vagal e pode desencadear ou agravar arritmias. Se for efetuada lavagem gástrica,
+considerar o pré-tratamento com atropina. Em geral, o tratamento com anticorpos Fab contra
+digitálicos torna desnecessária a lavagem gástrica. Nas raras situações em que a lavagem
+gástrica é indicada, esta só deverá ser efetuada por pessoas com formação e especialização
+adequadas.
+
+Doentes que tenham ingerido doses massivas de digitálicos deverão receber doses elevadas de
+carvão ativado de modo a evitar a absorção e ligar digoxina no intestino durante a recirculação
+enteroentérica. Se ocorrer de hipocaliemia, esta deverá ser corrigida com suplementos de
+potássio por via oral ou intravenosa, dependendo da urgência da situação. Nos casos em que foi
+ingerida uma quantidade muito elevada de digoxina, pode ocorrer hipercaliemia devido à
+libertação de potássio a partir do músculo esquelético. Antes de se administrar potássio em caso
+de sobredosagem com digoxina, o nível sérico de potássio deve ser determinado.
+As bradiarritmias podem responder à atropina mas pode ser necessária a estimulação cardíaca
+temporária. As arritmias ventriculares podem responder à lidocaína ou à fenitoína.
+
+A diálise não é especialmente eficaz na remoção da digoxina do organismo em caso de
+toxicidade com potencial risco de vida.
+
+O anticorpo Fab específico da digoxina é um tratamento específico para a toxicidade por
+digoxina e é muito eficaz. A administração intravenosa de fragmentos de anticorpos (Fab)
+específicos contra a digoxina (ovinos) da digoxina resultou na rápida reversão das complicações
+associadas ao envenenamento grave por digoxina, digitoxina ou glicosidos relacionados. Para
+mais pormenores, consultar a literatura fornecida com os fragmentos de anticorpo.
+
+
+5. PROPRIEDADES FARMACOLÓGICAS
+
+5.1 Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 3.1.1 Aparelho cardiovascular. Cardiotónicos. Digitálicos, código
+ATC: C01AA05
+Mecanismo de ação
+
+A digoxina aumenta a contractilidade do miocárdio por ação direta. Este efeito é proporcional à
+dose nos níveis mais baixos do intervalo, obtendo-se algum efeito com doses bastante baixas. O
+efeito ocorre mesmo no miocárdio normal, embora nesse caso não apresente qualquer benefício
+fisiológico. A principal ação da digoxina é inibir especificamente a adenosina trifosfatase e,
+com ela, a atividade de troca sódio-potássio (Na+-K+); resultando na alteração da distribuição
+iónica ao longo da membrana, num aumento do influxo do ião cálcio e, portanto, num aumento
+da disponibilidade de cálcio aquando do binómio excitação-contração. A potência da digoxina
+poderá, assim, parecer consideravelmente aumentada quando a concentração de potássio
+extracelular é baixa, causando a hipercaliemia o efeito contrário.
+
+A digoxina exerce o mesmo efeito fundamental de inibição do mecanismo de troca Na+-K+ nas
+células do sistema nervoso autónomo, estimulando-as a exercer uma atividade cardíaca indireta.
+Aumentos nos impulsos vagais eferentes resultam na redução do tónus simpático e na
+diminuição da taxa de condução do impulso através da aurícula e do nódulo auriculoventricular.
+
+Assim, o maior efeito benéfico da digoxina é a diminuição da frequência ventricular.
+A administração intravenosa de uma dose de carga gera um efeito farmacológico apreciável no
+intervalo de 5 a 30 minutos, enquanto que, através da via oral, o efeito ocorre em 0,5 a 2 horas.
+
+Efeitos farmacodinâmicos
+O estudo clínico PROVED foi concebido para determinar a eficácia de digoxina em 88 doentes
+com insuficiência cardíaca crónica estável, ligeira a moderada. A interrupção do tratamento
+com digoxina ou a sua continuação foi realizada num ensaio multicêntrico prospetivo,
+aleatorizado, em dupla ocultação, controlado por placebo, em doentes com insuficiência
+cardíaca crónica estável, ligeira a moderada, com disfunção sistólica ventricular esquerda, com
+ritmo sinusal normal e que receberam tratamento a longo prazo com medicamentos diuréticos e
+digoxina. Nos doentes que interromperam a terapêutica com digoxina observou-se um
+agravamento da capacidade máxima de exercício (p = 0,003), um aumento da incidência de
+insucesso do tratamento (p = 0,039) e um menor tempo para o insucesso do tratamento (p =
+0,037). Os doentes que continuaram a receber tratamento com digoxina apresentaram um peso
+corporal (p = 0,044) e uma frequência cardíaca inferiores (p = 0,003) e uma fração de ejeção
+ventricular esquerda superior (p = 0,016). A percentagem global de participantes com um ou
+mais acontecimentos adversos foi similar nos dois grupos: 59% no grupo de tratamento com
+placebo e 69% no grupo de tratamento com digoxina. Os tipos de acontecimento adverso não
+foram especificados.
+
+O ensaio RADIANCE analisou os efeitos de descontinuação da digoxina em doentes classe
+NYHA II e III estáveis que receberam diuréticos e inibidores da ECA. Os 178 doentes foram
+inicialmente estabilizados com uma combinação de captopril ou enalapril, diuréticos e digoxina,
+depois aleatorizados para continuar o tratamento com digoxina ou mudar para placebo. O risco
+relativo de agravamento da doença no grupo de tratamento com placebo foi de 5,9 em
+comparação com o grupo de tratamento com digoxina. A interrupção do tratamento com
+digoxina foi acompanhada de agravamento dos sintomas, redução da tolerância ao exercício e
+pior qualidade de vida, indicando que os doentes com ICC estavam num risco considerável
+devido à descontinuação do medicamento, apesar da continuação do tratamento com diuréticos
+e inibidores da ECA. Cerca de 56% no grupo de tratamento com placebo e 49% no grupo de
+tratamento com digoxina manifestaram efeitos secundários não especificados.
+No estudo clínico DIG, 6800 doentes com insuficiência cardíaca foram aleatorizados para
+receber digoxina ou placebo. Não se observaram diferenças na mortalidade por todas as causas
+entre doentes tratados com digoxina e doentes tratados com placebo. No grupo de tratamento
+com digoxina, observou-se uma tendência para a diminuição do risco de morte atribuído ao
+agravamento da insuficiência cardíaca (razão de risco: 0,88; intervalo de confiança a 95%: 0,77
+a 1,01; p = 0,06). Porém, os doentes que receberam digoxina apresentaram significativamente
+(p < 0,001) menos admissões hospitalares quando o medicamento foi administrado
+concomitantemente com diuréticos e inibidores da ECA. A terapêutica com digoxina foi mais
+benéfica em doentes com frações de ejeção ≤ 25%, doentes com corações dilatados (razão
+cardiotorácica > 0,55) e doentes com classe funcional NYHA III ou IV. No estudo DIG, 11,9 %
+dos doentes no grupo de tratamento com digoxina e 7,9 % dos doentes no grupo de tratamento
+com placebo tinham suspeita de toxicidade por digoxina, sendo os sintomas mais frequentes
+novos episódios de fibrilhação auricular, arritmia supraventricular, taquicardia, ou bloqueio
+atrioventricular avançado.
+
+O estudo AFFIRM envolveu um total de 4060 doentes recrutados para uma comparação
+aleatorizada, multicêntrica de duas estratégias de tratamento em doentes com fibrilhação
+auricular e elevado risco de acidente vascular cerebral ou morte. O objetivo primário de eficácia
+foi a mortalidade global. Registaram-se 356 mortes entre os doentes no grupo com a terapêutica
+de controlo do ritmo (amiodarona, disopiramida, flecainida, moricizina, procainamida,
+propafenona, quinidina, sotalol e associações entre estes medicamentos) e 310 mortes entre os
+doentes no grupo com a terapêutica de controlo da frequência [bloqueadores beta, bloqueadores
+dos canais de cálcio (verapamilo e diltiazem), digoxina, e associações entre estes
+medicamentos) (mortalidade aos cinco anos: 23,8% e 21,3%, respetivamente; razão de risco:
+1,15 [intervalo de confiança de 95%: 0,99 a 1,34]; p = 0,08). Foram hospitalizados mais doentes
+no grupo de controlo do ritmo do que no grupo de controlo da frequência, e também se
+observaram mais efeitos adversos no grupo de controlo do ritmo.
+
+As alterações indiretas da contratilidade cardíaca resultam também de alterações da
+conformidade venosa provocadas pela alteração da atividade autónoma e por estimulação
+venosa direta. A interação entre a atividade direta e indireta regula a resposta circulatória total,
+que não é idêntica para todos os indivíduos.Na presença de determinadas arritmias
+supraventriculares, o atraso na condução AV mediado por via neurogénica é
+extraordinariamente importante.
+
+O grau de ativação neurohormonal que ocorre em doentes com insuficiência cardíaca está
+associado à deterioração clínica e a um maior risco de morte. A digoxina reduz a ativação do
+sistema nervoso simpático e do sistema renina-angiotensina, independentemente das suas ações
+inotrópicas, podendo assim influenciar favoravelmente a sobrevivência. Desconhece-se se tal
+ocorre através de efeitos simpaticoinibitórios diretos ou da ressensibilização dos mecanismos
+baroreflexos.
+
+5.2 Propriedades farmacocinéticas
+
+Absorção
+A Tmax após administração intravenosa é de aproximadamente 1 a 5 horas, enquanto que a
+Tmax para administração oral é de 2 a 6 horas.
+Após administração oral, a digoxina é absorvida a partir do estômago e da porção superior do
+intestino delgado. Quando a digoxina é administrada após as refeições, a taxa de absorção é
+atrasada mas a quantidade total de digoxina absorvida não é, em geral, alterada. Contudo,
+quando administrada com refeições ricas em fibra, a quantidade absorvida após uma dose por
+via oral, pode ser reduzida.
+
+A biodisponibilidade da digoxina administrada por via oral é, aproximadamente, 63% para os
+comprimidos e 75% para a solução oral.
+
+Distribuição
+A distribuição inicial da digoxina do compartimento central para o periférico dura geralmente 6
+a 8 horas. A isto segue-se um declínio mais gradual da concentração sérica de digoxina, o qual
+depende da eliminação da digoxina do organismo. O volume de distribuição é grande (Vdss =
+510 litros em voluntários saudáveis), indicando uma extensa ligação da digoxina aos tecidos do
+organismo. As concentrações mais elevadas de digoxina são observadas no coração, fígado e
+rins, sendo a concentração no coração em média 30 vezes superior à que ocorre na circulação
+sistémica. Embora a concentração no músculo esquelético seja muito inferior, este
+compartimento não deve ser ignorado, uma vez que representa 40% do peso corporal total. Da
+pequena proporção de digoxina em circulação no plasma, cerca de 25 % está ligada a proteínas.
+
+Biotransformação
+A maioria da digoxina é excretada pelos rins sob a forma de fármaco intacto, apesar de uma
+pequena fração da dose ser metabolizada em metabolitos farmacologicamente ativos e inativos.
+Os principais metabolitos da digoxina são a dihidrodigoxina e a digoxigenina.
+
+Eliminação
+A principal via de eliminação é a excreção renal do fármaco inalterado.
+
+A digoxina é um substrato da glicoproteína-P. Enquanto proteína de efluxo da membrana apical
+dos enterócitos, a glicoproteína-P pode limitar a absorção da digoxina. A glicoproteína-P
+presente nos túbulos renais proximais parece ser um fator importante na eliminação renal da
+digoxina (ver Secção 4.5).
+Após administração por via intravenosa a voluntários saudáveis, cerca de 60 a 75 % da dose de
+digoxina é recuperada inalterada na urina, ao longo de um período de seguimento de seis dias.
+A depuração total da digoxina mostrou estar diretamente relacionada com a função renal, pelo
+que a redução percentual diária é uma função da depuração da creatinina. Numa população
+controlo saudável, as depurações total e renal da digoxina, foram calculadas como 193 ± 25
+ml/min e de 152 ± 24 ml/min, respetivamente.
+
+Numa pequena percentagem de indivíduos, a digoxina administrada por via oral é convertida
+em produtos de redução cardioinativos (produtos de redução da digoxina ou PRD) pela flora
+bacteriana do trato gastrointestinal. Nestes indivíduos cerca de 40% da dose pode ser excretada
+na urina na forma de PRD. As depurações renais dos dois principais metabolitos,
+dihidrodigoxina e digoxigenina, foram de 79 ± 13 ml/min e 100 ± 26 ml/min, respetivamente.
+Contudo, na maioria dos casos, a principal via de eliminação é a excreção renal do fármaco
+inalterado.
+
+A semivida de eliminação terminal da digoxina em doentes com função renal normal é de 30 a
+40 horas.
+Uma vez que a maior parte do fármaco está ligado aos tecidos e não em circulação no sangue, a
+digoxina não é efetivamente removida do organismo durante o by-pass cardiopulmonar. Além
+disso, só cerca de 3% da dose de digoxina é removida do organismo durante 5 horas de
+hemodiálise.
+Populações de doentes especiais
+
+População pediátrica
+
+No recém-nascido a depuração renal da digoxina está diminuída, devendo ser observados
+ajustes posológicos adequados. Isto é especialmente acentuado nos recém-nascidos prematuros
+uma vez que a depuração renal reflete o amadurecimento da função renal. A depuração da
+digoxina foi calculada como sendo 65,6 ± 30 ml/min/1,73 m2 aos três meses, comparada com
+apenas 32 ± 7 ml/min/1,73 m2 na primeira semana. A depuração da creatinina aos 12 meses foi
+relatada como sendo de 88 ± 43 ml/min/1,73m2. A seguir ao período neonatal, as crianças
+requerem, em geral, doses proporcionalmente maiores que as dos adultos, com base no seu peso
+corporal e área de superfície corporal.
+
+Compromisso renal
+A semivida de eliminação terminal da digoxina está aumentada em doentes com compromisso
+da função renal e em doentes anúricos pode ser da ordem das 100 horas.
+
+Compromisso hepático
+O compromisso hepático tem efeito limitado na depuração da digoxina.
+
+População idosa
+O declínio da função renal em doentes idosos pode levar a taxas mais baixas de depuração da
+digoxina em comparação com indivíduos mais jovens, sendo as taxas reportadas de depuração
+da creatinina em idosos de 53 ml/min/1,73m2.
+
+Género
+A depuração da digoxina é 12% - 14% inferior em mulheres do que em homens, o que poderá
+ter de ser considerado nos cálculos de dosagem.
+
+5.3 Dados de segurança pré-clínica
+
+Carcinogénese, mutagénese
+A digoxina não exibiu potencial genotóxico em estudos in vitro (teste de Ames e linfoma do
+murganho). Não existem dados disponíveis sobre o potencial carcinogénico da digoxina.
+
+
+6. INFORMAÇÕES FARMACÊUTICAS
+
+6.1 Lista dos excipientes
+
+Lanoxin MD comprimido:
+lactose mono-hidratada,
+amido de milho modificado,
+amido de arroz,
+amido de milho,
+estearato de magnésio.
+
+Lanoxin comprimido:
+lactose mono-hidratada,
+amido de arroz,
+amido de milho,
+amido de milho modificado,
+estearato de magnésio.
+
+Lanoxin solução para perfusão:
+etanol,
+propilenoglicol,
+ácido cítrico monohidratado,
+fosfato de sódio anidro,
+água para preparações injetáveis.
+
+6.2 Incompatibilidades
+
+Não aplicável.
+
+6.3 Prazo de validade
+
+5 anos.
+
+6.4 Precauções especiais de conservação
+
+Lanoxin e Lanoxin MD comprimido: Não conservar acima de 25º C.
+
+Lanoxin solução para perfusão: Conservar a temperatura inferior a 25ºC. Conservar na
+embalagem de origem para proteger da luz.
+
+6.5 Natureza e conteúdo do recipiente
+
+Lanoxin comprimido: acondicionados em blister de PVC/Alu em embalagens de 20, 30 ou 60
+comprimidos.
+
+Lanoxin MD comprimido: acondicionados em blister de PVC/Alu em embalagens de 20 ou 60
+comprimidos.
+
+Lanoxin solução para perfusão: ampolas de vidro tipo I contendo 2 ml de solução.
+
+É possível que não sejam comercializadas todas as apresentações.
+
+6.6 Precauções especiais de eliminação e manuseamento
+
+Digoxina injetável:
+A digoxina injetável pode ser administrada sob a forma não diluída ou diluída num volume de
+quatro vezes ou superior de cloreto de sódio 0,9% para perfusão, cloreto de sódio
+0,18%/glucose 4% para perfusão ou glucose 5% para perfusão. Um volume de quatro vezes de
+diluente corresponde a adicionar uma ampola de 2 ml de digoxina a 6 ml de solução para
+perfusão. A utilização de um volume de diluente inferior a 4 vezes pode levar à precipitação da
+digoxina.
+
+A digoxina injetável, quando diluída na proporção de 1 para 250 demonstrou ser compatível
+com as seguintes soluções para perfusão:
+Cloreto de sódio para perfusão intravenosa, B.P., 0,9% p/v.
+Cloreto de sódio (0,18% p/v) e glucose (4% p/v) para perfusão intravenosa, B.P.
+Glucose para perfusão intravenosa, B.P. 5% p/v.
+
+Uma proporção de 1 para 250 pode ser obtida, por exemplo, através da diluição de uma ampola
+de 2 ml em 500 ml de solução para perfusão.
+
+A diluição deve ser efetuada em condições asséticas ou imediatamente antes da utilização.
+Qualquer solução não utilizada deve ser eliminada.
+
+
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Aspen Pharma Trading Limited
+3016 Lake Drive,
+Citywest Business Campus,
+Dublin 24,
+Irlanda
+
+
+8. NÚMEROS DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+N.º de registo: 8915215 – 20 comprimidos, 0,25 mg, blister de PVC/Alu
+N.º de registo: 4675286 – 30 comprimidos, 0,25 mg, blister de PVC/Alu
+N.º de registo: 8915223 – 60 comprimidos, 0,25 mg, blister de PVC/Alu
+N.º de registo: 8485433 – 20 comprimidos, 0,125 mg, blister de PVC/Alu
+N.º de registo: 8485441 – 60 comprimidos, 0,125 mg, blister de PVC/Alu
+N.º de registo: 8814103 – 5 ampolas de 2 ml de solução para perfusão, vidro tipo I
+
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DE INTRODUÇÃO NO
+MERCADO:
+
+Lanoxin MD comprimidos:
+Data da primeira autorização: 09 de janeiro de 1979
+Data da última renovação: 27 de outubro de 2002
+
+Lanoxin comprimidos:
+Data da primeira autorização: 01 de junho de 1966
+Data da última renovação: 27 de outubro de 2002
+
+Lanoxin solução para perfusão:
+Data da primeira autorização: 19 de fevereiro de 1979
+Data da última renovação: 27 de outubro de 2002
+
+
+10. DATA DA REVISÃO DO TEXTO:
+

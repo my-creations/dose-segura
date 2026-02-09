@@ -1,0 +1,530 @@
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+
+1.    NOME DO MEDICAMENTO
+
+Droperidol Aguettant 1,25 mg/ml solução injetável
+Droperidol Aguettant 2,5 mg/ml solução injetável
+
+
+2.    COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Droperidol Aguettant 1,25 mg/ml solução injetável
+Cada ampola de 1 ml contém 1,25 mg de droperidol.
+
+Droperidol Aguettant 2,5 mg/ml solução injetável
+Cada ampola de 1 ml contém 2,5 mg de droperidol.
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+3.    FORMA FARMACÊUTICA
+
+Solução injetável (injetável).
+Solução incolor e límpida
+pH 3,3 – 3,8.
+Osmolalidade: 250 – 300 mOsm/kg.
+
+
+4.    INFORMAÇÕES CLÍNICAS
+
+4.1   Indicações terapêuticas
+
+Prevenção e tratamento de náuseas e vómitos no pós-operatório (NVPO) em adultos e, como segunda
+linha, em crianças (2 a 11 anos de idade) e adolescentes (12 a 18 anos de idade).
+
+Prevenção de náuseas e vómitos induzidos por morfina e derivados durante analgesia controlada pelo
+doente (PCA) pós-operatória em adultos.
+
+São necessárias certas precauções ao administrar droperidol: ver secções 4.2, 4.3 e 4.4.
+
+4.2   Posologia e modo de administração
+
+Posologia
+
+Prevenção e tratamento de náuseas e vómitos no pós-operatório (NVPO)
+
+Adultos: 0,625 mg a 1,25 mg.
+Idosos (idade superior a 65 anos): 0,625 mg.
+Compromisso renal/hepático: 0,625 mg.
+
+População pediátrica
+Crianças (2 a 11 anos de idade) e adolescentes (12 a 18 anos de idade): 10 a 50 microgramas/kg (até um
+máximo de 1,25 mg).
+Crianças (idade inferior a 2 anos): não recomendado.
+
+A administração de droperidol é recomendada 30 minutos antes do final previsto da cirurgia. Doses
+repetidas podem ser administradas a cada 6 horas, conforme necessário.
+A dosagem deverá ser adaptada a cada caso individual. Os fatores a serem considerados incluem idade,
+peso corporal, uso de outros medicamentos, tipo de anestesia e procedimento cirúrgico.
+
+Prevenção de náuseas e vómitos induzidos por morfina e derivados durante analgesia controlada pelo
+doente (PCA) pós-operatória
+
+Adultos: 15 a 50 microgramas de droperidol por mg de morfina, até uma dose diária máxima de 5 mg
+de droperidol.
+Idosos (idade superior a 65 anos), compromisso renal e hepático: sem dados disponíveis em PCA.
+
+População pediátrica
+
+Não existe utilização relevante de droperidol em crianças (2 a 11 anos de idade) e adolescentes (12 a 18
+anos de idade) para a indicação de PCA.
+
+A oximetria de pulso contínua deverá ser realizada em doentes com suspeita ou risco identificado de
+arritmia ventricular e deverá continuar durante 30 minutos após administração intravenosa única.
+
+Modo de administração
+
+Para utilização intravenosa.
+Apenas para uso único.
+Para instruções acerca da diluição do medicamento antes da administração, ver secção 6.6.
+
+4.3   Contraindicações
+
+  Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na secção 6.1;
+  Hipersensibilidade às butirofenonas;
+  Intervalo QT prolongado conhecido ou suspeito (QTc > 450 mseg em mulheres e > 440 mseg em
+   homens). Isto inclui doentes com intervalo QT longo congénito, doentes com antecedentes
+   familiares de prolongamento do intervalo QT congénito e doentes tratados com medicamentos
+   conhecidos por prolongarem o intervalo QT (ver secção 4.5);
+  Hipocalemia ou hipomagnesemia;
+  Bradicardia (< 55 batimentos cardíacos por minuto);
+  Tratamento concomitante conhecido que leva a bradicardia;
+  Feocromocitoma;
+  Estados comatosos;
+  Doença de Parkinson;
+  Depressão grave.
+
+4.4   Advertências e precauções especiais de utilização
+
+Sistema Nervoso Central
+
+O droperidol pode aumentar a depressão do SNC causada por outros medicamentos depressores do SNC.
+Qualquer doente submetido a anestesia e a receber medicamentos depressores do SNC potentes ou que
+apresente sintomas de depressão do SNC deve ser cuidadosamente monitorizado.
+
+A utilização concomitante de metoclopramida e outros neurolépticos pode levar a um aumento dos
+sintomas extrapiramidais e deverá ser evitada (ver secção 4.5).
+
+O droperidol deve ser utilizado com precaução em doentes com epilepsia (ou historial de epilepsia) e
+condições que predisponham para a epilepsia ou convulsões.
+
+Cardiovascular
+Hipotensão ligeira a moderada e ocasionalmente taquicardia (reflexa) foram observadas após a
+administração de droperidol. Normalmente esta reação resolve-se espontaneamente. Contudo, no caso
+de a hipotensão persistir, deverá ser considerada a possibilidade de hipovolemia e deverá ser
+administrada reposição adequada de fluidos.
+
+Os doentes com, ou que se suspeite terem, os seguintes fatores de risco para arritmia cardíaca deverão
+ser cuidadosamente avaliados antes da administração de droperidol:
+   um historial de doença cardíaca significativa, incluindo arritmia ventricular grave, bloqueio
+     auriculoventricular de segundo ou terceiro grau, disfunção do nódulo sinusal, insuficiência cardíaca
+     congestiva, doença cardíaca isquémica e hipertrofia ventricular esquerda;
+   historial familiar de morte súbita;
+   insuficiência renal (sobretudo quando em diálise crónica);
+   doença pulmonar obstrutiva crónica significativa e insuficiência respiratória;
+   fatores de risco para distúrbios eletrolíticos, conforme observado em doentes a tomar laxantes,
+     glucocorticoides, diuréticos espoliadores de potássio, em associação com a administração de
+     insulina em situações agudas, ou em doentes com vómitos e/ou diarreia prolongados.
+
+Os eletrólitos e os níveis de creatinina séricos devem ser avaliados nos doentes com risco de arritmia
+cardíaca e a presença de prolongamento do intervalo QT excluída antes da administração de droperidol.
+
+A oximetria de pulso contínua deverá ser realizada em doentes com suspeita ou risco identificado de
+arritmia ventricular e deverá continuar durante 30 minutos após administração intravenosa única.
+
+Geral
+
+Para prevenir o prolongamento do intervalo QT, é necessária precaução quando os doentes estiverem a
+tomar medicamentos que possam induzir desequilíbrio eletrolítico (hipocaliemia e/ou hipomagnesemia),
+por ex. diuréticos espoliadores de potássio, laxantes e glucocorticoides.
+
+Substâncias que inibem a atividade das isoenzimas do citocromo P450 (CYP) CYP1A2, CYP3A4 ou
+ambas podem diminuir a taxa de metabolização do droperidol e prolongar a sua ação farmacológica.
+Assim, recomenda-se precaução se o droperidol for administrado concomitantemente com inibidores
+potentes do CYP1A2 e CYP3A4 (ver secção 4.5).
+
+Doentes que têm, ou que se suspeite terem, historial de abuso de álcool ou ingestão elevada recente,
+devem ser cuidadosamente avaliados antes da administração de droperidol.
+
+Em caso de hipertermia inexplicável, é essencial descontinuar o tratamento, uma vez que este sinal pode
+ser um dos elementos de síndrome maligna relatada com neurolépticos.
+
+Foram relatados casos de tromboembolismo venoso (TEV) com antipsicóticos. Como os doentes
+tratados com antipsicóticos apresentam frequentemente fatores de risco adquiridos para TEV, todos os
+possíveis fatores de risco para TEV devem ser identificados antes e durante o tratamento com droperidol
+e devem ser tomadas medidas preventivas.
+
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por ampola de 1 ml ou seja, é
+praticamente “isento de sódio”.
+
+4.5     Interações medicamentosas e outras formas de interação
+
+Os medicamentos que se sabe causarem Torsade de Pointes através do prolongamento do intervalo QT
+não deverão ser administrados concomitantemente com o droperidol. Os exemplos incluem:
+  antiarrítmicos de Classe IA;
+  antiarrítmicos de Classe III;
+  antibióticos do grupo dos macrólidos;
+     antibióticos do grupo das fluoroquinolonas;
+     anti-histamínicos;
+     certos antipsicóticos;
+     medicamentos antimaláricos;
+     cisaprida, domperidona, metadona, pentamidina.
+
+A utilização concomitante de medicamentos que induzem sintomas extrapiramidais, como por exemplo
+metoclopramida e outros neurolépticos, poderá levar a um aumento da incidência destes sintomas e
+deverá, por conseguinte, ser evitada.
+
+O consumo de bebidas alcoólicas e medicamentos deve ser evitado.
+
+Aconselha-se precaução na utilização concomitante
+
+Para reduzir o risco de prolongamento do intervalo QT, é necessária precaução quando os doentes
+estiverem a tomar medicamentos que possam induzir desequilíbrio eletrolítico (hipocaliemia e/ou
+hipomagnesemia), por ex. diuréticos espoliadores de potássio, laxantes e glucocorticoides.
+
+O droperidol pode potenciar a ação de sedativos (barbitúricos, benzodiazepinas, derivados da morfina).
+O mesmo se aplica aos medicamentos anti-hipertensores, pelo que pode ocorrer hipotensão ortostática.
+
+O droperidol pode potenciar a depressão respiratória causada por opioides.
+Uma vez que o droperidol bloqueia os recetores da dopamina, poderá inibir a ação dos agonistas da
+dopamina, tais como a bromocriptina, lisurida e da L-dopa.
+
+Substâncias que inibem a atividade das isoenzimas do citocromo P450 (CYP) CYP1A2, CYP3A4 ou
+ambas podem diminuir a taxa de metabolização do droperidol e prolongar a sua ação farmacológica.
+Assim, recomenda-se precaução se o droperidol for administrado concomitantemente com inibidores do
+CYP1A2, inibidores do CYP3A4 ou ambos.
+
+4.6    Fertilidade, gravidez e aleitamento
+
+Gravidez
+
+Uma quantidade limitada de dados clínicos não demonstrou qualquer aumento do risco de
+malformações.
+
+O droperidol não demonstrou ser teratogénico em ratos. Os estudos em animais são insuficientes para
+demonstrar quais os efeitos na gravidez e no desenvolvimento embrionário/fetal, no parto e no
+desenvolvimento pós-natal.
+
+Em bebés recém-nascidos de mães submetidas a tratamento de longo prazo com elevadas doses de
+neurolépticos, foram descritas perturbações neurológicas temporárias de natureza extrapiramidal.
+
+Como medida de precaução, é preferível não administrar droperidol durante a gravidez. Na gravidez
+tardia, se a sua administração for necessária, é recomendada a monitorização das funções neurológicas
+do recém-nascido.
+
+Amamentação
+
+Sabe-se que os neurolépticos da classe das butirofenonas são excretados no leite materno; o tratamento
+com droperidol deve limitar-se a uma única administração. A administração repetida não é
+recomendada.
+
+Fertilidade
+Não houve efeitos na fertilidade em estudos realizados em ratos machos e fêmeas (ver secção 5.3). O
+efeito clínico do droperidol na fertilidade não foi estabelecido.
+
+4.7   Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+O droperidol tem grande influência sobre a capacidade de conduzir e utilizar máquinas.
+Os doentes não devem conduzir ou operar máquinas durante pelo menos 24 horas após a administração
+de droperidol.
+
+4.8   Efeitos indesejáveis
+
+Os eventos mais frequentemente notificados durante a experiência clínica são incidentes de sonolência
+e sedação. Adicionalmente, ocorreram notificações menos frequentes de hipotensão, arritmias cardíacas,
+síndrome neuroléptica maligna (SNM) e sintomas associados com a SNM, além da ocorrência de
+perturbações do movimento, como discinesias, e incidentes de ansiedade ou agitação.
+                                                                                          Desconheci
+                   Freque         Pouco                                                        dos
+  Classe de                                         Raros
+                     ntes       frequentes                            Muito raros        (não pode ser
+   Sistema                                     ≥1/10 000 a < 1/1
+                  ≥1/100 a <   ≥1/1 000 a <                           < 1/10 000          calculado a
+  de Órgãos                                          000
+                     1/10          1/100                                                partir dos dados
+                                                                                          disponíveis)
+ Doenças do
+ sangue e do                                                           Discrasias
+    sistema                                                            sanguíneas
+   linfático
+
+                                                    Reação
+ Doenças do                                       anafilática;
+  sistema                                           Edema
+ imunitário                                     angioneurótico;
+                                               Hipersensibilidade
+
+                                                                                           Secreção
+  Doenças do
+                                                                                          anormal da
+ metabolismo
+                                                                                           hormona
+ e da nutrição
+                                                                                         antidiurética
+ Perturbações                   Ansiedade;         Estados
+   do foro                     Inquietação/A     confusionais;          Disforia         Alucinações
+ psiquiátrico                     catisia          Agitação
+                                                                        Distúrbio          Ataques
+ Doenças do
+                                Distonia;                            extrapiramidal;      epiléticos;
+  sistema         Sonolência
+                               Oculogiração                           Convulsões;         Doença de
+  nervoso
+                                                                        Tremores          Parkinson
+                                                                         Paragem
+                                                                         cardíaca,
+                                                  Arritmias
+                                                                        Torsade de
+                                                  cardíacas,
+  Doenças                      Taquicardia;                               pointes;
+                                                  incluindo
+  cardíacas                     Tonturas                             Prolongamento
+                                                   arritmias
+                                                                     do intervalo QT
+                                                 ventriculares
+                                                                            no
+                                                                    eletrocardiograma
+
+Vasculopatias Hipotensão                                                                   Síncope
+
+   Doenças
+ respiratórias,                                                                         Broncoespasmo;
+torácicas e do                                                                          Laringoespasmo
+  mediastino
+ Afeções dos
+   tecidos
+                                                Erupção cutânea
+  cutâneos e
+ subcutâneos
+Perturbações
+   gerais e                                       Síndrome
+alterações no                                    neuroléptica         Morte súbita
+   local de                                     maligna (SNM)
+administração
+
+Ocasionalmente foram notificados sintomas potencialmente associados à SNM, como alterações da
+temperatura corporal, rigidez e febre. Foi observada uma alteração no estado mental com confusão ou
+agitação e consciência alterada. A instabilidade autonómica pode manifestar-se como taquicardia,
+pressão arterial flutuante, sudação/salivação excessiva e tremores. Em casos extremos, a SNM pode
+levar a coma, ou a problemas renais e/ou hepatobiliares.
+Casos isolados de amenorreia, galactorreia, ginecomastia, hiperprolactinemia, oligomenorreia e
+síndrome de abstinência neonatal foram associados à exposição prolongada em indicações psiquiátricas.
+
+Foram notificados casos de tromboembolismo venoso, incluindo casos de embolismo pulmonar e casos
+de trombose venosa profunda com medicamentos antipsicóticos – frequência desconhecida.
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas diretamente ao
+INFARMED, I.P.:
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+e-mail: farmacovigilancia@infarmed.pt
+
+4.9   Sobredosagem
+
+Sintomas
+
+As manifestações de sobredosagem de droperidol são uma extensão das suas ações farmacológicas.
+Sintomas de sobredosagem acidental são a indiferença psíquica com uma transição para o sono, por
+vezes associada a um decréscimo da pressão arterial.
+
+Em doses mais elevadas ou em doentes sensíveis podem ocorrer distúrbios extrapiramidais (salivação,
+movimentos anormais, por vezes rigidez muscular). Podem ocorrer convulsões com doses tóxicas.
+
+Foram notificados, raramente, casos de prolongamento do intervalo QT, arritmias ventriculares e morte
+súbita.
+
+Tratamento
+
+Não é conhecido qualquer antídoto específico. Contudo, quando ocorrem reações extrapiramidais,
+deverá ser administrado um anticolinérgico.
+
+Os doentes com sobredosagem de droperidol deverão ser cuidadosamente monitorizados quanto a sinais
+de prolongamento do intervalo QT
+
+Fatores que predispõem para torsade de pointes, como por exemplo distúrbios eletrolíticos
+(especialmente hipocaliemia ou hipomagnesemia) e bradicardia deverão ser tidos em consideração
+
+A hipotensão pronunciada deve ser tratada pelo aumento do volume circulatório e tomando outras
+medidas apropriadas. Devem ser mantidas as vias aéreas desimpedidas e a oxigenação adequada; uma
+ventilação orofaríngea ou a entubação endotraqueal poderão ser indicadas.
+
+Se for necessário, o doente deverá ser cuidadosamente monitorizado durante 24 horas ou mais; a
+temperatura corporal e o adequado aporte de fluidos deverão ser mantidos.
+5.    PROPRIEDADES FARMACOLÓGICAS
+
+5.1   Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 2.9.2. Sistema Nervoso Central. Psicofármacos. Antipsicóticos, código
+ATC: N05AD08
+
+O droperidol é um neuroléptico do grupo das butirofenonas. O seu perfil farmacológico caracteriza-se
+principalmente pelo bloqueio da dopamina e por efeitos α1- adrenolíticos fracos. O droperidol é
+desprovido de atividade anticolinérgica e anti-histamínica.
+
+Mecanismo de ação
+
+A ação inibidora do droperidol sobre os recetores dopaminérgicos na zona de transmissão química na
+área postrema, dá-lhe um efeito antiemético potente, particularmente útil na prevenção e tratamento de
+náuseas e vómitos no pós-operatório e/ou náuseas e vómitos induzidos por analgésicos opioides.
+
+Efeitos farmacodinâmicos
+
+Numa dose de 0,15 mg/kg, o droperidol induz uma queda na pressão arterial média (PAM), devido a
+um decréscimo na frequência cardíaca numa primeira fase, e depois subsequentemente devido a um
+decréscimo na pré-carga. Estas alterações ocorrem independentemente de qualquer alteração na
+contratilidade miocárdica ou resistência vascular. O droperidol não afeta a contratilidade miocárdica ou
+o ritmo cardíaco, não tendo, assim, efeito inotrópico negativo. O seu fraco bloqueio α1-adrenérgico pode
+causar uma hipotensão moderada e um decréscimo da resistência vascular periférica e pode diminuir a
+pressão arterial pulmonar (sobretudo se estiver anormalmente elevada). Pode também reduzir a
+incidência da arritmia induzida pela epinefrina, mas não previne outras formas de arritmia cardíaca.
+
+O droperidol tem um efeito antiarrítmico específico numa dose de 0,2 mg/kg por um efeito na
+contractilidade miocárdica (prolongamento do período refratário) e um decréscimo na pressão arterial.
+
+Eficácia e segurança clínicas
+
+Dois estudos (um controlado com placebo e um comparativo controlado com tratamento ativo)
+realizados no cenário de anestesia geral e concebidos para melhor identificar as alterações QTc
+associadas ao tratamento das náuseas e vómitos no pós-operatório com pequenas doses de droperidol
+(0,625 e 1,2 mg intravenosos, e 0,75 mg intravenosos, respetivamente) identificaram um prolongamento
+do intervalo QT de 3-6 min. após a administração de 0,625 e 1,25 mg de droperidol (15 ± 40 e 22 ± 41
+ms, respetivamente), mas estas alterações não diferiram significativamente das observadas com solução
+de cloreto de sódio (12 ± 35 ms). Não houve diferenças estatisticamente significativas entre os grupos
+de droperidol e de solução de cloreto de sódio quanto ao número de doentes com prolongamentos do
+intervalo QTc superiores a 10% em relação ao valor basal. Não houve evidência de prolongamento QTc
+induzido pelo droperidol após a cirurgia.
+
+Não foram relatados batimentos cardíacos ectópicos nos registos eletrocardiográficos ou nos registos de
+12 derivações durante o período perioperatório. O estudo comparativo com tratamento ativo de 0,75 mg
+por via intravenosa de droperidol, identificou um prolongamento significativo do intervalo QTc
+(máximo de 17 ± 9 ms no segundo minuto após a injeção de droperidol quando comparado com a
+medição QTc pré-tratamento), com o intervalo QTc significativamente mais baixo após o 90º minuto.
+
+5.2   Propriedades farmacocinéticas
+
+A ação de uma dose única intravenosa começa 2-3 minutos após a administração. Os efeitos
+tranquilizantes e sedativos tendem a persistir durante 2 a 4 horas, embora o estado de alerta possa ser
+afetado até 12 horas.
+Distribuição
+Após uma administração intravenosa, as concentrações plasmáticas descem rapidamente durante os
+primeiros 15 minutos; isto é independente do metabolismo, redistribuição da substância ativa. A ligação
+às proteínas plasmáticas atinge os 85 – 90%. O volume de distribuição é aproximadamente 1,5 l/kg.
+
+Biotransformação
+O droperidol é extensivamente metabolizado no fígado, e sofre oxidação, desalquilação, desmetilação
+e hidroxilação pelas isoenzimas 1A2 e 3A4 do citocromo P450, e em menor grau pela isoenzima
+2C19. Os metabolitos são desprovidos de atividade neuroléptica.
+
+Eliminação
+A eliminação ocorre principalmente através do metabolismo; 75% é excretada pelos rins. Apenas 1%
+da substância ativa é excretada inalterada na urina, e 11% nas fezes. A depuração plasmática é de 0,8
+(0,4 - 1,8) 1/min. A semivida de eliminação (t½ß) é de 134 ± 13 min.
+
+População pediátrica
+Num estudo em 12 crianças (idade entre 3,5 a 12 anos), os valores para o volume de distribuição e
+depuração reportados foram inferiores aos encontrados na população adulta (0,58 ± 0,29 l/kg e 4,66 ±
+2,28 ml/kg*min, respetivamente) e decrescem em paralelo. A semivida de eliminação (101,5 ± 26,4
+min) foi idêntica à encontrada em adultos.
+
+5.3   Dados de segurança pré-clínica
+
+Os dados não clínicos não revelam riscos especiais para o ser humano, segundo estudos convencionais
+de toxicidade de dose repetida, potencial genotóxico ou carcinogénico, e toxicidade reprodutiva.
+Estudos in vitro e in vivo eletrofisiológicos indicam um risco geral do droperidol prolongar o intervalo
+QT no ser humano.
+No ser humano, o pico de concentração plasmática livre é aproximadamente 4 vezes maior a 25 vezes
+menor do que as concentrações de droperidol que afetam os parâmetros examinados nos diferentes
+sistemas de teste in vitro e in vivo utilizados para avaliar o impacto deste medicamento na repolarização
+cardíaca. Os níveis plasmáticos decrescem cerca de uma ordem de magnitude durante os primeiros vinte
+minutos após a administração.
+
+
+6.    INFORMAÇÕES FARMACÊUTICAS
+
+6.1   Lista dos excipientes
+
+Manitol (E 421)
+Ácido tartárico
+Hidróxido de sódio (para ajuste do pH)
+Água para preparações injetáveis
+
+6.2   Incompatibilidades
+
+Incompatível com barbitúricos. Este medicamento não pode ser misturado com outros medicamentos,
+exceto os mencionados na secção 6.6.
+
+6.3   Prazo de validade
+
+3 anos.
+
+Após a diluição
+A estabilidade química e física durante a utilização de droperidol foi demonstrada:
+     com solução de glucose 50 mg/ml (5%) e sacos de perfusão de PVC e sacos de perfusão sem
+        PVC e seringas de polipropileno durante 48 horas a 25 ºC.
+          com solução injetável de cloreto de sódio 9 mg/ml (0,9%) e sacos de perfusão de PVC e sacos
+           de perfusão sem PVC e seringas de polipropileno durante 48 horas a 25 ºC.
+          com morfina em solução injetável de cloreto de sódio 9 mg/ml (0,9%) em seringas de
+           polipropileno durante 14 dias a 25 ºC e entre 2 ºC a 8 ºC.
+
+De um ponto de vista microbiológico, o medicamento diluído deve ser utilizado imediatamente. Se não
+for utilizado imediatamente, os tempos de conservação durante a utilização e as condições anteriores à
+utilização são da responsabilidade do utilizador e, normalmente, não devem ser superiores a 24 horas
+entre 2ºC a 8ºC, a não ser que a diluição tenha ocorrido em condições asséticas controladas e validadas.
+
+6.4       Precauções especiais de conservação
+
+Conservar na embalagem de origem para proteger da luz.
+Para condições de conservação após diluição e primeira abertura do medicamento, ver secção 6.3.
+
+6.5       Natureza e conteúdo do recipiente
+
+Ampola de 1 ml (vidro âmbar, Tipo I);
+Caixa com 10 ampolas.
+
+6.6       Precauções especiais de eliminação e manuseamento
+
+A solução deve ser inspecionada visualmente antes da administração. Devem ser utilizadas apenas
+soluções límpidas e incolores, isentas de partículas visíveis.
+Para utilização em PCA: Extrair o droperidol e a morfina para uma seringa e completar o volume com
+solução injetável de cloreto de sódio 9 mg/ml (0,9%).
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+
+
+7.        TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Laboratoire Aguettant
+1, rue Alexander Fleming
+69007 Lyon
+França
+
+
+8.        NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Nº de registo: XXXXXXX – 10 ampolas, Solução injetável, 1.25 mg/ml, Ampola de 1 ml (vidro
+âmbar, Tipo I)
+
+Nº de registo: XXXXXXX – 10 ampolas, Solução injetável, 2.5 mg/ml, Ampola de 1 ml (vidro âmbar,
+Tipo I)
+
+
+9.        DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+          INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização:
+
+
+10.       DATA DA REVISÃO DO TEXTO
+

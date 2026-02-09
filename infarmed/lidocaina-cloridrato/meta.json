@@ -1,0 +1,31 @@
+{
+  "medId": "lidocaina-cloridrato",
+  "searchTerm": "lidocaina",
+  "retrievedAt": "2026-02-09T00:44:05.528Z",
+  "bestMatch": {
+    "infarmedId": "35221",
+    "name": "Lidocaína 1% Braun",
+    "dci": "Lidocaína",
+    "form": "Solução injetável",
+    "dosage": "10 mg/ml",
+    "holder": "B. Braun Medical, Unipessoal Lda.",
+    "isGeneric": false,
+    "score": 170
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/35221-rcm.pdf",
+      "size": 75560
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/35221-fi.pdf",
+      "size": 42410
+    }
+  }
+}

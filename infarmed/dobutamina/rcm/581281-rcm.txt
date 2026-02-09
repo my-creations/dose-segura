@@ -1,0 +1,894 @@
+               RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+
+
+
+Confidencial
+               1.    NOME DO MEDICAMENTO
+
+               Dobutamina Hikma 12,5 mg/ml Concentrado para solução para perfusão
+
+
+               2.    COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+               Cada ml contém 12,5 mg de dobutamina (equivalente a 14,01 mg de cloridrato de dobutamina).
+               Cada frasco para injetáveis de 20 ml contém 250 mg de dobutamina (equivalente a 280,2 mg de
+               cloridrato de dobutamina).
+
+               Excipiente(s) com efeito conhecido:
+               Metabissulfito de sódio (E223) – 0,24 mg/ml
+
+               Lista completa de excipientes, ver secção 6.1.
+
+
+               3.    FORMA FARMACÊUTICA
+
+               Concentrado para solução para perfusão.
+               Solução límpida, incolor ou amarelo pálido.
+               O pH varia entre 2,5 e 5,5.
+
+               4.    INFORMAÇÕES CLÍNICAS
+
+               4.1   Indicações terapêuticas
+
+               Dobutamina Hikma está indicado em adultos que necessitem de suporte inotrópico no tratamento da
+               insuficiência cardíaca de baixo débito, normalmente associada a enfarte do miocárdio, cirurgias de
+               coração aberto, cardiomiopatias, choque séptico e choque cardiogénico.
+
+               Dobutamina Hikma pode também ser utilizado em testes de stress cardíaco, como alternativa ao
+               exercício, em doentes para os quais o exercício de rotina não pode ser realizado satisfatoriamente.
+
+               População pediátrica
+               A dobutamina está indicada em todos os grupos em idade pediátrica (desde recém-nascidos até aos
+               18 anos de idade) como suporte inotrópico em estados de hipoperfusão com baixo débito cardíaco
+               resultantes de insuficiência cardíaca descompensada, após cirurgia cardíaca, cardiomiopatias e em
+               choque cardiogénico ou séptico.
+
+               4.2   Posologia e modo de administração
+
+               Apenas para uso por via intravenosa.
+
+               Posologia
+
+               Adultos
+
+               Suporte inotrópico do miocárdio:
+
+
+
+
+Confidencial
+               A dose habitual é de 2,5 a 10 microgramas/kg/minuto, que deve ser ajustada de acordo com a
+               frequência cardíaca do doente, pressão arterial, débito cardíaco e débito urinário. A perfusão deve
+               ser iniciada a uma taxa de 2,5 microgramas/kg/min, e a dose pode ser aumentada em intervalos de
+               10-30 minutos, até ser alcançada a resposta hemodinâmica desejada ou até que os efeitos
+               indesejáveis, tais como taquicardia excessiva, arritmia, dor de cabeça ou tremor, limitem um
+               aumento adicional da dose. A dose deve ser ajustada individualmente de acordo com o ritmo e
+               frequência cardíaca, pressão arterial e fluxo urinário. Ocasionalmente, uma dose tão baixa quanto
+               0,5 microgramas/kg/minuto originará uma resposta. Doses até 40 microgramas/kg/minuto podem
+               ser necessárias.
+
+               Durante a perfusão contínua prolongada (48-72 horas), pode ocorrer uma diminuição da resposta
+               hemodinâmica, o que torna necessário um aumento da dose.
+
+               Doses para testes de stress cardíaco:
+               O uso da dobutamina no teste de stress cardíaco deve ser realizado apenas em unidades que já
+               realizem provas de esforço, tendo em conta que todos os cuidados e precauções normais necessários
+               nesses testes são também necessários quando a dobutamina é utilizada para esse efeito, incluindo a
+               disponibilidade de um desfibrilhador e de pessoal especialmente formado em reanimação.
+
+               A dose recomendada é de um aumento gradual na taxa de perfusão de 5 microgramas/kg/minuto
+               para 10, 20, 30 até, no máximo, 40 microgramas/kg/minuto. Cada dose deve ser perfundida durante
+               3 minutos. Além disso, pode ser adicionada atropina durante a perfusão adicional da dose máxima.
+               É necessária a monitorização contínua do eletrocardiograma (ECG), podendo a administração ser
+               suspensa no caso de uma depressão do segmento ST de > 0,2 mV (2 mm), medido 80 ms após o
+               ponto J, uma elevação do segmento ST de >0,1 mV (1 mm) em doentes sem histórico de enfarte do
+               miocárdio ou quaisquer arritmias cardíacas significativas.
+               A perfusão de dobutamina deve ser suspensa se a frequência cardíaca atingir 85% do máximo
+               previsto para a idade, se a pressão arterial sistólica ultrapassar 220 mmHg ou se ocorrer uma
+               redução sintomática da pressão arterial sistólica >40 mmHg da linha de base, se ocorrerem novas
+               anomalias do movimento da parede cardíaca, dor torácica intensa ou qualquer efeito adverso não
+               tolerável.
+
+               Idosos
+
+               Não é sugerida nenhuma alteração da dose. É necessária uma monitorização rigorosa da pressão
+               arterial, débito urinário e perfusão nos tecidos periféricos.
+
+               Testes de stress cardíaco: quando utilizado como alternativa ao exercício em testes de stress
+               cardíaco, a dose recomendada deve começar em 5 microgramas/kg/minuto, devendo a dose ser
+               gradualmente aumentada em 5 microgramas/kg/minuto a cada 8 minutos, até uma taxa máxima de
+               20 microgramas/kg/minuto. A monitorização contínua do ECG é essencial e a administração
+               termina em caso de depressão do segmento ST >3 mm ou qualquer arritmia ventricular. A
+               administração deve ser também suspensa se a frequência cardíaca atingir o máximo para a
+               idade/sexo, a pressão arterial sistólica se elevar acima dos 220 mmHg ou se ocorrerem quaisquer
+               efeitos indesejáveis.
+
+               População pediátrica
+
+               Para todos os grupos em idade pediátrica (recém-nascidos até 18 anos de idade) é recomendada uma
+               dose inicial de 5 microgramas/kg/minuto, ajustada de acordo com a resposta clínica a 2-
+
+
+
+
+Confidencial
+               20 microgramas/kg/minuto. Ocasionalmente, uma dose tão baixa quanto 0,5-
+               1,0 microgramas/kg/minuto produzirá uma resposta.
+
+               Há razões para acreditar que a dose mínima efetiva para crianças é superior à dos adultos. Deve ter-
+               se precaução quando se administram doses elevadas, porque também há razões para crer que a dose
+               máxima tolerada pelas crianças é menor do que a dos adultos. A maior parte das reações adversas
+               (em particular a taquicardia) foi observada aquando da administração de doses iguais ou superiores
+               a 7,5 microgramas/kg/minuto, mas a redução ou suspensão da taxa de perfusão da dobutamina é
+               suficiente para a reversão rápida dos efeitos indesejáveis.
+
+               Foi observada uma grande variabilidade entre os doentes pediátricos em relação à concentração
+               plasmática necessária para iniciar uma resposta hemodinâmica (limiar) e à taxa da resposta
+               hemodinâmica ao aumento das concentrações plasmáticas, o que demonstra que a dose necessária
+               para crianças não pode ser determinada a priori e deve ser titulada de forma a permitir uma
+               “margem terapêutica” mais estreita em crianças.
+
+               Modo de administração
+
+               Dobutamina Hikma deve ser diluído antes de ser utilizado e administrado unicamente por perfusão
+               intravenosa.
+
+               A concentração de dobutamina administrada depende da dosagem e da necessidade de líquidos do
+               doente. As concentrações finais geralmente utilizadas para perfusão são de 250 microgramas/ml,
+               500 microgramas/ml ou 1000 microgramas/ml. Para precauções especiais de conservação da
+               solução diluída preparada ver a secção 6.4. Concentrações elevadas de dobutamina devem ser
+               administradas apenas com uma bomba de perfusão ou outros aparelhos adequados para garantir a
+               dosagem exata. Devido à sua curta semivida, a dobutamina deve ser administrada por perfusão
+               intravenosa contínua. A dobutamina deve ser administrada por via intravenosa através de uma
+               agulha ou cateter intravenoso. As seguintes soluções estéreis para perfusão IV podem ser usadas
+               para a diluição da dobutamina antes da sua utilização: solução injetável de Dextrose a 5%, solução
+               injetável de Dextrose a 5% e Cloreto de Sódio a 0,45%, solução injetável de Dextrose a 5% e
+               Cloreto de Sódio a 0,9%, solução injetável de Dextrose a 10%, solução injetável de múltiplos
+               eletrólitos e Dextrose a 5%, solução injetável de Lactato de Ringer, Dextrose a 5% em solução
+               injetável de Lactato de Ringer, Manitol a 20% em Água para Preparações Injetáveis, solução
+               injetável de Cloreto de Sódio a 0,9% e solução injetável de Lactato de Sódio.
+
+               Doses para sistemas de administração por perfusão:
+               Um frasco para injetáveis de Dobutamina Hikma 12,5 mg/ml (250 mg/20 ml) diluído para um
+               volume de solução de 500 ml (concentração final de 0,5 mg/ml) com qualquer um dos solventes
+               aprovados (ser secção 6.6).
+
+
+
+
+Confidencial
+                                                                                   Especificações em ml/h*
+                                                                                         (gotas/min)
+                Intervalo posológico
+                                                                                       Peso do doente
+                                                                        50 kg               70 kg                    90 kg
+                Baixo
+                                           ml/h                           15                    21                    27
+                2,5
+                                           (gotas/min)                    (5)                   (7)                   (9)
+                microgramas/kg/min
+                Médio
+                                           ml/h                           30                    42                     54
+                5
+                                           (gotas/min)                   (10)                  (14)                   (18)
+                microgramas/kg/min
+                Elevado
+                                           ml/h                           60                    84                    108
+                10
+                                           (gotas/min)                   (20)                  (28)                   (36)
+                microgramas/kg/min
+               * Para duplicar a concentração, isto é, 500 mg de Dobutamina Hikma adicionados a 500 ml, ou 250 mg adicionados a
+               250 ml de solução, as taxas de perfusão devem ser reduzidas para metade.
+
+               A dose a ser administrada pode ser calculada tendo em conta a tabela abaixo.
+               As taxas de perfusão em ml/min podem ser obtidas por multiplicação das taxas de perfusão para
+               cada concentração (ml/kg/min) pelo peso (kg) do doente.
+
+                                               Um (1) frasco               Dois (2) frascos            Quatro (4) frascos
+                                                 250 mg de                    500 mg de                   1000 mg de
+                                            dobutamina em 1000           dobutamina em 1000           dobutamina em 1000
+                                             ml de solução para           ml de solução para           ml de solução para
+                                                  perfusão                     perfusão                     perfusão
+                                                                                                              1000
+                                             250 microgramas/ml          500 microgramas/ml
+                                                                                                        microgramas/ml
+                       Dose                    Taxa de perfusão            Taxa de perfusão             Taxa de perfusão
+                microgramas/kg/min                ml/kg/min                   ml/kg/min                    ml/kg/min
+                        2,5                          0,01                       0,005                        0,0025
+                         5                           0,02                        0,01                        0,005
+                        7,5                          0,03                       0,015                        0,0075
+                        10                           0,04                        0,02                         0,01
+                       12,5                          0,05                       0,025                        0,0125
+                        15                           0,06                        0,03                        0,015
+
+               Doses para bombas perfusoras de seringa:
+               Um frasco para injetáveis de Dobutamina Hikma 12,5 mg/ml (250 mg/20 ml) diluído para um
+               volume de solução de 50 ml (concentração final de 5 mg/ml) com qualquer um dos solventes
+               aprovados (ser secção 6.6).
+
+                                                                                   Especificações em ml/h*
+                                                                                         (gotas/min)
+                Intervalo posológico
+                                                                                       Peso do doente
+                                                                        50 kg               70 kg                    90 kg
+                Baixo
+                                   ml/h                                  1,5                   2,1                    2,7
+                2,5
+                                   (ml/min)                            (0,025)               (0,035)                (0,045)
+                microgramas/kg/min
+                                   ml/h                                  3,0                   4,2                    5,4
+                Médio
+                                   (ml/min)                             (0,05)                (0,07)                 (0,09)
+
+
+
+
+Confidencial
+                5
+                microgramas/kg/min
+                Elevado
+                                   ml/h                           6,0                8,4                10,8
+                10
+                                   (ml/min)                     (0,10)             (0,14)              (0,18)
+                microgramas/kg/min
+
+
+               População pediátrica
+               Para perfusão intravenosa contínua utilizando uma bomba de perfusão, diluir para uma
+               concentração de 0,5 a 1 mg/ml (máximo de 5 mg/ml em caso de restrição de fluidos) com Glucose a
+               5% ou Cloreto de Sódio a 0,9%. As soluções de maior concentração devem ser administradas
+               apenas através de um cateter venoso central. A perfusão intravenosa de dobutamina é incompatível
+               com o bicarbonato e outras soluções alcalinas fortes.
+
+               Cuidados intensivos neonatais
+               Diluir 30 mg/kg de peso corporal para um volume final de 50 ml de fluido para perfusão. Uma taxa
+               de perfusão intravenosa de 0,5 ml/hora proporciona uma dose de 5 microgramas/kg/minuto.
+
+               Para instruções acerca da diluição do medicamento antes da administração, ver secção 6.6.
+
+               4.3 Contraindicações
+               Dobutamina Hikma é contraindicado nas seguintes situações:
+                  • Hipersensibilidade à substância ativa, a qualquer um dos excipientes mencionados na
+                     secção 6.1 ou ao metabissulfito de sódio ou outros sulfatos.
+                  • obstrução mecânica conhecida do enchimento ventricular e/ou ejeção ventricular, tais como
+                     tamponamento cardíaco, estenose grave da válvula aórtica, pericardite constritiva,
+                     cardiomiopatia hipertrófica obstrutiva ou estenose subaórtica hipertrófica idiopática.
+                  • Condições hipovolémicas, exceto se corrigidas por expansão do volume sanguíneo.
+                  • Arritmia ventricular grave não tratada.
+                  • Além de um teste de tolerância ao exercício: Enfarte do miocárdio recente (nos últimos 30
+                     dias), dissecção aórtica, aneurisma aórtico, angina de peito instável, hipertensão não tratada,
+                     arritmia não tratada (incluindo fibrilhação auricular não tratada), arritmia ventricular graves
+                     conhecida, alterações eletrolíticas e anemia grave.
+                  • Feocromocitoma.
+
+               4.4   Advertências e precauções especiais de utilização
+
+               Na eventualidade de aumento indesejado na frequência cardíaca ou na pressão arterial sistólica, ou
+               se ocorrer uma arritmia, a dose de dobutamina deverá ser reduzida ou a administração do fármaco
+               temporariamente suspensa.
+
+               A dobutamina pode acelerar ou exacerbar a atividade ectópica ventricular; em casos raros pode
+               causar taquicardia ou fibrilhação ventricular. A dobutamina aumenta a condução
+               auriculoventricular, e os doentes com “flutter” ou fibrilação auricular frequentemente desenvolvem
+               uma rápida resposta ventricular.
+
+               A dobutamina pode potencialmente produzir uma aceleração significativa na frequência cardíaca ou
+               um aumento excessivo da pressão arterial, que pode acelerar o início da isquemia miocárdica e
+               causar dor torácica e elevação do segmento ST. É necessária, portanto, vigilância de quaisquer
+               sinais de início de enfarte do miocárdio resultante desses efeitos.
+
+
+
+
+Confidencial
+               A dobutamina não melhora a hemodinâmica na maioria dos doentes com obstrução mecânica a
+               afetar o enchimento e/ou ejeção débito ventricular (ver secção 4.3).
+
+               Pode ser observada uma resposta inotrópica insuficiente em doentes com função ventricular
+               marcadamente reduzida, por exemplo, na eventualidade de, por ex., tamponamento cardíaco,
+               estenose da válvula aórtica e estenose subaórtica hipertrófica idiopática (ver secção 4.3).
+
+               Através da inibição competitiva dos recetores, o efeito catecolaminérgico da dobutamina pode ser
+               reduzido pela administração simultânea de um agente bloqueador beta. Além disso, os efeitos alfa-
+               adrenérgicos dominantes naquele tempo podem causar uma vasoconstrição periférica com
+               consequente aumento da pressão arterial.
+
+               Administração
+
+               Antes da administração de dobutamina, a hipovolemia deve ser corrigida com um substituto
+               plasmático adequado (solução expansora do plasma, ver secção 4.3) de modo a aumentar o volume
+               plasmático.
+               À semelhança de outros medicamentos com atividade agonista beta-2, a dobutamina pode também
+               reduzir ligeiramente as concentrações séricas de potássio e pode causar, pouco frequentemente,
+               hipocaliemia. É, portanto, recomendada a monitorização dos níveis de potássio sérico durante a
+               terapêutica com dobutamina.
+
+               Durante o tratamento com dobutamina deve monitorizar-se cuidadosamente a frequência e ritmo
+               cardíaco, a pressão arterial e a taxa de perfusão. Ao iniciar a terapêutica com dobutamina,
+               recomenda-se a monitorização eletrocardiográfica até se obter uma resposta estável.
+
+               Advertências
+
+               A dobutamina destina-se a ser utilizada com especial cuidado na eventualidade de hipotensão grave
+               com choque cardiogénico (pressão arterial inferior a 70 mm Hg). Se existir uma queda rápida na
+               pressão arterial, reduzir a dose ou interromper a perfusão permite que os valores da pressão arterial
+               basais sejam restaurados. Em apenas um caso, um doente necessitou de intervenção e a correção
+               não foi imediatamente obtida.
+
+               Se a pressão arterial permanecer baixa ou se diminuir gradualmente durante a administração da
+               dobutamina, apesar da pressão de enchimento ventricular e débito cardíaco normais, pode ser
+               recomendada a utilização de um vasoconstritor periférico, como a noradrenalina ou a dopamina.
+
+               Dobutamina Hikma concentrado para solução para perfusão contém metabissulfito de sódio na
+               formulação., que pode causar, raramente, reações de hipersensibilidade graves e broncospasmo,
+               incluindo anafilaxia e ataques de asma, possivelmente potencialmente fatais ou de natureza menos
+               grave, particularmente em doentes hipersensíveis.
+
+               Desconhece-se a prevalência da hipersensibilidade ao sulfito na população em geral, mas
+               provavelmente é baixa. No entanto, este tipo de hipersensibilidade parece ser mais frequente em
+               doentes asmáticos (ver secção 4.3).
+
+
+               A dobutamina deve ser utilizada apenas sob a supervisão direta de especialistas equipados com
+               dispositivos de monitorização intensiva de parâmetros cardiovasculares e renais, em particular o
+
+
+
+
+Confidencial
+               volume sanguíneo, a contractilidade miocárdica, eletrocardiografia, produção de urina, pressão
+               arterial e pulso e, se possível, débito cardíaco e pressão de encravamento capilar pulmonar (PECP).
+
+               Após a descontinuação do tratamento prolongado (superior a 7 dias) com dobutamina, foram
+               observados uma diminuição do débito cardíaco e um aumento da PECP.
+
+               Em doentes com hipertonia pré-existente, pode ocorrer um aumento da pressão arterial.
+               Como o efeito da dobutamina em doentes com função renal e hepática comprometida é
+               desconhecido, recomenda-se uma monitorização cuidadosa do doente.
+
+               A perfusão intravenosa contínua de dobutamina é apenas relativamente eficaz e pode até ser
+               prejudicial em doentes com insuficiência cardíaca avançada, tanto em termos de qualidade de vida
+               como de probabilidades de sobrevivência.
+
+               A dobutamina pode modificar os níveis plasmáticos de insulina e glucose. Assim, em doentes
+               diabéticos, a glicemia deve ser monitorizada e a dose de insulina ajustada, se necessário.
+
+               A utilização de dobutamina como alternativa aos testes de tolerância ao exercício não é
+               recomendada em doentes com angina de peito instável, bloqueio de ramo ou doença cardíaca que os
+               torna inadequados para testes de tolerância ao exercício.
+               Tal como outras catecolaminas, a dobutamina pode causar angina de peito em doentes com doença
+               cardíaca isquémica. Os doentes com anomalias cardíacas isquémicas serão, portanto,
+               cuidadosamente monitorizados se forem tratados com dobutamina.
+               Deve ter-se especial precaução quando a dobutamina é administrada adoentes tratados com
+               inibidores da monoamina oxidase (IMAOs) ou doentes com feocromocitoma ou hipertiroidismo.
+               Nestes doentes, os níveis elevados de catecolaminas ou a hipersensibilidade podem causar um
+               aumento significativo na pressão arterial e no ritmo cardíaco, em conjunto com um aumento do
+               risco de arritmia.
+
+               A rutura miocárdica é uma complicação potencial do enfarte do miocárdio. O risco de rutura
+               miocárdica (parede livre septal e septo) pode ser influenciado por inúmeros fatores, incluindo o
+               enfarte anterior e o tempo da ocorrência. Foram notificados casos muito raros de rutura miocárdica
+               aguda fatal durante os testes de stress com dobutamina.
+               Estes tinham sido realizados antes da alta em doentes internados com enfarte do miocárdio recente
+               (nos últimos 4-12 dias).
+
+               Nos casos notificados de rutura da parede livre, o ecocardiograma mostrou uma parede inferior
+               discinética e fina. Os testes de stress com dobutamina expõem os doentes ao risco de rutura
+               miocárdica; esse risco deve ser discutido detalhadamente com o doente antes da realização do teste..
+
+               Ecocardiografia de stress com dobutamina
+
+               Tendo em conta as complicações potencialmente fatais, apenas especialistas com experiência
+               suficiente em ecocardiografia de stress devem realizar este tipo de teste no contexto de isquemia e
+               diagnóstico.
+
+               A ecocardiografia de stress com dobutamina no contexto de isquemia e diagnóstico deve ser
+               interrompida se se observar um dos seguintes critérios de diagnóstico:
+               - frequência cardíaca máxima [(220 – idade em anos) x 0,85];
+               - diminuição da pressão arterial sistólica > 20 mmHg;
+               - aumento da pressão arterial > 220/120 mmHg;
+
+
+
+
+Confidencial
+               - sintomas progressivos (angina de peito, dispneia, tonturas, ataxia);
+               - arritmia progressiva (por ex., acoplamento, fibrilhação ventricular);
+               - distúrbios progressivos da condução;
+               - distúrbios da motilidade da parede do coração recentemente desenvolvidos em > um segmento de
+               parede (modelo de segmento – 16);
+               - aumento do volume sistólico final;
+               - desenvolvimento de anomalia na repolarização (devido a redução da isquemia horizontal na
+               depressão do segmento ST > 0,2 mV durante um intervalo de 80 (60) ms após o ponto J
+               relativamente ao valor basal, elevação progressiva ou monofásica do segmento ST > 0,1 mV em
+               doentes sem antecedentes de enfarte do miocárdio;
+               - dose máxima atingida.
+
+               O stress cardiomiopático (síndrome de Takotsubo) é uma possível complicação grave derivada da
+               utilização de dobutamina no ecocardiograma de stress (ver secção 4.8). A administração de
+               dobutamina para a realização de um ecocardiograma de stress deve ser efetuada apenas por um
+               médico com experiência no procedimento. O médico deverá estar atento durante o teste e o período
+               de recuperação e deverá estar preparado para uma intervenção terapêutica adequada durante o teste.
+               Em caso de stress cardiomiopático (síndrome de Takotsubo), a administração de dobutamina deverá
+               ser imediatamente interrompida.
+
+               Na eventualidade de complicações graves (ver secção 4.8), a ecocardiografia de stress com
+               dobutamina deve ser imediatamente interrompida.
+
+               Após o término da perfusão, os doentes devem ser monitorizados até estabilizarem.
+               Este medicamento contém menos do que 1 mmol (23 mg) de sódio por dose ou seja, é praticamente
+               “isento de sódio”.
+
+               População pediátrica
+               A dobutamina tem sido administrada a crianças num estado de baixo débito cardíaco associado a
+               hipoperfusão resultante de insuficiência cardíaca descompensada, após cirurgia cardíaca e na
+               eventualidade de choque cardiogénico ou séptico.
+               Alguns dos efeitos hemodinâmicos do cloridrato de dobutamina podem ser quantitativamente ou
+               qualitativamente diferentes em crianças, quando comparados aos dos adultos.
+               Aumentos da frequência cardíaca e da pressão arterial parecem ser mais frequentes e intensos em
+               crianças. A pressão de encravamento da arterial pulmonar pode não diminuir nas crianças, como
+               ocorre nos adultos. Pelo contrário, pode aumentar, especialmente em crianças com menos de um
+               ano de idade. O sistema cardiovascular dos recém-nascidos tem sido reportado como menos
+               sensível à dobutamina e o efeito hipotensivo parece ter sido observado mais vezes em doentes
+               adultos do que em crianças pequenas.
+
+
+               Por esta razão, a administração de dobutamina em crianças deve ser cuidadosamente monitorizada,
+               tendo em consideração estes dados farmacodinâmicos específicos da população pediátrica.
+
+
+               4.5   Interações medicamentosas e outras formas de interação
+
+               Agentes bloqueadores beta
+
+
+
+
+Confidencial
+               Nos animais, os efeitos cardíacos da dobutamina são antagonizados pelos agentes bloqueadores beta
+               como o propranolol e o metoprolol, o que é evidente pela predominância de substâncias
+               bloqueadores alfa e aumento da resistência periférica.
+
+               Por outro lado, o efeito alfa bloqueador pode dar originem ao início de efeitos adrenérgicos beta 1 e
+               beta 2, incluindo taquicardia e vasodilatação.
+
+               A adição de dipiridamol à dobutamina durante a ecocardiografia pode causar hipotensão
+               potencialmente perigosa. Esta associação não deve ser utilizada em doentes que se pensa
+               apresentarem anomalias cardíacas que afetam a artéria coronária.
+
+               Ecocardiografia de stress com dobutamina
+
+               No caso de terapêutica anti-anginosa, em particular com medicamentos que reduzem a frequência
+               cardíaca como os bloqueadores beta, a reação isquémica ao stress será menos pronunciada ou pode
+               mesmo ser inexistente.
+               Portanto, a terapêutica anti-anginosa deve ser interrompida 12 horas antes da ecocardiografia de
+               stress com dobutamina.
+
+               Quando se administra atropina com uma dose máxima de dobutamina, observa-se o seguinte:
+               - Após uma ecocardiografia de stress prolongada, com uma dose total mais elevada de dobutamina e
+               com administração simultânea de atropina, existe um risco aumentado de reações adversas.
+
+               Anestésicos gerais
+
+               Foi notificada arritmia ventricular em animais que receberam doses normais de dobutamina durante
+               a anestesia com halotano ou ciclopropano. Deste modo, recomenda-se precaução ao administrar
+               dobutamina a doentes a receber estes anestésicos.
+
+               O uso concomitante de dobutamina e IMAOs pode resultar num aumento significativo da pressão
+               arterial e frequência cardíaca assim como uma maior incidência de arritmias. Esta associação pode
+               também dar origem a situações potencialmente fatais, tais como crise hipertensiva, colapso
+               cardiovascular, hemorragia intracraniana e arritmia.
+
+               A utilização de pré-medicação ou a administração concomitante de agentes bloqueadores ß pode
+               causar uma diminuição dos efeitos inotrópicos e cronotrópicos, como resultado da ligação
+               competitiva aos recetores ß adrenérgicos e levar ao domínio dos efeitos alfa-adrenérgicos,
+               demonstrado pela vasodilatação periférica.
+
+               Os vasodilatadores periféricos (por ex., nitratos, nitroprussiato de sódio), quando utilizados em
+               associação com a dobutamina, podem causar um aumento no débito cardíaco e uma diminuição na
+               resistência periférica sistémica e na pressão de enchimento ventricular, mais do que qualquer outro
+               medicamento.
+
+               Num estudo clínico, a administração concomitante de teofilina causou num aumento da frequência
+               cardíaca.
+               A administração concomitante de dobutamina e dopamina causou um aumento acentuado na
+               pressão arterial sistémica e impede o aumento da pressão de enchimento ventricular, como
+               observado com a administração apenas de dopamina.
+
+
+
+
+Confidencial
+               A administração concomitante de dobutamina e vasoconstritores periféricos, como a norepinefrina,
+               produz um aumento mais acentuada da pressão arterial sistémica que a utilização destes
+               medicamentos em monoterapia.
+               A administração concomitante de dobutamina e inibidores da ECA (por ex., captopril) pode resultar
+               num aumento do débito cardíaco associado, acompanhado de um consumo aumentado de oxigénio
+               pelo miocárdio. Foram notificadas ocorrências de dor no peito e arritmia com esta associação.
+
+               Os efeitos da dobutamina podem ser potenciados pelo uso concomitante de entacapona. Os agentes
+               antipsicóticos podem neutralizar os efeitos hipertensivos da dobutamina.
+               A administração concomitante de dobutamina e doxapram causa um aumento do risco de
+               hipertensão.
+               A administração concomitante de dobutamina com ergotamina e metisergida também está associada
+               a um aumento do risco de intoxicação por ergotamina.
+               O uso concomitante de dobutamina e oxitocina pode induzir hipertensão (devido aos efeitos
+               vasopressores aumentados).
+
+               A adição de sulfato de atropina reforça o aumento da frequência cardíaca induzido pela dobutamina
+               e pode impedir a redução da frequência cardíaca, conforme demonstrado na ecocardiografia de
+               stress com dobutamina.
+
+               4.6   Fertilidade, gravidez e aleitamento
+
+               Gravidez
+               Não existem dados inequívocos sobre a segurança da dobutamina em mulheres grávidas. Os estudos
+               em animais não indicam efeitos nefastos diretos ou indiretos no que respeita à gestação,
+               desenvolvimento embriofetal, parto e desenvolvimento pós-natal, mas não se sabe se a dobutamina
+               atravessa a barreira placentária. O risco potencial para o Homem é desconhecido. A dobutamina não
+               deve ser utilizada durante a gravidez, a menos que os benefícios potenciais para a mãe superem
+               quaisquer riscos para o feto.
+
+               Amamentação
+               Desconhece-se se a dobutamina é excretada no leite materno animal ou humano. Tem de ser tomada
+               uma decisão sobre a descontinuação da amamentação ou a descontinuação da terapêutica com
+               dobutamina tendo em conta o benefício da amamentação para a criança e o benefício da terapêutica
+               para a mulher.
+
+               4.7   Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+               Não é relevante, tendo em conta as indicações terapêuticas e a semivida curta da dobutamina. Não
+               há dados que comprovem qualquer efeito da dobutamina na capacidade de conduzir ou utilizar
+               máquinas.
+
+               4.8   Efeitos indesejáveis
+
+               Perfusões até 72 horas não foram associadas a um número aumentado de efeitos indesejáveis em
+               comparação com perfusões mais curtas. Foi demonstrado que perfusões contínuas de dobutamina
+               durante mais de 72 horas causam o desenvolvimento de tolerância parcial. Neste caso, pode ser
+               necessária a administração de doses mais elevadas para obter o mesmo resultado.
+               A seguinte terminologia é utilizada para classificar os efeitos indesejáveis:
+
+               Muito frequentes ≥ 1/10
+
+
+
+
+Confidencial
+               Frequentes       ≥ 1/100, < 1/10
+               Pouco frequentes ≥ 1/1000, < 1/100
+               Raros            ≥ 1/10 000, < 1/1000
+               Muito raros      < 1/10 000
+               Desconhecida A frequência não pode ser calculada a partir dos dados disponíveis
+
+               Dentro de cada grupo de frequência, os efeitos indesejáveis são apresentados por ordem decrescente
+               de gravidade.
+
+
+               Doenças do sangue e do sistema linfático
+
+               Desconhecida: trombocitopenia
+
+               Doenças do sistema imunitário
+
+               Frequentes: Foram notificadas reações de hipersensibilidade incluindo erupção cutânea, febre,
+               eosinofilia, broncoespasmo e miocardite eosinofílica.
+               Pouco frequentes: O metabissulfito de sódio pode causar reações alérgicas, incluindo anafilaxia e
+               ataques de asma, de natureza potencialmente fatal ou menos grave (ver secção 4.4).
+
+               Doenças do metabolismo e da nutrição
+
+               Muito raros: Tal como com outras catecolaminas, pode ocorrer uma diminuição nos níveis séricos
+               de potássio. Deve ser considerada a monitorização dos níveis de potássio sérico.
+
+               Doenças do sistema nervoso
+
+               Frequentes: cefaleia
+               Muito raros: Tem sido notificada mioclonia em doentes com compromisso renal grave tratados com
+               dobutamina.
+
+               Cardiopatias
+
+               Muito frequentes: aceleração da frequência cardíaca, palpitações, dor torácica intensa, batimentos
+               cardíacos irregulares, arritmia, taquicardia ventricular, espasmo da artéria coronária,
+               eletrocardiograma com elevação do segmento ST
+               Pouco frequentes: fibrilhação auricular, fibrilhação ventricular, ejeção do ventrículo esquerdo
+               obstruída.
+               Muito raros: isquemia miocárdica, enfarte do miocárdio, miocardite eosinofílica, rutura miocárdica
+               fatal durante testes de stress com dobutamina (ver secção 4.4)
+               Desconhecida: stress cardiomiopático (síndrome de Takotsubo) (ver secção 4.4)
+
+               Vasculopatias
+
+               Frequentes: Hipertensão. Um aumento acentuado da pressão arterial sistólica é uma indicação de
+               sobredosagem (ver secção 4.5).
+               Pouco frequentes: Hipotensão (ver secções 4.4 e 4.5). Vasoconstrição ligeira, especialmente em
+               doentes que foram anteriormente tratados com agentes bloqueadores beta.
+
+
+
+
+Confidencial
+               Doenças respiratórias, torácicas e do mediastino
+
+               Frequentes: broncoespasmo, falta de ar, asma (ver Doenças do sistema imunitário)
+
+               Doenças gastrointestinais
+
+               Frequentes: náuseas
+
+               Doenças renais e urinárias
+
+               Desconhecida: urgência urinária aumentada
+
+               Perturbações gerais e alterações no local de administração
+
+               Frequentes: dor torácica não específica
+               Raros: Têm sido ocasionalmente relatados casos de flebite e foi descrita inflamação local após
+               infiltração acidental.
+
+               Muito raros: necrose cutânea
+
+
+
+
+               População pediátrica
+               Os efeitos indesejáveis incluem aumento da pressão arterial sistólica, hipertensão ou hipotensão
+               sistémica, taquicardia, cefaleias e aumento da pressão de encravamento da artéria pulmonar,
+               conduzindo a congestão e edema pulmonar, e queixas sintomáticas.
+
+               Notificação de suspeitas de reações adversas
+               A notificação de suspeitas de reações adversas após a autorização do medicamento é importante,
+               uma vez que permite uma monitorização contínua da relação benefício-risco do medicamento.
+               Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através
+               do sistema nacional de notificação:
+
+               Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+               (preferencialmente)
+               ou através dos seguintes contactos:
+               INFARMED, I.P.
+               Direção de Gestão do Risco de Medicamentos
+               Parque da Saúde de Lisboa, Av. Brasil 53
+               1749-004 Lisboa
+               Tel.: +351 21 798 73 73
+               Linha do Medicamento: 800222444 (gratuita)
+               e-mail: farmacovigilancia@infarmed.pt
+
+               4.9   Sobredosagem
+
+               Foram notificados casos raros de sobredosagem.
+
+               Sintomas
+
+
+
+
+Confidencial
+               Os sintomas de toxicidade incluem: anorexia, náuseas, vómitos, tremores, ansiedade, palpitações,
+               cefaleias, dispneia, fadiga, dor anginosa e dor torácica não específica. Os efeitos inotrópico e
+               cronotrópico positivos da dobutamina podem causar hipertensão, taquiarritmia, isquemia
+               miocárdica e fibrilhação ventricular. Pode ocorrer hipotensão devido a vasodilatação periférica. A
+               dobutamina geralmente tem uma duração de ação relativamente curta ( semivida: aproximadamente
+               2 minutos).
+
+               Tratamento da sobredosagem
+               Devido à curta semivida da dobutamina, normalmente é necessário reduzir a taxa de perfusão ou
+               interromper temporariamente a perfusão até estabilização do doente.
+               O doente deve ser cuidadosamente monitorizado e devem ser iniciadas imediatamente medidas de
+               reanimação, se necessárias.
+
+               O benefício da diurese forçada, diálise peritoneal, hemodiálise ou hemoperfusão com carvão
+               ativado não foi demonstrado no tratamento da sobredosagem de dobutamina.
+
+               Com a administração oral, não é possível prever a quantidade absorvida pela boca ou pelo trato
+               gastrointestinal..
+
+
+               5.    PROPRIEDADES FARMACOLÓGICAS
+
+               5.1   Propriedades farmacodinâmicas
+
+               Grupo farmacoterapêutico: 3.3 Simpaticomiméticos, código ATC: C01CA07 dobutamina.
+
+               Mecanismo de ação
+               A dobutamina é um agonista seletivo dos recetores beta-adrenérgicos cujo mecanismo de ação é
+               complexo.
+
+               Acredita-se que os efeitos beta-adrenérgicos resultam da estimulação da atividade da adenilciclase.
+               Em doses terapêuticas, a dobutamina também tem ligeiros efeitos agonistas dos recetores
+               adrenérgicos β-2 e α-1, que são relativamente equilibrados e resultam num efeito direto mínimo no
+               vasculatura sistémica. A dobutamina não causa a libertação de noradrenalina endógena. O principal
+               efeito de doses terapêuticas de dobutamina é a estimulação cardíaca.
+
+               Embora o efeito inotrópico positivo do medicamento no miocárdio pareça ser mediado
+               principalmente pela estimulação dos recetores adrenérgicos β-1, há evidências experimentais que
+               sugerem que a estimulação dos recetores adrenérgicos α-1 também pode estar envolvida e que a
+               atividade adrenérgica α-1 resulta sobretudo do estereoisómero (-) do fármaco.
+
+               Os efeitos adrenérgicos β-1 da dobutamina exercem um efeito inotrópico positivo sobre o
+               miocárdio que resulta num aumento do débito cardíaco devido ao aumento da contractilidade do
+               miocárdio e volume sistólico. A pressão de enchimento aumentada do ventrículo esquerdo diminui
+               em doentes com insuficiência cardíaca congestiva. Em doses terapêuticas, a dobutamina provoca
+               uma diminuição da resistência periférica, no entanto, a pressão arterial sistólica e a pressão de pulso
+               podem permanecer inalteradas ou ser aumentadas devido ao débito cardíaco aumentado. Com doses
+               habituais, a frequência cardíaca não é geralmente alterada de forma significativa. O fluxo sanguíneo
+               das coronárias e o consumo de oxigénio pelo miocárdio são normalmente aumentados pelo aumento
+               da contractilidade do miocárdio.
+
+
+
+
+Confidencial
+               A dobutamina facilita a condução auriculoventricular e reduz ou não produz qualquer alteração
+               importante na condução intraventricular. A tendência da dobutamina para induzir arritmias
+               cardíacas pode ser menor do que a da dopamina e é consideravelmente menor do que a do
+               isoproterenol ou outras catecolaminas. A resistência vascular pulmonar pode diminuir se for
+               elevada inicialmente e a pressão média da artéria pulmonar pode diminuir ou permanecer inalterada.
+               A dobutamina parece não afetar os recetores dopaminérgicos e não causa vasodilatação renal ou
+               mesentérica, porém, o fluxo urinário pode aumentar devido ao aumento do débito cardíaco.
+
+               População pediátrica
+               A dobutamina também produz efeitos inotrópicos em crianças, mas a resposta hemodinâmica é um
+               pouco diferente da dos adultos. Embora o débito cardíaco aumente nas crianças, há uma tendência
+               para que a resistência vascular sistémica e a pressão de enchimento ventricular diminuam menos e
+               para que a frequência cardíaca e a pressão arterial aumentem mais nas crianças do que nos adultos.
+               A pressão de encravamento pulmonar pode aumentar durante a perfusão de dobutamina em crianças
+               com idade igual ou inferior a 12 meses.
+
+               Aumentos do débito cardíaco parecem ocorrer com taxas de perfusão IV tão baixas quanto
+               1,0 microgramas/kg/minuto, aumentos da pressão arterial sistólica com taxas de
+               2,5 microgramas/kg/minuto e alterações na frequência cardíaca com taxas de
+               5,5 microgramas/kg/minuto.
+
+               O aumento das taxas de perfusão da dobutamina de 10 para 20 microgramas/kg/minuto geralmente
+               resulta em aumentos adicionais do débito cardíaco.
+
+               5.2   Propriedades farmacocinéticas
+
+               Absorção: A dobutamina administrada por via oral é rapidamente metabolizada no trato
+               gastrointestinal. Após administração IV, o início de ação da dobutamina ocorre em 2 minutos. O
+               pico das concentrações plasmáticas do fármaco e os efeitos máximos ocorrem no espaço de 10
+               minutos após o início da perfusão IV. Os efeitos do fármaco cessam logo após a interrupção da
+               perfusão.
+
+               Distribuição: Não se sabe se a dobutamina atravessa a placenta e se é distribuída no leite.
+
+               Eliminação: A semivida plasmática da dobutamina é de cerca de 2 minutos. A dobutamina é
+               metabolizada no fígado e noutros tecidos pela catecol-O-metiltransferase para um composto inativo,
+               a 3-O-metil dobutamina, e pela conjugação com ácido glucurónico. Os conjugados da dobutamina e
+               a 3-O-metil dobutamina são excretados principalmente na urina e em menor grau nas fezes.
+
+               População pediátrica
+               Na maioria dos doentes pediátricos, existe uma relação log-linear entre a concentração plasmática
+               de dobutamina e a resposta hemodinâmica, que é consistente com um modelo de limiar.
+
+               A depuração da dobutamina é consistente com a cinética de primeira ordem no intervalo posológico
+               de 0,5 a 20 microgramas/kg/minuto. A concentração plasmática de dobutamina pode variar até duas
+               vezes entre os doentes pediátricos, à mesma taxa de perfusão, e há uma grande variabilidade na
+               concentração plasmática de dobutamina necessária para desencadear uma resposta hemodinâmica e
+               na taxa da resposta hemodinâmica ao aumento das concentrações plasmáticas. Portanto, em
+               situações clínicas, as taxas de perfusão da dobutamina devem ser tituladas individualmente.
+
+               5.3   Dados de segurança pré-clínica
+
+
+
+
+Confidencial
+               Os dados não clínicos não revelam riscos especiais para o ser humano, segundo estudos
+               convencionais de toxicidade de dose repetida. Não foram realizados estudos sobre o potencial
+               mutagénico ou carcinogénico da dobutamina. Estudos em ratos e coelhos não revelaram qualquer
+               evidência de lesão fetal ou efeitos teratogénicos. Não foi observada nenhuma influência sobre a
+               fertilidade em ratos.
+
+
+               6.     INFORMAÇÕES FARMACÊUTICAS
+
+               6.1.   Lista dos excipientes
+
+               Metabissulfito de sódio (E223)
+               Hidróxido de sódio
+               Ácido clorídrico
+               Água para preparações injetáveis
+
+               6.2    Incompatibilidades
+
+               Não adicionar Dobutamina Hikma à perfusão intravenosa de Bicarbonato de Sódio a 5% ou a
+               quaisquer outras soluções fortemente alcalinas. Devido a potenciais incompatibilidades físicas,
+               recomenda-se que o cloridrato de dobutamina não seja misturado com outros medicamentos na
+               mesma solução.
+
+               As injeções de Dobutamina Hikma não devem ser utilizadas com medicamentos ou solventes
+               contendo metabissulfito de sódio e etanol.
+
+               6.3    Prazo de validade
+
+               2 anos
+
+               A estabilidade química e física em uso foi demonstrada durante 24 horas a 25 ºC (temperatura
+               ambiente).
+
+               Do ponto de vista microbiológico, o medicamento deve ser utilizado imediatamente. Se não for
+               utilizado imediatamente, o tempo de conservação durante o uso e as condições antes da utilização
+               são da responsabilidade do utilizador e normalmente não devem ser superiores a 24 horas entre 2 ºC
+               e 8 °C, a menos que a diluição tenha sido efetuada em condições assépticas controladas e validadas.
+
+               6.4    Precauções especiais de conservação
+
+               Não conservar acima de 25 °C.
+
+               Condições de conservação do medicamento após diluição, ver secção 6.3.
+
+               6.5    Natureza e conteúdo do recipiente
+
+               Dobutamina Hikma é acondicionado em frascos para injetáveis de vidro transparente de 20 ml,
+               fechados com rolhas de borracha de bromobutilo e selados com cápsulas flip-off de alumínio.
+
+               Embalagens de 10 frascos para injetáveis.
+
+
+
+
+Confidencial
+               6.6   Precauções especiais de eliminação e manuseamento
+
+               O conteúdo do frasco para injetáveis de 20 ml de Dobutamina Hikma deve ser diluído num volume
+               de pelo menos 50 ml, antes da administração num recipiente para administração intravenosa, com
+               uma das soluções intravenosas listadas abaixo:
+               -       Solução injetável de Dextrose a 5%,
+               -       Solução injetável de Dextrose a 5% e Cloreto de Sódio a 0,45%,
+               -       Solução injetável de Dextrose a 5% e Cloreto de Sódio a 0,9%,
+               -       Solução injetável de Dextrose a 10%,
+               -       Solução injetável de múltiplos eletrólitos com Dextrose a 5%,
+               -       Solução injetável de Lactato de Ringer,
+               -       Dextrose a 5% em solução injetável de Lactato de Ringer,
+               -       Manitol a 20% em Água para Preparações Injetáveis,
+               -       Solução injetável de Cloreto de Sódio a 0,9%,
+               -       Solução injetável de Lactato de Sódio.
+
+               Por exemplo, a diluição para 250 ml ou 500 ml proporcionará as seguintes concentrações para
+               administração:
+               250 ml contêm 1000 microgramas/ml de dobutamina
+               500 ml contêm 500 microgramas/ml de dobutamina
+
+               A solução preparada deve ser usada no espaço de 24 horas.
+
+
+               Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as
+               exigências locais.
+
+
+               7.    TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+               Hikma Farmacêutica (Portugal), S.A.
+               Estrada do Rio da Mó, nº8, 8A, 8B
+               Fervença
+               2705-906 Terrugem SNT
+               Portugal
+
+
+               8.    NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+               5758123
+
+
+               9.    DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+                     INTRODUÇÃO NO MERCADO
+
+               Data da primeira autorização: 05 de setembro de 2018
+
+
+               10.    DATA DA REVISÃO DO TEXTO
+
+
+
+
+Confidencial
+               10/2025
+
+
+
+
+Confidencial
+

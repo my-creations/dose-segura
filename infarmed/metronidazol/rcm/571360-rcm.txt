@@ -1,0 +1,396 @@
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+
+1. NOME DO MEDICAMENTO
+
+Metronidazol Basi 5 mg/ml Solução para perfusão
+
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+1 ml da solução contém 5 mg de metronidazol.
+
+Excipiente(s) com efeito conhecido:
+
+Sódio – 3,26 mg/ml (sob a forma de cloreto de sódio e fosfato dissódico di-hidratado).
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+3. FORMA FARMACÊUTICA
+
+Solução para perfusão.
+
+A solução apresenta-se límpida, incolor a ligeiramente amarelada e sem partículas em
+suspensão.
+
+
+4. INFORMAÇÕES CLÍNICAS
+
+4.1 Indicações terapêuticas
+
+Tratamento e profilaxia de infeções provocadas por bactérias anaeróbias, especialmente
+espécies de Bacteroides, incluindo Bacteroides fragilis, Fusobacterium, Eubacterium e
+espécies de Clostridium.
+
+O tratamento é efetivo nos seguintes casos:
+Infeções do S.N.C. (abcessos cerebrais, meningites)
+Infeções pulmonares e da pleura (pneumonia por aspiração, abcessos pulmonares)
+Endocardite
+Angina de Plaut-Vincent
+Pós-operatório (ex: cirurgia cólon-rectal) e infeções do trato gastrointestinal
+Peritonites, abcessos hepáticos, endometrites
+Infeções ginecológicas (histerectomia, cesariana, febre puerperal, aborto séptico)
+Gangrena gasosa
+Osteomielite
+Septicémia nas tromboflebites
+O uso profilático está quase sempre indicado em intervenções cirúrgicas com alto risco
+de infeção por anaeróbios (cirurgia abdominal e ginecológica).
+4.2 Posologia e modo de administração
+
+Posologia
+
+A posologia recomendada, salvo indicação clínica em contrário é a seguinte:
+
+Adultos e crianças com mais de 12 anos de idade:
+aproximadamente 7,5 mg de metronidazol por kg de peso corporal a cada 8 horas,
+correspondentes a 100 ml (500 mg) de Metronidazol Basi 5 mg/ml Solução para perfusão
+para um adulto de 70 kg.
+
+População pediátrica
+
+Crianças com menos de 12 anos de idade:
+7,5 mg de metronidazol por kg de peso corporal a cada 8 horas
+
+Doentes com Insuficiência renal:
+Na insuficiência renal, os intervalos da dosagem devem aumentar para 12 horas.
+
+Doentes com Insuficiência hepática:
+Nos insuficientes hepáticos graves, os níveis séricos de metronidazol devem ser
+monitorizados. A dose usual recomendada pode eventualmente ter de ser reduzida.
+
+Modo de administração
+O conteúdo de um frasco deve ser administrado lentamente, por via intravenosa (100 ml
+durante um intervalo de tempo mínimo de 20 minutos, usualmente durante 60 minutos).
+
+Na terapêutica profilática, recomenda-se a administração de uma dose única de 500 mg
+imediatamente antes de iniciar a intervenção cirúrgica.
+
+A administração pode também ser feita mediante a diluição do fármaco em veículo
+apropriado, como a solução de cloreto de sódio 0,9% (soro fisiológico) ou solução de
+glucose 5%.
+
+Os antibióticos concomitantes prescritos devem ser administrados separadamente.
+
+Os frascos abertos, com volumes de solução residual, não devem ser armazenados para
+posterior utilização, e sim rejeitados.
+
+Duração da terapêutica:
+A duração da terapêutica não deve exceder os 10 dias. No entanto, em certas situações
+especiais, o tratamento pode prolongar-se durante mais tempo.
+A terapêutica repetida deverá ser restringida tanto quanto possível.
+Para instruções acerca da diluição do medicamento antes da administração, ver secção
+6.6..
+
+4.3 Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na
+secção 6.1.
+O uso de metronidazol está contraindicado durante o primeiro trimestre de gravidez.
+
+4.4 Advertências e precauções especiais de utilização
+
+Nos 2° e 3° trimestres de gravidez, o metronidazol só deverá ser administrado em
+situações em que seja estritamente necessário. Os riscos e benefícios do tratamento devem
+ser analisados cuidadosamente.
+O metronidazol é excretado no leite materno conferindo-lhe um sabor amargo, podendo
+provocar alterações na amamentação. Deve-se suspender a sua administração ou
+interromper o período de aleitamento, que só deverá ser retomado após 48 a 72 horas do
+fim do tratamento.
+Em caso de hipersensibilidade ao metronidazol ou a outros derivados nitroimidazólicos,
+assim como em patologias orgânicas do S.N.C. e discrasias sanguíneas, como
+granulocitopenia, o metronidazol deverá ser utilizado com precaução.
+O metronidazol interfere com a determinação espectrofotométrica da TGO, obtendo-se
+valores inferiores.
+
+Foram reportados casos de hepatoxicidade/insuficiência hepática aguda, incluindo casos
+fatais, com início de ação muito rápido, em doentes com síndrome de Cockayne, após o
+início do tratamento com medicamentos contendo metronidazol para uso sistémico.
+Consequentemente, nesta população, o metronidazol deve ser utilizado após uma
+avaliação cuidadosa da relação benefício-risco e apenas se não existir tratamento
+alternativo. As provas da função hepática devem ser realizadas imediatamente antes do
+início da terapêutica, durante e após a conclusão do tratamento, até os valores da função
+hepática alcançarem níveis normais, ou até se atingirem os valores de referência. Se
+durante o tratamento as provas da função hepática tiverem resultados manifestamente
+elevados, o medicamento deve ser descontinuado.
+Os doentes com síndrome de Cockayne devem ser instruídos para comunicarem
+imediatamente ao seu médico quaisquer sinais e sintomas de uma possível lesão hepática
+e interromper a toma de metronidazol.
+
+Metronidazol Basi contém sódio.
+Este medicamento contém 326 mg de sódio por 100 ml, equivalente a 15,5% da ingestão
+diária máxima recomendada pela OMS de 2 g de sódio para um adulto.
+
+4.5 Interações medicamentosas e outras formas de interação
+
+Deve-se evitar a ingestão de bebidas alcoólicas durante a terapêutica com metronidazol
+uma vez que podem provocar efeitos indesejáveis, tais como vertigens e vómitos. Estes
+sintomas também podem surgir se se administrar concomitantemente o disulfiram, pelo
+que se deverá interromper a terapêutica com este último fármaco.
+O metronidazol potencia o efeito anticoagulante dos anticoagulantes orais, pelo que o
+tempo de Quick deverá ser novamente determinado e o tempo de protrombina
+regularmente monitorizado.
+
+Não se observaram, até à data, interações em caso de administração separada de
+metronidazol e sulfonamidas ou antibióticos.
+Ensaios in vitro sobre os efeitos de uma terapêutica combinada de antibióticos e
+metronidazol deram os seguintes resultados:
+Efeito moderadamente sinérgico para: acilureido-penicilinas, espiramicina, rifampicina,
+clindamicina e tetraciclina.
+Efeito marcadamente sinérgico com o ácido nalidíxico.
+Nenhuma interação com ampicilina, estreptomicina, gentamicina e ácido fusídico.
+
+4.6 Fertilidade, gravidez e aleitamento
+
+Gravidez
+O metronidazol atravessa rapidamente a placenta alcançando concentrações idênticas às
+do sangue materno.
+Nos 2° e 3° trimestres de gravidez, o metronidazol só deverá ser administrado em
+situações em que seja estritamente necessário, podendo ser utilizado na tricomoníase.
+Para outras indicações, os riscos e benefícios do tratamento devem ser analisados
+cuidadosamente.
+
+Amamentação
+O metronidazol é excretado no leite materno conferindo-lhe um sabor amargo, podendo
+provocar alterações na amamentação. A exposição desnecessária do recém-nascido deve
+ser evitada.
+
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Não é aconselhável conduzir ou operar máquinas após a administração do medicamento,
+a não ser que seja absolutamente necessário.
+
+4.8 Efeitos indesejáveis
+
+Podem surgir, em casos isolados, os seguintes efeitos indesejáveis:
+Transtornos gastrointestinais (náuseas, vómitos, diarreias),
+Sensação de queimadura na língua, sabor metálico
+Erupções cutâneas, prurido, candidíase
+Transtornos a nível central (cefaleias, vertigens, sonolência, descoordenação motora,
+depressão)
+Febre medicamentosa
+Urina escura
+
+Pode surgir leucopenia moderada, pelo que é necessário efetuar-se controlos sanguíneos
+(hemogramas) regulares.
+Foram observadas neuropatias periféricas, mialgias e parestesias, após doses elevadas de
+metronidazol.
+Na terapêutica das meningites infeciosas, o metronidazol atravessa a barreira
+hematoencefálica podendo eventualmente provocar neuropatias periféricas.
+
+Notificação de suspeita de reações adversas
+A notificação de suspeita de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação risco-benefício
+do medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas
+de reações adversas através de:
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+e-mail: farmacovigilancia@infarmed.pt
+
+4.9 Sobredosagem
+
+Os efeitos mais graves decorrentes da administração de uma dose elevada de
+metronidazol ou de um tratamento prolongado, manifestam-se a nível do sistema nervoso
+central, sob a forma de neuropatia periférica e convulsões.
+Em caso de sobredosagem por administração de metronidazol deve ser iniciado
+tratamento sintomático e de suporte.
+
+5. PROPRIEDADES FARMACOLÓGICAS
+
+5.1 Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 1.1.11 - Medicamentos anti-infeciosos. Antibacterianos.
+Outros antibacterianos ou 1.4.3 Medicamentos anti-infeciosos. Antiparasitários. Outros
+antiparasitários, código ATC: J01XD01
+
+Mecanismo de ação
+O metronidazol apresenta uma ação bactericida, amebicida e tricomonicida; o mecanismo
+de ação, no entanto, não está completamente esclarecido.
+Para valores de pH fisiológico, o metronidazol não se encontra ionizado sendo
+rapidamente absorvido pelos microrganismos anaeróbios. Nos organismos suscetíveis, é
+reduzido por proteínas de transporte de eletrões (ex.: nitro-redutases, tais como a
+ferredoxina) dando origem a produtos polares sem o grupo nitro, que parecem ser os
+responsáveis pelos efeitos citotóxicos e antimicrobianos. Destes efeitos destacam-se a
+disrupção do DNA e a inibição da síntese de ácidos nucleicos.
+
+5.2 Propriedades farmacocinéticas
+
+Absorção
+Após a administração, por perfusão intravenosa durante 1 hora, de uma dose de carga de
+15 mg/kg de metronidazol seguida de 7,5 mg/kg em cada 6 horas, as concentrações
+máxima e mínima são de cerca de 26 µg/ml e 18 µg/ml, respetivamente, em estado
+estacionário.
+
+Distribuição
+
+O metronidazol é largamente distribuído pela maioria dos tecidos e fluídos corporais
+incluindo osso, bílis, saliva, leite materno, líquido pleural, secreções vaginais, sémen,
+líquido cefalorraquidiano (LCR), abcessos cerebrais e hepáticos, atingindo concentrações
+semelhantes às observadas no plasma.
+A distribuição é idêntica após a administração oral ou intravenosa. A concentração de
+metronidazol no LCR está descrita como sendo de 43% da concentração plasmática em
+doentes sem inflamação das meninges, e como sendo igual ou superior à concentração
+plasmática atingida em doentes com inflamação das meninges.
+
+O fármaco apresenta também distribuição nos eritrócitos. Na população geriátrica parece
+existir uma redução do volume de distribuição comparativamente com indivíduos jovens,
+talvez consequência da redução da distribuição aos eritrócitos nestes doentes.
+
+A ligação às proteínas plasmáticas é inferior a 20%.
+
+O metronidazol atravessa livremente a barreira placentária e é excretado no leite materno
+em concentração idêntica à do plasma materno, entrando rapidamente na circulação fetal.
+
+Biotransformação
+
+É metabolizado no fígado por hidroxilação, oxidação e glucoronoconjugação. Os
+principais metabolitos, resultantes de oxidação, são 1-(2-hidroxietil)-2-hidroximetil-5-
+nitroimidazol (metabolito “hidroxilado”), que ainda apresenta atividade antibacteriana e
+é detetado no plasma e na urina, e o ácido 2-metil-5-nitroimidazol-1-acético (metabolito
+“ácido”), que não tem praticamente atividade antibacteriana e por vezes não chega a ser
+detetado no plasma, sendo excretado na urina. Pequenas quantidades de metabolitos
+reduzidos [acetamida e ácido N-(2-hidroxietil)-oxâmico] têm sido detetadas na urina,
+sendo provavelmente produzidos pela flora intestinal.
+
+A semivida de eliminação deste fármaco é de aproximadamente 6-8 horas, em adultos
+com função renal e hepática normal. O metabolito hidroxilado tem uma semivida um
+pouco superior à do metronidazol.
+A semivida do metronidazol está aumentada em recém-nascidos e em doentes com
+doença hepática grave, encontrando-se aumentada a semivida do metabolito hidroxilado
+em doentes com insuficiência renal.
+
+Eliminação
+A excreção do metronidazol é efetuada maioritariamente por via renal, principalmente
+como metabolito. Uma pequena fração é excretada nas fezes.
+
+5.3 Dados de segurança pré-clínica
+
+O metronidazol apresenta uma baixa incidência de efeitos indesejáveis, sendo estes
+dependentes da dose, do modo de administração, da idade do doente e do seu estado geral
+de saúde.
+Dado que a margem de segurança terapêutica do metronidazol é pequena, a dose a
+administrar deverá ser calculada para cada caso individual, em função das necessidades
+do doente.
+
+
+6. INFORMAÇÕES FARMACÊUTICAS
+
+6.1 Lista dos excipientes
+Ácido cítrico mono-hidratado
+Água para preparações injetáveis
+Cloreto de sódio
+Fosfato dissódico di-hidratado.
+
+6.2 Incompatibilidades
+
+Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado
+com outros medicamentos.
+
+Devido ao pH, os seguintes antibióticos são considerados fisicamente incompatíveis com
+o metronidazol: benzilpenicilina potássica, cefoxitina sódica, cefamandol (nafato). A
+ampicilina sódica, cefalotina sódica e hidrocortisona sódica são condicionalmente
+compatíveis.
+Quanto à compatibilidade química, a ampicilina sódica, a cefalotina sódica e o
+cefamandol são incompatíveis com o metronidazol.
+Não se verifica degradação do metronidazol quando adicionada a cefuroxima sódica, no
+entanto, ocorre alguma degradação da cefuroxima.
+Deve-se comprovar a compatibilidade desta solução com outras antes da sua
+administração.
+
+6.3 Prazo de validade
+
+Embalagem fechada: 3 anos.
+Após diluição: O medicamento deverá ser utilizado imediatamente.
+De um ponto de vista microbiológico, o produto diluído deve ser utilizado imediatamente,
+a não ser que a diluição tenha sido efetuada em condições assépticas controladas e
+validadas. Se não for utilizado imediatamente, os tempos e condições de armazenamento
+antes da utilização são da responsabilidade do utilizador.
+
+6.4 Precauções especiais de conservação
+
+Não conservar acima de 25 °C.
+
+Condições de conservação do medicamento diluído, ver secção 6.3.
+
+6.5 Natureza e conteúdo do recipiente
+
+Frasco de polipropileno, com tampa de plástico (Pull-Off ou Twin Head) com uma
+borracha interna.
+
+Embalagem de cartão com 1, 4, 10, 25, 50 ou 100 frascos para injetáveis de 100 ml.
+É possível que não sejam comercializadas todas as apresentações.
+6.6 Precauções especiais de eliminação e manuseamento
+
+Manuseamento
+Manipular o produto nas condições habituais de assepsia aplicáveis a soluções injetáveis
+para perfusão intravenosa.
+Rejeitar a solução caso se apresente turva ou com sedimento ou se o recipiente não estiver
+intacto.
+Rejeitar qualquer volume residual da solução.
+Ler o folheto informativo antes de iniciar a terapêutica.
+
+Eliminação
+Não existem requisitos especiais.
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com
+as exigências locais.
+
+
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Laboratórios Basi – Indústria Farmacêutica, Lda.
+Parque Industrial Manuel Lourenço Ferreira, Lote 15
+3450-232 Mortágua - Portugal
+
+
+8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Registo nº 5572003 – 1 frascos para injetáveis, 100 ml, frasco de polipropileno (tampa
+Pull-off)
+Registo nº 5572011 – 4 frascos para injetáveis, 100 ml, frasco de polipropileno (tampa
+Pull-off)
+Registo nº 5572029 – 10 frascos para injetáveis, 100 ml, frasco de polipropileno (tampa
+Pull-off)
+Registo nº 5572037 – 25 frascos para injetáveis, 100 ml, frasco de polipropileno (tampa
+Pull-off)
+Registo nº 5587530 – 50 frascos para injetáveis, 100 ml, frasco de polipropileno (tampa
+Pull-off)
+Registo nº 5572045 – 100 frascos para injetáveis, 100 ml, frasco de polipropileno (tampa
+Pull-off)
+
+Registo nº 5876123 – 1 frascos para injetáveis, 100 ml, frasco de polipropileno (tampa
+Twin Head).
+Registo nº 5876131 – 4 frascos para injetáveis, 100 ml, frasco de polipropileno (tampa
+Twin Head).
+Registo nº 5876149XXXXXXX – 10 frascos para injetáveis, 100 ml, frasco de
+polipropileno (tampa Twin Head).
+Registo nº 5876156 – 25 frascos para injetáveis, 100 ml, frasco de polipropileno (tampa
+Twin Head).
+Registo nº 5876164 – 50 frascos para injetáveis, 100 ml, frasco de polipropileno (tampa
+Twin Head).
+Registo nº 5876172 – 100 frascos para injetáveis, 100 ml, frasco de polipropileno (tampa
+Twin Head).
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO
+DE INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 01 de agosto de 2013
+Data da última renovação: 30 de setembro de 2024
+10. DATA DA REVISÃO DO TEXTO
+

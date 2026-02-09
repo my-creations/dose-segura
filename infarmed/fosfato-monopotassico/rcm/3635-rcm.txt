@@ -1,0 +1,405 @@
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+
+1. NOME DO MEDICAMENTO
+
+Fosfato Monopotássico Braun 1mmol/ml concentrado para solução para perfusão
+
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Uma ampola (=20 ml) de concentrado para solução para perfusão contém
+Fosfato monopotássico       2,722 g
+
+Uma ampola (=10 ml) de concentrado para solução para perfusão contém
+Fosfato Monopotássico       1,361 g
+
+Concentração de eletrólitos:
+Potássio                        1 mmol/ml
+Fosfato                         1 mmol/ml
+
+Excipientes
+Lista completa de excipientes, ver secção 6.1
+
+
+3. FORMA FARMACÊUTICA
+
+Concentrado para solução para perfusão
+Solução aquosa, límpida e incolor.
+
+Osmolaridade teórica:           2000mOsm/l
+pH:                             3,5 - 5,5
+
+
+4. INFORMAÇÕES CLÍNICAS
+
+4.1 Indicações terapêuticas
+
+•       Tratamento de hipofosfatemia moderada a grave.
+•       Suplementação de fosfato no contexto de nutrição parenteral
+
+4.2 Posologia e modo de administração
+
+Posologia
+A dose é ajustada de acordo com os valores básicos atuais ou requisitos de correção, de acordo
+com os valores analíticos das concentrações séricas eletrolíticas.
+
+Adultos
+No contexto de nutrição parentérica os requisitos básicos em fosfato para um adulto são de 0,3
+– 0,5 mmol por kg de peso corporal (PC) por dia, o que corresponde a 0,5 – 0,8 ml de fosfato
+por kg de PC.
+Na terapêutica de hipofosfatemia aplicam-se as seguintes doses:
+Fosfato sérico    Dose                                           Tempo de perfusão
+≥ 0,4 mmol/l (1,3 0,08 – 0,24 mmol/kg PC (igual ou inferior a 30 6 horas
+mg/dl)            mmol)
+< 0,4 mmol/l (1,3 0,25 – 0,50 mmol/kg PC (igual ou inferior a 80 8 – 12 horas
+mg/dl)            mmol)
+
+A dose máxima diária de potássio é de 2 – 3 mmol por kg de PC.
+
+População pediátrica
+No contexto da nutrição parentérica, é recomendada a seguinte substituição de fosfato:
+
+0-6 meses              0,5 mmol de fosfato por kg de PC
+7-12 meses             0,5 mmol de fosfato por kg de PC
+1-13 anos              0,2 mmol de fosfato por kg de PC
+14-18 anos             0,2 mmol de fosfato por kg de PC
+
+Em crianças, é recomendado que a ingestão de potássio, durante a nutrição parentérica, não
+exceda 1 - 3 mmol/kg de PC por dia.
+
+Na ausência de dados, a posologia utilizada no tratamento da hipofosfatemia deve ser adaptada
+cuidadosamente da posologia aplicável ao contexto de nutrição parentérica.
+
+Doentes idosos
+Basicamente, aplica-se a mesma dosagem que para os adultos, mas deve ter-se precaução no
+caso de doentes com outras patologias, como insuficiência cardíaca ou insuficiência renal, que
+estão frequentemente associadas a uma idade avançada.
+
+Outros grupos especiais de doentes
+Ver secção 4.4.
+
+Taxa máxima de perfusão
+Geralmente, a taxa de perfusão é inferior a 10 mmol de fosfato por hora. A taxa máxima de
+perfusão é de 15 mmol de fosfato por hora e, não deve ser excedida.
+
+Modo de administração
+Via intravenosa.
+
+Deve apenas administrar-se diluído como um aditivo a soluções para perfusão. A concentração
+de potássio na solução para perfusão não deve exceder os 40 mmol/l (correspondentes a 40
+mmol/l de fosfato). Para mais detalhes sobre diluição e diluentes adequados consultar a secção
+6.6.
+A perfusão deve ser realizada de forma contínua. É recomendado o uso de bombas de perfusão.
+
+4.3 Contraindicações
+
+Fosfato Monopotássico Braun não deve ser administrado em casos de:
+•       Hiperfosfatemia
+•       Hipercaliemia
+•       Insuficiência renal grave com oligúria ou anúria
+•       Hipocalcemia
+
+4.4 Advertências e precauções especiais de utilização
+
+O Fosfato Monopotássico Braun apenas deve ser administrado com especial precaução e com
+uma monitorização cuidadosa nas seguintes condições:
+•      Doenças frequentemente associadas a hipercaliemia, tais como:
+           o Desidratação
+           o Doença de Addison
+           o Paralisia periódica familiar (adinamia episódica hereditária, paralisia periódica
+               hipercalémica)
+           o Síndrome de lise tumoral (SLT)
+           o Anemia de células falciformes
+           o Queimaduras e destruição tecidular
+           o Descompensação cardíaca
+
+Em doentes com insuficiência renal, deve ser realizada monitorização regular de eletrólitos,
+especialmente potássio e fosfato.
+
+Uma vez que a administração de níveis elevados de fosfato pode causar calcificações
+metastáticas e hipocalcemia, o cálcio e o fosfato ionizados devem ser monitorizados
+regularmente. Se for necessário administrar cálcio, este deve ser administrado utilizando uma
+cânula separada.
+
+A monitorização clínica deve incluir a monitorização regular das concentrações dos eletrólitos
+séricos, do equilíbrio ácido-base, dos níveis de fluídos e do ECG.
+Durante a substituição de fosfato, a concentração sérica de fosfato e a quantidade de fosfato
+excretado na urina em 24 horas devem ser monitorizadas semanalmente.
+
+Uma vez que, por 1 mmol de fosfato, a solução contém 1 mmol de potássio, a concentração de
+potássio deve ser tida em consideração no cálculo do equilíbrio eletrolítico.
+Quando se realiza a substituição de fosfato como parte de uma nutrição parentérica, deve ser
+tido em consideração o facto de serem usadas para nutrição parentérica várias soluções
+(incluindo emulsões lipídicas) que já contêm fosfato.
+
+4.5 Interações medicamentosas e outras formas de interação
+
+Influência do Fosfato Monopotássico Braun noutros medicamentos:
+Glicósidos cardíacos:
+Em doentes a receber tratamento com glicósidos cardíacos, deve garantir-se que a concentração
+de potássio se mantém constante. No caso de hipercaliemia, o efeito dos glicósidos cardíacos
+pode ser reduzido e, no caso de hipocaliemia, pode ocorrer toxicidade por glicósidos cardíacos.
+Em doentes a receber glicósidos cardíacos (por ex. digoxina) até hipocaliemia ligeira (3,0 – 3,5
+mmol/l) pode predispô-los a arritmias cardíacas.
+
+Portanto, deve-se ter precaução na descontinuação da administração de potássio.
+
+Suxametónio
+Hipercaliemia acentuada pode também resultar da administração simultânea de potássio e
+suxametónio.
+Outros medicamentos contendo fosfato
+Outros medicamentos contendo fosfatos utilizados com fosfato monopotássico podem causar
+níveis sanguíneos elevados de fosfato e podem aumentar o risco de hiperfosfatemia,
+especialmente em doentes com doença renal.
+
+Influência de outros medicamentos no Fosfato Monopotássico Braun
+Diuréticos poupadores de potássio, antagonistas da aldosterona, inibidores da ECA, tacromilus,
+ciclosporinas, anti-inflamatórios não esteroides, bloqueadores dos recetores da angiotensina II,
+analgésicos periféricos e utilização prolongada de heparina.
+Estes medicamentos reduzem a excreção renal de potássio causando um aumento nos níveis
+plasmáticos de potássio. A administração simultânea de potássio com estes medicamentos pode
+resultar em hipercaliemia grave.
+
+A ACTH, os corticosteroides e os diuréticos da ansa podem aumentar a eliminação renal de
+potássio.
+
+Salicilatos
+A utilização simultânea de salicilatos e fosfato monopotássico pode aumentar as concentrações
+plasmáticas de salicilatos uma vez que a excreção dos salicilatos é diminuída na urina
+acidificada.
+
+Medicamentos que contêm cálcio
+A utilização simultânea de medicamentos que contêm fosfato e cálcio pode aumentar o risco de
+deposição de cálcio nos tecidos moles.
+
+4.6 Fertilidade, gravidez e aleitamento
+
+Gravidez
+Não existem dados ou existe uma quantidade limitada de dados (menos de 300 gravidezes
+expostas) sobre a utilização de Fosfato Monopotássico Braun em mulheres grávidas. Os estudos
+em animais são insuficientes no que respeita à toxicidade reprodutiva (ver secção 5.3). No
+entanto, não há indicação de efeitos nefastos diretos ou indiretos a este respeito.
+Recomenda-se precaução na prescrição deste medicamento a mulheres grávidas.
+Fosfato Monopotássico Braun só deve ser administrado durante a gravidez se os seus benefícios
+compensarem os seus possíveis riscos.
+
+Amamentação
+Desconhece-se se os fosfatos são excretados no leite materno. No entanto, não há problema na
+amamentação de crianças que ingerem as quantidades diárias normais recomendadas.
+Fosfato Monopotássico Braun só deve ser administrado durante a lactação se os benefícios
+compensarem os seus possíveis riscos.
+
+Fertilidade
+Não existem dados disponíveis.
+
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos do Fosfato Monopotássico Braun sobre a capacidade de conduzir e utilizar máquinas
+são nulos ou desprezáveis.
+
+4.8 Efeitos indesejáveis
+Perturbações gerais e alterações no local de administração
+Frequência desconhecida: podem ocorrer reações locais no local da perfusão, incluindo dor
+local, irritação venosa e ocasionalmente tromboflebite.
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-risco do
+medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas de reações
+adversas diretamente ao INFARMED I.P.:
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+e-mail: farmacovigilancia@infarmed.pt
+
+4.9 Sobredosagem
+
+A sobredosagem pode conduzir a hipercaliemia, hiperfosfatemia e hipercalcemia.
+
+A hipercaliemia caracteriza-se principalmente por perturbações cardiovasculares,
+nomeadamente, anomalias do ECG, arritmias ventriculares, bloqueio cardíaco e paragem
+cardíaca. No ECG observam-se ondas-t simétricas pronunciadas e, se as concentrações séricas
+de potássio forem muito elevadas, alargamento do QRS.
+
+Os distúrbios circulatórios são hipotensão e centralização.
+Os sintomas neuromusculares abrangem sensação de peso nos membros, paralisia flácida, pele
+fria, palidez cinzenta, perda de reflexos, indiferença, confusão mental, parestesia, fraqueza e
+paralisia muscular e colapso arterial que provoca uma decida na pressão arterial.
+A hipercaliemia associada a concentração plasmática de potássio acima de 6,0 – 7,0 mmol/l ou
+a alterações no ECG é geralmente considerada uma emergência médica.
+
+A hiperfosfatemia pode conduzir a danos renais como resultado da precipitação de fosfato de
+cálcio (nefrocalcinose) e, da precipitação de fosfato de cálcio noutros tecidos (por ex.: pele,
+córnea, pulmão) e a hipocalcemia. Os sintomas tanto de hiperfosfatemia como de hipocalcemia
+incluem um aumento da excitabilidade neuromuscular (contrações musculares, espasmos,
+adormecimento, formigueiro), cãibras musculares, tetania, sinal de Trousseau ou Chvostek
+positivo, espasmo carpopedal, parestesias e convulsões.
+
+Outros sintomas incluem alterações no ECG, perturbações mentais, como irritabilidade e
+depressão, e náuseas.
+
+Tratamento
+Tratamento da hipercaliemia e hiperfosfatemia
+Interrupção imediata da perfusão, administração intravenosa lenta de gluconato de cálcio 10%
+w/v, perfusões de glucose juntamente com insulina, aumento da diurese ou administração oral
+ou retal de permutadores de iões, correção da acidose se necessário.
+
+Deve ser efetuada uma monitorização contínua do ECG.
+
+Em casos de sobredosagem massiva pode ser necessária hemodiálise.
+
+
+5. PROPRIEDADES FARMACOLÓGICAS
+
+5.1 Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 12.2.2 - Corretivos da volémia e das alterações eletrolíticas.
+Corretivos das alterações hidroeletrolíticas. Fósforo, código ATC: B05XA06
+
+Mecanismo de Ação
+O potássio é o principal catião intracelular e tem muitas funções diferentes dentro da célula,
+como por exemplo o metabolismo dos hidratos de carbono, o armazenamento de glicogénio e a
+síntese de proteínas.
+
+O fosfato é um componente essencial dos ossos e membranas celulares e é de importância vital
+para diferentes processos biológicos, tais como a função da ATP, a transdução de sinal e o
+equilíbrio ácido-base.
+
+A concentração plasmática de potássio está fortemente relacionada com o equilíbrio ácido-base.
+A alcalose é frequentemente associada a hipocaliemia e a acidose com hipercaliemia. As
+concentrações plasmáticas normais de potássio na acidose indicam uma deficiência de potássio.
+Durante a síntese de glicogénio e de proteínas, o potássio é captado pelas células e, durante a
+degradação destes substratos, é libertado (cerca de 0,4 – 1 mmol de potássio/g de glicogénio e
+cerca de 2 – 3 mmol de potássio/g de azoto perdido).
+
+5.2 Propriedades farmacocinéticas
+
+Absorção
+Como a solução é destinada para utilização por via intravenosa a sua biodisponibilidade é de
+100%.
+
+Distribuição
+O fosfato é a forma relevante de fósforo no corpo humano. O nível plasmático normal de
+fosfato é 0,8 – 1,5 mmol/l. Aproximadamente 85 porcento do total de fósforo no corpo é
+armazenado nos ossos. Do restante, 14 porcento está nos tecidos moles e 1 porcento é
+encontrada no sangue.
+
+Potássio é o catião mais importante do espaço intracelular, onde está localizado
+aproximadamente 98 porcento do total de potássio do organismo. A concentração do potássio
+intracelular é de aproximadamente 140 – 150 mmol/l. A concentração plasmática normal de
+potássio é entre 3,5 e 5 mmol/l.
+
+Biotransformação
+No sentido estrito, o fosfato e o potássio não são metabolizados.
+Eliminação
+O fosfato é predominantemente excretado pelos rins na urina (cerca de 90 porcento), e pelo
+trato gastrointestinal (cerca de 10 porcento).
+
+A paratormona, a administração de cálcio, os estrogénios, as fosfatoninas, os glicocorticoides, a
+teofilina, a acidose e a hipertensão aumentam a excreção renal de fosfato; o 1,25-di-
+hidroxicolecalciferol, a hormona da tiroide, a hormona do crescimento e a insulina reduzem a
+excreção renal de fosfato. O equilíbrio de fosfato e de cálcio estão fortemente interligados.
+
+5.3 Dados de segurança pré-clínica
+
+Os dados não clínicos não revelam riscos especiais para o ser humano segundo estudos
+convencionais de farmacologia de segurança, toxicidade de dose repetida, genotoxicidade,
+potencial carcinogénico e toxicidade reprodutiva e desenvolvimento.
+
+
+6. INFORMAÇÕES FARMACÊUTICAS
+
+6.1 Lista dos excipientes
+
+Água para preparações injetáveis
+
+6.2 Incompatibilidades
+
+O Fosfato Monopotássico Braun é incompatível com soluções contendo cálcio e magnésio.
+Na ausência de estudos de compatibilidade, este medicamento não pode ser misturado com
+outros medicamentos.
+
+6.3 Prazo de validade
+
+- por abrir:
+3 anos.
+
+- após primeira abertura:
+Não aplicável. Ver secção 6.6.
+
+- após mistura de aditivos:
+Do ponto de vista microbiológico, após diluição o medicamento deve ser administrado
+imediatamente. Se não for administrado imediatamente, os tempos de conservação bem como as
+condições que antecedem a utilização são da responsabilidade do utilizador e normalmente não
+devem exceder as 24 horas a temperatura de 2 - 8ºC, a menos que a diluição tenha sido efetuada
+em condições de assepsia devidamente controladas e validadas.
+
+6.4 Precauções especiais de conservação
+
+Não conservar acima de 25ºC
+Condições de conservação do medicamento após adição de um aditivo, ver secção 6.3.
+
+6.5 Natureza e conteúdo do recipiente
+Ampolas de polietileno de baixa densidade incolor de 10 e de 20 ml, apresentadas
+individualmente, em caixas de 20 ou 100 unidades cada, respetivamente.
+
+É possível que não sejam comercializadas todas as apresentações.
+
+6.6 Precauções especiais de eliminação e manuseamento
+
+Não existem requisitos especiais para a eliminação.
+Os recipientes são para uma única utilização. Rejeitar recipiente e qualquer volume residual
+após utilização.
+
+Só deve ser utilizado se a solução for límpida, incolor e aquosa e se a ampola não estiver
+danificada.
+
+O concentrado de eletrólitos é para ser adicionado à solução veículo, estritamente em condições
+assépticas, e imediatamente antes de preparar a perfusão. O recipiente deve ser agitado
+suavemente.
+
+As soluções veículos devem estar livres de cálcio e magnésio. Soluções adequadas são por
+exemplo, solução de glucose 5% ou solução isotónica de cloreto de sódio. Se o consumo de
+sódio tiver de ser limitado, apenas se podem utilizar soluções veículo isentas de sódio.
+
+
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+B. Braun Medical, Unipessoal Lda.
+Estrada Consiglieri Pedroso, 80
+Queluz de Baixo
+2730-053 Barcarena
+Portugal
+
+
+8. NÚMEROS DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+N.º de registo: 2300481 - 1 ampola de 10 ml, concentrado para solução para perfusão, 136.13
+mg/ml
+N.º de registo: 2300580 - 1 ampola de 20 ml, concentrado para solução para perfusão, 136.13
+mg/ml
+N.º de registo: 5753470 - 20 ampola de 10 ml, concentrado para solução para perfusão, 136.13
+mg/ml
+N.º de registo: 5753504 - 20 ampola de 20 ml, concentrado para solução para perfusão, 136.13
+mg/ml
+N.º de registo: 4089587 - 100 ampola de 10 ml, concentrado para solução para perfusão, 136.13
+mg/ml
+N.º de registo: 4089686 - 100 ampola de 20 ml, concentrado para solução para perfusão, 136.13
+mg/ml
+
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+Data da primeira autorização: 22 de novembro de 1994
+Data da última renovação: 16 de outubro de 2024
+
+
+10. DATA DA REVISÃO DO TEXTO
+

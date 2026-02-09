@@ -1,0 +1,540 @@
+RESUMO DAS CARACTERISTICAS DO MEDICAMENTO
+
+
+1. NOME DO MEDICAMENTO
+
+Tiapridal 100 mg/2 ml Solução injectável
+
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada ampola de 2 ml contém 100 mg de tiaprida como substância ativa, sob a forma
+de cloridrato de tiaprida.
+
+Excipientes com efeito conhecido:
+Sódio – 0,98 mg/ml (sob a forma de cloreto de sódio)
+
+Lista completa de excipientes, ver secção 6.1
+
+
+3. FORMA FARMACÊUTICA
+
+Solução injectável
+
+
+4. INFORMAÇÕES CLÍNICAS
+
+4.1 Indicações terapêuticas
+
+A solução injectável de tiaprida está particularmente indicada em:
+
+Perturbações do comportamento na abstinência alcoólica:
+- abstinência alcoólica aguda
+- pós abstinência alcoólica
+
+4.2 Posologia e modo de administração
+
+Perturbações do comportamento na abstinência alcoólica: 300-400 mg/dia
+
+Solução injectável, por via intramuscular ou intravenosa: a dose recomendada é de
+300 a 400 mg/dia (isto é, 3 a 4 ampolas/dia).
+
+No delirium e predelirium: 400 – 1200 mg/dia (uma injeção todas as 4 a 6 horas, isto
+é, 4 a 12 ampolas/dia).
+
+Crianças: a dose usual é de 100-150 mg/dia com um máximo de 300 mg/dia.
+
+Insuficiência renal: nos doentes com depuração da creatinina entre 30-60 ml/min, a
+dose deve ser reduzida a 75% da dose normal; nos doentes com depuração da
+creatinina entre 10-30 ml/min, a dose deve ser reduzida de 50% da dose normal; nos
+doentes com depuração da creatinina inferior a 10 ml/min, a dose deve ser reduzida a
+25% da dose normal.
+Insuficiência hepática: o fármaco é fracamente metabolizado, pelo que não é
+necessário fazer ajuste de dose.
+A via de administração intramuscular é preferível à via de administração intravenosa,
+por resultar em menos reações adversas.
+
+4.3 Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados
+na secção 6.1.
+
+Tumores prolactino-dependentes associados como, por exemplo, prolactinomas da
+glândula pituitária e cancro da mama.
+
+Feocromocitoma.
+
+
+Associação com levodopa (ver secção 4.5)
+
+4.4 Advertências e precauções especiais de utilização
+
+Tal como acontece com outros neurolépticos, pode ocorrer o Síndrome Maligno dos
+Neurolépticos, uma complicação potencialmente fatal caracterizada por hipertermia,
+rigidez muscular e disfunção autonómica. Observaram-se casos com características
+atípicas tais como falta de rigidez muscular ou hipertonia e febre baixa. No caso de
+hipertermia de origem não diagnosticada, a administração da tiaprida deve ser
+interrompida.
+
+A tiaprida não deve ser administrada a doentes com doença de Parkinson, salvo em
+circunstâncias excecionais.
+
+Os neurolépticos podem baixar o limiar epileptogénico, embora este não tenha sido
+avaliado com a tiaprida. Contudo doentes com antecedentes de epilepsia deverão ser
+rigorosamente monitorizados durante o tratamento com tiaprida.
+
+Nos casos de insuficiência renal, a dose deve ser diminuída devido ao possível risco
+de coma devido a sobredosagem (ver secções 4.2 e 4.9).
+
+Idosos
+Nos doentes idosos, tal como para outros neurolépticos, a tiaprida deverá ser usado
+com particular precaução devido ao possível risco de diminuição do nível de
+consciência e coma.
+
+- Doentes idosos com demência
+Doentes idosos com demência resultante de psicose e tratados com medicamentos
+antipsicóticos têm um risco aumentado de morte associado. Foram analisados 17
+ensaios clínicos vs placebo (duração modal de 10 semanas), principalmente em
+doentes tratados com medicamentos antipsicóticos atípicos, onde se verificou um
+risco de morte nos doentes tratados com tiaprida, entre 1,6 a 1,7 vezes superior aos
+doentes tratados com placebo. No decorrer de um ensaio clínico de 10 semanas, a
+taxa de mortalidade no grupo de doentes tratado com tiapridal era de cerca de 4,5%,
+comparado com a taxa de mortalidade de 2,6% do grupo tratado com placebo.
+Embora as causas de morte em ensaios clínicos com antipsicóticos atípicos terem sido
+várias, a maioria das mortes pareceram ser devidas a problemas cardiovasculares (ex.:
+insuficiência cardíaca, morte súbita) ou infeciosos (por exemplo, pneumonia).
+Estudos observacionais, à semelhança dos medicamentos antipsicóticos atípicos,
+sugerem que o tratamento com medicamentos antipsicóticos convencionais pode
+aumentar o risco de mortalidade. A medida em que os resultados do aumento da
+mortalidade em estudos observacionais podem ser atribuídos ao medicamento
+antipsicótico, em oposição a algumas características dos doentes não é muito clara.
+
+População pediátrica
+Nas crianças, a tiaprida não tem sido exaustivamente investigado. Assim, deverá
+haver precaução na prescrição a crianças (ver secção 4.2)
+
+Tromboembolismo venoso
+Foram notificados casos de tromboembolismo venoso (TEV), por vezes fatais, com
+medicamentos antipsicóticos. Assim, Tiapridal deve ser utilizado com precaução em
+doentes com fatores de risco para o tromboembolismo (ver secção 4.8). Uma vez que
+os doentes tratados com antipsicóticos apresentam frequentemente, fatores de risco
+para o TEV, quaisquer fatores de risco possíveis devem ser identificados antes e
+durante o tratamento com Tiapridal e devem ser adotadas medidas preventivas
+adequadas.
+
+-Prolongamento do intervalo QT: a tiaprida pode induzir o prolongamento do
+intervalo QT. Sabe-se que este efeito potencia o risco de arritmias ventriculares
+graves tais como torsade de pointes (ver secção 4.8). Antes de qualquer administração
+e, se possível de acordo com o estado clínico do doente, é recomendado monitorizar
+os fatores que podem favorecer a ocorrência desta alteração do ritmo, como por
+exemplo:
+-bradicardia inferior a 55 batidas por minuto (bpm)
+-desequilíbrio eletrolítico em particular hipocaliémia
+-prolongamento congénito do intervalo QT
+-tratamento a decorrer com medicação que poderá provocar bradicardia pronunciada
+(<55 bpm), desequilíbrio eletrolítico, diminuição da condução intracardíaca ou
+prolongamento do intervalo QT (ver 4.5).
+A tiaprida deve ser prescrita com precaução em doentes que apresentem fatores de
+risco que possam predispor ao prolongamento do intervalo QT.
+
+-Acidente vascular cerebral: Num ensaio clínico randomizado versus placebo
+realizado numa população de doentes idosos com demência e tratados com certos
+medicamentos antipsicóticos atípicos, foi observado um aumento de 3 vezes do risco
+de acidentes cerebrovasculares. O mecanismo de aumento deste risco não é
+conhecido. O aumento do risco com outros medicamentos antipsicóticos ou outras
+populações de doentes não pode ser excluído. A tiaprida deve ser administrada com
+precaução em doentes com fatores de risco de acidente vascular cerebral.
+
+Leucopénia, neutropénia e agranulocitose foram notificados com medicamentos
+antipsicóticos, incluindo Tiapridal. Infeções inexplicáveis ou febre podem ser
+evidência de discrasia sanguínea (ver secção 4.8) e requer investigação hematológica
+imediata.
+
+- Cancro da mama: A tiaprida pode aumentar os níveis de prolactina. Portanto,
+recomenda-se precaução e os doentes com história ou história familiar de cancro da
+mama devem ser cuidadosamente monitorizados durante o tratamento com tiaprida.
+Este medicamento contém menos de 1 mmol (23mg) de sódio por 2 ml, ou seja, é
+praticamente "isento de sódio".
+
+4.5 Interações medicamentosas e outras formas de interação
+
+Associações contraindicadas:
+- Agonistas dopaminérgicos, exceto doentes com doença de Parkinson (cabergolina,
+quinagolida), devido a antagonismo recíproco entre antagonistas dopaminérgicos e
+neurolépticos.
+
+- Levodopa: antagonismo recíproco dos efeitos da levodopa e dos neurolépticos.
+Utilizar doses mínimas efectivas de ambos os medicamentos em doentes com doença
+de Parkinson.
+
+Associações não recomendadas
+- Álcool: o álcool aumenta o efeito sedativo dos neurolépticos. Evitar a ingestão de
+bebidas alcoólicas e de medicamentos contendo álcool.
+
+-Associação com os seguintes medicamentos que podem induzir torsades de pointes
+ou prolongamento do intervalo QT:
+- Medicamentos indutores de bradicardia tais como antiarrítmicos de classe Ia,
+bloqueadores beta, alguns antiarrítmicos de classe II, bloqueadores dos canais de
+cálcio tais como o diltiazem e o verapamil, clonidina, guanfacina, digitálicos,
+pilocarpina, inibidores da colinesterase:
+Risco aumentado de arritmias ventriculares, especialmente torsades de pointes.
+Monitorização clínica e eletrocardiográfica.
+- Medicamentos indutores do desequilíbrio eletrolítico, em particular da hipocaliémia:
+diuréticos hipocaliémicos, laxantes estimulantes, anfotericina B IV, glucocorticoides,
+tetracosactido. A hipocaliémia deve ser corrigida antes o tratamento com amisulpride
+e assegurar monitorização clínica, eletrolítica e eletrocardiográfica.
+- Antiarrítmicos de Classe Ia tais como a quinidina, hidroquinidina e a disopiramida
+- Antiarrítmicos de Classe III tais como a amiodarona, sotalol, dofetilide e ibutilide
+- Determinados neurolépticos: sultopride, pipotiazina, sertindol, veralipide,
+cloropromazina, levomepromazina, trifluorperazina, ciamemazina, sulpiride,
+pimozide, haloperidol, droperidol, flufenazina, pipamperona, flupentixol,
+zuclopentixol
+- Alguns medicamentos anti-parasitários: halofrantina, lumefrantina, pentamidina
+
+-Outros medicamentos tais como, tioridazina, metadona, antidepressivos com
+imipramina, lítio, bepridil, cisapride, eritromicina IV, espiramicina IV,
+moxifloxacina, difemanil, mizolastina, vincamicina IV, esparfloxacina.
+Risco aumentado de arritmias ventriculares especialmente "torsades de pointes". Se
+for possível, descontinuar a medicação que pode induzir torsades de pointes, exceto
+anti-infeciosos. Se a terapêutica de combinação não puder ser evitada, verificar o
+intervalo QT antes de iniciar o tratamento e monitorizar o ECG.
+- Agonistas dopaminérgicos exceto levodopa (amantadina, apomorfina,
+bromocriptina, entacapone, lisurida, pergolida, piribedil, pramipexol, ropirinole,
+seleginina) em doentes com doença de Parkinson. Antagonismo recíproco induz ou
+acentua perturbações psicóticas. Quando a terapêutica com neurolépticos não pode
+ser evitada em doentes com doença de Parkinson tratados com agonistas
+dopaminérgicos, estes medicamentos deverão ser gradualmente reduzidos e
+descontinuados (a retirada súbita de agonistas dopaminérgicos pode induzir a
+síndrome neuroléptica maligna).
+
+Associações que requerem precauções de utilização:
+
+- Beta-bloqueadores na insuficência cardíaca (bisoprolol, carvedilol, metoprolol,
+nebivolol)
+Risco aumentado de arritmia ventricular, em particular torsades de pointes. É
+necessária uma monitorização clínica e do eletrocardiograma.
+
+Associações a ter em atenção:
+- Antihipertensores (todos):
+Há um aumento do risco de hipotensão ortostática através de um efeito aditivo
+antihipertensor.
+- Depressores do Sistema Nervoso Central: derivados morfínicos (analgésicos e
+antitússicos e terapêutica de substituição opióide), a maior parte dos anti-histamínicos
+H1, barbitúricos, benzodiazepinas, ansiolíticos que não benzodiazepinas, hipnóticos,
+neurolépticos, antidepressivos sedativos (amitriptilina, doxepina, mianserina,
+mirtazapina, trimipramina) anti-hipertensivos de ação central, clonidina e substâncias
+relacionadas; outros medicamentos: baclofeno, talidomida, pizotifen.
+Aumento do efeito depressivo central. A redução do estado de alerta pode tornar
+perigosa a condução de veículos e a utilização de máquinas.
+
+- Beta-bloqueadores (exceto esmolol, sotalol e beta-bloqueadores utilizados na
+insuficiência cardíaca)
+Efeito vasodilatador e risco de hipotensão, em particular hipotensão postural (efeito
+aditivo)
+
+- Derivados dos nitratos e compostos relacionados
+
+4.6 Fertilidade, gravidez e aleitamento
+
+Gravidez
+
+Os dados sobre o uso de tiaprida em mulheres grávidas são inexistentes ou em
+quantidade limitada. A tiaprida atravessa a placenta. Estudos em animais
+demonstraram toxicidade reprodutiva (ver secção 5.3).
+
+A utilização de tiaprida não é recomendada durante a gravidez e em mulheres com
+potencial para engravidar que não utilizam métodos contracetivos eficazes.
+
+Neurolépticos injetáveis utlizados em situações de emergência podem provocar
+hipotensão maternal.
+
+Os recém-nascidos expostos a antipsicóticos (incluindo tiaprida) durante o terceiro
+trimestre de gravidez estão em risco de ocorrência de reações adversas após o parto,
+incluindo sintomas extrapiramidais e/ou de abstinência que podem variar em
+intensidade e duração (ver secção 4.8). Foram notificados casos de agitação,
+hipertonia, hipotonia, tremor, sonolência, dificuldade respiratória ou perturbações da
+alimentação. Consequentemente, os recém-nascidos devem ser monitorizados
+cuidadosamente.
+Amamentação
+Estudos realizados em animais mostraram a excreção de tiaprida no leite materno.
+Não se sabe se a tiaprida é excretada no leite materno humano. Não pode ser excluído
+o risco para a criança amamentada. Deve ser tomada uma decisão sobre a
+descontinuação da amamentação ou a abstenção da terapêutica com Tiapridal, tendo
+em conta o benefício da amamentação para a criança e o benefício da terapêutica para
+a mulher.
+
+Fertilidade
+
+Foi observada uma diminuição na fertilidade ligada aos efeitos farmacológicos do
+fármaco (efeito mediado pela prolactina) nos animais (ver secção 5.3). A tiaprida
+pode, de forma semelhante, comprometer a fertilidade humana (ver secção 4.8).
+
+Em humanos, devido à interação com os recetores dopaminérgicos, a tiaprida pode
+provocar hiperprolactinémia que poderá estar associada a amenorreia, anovulação e
+diminuição da fertilidade (ver secção 4.8).
+
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Mesmo quando utilizado como recomendado, tiaprida pode causar sedação pelo que a
+capacidade de condução de veículos e utilização de máquinas pode estar diminuída.
+
+4.8 Efeitos indesejáveis
+
+Os efeitos indesejáveis são apresentados por classe de frequência segundo a seguinte
+convenção: muito frequentes (≥ 1/10); frequentes (≥ 1/100, < 1/10); pouco frequentes
+(≥ 1/1.000, < 1/100); raros (≥ 1/10.000, < 1/1.000); muito raros (< 1/10.000),
+desconhecidos (não pode ser calculado a partir dos dados disponíveis)
+
+Doenças do sangue e do sistema linfático:
+Raros: Leucopénia, neutropénia e agranulocitose
+
+Doenças endócrinas
+Frequentes: Hiperprolactinémia que pode resultar em amenorreia, orgasmo fora do
+normal, crescimento mamário, dor mamária, galactorreia, ginecomastia, disfunção
+erétil e reversível após descontinuação do medicamento.
+
+Doenças do metabolismo e da nutrição:
+Raros: Hiponatremia, Síndrome da Secreção Inapropriada da Hormona Anti-diurética
+(SIADH)
+
+Perturbações do foro psiquiátrico
+Pouco frequentes: Confusão, alucinações
+
+Doenças do sistema nervoso
+Frequentes: Tonturas/vertigens, dores de cabeça.
+Parkinsonismo e sintomas relacionados: tremor, hipertonia, hipocinésia e
+hipersalivação. Estes sintomas são geralmente reversíveis após a administração de
+medicamentos antiparkinsónicos.
+Pouco frequentes: Acatisia, distonia (espasmo, torcicolo, crises oculógiras, trismus).
+Estes sintomas são geralmente reversíveis após a administração de medicamentos
+antiparkinsónicos.
+Convulsões, síncope.
+
+Raros: Discinésia aguda. Este sintoma é geralmente reversível após a administração
+de medicamentos antiparkinsónicos.
+
+Foi reportada discinésia tardia (caracterizada por movimentos involuntários rítmicos,
+principalmente da língua e/ou da face), como para todos os neurolépticos, após
+administração de um neuroléptico por um período superior a 3 meses. A medicação
+antiparkinsónica é ineficaz ou pode induzir agravamento dos sintomas.
+
+A síndrome Neuroléptica Maligna, como para todos os neurolépticos, é uma
+complicação potencialmente fatal.
+Perda de consciência.
+
+Cardiopatias:
+Raros: Prolongamento do intervalo QT, arritmias ventriculares tal como torsades de
+pointes; taquicardia ventricular que pode resultar em fibrilhação ventricular ou
+paragem cardíaca e morte súbita
+
+Vasculopatias:
+Pouco frequentes: Hipotensão, frequentemente ortostática, trombose venosa profunda
+Raros: Embolia pulmonar, por vezes fatal
+
+Doenças respiratórias, torácicas e do mediastino
+Raros: Pneumonia de aspiração, depressão respiratória no contexto do uso com outro
+depressor do SNC.
+
+Doenças gastrointestinais
+Pouco frequentes: Obstipação,
+Raros: Obstrução intestinal, íleos
+
+Afeções hepatobiliares
+Raros: Enzimas hepáticas aumentadas
+
+Afeções dos tecidos cutâneos e subcutâneos
+Pouco frequentes: Erupção cutânea, incluindo erupção cutânea eritematosa, erupção
+cutânea máculo-papular
+Raros: Urticária
+
+Afeções musculoesqueléticas e dos tecidos conjuntivos
+Raros: Creatina fosfoquinase sérica aumentada, rabdomiólise
+
+Doenças dos orgãos genitais e da mama
+Pouco frequentes: Amenorreia, orgasmo fora do normal
+Raros: Crescimento mamário, dor mamária, galactorreia, ginecomastia e disfunção
+erétil.
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-
+risco do medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer
+suspeitas de reações adversas diretamente ao INFARMED, I.P.
+
+INFARMED, I.P.
+Direção de Gestão do risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil, 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+E-mail: farmacovigilancia@infarmed.pt
+
+4.9 Sobredosagem
+
+Sinais e sintomas
+A experiência com a tiaprida nos casos de sobredosagem é limitada. Podem ser
+observados sedação, sonolência, coma, hipotensão e sintomas extrapiramidais.
+No caso de sobredosagem aguda, deverá ser considerada a possibilidade de ingestão
+múltipla de medicamentos.
+
+Foram notificados casos fatais, principalmente em associação com outros agentes
+psicotrópicos.
+
+Tratamento
+Como a tiaprida é fracamente dialisada, não se deve fazer hemodiálise para eliminar o
+medicamento.
+Não há antídoto específico para a tiaprida. Assim, deverão ser instituídas medidas de
+suporte apropriadas: é recomendada vigilância rigorosa das funções vitais e
+monitorização cardíaca (risco de prolongamento do intervalo QT e arritmias
+ventriculares subsequentes) até recuperação do doente.
+Em caso de sintomas extrapiramidais graves, deverão ser administrados agentes
+anticolinérgicos.
+
+
+5. PROPRIEDADES FARMACOLÓGICAS
+
+5.1 Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 2.9.2. Sistema nervoso central. Psicofármacos.
+Antipsicóticos, código ATC: N05AL03
+
+A tiaprida é um neuroléptico atípico, que nos estudos in vitro liga-se seletivamente,
+aos subtipos dos recetores dopaminérgicos D2 e D3, não apresentando afinidade para
+os subtipos dos recetores dos principais neurotransmissores centrais (incluindo
+serotonina, noradrenalina, histamina). Estudos do comportamento e neuroquímicos, in
+vivo, confirmam estas propriedades, mostrando propriedades antidopaminérgicas, na
+ausência de sedação, catalepsia e disfunção cognitiva.
+Adicionalmente, a tiaprida é particularmente eficaz nos recetores dopaminérgicos
+previamente sensibilizados e isto é considerado responsável pelos seus efeitos anti-
+disquinésicos.
+A actividade ansiolítica da tiaprida foi demonstrada em diversos modelos animais de
+stress, incluindo os relacionados com a privação do álcool, que foi confirmada em
+ratos e primatas.
+A tiaprida não parece causar dependência psicológica e física.
+
+Este perfil farmacológico atípico pode contribuir para a sua eficácia clínica em muitas
+doenças relacionadas com a função hiperdopaminérgica, tais como disquinésia e
+alterações psicocomportamentais observadas em doentes dementes ou em alcóolicos
+crónicos, produzindo menos efeitos secundários neurológicos que os associados aos
+neurolépticos típicos.
+
+5.2 Propriedades farmacocinéticas
+
+A absorção da tiaprida é rápida. Os valores médios de Tmax são de 1h (valor médio)
+para o comprimido e solução oral e 0,5 h para solução injectável IM. O tempo inicial
+é pequeno independentemente da via de administração.
+
+Após administração oral de uma dose única de 100 mg em voluntários sãos, o valor
+médio da concentração plasmática máxima de tiaprida (Cmax ) é 560 ng/ml. A Cmax
+é ligeiramente aumentada com a administração intramuscular.
+
+As biodisponibilidades absolutas da administração oral (comprimido) e intramuscular
+de tiaprida são aproximadamente 75% - 78%. A solução oral é bioequivalente ao
+comprimido de libertação imediata (em termos de área sob a curva da concentração
+plasmática).
+
+A concentração plasmática aumenta proporcionalmente com as doses,
+particularmente nos doentes.
+
+A ingestão de alimentos aumenta a Cmax de 20% com o comprimido de libertação
+imediata.
+
+A tiaprida praticamente não se liga às proteínas plasmáticas. A média do volume de
+distribuição total é de 1,43 L/Kg, compatível com a acumulação nos tecidos.
+
+A tiaprida é maioritariamente eliminada na urina, principalmente sob a forma
+inalterada. Após administração oral, 75% da dose de tiaprida é excretada, em 24
+horas, por via urinária, indicando que a tiaprida é moderadamente biotransformada. A
+eliminação renal ocorre por filtração glomerular e secreção tubular como é indicado
+pela depuração renal (em média 18 L/h)
+
+No homem, a tiaprida é metabolizada até 15%, em metabolitos presumivelmente
+farmacologicamente inativos. Não foram observadas formas conjugadas. A semivida
+de eliminação média é cerca de 3-5h em voluntários jovens sãos para solução
+intramuscular, solução oral e comprimidos de libertação imediata. Em doentes com
+insuficiência renal grave foram reportados o aumento da concentração plasmática e
+da semivida de eliminação até 21,6 h Assim, no caso de insuficiência renal, a dose
+deve ser diminuida (ver secção 4.2).
+
+A tiaprida é fracamente dialisada (11 ± 7 mg) durante uma sessão de diálise de 4h
+após uma administração intramuscular de 100 mg.
+5.3 Dados de segurança pré-clínica
+
+Estudos realizados com animais em desenvolvimento embrionário-fetal não
+indicaram, direta ou indiretamente, os efeitos adversos deste medicamento na
+gravidez em roedores, em relação à teratogenicidade e à embriofetotoxicidade em
+roedores.
+
+No entanto, estudos em coelhos demonstraram efeitos embriotóxicos nas doses mais
+elevadas testadas (80 e 160 mg/kg/dia).
+
+Os estudos em animais não são suficientes no que respeita aos distúrbios do
+desenvolvimento neurológico das crias.
+
+A tiaprida é isenta de qualquer risco teratogénico ou mutagénico, geral ou específico
+de órgão. Os efeitos observados nos animais estão diretamente relacionados com a
+ação farmacológica e, principalmente, com a hiperprolactinémia. Relativamente à
+carcinogenicidade, os tumores prolactino-dependentes observados nos roedores são
+específicos da espécie e não representam um risco para a utilização clínica.
+
+
+6. INFORMAÇÕES FARMACÊUTICAS
+
+6.1 Lista dos excipientes
+
+Cloreto de sódio
+Água para preparações injectáveis
+
+6.2 Incompatibilidades
+
+Não aplicável.
+
+6.3 Prazo de validade
+
+3 anos.
+
+6.4 Precauções especiais de conservação
+
+O medicamento não necessita de quaisquer precauções especiais de conservação.
+
+6.5 Natureza e conteúdo do recipiente
+
+Ampolas de vidro incolor de 2 ml, acondicionadas em tabuleiros de PVC.
+Embalagens de 6 ou 60 ampolas.
+
+É possível que não sejam comercializadas todas as apresentações.
+
+6.6 Precauções especiais de eliminação
+
+Não existem requisitos especiais para a eliminação
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo
+com as exigências locais.
+
+
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Sanofi - Produtos Farmacêuticos, Lda
+Empreendimento Lagoas Park - Edifício 7 - 3º Piso
+2740-244 Porto Salvo
+Portugal
+
+
+8. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Nº de registo: 9497115 - 6 ampolas de solução injectável, 100 mg/2 ml, ampola de
+vidro incolor
+Nº de registo: 9497123 - 60 ampolas de solução injectável, 100 mg/2 ml, ampola de
+vidro incolor
+
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO OU RENOVAÇÃO DA
+AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 25 outubro 1979
+Data de revisão: 09 março 1998
+Data da última renovação: 03 agosto 2009
+
+
+10. DATA DA REVISÃO DO TEXTO
+

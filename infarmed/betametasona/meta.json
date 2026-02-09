@@ -1,0 +1,43 @@
+{
+  "medId": "betametasona",
+  "searchTerm": "Diprofos",
+  "retrievedAt": "2026-02-08T00:00:00.000Z",
+  "bestMatch": {
+    "infarmedId": "8452912",
+    "name": "Diprofos Depot",
+    "dci": "Betametasona",
+    "form": "Suspensão injetável",
+    "dosage": "14 mg/2 ml",
+    "holder": "Organon Portugal, Sociedade Unipessoal, Lda.",
+    "score": 1.0,
+    "generic": false,
+    "processNumber": "6/13/76",
+    "administration": ["Via intra-articular", "Via intradérmica", "Uso intralesional", "Via intramuscular", "Via intrassinovial", "Via periarticular"],
+    "classification": {
+      "atc": "H02AB01 - betamethasone",
+      "farmacoterapeutica": "8.2.2 - Glucocorticóides"
+    },
+    "aimDate": "17/01/1977",
+    "lastUpdated": "27/03/2024"
+  },
+  "documents": {
+    "rcm": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "rcm/8452912-rcm.pdf",
+      "size": 88000,
+      "method": "POST with form state",
+      "lastUpdated": "27/03/2024"
+    },
+    "fi": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "fi/8452912-fi.pdf",
+      "size": 89000,
+      "method": "POST with form state",
+      "lastUpdated": "27/03/2024"
+    }
+  }
+}

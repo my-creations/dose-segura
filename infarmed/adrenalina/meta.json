@@ -1,0 +1,57 @@
+{
+  "medId": "adrenalina",
+  "searchTerm": "adrenalina",
+  "retrievedAt": "2026-02-08T00:00:00.000Z",
+  "bestMatch": {
+    "infarmedId": "5865217",
+    "name": "Adrenalina Basi",
+    "dci": "Adrenalina",
+    "form": "Solução injetável",
+    "dosage": "1 mg/ml",
+    "holder": "Laboratórios Basi - Indústria Farmacêutica, S.A",
+    "score": 1.0,
+    "generic": false,
+    "processNumber": "PT/H/2778/001/DC",
+    "administration": ["Via intramuscular", "Via intravenosa", "Uso intraósseo"],
+    "classification": {
+      "atc": "C01CA24 - epinephrine",
+      "farmacoterapeutica": "10.3 - Simpaticomiméticos"
+    },
+    "aimDate": "10/11/2023",
+    "lastUpdated": "06/03/2025"
+  },
+  "documents": {
+    "rcm": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "rcm/5865217-rcm.pdf",
+      "size": 93714,
+      "method": "POST with form state",
+      "lastUpdated": "06/03/2025"
+    },
+    "fi": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "fi/5865217-fi.pdf",
+      "size": 44439,
+      "method": "POST with form state",
+      "lastUpdated": "10/11/2023"
+    }
+  },
+  "alternatives": [
+    {
+      "name": "Adrenalina Braun",
+      "holder": "B. Braun Medical, Unipessoal Lda.",
+      "form": "Solução injetável",
+      "dosage": "1 mg/1 ml"
+    },
+    {
+      "name": "Adrenalina Labesfal",
+      "holder": "Labesfal - Laboratórios Almiro, S.A.",
+      "form": "Solução injetável",
+      "dosage": "1 mg/1 ml"
+    }
+  ]
+}

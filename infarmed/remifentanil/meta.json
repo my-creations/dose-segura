@@ -1,0 +1,31 @@
+{
+  "medId": "remifentanil",
+  "searchTerm": "remifentanil",
+  "retrievedAt": "2026-02-09T00:46:55.919Z",
+  "bestMatch": {
+    "infarmedId": "8835",
+    "name": "Ultiva",
+    "dci": "Remifentanilo",
+    "form": "Pó para concentrado para solução injetável ou para perfusão",
+    "dosage": "1 mg",
+    "holder": "Aspen Pharma Trading Ltd.",
+    "isGeneric": false,
+    "score": 110
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/8835-rcm.pdf",
+      "size": 146977
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/8835-fi.pdf",
+      "size": 214880
+    }
+  }
+}

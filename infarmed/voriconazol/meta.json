@@ -1,0 +1,31 @@
+{
+  "medId": "voriconazol",
+  "searchTerm": "voriconazol",
+  "retrievedAt": "2026-02-09T01:02:34.340Z",
+  "bestMatch": {
+    "infarmedId": "591541",
+    "name": "Voriconazol NormonMG",
+    "dci": "Voriconazol",
+    "form": "Pó para solução para perfusão",
+    "dosage": "200 mg",
+    "holder": "Laboratórios Normon, S.A.",
+    "isGeneric": false,
+    "score": 670
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/591541-rcm.pdf",
+      "size": 522863
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/591541-fi.pdf",
+      "size": 65196
+    }
+  }
+}

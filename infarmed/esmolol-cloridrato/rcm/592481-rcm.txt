@@ -1,0 +1,954 @@
+                                            APROVADO EM
+                                            30-08-2016
+                                            INFARMED
+
+
+
+
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+                                                                        APROVADO EM
+                                                                        30-08-2016
+                                                                        INFARMED
+
+
+
+
+1.     NOME DO MEDICAMENTO
+
+Esmolol Hikma, 10 mg/ml, Solução injetável
+
+
+2.     COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada mililitro de solução contém 10 mg de cloridrato de esmolol, equivalente a 8,9 mg
+de esmolol.
+Cada frasco de 10 ml de solução contém 100 mg de cloridrato de esmolol, equivalenete a
+89 mg de esmolol.
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+3.     FORMA FARMACÊUTICA
+
+Solução injetável
+Solução transparente, de incolor a amarela clara.
+A solução tem um pH entre 4,5 e 5,5 e uma osmolalidade aproximada de 113 mOsm/l.
+
+
+4.     INFORMAÇÕES CLÍNICAS
+
+4.1    Indicações terapêuticas
+
+Semolol Hikma está indicado em casos de taquicardia supraventricular (exceto síndromas
+de pré-excitação), e para o rápido controlo da frequência ventricular em doentes com
+fibrilhação auricular ou flutter auricular em períodos perioperatório e pós-operatório, ou
+outras circunstâncias onde um controlo de curto prazo da frequência ventricular com um
+agente de ação rápida seja necessário. Esmolol Hikma está também indicado nos casos de
+taquicardia e hipertensão que ocorram no período perioperatório e taquicardia sinusal
+não-compensatória para a qual, segundo a opinião do médico, a frequência cardíaca
+acelerada necessita de intervenção específica.
+
+Esmolol Hikma não está indicado para utilização em crianças com idade até 18 anos (ver
+secção 4.2).
+Esmolol Hikma não se destina à utilização em situações crónicas.
+
+4.2    Posologia e modo de administração
+                                                                    APROVADO EM
+                                                                    30-08-2016
+                                                                    INFARMED
+
+Esmolol Hikma é uma solução de 10 mg/ml pronta a utilizar, recomendada para a
+administração intravenosa.
+Esta forma de dosagem é utilizada para administrar a dose de carga ou a dose bólus
+adequada de Esmolol Hikma, utilizando uma seringa.
+
+Taquiarritmia supraventricular
+A dosagem de Esmolol Hikma nos casos de taquiarritmias supraventriculares deve ser
+determinada individualmente. Cada fase consiste numa dose de carga seguida de uma
+dose de manutenção. A dose de manutenção efetiva deve estar entre 50 e 200
+microgramas/kg/minuto, ainda que já tenham sido utilizadas doses reduzidas de 25 como
+elevadas de 300 microgramas/kg/minuto.
+
+Fluxograma para a iniciação e manutenção do tratamento
+
+Perfusão de uma dose de carga de 500 microgramas /kg/minuto durante 1 minuto
+SEGUIDA de perfusão de uma dose de manutenção de 50 microgramas/kg/minuto
+durante 4 minutos
+
+
+                                                   Resposta
+                                                   Manter     a    perfusão      a
+                                                   50 microgramas/kg/minuto
+Resposta inadequada durante 5 minutos
+Repetir a dose de 500 microgramas/kg/minuto durante 1
+minuto
+Aumentar a perfusão de manutenção para
+100 microgramas/kg/minuto durante 4 minutos
+
+
+                                                   Resposta
+                                                   Manter a perfusão a
+                                                   100 microgramas/kg/minuto
+Resposta inadequada durante 5 minutos
+Repetir a dose de 500 microgramas/kg/minuto durante 1
+minuto
+Aumentar a perfusão de manutenção para
+150 microgramas/kg/minuto durante 4 minutos
+
+
+                                                   Resposta
+                                                   Manter a perfusão a
+                                                   150 microgramas/kg/minuto
+Resposta inadequada
+Repetir a dose de 500 microgramas/kg/minuto durante 1
+minuto
+                                                                                      APROVADO EM
+                                                                                      30-08-2016
+                                                                                      INFARMED
+
+         Aumentar     a    perfusão    de        manutenção           para
+         200 microgramas/kg/minuto e manter
+
+         A dose de carga e as doses de manutenção de Esmolol Hikma para administração a
+         doentes com diferentes pesos, estão referidas nas Tabela 1 e Tabela 2 respetivamente.
+
+         Tabela 1
+         Volume de Esmolol Hikma 10 mg/ml necessário para uma
+         DOSE DE CARGA INICIAL de 500 mcg/ kg/ minuto
+
+                                Peso do doente (kg)
+
+                                40   50    60   70       80     90     100      110   120
+                     Volume
+                            2        2.5   3    3.5      4      4.5    5        5.5   6
+                     (ml)
+
+         Tabela 2
+         Volume de Esmolol Hikma 10 mg/ml necessário para fornecer
+         DOSES DE MANUTENÇÃO a velocidades de perfusão entre 12,5 e
+         300 mcg/ kg/ minuto
+
+Peso     Velocidade de perfusão
+do       12.5         25            50              100           150           200 300
+doente   mcg/kg/min mcg/kg/min mcg/kg/min mcg/kg/min mcg/kg/min mcg/kg/min mcg/kg/min
+(kg)     Quantidade a administrar por hora para atingir a velocidade da dose (ml/h)
+40       3 ml/h       6 ml/h         12 ml/h          24 ml/h         36 ml/h         48 ml/h    72 ml/h
+50       3.75 ml/h    7.5 ml/h       15 ml/h          30 ml/h         45 ml/h         60 ml/h    90 ml/h
+60       4.5 ml/h     9 ml/h         18 ml/h          36 ml/h         54 ml/h         72 ml/h    108 ml/h
+70       5.25 ml/h    10.5 ml/h      21 ml/h          42 ml/h         63 ml/h         84 ml/h    126 ml/h
+80       6 ml/h       12 ml/h        24 ml/h          48 ml/h         72 ml/h         96 ml/h    144 ml/h
+90       6.75 ml/h    13.5 ml/h      27 ml/h          54 ml/h         81 ml/h         108 ml/h   162 ml/h
+100      7.5 ml/h     15 ml/h        30 ml/h          60 ml/h         90 ml/h         120 ml/h   180 ml/h
+110      8.25 ml/h    16.5 ml/h      33 ml/h          66 ml/h         99 ml/h         132 ml/h   198 ml/h
+120      9 ml/h       18 ml/h        36 ml/h          72 ml/h         108 ml/h        144 ml/h   216 ml/h
+
+         Quando estiver próximo de alcançar a frequência cardíaca ou o parâmetro de segurança
+         desejados (por exemplo, diminuição da tensão arterial), SUPRIMA a dose de carga e
+         reduza o aumento da dose de perfusão de manutenção de 50 microgramas/kg/minuto para
+                                                                      APROVADO EM
+                                                                      30-08-2016
+                                                                      INFARMED
+
+25 microgramas/kg/minuto ou menos. Se necessário, o intervalo entre as fases de
+titulação pode ser aumentado de 5 para 10 minutos.
+
+ATENÇÃO: As doses de manutenção superiores a 200 microgramas/kg/minuto não
+demonstraram contribuir para um aumento significativo da eficácia, e a segurança das
+doses acima dos 300 microgramas/kg/minuto não foi estudada.
+
+Taquicardia e hipertensão no período perioperatório
+
+Durante o tratamento para a taquicardia e hipertensão em período perioperatório, os
+regimes de doses podem variar:
+
+Para o tratamento intraoperatório – durante a anestesia quando o controlo imediato é
+necessário:
+•      É administrada uma injeção por bólus de 80 mg durante 15 a 30 segundos,
+seguida de uma perfusão de 150 microgramas/kg/minuto. Titule a frequência de perfusão
+conforme necessário até 300 microgramas/ kg/minuto. O volume de perfusão necessário
+para doentes com pesos diferentes é fornecido na Tabela 2.
+
+Depois do doente acordar da anestesia
+•      É administrada uma perfusão de 500 microgramas/kg/minuto durante 4 minutos
+seguida de uma perfusão de 300 microgramas/kg/minuto. O volume de perfusão
+necessário para doentes com pesos diferentes é fornecido na Tabela 2.
+
+Em situações de pós-operatório, quando houver tempo para a titulação
+•      É administrada uma dose de carga de 500 microgramas/kg/minuto durante mais
+de 1 minuto, antes de cada fase de titulação para produzir uma ação rápida. Utilize as
+fases de titulação de 50, 100, 150, 200, 250 e 300 microgramas/kg/minuto administradas
+durante mais de 4 minutos, interrompendo quando alcançar o efeito terapêutico desejado.
+O volume de perfusão necessário para doentes com pesos diferentes é fornecido na
+Tabela 2.
+
+Potenciais efeitos a ter atenção durante a dosagem com Esmolol Hikma:
+No caso de uma reação adversa, a dosagem de Esmolol Hikma pode ser reduzida ou
+descontinuada. Reações adversas farmacológicas devem ficar resolvidas em 30 minutos.
+
+Se desenvolver uma reação no local de perfusão, deve ser utilizado um local de perfusão
+alternativo e devem tomar-se as precauções necessárias para prevenir a extravasão no
+local de perfusão.
+
+A administração de Esmolol Hikma durante um período superior a 24 horas não foi
+completamente avaliada. Períodos de perfusão superiores a 24 horas devem apenas
+aplicar-se com extremo cuidado.
+                                                                      APROVADO EM
+                                                                      30-08-2016
+                                                                      INFARMED
+
+É recomendada a descontinuação gradual de Esmolol Hikma devido ao risco de ocorrer
+exacerbação da taquicardia e exacerbação da hipertensão. Como todos os
+betabloqueadores, devido aos efeitos de privação súbita não poderem ser excluídos a
+descontinuação súbita de perfusões de Esmolol Hikma deve ser feita com cuidado em
+doentes com doença das artérias coronárias (DAC).
+Substituição da terapia com Esmolol Hikma por fármacos alternativos
+Depois dos doentes alcançarem um controlo adequado da frequência cardíaca e um
+estado clínico estável, pode fazer-se a transição para fármacos alternativos (como por
+exemplo, antiarrítmicos ou antagonistas dos canais de cálcio).
+
+Redução da dosagem:
+Nos casos em que Esmolol Hikma é substituído por fármacos alternativos, o médico deve
+tomar especial atenção às instruções da rotulagem do fármaco alternativo selecionado e
+reduzir a dose de Esmolol Hikma da seguinte forma:
+•       Durante a primeira hora após a primeira dose do fármaco alternativo, reduza a
+frequência de perfusão de Esmolol Hikma para metade (50%).
+•       Após a administração da segunda dose do fármaco alternativo, monitorize a
+resposta do doente e, se o controlo positivo se mantiver durante a primeira hora,
+descontinue a perfusão de Esmolol Hikma.
+
+Informação adicional sobre dosagem
+
+Quando alcançar o efeito terapêutico ou o parâmetro de segurança desejados (por
+exemplo, diminuição da tensão arterial), interrompa a dose de carga e reduza a perfusão
+suplementar de 25 para 12,5 microgramas/kg/minuto.
+
+Além disso, se necessário, aumente o intervalo entre as fases de titulação de 5 para 10
+minutos.
+
+O Esmolol Hikma deve ser descontinuado assim que a frequência cardíaca ou a tensão
+arterial se aproximem rapidamente ou ultrapassem um limite seguro e depois iniciado
+novamente, sem a perfusão de carga, numa dose mais baixa, depois da frequência
+cardíaca ou a tensão arterial registarem novamente valores aceitáveis.
+
+Populações especiais
+
+Idosos
+Os idosos devem ser tratados com cuidado, começando com uma dose inferior.
+
+Não foram realizados estudos especiais em idosos. Contudo, a análise de dados de 252
+doentes com mais de 65 anos revelou não haver variações dos efeitos farmacológicos
+ocorridos, quando comparada com a análise de dados de doentes com menos de 65 anos.
+
+Doentes com insuficiência renal
+                                                                        APROVADO EM
+                                                                        30-08-2016
+                                                                        INFARMED
+
+Em doentes com insuficiência renal deve ter-se especial cuidado quando Esmolol Hikma
+for administrado através de perfusão, uma vez que o metabolito ácido do Esmolol Hikma
+é excretado inalterado através dos rins. A excreção do metabolito ácido é
+significativamente reduzida em doentes com doença renal em fase terminal, com a
+semivida de eliminação aumentada para cerca de dez vezes a normal, e níveis plasmáticos
+consideravelmente elevados.
+
+Doentes com insuficiência hepática
+No caso de insuficiência hepática, não são necessárias precauções especiais, uma vez que
+as esterases nos eritrócitos têm uma função principal no metabolismo do Esmolol Hikma.
+
+População pediátrica
+A segurança e eficácia de Esmolol Hikma em crianças até aos 18 anos não estão
+estabelecidas.
+Por este motivo, Esmolol Hikma não está indicado para utilização em crianças com idade
+até 18 anos (ver secção 4.2). Os dados atualmente disponíveis estão descritos nas secções
+5.1 e 5.2 mas não pode ser feita uma recomendação para a posologia.
+
+4.3    Contraindicações
+
+•      Hipersensibilidade à substância ativa ou a qualquer um dos excipientes ou outros
+beta-bloqueadores (sensibilidade cruzada entre beta-bloqueadores é possível)
+mencionados na secção 6.1.
+•       Bradicardia sinusal grave (menos de 50 batimentos por minuto).
+•       Síndrome do nódulo sinusal; perturbações de condutância nodal AV graves (sem
+pacemaker); bloqueio AV do grau II ou III.
+•      Choque cardiogénico.
+•      Hipotensão grave.
+•       Insuficiência cardíaca descompensada.
+•       Administração intravenosa concomitante ou recente de verapamilo. Esmolol
+Hikma não pode ser administrado nas 48 horas após descontinuação do verapamil (ver
+secção 4.5).
+•       Feocromocitoma não tratado.
+•      Hipertensão pulmonar.
+•       Ataque asmático agudo.
+•       Acidose metabólica.
+
+4.4    Advertências e precauções especiais de utilização
+
+Advertências
+Recomenda-se a monitorização contínua da tensão arterial e a execução de ECG em
+todos os doentes tratados com Esmolol Hikma.
+
+A utilização de Esmolol Hikma para o controlo da resposta ventricular em doentes com
+arritmias supraventriculares deve ser feita com precauções quando o doente estiver
+                                                                       APROVADO EM
+                                                                       30-08-2016
+                                                                       INFARMED
+
+comprometido hemodinamicamente ou estiver a tomar outros medicamentos que
+diminuam um ou vários dos seguintes fatores: resistência periférica, enchimento do
+miocárdio, contractilidade miocárdica ou propagação do impulso elétrico no miocárdio.
+Apesar do rápido aparecimento e desaparecimento dos efeitos de Esmolol Hikma, podem
+ocorrer reações graves, incluindo perda de consciência, choque cardiogénico, paragem
+cardíaca. Foram notificadas algumas mortes em estados clínicos complexos, em que
+Esmolol Hikma foi presumivelmente utilizado para controlar a frequência ventricular.
+
+O efeito secundário mais frequentemente observado é a hipotensão, que está relacionado
+com a dose, mas pode ocorrer com qualquer dose. Isto pode ser grave. No caso de ocorrer
+um episódio de hipotensão, a velocidade de perfusão deve ser diminuída ou, se
+necessário, descontinuada. A hipotensão geralmente é reversível (nos 30 minutos após
+descontinuação da administração de Esmolol Hikma). Em alguns casos podem ser
+necessárias intervenções adicionais para restabelecer a pressão sanguínea. Em doentes
+com uma tensão arterial sistólica baixa, é necessário um cuidado extra aquando do ajuste
+da dose e durante a perfusão de manutenção.
+
+Com a utilização de Esmolol Hikma ocorreu bradicardia, incluindo bradicardia grave e
+paragem cardíaca. Esmolol Hikma deve ser usado com especial cuidado em doentes com
+baixas frequências cardíacas pré-tratamento e apenas quando os potenciais benefícios são
+considerados superiores aos riscos.
+
+Esmolol Hikma está contraindicado em doentes com bradicardia sinusal grave pré-
+existente (ver secção 4.3). Se a pulsação diminuir para menos de 50-55 batidas por
+minuto em descanso e o doente sentir sintomas relacionados com bradicardia, a dosagem
+deve ser reduzida ou a administração interrompida.
+
+A estimulação simpática é necessária para suportar a função circulatória nos casos de
+insuficiência cardíaca congestiva, e o bloqueio beta traz consigo o potencial risco de
+continuar a reduzir a pressão da contractilidade do miocárdio, originando falhas mais
+graves. A redução de pressão continuada do miocárdio com agentes beta-bloqueadores
+durante um período de tempo pode, em alguns casos, originar insuficiência cardíaca.
+
+Deve-se ter cuidado na utilização de Esmolol Hikma em doentes com função cardíaca
+comprometida. Ao primeiro sinal ou sintoma da eminência de insuficiência cardíaca, a
+administração de Esmolol Hikma deve ser interrompida. Ainda que esta interrupção seja
+suficiente devido à semivida de eliminação curta do Esmolol Hikma, um tratamento
+específico deve também ser considerado (ver secção 4.9). Esmolol Hikma está
+contraindicado em doentes com insuficiência cardíaca descompensada (ver secção 4.3).
+
+Devido ao efeito negativo sobre o tempo de condução, os beta-bloqueadores devem
+apenas ser administrados, com cuidado, a doentes com bloqueio cardíaco do grau I ou
+outro distúrbio da condução cardíaca (ver secção 4.3).
+                                                                        APROVADO EM
+                                                                        30-08-2016
+                                                                        INFARMED
+
+Esmolol Hikma deve ser utilizado com cuidado e apenas após pré-tratamento com
+bloqueadores dos recetores em doentes com feocromocitoma (ver secção 4.3).
+
+É necessário cuidado quando Esmolol Hikma é usado para tratar hipertensão após
+hipotermia induzida.
+
+Os doentes com doença broncoespástica não devem, de um modo geral, receber
+betabloqueadores.
+Devido à seletividade e titulação beta-1 relativa, o Esmolol Hikma deve ser utilizado com
+precaução em doentes com doenças broncoespásticas. Contudo, uma vez que a
+seletividade beta-1 não é absoluta, o Esmolol Hikma deve ser cuidadosamente titulado
+para obter a menor dose eficaz possível. No caso de broncoespasmo, a perfusão deve ser
+imediatamente interrompida e, se necessário, deve ser administrado um agonista beta-2.
+
+Se o doente já utilizar um agente estimulador do recetor beta 2, pode ser necessário
+reavaliar a dose deste agente.
+
+O Esmolol Hikma deve ser utilizado com precaução em doentes com um historial de
+sibilo ou asma.
+
+Precauções
+O Esmolol Hikma deve ser utilizado com precaução em diabéticos ou em caso de
+hipoglicemia.
+A gravidade da hipoglicemia é inferior à observada com beta-bloqueadores menos
+cardioselectivos. Os beta-bloqueadores podem mascarar os sintomas prodrómicos de uma
+hipoglicemia, como por exemplo uma taquicardia. Tonturas e sudorese, contudo, podem
+não ser afetadas. A utilização concomitante de beta-bloqueadores e agentes antidiabéticos
+pode aumentar o efeito dos agentes antidiabéticos (diminuição da glucose sanguínea) (ver
+secção 4.5).
+
+Reações no local de perfusão ocorreram com o uso tanto de Esmolol Hikma 10 mg/ml
+como de 20 mg/ml. Estas reações incluíram inflamação e irritação no local de perfusão
+assim como reações mais graves tais como tromboflebite, necrose e empolamento, em
+particular quando associado com extravasão (ver secção 4.8). Desta forma, deve evitar-se
+a perfusão de Esmolol Hikma em veias pequenas ou através de um cateter butterfly. Se se
+desenvolver uma reação no local de perfusão deve ser usado um local de perfusão
+alternativo.
+
+Os beta-bloqueadores podem aumentar o número e a duração dos ataques de angina de
+peito em doentes com angina de Prinzemetal, devido à vasoconstrição da artéria
+coronária mediada pelo recetor alfa. Os beta-bloqueadores não seletivos não devem ser
+utilizados nestes doentes e os bloqueadores seletivos beta 1 devem apenas ser utilizados
+com extrema precaução.
+                                                                       APROVADO EM
+                                                                       30-08-2016
+                                                                       INFARMED
+
+Em doentes hipovolémicos, Esmolol Hikma pode atenuar taquicardia reflexa e aumentar
+o risco de colapso circulatório. Portanto, Esmolol Hikma deve ser usado com cuidado em
+tais doentes.
+
+Em doentes com afeções circulatórias periféricas (doença ou síndrome de Raynaud,
+claudicação intermitente), os beta-bloqueadores devem ser utilizados com especial
+cuidado, pois estas perturbações podem agravar-se.
+
+Alguns beta-bloqueadores, especialmente os administrados intravenosamente, incluindo
+Esmolol Hikma, têm sido associados com aumentos dos níveis de potássio sérico e
+hipercalemia. O risco está aumentado em doentes com fatores de risco tais como
+compromisso renal e doentes em hemodiálise.
+Os beta-bloqueadores podem aumentar a sensibilidade para com os alérgenos e a
+gravidade das reações anafilática. Doentes a usar beta-bloqueadores podem não ter
+resposta às doses usuais de epinefrina usadas no tratamento de reações anfilácticas ou
+anafilactóides (ver secção 4.5).
+
+Os beta-bloqueadores têm sido associados com o desenvolvimento de psoríase ou
+erupções semelhantes à psoríase e com o agravamento da psoríase. Para doentes com
+psoríase ou historial de psoríase, a administração de beta-bloqueadores deve ser feita
+apenas depois da cuidadosa avaliação dos benefícios e riscos esperados.
+
+Beta-bloqueadores como propranolol e metoprolol, podem mascarar certos sinais clínicos
+de hipertiroidismo (tal como taquicardia). A retirada abrupta da terapia existente com
+beta-bloqueadores em doentes com risco ou suspeita de desenvolverem tirotoxicose pode
+precipitar crise de tiroide e estes doentes têm de ser monitorizados com cuidado.
+
+Este medicamento contém aproximadamente 1 mmol (23 mg) de sódio por frasco, i.e. é
+essencialmente ‘livre de sódio’.
+
+População pediátrica
+A segurança e eficácia de cloridrato de esmolol em crianças não foram estabelecidas.
+
+4.5    Interações medicamentosas e outras formas de interação
+
+Deve-se ter cuidado sempre que o Esmolol Hikma é utilizado com outro agente anti-
+hipertensor ou outros medicamentos que provoquem hipotensão ou bradicardia: os efeitos
+do Esmolol Hikma podem ser aumentados ou os efeitos secundários de hipotensão ou
+bradicardia podem ser exacerbados.
+
+Os antagonistas dos canais de cálcio, como por exemplo o verapamilo e, em menor
+escala, o diltiazem, influenciam negativamente a contractilidade e a condução AV. Esta
+associação não deve ser administrada a doentes com anomalias de condução e Esmolol
+Hikma não deve ser administrado durante as 48 horas de descontinuação de verapamilo
+(ver secção 4.3).
+                                                                         APROVADO EM
+                                                                         30-08-2016
+                                                                         INFARMED
+
+
+Os antagonistas dos canais de cálcio, como por exemplo, os derivados de di-hidropridina
+(por exemplo, nifedipina) podem aumentar o risco de hipotensão. Em doentes com
+insuficiência cardíaca e que estejam a ser tratados com antagonista dos canais de cálcio, o
+tratamento com agentes beta-bloqueadores pode causar insuficiência cardíaca. É
+recomendada a titulação cuidada do Esmolol Hikma e a monitorização hemodinâmica
+adequada.
+
+A utilização concomitante de Esmolol Hikma e fármacos antiarrítmicos de classe I (por
+exemplo, disopiramida, quinidina) e amiodarona pode potencialmente afetar o tempo de
+condução arterial e provocar efeitos inotrópicos negativos.
+
+A utilização concomitante de Esmolol Hikma e insulina ou fármacos antidiabéticos de via
+oral, pode intensificar o efeito de redução da insulinemia (principalmente beta-
+bloqueadores não seletivos). O bloqueio com beta-adrenérgicos pode mascarar o
+aparecimento dos sinais de hipoglicemia (taquicardia), mas outras manifestações como
+tonturas e suores podem não ser mascaradas.
+
+Fármacos anestésicos: em situações em que o estado de volémia do doente é incerto ou
+são utilizados fármacos anti-hipertensores concomitantemente, pode verificar-se uma
+atenuação da taquicardia reflexa e um aumento do risco de hipotensão. A utilização
+contínua de beta-bloqueadores reduz o risco de arritmia durante a indução e entubação. O
+anestesista deve ser informado no caso de o doente estar a receber um agente
+betabloqueador,
+para além do Esmolol Hikma. Os efeitos hipotensivos da inalação de agentes
+anestésicos podem aumentar na presença de Esmolol Hikma. A dosagem de cada agente
+pode
+ser modificada conforme necessário, para manter a hemodinâmica pretendida.
+
+A associação de Esmolol Hikma com bloqueadores ganglionares pode aumentar os
+efeitos
+hipotensivos.
+
+Os AINE podem diminuir os efeitos hipotensivos dos beta-bloqueadores.
+
+Deve ter-se especial atenção aquando da utilização de floctafenina ou amisulpride
+concomitantemente com beta-bloqueantes.
+
+A administração concomitante de antidepressivos tricíclicos, tal como imipramina e
+amitriptilina), barbitúricos e fenotiazinas (tal como clorpromazina), assim como outros
+agentes antipsicóticos (tal como clozapina),, podem aumentar o efeito de redução da
+tensão arterial. A dosagem de Esmolol Hikma deve ser ajustada por baixo para evitar
+hipotensão inesperada.
+                                                                        APROVADO EM
+                                                                        30-08-2016
+                                                                        INFARMED
+
+Durante a utilização de beta-bloqueadores, os doentes com risco de reações anafiláticas
+podem estar mais reativos à exposição alergénica (acidental, diagnóstica ou terapêutica).
+Os doentes a utilizar beta-bloqueadores podem não responder à dose normal de epinefrina
+usada para tratar reações anafiláticas (ver secção 4.4).
+
+Os efeitos do Esmolol Hikma podem ser neutralizados por medicamentos
+simpaticomiméticos com atividade agonista beta-adrenérgica com administração
+concomitante. A dose de um ou outro agente pode ter de ser ajustada com base na
+resposta do doente ou considerado o uso alternativo de agentes terapêuticos alternativos.
+
+Os agentes redutores de catecolaminas, como por exemplo a reserpina, podem ter um
+efeito aditivo, quando administrado com agentes beta-bloqueantes. Os doentes tratados
+simultaneamente com Esmolol Hikma e um redutor de catecolaminas, devem ser
+acompanhados de perto para detetar indícios de hipotensão ou bradicardia marcada, que
+pode levar a vertigens, síncope ou hipotensão ortostática.
+
+A utilização de beta-bloqueadores com moxonidina ou agonistas alfa-2 (tal como a
+clonidina), aumenta o risco de exacerbação da hipertensão da retirada. Se a clonidina e
+moxonidina são utilizadas em associação com um beta-bloqueador ou ambos os
+tratamentos têm de ser descontinuados, o beta-bloqueador deve ser descontinuado
+primeiro e depois a clonidina ou moxonidina após alguns dias.
+
+A utilização de beta-bloqueadores com derivados ergóticos pode resultar em
+vasoconstrição periférica grave e hipertensão.
+
+Dados de um estudo de interação entre Esmolol Hikma e varfarina demonstraram que a
+administração concomitante de Esmolol Hikma e varfarina não altera os níveis
+plasmáticos de varfarina. As concentrações de Esmolol Hikma, contudo, foram
+paradoxalmente mais elevadas quando administradas com varfarina.
+
+Quando a digoxina e Esmolol Hikma foram administrados concomitantemente por via
+intravenosa a voluntários normais, houve um aumento de 10-20% de concentração de
+digoxina no sangue em determinados momentos. A associação de glicósidos digitálicos e
+Esmolol Hikma pode aumentar o tempo de condução AV. A digoxina não afetou a
+farmacocinética do Esmolol Hikma.
+
+Quando a interação entre morfina intravenosa e Esmolol Hikma foi estudada em
+indivíduos normais, não foi observado qualquer efeito nos níveis de morfina no sangue.
+Os níveis de sangue estabilizados de Esmolol Hikma aumentaram cerca de 46% na
+presença de morfina, mas nenhum outro parâmetro farmacocinético foi alterado.
+
+O efeito de Esmolol Hikma na duração do bloqueio neuromuscular devido ao cloreto de
+suxametónio, foi estudado em doentes submetidos a cirurgia. O início do bloqueio
+neuromuscular devido ao cloreto de suxametónio não foi afetado pelo Esmolol Hikma,
+mas a duração do bloqueio neuromuscular foi prolongada de 5 para 8 minutos. Esmolol
+                                                                        APROVADO EM
+                                                                        30-08-2016
+                                                                        INFARMED
+
+Hikma prolongou moderadamente a duração clínica (18,6%) e o índice de recuperação
+(6,7%) de mivacúrio.
+
+Ainda que as interações observadas em estudos com varfarina, digoxina, morfina ou
+cloreto de suxametónio não sejam de importância clínica relevante, o Esmolol Hikma
+deve ser titulado com cuidado em doentes a receber tratamento simultâneo com varfarina,
+digoxina, morfina ou cloreto de suxametónio.
+
+4.6    Fertilidade, gravidez e aleitamento
+
+Gravidez
+Não existem dados suficientes para determinar os possíveis efeitos nefastos de cloridrato
+de esmolol durante a gravidez. Os estudos em animais demonstraram toxicidade
+reprodutiva (ver secção 5.3).
+O cloridrato de esmolol não é recomendado durante a gravidez.
+
+Com base na ação farmacológica, e durante a última fase da gravidez, os efeitos
+secundários em relação ao feto e recém-nascido (especialmente hipoglicemia, hipotensão
+e bradicardia) devem ser considerados.
+
+Se o tratamento com Esmolol Hikma for considerado necessário, o fluxo sanguíneo
+uteroplancentário e o crescimento do feto devem ser monitorizados. O recém-nascido
+deve ser cuidadosamente monitorizado.
+
+Amamentação
+O cloridrato de esmolol não deve ser usado durante a amamentação.
+Não é conhecido se o cloridrato de esmolol/metabolitos são excretados no leite humano.
+Não pode ser excluído um risco para os recém-nascidos/crianças.
+
+Fertilidade
+Não existem dados em humanos sobre os efeitos do esmolol na fertilidade.
+
+4.7    Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Não relevante.
+
+4.8    Efeitos indesejáveis
+
+No caso de ocorrência de efeitos indesejáveis, a dose de Esmolol Hikma pode ser
+reduzida ou descontinuada.
+
+A maioria dos efeitos indesejáveis observados foi ligeira e transitória. O mais importante
+foi a hipotensão. Os seguintes efeitos indesejáveis são apresentados de acordo com as
+Classes de Sistemas de Órgãos segundo a base de dados MedDRA (CSO) e respetiva
+frequência.
+                                                                              APROVADO EM
+                                                                              30-08-2016
+                                                                              INFARMED
+
+
+      A frequência da ocorrência de eventos adversos é classificada como:
+
+      Muito frequentes (≥ 1/10)
+      Frequentes (≥ 1/100 a < 1/10)
+      Pouco frequentes (≥ 1/1000 a < 1/100)
+      Raros (≥ 1/10000 a < 1/1000)
+      Muito raros (< 1/10000)
+      Desconhecidos (não pode ser calculado a partir dos dados disponíveis)
+
+Classes           de Frequência
+Sistemas          de Muito
+Órgãos                            Frequentes      Pouco frequentes      Muito raras   Desconhecidos
+                     frequentes
+Doenças           do              Anorexia                                            Hipercalemia
+metabolismo e da                                                                      Acidose
+nutrição                                                                              metabólica
+Perturbações      do              Depressão       Pensamento
+foro psiquiátrico                 Ansiedade       anómalo
+                                  Tonturas 1      Síncope
+                                  Sonolência      Convulsão
+                                  Dor        de   Deficiência da fala
+                                  cabeça
+Nervous     system
+                                  Parestesia
+disorders
+                                  Atenção
+                                  alterada
+                                  Confusão
+                                  Agitação
+                                                  Insuficiência
+Afeções oculares
+                                                  visual
+                                                  Bradicardia          Paragem        Ritmo
+                                                  Bloqueio             sinusal        Idioventricular
+                                                  auriculoventricular Assistolia      acelerado
+                                                  Pressão     arterial                Arterioespasmo
+                                                  pulmonar                            coronário
+                                                  aumentada                           Paragem
+Cardiac disorders
+                                                  Insuficiência                       cardíaca
+                                                  cardíaca
+                                                  Extrasístoles
+                                                  ventrículares
+                                                  Ritmo nodal
+                                                  Angina pectoris
+                     Hipotensão   Isquemia        Tromboflebite 2
+Vasculopatias                     periférica
+                                  Palidez
+                                                                              APROVADO EM
+                                                                              30-08-2016
+                                                                              INFARMED
+
+Classes             de Frequência
+Sistemas            de Muito
+Órgãos                                 Frequentes   Pouco frequentes    Muito raras   Desconhecidos
+                       frequentes
+                                       Rubor
+                                                    Dispneia
+                                                    Edema pulmonar
+Doenças
+                                                    Broncospasmo
+respiratórias,
+                                                    Sibilo
+torácicas e         do
+                                                    Congestão nasal
+mediastino
+                                                    Roncos
+                                                    Ralas
+                                       Náusea       Disguesia
+                                       Vómitos      Dispepsia
+Doenças
+                                                    Obstipação
+gastrointestinais
+                                                    Boca seca
+                                                    Dores abdominais
+                         Diaforese 1                Alteração da cor Necrose        Psoríase 3
+Afeções        dos                                          2
+                                                    da pele           cutânea       Angioedema
+tecidos cutâneos e
+                                                    Eritema 2         (causada por Urticária
+subcutâneas
+                                                                      extravasão) 2
+Afeções                                             Dor
+musculosqueléticas                                  musculosquelética
+                                                    4
+e    dos    tecidos
+conjuntivos
+Doenças renais e                                    Retenção urinária
+urinárias
+                                     Astenia        Arrepios                      Flebite no local
+                                     Fadiga         Pirexia                       de perfusão
+                                     Reação no Edema 2                            Vesículas no
+                                                        2
+                                     local     de Dor                             local        de
+                                     injeção.       Queimadura      no            perfusão
+Perturbações                         Reação no local de perfusão                  Empolamento 2
+gerais e alterações                  local     de Equimose no local
+no      local    de                  perfusão       de perfusão
+administração                        Inflamação
+                                     do local de
+                                     perfusão
+                                     Tumefação
+                                     no local de
+                                     perfusão
+       1
+         Tonturas e diaforese estão associadas à hipotensão sintomática.
+       2
+         Associado às reações no local de injeção e de perfusão.
+       3
+         Os beta-bloqueadores como classe farmacológica podem, em algumas situações, causar
+       psoríase ou piorar o seu estado.
+                                                                        APROVADO EM
+                                                                        30-08-2016
+                                                                        INFARMED
+4
+    Incluindo dor no centro cápular e costocondrite.
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-risco
+do medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas
+de reações adversas através do sistema nacional de notificação:
+
+INFARMED, I.P.
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+Fax: + 351 21 798 73 97
+Sítio da internet: http://extranet.infarmed.pt/page.seram.frontoffice.seramhomepage
+E-mail: farmacovigilancia@infarmed.pt
+
+4.9       Sobredosagem
+
+Foram observados casos de sobredosagem acidental com soluções concentradas de
+Esmolol Hikma. Alguns destes casos de sobredosagem revelaram-se fatais, enquanto
+outros originaram incapacidades permanentes. As doses de carga no intervalo de 625 mg
+a 2,5 g (12,5 a 50 mg/kg) foram fatais.
+
+Sintomas
+No caso de sobredosagem, os seguintes sintomas podem ocorrer: hipotensão grave,
+bradicardia sinusal, bloqueio atrioventricular, insuficiência cardíaca, choque
+cardiogénico, paragem cardíaca, broncospasmo, insuficiência respiratória, perda de
+consciência que pode evoluir para coma, convulsões, náuseas, vómitos, hipoglicemia e
+hipercaliemia.
+
+Tratamento
+Devido à curta semivida de eliminação do Esmolol Hikma (aproximadamente 9 minutos),
+a primeira fase na gestão da toxicidade deve ser a interrupção da administração do
+fármaco.
+O tempo necessário para os sintomas desaparecerem após a sobredosagem depende da
+quantidade de Esmolol Hikma administrado. Pode demorar mais do que 30 minutos a
+descontinuação dos níveis de doses terapêuticas de Esmolol Hikma. Pode ser necessário
+recorrer a ventilação assistida. Com base nos efeitos clínicos observados, devem ainda
+considerar-se as seguintes medidas gerais:
+
+Bradicardia: deve ser administrado por via intravenosa atropina ou outro fármaco
+anticolinérgico. Se a bradicardia não puder ser convenientemente tratada, poderá ser
+necessário recorrer à colocação de um pacemaker.
+                                                                        APROVADO EM
+                                                                        30-08-2016
+                                                                        INFARMED
+
+
+Broncospasmo: devem ser administrados simpaticomiméticos beta-2 por nebulização.
+Caso não seja suficiente, pode ser considerada a utilização, por via intravenosa, de
+simpaticomiméticos beta-2 ou aminofilina.
+
+Hipotensão sintomática: devem ser administrados, por via intravenosa, fluidos e/ou
+vasopressores.
+
+Depressão cardiovascular ou choque cardíaco: podem ser administrados diuréticos ou
+simpaticomiméticos. A dose de simpaticomiméticos (dependendo dos sintomas:
+dobutamina, dopamina, noradrenalina, isoprenalina, etc.) depende do efeito terapêutico
+pretendido.
+
+No caso de ser necessário tratamento adicional, os seguintes agentes podem ser
+administrados por via intravenosa, com base na situação clínica e opinião do profissional
+de saúde responsável pelo tratamento:
+•      atropina;
+•      agentes inotrópicos;
+•      iões de cálcio.
+
+
+5.     PROPRIEDADES FARMACOLÓGICAS
+
+5.1    Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 3.2.2 – Aparelho Cardiovascular.               Antiarrítmicos.
+Bloqueadores Adrenérgicos beta (Classe II), código ATC: C07AB09
+
+O Esmolol Hikma é um agente bloqueador do recetor andrenérgico seletivo beta
+(cardiosselectivo). Em doses terapêuticas, o Esmolol Hikma não tem qualquer atividade
+simpaticomimética intrínseca (ASI) significativa ou atividade estabilizadora de
+membrana.
+O cloridrato de esmolol, substância ativa de Esmolol Hikma, está quimicamente
+relacionado com a classe propanolamina fenoxi de beta-bloqueadores.
+Com base nas suas propriedades farmacológicas, o Esmolol Hikma tem um início rápido
+e uma curta duração de ação, na qual a dose pode ser rapidamente ajustada.
+Quando uma dose de carga apropriada é utilizada, são alcançados níveis sanguíneos
+estabilizados em 5 minutos. Contudo, o efeito terapêutico é alcançado antes da
+estabilização da concentração no plasma. A velocidade de perfusão pode então ser
+ajustada, para obter o efeito farmacológico pretendido.
+O Esmolol Hikma apresenta o conhecido efeito hemodinâmico e eletrofisiológico
+característico dos beta-bloqueadores:
+
+•      Redução da frequência cardíaca em repouso ou durante exercício;
+•      Redução do aumento da frequência cardíaca originado pela isoprenalina;
+                                                                       APROVADO EM
+                                                                       30-08-2016
+                                                                       INFARMED
+
+•      Aumento do tempo de recuperação do nó sinusal;
+•      Atraso na condução AV;
+•      Prolongamento do intervalo AV a um ritmo sinusal normal e durante a
+estimulação do átrio sem atraso no tecido His-Purkinje;
+•      Prolongamento do tempo PQ, indução do bloqueio AV de grau II;
+•      Prolongamento do período refratário funcional dos átrios e ventrículos;
+•      Efeito inotrópico negativo com fração de ejeção diminuída;
+•      Diminuição da tensão arterial.
+
+População pediátrica
+Um estudo farmacocinético/de eficácia não controlado foi levado a cabo em 26 doentes
+pediátricos com idades entre os 2 e os 16 anos, com taquicardia supraventricular (TSV).
+Uma dose de carga de 1000 microgramas/kg de Esmolol Hikma foi administrada, seguida
+por uma perfusão contínua de 300 microgramas/kg/minuto. A TSV foi determinada em
+65% dos doentes nos primeiros 5 minutos da administração de esmolol.
+
+Num estudo de comparação de doses aleatorizado e não controlado, a eficácia foi
+avaliada em 116 doentes pediátricos com idades entre 1 semana e 7 anos com
+hipertensão, devido a reparação da coartação da aorta. Os doentes receberam uma
+perfusão inicial de 125 microgramas/kg, 250 microgramas/kg ou 500 microgramas/kg,
+seguida de uma perfusão contínua de 125 microgramas/kg/minuto, 250
+microgramas/kg/minuto ou 500 microgramas/kg/minuto respetivamente. Não foi
+registada nenhuma diferença significativa no efeito hipotensivo entre os 3 grupos de
+dosagem. Sendo que 54% do total dos doentes necessitou de medicação adicional ao
+Esmolol Hikma para alcançar um controlo da tensão arterial satisfatório. Não houve
+nenhuma diferença aparente relativamente a este parâmetro entre os diferentes grupos de
+dosagem.
+
+5.2    Propriedades farmacocinéticas
+
+A cinética de esmolol mostrou ser linear em adultos saudáveis, a concentração no plasma
+é proporcional à dose. Se uma dose de carga não for utilizada, as concentrações estáveis
+no sangue serão alcançadas em 30 minutos, com doses de 50 a 300
+microgramas/kg/minuto.
+
+A semivida de distribuição do cloridrato de esmolol é muito rápida, sendo cerca de 2
+minutos.
+
+O volume de distribuição é de 3,4 l/kg.
+
+O cloridrato de esmolol é metabolizado por esterases num metabolito ácido (ASL-8123) e
+metanol. Isto ocorre através da hidrólise do grupo éster, pelas esterases contidas nos
+eritrócitos.
+                                                                      APROVADO EM
+                                                                      30-08-2016
+                                                                      INFARMED
+
+O metabolismo do cloridrato de esmolol é independente quando a dose está entre 50 e
+300 microgramas/kg/minuto.
+
+O cloridrato de esmolol liga-se a 55% das proteínas plasmáticas humanas, comparado
+com o metabolito ácido que se liga apenas a 10%.
+
+A semivida de eliminação após a administração intravenosa é de aproximadamente 9
+minutos.
+
+A depuração total é de 285 ml/kg/minuto; sendo independente da circulação hepática ou
+de qualquer outro órgão. O cloridrato de esmolol é excretado pelos rins, parcialmente
+inalterado (menos de 2% da dose administrada), e parcialmente como metabolito ácido
+que apresenta uma atividade beta-bloqueadora fraca (menos de 0,1% do esmolol). O
+metabolito ácido é excretado através da urina e tem uma semivida de cerca de 3,7 horas.
+
+População pediátrica
+Um estudo farmacocinético foi levado a cabo em 22 doentes pediátricos com idades entre
+os 3 e os 16 anos. Foi administrada uma dose de carga de 1000 microgramas/kg de
+Esmolol Hikma, seguida por uma perfusão contínua de 300 microgramas/kg/minuto. A
+média de depuração corporal total observada foi de 119 ml/kg/minuto, o volume médio
+de distribuição de 283 ml/kg e a média da semivida de eliminação terminal de 6,9
+minutos, indicando que a cinética do Esmlol Hikma em crianças é semelhante à dos
+adultos. Contudo, foi observada grande variação entre os indivíduos.
+
+5.3    Dados de segurança pré-clínica
+
+Não foi observado qualquer efeito teratogénico em estudos em animais. No caso dos
+coelhos, foi observado um efeito tóxico embrionário (aumento da reabsorção fetal),
+provavelmente causado por Esmlol Hikma. Este efeito foi observado em doses pelo
+menos 10 vezes superiores à dose terapêutica. Não foram realizados estudos sobre o
+efeito de Esmlol Hikma na fertilidade nem nos períodos peri-natal e pós-natal. O Esmlol
+Hikma não revelou ser mutagénico nos vários sistemas de teste in vitro e in vivo. A
+segurança de Esmlol Hikma não foi examinada em estudos a longo prazo.
+
+
+6.     INFORMAÇÕES FARMACÊUTICAS
+
+6.1.   Lista dos excipientes
+
+Acetato de sódio tri-hidratado, ácido acético glacial, hidróxido de sódio e/ou ácido
+clorídrico para ajuste de pH e água para preparações injetáveis.
+
+6.2    Incompatibilidades
+                                                                       APROVADO EM
+                                                                       30-08-2016
+                                                                       INFARMED
+
+Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado
+com outros medicamentos ou com soluções de bicarbonato de sódio.
+
+6.3      Prazo de validade
+
+2 anos
+
+A estabilidade química e física durante a utilização foi demonstrada durante 24 horas
+entre 2 e 8° C.
+
+De um ponto de vista microbiológico, o medicamento deve ser utilizado imediatamente.
+Se não for utilizado imediatamente os tempos e condições de armazenamento antes da
+utilização são da responsabilidade do utilizador e normalmente não devem ser superiores
+a 24 horas entre 2ºC e 8ºC, a não ser que a abertura da embalagem tenha ocorrido em
+condições assépticas controladas e validadas.
+
+6.4      Precauções especiais de conservação
+
+Não conservar acima de 25°C.
+Conservar na embalagem de origem para proteger da luz.
+Condições de conservação do medicamento após primeira abertura, ver secção 6.3.
+
+6.5      Natureza e conteúdo do recipiente
+
+10 ml em frasco para injetáveis de vidro âmbar tipo I com rolha de borracha de
+bromobutilo.
+Embalagem: 10 frascos
+
+6.6      Precauções especiais de eliminação <e manuseamento>
+
+Para utilização única.
+
+Evitar o contato com substâncias alcalinas.
+
+Antes da administração a solução deve ser visualmente inspecionada quanto a partículas e
+alteração da cor. Apenas devem ser utilizadas as soluções transparentes e incolores ou
+ligeiramente coloridas. Os produtos não utilizados ou os resíduos devem ser eliminados
+de acordo com as exigências locais.
+
+7.       TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Hikma Farmacêutica (Portugal) S.A.
+Estrada do Rio da Mó, nº8, 8A e 8B
+Fervença
+2705-906 Terrugem SNT
+                                                    APROVADO EM
+                                                    30-08-2016
+                                                    INFARMED
+
+Portugal
+
+
+8.     NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+
+9.    DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO
+DE INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: {DD de mês de AAAA}
+
+
+10.    DATA DA REVISÃO DO TEXTO
+

@@ -1,0 +1,43 @@
+{
+  "medId": "biperideno-lactato",
+  "searchTerm": "Akineton",
+  "retrievedAt": "2026-02-08T00:00:00.000Z",
+  "bestMatch": {
+    "infarmedId": "8232207",
+    "name": "Akineton",
+    "dci": "Biperideno",
+    "form": "Solução injetável",
+    "dosage": "5 mg/ml",
+    "holder": "Desma Laboratorio Farmaceutico, S.L.",
+    "score": 1.0,
+    "generic": false,
+    "processNumber": "6/60/67",
+    "administration": ["Via intramuscular", "Via intravenosa"],
+    "classification": {
+      "atc": "N04AA02 - biperiden",
+      "farmacoterapeutica": "2.5.1 - Anticolinérgicos"
+    },
+    "aimDate": "30/10/1969",
+    "lastUpdated": "19/06/2024"
+  },
+  "documents": {
+    "rcm": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "rcm/8232207-rcm.pdf",
+      "size": 42000,
+      "method": "POST with form state",
+      "lastUpdated": "19/06/2024"
+    },
+    "fi": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "fi/8232207-fi.pdf",
+      "size": 40000,
+      "method": "POST with form state",
+      "lastUpdated": "19/06/2024"
+    }
+  }
+}

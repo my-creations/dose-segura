@@ -1,0 +1,31 @@
+{
+  "medId": "suxametonio-cloreto",
+  "searchTerm": "suxametonio",
+  "retrievedAt": "2026-02-09T00:48:29.007Z",
+  "bestMatch": {
+    "infarmedId": "623970",
+    "name": "Suxametónio Aguettant",
+    "dci": "Cloreto de suxametónio",
+    "form": "Solução injetável em seringa pré-cheia",
+    "dosage": "100 mg/10 ml",
+    "holder": "Laboratoire Aguettant, S.A.",
+    "isGeneric": false,
+    "score": 150
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/623970-rcm.pdf",
+      "size": 115312
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/623970-fi.pdf",
+      "size": 101075
+    }
+  }
+}

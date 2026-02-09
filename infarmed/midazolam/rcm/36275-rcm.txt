@@ -1,0 +1,777 @@
+                                                               APROVADO EM
+                                                               27-03-2024
+                                                               INFARMED
+
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1. Nome do Medicamento
+Midazolam Basi 5 mg/ml solução injetável
+
+2. Composição Qualitativa e Quantitativa
+Cada ml de solução contém 5 mg de midazolam (DCI).
+Uma ampola de 3 ml contém 15 mg de midazolam.
+Uma ampola de 10 ml contém 50 mg de midazolam.
+Excipientes com efeito conhecido:
+Cloreto de sódio - 5 mg por ml
+Hidróxido de sódio - para ajuste do pH (q.b.p. pH 2,7 - 3,7)
+Lista completa de excipientes, ver secção 6.1.
+
+3. Forma Farmacêutica
+Solução Injetável
+
+4. Informações Clínicas
+4.1 Indicações terapêuticas
+O midazolam é um fármaco indutor do sono de ação curta e indicado em:
+Adultos:
+- Sedação consciente antes e durante procedimentos de diagnósticos ou
+terapêuticos, com ou sem anestesia local.
+- Anestesia:
+- Pré-medicação antes da indução da anestesia;
+- Indução da anestesia;
+- Como componente sedativo em anestesia combinada;
+- Sedação em unidade de cuidados intensivos.
+Crianças:
+- Sedação consciente antes e durante procedimentos de diagnósticos ou
+terapêuticos, com ou sem anestesia local.
+- Anestesia:
+- Pré-medicação antes da indução da anestesia;
+- Sedação em unidade de cuidados intensivos.
+4.2 Posologia e modo de administração
+O midazolam é um fármaco sedativo potente que requer titulação e administração
+lenta. Recomenda-se vivamente a titulação para se obter o nível de sedação
+pretendido de uma forma segura, de acordo com a necessidade clínica, o estado
+físico, a idade e a medicação concomitante. Em adultos com mais de 60 anos de
+idade, em doentes com doença crónica ou debilitados e em doentes pediátricos, a
+dose tem de ser cuidadosamente definida, tendo em consideração os fatores de
+                                                                APROVADO EM
+                                                                27-03-2024
+                                                                INFARMED
+
+risco associados a cada doente. No quadro seguinte indicam-se as posologias
+habituais, sendo as informações detalhadas apresentadas no texto posterior.
+Indicação          Adultos < 60 anos Adultos ≥ 60 anos Crianças
+Sedação consciente i.v.                i.v.               i.v. em doentes
+                   Dose inicial: 2 – Dose inicial: 0.5-1 com 6 meses – 5
+                   2.5 mg              mg                 anos de idade
+                   Dose de titulação: Dose de titulação: Dose inicial: 0.05-
+                   1 mg                0.5-1 mg           0.1 mg/Kg
+                   Dose total: 3.5 – Dose total: < 3.5 Dose total: < 6 mg
+                   7.5 mg              mg                 i.v. em doentes
+                                                          com 6-12 anos
+                                                          Dose inicial: 0.025
+                                                          –0.05 mg/Kg
+                                                          Dose total: <10 mg
+                                                          i.m. 1-15 anos
+                                                          0.05-0.15 mg/Kg
+Pré-medicação em i.m.                  i.m.               i.m. 1 – 15 anos
+anestesia          0.07 – 0.1 mg/Kg 0.025 – 0.05 0.08 – 0.2 mg/Kg
+                                       mg/Kg
+Indução         da i.v.                i.v.
+anestesia          0.15 – 0.2 mg/Kg ( 0.1 – 0.2 mg/Kg
+                   0.3 – 0.35 sem (0.15 – 0.3 sem
+                   pré-medicação)      pré-medicação)
+Componente         i.v.                i.v.
+sedativo       em doses intermitentes doses inferiores às
+anestesia          de 0.03 – 0.1 recomendadas para
+combinada          mg/Kg ou perfusão adultos < 60 anos
+                   contínua de 0.03 –
+                   0.1 mg/Kg/h
+Sedação na UCI     i.v.                                   i.v. em recém-
+                   Dose de carga: 0.03 – 0.3 mg/Kg com nascidos < 32
+                   aumentos de 1 – 2.5 mg                 semanas          de
+                   Doses de manutenção: 0.03 – 0.2 gestação
+                   mg/Kg/h                                0.03 mg/Kg/h
+                                                          i.v. em recém-
+                                                          nascidos > 32
+                                                          semanas e crianças
+                                                          até aos 6 meses
+                                                          0.06 mg/Kg/h
+                                                          i.v. em doentes > 6
+                                                          meses
+                                                          Dose de carga:
+                                                          0.05-0.2 mg/Kg
+                                                          Dose             de
+                                                          manutenção: 0.06
+                                                          – 0.12 mg/Kg/h
+Posologia na Sedação consciente:
+Para sedação consciente antes de intervenções de diagnóstico ou cirúrgicas, o
+midazolam é administrado por via intravenosa. A dose tem de ser individualizada e
+titulada e não deverá ser administrada por injeção em bólus único. O início da
+sedação pode variar individualmente, dependendo do estado físico do doente e das
+circunstâncias em que é feita a administração (por exemplo a velocidade de
+administração, dose administrada). Caso seja necessário, podem ser administradas
+                                                                  APROVADO EM
+                                                                  27-03-2024
+                                                                  INFARMED
+
+doses subsequentes de acordo com as necessidades individuais. O início da ação
+ocorre cerca de 2 minutos após a administração da injeção. O efeito é obtido em
+cerca de 5 a 10 minutos.
+Adultos:
+A injeção IV de midazolam deve ser administrada lentamente a uma velocidade de
+1 mg por 30 segundos, aproximadamente. No adulto com idade inferior a 60 anos a
+dose inicial é de 2 a 2,5 mg, administrada 5-10 minutos antes do início da
+intervenção. Posteriormente, podem ser administradas doses adicionais de 1mg.
+Verificou-se que, em média, a dose total varia entre 3,5 – 7,5 mg. Geralmente, não
+é necessária uma dose total superior a 5 mg. No adulto com mais de 60 anos de
+idade, em doentes com doença crónica ou debilitados, deve começar-se por
+administrar uma dose de 0,5 a 1 mg. Posteriormente, podem ser administradas
+doses adicionais de 0,5 – 1 mg, caso seja necessário. Geralmente, não é necessária
+uma dose total superior a 3,5 mg.
+Crianças:
+Administração IV: o midazolam deve ser titulado lentamente até obtenção do efeito
+clínico desejado. A dose inicial de midazolam deve ser administrada durante 2 a 3
+minutos. Deve aguardar-se mais 2 a 5 minutos para uma completa avaliação do
+efeito sedativo antes de iniciar-se a intervenção ou de se repetir a dose. Caso seja
+necessária sedação adicional, continuar a titulação com pequenos incrementos de
+dose até atingir o grau de sedação pretendido. Os bebés e as crianças com menos
+de 5 anos de idade podem precisar de doses substancialmente mais elevadas
+(mg/Kg) do que as crianças mais velhas e os adolescentes.
+Doentes pediátricos com menos de 6 meses de idade: os doentes pediátricos com
+menos de 6 meses de idade são particularmente vulneráveis à obstrução das vias
+respiratórias e à hipoventilação, pelo que não se recomenda a utilização da sedação
+consciente em crianças com idade inferior a 6 meses.
+Doentes pediátricos com idade entre os 6 meses e os 5 anos: a dose inicial é de
+0,05 a 0,1 mg/Kg. Pode ser necessária uma dose total até 0,6 mg/Kg para atingir o
+efeito desejado, mas a dose total não deverá exceder 6 mg. As doses mais
+elevadas podem estar associadas a sedação prolongada e a risco de ocorrência de
+hipoventilação.
+Doentes pediátricos com idade entre os 6 e os 12 anos: a dose inicial é de 0,025 a
+0,05 mg/Kg. Pode ser necessária uma dose total até 0,4 mg/Kg, até ao máximo de
+10 mg. As doses mais elevadas podem estar associadas a sedação prolongada e a
+risco de ocorrência de hipoventilação.
+Doentes pediátricos com idade entre os 12 e os 16 anos: deverão ser tratados com
+as doses aplicáveis aos adultos.
+Administração intramuscular: as doses utilizadas variam entre 0,05 e 0,15 mg/Kg.
+Normalmente, não é necessária uma dose total superior a 10,0 mg. Esta via de
+administração só deverá ser utilizada em casos excecionais uma vez que a
+administração intramuscular é dolorosa.
+Em crianças com menos de 15 Kg de peso corporal não se recomenda a utilização
+de soluções de midazolam com concentrações superiores a 1 mg/ml. As soluções
+mais concentradas devem ser diluídas até 1 mg/ ml.
+Posologia em anestesia
+Pré-medicação:
+A pré-medicação com midazolam administrada pouco tempo antes de uma
+intervenção origina sedação (indução do sono ou sonolência e redução da
+                                                                  APROVADO EM
+                                                                  27-03-2024
+                                                                  INFARMED
+
+ansiedade) e comprometimento pré-operatório da memória. O midazolam também
+pode ser administrado por via IM profunda na região glútea, 20 – 60 minutos antes
+da indução da anestesia. É mandatória a observação adequada do doente após a
+administração da pré-medicação, uma vez que a sensibilidade inter-individual é
+variável e poderão ocorrer sintomas de sobredosagem.
+Adultos:
+Para sedação no pré-operatório e para limitar a memória dos acontecimentos do
+pré-operatório, a dose recomendada no adulto, com condição física I ou II da
+classificação ASA, e em doentes com idade inferior a 60 anos é de 0,07 a 0,1
+mg/Kg administrada por via IM. A dose tem que ser reduzida e individualizada
+quando o midazolam é administrado em adultos com mais de 60 anos, em doentes
+com doença crónica ou debilitados. Recomenda-se uma dose de 0,025 a 0,05
+mg/Kg por via IM. A dose habitual é de 2-3 mg.
+Crianças:
+Administração intramuscular: uma vez que a injeção IM é dolorosa, esta via deverá
+ser utilizada apenas em casos excecionais. No entanto, uma dose entre 0,08 e 0,2
+mg/Kg de midazolam, administrada por via IM, demonstrou ser eficaz e segura. Em
+crianças com idade compreendida entre 1 e 15 anos são necessárias doses
+proporcionalmente (relativamente ao peso corporal) mais elevadas do que no
+adulto.
+Não é recomendada a utilização em crianças com idade inferior a 6 meses, pois os
+dados disponíveis são limitados.
+Não se recomenda a administração de soluções de midazolam com concentrações
+superiores a 1 mg/ml em crianças com peso corporal inferior a 15 Kg.
+Concentrações superiores devem ser diluídas para 1 mg/ml.
+Indução da anestesia:
+Adultos:
+Se o midazolam for utilizado na indução da anestesia antes da administração de
+outros fármacos anestésicos, a resposta individual é variável. A dose deve ser
+titulada até ao efeito desejado, de acordo com a idade e o estado clínico do doente.
+Quando o midazolam é utilizado antes ou em associação com outros fármacos
+indutores da anestesia, administrados por via IV ou inalatória, a dose inicial de
+cada fármaco deverá ser reduzida significativamente. O grau de anestesia desejado
+é atingido por titulação seriada. A dose de midazolam administrada por via
+intravenosa para indução da anestesia deve ser administrada lentamente em
+pequenas doses parciais. Cada uma dessas doses (não superior a 5 mg) deve ser
+injetada durante cerca de 20 – 30 segundos, com intervalo de 2 minutos entre
+doses sucessivas.
+Em adultos com idade inferior a 60 anos, é normalmente suficiente uma dose de
+0,15 a 0,2 mg/Kg administrada por via IV. Em doentes sem pré-medicação, com
+idade inferior a 60 anos, a dose pode ser superior (0,3 a 0,35 mg/Kg, IV). Se for
+necessário completar a indução podem utilizar-se pequenas doses de
+aproximadamente 25% da dose inicial determinada para o doente. A indução pode,
+em alternativa, ser completada com anestésico para inalação. Em casos resistentes,
+pode utilizar-se uma dose total até 0,6 mg/Kg para indução, mas doses tão
+elevadas podem prolongar o período de recuperação.
+Em adultos com mais de 60 anos de idade, em doentes crónicos ou debilitados, a
+dose é de 0,1 a 0,2 mg/Kg administrada por via IV. Normalmente, adultos com
+                                                                APROVADO EM
+                                                                27-03-2024
+                                                                INFARMED
+
+mais de 60 anos de idade, não pré-medicados, requerem uma quantidade superior
+de midazolam para indução, recomendando-se uma dose inicial de 0,15 a 0,3
+mg/Kg. Doentes não pré-medicados, com doença sistémica grave ou outra
+patologia debilitante, normalmente requerem uma dose inferior de midazolam para
+a indução. Habitualmente, é suficiente uma dose inicial de 0,15 a 0,25 mg/ Kg.
+Componente sedativo em anestesia combinada:
+Adultos:
+O midazolam pode ser administrado como componente sedativo em anestesia
+combinada quer em pequenas doses (entre 0,03 e 0,1 mg/Kg) administradas
+intermitentemente por via intravenosa, quer por perfusão intravenosa contínua
+(entre 0,03 a 0,1 mg/Kg/h), tipicamente em associação com analgésicos. A dose e
+os intervalos entre as mesmas variam com a reação individual do doente. Em
+adultos com mais de 60 anos de idade, em doentes crónicos ou debilitados, as
+doses de manutenção necessárias serão inferiores.
+Sedação em unidade de cuidados intensivos:
+O grau de sedação desejado é obtido por titulação do midazolam seguida de
+perfusão contínua ou bólus intermitente, de acordo com a necessidade clínica, o
+estado físico, a idade e a medicação concomitante (ver 4.5 Interações
+medicamentosas e outras formas de interação).
+Adultos:
+Dose de carga intravenosa: 0,03 a 0,3 mg/Kg administrada lentamente, repartida
+em pequenas doses. Cada dose de 1 a 2,5 mg deve ser injetada durante 20-30
+segundos, aguardando 2 minutos entre doses sucessivas. Em doentes
+hipovolémicos, com vasoconstrição ou hipotérmicos, a dose de carga deve ser
+reduzida ou omitida. Quando se utiliza o midazolam associado a analgésicos
+potentes, estes devem ser administrados em primeiro lugar, para que o efeito
+sedativo do midazolam possa ser titulado com segurança na presença de eventual
+sedação causada pelo analgésico.
+Dose de manutenção: as doses podem variar entre 0,03 – 0,2 mg/Kg. Em doentes
+hipovolémicos, com vasoconstrição, ou hipotérmicos, a dose de manutenção deve
+ser reduzida. O grau de sedação deve ser avaliado regularmente. Em sedação
+prolongada, poderá desenvolver-se tolerância e a dose poderá ter que ser
+aumentada.
+Crianças com mais de 6 meses de idade:
+Em doentes pediátricos entubados e ventilados, deve administrar-se lentamente
+uma dose de carga de 0,05 a 0,2 mg/Kg por via intravenosa, durante pelo menos 2
+a 3 minutos, para estabelecer o efeito clínico desejado. O midazolam não deve ser
+administrado em dose intravenosa rápida. A dose de carga é seguida por perfusão
+intravenosa contínua de 0,06 a 0,12 mg/Kg/h (1 a 2 µg/Kg/min). A velocidade de
+perfusão pode ser aumentada ou diminuída (geralmente em 25% da velocidade de
+perfusão inicial ou subsequente) de acordo com o requerido, ou podem ser
+administradas doses suplementares de midazolam por via intravenosa para
+aumentar ou manter o efeito desejado.
+Ao iniciar uma perfusão de midazolam em doentes com comprometimento
+hemodinâmico, a dose de carga habitual deve ser titulada gradualmente e o doente
+monitorizado relativamente à instabilidade hemodinâmica, por exemplo a
+hipotensão. Estes doentes são igualmente vulneráveis aos efeitos depressores
+                                                                  APROVADO EM
+                                                                  27-03-2024
+                                                                  INFARMED
+
+respiratórios do midazolam, requerendo monitorização cuidadosa da frequência
+respiratória e da saturação em oxigénio.
+Recém-nascidos e crianças até aos 6 meses de idade:
+O midazolam deve ser administrado sob a forma de perfusão intravenosa contínua,
+começando por 0,03 mg/Kg/h (0,5 µg/Kg/min) em recém-nascidos com idade
+gestacional < 32 semanas ou por 0,06 mg/Kg/h (1µg/Kg/min) em recém-nascidos
+com idade gestacional > 32 semanas e crianças até aos 6 meses.
+Em crianças prematuras, recém-nascidos e crianças até aos 6 meses, não se
+recomenda a administração de uma dose de carga intravenosa. Em seu lugar pode
+aumentar-se a velocidade de administração da perfusão durante as primeiras
+horas, de modo a estabelecer os níveis plasmáticos terapêuticos. A velocidade de
+perfusão deverá ser frequente e cuidadosamente reavaliada, particularmente após
+as primeiras 24 horas de tratamento, de modo a administrar a menor dose eficaz
+possível e reduzir a potencial acumulação do fármaco.
+É necessária uma cuidadosa monitorização da frequência respiratória e da
+saturação em oxigénio.
+Em prematuros, recém-nascidos e crianças com menos de 15 Kg de peso corporal,
+não se recomenda a utilização de soluções de midazolam com concentrações
+superiores                                                                         a
+1 mg/ml. As soluções de concentração superior deverão ser diluídas até 1 mg/ml.
+4.3 Contraindicações
+A utilização deste fármaco está contraindicada em doentes com conhecida
+hipersensibilidade à substância ativa, às benzodiazepinas ou a qualquer um dos
+excipientes mencionados na secção 6.1.
+De igual modo, está contraindicado o seu uso para sedação consciente em doentes
+com insuficiência respiratória grave ou depressão respiratória aguda.
+4.4 Advertências e precauções especiais de utilização
+O midazolam só deverá ser utilizado quando existirem condições para a prática de
+técnicas de reanimação, adequadas à idade e tamanho do doente, uma vez que a
+administração intravenosa de midazolam pode deprimir a contratibilidade do
+miocárdio e causar apneia. Em ocasiões raras, ocorreram acontecimentos adversos
+graves do foro cardiorespiratório, incluindo depressão respiratória, apneia, paragem
+respiratória e/ou paragem cardíaca. Estes incidentes que põem a vida em risco
+ocorrem com maior probabilidade quando a injeção é administrada com demasiada
+rapidez ou quando é administrada uma dose elevada.
+Os doentes pediátricos com idade inferior a 6 meses são particularmente
+vulneráveis à obstrução das vias aéreas e à hipoventilação, pelo que é essencial
+uma titulação com pequenos incrementos até à obtenção do efeito clínico e uma
+monitorização cuidadosa da frequência respiratória e da saturação em oxigénio.
+Quando o midazolam é utilizado em pré-medicação, é mandatória uma observação
+adequada do doente após administração, uma vez que a sensibilidade inter-
+individual varia e podem ocorrer sintomas de sobredosagem.
+Deve ser tida especial precaução ao administrar-se o midazolam a doentes de alto
+risco:
+                                                                   APROVADO EM
+                                                                   27-03-2024
+                                                                   INFARMED
+
+adultos com idade superior a 60 anos;
+doentes crónicos ou debilitados, por exemplo:
+doentes com insuficiência respiratória crónica;
+doentes com insuficiência renal crónica, insuficiência hepática ou insuficiência
+cardíaca;
+doentes pediátricos, particularmente os doentes com instabilidade cardiovascular.
+Estes doentes de alto risco requerem doses mais baixas (ver 4.2. Posologia e modo
+de administração) e vigilância constante dos sintomas precoces de alteração das
+funções vitais.
+As benzodiazepinas devem ser utilizadas com extrema precaução em doentes com
+história clínica de dependência de álcool ou abuso de drogas.
+À semelhança do que acontece com outros fármacos com propriedades depressoras
+do sistema nervoso central e/ou relaxantes musculares deve ter-se especial
+precaução aquando da administração de midazolam a doentes com miastenia
+gravis.
+Risco da utilização concomitante de opioides:
+A utilização concomitante de Midazolam Basi e opioides pode resultar em sedação,
+depressão respiratória, coma e morte. Devido a estes riscos, a prescrição
+concomitante de medicamentos sedativos como benzodiazepinas ou fármacos
+relacionados como Midazolam Basi com opioides deve ser limitada a doentes nos
+quais não sejam possíveis opções de tratamento alternativas. Caso seja tomada a
+decisão de prescrever Midazolam Basi concomitantemente com opioides, deve ser
+utilizada a dose eficaz mais baixa, e a duração do tratamento deverá ser a mais
+curta possível (ver também recomendações posológicas gerais na secção 4.2).
+Os doentes devem ser cuidadosamente acompanhados para sinais e sintomas de
+depressão respiratória e sedação. A este respeito, é fortemente recomendado
+informar os doentes e os seus prestadores de cuidados (quando aplicável) a
+estarem atentos a estes sintomas (ver secção 4.5).
+Tolerância:
+Foi relatada alguma perda de eficácia quando o midazolam foi utilizado na sedação
+prolongada na Unidade de Cuidados Intensivos (UCI).
+Dependência:
+Quando o midazolam é utilizado na sedação prolongada na UCI, deve ter-se em
+consideração a possibilidade de desenvolvimento de dependência do midazolam. O
+risco de dependência aumenta com a dose e com a duração do tratamento.
+Sintomas de privação:
+Durante o tratamento prolongado com midazolam na UCI, pode desenvolver-se
+dependência física. Assim, a suspensão abrupta do tratamento far-se-á
+acompanhada de sintomas de privação. Podem ocorrer os seguintes sintomas:
+cefaleias, dores musculares, ansiedade, tensão, inquietude, confusão, irritabilidade,
+insónia rebound, alteração do humor, alucinações e convulsões. Uma vez que o
+risco de ocorrência de sintomas de privação é maior após descontinuação abrupta
+do tratamento, recomenda-se a diminuição gradual da dose.
+Amnésia:
+O midazolam causa amnésia anterógrada (por vezes este efeito é muito desejável,
+particularmente a amnésia antes e durante a intervenção cirúrgica ou de
+diagnóstico) cuja duração está diretamente relacionada com a dose administrada. A
+                                                                 APROVADO EM
+                                                                 27-03-2024
+                                                                 INFARMED
+
+amnésia pode constituir um problema para doentes em ambulatório, para os quais
+se prevê alta após a intervenção. Após administração de midazolam por via
+parentérica, o doente só deverá ter alta do hospital ou consultório, se sair
+acompanhado.
+Reações paradoxais:
+Tem sido relatada a ocorrência de reações paradoxais com o midazolam, tais como
+agitação, movimentos involuntários (incluindo convulsões tónico-clónicas e tremor
+muscular), hiperatividade, hostilidade, crise de fúria, agressividade, excitação
+paroxística e agressão. Estas reações podem ocorrer com doses elevadas e/ou
+quando a injeção é administrada rapidamente. A maior incidência destas reações foi
+reportada entre as crianças e os idosos.
+Eliminação prolongada do midazolam:
+A eliminação do midazolam pode ser alterada em doentes que estejam a receber
+compostos que inibam ou induzam o CYP 3A4 (ver 4.5. Interações medicamentosas
+e outras formas de interação).
+A eliminação de midazolam pode também ser prolongada em doentes com
+disfunção hepática, baixo débito cardíaco e em recém-nascidos (ver 5.2.
+Farmacocinética em populações especiais de doentes).
+Recém-nascidos e prematuros:
+Devido ao risco aumentado de apneia, aconselha-se extrema precaução aquando da
+sedação de prematuros ou de bebés que nasceram prematuramente. Requer-se
+uma monitorização cuidadosa da frequência respiratória e da saturação em
+oxigénio.
+Deve ser evitada a injeção rápida na população neonatal.
+Os recém-nascidos apresentam um funcionamento orgânico insuficiente ou imaturo,
+sendo também vulneráveis aos efeitos respiratórios profundos e/ou prolongados do
+midazolam.
+Foram reportados acontecimentos adversos hemodinâmicos em doentes pediátricos
+com instabilidade cardiovascular, pelo que a administração intravenosa rápida deve
+ser evitada nestas populações.
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por ml, ou seja,
+é praticamente “isento de sódio”.
+4.5 Interações medicamentosas e outras formas de interação
+O metabolismo do midazolam é quase exclusivamente mediado pelo CYP3A4 do
+citocromo P450 (CYP450). Os inibidores (ver 4.4. Advertências e precauções
+especiais de conservação) e indutores do CYP3A4 e também outras substâncias
+activas (ver abaixo), podem provocar interações medicamentosas com o
+midazolam.
+Uma vez que o midazolam sofre um significativo efeito de primeira passagem,
+quando administrado parentericamente será, teoricamente, menos afetado pelas
+interações metabólicas e as consequências clínicas relevantes serão limitadas.
+Itraconazol, fluconazol e cetoconazol:
+A administração concomitante de midazolam por via oral e de alguns antifúngicos
+azol (itraconazol, fluconazol, cetoconazol) aumentou marcadamente a concentração
+plasmática de midazolam, prolongou a semivida de eliminação e conduziu a um
+                                                                 APROVADO EM
+                                                                 27-03-2024
+                                                                 INFARMED
+
+maior comprometimento dos resultados dos testes de avaliação da psicosedação.
+As semividas de eliminação aumentaram, aproximadamente, de 3 para 8 horas.
+Quando se administrou uma dose única de midazolam em bólus para uma sedação
+de curta duração, o efeito de midazolam não foi aumentado nem prolongado de
+forma clinicamente significativa pelo itraconazol, pelo que não é necessária uma
+redução da dose. No entanto, a administração de doses mais elevadas ou de
+perfusões de longa duração de midazolam a doentes em tratamento com
+itraconazol, fluconazol ou cetoconazol, por exemplo em tratamentos nos cuidados
+intensivos, pode resultar em efeitos hipnóticos prolongados, num possível atraso da
+recuperação e numa possível depressão respiratória, o que exige o ajuste da dose.
+Verapamil e diltiazem
+Não existem estudos de interação in vivo disponíveis com o midazolam
+administrado por via IV e o verapamil ou diltiazem.
+No entanto, como esperado, a farmacocinética do midazolam administrado por via
+oral varia de um modo clinicamente significativo quando este é associado a estes
+bloqueadores dos canais de cálcio, designadamente com valores de semivida e de
+concentração plasmática máxima de quase o dobro, resultando num desempenho
+fortemente reduzido nos testes de avaliação da função cognitiva e da coordenação
+e dando origem a uma sedação profunda. Quando se utiliza o midazolam por via
+oral, um ajuste da dose é normalmente recomendado. Apesar de não ser esperada
+nenhuma interação clinicamente significativa utilizando midazolam em sedação de
+curta duração, deve ter-se cuidado caso o midazolam, administrado por via IV, for
+administrado concomitantemente com verapamil ou diltiazem.
+Antibióticos macrólidos: Eritromicina e claritromicina
+A administração concomitante de midazolam por via oral e eritromicina ou
+claritromicina aumentou significativamente a AUC de midazolam em cerca de 4
+vezes, e mais do que duplicou a semivida de eliminação do midazolam, dependendo
+do estudo. Foram observadas alterações marcadas nos testes de avaliação
+psicomotora e é aconselhável um ajuste da dose de midazolam, se este for
+administrado oralmente, devido a uma recuperação significativamente mais lenta.
+Quando se administrou uma única dose de midazolam em bólus, para sedação de
+curta duração, o efeito do midazolam não aumentou nem se prolongou de forma
+clinicamente significativa devido à eritromicina, apesar de se ter registado uma
+diminuição significativa na depuração plasmática.
+Deve ter-se cuidado na administração intravenosa do midazolam
+concomitantemente com eritromicina ou claritromicina. Não foi registada nenhuma
+interação clinicamente significativa entre o midazolam e outros antibióticos
+macrólidos.
+Cimetidina e ranitidina
+A administração concomitante de midazolam intravenoso e cimetidina (em doses
+iguais ou superiores a 800 mg/dia) aumentou ligeiramente a concentração
+plasmática no estado de equilíbrio do midazolam, o que possivelmente poderá levar
+a uma recuperação mais tardia, enquanto que a coadministração de ranitidina não
+provocou nenhum efeito. A cimetidina e a ranitidina não afetam o perfil
+farmacocinético do midazolam administrado por via oral. Estes dados indicam que
+midazolam pode ser administrado por via IV em associação com as doses usuais de
+cimetidina (i.e. 400 mg/dia) ou de ranitidina sem necessidade de ajuste posológico.
+Saquinavir
+                                                                  APROVADO EM
+                                                                  27-03-2024
+                                                                  INFARMED
+
+A co- administração de uma dose única de 0,05 mg/Kg de midazolam por via IV, 3
+a 5 dias após a administração de saquinavir (1200 mg, 3 vezes por dia) a 12
+voluntários saudáveis, diminuiu a depuração do midazolam em cerca de 56 % e
+aumentou a semivida de eliminação de 4,1 para 9,5 horas. Apenas os efeitos
+subjetivos do midazolam (escalas visuais análogas com a designação “efeito
+cumulativo”) foram intensificados pelo saquinavir.
+Assim, o midazolam em dose única por bólus IV, pode ser administrado em
+associação com o saquinavir. No entanto, para evitar um atraso na recuperação,
+recomenda-se uma redução da dose total do midazolam administrado em perfusão
+prolongada (ver 4.4. Advertência e precauções especiais de utilização).
+Outros inibidores da protease: ritonavir, indinavir, nelfinavir e amprenavir
+Não existem estudos de interação in vivo disponíveis realizados com midazolam,
+administrado por via IV e outros inibidores da protease. Considerando que o
+saquinavir tem, entre todos os inibidores da protease, o menor potencial inibitório
+do CYP3A4, o midazolam deverá ser sistematicamente reduzido no decurso de
+perfusões prolongadas, quando administrado em associação com inibidores da
+protease, à exceção do saquinavir.
+Depressores do SNC
+Outros fármacos sedativos podem potenciar os efeitos do midazolam.
+As classes farmacológicas de depressores do SNC incluem os opiáceos (quando
+utilizados como analgésicos, antitússicos ou tratamentos de substituição), os
+antipsicóticos, outras benzodiazepinas utilizadas como ansiolíticos ou hipnóticos, o
+fenobarbital, os antidepressivos sedativos, os anti-histamínicos e os fármacos anti-
+hipertensores de ação central.
+Deverá ter-se em consideração a ocorrência de sedação adicional quando o
+midazolam é administrado em associação com outros fármacos sedativos.
+Além disso, deverá monitorizar-se em especial o aumento da depressão respiratória
+em caso de tratamento concomitante com opiáceos, fenobarbital ou
+benzodiazepinas.
+O álcool pode potenciar o efeito sedativo do midazolam. Deve evitar-se
+vigorosamente a ingestão de álcool, no caso de administração deste fármaco.
+Opioides:
+A utilização concomitante de medicamentos sedativos tais como benzodiazepinas
+ou fármacos relacionados como Midazolam Basi com opioides aumenta o risco de
+sedação, depressão respiratória, coma e morte devido ao efeito depressivo aditivo
+do SNC. A posologia e a duração da utilização concomitante devem ser limitadas
+(ver secção 4.4).
+Outras interações
+A administração IV de midazolam reduz a concentração alveolar mínima (CAM) de
+anestésicos para inalação, destinados à anestesia geral.
+4.6 Gravidez e aleitamento
+Gravidez
+Não existem dados suficientes para avaliar a segurança do midazolam durante a
+gravidez. Estudos realizados no animal não revelam efeitos teratogénicos, mas foi
+observada fetotoxicidade, tal como acontece com as outras benzodiazepinas. Não
+                                                                 APROVADO EM
+                                                                 27-03-2024
+                                                                 INFARMED
+
+existem dados disponíveis sobre a exposição durante os dois primeiros trimestres
+da gravidez.
+Quando se administram doses elevadas de midazolam no último trimestre de
+gravidez, durante o parto ou quando este foi utilizado como agente indutor da
+anestesia para cesarianas, registaram-se efeitos adversos, maternos e fetais (risco
+de aspiração na mãe, irregularidades no ritmo cardíaco do feto, hipotonia,
+dificuldades de sucção, hipotermia e depressão respiratória no recém-nascido).
+Além disso, as crianças cujas mães tenham feito tratamento prolongado com
+benzodiazepinas durante o período final da gravidez podem desenvolver
+dependência física e apresentar algum risco de desenvolverem sintomas de
+privação pós-natal.
+Consequentemente, o midazolam não deve ser utilizado durante a gravidez exceto
+quando estritamente necessário. É preferível evitar a sua utilização na cesariana.
+O risco para o recém-nascido deve ser tido em conta no caso de administração de
+midazolam em qualquer intervenção cirúrgica próxima do final do tempo de
+gestação.
+Aleitamento
+O midazolam passa para o leite materno em pequenas quantidades. As mães a
+amamentar devem ser aconselhadas a suspender o aleitamento nas 24 horas
+seguintes à administração de midazolam.
+4.7 Efeitos sobre a capacidade de condução e utilização de máquinas
+A sedação, a amnésia, a diminuição da concentração e a diminuição da capacidade
+muscular podem afetar de forma adversa a capacidade de conduzir e utilizar
+máquinas. Antes da administração do midazolam, os doentes devem ser avisados
+de que não podem conduzir nem operar máquinas até completa recuperação. O
+médico deve decidir em que altura estas atividades podem ser retomadas.
+Recomenda-se que o doente seja acompanhado no seu regresso a casa após
+obtenção de alta.
+4.8 Efeitos indesejáveis
+Foram reportados muito raramente (<1/10.000) os seguintes efeitos indesejáveis
+com a administração de midazolam injetável:
+Doenças do sistema imunitário
+Reações de hipersensibilidade generalizada como reações cutâneas, reações
+cardiovasculares, broncoespasmos e choque anafilático.
+Doenças do sistema nervoso e perturbações do foro psiquiátrico
+Sonolência e sedação prolongada, redução da vigília, confusão, euforia,
+alucinações, fadiga, cefaleias, tonturas, ataxia, sedação pós-operatória, amnésia
+anterógrada cuja duração está relacionada diretamente com a dose administrada. A
+amnésia anterógrada pode ainda estar presente no final da intervenção e em casos
+isolados registou-se amnésia prolongada.
+Observaram-se reações paradoxais tais como agitação, movimentos involuntários
+(incluindo convulsões tónico-clónicas e tremores musculares), hiperatividade,
+hostilidade, crises de fúria, agressividade, excitação paroxística e agressão,
+particularmente em crianças e idosos. Foram reportadas convulsões, mais
+frequentemente nos recém-nascidos e prematuros. A utilização de midazolam
+mesmo
+                                                                 APROVADO EM
+                                                                 27-03-2024
+                                                                 INFARMED
+
+em doses terapêuticas pode conduzir ao desenvolvimento de dependência física
+após administração IV de midazolam por períodos prolongados. A suspensão
+abrupta do tratamento pode ser acompanhada de sintomas de privação, incluindo
+convulsões.
+Cardiopatias e Doenças respiratórias, torácicas e do mediastino
+Acontecimentos adversos graves cardiorrespiratórios como depressão respiratória,
+apneia, paragem respiratória e/ou cardíaca, hipotensão, alterações do ritmo
+cardíaco, efeitos vasodilatadores, dispneia, laringoespasmos.
+A ocorrência de incidentes que põem a vida em risco é mais provável em doentes
+adultos com mais de 60 anos ou em doentes com insuficiência respiratória ou
+cardíaca pré-existente, particularmente quando a injeção é administrada muito
+depressa ou as doses administradas são elevadas (ver 4.4. Advertência e
+precauções especiais de utilização).
+Doenças gastrointestinais
+Náuseas, vómitos, soluços, obstipação e secura da boca.
+Afeções dos tecidos cutâneos e subcutâneos
+Exantema cutâneo, urticária, prurido.
+Perturbações gerais e alterações no local de administração
+Eritema e dor no local de injeção, tromboflevite, trombose.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento
+é importante, uma vez que permite uma monitorização contínua da relação
+benefício-risco do medicamento. Pede-se aos profissionais de saúde que notifiquem
+quaisquer suspeitas de reações adversas diretamente ao INFARMED, I.P.:
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+e-mail: farmacovigilancia@infarmed.pt
+4.9 Sobredosagem
+Sintomas
+Os sintomas de sobredosagem consistem principalmente na intensificação dos
+efeitos farmacológicos como a sonolência, confusão mental, letargia e relaxamento
+muscular ou excitação paradoxal. Os sintomas mais graves são a perda de reflexos,
+hipotensão, depressão cardiorespiratória, apneia e coma.
+Tratamento
+Na maior parte dos casos, só é necessário a monitorização das funções vitais. No
+tratamento da sobredosagem deve ser dada especial atenção às funções
+respiratória e cardiovascular, na unidade de cuidados intensivos. O antagonista das
+benzodiazepinas, flumazenil, está indicado em casos de intoxicações graves,
+acompanhadas de coma e depressão respiratória. A utilização do flumazenil deve
+revestir-se de precauções nos casos de sobredosagem com múltiplos agentes e em
+                                                                 APROVADO EM
+                                                                 27-03-2024
+                                                                 INFARMED
+
+doentes epilépticos tratados previamente com benzodiazepinas. O flumazenil não
+deve ser utilizado em doentes medicados com fármacos antidepressivos tricícliclos,
+fármacos epileptogénicos ou em doentes com anomalias no ECG (prolongamento do
+QT ou do QRS).
+
+5. Propriedades Farmacológicas
+5.1 Propriedades farmacodinâmicas
+Grupo Farmacoterapêutico: II-8-a - Psicofármacos. Ansiolíticos, sedativos e
+hipnóticos.
+Código ATC: N05CD08
+O midazolam é um derivado do grupo das imidazobenzodiazepinas. A base livre é
+uma substância lipofílica de reduzida solubilidade em água. O azoto na posição 2 do
+anel imidazobenzodiazepínico confere à substância ativa a propriedade de formar
+sais hidrossolúveis com ácidos, a partir dos quais se obtêm soluções injetáveis
+estáveis e bem toleradas. A ação farmacológica do midazolam é caracterizada por
+uma curta duração de ação devido à rápida transformação metabólica. O
+midazolam possui um efeito sedativo indutor do sono de intensidade pronunciada.
+Tem ainda um efeito ansiolítico, anticonvulsivante e miorelaxante. Com a
+administração intramuscular ou intravenosa, observa-se uma amnésia anterógrada
+de curta duração (o doente não recorda os acontecimentos sucedidos durante o
+período de atividade máxima do fármaco).
+5.2 Propriedades farmacocinéticas
+Absorção
+Absorção após injeção intramuscular:
+A absorção de midazolam no tecido muscular é rápida e completa. A concentração
+plasmática máxima atinge-se em 30 minutos. A sua biodisponibilidade absoluta
+após injeção intramuscular é superior a 90 %.
+Distribuição
+Quando se injeta midazolam por via intravenosa, a curva da concentração
+plasmática em função do tempo apresenta uma ou duas fases de distribuição
+distintas. O volume de distribuição no estado de equilíbrio é de 0,7 – 1,2 L/Kg. A
+percentagem de ligação do midazolam às proteínas plasmáticas é de 96 - 98%,
+sendo a ligação à albumina a predominante. A passagem de midazolam para o
+líquido cefalorraquidiano é lenta e insignificante. No homem, foi demonstrado que o
+midazolam atravessa lentamente a barreira placentária e entra na circulação fetal.
+São detetadas pequenas quantidades de midazolam no leite materno.
+Metabolismo
+O midazolam é quase totalmente eliminado por biotransformação. Estima-se que o
+fígado seja o responsável pela excreção de 30 – 60% da dose de midazolam. O
+midazolam é hidroxilado pela isoenzima CYP3A4 do citocromo P450 e o α-
+hidroximidazolam é o principal metabolito no plasma e na urina. As concentrações
+plasmáticas de α- hidroximidazolam representam cerca de 12% do composto
+parental. O α- hidroximidazolam é farmacologicamente ativo, no entanto, a sua
+                                                                 APROVADO EM
+                                                                 27-03-2024
+                                                                 INFARMED
+
+contribuição para o efeito do midazolam administrado por via IV é mínima (cerca de
+10%).
+Eliminação
+Em voluntários saudáveis, o midazolam tem uma semivida de eliminação de 1,5 a
+2,5 horas. A depuração plasmática é da ordem de 300 a 500 ml/minuto. O
+midazolam é excretado maioritariamente por via renal (60 – 80% da dose injetada)
+e recuperado na forma de α- hidroximidazolam glucoroconjugado. É recuperada
+uma quantidade inferior a 1% da dose na urina como fármaco inalterado. A
+semivida de eliminação do α- hidroximidazolam é inferior a 1 hora. Quando se
+administra midazolam em perfusão intravenosa, a sua cinética de eliminação não
+difere da que se verifica quando o produto é aplicado em injeção por bólus.
+Farmacocinética em grupos especiais de doentes:
+Idosos: Nos adultos com mais de 60 anos de idade, a semivida de eliminação pode
+prolongar-se até quatro vezes.
+Crianças: A semivida de eliminação após administração IV de midazolam é menor
+nas crianças com 3 a 10 anos (1 – 1,5) do que no adulto. A diferença é consistente
+com uma depuração metabólica mais elevada na criança.
+Recém-nascidos: Em recém-nascidos, a semivida de eliminação é em média de 6 a
+12 horas, provavelmente devido à imaturidade hepática e à diminuição da
+depuração (ver 4.4. Advertências e precauções especiais de utilização).
+Obesos: A semivida é mais elevada em doentes obesos do que em doentes não
+obesos (5,9 vs 2,3 horas). Isto deve-se a um aumento de aproximadamente 50%
+do volume de distribuição corrigido para o peso corporal total. Na depuração não
+existem diferenças significativas entre doentes obesos e não obesos.
+Doentes com insuficiência hepática: Quando comparados com voluntários
+saudáveis, os doentes cirróticos podem apresentar aumento da semivida de
+eliminação do midazolam e diminuição da depuração (ver 4.4. Advertências e
+precauções especiais de utilização).
+Doentes com insuficiência renal: A semivida de eliminação do midazolam nos
+doentes com insuficiência renal é semelhante à de voluntários saudáveis.
+Doentes com patologias graves: A semivida de eliminação do midazolam é
+prolongada até cerca de 6 vezes nos doentes com patologias graves.
+Doentes com insuficiência cardíaca: Os doentes com insuficiência cardíaca
+congestiva apresentam uma semivida de eliminação do midazolam superior à do
+indivíduo saudável (ver 4.4. Advertências e precauções especiais de utilização).
+5.3 Dados de segurança pré-clínica
+Não existem dados de segurança pré-clínica, para além dos já incluídos nas outras
+secções do RCM, que sejam relevantes para o prescritor.
+
+6. Informações Farmacêuticas
+                                                              APROVADO EM
+                                                              27-03-2024
+                                                              INFARMED
+
+6.1 Lista dos excipientes
+Cloreto de sódio,
+Ácido clorídrico,
+Hidróxido de sódio,
+Água para injetáveis.
+6.2 Incompatibilidades
+A solução de Midazolam Basi não deve diluir-se em Macrodex 6% em glucose, nem
+deve ser misturada com injeções alcalinas. O midazolam precipita na presença de
+bicarbonato de cálcio.
+6.3 Prazo de validade
+3 anos.
+6.4 Precauções especiais de conservação
+Não conservar a temperatura superior a 25 ºC. Conservar ao abrigo da luz.
+Não congelar. Pode formar-se um precipitado que se dissolve por agitação do
+conteúdo à temperatura ambiente.
+6.5 Natureza e conteúdo do recipiente
+Ampolas de vidro tipo I (Ph. Eur.)
+Midazolam Basi 5 mg/ml Solução Injetável:
+Embalagem de 5 ampolas com 5 ml de capacidade contendo 3 ml de solução
+injetável;
+Embalagem de 10 ampolas com 5 ml de capacidade contendo 3 ml de solução
+injetável;
+Embalagem de 50 ampolas com 5 ml de capacidade contendo 3 ml de solução
+injetável.
+Embalagem de 5 ampolas com 10 ml de capacidade contendo 10 ml de solução
+injetável;
+Embalagem de 10 ampolas com 10 ml de capacidade contendo 10 ml de solução
+injetável;
+Embalagem de 50 ampolas com 10 ml de capacidade contendo 10 ml de solução
+injetável.
+6.6 Instruções de utilização, manipulação e eliminação
+Compatibilidade com as soluções de perfusão:
+As soluções de midazolam em ampolas podem diluir-se em cloreto de sódio 0,9%,
+glucose 5% e 10%, levulose 5%, solução de Ringer e Hartmann, na porção de 15
+mg de midazolam para 100 – 1000 ml de solução de perfusão. Estas soluções
+mantêm-se física e quimicamente estáveis durante 24 horas à temperatura
+ambiente ou durante 3 dias a 5ºC. Não se detetou adsorção do midazolam nas
+soluções que continham 15 mg em 250 ml de NaCl 9% conservados durante 24
+horas à temperatura ambiente em bolsa de infusão de PVC e em perfusão durante
+6 horas através de um equipamento de perfusão de PVC.
+A solução de Midazolam Basi não deve diluir-se em Macrodex 6% em glucose, nem
+deve ser misturada com injeções alcalinas.
+                                                              APROVADO EM
+                                                              27-03-2024
+                                                              INFARMED
+
+7. Titular da Autorização de Introdução no Mercado
+Laboratórios Basi - Indústria Farmacêutica, S.A.
+Parque Industrial Manuel Lourenço Ferreira
+3450-232 Mortágua
+Portugal
+Tel: + 351 231 920 250
+Fax: + 351 231 921 055
+E-mail: basi@basi.pt
+
+8. Número de Autorização de Introdução no Mercado
+Midazolam Basi 5 mg/ml Solução Injetável:
+N.º registo: 5124888 - 3 ml, solução injetável, 5 mg/ml, embalagem de 5 ampolas
+N.º registo: 5788955 - 3 ml, solução injetável, 5 mg/ml, embalagem de 10
+ampolas
+N.º registo: 5124987 - 3 ml, solução injetável, 5 mg/ml, embalagem de 50
+ampolas
+N.º registo: 5820279 - 10 ml, solução injetável, 5 mg/ml, embalagem de 5
+ampolas
+N.º registo: 5820303 - 10 ml, solução injetável, 5 mg/ml, embalagem de 10
+ampolas
+N.º registo: 5820311 - 10 ml, solução injetável, 5 mg/ml, embalagem de 50
+ampolas
+
+9. Data da Autorização de Introdução no Mercado
+Data da primeira autorização: 30 de junho de 2004
+Data da última renovação: 15 de maio de 2023
+
+10. Data de Revisão do Texto
+

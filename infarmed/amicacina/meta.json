@@ -1,0 +1,43 @@
+{
+  "medId": "amicacina",
+  "searchTerm": "amicacina",
+  "retrievedAt": "2026-02-08T00:00:00.000Z",
+  "bestMatch": {
+    "infarmedId": "5462551",
+    "name": "Amicacina Hikma",
+    "dci": "Amicacina",
+    "form": "Solução injetável",
+    "dosage": "500 mg/2 ml",
+    "holder": "Hikma Farmacêutica (Portugal), S.A.",
+    "score": 1.0,
+    "generic": false,
+    "processNumber": "79/93",
+    "administration": ["Via intramuscular", "Via intravenosa"],
+    "classification": {
+      "atc": "J01GB06 - amikacin",
+      "farmacoterapeutica": "1.1.7 - Aminoglicosídeos"
+    },
+    "aimDate": "08/02/1995",
+    "lastUpdated": "10/01/2025"
+  },
+  "documents": {
+    "rcm": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "rcm/5462551-rcm.pdf",
+      "size": 94000,
+      "method": "POST with form state",
+      "lastUpdated": "10/01/2025"
+    },
+    "fi": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "fi/5462551-fi.pdf",
+      "size": 91000,
+      "method": "POST with form state",
+      "lastUpdated": "10/01/2025"
+    }
+  }
+}

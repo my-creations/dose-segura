@@ -1,0 +1,703 @@
+                                                                          APROVADO EM
+                                                                           02-08-2019
+                                                                           INFARMED
+
+1.     NOME DO MEDICAMENTO
+
+Suxametónio Aguettant 100 mg/10 ml solução injetável em seringa pré-cheia
+
+
+2.     COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada ml de solução injetável contém 10 mg de cloreto de suxametónio anidro (como 11
+mg de cloreto de suxametónio di-hidratado).
+Cada seringa pré-cheia de 10 ml contém 100 mg de cloreto de suxametónio anidro (como
+110 mg de cloreto de suxametónio di-hidratado).
+
+Excipiente com efeito conhecido:
+Cada ml de solução injetável contém 2,79 mg equivalente a 0,12 mmol de sódio.
+Cada seringa pré-cheia de 10 ml contém 27,9 mg equivalente a 1,2 mmol de sódio.
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+3.    FORMA FARMACÊUTICA
+
+Solução injetável (injeção).
+Solução límpida e incolor.
+pH: 3,0 – 4,5
+Osmolalidade: 250-350 mOsm/Kg
+
+
+4.    INFORMAÇÕES CLÍNICAS
+
+4.1   Indicações terapêuticas
+
+Suxametónio Aguettant está indicado como relaxante muscular para facilitar a intubação
+endotraqueal, durante a indução da anestesia geral, ou em situações de emergência, como
+relaxante muscular para facilitar a intubação endotraqueal, em adultos e população
+pediátrica com mais de 12 anos de idade.
+
+4.2   Posologia e modo de administração
+
+O suxametónio apenas deve ser administrado por ou sob a supervisão rigorosa de um
+médico experiente (anestesista, intensivista, médico de urgência) familiarizado com a sua
+ação, as suas características e os seus perigos, que esteja habilitado para o manuseamento
+da intubação e respiração artificial e apenas onde existirem instalações adequadas para
+intubação endotraqueal imediata com administração de oxigénio por ventilação por
+pressão positiva intermitente. É administrado por via intravenosa após a indução da
+anestesia e não deve ser administrado com o doente consciente.
+                                                                        APROVADO EM
+                                                                         02-08-2019
+                                                                         INFARMED
+Posologia
+
+Adultos
+
+Para conseguir a intubação endotraqueal, o cloreto de suxametónio é normalmente
+administrado por injeção intravenosa em bólus numa dose de 1 mg/kg de peso corporal.
+Esta dose normalmente produz relaxamento muscular num período de 30 a 60 segundos e
+tem uma duração de ação de cerca de 2 a 6 minutos. Doses superiores produzirão um
+relaxamento muscular mais prolongado, mas duplicar a dose não duplica necessariamente
+a duração do relaxamento.
+
+Suxametónio Aguettant está limitado a uma única administração.
+
+Tem-se defendido a utilização de pequenas doses de relaxantes musculares não
+despolarizantes, administrados minutos antes da administração de suxametónio para
+reduzir a incidência e gravidade das dores musculares associadas ao suxametónio. Esta
+técnica pode exigir a utilização de doses de cloreto de suxametónio superiores a 1 mg/kg
+para se conseguir condições satisfatórias para intubação endotraqueal (ver secção 4.4).
+
+Populações especiais
+
+Idosos
+Os requisitos de dose de suxametónio em idosos são comparáveis aos dos adultos.
+
+Compromisso renal
+É possível administrar uma dose única de suxametónio em doentes com insuficiência
+renal na ausência de hipercaliemia. Doses múltiplas ou superiores podem provocar
+subidas clinicamente significativas no potássio sérico e não devem ser administradas.
+
+Compromisso hepático
+Não são necessários ajustes posológicos em doentes com compromisso hepático. O final
+da ação do suxametónio depende da colinesterase plasmática, que é sintetizada no fígado.
+Embora os níveis de colinesterase plasmática diminuam frequentemente em doentes com
+doença hepática, os níveis raramente são suficientemente baixos para prolongar
+significativamente a apneia induzida por suxametónio (ver secção 4.4).
+
+População pediátrica
+Adolescentes com mais de 12 anos: a posologia é semelhante à dos adultos.
+
+Suxametónio Aguettant não deve ser administrado a crianças com menos de 12 anos de
+idade uma vez que a sub-graduação da seringa pré-cheia não permite uma administração
+precisa do produto nesta população.
+                                                                        APROVADO EM
+                                                                         02-08-2019
+                                                                         INFARMED
+Modo de administração
+
+Suxametónio Aguettant destina-se a uso por via intravenosa. A seringa pré-cheia não é
+adequada para ser utilizada numa bomba de infusão de seringa.
+
+4.3    Contraindicações
+
+ •    Hipersensibilidade à substância ativa ou a qualquer um dos excipientes
+      mencionados na secção 6.1.
+
+ •    O suxametónio não tem qualquer efeito no nível de consciência e não deve ser
+      administrado a doentes que não estejam sob anestesia geral (ver secção 4.2).
+
+ •    Antecedentes pessoais ou familiares de hipertermia maligna. O suxametónio pode
+      desencadear contrações miofibrilares repetitivas em indivíduos suscetíveis (ver
+      secção 4.4).
+
+ •    Doentes conhecidos por terem uma atividade de colinesterase (butirilcolinesterase)
+      plasmática atípica hereditária (antecedentes de resposta anterior prolongada e/ou
+      intensificada - ver secção 4.4)
+
+ •    Doentes com ou suscetíveis a hipercaliemia (ver secção 4.4). O suxametónio está
+      contraindicado em doentes:
+
+        o com hipercaliemia preexistente. Na ausência de hipercaliemia e neuropatia, a
+          insuficiência renal não é uma contraindicação para a administração de uma
+          dose única normal de injeção de suxametónio, mas doses múltiplas ou
+          elevadas podem causar subidas clinicamente significativas no potássio sérico
+          e não devem ser administradas.
+        o que estejam a recuperar de traumas significativos ou queimaduras graves. O
+          período de maior risco de hipercaliemia pode ser prolongado ainda mais se
+          existir uma infeção persistente com cicatrização retardada
+        o com défices neurológicos e definhamento muscular significativo agudo (por
+          exemplo, lesões do neurónio motor superior e/ou inferior); o potencial para
+          libertação de potássio ocorre nos primeiros 6 meses após o início agudo do
+          défice neurológico e está relacionado com o grau e a extensão da paralisia
+          muscular. Doentes que foram imobilizados durante períodos de tempo
+          prolongados podem estar em risco semelhante.
+
+ •    Doentes com miopatias musculares esqueléticas (por exemplo, distrofia muscular
+      de Duchenne) uma vez que a administração de suxametónio pode estar associada a
+      hipertermia maligna, disritmias ventriculares e paragem cardíaca secundária a
+      rabdomiólise aguda com hipercaliemia.
+                                                                          APROVADO EM
+                                                                           02-08-2019
+                                                                           INFARMED
+ •    Antecedentes pessoais ou familiares de doenças miotónicas congénitas, como
+      miotonia congénita e distrofia miotónica (risco de espasmos e rigidez miotónicos
+      graves).
+
+ •    O suxametónio provoca um aumento transitório significativo na pressão intraocular
+      e, portanto, não deve ser utilizado na presença de lesões oculares abertas ou quando
+      um aumento na pressão intraocular é indesejável, a menos que o potencial benefício
+      da sua utilização compense o potencial risco para o olho.
+
+4.4   Advertências e precauções especiais de utilização
+
+O suxametónio paralisa os músculos respiratórios, bem como outros músculos
+esqueléticos, mas não afeta a consciência.
+
+Recomenda-se a utilização de uma técnica de monitorização neuromuscular adequada
+para a avaliação do bloqueio e recuperação neuromuscular.
+
+Reação anafilática
+Há relatos de reações anafiláticas alérgicas ou não alérgicas durante a indução de
+anestesia, por vezes em doentes que nunca foram expostos ao curare. As manifestações
+mais frequentes são erupção cutânea (tipo eritema) ou rash, generalizada ou limitada ao
+local da injeção, que pode evoluir para choque anafilático e/ou broncospasmo. Em alguns
+casos, broncospasmo e/ou choque anafilático não estão associados a manifestações
+cutâneas. Também houve relatos de edema de Quincke.
+A ocorrência do primeiro sinal impõe a retirada definitiva de Suxametónio Aguettant, se
+a administração não tiver sido totalmente realizada, e a administração de tratamento
+sintomático.
+
+Em caso de reação alérgica, deve administrar-se tratamento sintomático. É igualmente
+necessário realizar testes de alergologia (amostra imediata, depois teste cutâneo) (ver
+secção 4.8).
+
+Sensibilidade cruzada
+Existem relatos de taxas elevadas de sensibilidade cruzada (superior a 50 %) entre
+medicamentos bloqueadores neuromusculares. Assim, sempre que possível, antes de
+administrar suxametónio, deve excluir-se a hipersensibilidade a outros medicamentos
+bloqueadores neuromusculares. O suxametónio apenas deve ser utilizado quando
+absolutamente essencial em doentes suscetíveis. Doentes que tenham uma reação de
+hipersensibilidade sob anestesia geral devem ser testados subsequentemente quanto à
+hipersensibilidade a outros bloqueadores neuromusculares.
+
+Atividade reduzida ou deficiência de colinesterase plasmática
+O suxametónio é rapidamente hidrolisado pela colinesterase plasmática, limitando a
+intensidade e a duração do bloqueio neuromuscular. Indivíduos com redução da atividade
+da colinesterase plasmática apresentam uma resposta prolongada ao suxametónio.
+                                                                         APROVADO EM
+                                                                          02-08-2019
+                                                                          INFARMED
+Aproximadamente 0,05% da população tem uma causa hereditária para a redução da
+atividade da colinesterase, resultando numa duração prolongada da ação do suxametónio
+em mais de 1 hora. No caso de curarização prolongada, deve continuar-se a ventilação
+controlada até que se verifique a respiração espontânea e a função muscular se normalize.
+Pode ocorrer o bloqueio neuromuscular prolongado e intensificado após a injeção de
+suxametónio secundário à redução da atividade da colinesterase plasmática nos seguintes
+estados ou condições patológicas:
+  • variação fisiológica como na gravidez e no puerpério (ver secção 4.6);
+  • colinesterase plasmática anormal determinada geneticamente (ver secção 4.3);
+  • tétano generalizado grave, tuberculose, outras infeções graves ou crónicas;
+  • queimaduras graves (ver secção 4.3);
+  • doença debilitante crónica, neoplasia maligna, anemia crónica e malnutrição;
+  • insuficiência hepática terminal, insuficiência renal aguda ou crónica (ver secção
+      4.2);
+  • doenças autoimunes: mixedema;
+  • doenças do colagénio;
+  • iatrogénica: após troca de plasma, plasmaférese, bypass cardiopulmonar e como
+      resultado de terapêutica medicamentosa concomitante (ver secção 4.5).
+
+Hipertermia maligna
+Uma vez que o suxametónio pode ser utilizado concomitantemente com outros
+medicamentos anestésicos (halogenados) e uma vez que a hipertermia maligna durante a
+anestesia pode ocorrer mesmo na ausência de um fator desencadeante conhecido, os
+médicos devem estar familiarizados com os sinais precoces, com o diagnóstico e o
+tratamento da hipertermia maligna. Pode ocorrer espasmo do masséter isolado e prevenir
+a intubação enquanto outros músculos estão relaxados, mas também pode ser um sinal
+precoce de hipertermia maligna, portanto, devem procurar-se outros sinais de crise de
+hipertermia maligna.
+Se ocorrer hipertermia maligna, todos os medicamentos anestésicos que se saiba estarem
+associados à mesma (incluindo o suxametónio) devem ser descontinuados e devem
+implementar-se imediatamente medidas de apoio completas. O dantroleno sódico
+intravenoso é o principal medicamento terapêutico específico e deve ser administrado o
+mais rapidamente possível após o diagnóstico.
+
+Dores musculares
+As dores musculares são frequentemente sentidas após administração de suxametónio e
+ocorrem mais frequentemente em doentes em ambulatório submetidos a procedimentos
+cirúrgicos curtos com anestesia geral (ver secção 4.8). Parece não existir ligação direta
+entre o grau de fasciculação muscular visível após a administração de suxametónio e a
+incidência ou gravidade da dor. O suxametónio deve ser utilizado com cuidado em
+doentes com fraturas ou espasmos musculares uma vez que as fasciculações musculares
+iniciais podem provocar trauma adicional.
+
+Hipercaliemia
+                                                                        APROVADO EM
+                                                                         02-08-2019
+                                                                         INFARMED
+Costuma ocorrer uma subida transitória aguda do potássio sérico após a administração de
+suxametónio em indivíduos normais; a magnitude desta subida ronda 0,5 mmol/litro. Em
+determinados estados ou condições patológicas, esta subida no potássio sérico após a
+administração de suxametónio pode ser excessiva e dar origem a arritmias cardíacas
+graves e paragem cardíaca. Em doentes com sepsia grave, o potencial para hipercaliemia
+parece estar relacionado com a gravidade e duração da infeção.
+
+Miastenia grave e outras síndromes miasténicas
+Não é aconselhável administrar suxametónio a doentes com miastenia grave avançada.
+Embora estes doentes sejam resistentes ao suxametónio, desenvolvem um estado de
+bloqueio da Fase II que pode resultar numa recuperação mais demorada. Doentes com
+síndrome miasténica de Eaton-Lambert são mais sensíveis do que o normal ao
+suxametónio, sendo necessário reduzir a dose.
+
+Bradicardia e outras disritmias cardíacas
+O suxametónio não tem efeito direto no miocárdio, mas, através da estimulação dos
+gânglios autónomos e dos recetores muscarínicos, o suxametónio pode provocar
+alterações no ritmo cardíaco, incluindo paragem cardíaca.
+Em adultos saudáveis, o suxametónio provoca ocasionalmente um ligeiro abrandamento
+transitório da frequência cardíaca aquando da administração inicial. As bradicardias são
+observadas mais frequentemente em crianças e com a administração repetida de
+suxametónio em crianças e adultos. O suxametónio pode também potenciar a bradicardia
+devida ao halotano ou a outros medicamentos. Deve ter-se este facto em consideração
+quando ambos os medicamentos são utilizados durante procedimentos anestésicos. O pré-
+tratamento com atropina intravenosa ou glicopirrolato reduz significativamente a
+incidência e a gravidade da bradicardia relacionada com o suxametónio.
+Na ausência de hipercaliemia pré-existente ou evocada, são raramente observadas
+arritmias ventriculares após a administração de suxametónio. No entanto, os doentes que
+tomam medicamentos do tipo digitálicos são mais suscetíveis a essas arritmias.
+
+Efeitos muscarínicos
+Os efeitos muscarínicos do suxametónio, por ex., o aumento das secreções brônquicas e
+salivares, podem ser prevenidos através da administração profilática de atropina.
+
+Aumento da tensão intraocular
+A administração de suxametónio não é recomendada em doentes submetidos a cirurgia
+ocular aberta.
+
+Conteúdo de sódio
+Este medicamento contém 27,9 mg de sódio por 10 ml, equivalente a 1,4% da ingestão
+diária máxima recomendada pela OMS de 2 g de sódio para um adulto.
+
+População pediátrica
+Este medicamento não é recomendado em crianças com menos de 12 anos de idade. Em
+caso de utilização na população com mais de 12 anos de idade, deverá tomar-se cuidado,
+uma vez que os doentes mais jovens têm maior probabilidade de ter uma miopatia não
+                                                                          APROVADO EM
+                                                                           02-08-2019
+                                                                           INFARMED
+diagnosticada ou uma predisposição desconhecida para hipertermia maligna e
+rabdomiólise, o que os coloca em risco acrescido de efeitos secundários graves após a
+administração de suxametónio (ver secções 4.3 e 4.8).
+4.5    Interações medicamentosas e outras formas de interação
+
+Sabe-se que determinados medicamentos ou produtos químicos reduzem a atividade
+normal da colinesterase plasmática e, portanto, podem prolongar os efeitos de bloqueio
+neuromuscular do suxametónio:
+
+     • Antipsicóticos: fenelzina, promazina
+
+     • Citotóxicos: ciclofosfamida, tiotepa, irinotecano
+
+     • Medicamentos anestésicos gerais: cetamina
+
+     • Antagonistas da histamina: concentrações elevadas de cimetidina podem inibir a
+     pseudocolinesterase
+
+     • Anestésicos locais e/ou antiarrítmicos: procaína, cloroprocaína, lidocaína e
+     procainamida
+
+     • Metoclopramida
+
+     • Parassimpáticos: donepezilo, galantamina,           neostigmina,   piridostigmina,
+     rivastigmina, edrofónio, cloridrato de tacrina
+
+     • Simpaticomiméticos (agonistas beta): bambuterol e terbutalina
+
+     • Substâncias organofosforosas: diazinão, malatião, clorpirifos, diclorvos,
+     propetamfos, dimpirato
+
+     • Colírio ecotiofato
+
+     • Inibidores seletivos da recaptação da serotonina (ISRS)
+
+     • Outros medicamentos com potencial efeito nocivo na atividade da colinesterase
+     plasmática: aprotinina, clorpromazina, estrogénios e contracetivos orais que contêm
+     estrogénio, oxitocina, esteroides em doses elevadas.
+
+Determinados medicamentos ou substâncias podem potenciar ou prolongar os efeitos de
+bloqueio neuromuscular do suxametónio através de mecanismos não relacionados com a
+atividade da colinesterase plasmática:
+
+     • Antiarrítmicos: quinidina, verapamilo
+                                                                         APROVADO EM
+                                                                          02-08-2019
+                                                                          INFARMED
+      • Antibacterianos (efeitos potenciados do suxametónio): aminoglicosídeos,
+      lincosamidas (como a clindamicina e a lincomicina), polimixinas (como a colistina
+      e a polimixina B) e vancomicina
+
+      • Anticonvulsivantes: carbamazepina, fenitoína
+
+      • Bloqueadores Beta (bloqueio neuromuscular melhorado/prolongado): esmolol
+
+      • Imunomoduladores (bloqueio neuromuscular prolongado): azatioprina
+
+      • Carbonato de lítio
+
+      • Quinina e Cloroquina
+
+      • Magnésio: magnésio parentérico (bloqueio neuromuscular potenciado)
+
+      • Medicamentos de inalação voláteis: halotano, enflurano, desflurano, isoflurano,
+      éter dietílico e metoxiflurano têm efeito reduzido no bloqueio de Fase I da injeção
+      de suxametónio, mas aceleram o início e aumentam a intensidade de um bloqueio
+      de Fase II induzido por suxametónio
+
+Determinados medicamentos ou substâncias podem exacerbar alguns efeitos secundários
+do suxametónio:
+
+      • Glicosídeos cardíacos: Os doentes que tomam medicamentos do tipo digitálicos
+      estão mais suscetíveis aos efeitos do exacerbamento do suxametónio pela
+      hipercaliemia.
+
+      • Anestésicos gerais: propofol (risco aumentado de depressão do miocárdio e
+      bradicardia)
+
+Outras interações
+
+      • Bloqueadores neuromusculares competitivos: a associações de bloqueadores
+      neuromusculares competitivos pode ter efeitos aditivos ou sinérgicos. No entanto, a
+      sequência de administração também pode afetar a interação. A utilização anterior
+      de uma pequena dose de um bloqueador neuromuscular competitivo (por exemplo,
+      vecurónio) normalmente reduz os efeitos do suxametónio, mas se o suxametónio
+      for administrado durante a recuperação de um bloqueador neuromuscular
+      competitivo, pode ocorrer antagonismo, melhoria ou uma combinação dos dois. Os
+      efeitos de um bloqueador competitivo podem ser potenciados se este for
+      administrado após a utilização de suxametónio.
+
+4.6   Fertilidade, gravidez e aleitamento
+
+Gravidez
+                                                                          APROVADO EM
+                                                                           02-08-2019
+                                                                           INFARMED
+O suxametónio não tem qualquer ação direta no útero ou noutras estruturas musculares
+lisas. Em doses terapêuticas normais, não atravessa a barreira placentária em quantidades
+suficientes para afetar os movimentos respiratórios fetais.
+Os benefícios da utilização de suxametónio como parte de uma indução de sequência
+rápida para anestesia geral normalmente compensam o possível risco para o feto.
+Os níveis de colinesterase no plasma diminuem durante o primeiro trimestre da gravidez
+para cerca de 70 a 80% dos seus níveis antes da gravidez; ocorre uma redução adicional
+para cerca de 60 a 70% dos níveis antes da gravidez num espaço de 2 a 4 dias após o
+parto. Os níveis de colinesterase plasmática aumentam para atingir o normal nas 6
+semanas seguintes. Consequentemente, uma grande proporção de doentes grávidas e
+puérperas pode apresentar bloqueio neuromuscular moderadamente prolongado após a
+injeção de suxametónio (ver secção 4.4). O suxametónio não é embriotóxico ou
+teratogénico em duas espécies animais. Se necessário, pode considerar-se a utilização de
+suxametónio durante a gravidez. No entanto, deve ter-se cuidado após a administração de
+suxametónio em grávidas e puérperas.
+
+Amamentação
+Não se sabe se o suxametónio ou os seus metabolitos são excretados no leite humano. No
+entanto, uma vez que o suxametónio é rapidamente hidrolisado pela colinesterase
+plasmática (pseudocolinosterase) num metabolito inativo, não se espera qualquer efeito
+nos recém-nascidos/lactentes amamentados.
+
+Fertilidade
+Não há dados sobre o efeito da utilização de suxametónio na fertilidade. No entanto, uma
+vez que o suxametónio é rapidamente hidrolisado pela colinesterase plasmática
+(pseudocolinosterase) num metabolito inativo, não se espera qualquer efeito na fertilidade
+após o final do efeito farmacológico.
+
+4.7   Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos de Suxametónio Aguettant sobre a capacidade de conduzir e utilizar máquinas
+são consideráveis.
+O suxametónio será sempre utilizado em associação com um anestésico geral e, portanto,
+aplicam-se as precauções habituais relacionadas com o desempenho das tarefas após a
+anestesia geral.
+
+4.8   Efeitos indesejáveis
+
+As reações adversas encontram-se listadas abaixo por classe de sistemas de órgãos e
+frequência. As frequências estimadas foram determinadas a partir de dados publicados.
+As frequências são definidas da seguinte forma: muito frequentes (≥1/10); frequentes
+(≥1/100, <1/10), pouco frequentes (≥1/1.000, <1/100); raras (≥1/10.000, <1/1.000); muito
+raras (<1/10.000).
+                                                                         APROVADO EM
+                                                                          02-08-2019
+                                                                          INFARMED
+Doenças do sistema imunitário
+Frequentes                           Reações anafiláticas alérgicas ou não alérgicas
+                                     (libertação de histamina não específica), prurido,
+                                     doenças cardiovasculares, broncospasmo, choque
+                                     anafilático grave (pode ser fatal) (ver secção 4.4).
+Desconhecido                         Edema de Quincke
+Doenças do sistema nervoso
+Frequentes                           Aumento transitório de pressão intracraniana*
+Afeções oculares
+Frequentes                           Aumento da tensão intraocular*
+Cardiopatias
+Frequentes                           Arritmias (incluindo arritmias       ventriculares),
+                                     bradicardia, taquicardia.
+Desconhecido                         Paragem cardíaca.
+Vasculopatias
+Frequentes                             Afrontamentos cutâneos, hipotensão
+Desconhecido                           Hipertensão
+Doenças respiratórias, torácicas e do mediastino
+Raras                                  Broncospasmo, depressão respiratória prolongada
+Desconhecido                           Secreção brônquica excessiva, apneia
+Doenças gastrointestinais
+Frequentes                             Aumento da pressão intragástrica*
+
+Desconhecido                           Secreção gástrica excessiva
+                                       Alargamento das glândulas salivares
+Houve também relatos de salivação excessiva
+Afeções dos tecidos cutâneos e subcutâneos
+Frequentes                             Erupção cutânea
+Afeções musculosqueléticas e dos tecidos conjuntivos
+Muito frequentes                       Fasciculação muscular, dores musculares pós-
+                                       operatórias (ver secção 4.4)
+Frequentes                             Mioglobinemia, mioglobinúria
+Raras                                  Trismo
+Desconhecido                           Rabdomiólise (ver secções 4.3 e 4.4)
+Perturbações gerais e alterações no local de administração
+Frequentes                             Eritema no local de injeção
+Raras                                  Hipertermia maligna (ver secção 4.4)
+Exames complementares de diagnóstico
+                                                                        APROVADO EM
+                                                                         02-08-2019
+                                                                         INFARMED
+Frequentes                          Aumento transitório de potássio no sangue
+*O aumento inicial da pressão intracraniana, intraocular e intragástrica é normalizado
+após alguns minutos.
+
+Descrição de reações adversas selecionadas
+Existem relatos de casos de paragem cardíaca relacionada com a hipercaliemia após a
+administração de suxametónio a doentes com paralisia cerebral congénita, tétano,
+distrofia muscular por lesão da medula espinhal e traumatismo craniano fechado. Estes
+eventos foram também relatados raramente em crianças com afeções musculares
+previamente não diagnosticadas.
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-risco
+do medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas
+de reações adversas diretamente ao INFARMED, I.P.:
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)E-mail: farmacovigilancia@infarmed.pt
+
+4.9   Sobredosagem
+
+Apneia e paralisia muscular prolongada são os principais efeitos graves da sobredosagem.
+Assim, é essencial manter as vias respiratórias e a ventilação adequada até que se
+verifique a respiração espontânea.
+A neostigmina e outros medicamentos anticolinesterásicos não são antídotos para o
+suxametónio, mas normalmente intensificariam o efeito de despolarização. No entanto,
+em alguns casos, quando a ação do suxametónio é prolongada, o bloqueio despolarizante
+característico (Fase I) pode mudar para um com características de um bloqueio não
+despolarizante (Fase II). A decisão de utilizar neostigmina para reverter um bloqueio de
+Fase II induzido pelo suxametónio depende da decisão do clínico no caso em questão.
+Serão recolhidas informações valiosas relativamente a esta decisão através da
+monitorização da função neuromuscular. Se for utilizada neostigmina, a sua
+administração deve ser acompanhada de doses adequadas de um medicamento
+anticolinérgico, como a atropina.
+                                                                          APROVADO EM
+                                                                           02-08-2019
+                                                                           INFARMED
+5.    PROPRIEDADES FARMACOLÓGICAS
+
+5.1   Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 2.3.2 Sistema musculosquelético; relaxantes musculares,
+agentes de ação periférica; derivados de colina, código ATC: M03AB01
+
+Mecanismo de ação
+O suxametónio é uma substância bloqueadora neuromuscular despolarizante de ação
+ultracurta.
+
+Efeitos farmacodinâmicos
+O suxametónio está intimamente ligado em termos estruturais à acetilcolina. Tal como
+com a acetilcolina, o suxametónio tem uma ação na placa terminal motora
+musculosquelética, provocando paralisia flácida (bloqueio de Fase I). O suxametónio
+difunde-se lentamente para a placa terminal e a concentração na placa terminal dura
+tempo suficiente para provocar perda de excitabilidade elétrica. A despolarização da
+placa terminal muscular estabelece um gradiente de voltagem e isso causa a abertura de
+canais iónicos dependentes da voltagem do músculo, levando à contração transitória do
+músculo. Embora a placa terminal permaneça despolarizada, a membrana muscular é
+responsável por esta despolarização e permanece flácida.
+Se o suxametónio for continuamente perfundido, a membrana juncional recupera
+lentamente o seu potencial de repouso com o retorno da transmissão neuromuscular
+(taquifilaxia); assim, de forma a manter o efeito, é necessária uma taxa de perfusão mais
+elevada. Com a perfusão contínua, a transmissão neuromuscular falhará novamente
+(bloqueio de Fase II), ainda que o potencial de membrana da placa terminal permaneça
+relativamente inalterado. Um bloqueio de Fase II possui as características clínicas de um
+bloqueio não despolarizante. Um bloqueio de Fase II pode estar associado ao bloqueio
+neuromuscular e à apneia prolongados. O mecanismo deste bloqueio não é conhecido,
+mas o bloqueio do canal pela penetração do suxametónio no citoplasma da placa
+subterminal, a acumulação intracelular de cálcio e sódio, a perda de potássio intracelular
+e a ativação de Na, K-ATPase contribuem.
+Considera-se que a curta duração da ação do suxametónio se deve ao seu rápido
+metabolismo no sangue. O suxametónio é rapidamente hidrolisado pela colinesterase
+plasmática em succinilcolina que possui propriedades relaxantes musculares
+despolarizantes clinicamente insignificantes.
+
+5.2   Propriedades farmacocinéticas
+
+Após injeção intravenosa, o suxametónio atua em cerca de 30 a 60 segundos e tem uma
+duração de ação de 2 a 6 minutos, sendo hidrolisado pela colinesterase plasmática
+(pseudocolinesterase). Uma molécula de colina é separada rapidamente para formar
+succinilmonocolina (um relaxante muscular fraco), que é depois lentamente hidrolisada
+em ácido succínico e colina. Apenas uma pequena proporção de suxametónio é excretada
+inalterada na urina.
+                                                                        APROVADO EM
+                                                                         02-08-2019
+                                                                         INFARMED
+O gene que controla a expressão da colinesterase plasmática apresenta polimorfismo e a
+atividade enzimática varia entre os indivíduos. Houve relatos de alguns doentes que
+apresentaram apneia prolongada após a administração de suxametónio. A maioria destes
+doentes apresentava colinesterásica plasmática atípica ou deficiência colinesterásica
+devido a variações alélicas, doença hepática ou renal ou distúrbios nutricionais que
+afetam a depuração da substância ativa. Alguns medicamentos podem inibir a síntese da
+enzima ou alterar a sua atividade (ver secção 4.5).
+
+5.3   Dados de segurança pré-clínica
+
+Não existem dados pré-clínicos relevantes para o prescritor que tenham caráter adicional
+aos já incluídos noutras secções do Resumo das Características do Medicamento.
+
+
+6.    INFORMAÇÕES FARMACÊUTICAS
+
+6.1   Lista dos excipientes
+
+Cloreto de sódio,
+Ácido succínico,
+Hidróxido de sódio ou ácido hidroclórico (para ajuste do pH),
+Água para preparações injetáveis.
+
+6.2   Incompatibilidades
+
+Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado
+com outros medicamentos.
+
+6.3   Prazo de validade
+
+2 anos.
+Após a abertura, o medicamento deve ser utilizado imediatamente.
+
+Este medicamento pode ser conservado durante um curto período de tempo a
+temperaturas não superiores a 25°C. No geral, uma vez removido do armazenamento
+refrigerado pela primeira vez, o medicamento deve ser deitado fora após 30 dias.
+
+6.4   Precauções especiais de conservação
+
+Conservar no frigorífico (2°C - 8°C). Não congelar.
+Manter a seringa pré-cheia no blister fechado até a sua utilização.
+Condições de conservação do medicamento após primeira abertura, ver secção 6.3.
+                                                                           APROVADO EM
+                                                                            02-08-2019
+                                                                            INFARMED
+6.5   Natureza e conteúdo do recipiente
+
+10 ml de solução injetável em seringa pré-cheia (polipropileno), com êmbolo
+(clorobutilo), sem agulha, com uma etiqueta transparente autocolante graduada (sub-
+graduações de 0,5 ml, de 0 a 10 ml). Uma tampa (polipropileno) protege a ponta da
+seringa.
+A seringa pré-cheia é embalada individualmente num blister transparente.
+Disponível em caixas de cartão de 1 ou 10 seringas pré-cheias.
+É possível que não sejam comercializadas todas as apresentações.
+
+6.6   Precauções especiais de eliminação e manuseamento
+
+Instruções de utilização:
+
+Preparar a seringa com cuidado da forma que se indica em seguida
+
+A seringa pré-cheia destina-se a utilização num único doente. Deitar fora a seringa após a
+utilização. Não reutilizar.
+
+O medicamento deve ser verificado visualmente quanto a partículas e descoloração antes
+da administração. Apenas devem ser utilizadas soluções incolores e límpidas sem
+partículas ou precipitados.
+O medicamento não deve ser utilizado se o selo inviolável da seringa estiver rasgado.
+
+A superfície externa da seringa é estéril até a abertura do blister. O blister não deve ser
+aberto até a utilização.
+
+Quando manuseado utilizando um método assético, este medicamento pode ser colocado
+numa área estéril uma vez retirado do blister.
+
+1) Retirar a seringa pré-cheia estéril do blister.
+                                                                       APROVADO EM
+                                                                        02-08-2019
+                                                                        INFARMED
+
+
+
+                           2) Empurrar o êmbolo para libertar a rolha. O processo de
+                           esterilização pode ter feito com que a rolha aderisse ao
+                           corpo da seringa.
+
+
+
+
+                           3) Rodar a tampa para quebrar o selo. Para evitar
+                           contaminação, não tocar na ligação Luer exposta.
+
+
+
+
+                           4) Verificar se a ponta do selo da seringa foi completamente
+                           removida. Caso contrário, colocar novamente a tampa e
+                           rodar novamente
+
+
+
+
+                           5) Retirar o ar empurrando suavemente o êmbolo.
+
+
+
+
+6) Ligar a seringa a um dispositivo de acesso ou a uma agulha. Empurrar o êmbolo
+lentamente para injetar o volume necessário.
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as
+exigências locais.
+
+
+7.   TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Laboratoire Aguettant
+1 rue Alexander Fleming
+                                                  APROVADO EM
+                                                   02-08-2019
+                                                   INFARMED
+69007 Lyon
+França
+
+
+8.    NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+XXXXX
+
+
+
+
+9.    DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO
+      DE INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: DD de MM de AAAA
+
+
+10.   DATA DA REVISÃO DO TEXTO
+
+MM/AAAA
+

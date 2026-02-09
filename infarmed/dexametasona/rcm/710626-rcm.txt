@@ -1,0 +1,824 @@
+                   RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+
+1.    NOME DO MEDICAMENTO
+
+Dexametasona Basi 4 mg/ml solução injetável ou para perfusão
+
+
+2.    COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada 1 ml de solução injetável ou para perfusão contém 4,0 mg de fosfato de dexametasona (sob a forma
+de fosfato sódico de dexametasona).
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+3.    FORMA FARMACÊUTICA
+
+Solução injetável ou para perfusão.
+Solução límpida, incolor a quase incolor, isenta de partículas visíveis.
+pH: 7,0-8,5
+
+
+4.    INFORMAÇÕES CLÍNICAS
+
+4.1   Indicações terapêuticas
+
+Utilização sistémica
+Administração intravenosa ou intramuscular
+Dexametasona Basi é recomendado para administração sistémica por injeção intravenosa ou
+intramuscular quando a terapêutica oral não é viável ou desejável nas seguintes condições:
+     - Edema cerebral causado por tumor cerebral, intervenções neurocirúrgicas, abcesso cerebral,
+        meningite bacteriana;
+     - Choque pós-traumático e prevenção da síndrome de dificuldade respiratória aguda (SDRA) pós-
+        traumática;
+     - Doença por coronavírus 2019 (COVID-19) em doentes adultos e adolescentes (com idade igual
+        ou superior a 12 anos e peso corporal de pelo menos 40 kg) que necessitem de oxigenoterapia
+        suplementar;
+     - Choque anafilático (após injeção inicial de epinefrina);
+     - Ataque asmático agudo grave;
+     - Tratamento parentérico inicial de doenças cutâneas extensas, agudas, graves, como
+        eritrodermia, pênfigo vulgar, eczema agudo;
+     - Doenças do sangue graves (por ex., púrpura trombocitopénica aguda, anemia hemolítica, como
+        medicação concomitante nos tratamentos da leucemia);
+     - Tratamento parentérico inicial de doenças autoimunes, como lúpus eritematoso sistémico (em
+        especial as formas viscerais);
+     - Artrite reumatoide ativa com uma evolução progressiva grave, por exemplo, formas
+        rapidamente destrutivas e/ou com manifestações extra-articulares;
+     - Doenças infeciosas graves com estados tóxicos (por exemplo, tuberculose, tifo, brucelose)
+        apenas com terapêutica anti-infeciosa adequada;
+     - Terapêutica paliativa de tumores malignos;
+     - Profilaxia e terapêutica do vómito pós-operatório ou induzido por citostáticos no contexto de
+        regimes antieméticos.
+
+Administração local
+   - Injeções intra-articulares e periarticulares para inflamação persistente de uma ou várias
+       articulações após tratamento geral de doença articular inflamatória crónica, artrose ativada,
+           formas agudas de periartropatia umeroscapularis;
+      -    Terapêutica de infiltração (apenas quando estritamente indicado) para tendovaginite e bursite
+           não bacterianas, periartropatia, tendinopatia insercional.
+
+4.2       Posologia e modo de administração
+
+Posologia
+
+A dose deve ser individualizada dependendo da doença, da gravidade da doença e da resposta individual
+do doente ao tratamento. Em geral, devem ser utilizadas doses iniciais relativamente elevadas, sendo
+necessárias doses significativamente mais elevadas para o tratamento de doenças agudas graves do que
+para doenças crónicas.
+
+São recomendados os seguintes esquemas posológicos:
+
+Uso sistémico
+Administração intravenosa ou intramuscular
+
+Adultos
+
+    • Edema cerebral
+Inicialmente 8-10 mg (até 80 mg) IV, depois 16-24 mg (até 48 mg)/dia IV em 3-4 (6) doses individuais
+durante 4-8 dias. Pode ser necessária uma administração prolongada de Dexametasona Basi em doses
+mais baixas durante a irradiação e como parte da terapêutica conservadora de tumores cerebrais
+inoperáveis.
+Edema cerebral devido a meningite bacteriana: 0,15 mg/kg de peso corporal a cada 6 horas durante 4
+dias.
+
+    • Choque pós-traumático e prevenção de SDRA pós-traumática
+Inicialmente 40-100 mg IV repetidos após 12h. Em alternativa, 16 - 40 mg a cada 6 horas durante 2 - 3
+dias.
+
+    • Tratamento da COVID-19
+6 mg IV uma vez por dia durante até 10 dias. A duração do tratamento deve ser orientada pela resposta
+clínica e pelas necessidades individuais do doente.
+
+    • Choque anafilático
+40-100 mg IV após uma injeção intravenosa inicial de epinefrina. A dose pode ser repetida se necessário.
+
+    • Ataque asmático agudo grave
+8-20 mg IV tão cedo quanto possível. A injeção pode ser repetida, se necessário, numa dose de 8 mg a
+cada 4 horas. Adicionalmente, pode ser administrada aminofilina intravenosa.
+
+    • Doenças cutâneas agudas
+Doses diárias de 8-40 mg IV, em casos individuais até 100 mg, seguidas de tratamento oral em doses
+decrescentes.
+
+      • Doenças do sangue graves (por ex., púrpura trombocitopénica aguda, anemia hemolítica, como
+        medicação concomitante nos tratamentos da leucemia)
+Tratamento inicial com 20-40 mg de dexametasona IV e, dependendo da gravidade do caso, tratamento
+subsequente com a mesma dose diária ou doses mais baixas nos primeiros dias e mudança para
+terapêutica oral.
+
+   • Fases ativas da doença reumática sistémica, como o lúpus eritematoso sistémico
+Doses diárias de 6-16 mg.
+    • Artrite reumatoide ativa com uma evolução progressiva grave
+Doses diárias de 12-16 mg para o tratamento da doença de progressão rápida. São recomendadas doses
+diárias de 6-12 mg em caso de manifestações extra-articulares.
+
+    •  Doença infeciosa grave com estados tóxicos (por exemplo, tuberculose, tifo) apenas como
+       adjuvante da terapêutica anti-infeciosa)
+Doses diárias de 4-20 mg IV. Em casos individuais (por exemplo, tifo), inicialmente até 200 mg.
+
+    • Tratamento paliativo dos tumores malignos
+Inicialmente 8-16 mg/dia, em caso de tratamento prolongado, 4-12 mg/dia.
+
+    •    Profilaxia e tratamento dos vómitos induzidos por citostáticos no contexto de regimes
+         antieméticos
+10-20 mg IV antes do início da quimioterapia, depois, se necessário, 2 a 3 vezes por dia 4-8 mg durante
+1-3 dias (terapêutica moderadamente emetogénica) ou até 6 dias (quimioterapia altamente emetogénica).
+
+   • Profilaxia e tratamento do vómito pós-operatório
+Dose individual de 8-20 mg IV antes do início da operação.
+
+Populações especiais
+
+População pediátrica
+
+    • Edema cerebral devido a meningite bacteriana
+0,4 mg/kg de peso corporal em crianças a cada 12 horas durante 2 dias, começando antes da primeira
+administração de antibióticos.
+
+    • Choque pós-traumático e prevenção da SDRA pós-traumática
+Inicialmente 40 mg IV em crianças, repetido após 12h.
+
+    • Tratamento da COVID-19
+Recomenda-se a administração de 6 mg/dose IV a adolescentes com idade igual ou superior a 12 anos,
+uma vez por dia, durante um máximo de 10 dias. A duração do tratamento deve ser orientada pela
+resposta clínica e pelas necessidades individuais do doente.
+
+    • Choque anafilático
+40 mg IV em crianças após uma injeção intravenosa inicial de epinefrina, a dose pode ser repetida se
+necessário.
+
+    • Ataque asmático agudo grave
+0,15-0,3 mg/kg de peso corporal IV ou 1,2 mg/kg de peso corporal em bólus, seguido de 0,3 mg/kg a
+cada 4-6 horas. Adicionalmente, pode ser administrada aminofilina intravenosa.
+
+    • Profilaxia e terapêutica do vómito pós-operatório
+0,15-0,5 mg/kg de peso corporal em crianças com mais de 2 anos de idade, com uma dose máxima de
+16 mg.
+Dexametasona Basi não é geralmente recomendado para utilização em recém-nascidos pré-termo ou a
+termo (ver secção 4.4).
+
+A duração do tratamento depende da resposta clínica e das necessidades individuais do doente.
+
+Compromisso renal
+Não é necessário qualquer ajuste da dose em doentes com compromisso da função renal (ver também
+secção 5.2).
+Compromisso hepático
+Em doentes com doença hepática grave, pode ser necessário um ajuste da dose (ver também secção 5.2).
+
+Utilização em idosos
+O tratamento de doentes idosos, sobretudo a longo prazo, deve ser planeado tendo em conta as
+consequências mais graves dos efeitos indesejáveis frequentes dos corticosteroides na velhice,
+especialmente osteoporose, diabetes, hipertensão, hipocaliemia, suscetibilidade a infeções e perda de
+espessura da pele. É necessária uma supervisão clínica rigorosa para evitar reações potencialmente fatais
+(ver secção 4.4).
+
+Utilização local
+A dose habitual recomendada para infiltração local ou administração intra-articular é de 4-8 mg. Se for
+injetada em pequenas articulações, é suficiente uma dose mais baixa de 2 mg de fosfato de
+dexametasona.
+
+Modo de administração
+
+Via intravenosa, intramuscular, intra-articular, subconjuntival ou local (infiltração).
+Dexametasona Basi é normalmente administrado lentamente (2-3 minutos) por via intravenosa em caso
+de doenças agudas.
+
+Contudo, também pode ser aplicado por via intramuscular (apenas em casos excecionais), local
+infiltrativa, intra-articular ou subconjuntival.
+
+A injeção intra-articular deve ser administrada em condições de assepsia rigorosas. Em geral, uma única
+injeção intra-articular é suficiente para aliviar com êxito os sintomas. Se for considerada necessária uma
+nova injeção, esta deve ser administrada, no mínimo, 3-4 semanas mais tarde. O número de injeções por
+articulação deve ser limitado a 3-4. Em especial, após cada injeção consecutiva, é indicado um exame
+médico da articulação.
+
+A infiltração local deve ser efetuada em condições de assepsia rigorosas na zona de dor mais intensa ou
+nas ligações tendinosas. Deve tomar-se cuidado para não administrar a injeção diretamente no tendão.
+Deve evitar-se a administração em intervalos curtos.
+
+Caso sejam necessárias doses elevadas para um único tratamento, deve ser considerada a utilização de
+medicamentos com dexametasona com dosagens/volumes mais elevados.
+
+Para instruções acerca da diluição do medicamento antes da administração, ver secção 6.6.
+
+4.3   Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na secção 6.1.
+
+A injeção intra-articular é contraindicada em
+    - infeções na ou na proximidade da articulação a ser tratada;
+    - artrite bacteriana;
+    - instabilidade da articulação a ser tratada;
+    - tendência hemorrágica (espontânea ou devido a anticoagulantes);
+    - calcificação periarticular;
+    - necrose óssea não vascularizada;
+    - rutura de tendão;
+    - articulação de Charcot.
+
+A infiltração sem tratamento adicional causal é contraindicada em infeções na área de aplicação.
+
+4.4   Advertências e precauções especiais de utilização
+A descontinuação abrupta deste medicamento, quando administrado por mais de 10 dias, pode resultar
+em insuficiência suprarrenal aguda. Assim, em caso de descontinuação programada, a dose deve ser
+reduzida lentamente. A insuficiência cortical suprarrenal, causada pela terapêutica glucocorticoide, pode
+persistir, dependendo da dose e da duração do tratamento, durante vários meses e em alguns casos mais
+de um ano após descontinuação da terapêutica.
+
+Em caso de situações especiais de stress físico (acidente, cirurgia, parto, etc.) durante o tratamento com
+Dexametasona Basi, poderá ser necessário um aumento temporário da dose. Podem também ser
+necessários glucocorticoides em situações de stress físico em caso de insuficiência cortical suprarrenal
+persistente após o final do tratamento.
+
+Dexametasona Basi deve ser injetado lentamente (2-3 minutos) quando utilizado por via intravenosa,
+uma vez que podem ocorrer efeitos indesejáveis intrinsecamente inofensivos de curta duração, com
+duração até 3 minutos, sob a forma de formigueiro ou parestesia desagradáveis (normalmente quando a
+injeção é realizada muito rapidamente).
+
+Quando aplicado localmente, devem considerar-se possíveis efeitos indesejáveis sistémicos e interações.
+A administração intra-articular de glucocorticoides aumenta o risco de infeção da articulação. A
+aplicação a longo prazo e repetida de glucocorticoides nas articulações que suportam o peso pode levar
+ao agravamento das alterações relacionadas com o desgaste na articulação. Isto pode dever-se à
+sobrecarga da articulação afetada após uma diminuição da dor ou outros sintomas.
+
+O tratamento com Dexametasona Basi pode aumentar o risco de infeções bacterianas, virais, fúngicas,
+parasitárias e oportunistas devido ao seu efeito imunossupressor.
+Os sintomas de uma infeção manifesta ou em desenvolvimento podem ser mascarados, tornando o
+diagnóstico mais difícil. Infeções latentes como tuberculose ou hepatite B podem ser reativadas.
+
+Os corticosteroides sistémicos não devem ser descontinuados em doentes que já estejam a ser tratados
+com corticosteroides sistémicos (orais) por outras razões (por ex., doentes com doença pulmonar
+obstrutiva crónica), mas que não necessitam de oxigénio adicional.
+
+Deve tomar-se especial precaução nos seguintes casos:
+
+    •   Infeções bacterianas agudas e crónicas: antibioterapia dirigida.
+    •   Em caso de antecedentes de tuberculose, utilizar apenas sob proteção com medicamentos
+        tuberculostáticos.
+    •   Micoses sistémicas: terapêutica antimicótica simultânea. Os corticosteroides podem promover
+        infeções bacterianas e infeções fúngicas (infeções por Candida).
+    •   Certas parasitoses (infeção por Amoeba, nematoides): terapêutica antiparasitária simultânea. Os
+        glucocorticoides podem causar ativação e disseminação em doentes com suspeita ou
+        confirmação de infestação por nematoides.
+    •   Aproximadamente 8 semanas antes a 2 semanas após vacinação com vacinas vivas: doenças
+        virais podem ser particularmente graves em doentes tratados com dexametasona. Crianças
+        imunocomprometidas (imunosupprimidas) bem como indivíduos sem antecedentes de sarampo
+        ou varicela podem estar em especial risco. Se, durante o tratamento com dexametasona, estes
+        indivíduos estiverem em contacto com pessoas infetadas com sarampo ou varicela, devem
+        contactar o seu médico imediatamente, que poderá iniciar tratamento preventivo, se necessário.
+    •   Úlceras gastrointestinais: terapêutica concomitante com agentes ulcerosos bem como
+        monitorização cuidada (incluindo exame de raio-X ou gastroscopia).
+    •   Osteoporose: dependendo da duração e da dosagem do tratamento, é expectável um impacto
+        negativo no metabolismo do cálcio, sendo necessária a administração adicional de cálcio e
+        recomendada a administração de vitamina D. Deve considerar-se tratamento adicional em
+        doentes com osteoporose pré-existente. Para a osteoporose grave, utilizar apenas para indicação
+        vital ou apenas durante um curto período. Deve ser realizada uma avaliação particular do
+        beneficio/risco nos idosos e deve tomar-se atenção aos efeitos indesejáveis como a osteoporose.
+    •   Hipertensão difícil de ajustar: tratamento anti-hipertensivo combinado e monitorização regular.
+    •   Diabetes mellitus: monitorização clínica e ajuste da terapêutica antidiabética.
+    •   Infeções virais agudas (hepatite B, herpes zóster, herpes simples, varicela, queratite herpética).
+    •   Antecedentes psiquiátricos incluindo risco de suicídio (também nos antecedentes do doente):
+        propõe-se a monitorização neurológica ou psiquiátrica.
+    •   Glaucoma de ângulo fechado e de ângulo aberto; ulcerações e lesões da córnea; monitorização
+        oftálmica estreita e tratamento.
+    •   Insuficiência renal ou cardíaca: terapêutica eficaz simultânea da doença subjacente e
+        monitorização contínua.
+    •   Miastenia grave: é possível um agravamento inicial dos sintomas após administração de
+        corticoides; assim, seleção cuidadosa e cautelosa da dose inicial.
+
+Devido ao risco de perfuração intestinal, Dexametasona Basi apenas deve ser utilizado para indicações
+imperiosas e sob monitorização adequada em caso de:
+
+    •   colite ulcerosa grave com perfuração iminente;
+    •   formação de abcessos ou infeções purulentas;
+    •   diverticulite;
+    •   enteroanastomose (pós-operatório imediato).
+
+Os sinais de irritações peritoneais após perfuração gastrointestinal podem estar ausentes em doentes a
+receber doses elevadas de glucocorticoides.
+
+Crise de feocromocitoma
+Após a administração de corticosteroides, foi notificada a ocorrência de uma crise de feocromocitoma,
+que poderá ser fatal. Em doentes com suspeita ou diagnóstico de feocromocitoma, os corticosteroides
+apenas devem ser utilizados após uma avaliação adequada do risco-beneficio.
+
+O risco de doenças do tendão, inflamações do tendão e rutura do tendão aumenta com a utilização
+concomitante de fluoroquinolonas e corticosteroides.
+
+A vacinação com vacinas inativadas é possível. Contudo, deve ter-se em atenção que a reação imunitária
+e, deste modo, o sucesso da vacinação, pode estar comprometida com doses elevadas de corticosteroides.
+
+Podem ocorrer reações anafiláticas graves.
+No caso de terapêutica prolongada, são indicados exames médicos regulares (incluindo exames
+oftalmológicos em intervalos de três meses); em doses comparativamente elevadas, deve observar-se
+uma ingestão suficiente de potássio e uma restrição de sódio, e os níveis de potássio sérico devem ser
+monitorizados. Uma monitorização cuidada é também indicada em doentes com insuficiência cardíaca
+grave.
+
+As mulheres devem informar o médico sobre a existência de gravidez. Pode ocorrer bradicardia com
+doses elevadas de dexametasona.
+
+Foi observada síndrome de lise tumoral (SLT) em doentes com doenças hematológicas após a aplicação
+de dexametasona isolada ou em associação com outros agentes quimioterapêuticos. Os doentes em risco
+elevado de SLT, como doentes com elevada taxa proliferativa, elevada carga tumoral e elevada
+sensibilidade a agentes citostáticos devem ser monitorizados de perto e tratados com as devidas
+precauções.
+
+Afeções oculares
+Podem ocorrer afeções oculares durante a aplicação sistémica e tópica de corticosteroides. Se um doente
+apresentar sintomas como visão turva ou outras perturbações visuais, deve considerar-se a referenciação
+do doente a um oftalmologista para avaliação de possíveis causas; estas podem incluir, entre outras,
+cataratas, glaucoma ou doenças raras, como coriorretinopatia serosa central (CRSC) que têm sido
+notificadas após a aplicação de corticosteroides sistémicos ou tópicos.
+Cardiomiopatia hipertrófica
+Foi notificada cardiomiopatia hipertrófica após a administração sistémica de corticosteroides, incluindo
+dexametasona, em bebés prematuros. Na maioria dos casos notificados, esta foi reversível após
+descontinuação do tratamento. Bebés prematuros tratados com dexametasona administrada por via
+sistémica devem ser submetidos a avaliação diagnóstica e monitorização da função e estrutura cardíacas
+(ver secção 4.8).
+
+Idosos
+No caso dos doentes idosos, deve ser realizada uma avaliação especial do beneficio/risco e deve prestar-
+se atenção aos efeitos indesejáveis como a osteoporose.
+
+População pediátrica
+Bebés prematuros: Os dados disponíveis sugerem efeitos indesejáveis prolongados no desenvolvimento
+neuronal após o tratamento precoce (<96 horas) de bebés prematuros com doença pulmonar crónica em
+doses de 0,25 mg/kg duas vezes por dia no início do tratamento.
+É necessária uma avaliação diagnóstica rigorosa em crianças e adolescentes em crescimento.
+
+A aplicação intramuscular de Dexametasona Basi deve ser realizada apenas excecionalmente pelas
+seguintes razões:
+    - é possível a ocorrência de intolerância local e perda de tecidos (atrofia do tecido adiposo e
+        muscular);
+    - incerteza na dosagem: excesso inicial de dose, depois efeito insuficiente;
+    - discrepância entre a duração do efeito terapêutico desejado e o efeito inibitório no eixo
+        hipotálamo-hipófise-suprarrenal.
+
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por ampola ou seja, é praticamente
+“isento de sódio”.
+
+4.5    Interações medicamentosas e outras formas de interação
+
+      Glicosídeos digitálicos:                        Aumento do efeito do glicosídeo pela carência de
+                                                      potássio.
+      Saluréticos:                                    Excreção adicional de potássio.
+      Antidiabéticos:                                 A diminuição da glicemia está reduzida.
+      Derivados cumarínicos:                          Anticoagulação diminuída ou aumentada;
+                                                      Quando coadministrados é necessário um ajuste
+                                                      posológico.
+      Efedrina:                                       Efeito corticoide diminuído.
+      Rifampicina, fenitoína, carbamazepina,          Efeito corticoide diminuído.
+      barbitúricos, primidona e outros
+      medicamentos indutores do CYP3A4:
+      Cetoconazol, itraconazol, ritonavir,            Espera-se que o tratamento concomitante com
+      cobicistate, antibióticos macrólidos e outros   inibidores do CYP3A, incluindo medicamentos
+      medicamentos inibidores do CYP3A4:              contendo cobicistate, aumente o risco de efeitos
+                                                      indesejáveis sistémicos. A associação deve ser
+                                                      evitada a não ser que o benefício seja superior ao
+                                                      risco aumentado de efeitos indesejáveis sistémicos
+                                                      dos corticosteroides; neste caso, os doentes devem
+                                                      ser monitorizados para efeitos sistémicos dos
+                                                      corticosteroides.
+      Anti-inflamatórios não esteroides/agentes       Aumento do risco de
+      antirreumáticos (por ex., salicilatos e         ulcerações e hemorragia
+      indometacina):                                  gastrointestinal.
+      Contracetivos contendo estrogénio:              Efeito corticoide aumentado.
+      Praziquantel:                                   Possível redução da concentração de praziquantel no
+                                                      sangue.
+      Inibidores da ECA:                              Risco aumentado de ocorrência de alterações no
+                                                      hemograma.
+      Cloroquina, hidroxicloroquina, mefloquina:      Aumento do risco de ocorrência de miopatias,
+                                                      cardiomiopatias.
+      Somatropina:                                    O efeito da somatropina é reduzido após
+                                                      administração prolongada.
+      Laxantes:                                       Aumento da perda de potássio.
+      Atropina, outros anticolinérgicos:              Não se pode excluir um aumento adicional da
+                                                      pressão intraocular.
+      Relaxantes musculares não despolarizantes:      O relaxamento muscular pode durar mais.
+      Imunossupressores (ciclosporina):               Aumento da suscetibilidade a infeções e
+                                                      agravamento ou manifestação de infeções latentes.
+                                                      No caso da ciclosporina, existe um risco aumentado
+                                                      adicional de convulsões cerebrais.
+      Bupropiom:                                      A administração concomitante com glucocorticoides
+                                                      sistémicos pode aumentar o risco de convulsões.
+
+      Fluoroquinolonas:                               O risco de doenças do tendão, inflamação do tendão
+                                                      e ruturas do tendão está aumentada.
+
+Influência em métodos de teste:
+As reações cutâneas a testes de alergias podem ser suprimidas. Protirrelina: ao administrar protirrelina,
+o aumento na TSH pode estar reduzido.
+
+Se o tratamento glucocorticoide for realizado 8 semanas antes e até 2 semanas depois de uma imunização
+ativa, deve esperar-se uma redução ou ausência da imunização.
+
+4.6    Fertilidade, gravidez e aleitamento
+
+Gravidez
+A dexametasona atravessa a placenta. Durante a gravidez, especialmente durante os primeiros três
+meses, a utilização deve ser realizada apenas após uma avaliação cuidada do risco/beneficio. A
+utilização de Dexametasona Basi durante a gravidez apenas deve ocorrer em caso de indicação vital. A
+administração de corticosteroides a animais gestantes pode causar deformações durante o
+desenvolvimento fetal, incluindo fenda palatina, atraso do crescimento intrauterino e efeitos no
+crescimento e desenvolvimento do cérebro. Não existe evidência de que os corticosteroides provoquem
+um aumento da incidência de anomalias congénitas tais como fenda palatina/lábio leporino em humanos.
+Ver também secção 5.3. Se os glucocorticoides forem administrados no final da gravidez, o feto está em
+risco de atrofia do córtex suprarrenal, o que pode exigir uma redução gradual do tratamento de
+substituição no recém-nascido.
+
+Estudos mostraram um aumento do risco de hipoglicemia neonatal após a utilização pré-natal de curta
+duração de corticosteroides, incluindo a dexametasona, em mulheres em risco de parto prematuro tardio.
+
+Amamentação
+Os glucocorticoides passam para o leite materno. Não foi notificado até à data nenhum dano no lactente.
+Contudo, durante a amamentação, a administração apenas deve ser realizada se a situação o exigir. Se
+forem necessárias doses elevadas devido a razões da doença, a amamentação deve ser descontinuada.
+
+Fertilidade
+Não foram realizados estudos de fertilidade.
+
+4.7    Efeitos sobre a capacidade de conduzir e utilizar máquinas
+Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+
+4.8   Efeitos indesejáveis
+
+O risco de efeitos indesejáveis é baixo com a terapêutica de curta duração com dexametasona. Contudo,
+devem ser consideradas úlceras gástricas e intestinais (frequentemente causadas por stress), que podem
+apresentar menos sintomas como resultado do tratamento corticoide, e redução da tolerância à glucose
+e resistência à infeção.
+
+Especialmente durante o tratamento prolongado (mais de aproximadamente 2 semanas), podem ocorrer
+efeitos indesejáveis glucocorticoides, que se apresentam como um efeito hormonal exagerado
+semelhante à síndrome de Cushing.
+
+Podem ocorrer os seguintes efeitos indesejáveis, que são altamente dependentes da dose e da duração
+da terapêutica e cuja frequência é desconhecida (a frequência não pode ser calculada a partir dos dados
+disponíveis):
+
+Infeções e infestações
+Mascarar de infeções, manifestação, propagação ou reativação de infeções (infeções bacterianas, virais,
+fúngicas, parasitárias e oportunistas), ativação de nematoides (ver secção 4.4).
+
+Doenças do sangue e do sistema linfático
+Alterações no hemograma (leucocitose moderada, linfopenia, eosinopenia, poliglobulia).
+
+Doenças do sistema imunitário
+Reações de hipersensibilidade (por ex., exantema), reações anafiláticas graves tais como arritmias,
+broncospasmo, descida ou subida da pressão arterial, colapso circulatório, paragem cardíaca,
+enfraquecimento do sistema imunitário.
+
+Doenças endócrinas
+Síndrome de Cushing (tais como face lunar, obesidade abdominal), inatividade ou atrofia do córtex
+suprarrenal.
+
+Doenças do metabolismo e da nutrição
+Retenção de sódio com formação de edema, aumento da excreção de potássio (cuidado: disrritmias!),
+ganho de peso, tolerância à glucose diminuída, diabetes mellitus, aumento do apetite,
+hipercolesterolemia e hipertrigliceridemia.
+
+Perturbações do foro psiquiátrico
+Psicose, depressão, irritação, euforia, perturbações do sono, labilidade, ansiedade, mania, alucinações,
+cansaço da vida.
+
+Doenças do sistema nervoso
+Pseudotumor do cérebro, manifestação de epilepsia latente e aumento da disposição para convulsões
+com epilepsia manifesta.
+
+Afeções oculares
+Aumento da pressão intraocular (glaucoma), opacificação do cristalino (catarata). Agravamento dos
+sintomas na úlcera da córnea, estimulação da inflamação viral, fúngica e bacteriana do olho,
+aagravamento da infeção bacteriana da córnea, ptose palpebral, midríase, quemose, perfuração da
+esclerótica iatrogénica, coriorretinopatia. Exoftalmia reversível em casos raros. Visão turva (ver também
+secção 4.4).
+
+Cardiopatias
+Cardiomiopatia hipertrófica em bebés prematuros (ver secção 4.4).
+
+Vasculopatias
+Hipertensão, aumento do risco de aterosclerose e trombose, inflamação vascular (vasculite, também
+chamada síndrome de privação após terapêutica prolongada), fragilidade capilar.
+
+Doenças gastrointestinais
+Mal-estar do estômago, ativação e desenvolvimento de úlcera gástrica ou úlcera duodenal, pancreatite
+(em caso de predisposição, por ex., devido a alcoolismo), hemorragia gastrointestinal, risco de
+perfuração em caso de colite ulcerosa.
+
+Afeções dos tecidos cutâneos e subcutâneos
+Estrias cutâneas (estrias rubras), perda de espessura da pele (atrofia), hemorragia cutânea puntiforme
+(petéquias), hematomas (equimoses), acne esteroide, dermatite perioral, telangiectasia, hipertricose,
+alterações na pigmentação cutânea.
+
+Afeções musculosqueléticas e dos tecidos conjuntivos
+Fraqueza muscular, amiotrofia (atrofia), miopatia, doenças do tendão, inflamação do tendão, rutura do
+tendão, osteoporose, necroses ósseas assépticas, retardação do crescimento em crianças, lipomatose
+epidural.
+
+Doenças dos órgãos genitais e da mama
+Perturbações da secreção da hormona sexual (amenorreia, hirsutismo, impotência)
+
+Perturbações gerais e alterações no local de administração
+Cicatrização retardada de feridas
+
+Aplicação local: São possíveis reações locais de irritação e intolerância (sensação de calor, dor
+prolongada), principalmente com o uso oftálmico. O desenvolvimento de atrofia cutânea e de atrofia do
+tecido subcutâneo no local da injeção não pode ser excluído se os corticosteroides não forem
+cuidadosamente injetados na cavidade articular.
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas diretamente ao
+INFARMED, I.P.:
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+E-mail: farmacovigilancia@infarmed.pt
+
+4.9   Sobredosagem
+
+Não são conhecidas intoxicações agudas com dexametasona. Em caso de sobredosagem, é expectável
+um aumento dos efeitos indesejáveis (ver secção 4.8), especialmente no sistema endócrino, metabolismo
+e equilíbrio eletrolítico. Não se conhece nenhum antidoto.
+
+
+5.    PROPRIEDADES FARMACOLÓGICAS
+
+5.1   Propriedades farmacodinâmicas
+Grupo farmacoterapêutico: 8.2.2 – Hormonas e medicamentos usados no tratamento das doenças
+endócrinas. Corticosteroides. Glucocorticoides, código ATC: H02AB02
+
+A dexametasona é um glucocorticoide monofluorado com propriedades antialérgicas, anti-inflamatórias
+e estabilizadoras de membrana distintas, e com efeitos no metabolismo dos hidratos de carbono,
+proteínas e gorduras.
+
+A dexametasona tem uma ação glucocorticoide aproximadamente 7,5 vezes maior que a prednisolona e
+a prednisona; comparada à hidrocortisona, é 30 vezes mais eficaz; não tem efeitos mineralocorticoides.
+Os glucocorticoides, como a dexametasona, exercem os seus efeitos biológicos ativando a transcrição
+de genes sensíveis aos corticosteroides. Os efeitos anti-inflamatórios, imunossupressores e anti-
+proliferativos são causados, entre outros, pela diminuição da formação, libertação e atividade de
+mediadores inflamatórios, e pela inibição de funções específicas e pela migração de células
+inflamatórias. Adicionalmente, os corticosteroides podem prevenir o efeito dos linfócitos T e dos
+macrófagos sensibilizados nas células alvo.
+
+Quando o tratamento de longa duração com corticoides é necessário, a possibilidade de indução de
+insuficiência cortical suprarrenal transitória deve ser considerada. A supressão do eixo hipotálamo-
+hipófise-suprarrenal também depende de fatores individuais.
+
+A dose limite de Cushing é de 1,5 mg/dia.
+
+O estudo RECOVERY (Randomized Evaluation of COVid-19 thERapY)1 é um estudo iniciado pelo
+investigador, individualmente aleatorizado, controlado, aberto e de plataforma adaptativa para avaliar
+os efeitos de potenciais tratamentos em doentes hospitalizados com COVID-19.
+
+O estudo foi realizado em 176 hospitais no Reino Unido.
+
+6425 doentes foram aleatorizados para receberem ou dexametasona (2104 doentes) ou apenas o
+tratamento convencional (4321 doentes). 89% dos doentes tinham infeção por SARS-CoV-2 confirmada
+em laboratório.
+
+Aquando da aleatorização, 16% dos doentes já estavam a receber ventilação mecânica invasiva ou
+oxigenação por membrana extracorporal, 60% estavam a receber apenas oxigénio (com ou sem
+ventilação não-invasiva) e 24% não estavam a receber assistência respiratória.
+
+Os doentes tinham em média 66,1 ± 15,7 anos de idade. 36% dos doentes era do sexo feminino. 24%
+dos doentes tinha antecedentes de diabetes, 27% tinha doenças cardíacas e 21% tinha doença pulmonar
+crónica.
+
+Objetivo primário
+A taxa de mortalidade aos 28 dias foi significativamente inferior no grupo da dexametasona do que no
+grupo do tratamento convencional, com 482 mortes em 2104 doentes (22,9%) e com 1110 dos 4321
+doentes (25,7%), respetivamente (razão de taxa: 0,83; intervalo de confiança [IC] a 95%: 0,75 - 0,93; P
+<0,001).
+
+No grupo da dexametasona, a mortalidade observada em doentes a receber ventilação mecânica invasiva
+(29,3% vs. 41,4%; RR: 0,64; IC 95%: 0,51-0,81) e em doentes a receber apenas oxigénio adicional sem
+ventilação mecânica invasiva (23,3% vs. 26,2%; RR: 0,82; IC 95%: 0,72-0,94) foi inferior do que no
+grupo de tratamento convencional.
+
+Não houve um efeito claro da dexametasona entre os doentes que não estavam a receber suporte
+respiratório aquando da aleatorização (17,8% vs. 14,0%; RR: 1,19; IC 95%: 0,91-1,55).
+
+Objetivos secundários
+Os doentes no grupo da dexametasona tiveram uma duração de hospitalização mais curta do que aqueles
+no grupo do tratamento convencional (mediana: 12 dias versus 13 dias) e uma maior probabilidade de
+alta hospitalar aos 28 dias (RR: 1,10; IC 95%: 1,03-1,17).
+
+De acordo com o objetivo primário, o maior efeito em relação à alta aos 28 dias foi observado entre os
+doentes que estavam a receber ventilação mecânica invasiva após a aleatorização (RR: 1,48; IC 95%:
+1,16-1,90), seguido do grupo a receber apenas oxigénio (RR: 1,15; IC 95%: 1,06-1,24). Não houve
+nenhum efeito positivo em doentes que não receberam oxigénio (RR: 0,96; IC 95%: 0,85-1,08).
+
+                                               Dexametasona        Tratamento          Razão de
+                                               (N=2104)            convencional        risco/taxa (RR)
+ Resultado
+                                                                   (N=4321)            (IC 95%)*
+                                                           Número/número total de doentes (%)
+ Resultado primário
+ Mortalidade aos 28 dias                       482/2104 (22,9)        1110/4321 (25,7)        0,83 (0,75-0,93)
+ Resultados secundários
+ Alta hospitalar em 28 dias                    1413/2104 (67,2)       2745/4321 (63,5)        1,10 (1,03-1,17)
+ Ventilação mecânica invasiva ou               456/1780 (25,6)        994/3638 (27,3)         0,92 (0,84-1,01)
+ morte**
+  Ventilação mecânica invasiva                 102/1780 (5,7)         285/3638 (7,8)          0,77 (0,62-0,95)
+  Morte                                        387/1780 (21,7)        827/3638 (22,7)         0,93 (0,84-1,03)
+* As RR foram ajustadas para a idade no que diz respeito aos resultados da mortalidade aos 28 dias e alta hospitalar.
+As RR foram ajustadas para a idade no que diz respeito ao resultado de receber ventilação mecânica invasiva ou
+morte e seus subcomponentes.
+** Os doentes que já estavam a receber ventilação mecânica invasiva aquando da aleatorização foram excluídos
+desta categoria.
+1
+  www.recoverytrial.net
+
+Segurança
+Houve quatro acontecimentos adversos graves (AAG) relacionados com o tratamento do estudo: dois
+AAG de hiperglicemia, um AAG de psicose induzida por esteroides e um AAG de hemorragia
+gastrointestinal superior. Todos os acontecimentos foram resolvidos.
+
+Análise de subgrupo
+Efeitos da alocação para DEXAMETASONA na mortalidade a 28 dias, por idade e suporte
+respiratório recebido aquando da aleatorização2
+                                                                    RR (IC 95%)
+
+
+
+
+Efeitos da alocação para DEXAMETASONA na mortalidade a 28 dias, por suporte respiratório
+recebido na aleatorização e antecedentes de qualquer doença crónica3
+                                                                                        RR (IC 95%)
+
+
+
+
+   (fonte: Horby P. et al., 2020; https://www.medrxiv.org/content/10.1101/2020.06.22.20137273v1 ;
+2, 3
+
+doi: https://doi.org/10.1101/2020.06.22.20137273)
+
+5.2    Propriedades farmacocinéticas
+
+Distribuição
+A dexametasona liga-se principalmente à albumina plasmática de forma dependente da dose. Em
+concentrações muito elevadas, a maior parte está livre no sangue, i.e. não se liga às proteínas. Em caso
+de hipoalbuminemia, a proporção do corticoide (ativo) não ligado aumenta.
+A semivida biológica (a extensão do efeito biológico ao longo do empo) da dexametasona é de 36-
+72 horas.
+
+Distribuição no LCR
+Os níveis máximos de dexametasona no LCR nos humanos, aproximadamente 1/6 da concentração
+plasmática concomitante, são medidos quatro horas após a administração por via intravenosa de
+dexametasona radioativamente marcada.
+
+Transferência placentária
+Como todos os glucocorticoides, a dexametasona também pode atravessar a barreira placentária, mas ao
+contrário da maioria dos outros corticoides, não pode ser metabolizada.
+
+Passagem para o leite materno
+Não existem dados disponíveis para a dexametasona. Os glucocorticoides passam para o leite materno
+em pequenas quantidades. A exposição do bebé será normalmente inferior a 1/100 da dose sistémica
+disponível para a mãe a amamentar. Ainda assim, a amamentação deve ser descontinuada ao administrar
+doses elevadas ou em caso de tratamento prolongado.
+
+Biotransformação
+Ocorre saponificação muito rapidamente após a injeção intravenosa de dihidrogenofosfato de
+dexametasona-21. Os valores máximos do álcool livre de dexametasona são medidos após 10 minutos.
+Parcialmente, a metabolização deve-se à conjugação com ácido glucorónico ou sulfúrico no fígado após
+excreção principalmente através dos rins.
+
+Eliminação
+A semivida de eliminação sérica da dexametasona em humanos adultos varia entre 168 e 234 minutos
+(média: 4,1 ± 1,3 horas). A dexametasona é principalmente excretada na urina, através dos rins sob a
+forma de álcool livre de dexametasona.
+Danos nos rins não afetam significativamente a eliminação de dexametasona. Em caso de doenças
+hepáticas graves (por ex., hepatite, cirrose hepática), mas também em caso de gravidez e utilização de
+estrogénio, a semivida de eliminação dos glucocorticoides está aumentada.
+O dihidrogenofosfato de dexametasona-21 é excretado em humanos principalmente como
+dexametasona. A hidrogenação ou a hidroxilação das moléculas tem lugar em pequena extensão, onde
+6-hidroxidexametasona e 20-diidrodexametasona são formados como os principais metabolitos. Em
+humanos, 30-40% da quantidade excretada na urina é ligada ao ácido glucorónico ou ácido sulfúrico.
+
+5.3   Dados de segurança pré-clínica
+
+Os glucocorticoides têm uma toxicidade aguda muito baixa. Não estão disponíveis informações sobre a
+toxicidade crónica em humanos e animais. Os sintomas de intoxicação relacionada com os corticoides
+não são conhecidos. Contudo, com a utilização terapêutica prolongada em humanos em doses de > 1
+mg/dia, devem esperar-se efeitos indesejáveis pronunciados.
+
+Em estudos em animais, foi observada fenda palatina em ratos, murganhos, hamsters, coelhos, cães e
+primatas, mas não em cavalos e ovelhas. Em alguns casos, estas anomalias e estavam associadas com
+defeitos do SNC e cardíacos. Nos primatas, foram observadas alterações na área cerebral após
+exposição. Além disso, o crescimento intrauterino pode estar atrasado. Todos estes efeitos foram
+observados com doses elevadas.
+
+Nos humanos, não há evidências de um aumento do risco de malformações de casos anteriormente
+publicados. Contudo, o número de casos é demasiado pequeno para excluir com segurança um risco.
+Experiências clínicas anteriores com glucocorticoides no primeiro trimestre não indicam um aumento
+do risco teratogénico. Não se podem excluir perturbações do crescimento intrauterino durante a
+terapêutica prolongada na gravidez. Em caso de tratamento no final da gravidez, os fetos estão em risco
+de atrofia do córtex suprarrenal, o que pode exigir uma redução gradual do tratamento de substituição
+no recém-nascido.
+
+
+6.    INFORMAÇÕES FARMACÊUTICAS
+
+6.1   Lista dos excipientes
+
+Citrato de sódio (E331)
+Creatinina
+Edetato dissódico
+Hidróxido de sódio (para ajuste do pH)
+Água para preparações injetáveis
+
+6.2   Incompatibilidades
+
+Este medicamento não pode ser misturado com outros medicamentos, exceto os mencionados na secção
+6.6.
+
+6.3   Prazo de validade
+
+3 anos
+Prazo de validade após abertura da ampola: Uma vez aberto, o medicamento deve ser utilizado
+imediatamente.
+
+Prazo de validade após diluição:
+A estabilidade química e física durante a utilização foi demonstrada durante 48 horas a 25 °C.
+Do ponto de vista microbiológico, o medicamento deve ser utilizado imediatamente. Se não for utilizado
+imediatamente, os tempos de conservação em uso e as condições antes da utilização são da
+responsabilidade do utilizador e não devem normalmente ultrapassar as 24 horas a 2-8 ºC, a não ser que
+a diluição tenha sido feita em condições assépticas controladas e validadas.
+
+6.4   Precauções especiais de conservação
+
+Conservar a temperatura inferior a 25 ºC.
+Conservar na embalagem de origem para proteger da luz.
+
+Condições de conservação do medicamento após primeira abertura e/ou diluição, ver secção 6.3.
+
+6.5   Natureza e conteúdo do recipiente
+
+Ampolas de vidro âmbar one-point-cut (OPC) de 1 ml, com vidro tipo I.
+Tamanho das embalagens: 5, 6, 10 ou 50 ampolas.
+
+É possível que não sejam comercializadas todas as apresentações.
+
+6.6   Precauções especiais de eliminação e manuseamento
+
+Utilizar apenas soluções límpidas. O conteúdo da ampola é apenas para uma única utilização. Quaisquer
+resíduos da solução injetável ou para perfusão devem ser destruídos.
+
+Pode ocorrer uma descoloração amarelada da solução dentro do prazo de validade indicado para o
+produto, mas esta não afeta a qualidade.
+
+As ampolas de Dexametasona Basi devem ser administradas por via intravenosa o mais diretamente
+possível ou injetadas num tubo de perfusão. Contudo, as soluções injetáveis são compatíveis com as
+seguintes soluções para perfusão:
+-     soro fisiológico 0,9% isotónico
+-     solução de Ringer
+-     solução de glucose 5%
+
+Quando associado com soluções para perfusão, deve ter-se em consideração a informação
+disponibilizada pelos respetivos fabricantes sobre as suas soluções para perfusão, incluindo
+compatibilidade, contraindicações, efeitos indesejáveis e interações.
+
+Instruções para a abertura das ampolas OPC (One-Point-Cut)
+1. Segurar o corpo da ampola entre o dedo polegar e o dedo indicador, com o ponto virado para cima;
+2. Colocar o dedo indicador da outra mão a apoiar a parte superior da ampola. Colocar o polegar em
+cima do ponto;
+3. Com os dedos indicadores perto um do outro, pressionar na zona do ponto para abrir a ampola.
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+
+
+7.    TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Laboratórios Basi - Indústria Farmacêutica, S.A.
+Parque Industrial Manuel Lourenço Ferreira, Lote 15
+3450-232 Mortágua - Portugal
+Tel.: +351 231 920 250
+Fax.: +351 231 921 055
+Email: basi@basi.pt
+
+
+8.    NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+[A ser completado nacionalmente]
+
+
+9.    DATA DA PRIMEIRA AUTORIZAÇÃO/ RENOVAÇÃO DA AUTORIZAÇÃO DE
+      INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: {DD de mês de AAAA}
+[A ser completado nacionalmente]
+
+
+10.   DATA DA REVISÃO DO TEXTO
+
+[A ser completado nacionalmente]
+

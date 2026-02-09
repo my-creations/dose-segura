@@ -1,0 +1,26 @@
+{
+  "medId": "clindamicina",
+  "searchTerm": "clindamicina",
+  "retrievedAt": "2026-02-08T19:35:00.000Z",
+  "bestMatch": {
+    "infarmedId": "1941",
+    "name": "Clincina",
+    "dci": "Clindamicina",
+    "form": "Solução injetável",
+    "dosage": "600 mg/4 ml",
+    "holder": "Labesfal - Laboratórios Almiro, S.A.",
+    "score": 1.0
+  },
+  "documents": {
+    "rcm": {
+      "status": "success",
+      "contentType": "application/pdf",
+      "file": "infarmed/clindamicina/rcm/1941-rcm.pdf"
+    },
+    "fi": {
+      "status": "success",
+      "contentType": "application/pdf",
+      "file": "infarmed/clindamicina/fi/1941-fi.pdf"
+    }
+  }
+}

@@ -1,0 +1,700 @@
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1. NOME DO MEDICAMENTO
+
+Ampicilina Labesfal, 500 mg, pó para solução injetável
+Ampicilina Labesfal, 1000 mg, pó para solução injetável
+
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Ampicilina Labesfal, 500 mg:
+Cada frasco para injetáveis contém 500 mg de ampicilina (sob a forma de ampicilina
+sódica).
+
+Ampicilina Labesfal, 1000 mg:
+Cada frasco para injetáveis contém 1000 mg de ampicilina (sob a forma de
+ampicilina sódica).
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+
+3. FORMA FARMACÊUTICA
+
+Pó para solução injetável
+Pó branco ou quase branco.
+
+
+
+4. INFORMAÇÕES CLÍNICAS
+
+4.1 Indicações terapêuticas
+
+A Ampicilina Labesfal está indicada no tratamento das seguintes infeções causadas
+por microrganismos sensíveis à ampicilina (ver secção 5.1):
+
+- Meningite bacteriana causada por Listeria monocytogenes
+- Sépsis neonatal causada por Listeria monocytogenes ou Streptococcus grupo B
+- Infeções graves do trato respiratório inferior e superior
+- Infeções do trato genito-urinário causadas por Enterococcus
+- Infeções graves do trato gastrointestinal: febre tifóide e disenteria
+- Infeções da pele e dos tecidos moles
+
+Devem ser tomadas em consideração as orientações oficiais sobre o uso apropriado
+de agentes antibacterianos.
+
+
+
+4.2 Posologia e modo de administração
+
+Posologia
+
+1
+A posologia depende da idade, peso e função renal do doente, bem como da
+gravidade da infeção e da sensibilidade do agente patogénico.
+
+População pediátrica
+Recém-nascidos:
+Nos recém-nascidos com menos de 1 semana de idade, e tendo por base o peso, são
+habitualmente recomendados os seguintes esquemas posológicos:
+- com peso > 2 kg: 25 – 50 mg/kg/dose de 8/8 h (IM/IV),
+- com peso ≤ 2 kg: 25 - 50 mg/kg/dose de 12/12 h (IM/IV).
+
+Nos recém-nascidos com 1 – 4 semanas de idade, recomendam-se os seguintes
+esquemas posológicos:
+- com peso ≤ 1,2 kg: 25 – 50 mg/kg/dose, 12/12 h,
+- com peso 1,2 - 2 kg: 25 - 50 mg/kg/dose, de 8/8 h (IM/IV),
+- com peso ≥ 2 kg: 25 – 50 mg/kg/dose, de 6/6 h (IM/IV).
+
+A dose mais elevada deverá ser usada no recém-nascido com meningite ou infeção
+grave por estreptococo do grupo B.
+O tratamento empírico da meningite bacteriana em recém-nascidos deverá ser feito
+em combinação com um aminoglicosídeo (ex. gentamicina) enquanto se aguardam
+os resultados dos testes de suscetibilidade.
+
+Nas crianças com idade < 12 anos ou peso < 30 kg, a posologia habitualmente
+recomendada é a seguinte:
+100 – 150 mg/kg/dia em doses divididas, de 6/6 h. Dose diária máxima: 12 g.
+
+Adultos
+
+Adultos e crianças com mais de 12 anos ou peso > 30 kg:
+A posologia habitualmente recomendada é a seguinte:
+- 500 mg de 6/6 h
+- Dose máxima recomendada: 8-14 g ou 150 – 200 mg/kg/dia em doses divididas,
+de 3/3 h ou 4/4 h.
+
+Idosos:
+Não é necessário ajuste de dose; a dose deverá ser a recomendada para os adultos,
+exceto no caso de evidência de insuficiência renal grave.
+
+Recomendações especiais de dosagem:
+Meningite na criança: 200-400 mg/kg/dia (máximo 3 g/dose) em doses divididas de
+6/6 h.
+
+Meningite no adulto: 150 – 200 mg/kg/dia (máximo 14 g) em doses divididas, de
+3/3 h ou de 4/4 h.
+
+Insuficiência renal
+Nenhum ajuste de dose é necessário em doentes com depuração de creatinina (ClCr)
+superior a 30 ml/min.
+Em doentes com depuração de creatinina menor que 10 ml/min, a dose
+habitualmente recomendada deve ser administrada de 8/8 h.
+
+
+2
+Hemodiálise:
+Os doentes sujeitos a hemodiálise devem receber uma dose suplementar de
+ampicilina após cada sessão.
+
+Duração do tratamento
+A duração do tratamento com ampicilina depende do tipo e gravidade da infeção, e
+deverá ser determinada pela resposta do doente à terapêutica.
+O tratamento da maioria das infeções deverá ser continuado durante um período
+mínimo de 48-72 horas após o doente se tornar assintomático ou da evidência de
+erradicação da infeção.
+No caso das infeções persistentes poderá ser necessário prolongar o tratamento com
+ampicilina durante várias semanas.
+
+Modo e/ou via de administração
+Depois de preparadas, as soluções injetáveis de Ampicilina Labesfal podem ser
+administradas por via IM ou IV (injeção única ou perfusão).
+As injeções IV diretas devem ser administradas lentamente, durante 10-15 minutos,
+para evitar a ocorrência de convulsões.
+
+No caso da administração por perfusão IV intermitente, a concentração de ampicilina
+e a velocidade de perfusão da solução devem ser ajustadas de forma a que a dose
+seja administrada antes da inativação de 10% da quantidade total do fármaco na
+solução.
+
+
+Para as instruções de reconstituição do produto antes da administração, ver secção
+6.6.
+
+
+4.3 Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados
+na secção 6.1.
+História de reações de hipersensibilidade às penicilinas e às cefalosporinas.
+
+
+4.4 Advertências e precauções especiais de utilização.
+
+Antes do início da terapêutica com ampicilina deve investigar-se cuidadosamente a
+possibilidade de existir história prévia de reações de hipersensibilidade às penicilinas
+ou cefalosporinas (ver secções 4.3 e 4.8).
+
+Foram referidas reações graves de hipersensibilidade (reações anafiláticas) por vezes
+fatais, em doentes submetidos a terapêutica com penicilina. Estas reações têm maior
+probabilidade de ocorrência em indivíduos com história de hipersensibilidade à
+penicilina e indivíduos atópicos. No caso de ocorrer uma reação alérgica, a
+terapêutica com ampicilina deve ser descontinuada e instituída terapêutica
+adequada.
+
+De forma a reduzir o desenvolvimento de bactérias resistentes e manter a
+efetividade do fármaco, a ampicilina deve ser utilizada apenas no tratamento de
+
+
+3
+infeções comprovadamente causadas por bactérias sensíveis. Devem ser realizados
+estudos bacteriológicos para determinar a identidade do agente infecioso bem como
+a sua suscetibilidade à ampicilina. O tratamento com ampicilina poderá ser instituído
+antes dos resultados dos testes de sensibilidade serem conhecidos. Logo que a
+informação relativa à suscetibilidade e culturas se encontre disponível, esta
+informação deverá ser tida em consideração na seleção ou modificação da
+terapêutica antibacteriana. Na ausência desses dados, a epidemiologia local e os
+padrões de suscetibilidade devem ser tidos em consideração na seleção da
+terapêutica empírica.
+
+A ampicilina pode provocar uma erupção cutânea maculopapular, não alérgica e que
+não contraindica o uso futuro de ampicilina ou amoxicilina nos casos dos doentes
+com infeção por EBV (Mononucleose Infeciosa) e CMV, leucemia linfoblástica e
+tratamento com alopurinol.
+
+Durante o tratamento com ampicilina poderão ocorrer superinfeções por fungos e
+outras bactérias. Caso tal se verifique, o tratamento com ampicilina deverá ser
+descontinuado e substituído por um mais adequado.
+
+Tem sido referido colite pseudomembranosa de ligeira a fatal relacionada com a
+utilização de antibióticos de largo espectro incluindo ampicilina. Deste modo é
+importante ser considerado o seu diagnóstico em doentes que desenvolvam diarreia
+subsequente à administração de agentes antibacterianos. O tratamento com
+antibióticos de largo espectro altera a flora normal do cólon e pode provocar um
+aumento do crescimento de Clostridioides difficile. Estudos indicam que a toxina
+produzida por C. difficile é a principal causa de colite associada a antibióticos. Uma
+vez efetuado o diagnóstico de colite pseudomembranosa, devem ser implementadas
+medidas terapêuticas apropriadas. Os casos de colite pseudomembranosa ligeira
+respondem normalmente apenas à interrupção do tratamento. Os casos de colite
+pseudomembranosa moderada a grave, devem ser controlados com fluidos e
+eletrólitos, e tratados com fármaco antibacteriano clinicamente eficaz contra C.
+difficile.
+
+Embora raramente, foi referido o prolongamento do tempo de protrombina em
+doentes a tomar ampicilina. Recomenda-se uma monitorização apropriada quando
+são prescritos anticoagulantes concomitantemente com a ampicilina.
+
+Aconselha-se a verificação do bom estado funcional dos vários sistemas de órgãos,
+incluindo renal, hepático e hematopoiético, durante a terapêutica prolongada. Em
+doentes com insuficiência renal, a dose deve ser ajustada de acordo com o grau de
+insuficiência (ver secção 4.2).
+Em doentes com baixo débito urinário verificou-se a ocorrência de cristalúria.
+Durante a administração de doses elevadas de ampicilina deve manter-se um aporte
+hídrico e um débito urinário adequados, por forma a reduzir o risco de cristalúria
+devido a ampicilina. Em doentes algaliados, o estado do cateter deve ser verificado
+regularmente (ver secção 4.9).
+
+Interferência com testes serológicos
+É recomendado que ao testar a presença da glucose na urina durante terapêutica
+com ampicilina, devam ser utilizados métodos enzimáticos oxidativos. Podem ocorrer
+resultados falsamente positivos com a utilização de métodos não enzimáticos.
+
+Sódio
+
+4
+Ampicilina Labesfal 500 mg Pó para solução injetável
+Este medicamento contém 32,9 mg de sódio por frasco para injetáveis, equivalente a
+1,64% da ingestão diária máxima de sódio recomendada pela OMS de 2 g de sódio
+para um adulto.
+
+Ampicilina Labesfal 1000 mg Pó para solução injetável
+Este medicamento contém 65,8 mg de sódio por frasco para injetáveis, equivalente a
+3,29% da ingestão diária máxima de sódio recomendada pela OMS de 2 g de sódio
+para um adulto.
+
+
+4.5 Interações medicamentosas e outras formas de interação
+
+Alopurinol
+A administração concomitante de ampicilina e alopurinol aumenta substancialmente
+a incidência de erupção cutânea, não se sabendo se tal facto se deve ao alopurinol
+ou à hiperuricemia habitualmente presente nestes doentes (ver secção 4.4).
+
+Probenecida
+Não se recomenda a administração concomitante de probenecida. Probenecida
+diminui a secreção tubular renal da ampicilina. O seu uso concomitante com
+ampicilina pode aumentar e prolongar os níveis sanguíneos da ampicilina.
+
+Metotrexato
+As penicilinas podem reduzir a excreção do metotrexato provocando um aumento
+potencial da sua toxicidade.
+
+Contracetivos orais
+A eficácia dos contracetivos orais poderá ficar comprometida no caso de terapêutica
+concomitante com ampicilina, o que poderá resultar numa gravidez não desejada. As
+mulheres que tomam contracetivos orais deverão ser alertadas para esta situação,
+devendo ser informadas sobre a necessidade de adoção de métodos de contraceção
+alternativos (ver secção 4.6).
+
+Exames laboratoriais
+Concentrações urinárias elevadas de ampicilina poderão dar origem a resultados
+falso positivos em testes para determinação da glicosúria que usam o sulfato de
+cobre como reagente. Desta forma, recomenda-se a utilização de testes de
+determinação da glicosúria baseados nas reações enzimáticas da glucose-oxidase.
+
+
+4.6 Fertilidade, gravidez e aleitamento
+
+Gravidez
+A quantidade de dados sobre a utilização de ampicilina em mulheres grávidas é
+limitada.
+Os estudos em animais são insuficientes no que respeita a toxicidade reprodutiva
+(ver secção 5.3). Ampicilina Labesfal apenas deve ser utilizada durante a gravidez,
+quando claramente necessário.
+
+Amamentação
+
+
+5
+A ampicilina é excretada em quantidades vestigiais no leite materno, pelo que este
+medicamento deve ser administrado com precaução em mulheres a amamentar.
+
+Fertilidade
+Não estão disponíveis dados sobre os efeitos de ampicilina na fertilidade humana.
+Nos estudos em animais, a ampicilina não apresentou efeitos sobre a fertilidade (ver
+secção 5.3).
+
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+No entanto, podem ocorrer eventos adversos (por exemplo, reações alérgicas,
+tonturas, convulsões) que poderão influenciar a capacidade de conduzir e utilizar
+máquinas (ver secção 4.8).
+
+4.8 Efeitos indesejáveis
+
+As reações adversas medicamentosas mais comuns são as reações cutâneas
+(prurido, exantema), dor abdominal, meteorismo, fezes moles, diarreia, náusea e
+vómitos.
+
+As reacções adversas estão descritas de acordo com a classificação de sistema de
+órgãos MedDRA.
+As frequências são definidas segundo a seguinte convenção: muito frequentes
+(≥ 1/10), frequentes (≥ 1/100, < 1/10), pouco frequentes (≥ 1/1000, < 1/100),
+raros (≥ 1/10 000, < 1/1000), muito raros (< 1/10 000).
+
+
+ Sistema/class Muito         Frequentes    Pouco           Raros          Muito raros
+ e de órgãos   frequentes                  frequentes
+
+ Infeções e                                Infeção com
+ infestações                               fungos
+                                           especialmente
+                                           durante o
+                                           tratamento
+                                           prolongado
+                                           e/ou uso
+                                           repetido, tal
+                                           como
+                                           a monilíase
+                                           (Candidíase -
+                                           infeção por
+                                           fungos da
+                                           vagina, boca
+                                           ou pregas
+                                           cutâneas).
+
+
+
+
+6
+Doenças do                                                 Mielosupressão
+sangue e do                                                e alterações
+sistema                                                    hematocitológi
+linfático                                                  cas
+                                                           (granulocitope
+                                                           nia,
+                                                           trombocitopeni
+                                                           a, anemia,
+                                                           pancitopenia);
+                                                           Prolongamento
+                                                           da hemorragia
+                                                           e do tempo de
+                                                           protrombina1.
+
+
+
+
+Doenças do                  Erupção       Reações          Choque
+sistema        Reações      cutânea       alérgicas mais   anafilático com
+imunitário 2,8 cutâneas     morbiliforme4 graves como      risco de vida 6.
+               (prurido,    . Exantema e doença do
+               exantema)3   enantema na soro, febre
+                            região oral5. medicamentos
+                                          a, edema
+                                          angioneurótico
+                                          , edema da
+                                          laringe,
+                                          anemia
+                                          hemolítica,
+                                          vasculite ou
+                                          nefrite
+                                          alérgicas.
+                                          Reações
+                                          cutâneas
+                                          alérgicas
+                                          graves, por
+                                          vezes
+                                          vesiculosas
+                                          (dermatite
+                                          exfoliativa,
+                                          síndrome de
+                                          Lyell, eritema
+                                          multiforme
+                                          exsudativo,
+                                          síndrome de
+                                          Stevens-
+                                          Jonhson.
+
+
+
+
+7
+ Doenças do                                                   Tonturas,
+ sistema                                                      cefaleia,
+ nervoso 9                                                    mioclonus e
+                                                              convulsões
+                                                              (em
+                                                              insuficiência
+                                                              renal ou com
+                                                              doses
+                                                              intravenosas
+                                                              muito
+                                                              elevadas).
+ Doenças        Dor                                                           Colite
+ gastrointestin abdominal,                                                    pseudomembr
+ ais            náuseas,                                                      anosa8 (na
+                vómitos                                                       maioria dos
+                meteorismo,                                                   casos
+                fezes moles,                                                  provocada por
+                diarreia7.                                                    Clostridioides
+                                                                              difficile).
+
+
+ Afeções                                     Aumento das
+ hepatobiliares                              transaminases
+
+ Doenças                                     Cristalúria na                   Falência renal
+ renais e                                    administração                    aguda com
+ urinárias                                   intravenosa de                   excreção de
+                                             doses                            cristais na
+                                             elevadas,                        urina.
+                                             nefrite
+                                             intersticial
+                                             aguda
+
+ Perturbações                  Inchaço e
+ gerais e                      dor,
+ alterações no                 Flebite
+ local de                      localizada.
+ administração
+
+
+
+1 Ver secção 4.4
+2 Ver secções 4.3 e 4.4
+3 Uma reação imediata do tipo urticária geralmente sugere uma verdadeira alergia
+às penicilinas e necessita da interrupção do tratamento e instituição de
+procedimentos médicos adequados. Deve ser procurado aconselhamento médico no
+que respeita a utilização futura de antibióticos beta-lactâmicos.
+4 A reação típica, exantema do tipo sarampo desenvolve-se vários dias (5 a 11) após
+o início do tratamento.
+5 A incidência do exantema é superior em doentes com mononucleose infeciosa ou
+leucemia linfática.
+6 Reações alérgicas são mais prováveis de ocorrer em doentes com tendência para
+alergias.
+
+8
+7 Estes efeitos indesejáveis são geralmente de natureza ligeira e frequentemente
+desaparecem durante o tratamento, ou após a interrupção do mesmo.
+8 Se existirem sinais de colite pseudomembranosa ou reações graves de
+hipersensibilidade, o tratamento deve ser descontinuado e prestada assistência
+médica (ver secção 4.4).
+9 Se ocorrer excitação do sistema nervoso, mioclonus ou convulsões, a ampicilina
+deve ser descontinuada e instituir-se tratamento adequado.
+
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-
+risco do medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer
+suspeitas de reações adversas diretamente ao INFARMED, I.P.:
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente) ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+e-mail: farmacovigilancia@infarmed.pt
+
+
+4.9 Sobredosagem
+
+Sintomas e sinais de sobredosagem
+
+Foi observada cristalúria associada à ampicilina, sem evidência clínica ou patológica
+de lesão renal (ver secção 4.4).
+Podem ocorrer convulsões em doentes com insuficiência renal ou a receber doses
+altas.
+A ampicilina pode precipitar-se em cateteres urinários, predominantemente após a
+administração de doses elevadas. A desobstrução dos cateteres deve ser verificada
+regularmente (ver secção 4.4).
+
+Tratamento de intoxicação
+A ampicilina pode ser removida da circulação por hemodiálise, mas não por diálise
+peritoneal.
+
+
+5. PROPRIEDADES FARMACOLÓGICAS
+
+5.1 Propriedades farmacodinâmicas
+
+Grupo Farmacoterapêutico: 1.1.1.2 Medicamentos anti-infeciosos. Antibacterianos.
+Penicilinas. Aminopenicilinas, código ATC: J01CA01
+
+Mecanismo de ação
+
+
+
+
+9
+A ampicilina é um antibiótico semissintético da família das penicilinas (beta-
+lactâmico) que inibe uma ou mais enzimas (referidas na literatura como proteínas de
+ligação à penicilina, PBP) na via de síntese metabólica do peptidoglicano bacteriano.
+Este biopolímero é um componente estrutural da parede bacteriana cuja função está
+relacionada com a manutenção da forma e integridade celular. A inibição da síntese
+do peptidoglicano leva a um enfraquecimento da estrutura, normalmente seguido de
+lise celular e morte da bactéria.
+
+A ampicilina é suscetível de sofrer degradação por beta-lactamases produzidas por
+estirpes resistentes, pelo que o espetro de atividade da ampicilina não inclui
+organismos produtores destas enzimas.
+
+Relação farmacocinética/farmacodinâmica
+O intervalo de tempo em que se mantém a concentração do fármaco acima da CIM
+(T>CIM) é considerado o principal determinante da eficácia dos antibióticos beta-
+lactâmicos.
+
+Mecanismos de resistência
+Existem dois mecanismos principais de resistência à ampicilina:
+- Inativação por beta-lactamases bacterianas
+- Alterações das PBP, que reduzem a afinidade do agente antibacteriano ao seu alvo.
+
+Impermeabilidade da bactéria ou mecanismos de efluxo podem causar ou contribuir
+para a resistência bacteriana, particularmente em bactérias Gram-negativo.
+
+Limites dos testes de suscetibilidade
+Os critérios interpretativos CIM (concentração inibitória mínima) para os testes de
+suscetibilidade foram estabelecidos pelo Comité Europeu de Avaliação de
+Suscetibilidade Antimicrobiana (EUCAST) para a ampicilina e são enumerados no
+seguinte endereço: <https://www.ema.europa.eu/documents/other/minimum-
+inhibitory-concentration-mic-breakpoints_en.xlsx>.
+
+
+
+5.2 Propriedades farmacocinéticas
+
+Absorção
+A administração de ampicilina sódica por via IM dá origem a concentrações
+plasmáticas de forma mais rápida e mais elevadas comparativamente com as
+resultantes da administração por via oral de doses equivalentes de ampicilina.
+A administração por via IM de uma dose única de ampicilina em adultos saudáveis,
+dá origem a um pico de concentração máximo 1 hora após a administração do
+medicamento, sendo as concentrações séricas baixas ou indetetáveis decorridas 6 -
+8 horas.
+A administração por via IV dá origem a picos de concentração plasmática imediatos
+após a conclusão da perfusão, sendo as concentrações séricas ainda detetáveis 6
+horas depois.
+
+Distribuição
+Cerca de 20% da quantidade sérica total de ampicilina circula ligada às proteínas
+plasmáticas.
+Após administração intramuscular ou intravenosa, podem ser detetadas
+concentrações terapêuticas de ampicilina na vesícula, tecido abdominal, pele e
+
+10
+tecidos adiposo e muscular; os fluidos com níveis terapêuticos incluem os fluidos
+peritoneal, sinovial, bílis e pus.
+
+A ampicilina atravessa a barreira placentária, sendo também detetada no leite
+materno (ver secção 4.6).
+
+A difusão através da barreira hematoencefálica é muito reduzida, exceto nas
+situações em que se verifica inflamação das meninges.
+
+Biotransformação
+A ampicilina é parcialmente excretada na urina sob a forma de ácido penicilóico
+inativo, em quantidades equivalentes a 10 - 12% da dose inicialmente administrada.
+
+Eliminação
+Tal como com outras penicilinas, a principal via de excreção da ampicilina é a renal,
+mediante mecanismos de secreção tubular e filtração glomerular. A ampicilina sofre
+recirculação entero-hepática sendo parcialmente excretada pelas fezes.
+
+A semivida média de eliminação da ampicilina varia entre 1 - 1,5 h em indivíduos
+adultos saudáveis, apresentando uma depuração total média de aproximadamente
+259 ml/min em indivíduos saudáveis. Cerca de 60 - 70% da ampicilina administrada
+numa dose única IM ou 73 - 90% da ampicilina administrada por via IV em dose
+única são excretados na urina sob a forma inalterada.
+
+O uso concomitante de probenecida retarda a excreção de ampicilina (ver secção
+4.5).
+
+Idade
+De um modo geral, a semivida de eliminação da ampicilina é mais prolongada nos
+recém-nascidos do que nas crianças ou nos adultos. As semividas plasmáticas são
+em geral inversamente proporcionais ao peso a nascença, a idade gestacional e a
+idade cronológica.
+Dada a maior prevalência de insuficiências renais nos idosos, algum cuidado deve ser
+tomado na seleção da dose e poderá ser útil monitorizar a função renal.
+
+Insuficiência renal
+A depuração sérica total da ampicilina diminui com o decréscimo da função renal.
+Desta forma, as doses na insuficiência renal devem, consequentemente, prevenir a
+acumulação indesejável de ampicilina.
+
+
+
+5.3 Dados de segurança pré-clinica
+
+A ampicilina não mostrou potencial teratogénico num estudo realizado no rato. Nos
+estudos de carcinogénese em roedores, a ampicilina não mostrou potencial
+carcinogénico.
+
+
+
+
+11
+6. INFORMAÇÕES FARMACÊUTICAS
+
+6.1 Lista dos excipientes
+
+Não existentes.
+
+
+6.2 Incompatibilidades
+
+Devido ao potencial para a incompatibilidade, não se deverá misturar ampicilina
+sódica e aminoglicosídeos.
+
+
+6.3 Prazo de validade
+
+3 anos.
+
+Prazo de validade após reconstituição para administração por via IV e IM
+Após reconstituição para uso intravenoso e intramuscular, as soluções retêm a sua
+potência durante 1 hora. As soluções não devem ser congeladas.
+
+Prazo de validade para administração por perfusão IV
+Após reconstituição para perfusão intravenosa, soluções com concentrações até
+30 mg/ml retêm pelo menos 90% da sua potência durante 2 a 8 horas à
+temperatura ambiente e até 72 horas se refrigeradas em diluentes apropriados.
+Soluções diluídas (30 mg/ml ou menos) retêm a sua potência durante 4 horas à
+temperatura ambiente ou durante 24 horas se refrigeradas.
+
+
+6.4 Precauções especiais de conservação
+
+Conservar a temperatura inferior a 25 ºC.
+Condições de conservação do medicamento reconstituído, ver secção 6.3.
+
+
+6.5 Natureza e conteúdo do recipiente
+
+O pó estéril é acondicionado em frascos de vidro tipo II com rolha de borracha e
+cápsula de alumínio.
+
+Cada embalagem contém 50 frascos para injetáveis de pó para solução injetável.
+
+
+6.6 Precauções especiais de eliminação e manuseamento
+
+Não existem requisitos especiais para a eliminação.
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo
+com as exigências locais.
+
+Reconstituição
+
+
+12
+Preparação de soluções injetáveis para administração por via IM
+
+A reconstituição de Ampicilina Labesfal para uso intramuscular é feita em água para
+preparações injetáveis (2 ml para Ampicilina Labesfal 500 mg e 4 ml para Ampicilina
+Labesfal 1000 mg).
+
+Preparação de soluções injetáveis para administração por via IV (injeção única)
+Pó para solução injetável a 500 mg
+Habitualmente, o solvente é água para preparações injetáveis. Ampicilina Labesfal
+deve ser dissolvida em 5 ml do solvente.
+
+Pó para solução injetável a 1000 mg
+Habitualmente, o solvente é água para preparações injetáveis. Ampicilina Labesfal
+deve ser dissolvida num volume mínimo de 7,4 ml – 10 ml do solvente.
+
+Para instruções acerca da administração do medicamento após a reconstituição, ver
+secção 4.2.
+
+Preparação de soluções injetáveis para administração por perfusão IV
+
+As soluções injetáveis de ampicilina sódica devem ser administradas em solventes
+adequados e numa concentração inferior a 30 mg/ml.
+
+
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Labesfal – Laboratórios Almiro, S.A.
+Zona Industrial do Lagedo
+3465-157 Santiago de Besteiros
+Portugal
+
+
+
+8. NÚMEROS DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+N.º de registo 5168265- 50 unidades de pó para solução injetável, 500 mg, frasco de
+vidro tipo II para injetáveis.
+N.º de registo 5168273- 50 unidades de pó para solução injetável, 1000 mg, frasco
+de vidro tipo II para injetáveis.
+
+
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 3 de agosto de 1996
+Data da última renovação: 3 de agosto de 2001
+
+10. DATA DA REVISÃO DO TEXTO
+
+
+
+
+13
+14
+

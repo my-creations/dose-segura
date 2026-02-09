@@ -1,0 +1,30 @@
+{
+  "medId": "esmolol-cloridrato",
+  "searchTerm": "esmolol",
+  "retrievedAt": "2026-02-08T23:05:00Z",
+  "bestMatch": {
+    "infarmedId": "592481",
+    "name": "Esmolol HikmaMG",
+    "dci": "Esmolol",
+    "form": "Solução injetável",
+    "dosage": "10 mg/ml",
+    "holder": "Hikma Farmacêutica (Portugal), S.A.",
+    "score": 139.7
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/592481-rcm.pdf",
+      "size": 100498
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/592481-fi.pdf",
+      "size": 61472
+    }
+  }
+}

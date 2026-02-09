@@ -1,0 +1,1213 @@
+1.    NOME DO MEDICAMENTO
+
+Linezolida Altan 2 mg/ml solução para perfusão
+
+
+2.    COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada ml de solução para perfusão contém 2 mg de linezolida. Cada saco de 300 ml de
+solução para perfusão contém 600 mg de linezolida.
+Excipientes com efeito conhecido:
+Cada saco de 300 ml contém aproximadamente 13,7 g de glucose e 114 mg de sódio.
+Lista completa de excipientes, ver secção 6.1.
+
+
+3.    FORMA FARMACÊUTICA
+
+Solução para perfusão.
+Solução isotónica, límpida, incolor a amarelada, livre de partículas visíveis.
+O valor de pH da solução para perfusão varia entre 4.6 a 5.0 e a solução tem
+osmolaridade entre 270 a 330 mOsm/kg.
+
+
+4.    INFORMAÇÕES CLÍNICAS
+
+4.1   Indicações terapêuticas
+
+- Pneumonia nosocomial.
+
+- Pneumonia adquirida na comunidade.
+
+Linezolida Altan está indicado em adultos no tratamento da pneumonia adquirida na
+comunidade e da pneumonia nosocomial, quando provocadas ou quando se suspeite
+terem sido provocadas por bactérias Gram-positivas suscetíveis. Ao decidir se Linezolida
+Altan é um tratamento adequado, deve-se ter em consideração os resultados dos testes
+microbiológicos ou a informação sobre a prevalência de resistência a agentes
+antibacterianos entre as bactérias Gram-positivas (ver secção 5.1 para os
+microrganismos adequados).
+
+Linezolida Altan não é ativo contra infeções causadas por agentes patogénicos Gram
+negativos.
+lida Altan não é ativo contra infeções causadas por agentes patogénicos Gram negativos.
+
+Tem de ser iniciada terapêutica concomitante específica para microrganismos Gram
+negativos, se for documentada ou se existir suspeita de infeção por agente patogénico
+Gram negativo.
+
+- Infeções complicadas da pele e tecidos moles (ver secção 4.4).
+
+Linezolida Altan está indicado em adultos no tratamento de infeções complicadas da pele
+e tecidos moles, apenas quando os testes microbiológicos estabelecerem que a infeção é
+causada por bactérias Gram positivas suscetíveis.
+Linezolida não é ativo contra infeções causadas por agentes patogénicos Gram negativos.
+
+Linezolida Altan apenas deverá ser utilizado em doentes com infeções complicadas da
+pele e tecidos moles com infeção concomitante com microrganismos Gram negativos,
+conhecida ou possível, se não existirem alternativas de tratamento disponíveis (ver
+secção 4.4). Nestas circunstâncias, tem de ser iniciado o tratamento concomitante contra
+microrganismos Gram negativos.
+                                                                          APROVADO EM
+
+                                                                          INFARMED
+
+A terapêutica com linezolida deve ser iniciada apenas em ambiente hospitalar e só após
+consulta de um especialista, tal como um microbiologista ou um infeciologista.
+ infeciologista.
+Devem ter-se em consideração as recomendações oficiais sobre a utilização apropriada
+de agentes antibacterianos.
+
+4.2   Posologia e modo de administração
+
+Posologia
+
+Linezolida Altan pode ser utilizado como terapêutica inicial. Os doentes que iniciem o
+tratamento com a formulação parentérica podem mudar para qualquer uma das
+apresentações orais, quando clinicamente indicado. Neste caso não são necessários
+ajustes posológicos, uma vez que linezolida tem uma biodisponibilidade oral de
+aproximadamente 100%.
+
+Posologia recomendada e duração do tratamento nos adultos:
+A duração do tratamento está dependente do agente patogénico, do local e gravidade da
+infeção e da resposta clínica do doente.
+As recomendações sobre a duração do tratamento que se seguem refletem as que foram
+utilizadas nos ensaios clínicos. Tratamentos mais curtos podem ser adequados para
+alguns tipos de infeção, mas não foram avaliados nos ensaios clínicos.
+A duração máxima do tratamento é de 28 dias. Não se estabeleceu a segurança e
+eficácia de linezolida quando administrado por períodos superiores a 28 dias (ver secção
+4.4).
+Não é necessário aumento da dose recomendada ou da duração do tratamento, no caso
+de infeções associadas a bacteriemia concomitante.
+
+A posologia recomendada para Linezolida 2 mg/ml Solução para perfusão é a seguinte:
+
+Infeções                      Posologia                       Duração do tratamento
+Pneumonia nosocomial
+Pneumonia adquirida na        600 mg duas vezes ao dia
+comunidade                                                    10-14 dias consecutivos
+Infeções graves da pele e
+                              600 mg duas vezes ao dia
+tecidos moles
+
+
+População pediátrica:
+A segurança e eficácia da linezolida em crianças com idade < 18 anos de idade não
+foram estabelecidas. A informação atualmente disponível está descrita nas secções 4.8,
+5.1 e 5.2), mas não se pode recomendar uma posologia.
+
+Idosos:
+Não é necessário ajuste posológico.
+
+Compromisso renal:
+Não é necessário ajuste posológico (ver secções 4.4 e 5.2).
+
+Compromisso renal grave (depuração da creatinina< 30 ml/min):
+Não é necessário ajuste posológico. Devido a não ser conhecido o significado clínico da
+exposição elevada (até 10 vezes) aos dois metabolitos primários de linezolida em
+doentes com insuficiência renal grave, linezolida deve ser utilizada com especial
+precaução nestes doentes e apenas quando o benefício esperado seja considerado
+superior ao risco teórico.
+                                                                         APROVADO EM
+
+                                                                          INFARMED
+
+Como cerca de 30% de uma dose de linezolida é removida durante 3 horas de
+hemodiálise, linezolida deve ser administrada após diálise, em doentes que recebem este
+tratamento. Os metabolitos primários de linezolida são removidos em parte por
+hemodiálise, mas as concentrações destes metabolitos após diálise, ainda são
+consideravelmente superiores às concentrações observadas em doentes com função
+renal normal, ou com insuficiência renal ligeira a moderada.
+movidos em parte por hemodiálise, mas as concentrações destes metabolitos após
+diálise, ainda são consideravelmente superiores às concentrações observadas em
+doentes com função renal normal, ou com insuficiência renal ligeira a moderada.
+Assim, linezolida deve ser utilizada com especial precaução em doentes com insuficiência
+renal grave sujeitos a diálise, e apenas quando o benefício esperado seja considerado
+superior ao risco teórico.
+Atualmente não há experiência na administração de linezolida a doentes sujeitos a diálise
+peritoneal ambulatória contínua (DPAC) ou tratamentos alternativos para falência renal
+(para além da hemodiálise).
+
+Compromisso hepático:
+Não é necessário ajuste posológico. No entanto, os dados clínicos são limitados e
+recomenda-se que linezolida seja utilizada nestes doentes apenas quando o benefício
+esperado seja considerado superior ao risco teórico (ver secções 4.4 e 5.2).
+
+Modo de administração
+A dose recomendada de linezolida deve ser administrada por via intravenosa (IV) duas
+vezes ao dia.
+
+Via de administração: via intravenosa.
+A solução para perfusão deve ser administrada durante um período de 30 a 120 minutos.
+
+4.3    Contraindicações
+
+Hipersensibilidade à linezolida ou a qualquer um dos excipientes mencionados na secção
+6.1.
+Linezolida não deve ser administrada a doentes a tomar outros medicamentos que
+inibam as monoaminoxidases A ou B (por ex., fenelzina, isocarboxazida, selegilina,
+moclobemida) ou nas duas semanas após a administração deste tipo de medicamentos.
+
+A não ser que existam condições para a observação regular e monitorização da tensão
+arterial, não se deve administrar linezolida a doentes com as seguintes condições clínicas
+subjacentes ou sob terapêutica concomitante com os seguintes medicamentos:
+- Doentes com hipertensão não controlada, feocromocitoma, síndrome carcinóide,
+tireotoxicose, depressão bipolar, distúrbio esquizoafetivo, estados confusionais agudos.
+
+- Doentes a receber a seguinte medicação: inibidores da recaptação da serotonina (ver
+secção 4.4), antidepressivos tricíclicos, agonistas do recetor da serotonina 5-HT1
+(triptanos), agentes simpaticomiméticos com ação direta e indireta (incluindo
+broncodilatadores adrenérgicos, pseudoefedrina e fenilpropanolamina), agentes
+vasopressores (por ex., adrenalina, noradrenalina), agentes dopaminérgicos (por ex.,
+dopamina, dobutamina), petidina ou buspirona.
+
+Dados de estudos em animais sugerem que a linezolida e os seus metabolitos podem
+passar para o leite materno, assim, deve-se suspender a amamentação antes da
+administração e durante o tratamento (ver secção 4.6).
+
+4.4    Advertências e precauções especiais de utilização
+
+Mielosupressão
+                                                                       APROVADO EM
+
+                                                                       INFARMED
+
+Foram notificados casos de mielossupressão (incluindo anemia, leucopenia, pancitopenia
+e trombocitopenia) em doentes a quem foi administrado linezolida. Nos casos em que se
+conhece o resultado final, quando a terapêutica com linezolida foi suspensa, os
+parâmetros hematológicos afetados elevaram-se até aos níveis apresentados antes do
+tratamento. O risco de aparecimento destes efeitos parece estar relacionado com a
+duração do tratamento. Os doentes idosos tratados com linezolida podem estar em maior
+risco de sofrer discrasias sanguíneas do que os doentes mais jovens.
+ maior risco de sofrer discrasias sanguíneas do que os doentes mais jovens.
+ sofrer discrasias sanguíneas do que os doentes mais jovens.
+
+A trombocitopenia pode ocorrer mais frequentemente em doentes com insuficiência renal
+grave, quer estejam ou não a fazer diálise, e em doentes com compromisso hepático
+moderado a grave. Assim, devem monitorizar-se regularmente os parâmetros
+hematológicos em doentes: que tenham anemia, granulocitopenia ou trombocitopenia
+pré-existentes; que estejam a receber medicação concomitante que possa diminuir os
+níveis de hemoglobina, diminuir os parâmetros hematológicos ou afetar a contagem ou a
+função das plaquetas; que tenham insuficiência renal grave ou compromisso hepático
+moderado a grave; que estejam em tratamento por mais de 10-14 dias. Linezolida só
+deve ser administrado a estes doentes quando for possível a monitorização regular dos
+níveis de hemoglobina, parâmetros hematológicos, e contagem de plaquetas.
+
+Caso ocorra mielossupressão significativa durante a terapêutica com linezolida, deve-se
+suspender o tratamento, a não ser que se considere absolutamente necessário a sua
+continuação. Neste caso deve-se implementar a monitorização intensiva dos parâmetros
+hematológicos e estratégias de cuidados apropriados.
+
+Além disso, recomenda-se a monitorização semanal dos parâmetros hematológicos
+completos (incluindo níveis de hemoglobina, contagens de plaquetas e de leucócitos
+totais e diferenciados) em doentes a quem seja administrado linezolida,
+independentemente dos parâmetros hematológicos basais.
+
+Em estudos de uso compassivo registou-se uma maior incidência de anemia grave em
+doentes tratados com linezolida por período de tempo superior ao máximo recomendado
+de 28 dias. Estes doentes necessitaram de transfusão sanguínea com maior frequência.
+
+Durante o período pós-comercialização registaram-se igualmente casos de anemia que
+necessitaram de transfusão, dos quais a maioria ocorreu em doentes tratados com
+linezolida por mais de 28 dias.
+
+Foram notificados casos de anemia sideroblástica pós-comercialização. Nos casos em que
+a data de início era conhecida, a maioria dos doentes receberam tratamento com
+linezolida por mais de 28 dias. A maioria dos doentes recuperou total ou parcialmente
+após a interrupção da linezolida, com ou sem tratamento para a anemia.
+
+Desequilíbrio na mortalidade num ensaio clínico com doentes com infeções sanguíneas
+Gram-positivas relacionadas com cateter
+Foi observado um excesso de mortalidade em doentes tratados com linezolida,
+relativamente a vancomicina/dicloxacilina/oxacilina, num estudo de desenho aberto
+conduzido em doentes graves com infeções intravasculares relacionadas com cateter
+[78/363 (21,5%) vs. 58/363 (16%)]. O principal fator que influenciou a taxa de
+mortalidade foi o status de infeção no grupo de Gram positivos na baseline. As taxas de
+mortalidade foram semelhantes nos doentes com infeções causadas apenas por
+microrganismos Gram positivos (odds ratio 0,96; intervalo de confiança 95%: 0,58-
+1,59), mas foram significativamente superiores (p=0,0162) no braço de tratamento de
+linezolida, em doentes com qualquer outro agente patogénico ou sem agente patogénico
+na baseline (odds ratio 2,48; intervalo de confiança de 95%: 1,38-4,46). O maior
+desequilíbrio ocorreu durante o tratamento e nos 7 dias após a descontinuação do
+                                                                        APROVADO EM
+
+                                                                         INFARMED
+
+fármaco em estudo. Um número superior de doentes no braço de tratamento com
+linezolida adquiriu agentes patogénicos Gram negativos durante o estudo e morreu por
+infeções provocadas por agentes patogénicos Gram negativos e polimicrobianas. Como
+tal, nas infeções complicadas da pele e tecidos moles, linezolida deverá apenas ser
+utilizado em doentes com infeção concomitante por microrganismos Gram negativos,
+conhecida ou possível, se não existirem alternativas terapêuticas disponíveis (ver secção
+4.1). Nestas circunstâncias, deve ser iniciado o tratamento concomitante contra
+microrganismos Gram negativos.
+(odds ratio 0,96; intervalo de confiança 95%: 0,58-1,59), mas foram significativamente
+superiores (p=0,0162) no braço de tratamento de linezolida, em doentes com qualquer
+outro agente patogénico ou sem agente patogénico na baseline (odds ratio 2,48;
+intervalo de confiança de 95%: 1,38-4,46). O maior desequilíbrio ocorreu durante o
+tratamento e nos 7 dias após a descontinuação do fármaco em estudo. Um número
+superior de doentes no braço de tratamento com linezolida adquiriu agentes patogénicos
+Gram negativos durante o estudo e morreu por infeções provocadas por agentes
+patogénicos Gram negativos e polimicrobianas. Como tal, nas infeções complicadas da
+pele e tecidos moles, linezolida deverá apenas ser utilizado em doentes com infeção
+concomitante por microrganismos Gram negativos, conhecida ou possível, se não
+existirem alternativas terapêuticas disponíveis (ver secção 4.1). Nestas circunstâncias,
+deve ser iniciado o tratamento concomitante contra microrganismos Gram negativos.
+o em estudo. Um número superior de doentes no braço de tratamento com linezolida
+adquiriu agentes patogénicos Gram negativos durante o estudo e morreu por infeções
+provocadas por agentes patogénicos Gram negativos e polimicrobianas. Como tal, nas
+infeções complicadas da pele e tecidos moles, linezolida deverá apenas ser utilizado em
+doentes com infeção concomitante por microrganismos Gram negativos, conhecida ou
+possível, se não existirem alternativas terapêuticas disponíveis (ver secção 4.1). Nestas
+circunstâncias, deve ser iniciado o tratamento concomitante contra microrganismos Gram
+negativos.
+ durante o estudo e morreu por infeções provocadas por agentes patogénicos Gram
+negativos e polimicrobianas. Como tal, nas infeções complicadas da pele e tecidos moles,
+linezolida deverá apenas ser utilizado em doentes com infeção concomitante por
+microrganismos Gram negativos, conhecida ou possível, se não existirem alternativas
+terapêuticas disponíveis (ver secção 4.1). Nestas circunstâncias, deve ser iniciado o
+tratamento concomitante contra microrganismos Gram negativos.
+stâncias, deve ser iniciado o tratamento concomitante contra microrganismos Gram
+negativos.
+
+Diarreia e colite associada a antibióticos
+Foram notificados casos de diarreia e colite associadas a antibióticos, incluindo colite
+pseudomembranosa e diarreia associada a Clostridium difficile, em associação com o uso
+de quase todos os antibióticos, incluindo linezolida podendo variar em gravidade de
+diarreia leve a colite fatal. Deste modo, é importante considerar este diagnóstico em
+doentes que desenvolvem diarreia grave durante ou após o tratamento com linezolida.
+Se houver suspeita ou confirmação de diarreia ou colite associada a antibióticos, o
+tratamento em curso com os agentes antibacterianos, incluindo linezolida, deve ser
+suspenso e medidas terapêuticas adequadas devem ser iniciadas imediatamente. Nesta
+situação estão contraindicados os fármacos inibidores do peristaltismo.
+
+Acidose lática
+Foram notificados casos de acidose lática com a utilização de linezolida. Os doentes que
+desenvolvam sinais e sintomas de acidose metabólica, incluindo náuseas ou vómitos
+recorrentes, dor abdominal, reduzido nível de bicarbonato ou hiperventilação durante o
+tratamento com linezolida devem receber cuidados médicos imediatos. Se ocorrer
+acidose lática, os benefícios da utilização continuada de linezolida devem ser avaliados
+tendo em consideração os potenciais riscos.
+
+Disfunção mitocondrial
+                                                                         APROVADO EM
+
+                                                                          INFARMED
+
+A linezolida inibe a síntese da proteína mitocondrial. Como resultado desta inibição
+podem ocorrer reações adversas, tais como acidose láctica, anemia e neuropatia (ótica e
+periférica); estes acontecimentos são mais frequentes quando o medicamento é utilizado
+por mais de 28 dias.
+
+Síndrome da serotonina
+Foram notificados casos de relatos espontâneos de síndrome da serotonina, uma
+condição potencialmente fatal, associada à coadministração de linezolida com agentes
+serotoninérgicos, incluindo antidepressivos tais como inibidores da recaptação seletiva de
+serotonina (ISRS) e opioides (ver secção 4.5). Está, portanto, contraindicada a
+coadministração de linezolida e agentes serotoninérgicos (ver secção 4.3), exceto quando
+é essencial a coadministração de linezolida e agentes serotoninérgicos. Nestes casos, os
+doentes devem ser cuidadosamente observados para sinais e sintomas da síndrome de
+serotonina, tais como disfunção cognitiva, hiperpirexia, hiperrreflexia e incoordenação.
+Se ocorrerem sinais ou sintomas, os médicos devem considerar a interrupção de um ou
+ambos os agentes; se o agente serotoninérgico coadministrado for retirado, podem
+ocorrer sintomas de descontinuação.
+A ocorrência de síndrome da serotonina também foi relatada com a administração
+concomitante de linezolida e buprenorfina.
+
+Rabdomiólise
+Foi notificada a ocorrência de rabdomiólise com o uso de linezolida. A linezolida deve ser
+utilizada com precaução em doentes com fatores de predisposição para rabdomiólise. Se
+forem observados sinais ou sintomas de rabdomiólise, a administração de linezolida deve
+ser descontinuada e iniciada terapêutica adequada.
+
+Hiponatremia e SIADH
+Hiponatremia e/ou Síndrome da Secreção Inadequada da Hormona Anti-Diurética
+(SIADH) foram observadas em alguns doentes tratados com linezolida. Recomenda-se
+que os níveis séricos de sódio sejam monitorizados regularmente em doentes em risco de
+hiponatremia, tais como doentes idosos ou doentes a tomar medicamentos que possam
+baixar os níveis sanguíneos de sódio (por exemplo, diuréticos tiazídicos, tais como
+hidroclorotiazida).
+
+Neuropatia periférica e ótica
+Registaram-se casos de neuropatia, assim como neuropatia ótica e neurite ótica, que por
+vezes evoluíram para perda de visão, em doentes tratados com Linezolida. Estes casos
+ocorreram principalmente em doentes tratados por períodos de tempo superiores ao
+máximo recomendado de 28 dias.
+
+Todos os doentes devem ser aconselhados a comunicar sintomas de compromisso visual,
+tais como alterações da acuidade visual, alterações da visão cromática, visão turva ou
+alterações dos campos visuais. Nestes casos, recomenda-se uma avaliação oftalmológica
+imediata, com consulta de um oftalmologista, se apropriado. No caso de existirem
+doentes em tratamento com Linezolida por um período superior aos 28 dias
+recomendados, deve-se monitorizar regularmente a sua função visual.
+se uma avaliação oftalmológica imediata, com consulta de um oftalmologista, se
+apropriado. No caso de existirem doentes em tratamento com Linezolida por um período
+superior aos 28 dias recomendados, deve-se monitorizar regularmente a sua função
+visual.
+e uma avaliação oftalmológica imediata, com consulta de um oftalmologista, se
+apropriado. No caso de existirem doentes em tratamento com Linezolida por um período
+superior aos 28 dias recomendados, deve-se monitorizar regularmente a sua função
+visual.
+No caso de ocorrência de neuropatia periférica ou ótica, deve-se ponderar a continuação
+do tratamento destes doentes com Linezolida, face aos potenciais riscos.
+                                                                         APROVADO EM
+
+                                                                         INFARMED
+
+Pode existir um risco aumentado de neuropatias quando o linezolida é administrado a
+doentes em tratamento ou que tenham estado recentemente em tratamento com
+antimicobacterianos, para o tratamento da tuberculose.
+
+Convulsões
+Foram notificadas convulsões em doentes tratados com Linezolida. Na maioria destes
+casos, foi notificada uma história de convulsões ou de fatores de risco para convulsões.
+Os doentes devem ser aconselhados a informar o seu médico se tiverem história de
+convulsões.
+
+Inibidores da Monoaminooxidase
+Linezolida é um inibidor reversível não seletivo da monoaminooxidase (IMAO); no
+entanto, nas doses utilizadas para a terapêutica antibacteriana, não exerce efeitos
+antidepressivos. Existem dados muito limitados dos estudos de interação com outros
+fármacos e sobre a segurança de linezolida quando administrado a doentes com doenças
+subjacentes e/ou medicação concomitante que os possam pôr em risco devido à inibição
+da MAO. Deste modo, não se recomenda a utilização de linezolida nestas circunstâncias,
+a não ser que seja possível a observação e monitorização cuidadosa do doente (ver
+secções 4.3 e 4.5).
+nestas circunstâncias, a não ser que seja possível a observação e monitorização
+cuidadosa do doente (ver secções 4.3 e 4.5).
+r que seja possível a observação e monitorização cuidadosa do doente (ver secções 4.3 e
+4.5).
+
+Utilização com alimentos ricos em tiramina
+Os doentes devem ser aconselhados a não consumir grandes quantidades de alimentos
+ricos em tiramina (ver secção 4.5).
+
+Superinfeção
+Não foram avaliados, nos ensaios clínicos, os efeitos da terapêutica com linezolida sobre
+a flora normal.
+
+A utilização de antibióticos pode resultar, ocasionalmente, num crescimento excessivo de
+microrganismos não suscetíveis. Por exemplo, cerca de 3% dos doentes a receberem as
+doses recomendadas de linezolida registaram candidíases relacionadas com o fármaco,
+durante os ensaios clínicos. Caso ocorra uma superinfeção durante o tratamento, devem
+ser tomadas medidas apropriadas.
+
+Populações especiais
+Linezolida deve ser utilizada com especial precaução em doentes com compromisso renal
+grave, e apenas quando o benefício esperado seja considerado superior ao risco teórico
+(ver secções 4.2 e 5.2).
+
+Recomenda-se que Linezolida seja administrada a doentes com compromisso hepático
+grave, apenas quando o benefício esperado seja considerado superior ao risco teórico
+(ver secções 4.2 e 5.2).
+
+Compromisso da fertilidade
+Linezolida diminuiu reversivelmente a fertilidade e induziu uma morfologia anómala do
+esperma em ratos machos adultos, para níveis de exposição aproximadamente iguais aos
+esperados no ser humano; desconhecem-se os efeitos possíveis de linezolida no sistema
+reprodutor masculino humano (ver secção 5.3).
+
+Ensaios clínicos
+Não foram estabelecidas a segurança e eficácia de linezolida quando administrado por
+períodos superiores a 28 dias.
+                                                                          APROVADO EM
+
+                                                                           INFARMED
+
+Os ensaios clínicos controlados não incluíram doentes com lesões de pé diabético, lesões
+de decúbito ou lesões isquémicas, queimaduras graves ou gangrena. Assim, a
+experiência da utilização de linezolida no tratamento destas entidades clínicas é limitada.
+
+Excipientes
+Glucose
+Cada ml de solução contém 45,7 mg (isto é 13,7 g/300 ml) de glucose. Este facto deve
+ser tido em consideração no caso de doentes com diabetes mellitus ou outros estados
+clínicos relacionados com a intolerância à glucose.
+
+Sódio
+Este medicamento contém 114 mg de sódio por cada saco de perfusão de 300 ml (0,38
+mg/ml), equivalente a 5,7% da dose máxima diária recomendada pela OMS de 2 g de
+sódio para um adulto. O conteúdo em sódio deve ser tido em consideração em doentes
+com restrição de sódio na sua dieta.
+
+Linezolida Altan pode ser preparado para administração com soluções que contêm sódio
+(ver secções 4.2, 6.2 e 6.6) e isso deve ser tido em consideração em relação à
+quantidade total de sódio proveniente de todas as fontes que será administrada ao
+doente.
+
+4.5    Interações medicamentosas e outras formas de interação
+
+Inibidores da monoaminoxidase
+Linezolida é um inibidor reversível, não seletivo da monoaminoxidase (IMAO). Existem
+dados muito limitados dos estudos de interação com outros fármacos e sobre a
+segurança de linezolida quando administrada a doentes com medicação concomitante
+que os possa pôr em risco devido à inibição da MAO. Assim, não se recomenda a
+utilização de linezolida nestas circunstâncias, a não ser que seja possível a observação
+controlada e monitorização do doente (ver secções 4.3 e 4.4).
+
+Potenciais interações que conduzem ao aumento da pressão arterial
+Em voluntários saudáveis normotensos, linezolida potenciou o aumento da pressão
+arterial provocado pela pseudoefedrina e cloridrato de fenilpropanolamina. A
+coadministração de linezolida tanto com a pseudoefedrina como com a
+fenilpropanolamina originou aumentos médios da pressão arterial sistólica na ordem dos
+30-40 mm Hg, em comparação com aumentos de 11-15 mm Hg com linezolida
+administrado isoladamente, 14-18 mm Hg tanto com a pseudoefedrina como com a
+fenilpropanolamina administradas isoladamente, e 8-11 mm Hg com placebo.
+a como com a fenilpropanolamina administradas isoladamente, e 8-11 mm Hg com
+placebo.
+ mm Hg com placebo.
+Não se realizaram estudos semelhantes em indivíduos hipertensos. Recomenda-se que
+sejam determinadas cuidadosamente as doses dos fármacos com ação vasopressora,
+incluindo agentes dopaminérgicos, de modo a atingir a resposta desejada quando
+coadministrados com linezolida.
+
+Potenciais interações serotoninérgicas
+Estudou-se a potencial interação farmacológica com dextrometorfano em voluntários
+saudáveis. Administrou-se dextrometorfano (duas doses de 20 mg com 4 horas de
+intervalo) em indivíduos a tomarem ou não linezolida. Não se observaram efeitos de
+síndrome de serotonina (confusão, delírio, agitação, tremores, enrubescimento,
+diaforese, hiperpirexia) em indivíduos saudáveis após administração de linezolida e
+dextrometorfano.
+                                                                         APROVADO EM
+
+                                                                          INFARMED
+
+Experiência pós-comercialização: registou-se o caso de um doente, que surgiu com
+efeitos tipo síndrome de serotonina enquanto tomava linezolida e dextrometorfano; esta
+situação resolveu-se com a suspensão de ambos os medicamentos.
+
+
+Linezolida deve ser utilizada cautelosamente quando coadministrada com buprenorfina,
+uma vez que o risco de síndrome da serotonina, uma condição potencialmente fatal, é
+aumentado (ver secção 4.4).
+
+
+Registaram-se casos de síndrome de serotonina durante a utilização clínica de linezolida
+com agentes serotoninérgicos, incluindo antidepressivos tais como inibidores seletivos da
+recaptação de serotonina (ISRS). Portanto, enquanto a coadministração está
+contraindicada (ver secção 4.3), a gestão dos doentes para os quais é essencial o
+tratamento com linezolida e agentes serotoninérgicos, é descrito na secção 4.4.
+
+Utilização com alimentos ricos em tiramina
+Não se observou resposta significativa da pressão após administração de linezolida e
+menos de 100 mg de tiramina. Este facto sugere que é apenas necessário evitar a
+ingestão de quantidades excessivas de alimentos e bebidas com um elevado teor em
+tiramina (por ex., queijo curado, extratos de leveduras, bebidas alcoólicas não destiladas
+e produtos de soja fermentada, tal como molho de soja).
+
+Fármacos metabolizados pelo citocromo P450
+Linezolida não é metabolizada de forma detetável pelo sistema enzimático do citocromo
+P450 (CYP) e não inibe nenhuma das isoformas CYP humanas clinicamente significativas
+(1A2, 2C9, 2C19, 2D6, 2E1, 3A4). Da mesma forma, linezolida não induz as isoenzimas
+P450 em ratos. Assim, não se espera que linezolida induza interações farmacológicas a
+nível do CYP450.
+
+Rifampicina
+Foi estudado o efeito da rifampicina na farmacocinética de linezolida em dezasseis
+voluntários saudáveis adultos do sexo masculino, aos quais foi administrado 600 mg de
+linezolida duas vezes ao dia durante 2,5 dias, com ou sem rifampicina 600 mg uma vez
+ao dia durante 8 dias. A rifampicina reduziu a Cmax e a AUC de linezolida numa média de
+21% [IC90%, 15, 27] e numa média de 32% [IC90%, 27, 37], respetivamente. É
+desconhecido o mecanismo desta interação e o seu significado clínico.
+
+Varfarina
+Após adição da varfarina à terapêutica com linezolida em estado estacionário, houve uma
+redução de 10% da média máxima da “International Normalized Ratio” (INR) na
+coadministração, com uma redução da AUC INR de 5%. Não existem dados suficientes de
+doentes que receberam varfarina e linezolida, de modo a avaliar o significado clínico,
+caso exista, destes resultados.
+
+
+4.6    Fertilidade, gravidez e aleitamento
+
+Gravidez
+Os dados sobre a utilização de linezolida em mulheres grávidas são limitados. Os estudos
+em animais demonstraram toxicidade no sistema reprodutor (ver secção 5.3). Existe um
+risco potencial para os seres humanos.
+
+Linezolida não deve ser utilizada durante a gravidez a não ser que seja claramente
+necessário, isto é, quando o potencial benefício seja considerado superior ao risco
+teórico.
+                                                                                     APROVADO EM
+
+                                                                                      INFARMED
+
+      Amamentação
+      Os dados obtidos em animais sugerem que linezolida e os seus metabolitos podem
+      passar para o leite materno; consequentemente deve-se suspender a amamentação
+      antes da administração e durante o tratamento.
+
+      Fertilidade
+      Em estudos em animais, linezolida provocou a redução da fertilidade (ver secção 5.3).
+
+      4.7      Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+      Os doentes devem ser advertidos quanto à possibilidade de ocorrerem tonturas ou
+      sintomas de perturbações visuais (como descritas nas secções 4.4 e 4.8) durante a
+      administração de linezolida, e devem ser aconselhados a não conduzir ou utilizar
+      máquinas se ocorrer algum destes sintomas.
+
+      4.8      Efeitos indesejáveis
+
+      A tabela abaixo fornece uma listagem das reações adversas com a frequência baseada
+      em todos os dados de causalidade provenientes de ensaios clínicos, envolvendo mais de
+      6000 doentes adultos que receberam as doses recomendadas de linezolida até 28 dias.
+      As mais frequentemente notificadas foram diarreia (8,9%), náuseas (6,9%), vómitos
+      (4,3%) e cefaleias (4,2%).
+
+      Os acontecimentos adversos notificados mais frequentemente, relacionados com o
+      fármaco, que levaram à descontinuação terapêutica, foram cefaleias, diarreia, náuseas e
+      vómitos. Cerca de 3% dos doentes suspenderam o tratamento devido a efeitos adversos
+      relacionados com o fármaco.
+
+      Reações adversas adicionais, notificadas na experiência pós-comercialização, estão
+      incluídas na tabela.
+
+      Os seguintes efeitos indesejáveis foram observados e notificados durante o tratamento
+      com linezolida, com as seguintes frequências: Muito frequentes (≥1/10); frequentes (≥
+      1/100 a < 1/10); pouco frequentes (≥ 1/1.000 a < 1/100); raros (≥ 1/10.000) a <
+      1/1.000); muito raros (< 1/10.000); Desconhecida (não pode ser calculado a partir dos
+      dados disponíveis).
+
+Classe  de      Frequentes    (≥      Pouco              Raros            (≥   Muito       Desconhecido
+sistema de      1/100 a < 1/10)       frequentes (≥      1/10.000)    a    <   raros (<    (frequência não
+órgãos                                1/1.000 a <        1/1.000)              1/10.000)   pode          ser
+                                      1/100)                                               calculada a partir
+                                                                                           dos         dados
+                                                                                           disponíveis)
+Infeções e      candidíase,           Colite associada
+infestações     candidíase oral,      a antibióticos,
+                candidíase            incluindo colite
+                vaginal, infeções     pseudomembra
+                fúngicas              nosa*, vaginite
+Doenças do      Trombocitopenia       Pancitopenia*,     Anemia                            Mielossupressão*
+sangue     e    *, anemia*†           leucopenia*,       sideroblástica1*
+do sistema                            neutropenia, ,
+linfático                             eosinofilia
+Doenças do                                               Anafilaxia
+sistema
+imunitário
+Doenças do                            Hiponatremia       Acidose láctica*
+metabolism
+                                                                            APROVADO EM
+
+                                                                            INFARMED
+
+o    e    da
+nutrição
+Perturbaçõ     Insónia
+es do foro
+psiquiátrico
+Doenças do     Cefaleias,          Convulsões*,                                Síndrome       da
+sistema        alterações     do   neuropatia                                  serotonina**
+nervoso        paladar    (sabor   periférica*,
+               metálico),          hipoestesia,
+               tonturas            parestesia
+Afeções                            Neuropatia          Alteração     no        Neurite   ótica*,
+oculares                           ótica*,     visão   campo visual*           perda de visão*,
+                                   turva*                                      alteração      na
+                                                                               acuidade visual*,
+                                                                               alteração na cor
+                                                                               da visão*
+Afeções do                         Acufenos
+ouvido e do
+labirinto
+Cardiopatia                        Arritmia
+s                                  (taquicardia)
+Vasculopati    Hipertensão         Acidente
+as                                 isquémico
+                                   transitório
+                                   flebite,
+                                   tromboflebite
+Doenças        Diarreia,           Pancreatite,        Alteração      da
+gastrointest   náuseas,            gastrite,           coloração
+inais          vómitos,     dor    xerostomia,         superficial    do
+               abdominal           glossite, fezes     dente
+               generalizada ou     soltas,
+               localizada,         estomatite,
+               obstipação,         distúrbio      ou
+               dispepsia           alteração      da
+                                   coloração      da
+                                   língua
+Afeções        Testes de função    Aumento        da
+hepatobiliar   hepática            bilirrubina total
+es             alterados;
+               Aumento da AST,
+               ALT ou fosfatase
+               alcalina.
+Afeções dos    Prurido, erupção    Angioedema,         Necrólise               Alopecia
+tecidos        cutânea             urticária,          epidérmica
+cutâneos e                         dermatite           tóxica#,
+subcutâneo                         bolhosas,           síndrome        de
+s                                  dermatite,          Stevens-
+                                   diaforese           Johnson#,
+                                                       vasculite       de
+                                                       hipersensibilidad
+                                                       e
+Afeções                                                Rabdomiólise*
+musculosqu
+eléticas  e
+dos tecidos
+conjuntivos
+                                                                               APROVADO EM
+
+                                                                               INFARMED
+
+Doenças         aumento da BUN       Insuficiência
+renais      e   (azoto ureico)       renal,
+urinárias                            creatinina
+                                     aumentada,
+                                     poliúria
+Doenças                              Distúrbio
+dos órgãos                           vulvovaginal
+genitais   e
+da mama
+Perturbaçõ      Pirexia,      dor    Arrepios,
+es gerais e     localizada           fadiga, dor no
+alterações                           local         de
+no local de                          injeção,
+administraç                          aumento       da
+ão                                   sede
+Exames          Químicos             Químicos
+complemen       Aumento         da   Aumento       do
+tares    de     LDH, creatinina      sódio ou cálcio.
+diagnóstico     cinase,    lipase,   Diminuição da
+                amilase         ou   glicemia     não
+                glicemia não em      em        jejum.
+                jejum.               Aumento       ou
+                Diminuição     das   diminuição dos
+                proteínas totais,    cloretos.
+                albumina, sódio
+                ou cálcio.
+                Aumento         ou   Hematologia
+                diminuição      do   Aumento        da
+                potássio        ou   contagem dos
+                bicarbonato.         reticulócitos.
+                                     Diminuição dos
+              Hematologia            neutrófilos
+              Aumento       dos
+              neutrófilos    ou
+              eosinófilos.
+              Diminuição     da
+              hemoglobina,
+              hematócrito    ou
+              contagem      das
+              células        da
+              linhagem
+              vermelha.
+              Aumento        ou
+              diminuição    das
+              plaquetas ou da
+              contagem      das
+              células        da
+              linhagem branca
+      * Ver secção 4.4
+      ** Ver secções 4.3 e 4.5
+      # Frequência de efeitos indesejáveis estimada com base na "Regra de 3"
+      † Ver em baixo
+
+      As reações adversas da linezolida que se seguem foram consideradas graves em casos
+      raros:
+      dor abdominal localizada, acidentes isquémicos transitórios e hipertensão.
+                                                                        APROVADO EM
+
+                                                                        INFARMED
+
+† Nos ensaios clínicos controlados em que linezolida foi administrada até 28 dias, menos
+que 2,0% dos doentes apresentaram anemia. Num programa de uso compassivo em
+doentes com infeções potencialmente fatais e comorbilidades existentes, a percentagem
+de doentes que desenvolveu anemia sob tratamento com linezolida durante ≤ 28 dias foi
+de 2,5% (33/1326), em comparação com 12,3% (53/430) quando tratados durante > 28
+dias. A proporção de casos que registaram anemia grave relacionada com o
+medicamento e que necessitaram de transfusão sanguínea foi de 9% (3/33) em doentes
+tratados durante ≤28 dias e 15% (8/53) em doentes tratados durante > 28 dias.
+
+População pediátrica
+Os dados de segurança de estudos clínicos baseados em mais de 500 doentes pediátricos
+(desde o nascimento até aos 17 anos) não indicam que o perfil de segurança de
+linezolida para os doentes pediátricos seja diferente dos doentes adultos.
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-risco
+do medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas
+de reações adversas ao INFARMED I.P.:
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+E-mail: farmacovigilancia@infarmed.pt
+
+4.9   Sobredosagem
+
+Não se conhece antídoto específico.
+
+Não foram observados casos de sobredosagem. No entanto, as informações que se
+seguem podem ser úteis:
+
+Aconselham-se cuidados de suporte, com a manutenção da filtração glomerular. Cerca de
+30% de uma dose de linezolida pode ser removida durante 3 horas de hemodiálise, mas
+não existem dados disponíveis sobre a remoção de linezolida por diálise peritoneal ou
+hemoperfusão. Os dois metabolitos primários de linezolida são hemodializáveis em
+alguma extensão.
+
+Os sinais de toxicidade em ratos após administração de doses de 3000 mg/kg/dia de
+linezolida foram diminuição da atividade e ataxia, enquanto que cães tratados com 2000
+mg/kg/dia apresentaram vómitos e tremor.
+ com 2000 mg/kg/dia apresentaram vómitos e tremor.
+
+
+5.    PROPRIEDADES FARMACOLÓGICAS
+
+5.1   Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 1.1.11 - Medicamentos Anti-infeciosos. Antibacterianos.
+Outros antibacterianos.
+Código ATC: J01XX08
+                                                                        APROVADO EM
+
+                                                                         INFARMED
+
+Propriedades gerais
+Linezolida é um agente antibacteriano sintético, que pertence a uma nova classe de
+antimicrobianos, as oxazolidinonas.
+Apresenta atividade in vitro contra bactérias aeróbias Gram-positivas e microrganismos
+anaeróbios. A linezolida inibe seletivamente a síntese das proteínas bacterianas através
+de um mecanismo de ação único. Especificamente, liga-se a um local do ribossoma
+bacteriano (23S, da subunidade 50S) e evita a formação de um complexo de iniciação
+funcional 70S, que é um componente essencial do processo de tradução.
+sso de tradução.
+
+O efeito pós-antibiótico in vitro de linezolida para o Staphylococcus aureus foi de
+aproximadamente 2 horas. Quando determinado em modelos animais, o efeito pós-
+antibiótico in vivo foi de 3,6 e 3,9 horas para o Staphylococcus aureus e Streptococcus
+pneumoniae, respetivamente. Em estudos efetuados em animais, o principal parâmetro
+farmacodinâmico para a eficácia foi o tempo no qual o nível plasmático de linezolida
+excedia a concentração inibitória mínima (CIM) para o organismo infetante.
+
+Limites
+Os limites da concentração inibitória mínima (CIM) estabelecidos pelo European
+Committee on Antimicrobial Susceptibility Testing (EUCAST) para estafilococos e
+enterococos são Suscetível ≤ 4 mg/l e Resistente > 4 mg/l.
+Para estreptococos (incluindo S. pneumoniae) os limites são Suscetível ≤ 2 mg/l e
+Resistente > 4 mg/l.
+Os limites da CIM não relacionados com espécies são Suscetível ≤ 2 mg/l e Resistente >
+4 mg/l. Os limites não relacionados com espécies foram determinados, principalmente,
+com base nos dados de farmacocinética e farmacodinâmica e são independentes da
+distribuição das CIM de espécies específicas. Estes limites devem ser utilizados apenas
+em microrganismos para os quais não foi atribuído um limite específico, e não para as
+espécies em que o teste de suscetibilidade não é recomendado.
+
+Suscetibilidade
+A prevalência de resistências adquiridas pode variar geograficamente e ao longo do
+tempo para espécies selecionadas, devendo consultar-se a informação local sobre
+resistências, particularmente ao tratar infeções graves. Se necessário, o aconselhamento
+de peritos deve ser procurado, quando o nível de prevalência da resistência é tão elevado
+que coloca em causa a utilidade do fármaco em pelo menos alguns tipos de infeções.
+
+       Categoria
+       Organismos suscetíveis
+
+       Aeróbios Gram-positivo:
+       Enterococcus faecalis
+       Enterococcus faecium*
+       Staphylococcus aureus*
+       Staphylococci coagulase negativo
+       Streptococcus agalactiae*
+       Streptococcus pneumoniae*
+       Streptococcus pyogenes*
+       Streptococci do Grupo C
+       Streptococci do Grupo G
+
+       Anaeróbios Gram-positivo:
+       Clostridium perfringens
+       Peptostreptococcus anaerobius
+       Espécie Peptostreptococcus
+       Organismos resistentes
+                                                                         APROVADO EM
+
+                                                                         INFARMED
+
+       Haemophilus influenza
+       Moraxella catarrhalis
+       Neisseria spp.
+       Enterobacteriaceae
+       Pseudomonas spp.
+
+*A eficácia clínica foi demonstrada para isolados suscetíveis nas indicações terapêuticas
+aprovadas.
+
+Apesar de linezolida apresentar alguma atividade in vitro contra Legionella, Chlamidia
+pneumoniae e Mycoplasma pneumoniae, não existem dados suficientes para demonstrar
+a eficácia clínica.
+
+Resistência
+
+Resistência cruzada
+O mecanismo de ação de linezolida difere do das outras classes de antibióticos.
+Estudos in vitro com isolados clínicos (incluindo Staphylococci resistentes à meticilina,
+Enterococci resistentes à vancomicina e Streptococci resistentes à penicilina e
+eritromicina), indicam que a linezolida é normalmente ativa contra organismos que são
+resistentes a uma ou mais classes de agentes antimicrobianos.
+
+A resistência a linezolida está associada a mutações pontuais no rRNA 23S.
+Tal como documentado com outros antibióticos, quando utilizados em doentes com
+infeções difíceis de tratar e/ou durante longos períodos, foram observadas diminuições
+emergentes da suscetibilidade à linezolida. Foi notificada resistência à linezolida em
+enterococos, Staphylococos aureus e estafilococos coagulase-negativo. Este facto tem
+sido geralmente associado a tratamentos prolongados e à presença de materiais
+prostéticos ou de abcessos não drenados. É importante enfatizar as políticas de controlo
+de infeçõ
+enados. É importante enfatizar as políticas de controlo de infeçõ
+nfeçõ
+
+s, quando os microrganismos resistentes a antibióticos são detetados no hospital.
+
+Informação dos ensaios clínicos
+
+Estudos na população pediátrica:
+Num estudo de desenho aberto, a eficácia de linezolida (10 mg/kg q8h) foi comparada à
+vancomicina (10-15 mg/kg q6-24h) no tratamento de infeções por agentes patogénicos
+Gram-positivo com suspeita ou comprovadamente resistentes (incluindo pneumonia
+nosocomial, infeções complicadas da pele e estruturas da pele, bacteriemia relacionada
+com cateter, bacteriemia de fonte desconhecida, e outras infeções), em crianças desde o
+nascimento até aos 11 anos. Taxas de cura clínica na população foram clinicamente
+avaliadas em 89,3% (134/150) e 84,5% (60/71) para linezolida e vancomicina
+respetivamente (95% IC: -4,9, 14,6).
+ em 89,3% (134/150) e 84,5% (60/71) para linezolida e vancomicina respetivamente
+(95% IC: -4,9, 14,6).
+
+5.2   Propriedades farmacocinéticas
+
+Linezolida contém principalmente (S)-linezolida, que é biologicamente ativo e é
+metabolizado para formar derivados inativos.
+
+Absorção
+Linezolida é rápida e extensamente absorvido após administração oral. As concentrações
+plasmáticas máximas são atingidas nas 2 horas após administração. A biodisponibilidade
+                                                                        APROVADO EM
+
+                                                                         INFARMED
+
+absoluta oral de linezolida (estudo cruzado de doses orais e intravenosas) é completa
+(aproximadamente 100%). A absorção não é afetada significativamente pelos alimentos
+e a absorção da suspensão oral é semelhante à atingida pelos comprimidos revestidos
+por película.
+Determinou-se que as Cmax e Cmin plasmáticas de linezolida (média e [DP]) no estado
+estacionário, após administração intravenosa de 600 mg, duas vezes ao dia, foram de
+15,1 [2,5] mg/l e 3,68 [2,68] mg/l, respetivamente.
+P]) no estado estacionário, após administração intravenosa de 600 mg, duas vezes ao
+dia, foram de 15,1 [2,5] mg/l e 3,68 [2,68] mg/l, respetivamente.
+Determinou-se, noutro estudo, que após administração oral de 600 mg duas vezes ao dia
+até se atingir o estado estacionário, que a Cmax e Cmin foram 21,2 [5,8] mg/l e 6,15
+[2,94] mg/l, respetivamente. As condições do estado estacionário atingem-se no
+segundo dia de administração.
+
+Distribuição
+O volume de distribuição médio no estado estacionário é cerca de 40-50 litros em adultos
+saudáveis e aproxima-se do valor da água corporal total. A ligação às proteínas
+plasmáticas é cerca de 31% e não é dependente da concentração.
+Foram determinadas as concentrações de linezolida em vários fluidos, a partir de estudos
+com um número limitado de indivíduos voluntários, após doses múltiplas. A razão de
+linezolida na saliva e suor relativamente ao plasma foi 1,2:1,0 e 0,55:1,0,
+respetivamente. A razão para o fluido de revestimento epitelial e células alveolares do
+pulmão foi de 4,5:1,0 e 0,15:1,0, respetivamente, quando determinada na Cmax do
+estado estacionário.
+luido de revestimento epitelial e células alveolares do pulmão foi de 4,5:1,0 e 0,15:1,0,
+respetivamente, quando determinada na Cmax do estado estacionário.
+Num pequeno estudo em indivíduos com derivações ventrículo-peritoneais e meninges
+essencialmente não inflamadas, a razão do linezolida no fluido cerebrospinal para o
+plasma na Cmax foi 0,7:1,0 após múltiplas administrações de linezolida.
+
+Biotransformação
+Linezolida é inicialmente metabolizado por oxidação do anel morfolínico, originando
+sobretudo a formação de dois derivados inativos do ácido carboxílico de anel aberto; o
+metabolito ácido aminoetoxiacético (PNU-142300) e o metabolito hidroxietil-glicina (PNU-
+142586). O metabolito hidroxietil glicina (PNU-142586) é o principal metabolito humano
+e pensa-se que se forma por um processo não enzimático. O metabolito ácido
+aminoetoxiacético (PNU-142300) é menos abundante. Foram também caracterizados
+outros metabolitos inativos menores.
+ados outros metabolitos inativos menores.
+olitos inativos menores.
+
+Eliminação
+Em doentes com a função renal normal ou insuficiência renal ligeira a moderada,
+linezolida sob condições de estado estacionário, é excretado principalmente na urina
+como PNU-142586 (40%), fármaco inicial (30%) e PNU-142300 (10%). Não se deteta o
+fármaco inicial nas fezes, enquanto que aproximadamente 6% e 3% de cada dose são
+detetados como PNU- 142586 e PNU-142300, respetivamente. A semivida de eliminação
+média de linezolida é cerca de 5-7 horas.
+
+A depuração não renal de linezolida é cerca de 65% da depuração total. Observou-se um
+pequeno grau de não linearidade na depuração com doses aumentadas de linezolida.
+Este facto parece dever-se à baixa depuração renal e não renal para concentrações mais
+elevadas de linezolida. No entanto, a diferença na depuração é pequena e não se reflete
+na semivida de eliminação aparente.
+ão total. Observou-se um pequeno grau de não linearidade na depuração com doses
+aumentadas de linezolida. Este facto parece dever-se à baixa depuração renal e não
+                                                                        APROVADO EM
+
+                                                                         INFARMED
+
+renal para concentrações mais elevadas de linezolida. No entanto, a diferença na
+depuração é pequena e não se reflete na semivida de eliminação aparente.
+
+Populações especiais
+
+Compromisso renal:
+Após doses únicas de 600 mg, houve um aumento de 7-8 vezes na exposição aos dois
+metabolitos primários do linezolida no plasma dos doentes com insuficiência renal grave
+(isto é, depuração da creatinina < 30 ml/min). No entanto, não houve um aumento da
+AUC do fármaco inicial. Apesar de existir alguma remoção dos principais metabolitos de
+linezolida por hemodiálise, os níveis plasmáticos dos metabolitos após doses únicas de
+600 mg foram ainda considerados muito elevados após diálise, em relação aos registados
+em doentes com a função renal normal ou insuficiência renal ligeira a moderada.
+s em doentes com a função renal normal ou insuficiência renal ligeira a moderada.
+ em doentes com a função renal normal ou insuficiência renal ligeira a moderada.
+Em 24 doentes com insuficiência renal grave, 21 dos quais faziam hemodiálise
+regularmente, as concentrações máximas plasmáticas dos dois metabolitos principais
+após vários dias de administração foram cerca de 10 vezes superiores às observadas em
+doentes com função renal normal. Os níveis plasmáticos máximos de linezolida não
+foram afetados.
+O significado clínico destas observações ainda não foi estabelecido, uma vez que apenas
+se dispõe de dados de segurança limitados (ver secção 4.2 e 4.4).
+
+Compromisso hepático:
+O limitado número de dados indica que a farmacocinética de linezolida, PNU-142300 e
+PNU-142586 não se altera em doentes com insuficiência hepática ligeira a moderada
+(isto é, classe Child-Pugh A ou B). Não se avaliou a farmacocinética de linezolida em
+doentes com insuficiência hepática grave (isto é, classe Child-Pugh C). No entanto, como
+linezolida é metabolizado por um processo não enzimático, não se espera que a
+deterioração da função hepática altere significativamente o seu metabolismo (ver
+secções 4.2 e 4.4).
+ e 4.4).
+e 4.4).
+
+População pediátrica (<18 anos):
+Não existem dados suficientes sobre a segurança e eficácia de linezolida em crianças e
+adolescentes (< 18 anos), pelo que não se recomenda a utilização de linezolida nesta
+faixa etária (ver secção 4.2). São necessários estudos adicionais, de forma a estabelecer
+recomendações posológicas seguras e eficazes. Estudos farmacocinéticos indicam que
+após administração de doses únicas e múltiplas de linezolida em crianças e adolescentes
+(1 semana a 12 anos), a depuração de linezolida (baseada em kg de peso corporal) foi
+superior em doentes pediátricos do que em doentes adultos, mas diminuiu com o
+aumento da idade.
+ (baseada em kg de peso corporal) foi superior em doentes pediátricos do que em
+doentes adultos, mas diminuiu com o aumento da idade.
+) foi superior em doentes pediátricos do que em doentes adultos, mas diminuiu com o
+aumento da idade.
+A administração diária de 10 mg/kg de oito em oito horas, a crianças com idade entre 1
+semana e 12 anos originou níveis de exposição semelhantes aos atingidos por adultos
+com administração de 600 mg duas vezes por dia.
+Nos recém-nascidos com idade até 1 semana, a depuração sistémica de linezolida
+(baseada em kg de peso corporal) aumenta rapidamente durante a primeira semana de
+vida. Consequentemente, os recém-nascidos tratados diariamente com 10 mg/kg de oito
+em oito horas vão apresentar a maior exposição sistémica no primeiro dia após o parto.
+No entanto, não se espera acumulação excessiva com este regime posológico durante a
+primeira semana de vida, uma vez que a depuração aumenta rapidamente durante este
+período.
+                                                                        APROVADO EM
+
+                                                                         INFARMED
+
+istémica no primeiro dia após o parto. No entanto, não se espera acumulação excessiva
+com este regime posológico durante a primeira semana de vida, uma vez que a
+depuração aumenta rapidamente durante este período.
+Nos adolescentes (12 a 17 anos), a farmacocinética de linezolida foi semelhante à dos
+adultos, após uma dose de 600 mg. Consequentemente, os adolescentes tratados com
+600 mg de 12 em 12 horas vão apresentar exposições semelhantes às observadas em
+adultos sob a mesma posologia.
+Em doentes pediátricos com shunts ventrículo-peritoneais, administrados com linezolida
+10 mg/kg a cada 12h ou a cada 8h, foram observadas concentrações variáveis de
+linezolida no líquido cefalorraquidiano (LCR) quer numa dose única ou múltipla de
+linezolida. Concentrações terapêuticas não foram consistentemente alcançadas ou
+mantidas no LCR. Portanto, não é recomendado o uso de linezolida para o tratamento
+empírico de doentes pediátricos com infeções no sistema nervoso central.
+ múltipla de linezolida. Concentrações terapêuticas não foram consistentemente
+alcançadas ou mantidas no LCR. Portanto, não é recomendado o uso de linezolida para o
+tratamento empírico de doentes pediátricos com infeções no sistema nervoso central.
+
+Idosos:
+A farmacocinética de linezolida não é alterada significativamente em doentes com 65 ou
+mais anos de idade.
+
+Doentes do sexo feminino:
+As mulheres têm um volume de distribuição ligeiramente menor do que os homens e a
+depuração média é reduzida em cerca de 20% após correção do peso corporal. As
+concentrações plasmáticas são superiores nas mulheres, podendo este facto ser atribuído
+às diferenças de peso corporal. No entanto, uma vez que a semivida média de linezolida
+não é significativamente diferente em homens e mulheres, não se espera que as
+concentrações plasmáticas nas mulheres se elevem acima das concentrações que se sabe
+serem bem toleradas e, assim, não são necessários ajustes posológicos.
+ue se sabe serem bem toleradas e, assim, não são necessários ajustes posológicos.
+radas e, assim, não são necessários ajustes posológicos.
+
+5.3   Dados de segurança pré-clínica
+
+Linezolida diminuiu a fertilidade e a capacidade reprodutiva de ratos machos, para níveis
+de exposição aproximadamente iguais aos esperados para os seres humanos. Em
+animais sexualmente maduros estes efeitos foram reversíveis. No entanto, estes efeitos
+não foram reversíveis em animais jovens tratados com linezolida durante quase todo o
+período de maturação sexual. Observou-se uma morfologia anómala do esperma nos
+testículos dos ratos machos adultos e hipertrofia da célula epitelial e hiperplasia no
+epidídimo. Linezolida parece afetar a maturação dos espermatozoides de rato. Os
+suplementos de testosterona não afetaram os efeitos sobre a fertilidade mediados pelo
+linezolida. Não se observou hipertrofia epididimal em cães tratados durante um mês,
+apesar de serem aparentes as alterações no peso da próstata, testículos e epidídimo.
+
+Os estudos de toxicidade reprodutiva em ratos e ratinhos não demonstraram efeitos
+teratogénicos para níveis de exposição 4 vezes superiores ou equivalentes,
+respetivamente, aos esperados em seres humanos. As mesmas concentrações de
+linezolida provocaram toxicidade materna em ratinhos e estavam relacionadas com
+aumento das mortes embrionárias, incluindo perda total da ninhada, diminuição do peso
+corporal do feto e uma exacerbação da predisposição genética normal para alterações do
+esterno nesta estirpe de ratinhos. Nos ratos, observou-se uma toxicidade materna ligeira
+para níveis de exposição inferiores às exposições clínicas esperadas. Observou-se
+toxicidade fetal ligeira, que se manifestou como diminuição do peso corporal fetal,
+ossificação reduzida da esternebra, diminuição da sobrevivência das crias e atrasos
+ligeiros na maturação. Após acasalamento, as mesmas crias apresentaram provas de um
+aumento reversível da perda na pré-implantação, relacionada com a dose, com uma
+                                                                        APROVADO EM
+
+                                                                         INFARMED
+
+diminuição correspondente na fertilidade. Em coelhos, ocorreu redução do peso corporal
+apenas na presença de toxicidade materna (sinais clínicos, redução do aumento de peso
+corporal e consumo de alimentos), com a administração de uma dose 0,06 vezes a
+exposição humana estimada com base nas AUCs. Sabe-se que a espécie é sensível aos
+efeitos dos antibióticos.
+
+Linezolida e os seus metabolitos são excretados no leite de ratos fêmeas, sendo as
+concentrações observadas superiores às determinadas no plasma materno.
+Linezolida provocou mielossupressão reversível em ratos e cães.
+
+Foi observada degeneração dos axónios dos nervos ciáticos mínima a ligeira, em ratos
+que receberam uma dose oral de linezolida de 80 mg/kg/dia durante 6 meses; foi
+também observada degeneração mínima do nervo ciático num macho, a receber esta
+dose, numa necropsia interina efetuada aos 3 meses. Foi conduzida uma avaliação
+morfológica aprofundada dos tecidos fixados por perfusão, para investigar a evidência de
+degeneração do nervo ótico. Foi evidente a degeneração mínima a moderada do nervo
+ótico em 2 de 3 ratos macho depois de 6 meses de administração, mas a relação direta
+com o fármaco não foi conclusiva devido à natureza aguda do achado e à sua distribuição
+assimétrica. A degeneração nervosa observada foi microscopicamente compatível com a
+degeneração unilateral espontânea do nervo ótico relatada em ratos envelhecidos e
+poderá ser uma exacerbação de uma alteração comum pré-existente.
+
+Os dados pré-clínicos, baseados nos estudos convencionais de toxicidade de dose
+repetida e genotoxicidade, não revelaram perigo especial para os seres humanos, para
+além dos riscos já mencionados noutras secções deste Resumo das Características do
+Medicamento. Não se efetuaram estudos de carcinogenicidade/oncogenicidade, tendo em
+conta o curto período de administração e a ausência de genotoxicidade.
+
+
+6.     INFORMAÇÕES FARMACÊUTICAS
+
+6.1.   Lista dos excipientes
+
+Glucose mono-hidratada
+Citrato de sódio
+Ácido cítrico anidro
+Ácido clorídrico
+Hidróxido de sódio
+Água para preparações injetáveis
+
+6.2    Incompatibilidades
+
+Não devem ser introduzidos aditivos nesta solução. Se a linezolida for administrada
+concomitantemente com outros fármacos, cada um deve ser administrado
+separadamente, de acordo com as respetivas instruções de utilização. Do mesmo modo,
+caso se utilize o mesmo sistema de perfusão intravenoso para a administração sequencial
+de vários fármacos, deve-se lavar a linha antes e após a administração de linezolida, com
+uma solução para perfusão compatível (ver secção 6.6).
+
+Sabe-se que a solução para perfusão Linezolida Altan é fisicamente incompatível com os
+seguintes compostos: anfotericina B, cloridrato de clorpromazina, diazepam, isotionato
+de     pentamidina,    lactobionato    de     eritromicina,    fenitoína   sódica    e
+trimetoprim/sulfametoxazol. É ainda quimicamente incompatível com a ceftriaxona
+sódica.
+
+6.3    Prazo de validade
+                                                                           APROVADO EM
+
+                                                                            INFARMED
+
+Antes de abertura; 2 anos
+Após abertura: do ponto de vista microbiológico, a não ser que o método de abertura
+previna o risco de contaminação microbiológica, o medicamento deve ser utilizado
+imediatamente. Se não for utilizado imediatamente, o período e condições de
+armazenamento são da responsabilidade do utilizador.
+
+6.4    Precauções especiais de conservação
+
+Conservar na embalagem de origem (invólucro protetor e cartonagem) até à utilização
+para proteger da luz.
+Não congelar.
+Para condições de conservação após a primeira abertura do medicamento, ver secção
+6.3.
+
+6.5    Natureza e conteúdo do recipiente
+
+Sacos para perfusão de utilização única, pronto a usar, sem látex, em película com
+múltiplas camadas de poliolefino, equipado com um ponto de punção num adaptador de
+torção. O saco é selado num invólucro protetor de alumínio laminado. O saco tem a
+capacidade para 300 ml e é acondicionado numa caixa.
+
+Cada caixa contém 10 sacos para perfusão.
+
+6.6    Precauções especiais de eliminação e manuseamento
+
+Para utilização única. Retirar o invólucro protetor apenas antes da utilização, verificar se
+há pequenas fugas apertando o saco com firmeza. Se houver fugas, não utilizar, uma vez
+que a esterilidade pode estar comprometida. A solução deve ser inspecionada
+visualmente antes da administração e apenas se devem utilizar soluções límpidas, sem
+partículas. Não utilizar estes sacos em sistemas de perfusão em série. Rejeitar a solução
+não utilizada. Não existem requisitos especiais para a eliminação. Qualquer medicamento
+não utilizado ou resíduos devem ser eliminados de acordo com as exigências locais.
+camento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+amento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+Não voltar a utilizar sacos parcialmente usados.
+
+A solução para perfusão linezolida é compatível com as seguintes soluções:
+- solução para perfusão intravenosa de glucose a 5% (50 mg/ml),
+- solução para perfusão intravenosa de cloreto de sódio a 0,9% (9 mg/ml)
+- solução injetável de lactato de Ringer (solução injetável de Hartmann).
+
+7.     TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Altan Pharmaceuticals, S.A.
+C/ Cólquide 6. Portal 2, 1ª planta. Oficina F, Edificio Prisma
+Las Rozas
+28230 Madrid
+Espanha
+
+
+8.     NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Nº de registo: 5712773 - 10 sacos, 600 mg/300 ml de solução para perfusão
+                                                               APROVADO EM
+
+                                                                INFARMED
+
+9.   DATA DA PRIMEIRA           AUTORIZAÇÃO/RENOVAÇÃO   DA   AUTORIZAÇÃO   DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 11 de abril de 2017
+Data da última renovação: 05 de junho de 2023
+
+10.   DATA DA REVISÃO DO TEXTO
+

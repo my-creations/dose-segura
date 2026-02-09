@@ -1,0 +1,31 @@
+{
+  "medId": "metilprednisolona-acetato",
+  "searchTerm": "metilprednisolona",
+  "retrievedAt": "2026-02-09T00:38:46.016Z",
+  "bestMatch": {
+    "infarmedId": "56266",
+    "name": "Metilprednisolona HikmaMG",
+    "dci": "Metilprednisolona",
+    "form": "Pó para solução injetável",
+    "dosage": "1000 mg",
+    "holder": "Hikma Farmacêutica (Portugal), S.A.",
+    "isGeneric": false,
+    "score": 170
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/56266-rcm.pdf",
+      "size": 276562
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/56266-fi.pdf",
+      "size": 242667
+    }
+  }
+}

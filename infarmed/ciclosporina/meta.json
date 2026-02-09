@@ -1,0 +1,26 @@
+{
+  "medId": "ciclosporina",
+  "searchTerm": "ciclosporina",
+  "retrievedAt": "2026-02-08T17:45:00.000Z",
+  "bestMatch": {
+    "infarmedId": "7741",
+    "name": "Sandimmun",
+    "dci": "Ciclosporina",
+    "form": "Concentrado para solução para perfusão",
+    "dosage": "50 mg/ml",
+    "holder": "Novartis Farma - Produtos Farmacêuticos, S.A.",
+    "score": 1.0
+  },
+  "documents": {
+    "rcm": {
+      "status": "success",
+      "contentType": "application/pdf",
+      "file": "infarmed/ciclosporina/rcm/7741-rcm.pdf"
+    },
+    "fi": {
+      "status": "success",
+      "contentType": "application/pdf",
+      "file": "infarmed/ciclosporina/fi/7741-fi.pdf"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "medId": "penicilina-g-sodica-ou-potassica",
+  "searchTerm": "penicilina",
+  "retrievedAt": "2026-02-09T00:45:20.431Z",
+  "bestMatch": {
+    "infarmedId": "10476",
+    "name": "Penicilina Atral",
+    "dci": "Benzilpenicilina potássica",
+    "form": "Pó para solução injetável",
+    "dosage": "1 M.U.I.",
+    "holder": "Laboratórios Atral, S.A.",
+    "isGeneric": false,
+    "score": 150
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/10476-rcm.pdf",
+      "size": 179636
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/10476-fi.pdf",
+      "size": 134393
+    }
+  }
+}

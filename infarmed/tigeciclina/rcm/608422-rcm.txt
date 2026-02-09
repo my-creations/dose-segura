@@ -1,0 +1,922 @@
+                                                                                 APROVADO EM
+                                                                                  28-10-2023
+                                                                                  INFARMED
+1.      NOME DO MEDICAMENTO
+
+Tigeciclina Mylan 50 mg pó para solução para perfusão
+
+
+2.      COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada frasco para injetáveis contém 50 mg de tigeciclina.
+Após reconstituição, 1 ml contém 10 mg de tigeciclina.
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+3.      FORMA FARMACÊUTICA
+
+Pó para solução para perfusão (pó para perfusão).
+Pó compacto ou solto liofilizado, laranja a laranja-avermelhado, livre de contaminação visível.
+O pH da solução reconstituída varia de 4,0 a 6,0 e a osmolaridade varia entre 240 – 320 mOsm/kg
+dependendo do solvente de reconstituição.
+
+
+4.      INFORMAÇÕES CLÍNICAS
+
+4.1     Indicações terapêuticas
+
+Tigeciclina Mylan é indicado em adultos e crianças a partir dos oito anos de idade para o
+tratamento das seguintes infeções (ver secções 4.4 e 5.1):
+
+Infeções complicadas da pele e dos tecidos moles (IcPTM), excluindo infeções do pé diabético
+(ver secção 4.4)
+Infeções complicadas intra-abdominais (IcIA)
+
+Tigeciclina Mylan deve ser utilizado apenas em situações em que outros antibióticos alternativos
+não sejam adequados (ver secções 4.4, 4.8 e 5.1).
+
+Devem ser tidas em consideração as recomendações oficiais referentes ao uso adequado de
+agentes antibacterianos.
+
+4.2     Posologia e modo de administração
+
+Posologia
+
+Adultos
+A dose recomendada é uma dose inicial de 100 mg, seguida de 50 mg de 12 em 12 horas, durante
+5 a 14 dias.
+
+Crianças e adolescentes (8 aos 17 anos de idade)
+
+Crianças com 8 a < 12 anos: 1,2 mg/kg de tigeciclina de 12 em 12 horas por via intravenosa, até
+uma dose máxima de 50 mg de 12 em 12 horas durante 5 a 14 dias.
+                                                                                  APROVADO EM
+                                                                                   28-10-2023
+                                                                                   INFARMED
+
+Adolescentes com 12 a < 18 anos: 50 mg de tigeciclina de 12 em 12 horas durante 5 a 14 dias.
+A duração da terapêutica deve ser orientada pela gravidade, pelo local da infeção e pela resposta
+clínica do doente.
+
+Idosos
+Não é necessário ajuste posológico em doentes idosos (ver secção 5.2).
+
+Compromisso hepático
+Em doentes com compromisso hepático ligeiro a moderado (classificação Child Pugh A e Child
+Pugh B) não é necessário qualquer ajuste posológico.
+
+Em doentes (incluindo doentes pediátricos) com compromisso hepático grave (Child Pugh C), a
+dose de tigeciclina deve ser diminuída em 50 %. Em doentes adultos, a dose deve ser diminuída
+para 25 mg de 12 em 12 horas após a dose de carga de 100 mg. Os doentes com compromisso
+hepático grave (Child Pugh C) devem ser tratados com precaução e a resposta ao tratamento deve
+ser monitorizada (ver secções 4.4 e 5.2).
+
+Compromisso renal
+Não é necessário ajuste posológico em doentes com compromisso renal ou em doentes
+submetidos a hemodiálise (ver secção 5.2).
+
+População pediátrica
+A segurança e eficácia de tigeciclina em crianças com idade inferior a 8 anos não foram
+estabelecidas. Não existem dados disponíveis. Tigeciclina Mylan não deve ser utilizado em
+crianças com idade inferior a 8 anos devido à descoloração dentária (ver secções 4.4 e 5.1)
+
+Modo de administração:
+
+A tigeciclina é administrada apenas por perfusão intravenosa durante 30 a 60 minutos (ver
+secções 4.4 e 6.6). Em doentes pediátricos, a tigeciclina deve ser administrada, de preferência, por
+perfusão durante 60 minutos (ver secção 4.4).
+
+Para instruções acerca da reconstituição e diluição do medicamento antes da administração, ver
+secção 6.6.
+
+4.3     Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na
+secção 6.1.
+
+Os doentes com hipersensibilidade aos antibióticos da classe das tetraciclinas podem ter
+hipersensibilidade à tigeciclina.
+
+4.4     Advertências e precauções especiais de utilização
+
+Em estudos clínicos em infeções complicadas da pele e tecidos moles (IcPTM), infeções
+complicadas intra-abdominais (IcIA), infeções do pé diabético, pneumonia nosocomial e estudos
+em patogénios resistentes, tem sido observada uma taxa de mortalidade numericamente superior
+entre os doentes tratados com tigeciclina quando comparado com o tratamento comparador. As
+                                                                                 APROVADO EM
+                                                                                  28-10-2023
+                                                                                  INFARMED
+causas destas observações permanecem desconhecidas, mas não se pode excluir uma menor
+eficácia e segurança do que os comparadores do estudo.
+
+Superinfeção
+A deficiente cicatrização da ferida cirúrgica tem sido associada a superinfeção, em ensaios
+clínicos em doentes com infeção complicada intra-abdominal. Os doentes com deficiente
+cicatrização devem ser monitorizados para a deteção de superinfeção (ver secção 4.8).
+
+Os doentes que desenvolvem superinfeções, em particular pneumonia nosocomial, parecem estar
+associados a resultados mais fracos. Os doentes devem ser monitorizados de perto relativamente
+ao desenvolvimento de superinfeção. Se, após o início da terapêutica com tigeciclina, for
+identificado um foco de infeção que não seja infeção complicada da pele e tecidos moles ou
+infeção complicada intra-abdominal, deve ser considerada a instituição de uma terapêutica
+antibacteriana alternativa que tenha demonstrado ser eficaz no tratamento do tipo específico de
+infeção(ões) presente(s).
+
+Anafilaxia
+Têm sido notificados casos de reações anafiláticas/anafilactoides, potencialmente fatais, com a
+tigeciclina (ver secções 4.3 e 4.8).
+
+Insuficiência hepática
+Têm sido notificados casos de lesão hepática, com um padrão predominantemente colestático, em
+doentes em tratamento com tigeciclina, incluindo alguns casos de insuficiência hepática com um
+resultado fatal. Apesar da insuficiência hepática poder ocorrer em doentes tratados com
+tigeciclina devido a condições subjacentes ou medicação concomitante, deve ser considerada uma
+possível contribuição da tigeciclina (ver secção 4.8).
+
+Antibióticos da classe das tetraciclinas
+Os antibióticos da classe das glicilciclinas são estruturalmente semelhantes aos antibióticos da
+classe das tetraciclinas. A tigeciclina pode causar reações adversas semelhantes às dos
+antibióticos da classe das tetraciclinas. Tais reações podem incluir fotossensibilidade,
+pseudotumor cerebral, pancreatite e ação antianabólica que levou ao aumento do azoto ureico do
+sangue (AUS), azotemia, acidose e hiperfosfatemia (ver secção 4.8).
+
+Pancreatite
+Ocorreu pancreatite aguda, a qual pode ser grave (frequência: pouco frequente) associada ao
+tratamento com tigeciclina (ver secção 4.8). O diagnóstico de pancreatite aguda deverá ser
+considerado em doentes tratados com tigeciclina que desenvolvem sintomas clínicos, sinais, ou
+alterações laboratoriais sugestivas de pancreatite aguda. A maioria dos casos notificados surgiu
+após, pelo menos, uma semana de tratamento. Foram notificados casos em doentes sem fatores de
+risco conhecidos para pancreatite. Os doentes geralmente melhoram após descontinuação da
+tigeciclina. Deverá ser tida em consideração a interrupção do tratamento com tigeciclina em casos
+em que se suspeita de desenvolvimento de pancreatite.
+
+Coagulopatia
+A tigeciclina pode prolongar o tempo de protrombina (TP) e o tempo de tromboplastina parcial
+ativada (TTPa). Adicionalmente, tem sido notificada hipofibrinogenemia com a utilização de
+tigeciclina. Por conseguinte, os parâmetros de coagulação do sangue, como o TP ou outro teste de
+anticoagulação apropriado, incluindo o fibrinogénio no sangue, devem ser monitorizados antes do
+início do tratamento com tigeciclina e regularmente durante o tratamento. São recomendados
+                                                                                 APROVADO EM
+                                                                                  28-10-2023
+                                                                                  INFARMED
+cuidados especiais em indivíduos gravemente doentes e em doentes que também tomam
+anticoagulantes (ver secção 4.5).
+
+Doenças subjacentes
+A experiência da utilização da tigeciclina no tratamento de infeções em doentes com patologias
+graves subjacentes é limitada.
+
+Em ensaios clínicos no tratamento de IcPTM, o tipo de infeção mais frequente nos doentes
+tratados com tigeciclina foi celulite (58,6 %) seguido de abcessos major (24,9 %). Doentes com
+patologia subjacente grave, tal como os imunocomprometidos, doentes com infeções ulcerosas de
+decúbito ou doentes que apresentavam infeções requerendo uma duração de tratamento superior a
+14 dias (por exemplo, fascite necrosante), não foram incluídos. Foi incluído um número limitado
+de doentes com fatores de comorbilidade, tais como diabetes (25,8 %), doença vascular periférica
+(10,4 %), consumo de substâncias por via intravenosa (4,0 %) e infeção VIH positiva (1,2 %). A
+experiência no tratamento de doentes com bacteriemia concomitante é também limitada (3,4 %).
+Assim, aconselha-se precaução no tratamento destes doentes. Os resultados de um grande estudo
+em doentes com infeção do pé diabético mostraram que a tigeciclina foi menos eficaz do que o
+comparador e, portanto, não se recomenda o uso da tigeciclina nestes doentes (ver secção 4.1).
+
+Em ensaios clínicos no tratamento de IcIA, o tipo de infeção mais frequente nos doentes tratados
+com tigeciclina foi apendicite complicada (50,3 %), seguida de outros diagnósticos notificados
+com menor frequência, tais como colecistite complicada (9,6 %), perfuração intestinal (9,6 %),
+abcesso intra-abdominal (8,7 %), perfuração ulcerosa gástrica ou duodenal (8,3 %), peritonite
+(6,2 %) e diverticulite complicada (6,0 %). Destes doentes, 77,8 % apresentavam peritonite
+cirurgicamente aparente. Houve um número limitado de doentes com doença grave subjacente, tal
+como doentes imunocomprometidos, doentes com resultados na escala APACHE II > 15 (3,3 %)
+ou com abcessos intra-abdominais múltiplos cirurgicamente aparentes (11,4 %). A experiência no
+tratamento de doentes com bacteriemia concomitante é também limitada (5,6 %). Assim,
+aconselha-se precaução no tratamento destes doentes.
+
+Deve ser tida em consideração a utilização de terapêutica antibacteriana combinada quando a
+tigeciclina é administrada a indivíduos gravemente doentes com IcIA secundárias a perfuração
+intestinal clinicamente aparente ou doentes com sépsis incipiente ou choque séptico (ver
+secção 4.8).
+
+O efeito da colestase na farmacocinética da tigeciclina não foi adequadamente estabelecido. A
+excreção biliar constitui aproximadamente 50 % da excreção total da tigeciclina. Assim, doentes
+que apresentem colestase devem ser devidamente monitorizados.
+
+A colite pseudomembranosa tem sido notificada com quase todos os agentes antibacterianos,
+podendo ser de gravidade ligeira a potencialmente fatal. Assim, é importante considerar este
+diagnóstico em doentes que apresentem diarreia durante ou subsequentemente à administração de
+qualquer agente antibacteriano (ver secção 4.8).
+
+A utilização de tigeciclina pode originar proliferação de organismos não suscetíveis, incluindo
+fungos. Os doentes devem ser cautelosamente monitorizados durante a terapêutica (ver
+secção 4.8).
+                                                                                 APROVADO EM
+                                                                                  28-10-2023
+                                                                                  INFARMED
+Resultados de estudos com tigeciclina em ratos demonstraram descoloração óssea. A tigeciclina
+pode ser associada a descoloração permanente dos dentes em humanos, se utilizada durante o
+desenvolvimento dos dentes (ver secção 4.8).
+
+População pediátrica
+
+A experiência clínica da utilização de tigeciclina para o tratamento de infeções em doentes
+pediátricos com idade igual ou superior a 8 anos é muito limitada (ver secções 4.8 e 5.1).
+Consequentemente, a utilização em crianças deve ser limitada aos casos clínicos em que não
+exista uma terapêutica antibacteriana alternativa disponível.
+
+Náuseas e vómitos são reações adversas muito frequentes em crianças e adolescentes (ver
+secção 4.8). Deverá ser dada atenção a eventuais situações de desidratação. A tigeciclina deverá
+ser administrada a doentes pediátricos de preferência por perfusão durante 60 minutos.
+
+É frequentemente notificada dor abdominal, tanto em crianças como em adultos. A dor abdominal
+pode indicar pancreatite. Caso o doente desenvolva uma pancreatite, o tratamento com tigeciclina
+deve ser descontinuado.
+
+Os testes da função hepática, os parâmetros de coagulação, os parâmetros hematológicos, a
+amílase e a lípase devem ser monitorizados antes do início do tratamento com tigeciclina, bem
+como regularmente durante o tratamento.
+
+Tigeciclina Mylan não deve ser utilizado em crianças com menos de 8 anos de idade devido à
+falta de dados de segurança e eficácia neste grupo etário e porque a tigeciclina pode estar
+associada a descoloração dentária permanente (ver secção 4.8).
+
+Informações sobre o excipiente
+
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por dose, ou seja, é
+praticamente “isento de sódio”.
+
+4.5     Interações medicamentosas e outras formas de interação
+
+Os estudos de interação só foram realizados em adultos.
+
+A administração concomitante de tigeciclina e varfarina (25 mg em dose única) a indivíduos
+saudáveis resultou na diminuição da depuração da R-varfarina e da S-varfarina em 40 % e 23 %,
+e no aumento na AUC em 68 % e 29 %, respetivamente. O mecanismo desta interação ainda não
+é conhecido. Os dados disponíveis não sugerem que esta interação possa originar alterações
+significativas da razão normalizada internacional (INR). No entanto, uma vez que a tigeciclina
+pode prolongar o tempo de protrombina (TP) e o tempo de tromboplastina parcial ativada (TTPa),
+os testes relevantes de coagulação devem ser cuidadosamente monitorizados quando a tigeciclina
+é administrada concomitantemente com anticoagulantes (ver secção 4.4). A varfarina não afetou o
+perfil farmacocinético da tigeciclina.
+
+A tigeciclina não é extensamente metabolizada. Assim, não é previsível que a depuração da
+tigeciclina seja afetada por substâncias inibidoras ou indutoras da atividade das isoformas do
+CYP450. In vitro, a tigeciclina não é um inibidor competitivo nem um inibidor irreversível das
+enzimas do CYP450 (ver secção 5.2).
+                                                                                   APROVADO EM
+                                                                                    28-10-2023
+                                                                                    INFARMED
+
+Quando administrada em adultos saudáveis nas doses recomendadas, a tigeciclina não afetou a
+taxa ou o grau de absorção, nem a depuração da digoxina (0,5 mg seguido de 0,25 mg
+diariamente). A digoxina não afetou o perfil farmacocinético da tigeciclina. Assim, não é
+necessário ajuste posológico quando a tigeciclina é administrada com a digoxina.
+
+O uso concomitante de antibióticos e contracetivos orais pode reduzir a efetividade dos
+contracetivos
+orais.
+
+O uso concomitante da tigeciclina e de inibidores da calcineurina, como o tacrolímus ou a
+ciclosporina, pode resultar num aumento das concentrações séricas mínimas dos inibidores da
+calcineurina. Por conseguinte, as concentrações séricas dos inibidores da calcineurina devem ser
+monitorizadas durante o tratamento com tigeciclina de modo a evitar toxicidade dos
+medicamentos
+
+Baseado num estudo in vitro, a tigeciclina é um substrato da P-gp. A coadministração de
+inibidores da P-gp (p. ex., o cetoconazol ou a ciclosporina) ou indutores da P-gp (p. ex., a
+rifampicina) pode afetar a farmacocinética da tigeciclina (ver secção 5.2).
+
+4.6     Fertilidade, gravidez e aleitamento
+
+Gravidez
+
+A quantidade de dados sobre a utilização de tigeciclina em mulheres grávidas é limitada ou
+inexistente. Os estudos em animais revelaram toxicidade reprodutiva (ver secção 5.3).
+Desconhece-se o risco potencial para o ser humano. Tal como já é conhecido para os antibióticos
+da classe das tetraciclinas, a tigeciclina também pode induzir danos permanentes nos dentes
+(descoloração e defeitos no esmalte) e um atraso nos processos de ossificação nos fetos, expostos
+in utero durante a segunda metade da gestação, e em crianças menores de oito anos de idade
+devido ao enriquecimento dos tecidos com um elevado turnover de cálcio e formação de
+complexos de quelatos de cálcio (ver secção 4.4). A tigeciclina não deverá ser utilizada durante a
+gravidez, a menos que o estado clínico da mulher exija tratamento com tigeciclina.
+
+Amamentação
+
+Desconhece-se se a tigeciclina/metabolitos são excretados no leite humano. Os dados disponíveis
+em animais mostraram excreção de tigeciclina/metabolitos no leite (ver secção 5.3). Não pode ser
+excluído qualquer risco para os recém-nascidos/lactentes. Tem que ser tomada uma decisão sobre
+a descontinuação da amamentação ou a descontinuação/abstenção da terapêutica com tigeciclina
+tendo em conta o benefício da amamentação para a criança e o benefício da terapêutica para a
+mulher.
+
+Fertilidade
+
+Os efeitos da tigeciclina na fertilidade em humanos não foram estudados. Estudos não clínicos
+realizados com tigeciclina em ratos não indicam efeitos nocivos relacionados com a fertilidade ou
+com o desempenho reprodutivo. Em ratos fêmea, não houve efeitos relacionados com o
+composto nos ovários ou ciclo estral em exposições até 4,7 vezes a dose diária humana, com base
+na AUC (ver secção 5.3).
+                                                                                               APROVADO EM
+                                                                                                28-10-2023
+                                                                                                INFARMED
+
+              4.7     Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+              Podem ocorrer tonturas, o que poderá ter efeito na capacidade de conduzir e utilizar máquinas
+              (ver secção 4.8).
+
+              4.8     Efeitos indesejáveis
+
+              Resumo do perfil de segurança
+
+              O número total de doentes com IcPTM e IcIA tratados com tigeciclina em ensaios clínicos de
+              Fase 3 e 4 foi de 2393.
+
+              Em ensaios clínicos, as reações adversas mais frequentes emergentes do tratamento com o
+              medicamento foram náusea reversível (21 %) e vómitos (13 %), que de uma maneira geral
+              ocorreram precocemente (dias 1 ou 2 do tratamento) e geralmente foram de gravidade ligeira ou
+              moderada.
+
+              As reações adversas notificadas com tigeciclina, incluindo ensaios clínicos e experiência pós-
+              comercialização, estão tabeladas abaixo.
+
+              Tabela de reações adversas
+
+Classes de          Muito        Frequentes               Pouco             Raros (≥ 1/10.000,    Frequência desconhecida
+sistemas de         Frequentes   ≥ 1/100, < 1/10          frequentes        < 1/1.000)            (não pode ser calculado a
+órgãos              ≥ 1/10                                ≥ 1/1.000,                              partir dos dados
+                                                          < 1/100                                 disponíveis)
+Infeções e                       sépsis/choque séptico,
+infestações                      pneumonia, abcesso,
+                                 infeções
+Doenças do                       prolongamento do         trombocitopenia, hipofibrinogenemia
+sangue e do                      tempo de                 aumento da
+sistema                          tromboplastina parcial   razão
+linfático                        ativada (TTPa),          normalizada
+                                 prolongamento do         internacional
+                                 tempo de protrombina     (INR)
+                                 (TP)
+Doenças do                                                                                        reações
+sistema                                                                                           anafiláticas/anafilactoides*
+imunitário                                                                                        (ver secções 4.3 e 4.4)
+Doenças do                       hipoglicemia,
+metabolismo e                    hipoproteinemia
+da nutrição
+Doenças do                       tonturas
+sistema nervoso
+Vasculopatias                    flebite                  tromboflebite
+                                                                                                 APROVADO EM
+                                                                                                  28-10-2023
+                                                                                                  INFARMED
+Classes de         Muito         Frequentes                Pouco            Raros (≥ 1/10.000,      Frequência desconhecida
+sistemas de        Frequentes    ≥ 1/100, < 1/10           frequentes       < 1/1.000)              (não pode ser calculado a
+órgãos             ≥ 1/10                                  ≥ 1/1.000,                               partir dos dados
+                                                           < 1/100                                  disponíveis)
+Doenças           náuseas,       dor abdominal,            pancreatite
+gastrointestinais vómitos,       dispepsia, anorexia       aguda (ver
+                  diarreia                                 secção 4.4)
+Afeções                          aumento da aspartato      icterícia, lesão                         insuficiência hepática*
+hepatobiliares                   aminotransferase          hepática                                 (ver secção 4.4)
+                                 (AST) no soro e           maioritariamente
+                                 aumento da                colestática
+                                 alaninaminotransferase
+                                 (ALT) no soro,
+                                 hiperbilirrubinemia
+Afeções dos                      prurido, erupção                                                   reações cutâneas graves,
+tecidos                          cutânea                                                            incluindo síndrome de
+cutâneos e                                                                                          Stevens-Johnson*
+subcutâneos
+Perturbações                 cicatrização deficiente, inflamação no
+gerais e                     reação no local de       local de injeção,
+alterações no                injeção, cefaleia        dor no local de
+local de                                              injeção, edema
+administração                                         no local de
+                                                      injeção, flebite
+                                                      no local de
+                                                      injeção
+Exames                       aumento da amílase no
+complementares               soro, aumento do
+de diagnóstico               azoto ureico do sangue
+                             (AUS)
+*RAM identificada no período de pós-comercialização
+
+              Descrição de reações adversas selecionadas
+
+              Efeito de classe dos antibióticos
+
+              Colite pseudomembranosa, que pode variar numa escala de gravidade de ligeira a potencialmente
+              fatal (ver secção 4.4).
+
+              Crescimento exacerbado de organismos não-suscetíveis, incluindo fungos (ver secção 4.4).
+
+              Efeito de classe das tetraciclinas
+
+              Os antibióticos da classe das glicilciclinas são estruturalmente similares aos antibióticos da classe
+              das tetraciclinas. As reações adversas da classe das tetraciclinas podem incluir fotossensibilidade,
+              pseudotumor cerebral, pancreatite e ação antianabólica, a qual desencadeia AUS aumentado,
+              azotemia, acidose e hiperfosfatemia (ver secção 4.4).
+                                                                               APROVADO EM
+                                                                                28-10-2023
+                                                                                INFARMED
+A tigeciclina pode estar associada à descoloração permanente dos dentes, se usada durante o
+desenvolvimento da dentição (ver secção 4.4).
+
+Em ensaios clínicos de IcPTM e IcIA de Fase 3 e 4, as reações adversas graves relacionadas com
+infeção foram mais frequentemente notificadas em indivíduos tratados com tigeciclina (7,1 %) vs
+os comparadores (5,3 %). Foram observadas diferenças significativas na sépsis/choque séptico
+com tigeciclina (2,2 %) vs os comparadores (1,1 %).
+
+A AST e a ALT anormais em doentes tratados com tigeciclina foram notificadas mais
+frequentemente no período pós-terapêutico do que nos doentes tratados com o comparador, em
+que ocorreu mais frequentemente durante o período terapêutico.
+
+Em todos os ensaios de Fase 3 e 4 (IcPTM e IcIA), faleceram 2,4 % (54/2216) dos doentes
+tratados com tigeciclina e 1,7 % (37/2206) dos doentes tratados com comparadores ativos.
+
+População pediátrica
+A partir de dois estudos de farmacocinética ficaram disponíveis dados de segurança muito
+limitados (ver secção 5.2). Não foram observadas questões de segurança novas ou inesperadas
+com tigeciclina nestes estudos.
+
+Num estudo de farmacocinética aberto de dose única ascendente, foi investigada a segurança da
+tigeciclina em 25 crianças com idades compreendidas entre os 8 e os 16 anos que tinham
+recuperado recentemente de infeções. O perfil de reações adversas da tigeciclina nestes 25
+indivíduos foi, em geral, consistente com o perfil relativo aos adultos.
+
+A segurança da tigeciclina foi também investigada num estudo de farmacocinética aberto de dose
+múltipla ascendente em 58 crianças com idades compreendidas entre os 8 e os 11 anos com
+IcPTM (n = 15), IcIA (n = 24) ou pneumonia adquirida na comunidade (n = 19). O perfil de
+reações adversas da tigeciclina nestes 58 indivíduos foi, em geral, consistente com o perfil
+relativo aos adultos, com exceção das náuseas (48,3 %), vómitos (46,6 %) e lípase sérica elevada
+(6,9 %), que foram observados com maior frequência nas crianças do que nos adultos.
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante,
+uma vez que permite uma monitorização contínua da relação benefício-risco do medicamento.
+Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas
+diretamente ao INFARMED, I.P.:
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente) ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+E-mail: farmacovigilancia@infarmed.pt
+
+4.9     Sobredosagem
+                                                                                  APROVADO EM
+                                                                                   28-10-2023
+                                                                                   INFARMED
+Não existe informação específica disponível sobre o tratamento de sobredosagem. A
+administração intravenosa de uma dose única de 300 mg de tigeciclina durante 60 minutos em
+voluntários saudáveis resultou num aumento da incidência de náusea e vómitos. A tigeciclina não
+é removida em quantidades significativas por hemodiálise.
+
+
+5.      PROPRIEDADES FARMACOLÓGICAS
+
+5.1     Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 1.1.11. Medicamentos anti-infeciosos. Antibacterianos. Outros
+antibacterianos. Código ATC: J01AA12.
+
+Mecanismo de ação
+
+A tigeciclina, um antibiótico do grupo das glicilciclinas, inibe a tradução proteica em bactérias
+através da ligação à subunidade ribossomal 30S e bloqueio da entrada de moléculas amino-acil
+tRNA para o local A do ribossoma. Tal previne a incorporação de resíduos de aminoácidos na
+elongação das cadeias peptídicas.
+
+De um modo geral, a tigeciclina é considerada um bacteriostático. Com 4 vezes a concentração
+inibitória mínima (CIM), foi observada uma redução 2-log da contagem de colónias com
+tigeciclina contra o Enterococcus spp., o Staphylococcus aureus e a Escherichia coli.
+
+Mecanismo de resistência
+
+A tigeciclina tem a capacidade de ultrapassar os dois mais importantes mecanismos de resistência
+às tetraciclinas, proteção ribossomal e efluxo. Foi demonstrada resistência cruzada entre a
+tigeciclina e isolados resistentes à minociclina entre as Enterobacterales devido a bombas de
+efluxo resistentes a multifármacos (RMF). Não há resistência cruzada ao nível do alvo entre a
+tigeciclina e a maioria das classes de antibióticos.
+
+A tigeciclina é vulnerável a bombas de efluxo multifármaco cromossomicamente codificadas de
+Proteeae e Pseudomonas aeruginosa. Os patogénios da família Proteeae (Proteus spp.,
+Providencia spp. e Morganella spp.) são geralmente menos suscetíveis à tigeciclina que outros
+membros da família Enterobacterales. A diminuição da suscetibilidade em ambos os grupos foi
+atribuída à superexpressão de bombas de efluxo multifármaco AcrAB não específicas. A
+diminuição da suscetibilidade em Acinetobacter baumannii foi atribuída à superexpressão de
+bomba de efluxo AdeABC.
+
+Atividade antibacteriana em combinação com outros agentes antibacterianos
+
+Em estudos in vitro, raramente se observou antagonismo entre a tigeciclina e outras classes de
+antibióticos normalmente utilizadas.
+
+“Breakpoints” (valores das concentrações críticas)
+
+Os breakpoints de concentração inibitória mínima (CIM) estabelecidos pelo Comité Europeu de
+Avaliação de Suscetibilidade Antimicrobiana (EUCAST) são os seguintes:
+                                                                                   APROVADO EM
+                                                                                    28-10-2023
+                                                                                    INFARMED
+
+EUCAST Breakpoints
+Agente patogénico                       Breakpoints de Concentração Inibitória Mínima (CIM) (mg/L)
+                                        ≤ S (Suscetível)              > R (Resistente)
+Enterobacterales:                       ≤ 0.5                         > 0.5
+Escherichia coli e
+Citrobacter koseri: (†)
+Staphylococcus spp.                      ≤ 0.5                             > 0.5
+Enterococcus spp.                        ≤ 0.25                            > 0.25
+Grupos Streptococcus A, B, C e G         ≤ 0.125                           > 0.125
+(†) Para outras Enterobacterales, a atividade da tigeciclina varia entre insuficiente em Proteus
+spp,
+Morganella morganii e Providencia spp. a variável noutras espécies.
+
+
+Para bactérias anaeróbias existe evidência clínica de eficácia em infeções intra-abdominais
+polimicrobianas, mas falta de correlação entre valores CIM, dados
+farmacocinéticos/farmacodinâmicos e resultado clínico. Assim, não são atribuídos breakpoints de
+suscetibilidade. De referir que as distribuições das CIM para os micro-organismos dos géneros
+Bacteroides e Clostridium apresentam grande variabilidade podendo ser superiores a 2 mg/l para
+a tigeciclina.
+
+A evidência de eficácia clínica da tigeciclina contra enterococos é limitada. No entanto, em
+ensaios clínicos, as infeções intra-abdominais polimicrobianas demonstraram responder ao
+tratamento com tigeciclina.
+
+Suscetibilidade
+
+A prevalência de resistência adquirida pode diferir geograficamente e no tempo para espécies
+selecionadas e é desejável a existência de informação local sobre resistências, especialmente para
+o tratamento de infeções graves. De acordo com a necessidade, deve ser procurado
+aconselhamento especializado quando a prevalência local da resistência é tal que a utilidade do
+agente, em pelo menos alguns tipos de infeções, seja questionável.
+
+Patogénio
+                                                                                 APROVADO EM
+                                                                                  28-10-2023
+                                                                                  INFARMED
+Patogénio
+Espécies frequentemente suscetíveis
+Aeróbias gram-positivas
+Enterococcus spp.†
+Staphylococcus aureus*
+Staphylococcus epidermidis
+Staphylococcus haemolyticus
+Streptococcus agalactiae*
+Grupo Streptococcus anginosus* (inclui S. anginosus, S. intermedius e S. constellatus)
+Streptococcus pyogenes*
+Estreptococos do grupo viridans
+
+Aeróbias gram-negativas
+Citrobacter freundii*
+Citrobacter koseri
+Escherichia coli*
+
+Anaeróbias
+Clostridium perfringens†
+Peptostreptococcus spp.†
+Prevotella spp.
+Espécies para as quais a resistência adquirida pode ser um problema
+Aeróbias gram-negativas
+Acinetobacter baumannii
+Burkholderia cepacia
+Enterobacter cloacae*
+Klebsiella aerogenes
+Klebsiella oxytoca*
+Klebsiella pneumoniae*
+Stenotrophomonas maltophilia
+
+Anaeróbias
+Bacteroides do grupo fragilis†
+Organismos com resistência inerente
+Aeróbias gram-negativas
+Morganella morganii
+Proteus spp.
+Providencia spp.
+Serratia marcescens
+Pseudomonas aeruginosa
+*        indica espécies contra as quais se considera que a atividade foi demonstrada de uma
+forma satisfatória em estudos clínicos.
+†        ver secção anterior 5.1, Breakpoints.
+
+Eletrofisiologia cardíaca
+Num estudo sobre o intervalo QTc, aleatorizado, controlado por placebo e substância ativa,
+cruzado e com quatro braços de tratamento em 46 indivíduos saudáveis, não foi detetado um
+efeito significativo no intervalo QTc de uma dose única intravenosa de 50 mg ou 200 mg de
+tigeciclina.
+                                                                                  APROVADO EM
+                                                                                   28-10-2023
+                                                                                   INFARMED
+
+População pediátrica
+Num ensaio aberto de dose múltipla ascendente, foi administrada tigeciclina (0,75, 1 ou
+1,25 mg/kg) a 39 crianças com idades compreendidas entre os 8 e os 11 anos com IcIA ou
+IcPTM. Todos os doentes receberam tigeciclina por via intravenosa durante um mínimo de 3 dias
+consecutivos e, no máximo, 14 dias consecutivos, com a opção de passagem para um antibiótico
+oral a partir do dia 4, inclusive.
+
+A cura clínica foi avaliada 10 a 21 dias após a administração da última dose do tratamento. O
+resumo dos resultados da resposta clínica da população com intenção de tratar modificada (mITT)
+é apresentado na tabela abaixo.
+
+Cura clínica, população mITT
+                        0,75 mg/kg                 1 mg/kg                  1,25 mg/kg
+Indicação               n/N (%)                    n/N (%)                  n/N (%)
+IcIA                    6/6 (100,0)                3/6 (50,0)               10/12 (83,3)
+IcPTM                   3/4 (75,0)                 5/7 (71,4)               2/4 (50,0)
+Global                  9/10 (90,0)                8/13 (62,0)              12/16 (75,0)
+
+Os dados de eficácia acima indicados deverão ser interpretados com precaução, uma vez que a
+administração concomitante de antibióticos foi autorizada neste estudo. Além disso, deverá
+também ser tido em consideração o reduzido número de doentes.
+
+5.2     Propriedades farmacocinéticas
+
+Absorção
+
+A tigeciclina é administrada por via intravenosa tendo uma biodisponibilidade de 100 %.
+
+Distribuição
+
+A ligação in vitro da tigeciclina às proteínas plasmáticas varia aproximadamente de 71 % a 89 %
+em concentrações observadas em ensaios clínicos (0,1 a 1,0 mcg/ml). Estudos farmacocinéticos
+em animais e humanos demonstraram que a tigeciclina se distribui prontamente nos tecidos.
+Em ratos tratados com doses únicas ou múltiplas de 14C-tigeciclina, a radioatividade foi
+uniformemente distribuída para a maioria dos tecidos, com a exposição global mais elevada
+registada na medula óssea, glândulas salivares, tiroide, baço e rim. Em humanos, o volume de
+distribuição da tigeciclina no estado estacionário variou entre 500 a 700 l (7 a 9 l/kg), indicando
+que a tigeciclina é extensamente distribuída para além do volume plasmático e se concentra nos
+tecidos.
+
+Não existem dados disponíveis acerca da capacidade de a tigeciclina atravessar a barreira
+hematoencefálica em humanos.
+Em estudos de farmacologia clínica com utilização de regimes de dosagem terapêutica de 100 mg
+seguidos de 50 mg cada 12h, a Cmáx em estado estacionário da tigeciclina no soro foi 866
+± 233 ng/ml para infusões de 30 minutos e 634 ± 97 ng/ml para infusões de 60 minutos. A AUC0–
+12h em estado estacionário foi de 2349± 850 ng•h/ml.
+                                                                                   APROVADO EM
+                                                                                    28-10-2023
+                                                                                    INFARMED
+Biotransformação
+
+Em média, estima-se que menos de 20 % de tigeciclina seja metabolizada antes da excreção. Em
+voluntários masculinos saudáveis, após a administração de 14C-tigeciclina, a tigeciclina inalterada
+foi o principal material 14C marcado recuperado na urina e nas fezes, mas estavam também
+presentes um glucoronido, um metabolito N-acetil e um epímero de tigeciclina.
+
+Estudos in vitro em microssomas de fígado humano indicam que a tigeciclina não inibe o
+metabolismo mediado por qualquer uma das seguintes 6 isoformas do citocromo P450 (CYP):
+1A2, 2C8, 2C9, 2C19, 2D6 e 3A4, por inibição competitiva. Adicionalmente, a tigeciclina não
+demonstrou dependência ao NADPH na inibição da CYP2C9, CYP2C19, CYP2D6 e CYP3A,
+sugerindo a ausência de inibição baseada no mecanismo destas enzimas CYP.
+
+Eliminação
+
+A recuperação da totalidade da radioatividade nas fezes e urina após a administração de 14C-
+tigeciclina indica que 59 % da dose é eliminada através de excreção biliar/fecal e 33 % é
+excretada na urina.
+Em suma, a via principal de eliminação da tigeciclina é a excreção biliar da tigeciclina inalterada.
+A glucuronidação e a excreção renal da tigeciclina inalterada são vias secundárias.
+
+A depuração total da tigeciclina é de 24 l/h após perfusão intravenosa. A depuração renal é de
+aproximadamente 13 % da depuração total. A tigeciclina demonstra uma eliminação
+poliexponencial do soro, com uma semivida terminal de eliminação média, após doses múltiplas,
+de 42 horas, embora exista uma elevada variabilidade interindividual.
+
+Estudos in vitro utilizando células Caco-2 indicam que a tigeciclina não inibe o fluxo de digoxina,
+sugerindo que a tigeciclina não é um inibidor da glicoproteína (P-gp). Esta informação in vitro é
+consistente com a falta de efeito da tigeciclina na depuração da digoxina observada no estudo
+in vivo de interação de fármacos, descrito acima (ver secção 4.5).
+
+A tigeciclina é um substrato da P-gp baseado num estudo in vitro utilizando uma linha de células
+que sobrexpressa a P-gp. Não é conhecido o potencial contributo do transportador mediado pela
+P-gp na disposição da tigeciclina in vivo. A coadministração de inibidores da P-gp (p. ex., o
+cetoconazol ou a ciclosporina) ou indutores da P-gp (p. ex., rifampicina) pode afetar a
+farmacocinética da tigeciclina.
+
+Populações especiais
+
+Compromisso hepático
+A disponibilidade farmacocinética de uma dose única de tigeciclina não se alterou em doentes
+com compromisso hepático ligeiro. No entanto, a depuração sistémica da tigeciclina foi reduzida
+em 25 % e 55 % e a semivida da tigeciclina foi prolongada em 23 % e 43 % em doentes com
+compromisso hepático moderado ou grave (Child Pugh B e C), respetivamente (ver secção 4.2).
+
+Compromisso renal
+A disponibilidade farmacocinética de uma dose única de tigeciclina não se alterou em doentes
+com insuficiência renal (depuração da creatinina < 30 ml/min, n = 6). No compromisso renal
+grave, a AUC foi 30 % mais elevada que em indivíduos com uma função renal normal (ver
+secção 4.2).
+                                                                                 APROVADO EM
+                                                                                  28-10-2023
+                                                                                  INFARMED
+
+Idosos
+Não se verificaram diferenças globais significativas na farmacocinética entre indivíduos idosos
+saudáveis e indivíduos mais jovens (ver secção 4.2).
+
+População pediátrica
+A farmacocinética da tigeciclina foi investigada em dois estudos. O primeiro estudo recrutou
+crianças com idade compreendida entre os 8 e os 16 anos (n = 24), que receberam doses únicas de
+tigeciclina (0,5, 1 ou 2 mg/kg, até uma dose máxima de 50 mg, 100 mg e 150 mg,
+respetivamente) administrada por via intravenosa durante 30 minutos. O segundo estudo foi
+realizado em crianças com idade compreendida entre os 8 e os 11 anos, que receberam doses
+múltiplas de tigeciclina (0,75, 1 ou 1,25 mg/kg, até uma dose máxima de 50 mg) de 12 em
+12 horas administrada por via intravenosa durante 30 minutos. Não foi administrada uma dose de
+carga nestes estudos. Os parâmetros farmacocinéticos estão resumidos na tabela abaixo.
+
+Dose Normalizada a Média de 1 mg/kg ± Desvio Padrão da Cmáx e AUC da Tigeciclina em
+Crianças
+Idade (anos)         N                       Cmáx (ng/ml)          AUC (ng•h/ml)*
+Dose única
+
+8 – 11                   8                       3881 ± 6637              4034 ± 2874
+
+                                                                          7026 ± 4088
+12 – 16                  16                      8508 ± 11433
+
+Dose múltipla
+
+8 – 11                   42                      1911 ± 3032              2404 ± 1000
+
+* AUC0–∞ dose única, AUC0–12h dose múltipla
+
+A AUC0–12h alcançada em adultos após a dose de carga recomendada de 100 mg e dose de 50 mg
+de 12 em 12 horas foi de, aproximadamente, 2500 ng•h/ml.
+
+A análise farmacocinética da população de ambos os estudos identificou o peso corporal como
+uma covariável da depuração da tigeciclina em crianças com idade igual ou superior a 8 anos. Um
+regime posológico de 1,2 mg/kg de tigeciclina de 12 em 12 horas (até uma dose máxima de
+50 mg de 12 em 12 horas) para crianças com idade compreendida entre 8 e < 12 anos e de 50 mg
+de 12 em 12 horas para adolescentes com idade compreendida entre 12 e < 18 anos resultaria,
+provavelmente, em exposições comparáveis às observadas em adultos tratados com o regime
+posológico aprovado.
+
+Nestes estudos, foram observados em várias crianças valores de Cmáx mais elevados do que nos
+doentes adultos. Deverá, por conseguinte, prestar-se atenção ao ritmo de perfusão da tigeciclina
+em crianças e em adolescentes.
+
+Género
+Não existiram diferenças clinicamente significativas na depuração da tigeciclina entre homens e
+mulheres. Estimou-se que a AUC é 20 % mais elevada em mulheres que em homens.
+
+Raça
+                                                                                 APROVADO EM
+                                                                                  28-10-2023
+                                                                                  INFARMED
+Não existiram diferenças na depuração da tigeciclina baseadas na raça.
+
+Peso
+A depuração, a depuração normalizada para o peso e a AUC não diferiram apreciavelmente entre
+doentes com diferentes pesos corporais, incluindo os que apresentavam um peso ≥ a 125 kg. A
+AUC foi 24 % menor em doentes com peso ≥ a 125 kg. Não existem dados disponíveis para
+doentes com peso igual ou superior a 140 kg.
+
+5.3     Dados de segurança pré-clínica
+
+Em estudos de toxicidade repetida em ratos e cães, a depleção/atrofia linfoide dos nódulos
+linfáticos, baço e timo, diminuição dos eritrócitos, reticulócitos, leucócitos e plaquetas, em
+associação com hipocelularidade da medula óssea e efeitos adversos renais e gastrointestinais,
+foram observados com a tigeciclina em exposições 8 e 10 vezes a dose diária humana baseada na
+AUC em ratos e cães, respetivamente.
+Estas alterações mostraram ser reversíveis duas semanas após a administração.
+
+Observou-se descoloração óssea não reversível em ratos duas semanas após a administração.
+
+Os resultados de estudos em animais indicam que a tigeciclina atravessa a placenta e é detetada
+em tecidos fetais. Em estudos de toxicidade reprodutiva com a tigeciclina observou-se a
+diminuição dos pesos fetais em ratos e coelhos (com atrasos associados na ossificação). A
+tigeciclina não foi teratogénica no rato ou no coelho. A tigeciclina não afetou o acasalamento ou a
+fertilidade em ratos em exposições até 4,7 vezes a dose diária humana, com base na AUC. Em
+ratos fêmea, não houve efeitos relacionados com o composto nos ovários ou ciclo estral em
+exposições até 4,7 vezes a dose diária humana, com base na AUC.
+
+Os resultados de estudos em animais que utilizaram tigeciclina 14C-marcada indicam que a
+tigeciclina é excretada prontamente através do leite de ratos a amamentar. A limitada
+biodisponibilidade oral da tigeciclina é consistente com a diminuta ou inexistente exposição
+sistémica à tigeciclina nas crias em amamentação como resultado da exposição através do leite
+materno.
+
+Não foram efetuados estudos a longo prazo em animais para avaliar o potencial carcinogénico da
+tigeciclina, mas estudos de genotoxicidade da tigeciclina a curto prazo foram negativos.
+
+A administração intravenosa da tigeciclina por bólus foi associada a uma resposta histamínica em
+estudos animais. Estes efeitos foram observados com exposições de 14 e 3 vezes a dose diária
+humana baseada na AUC em ratos e cães, respetivamente.
+
+Não foi observada evidência de fotossensibilidade em ratos após a administração de tigeciclina.
+
+
+6.      INFORMAÇÕES FARMACÊUTICAS
+
+6.1     Lista dos excipientes
+
+L-arginina
+Ácido clorídrico
+Hidróxido de sódio (para ajuste de pH)
+                                                                                 APROVADO EM
+                                                                                  28-10-2023
+                                                                                  INFARMED
+
+6.2       Incompatibilidades
+
+As seguintes substâncias ativas não devem ser administradas simultaneamente com a tigeciclina
+através do mesmo conector em Y: anfotericina B, anfotericina B complexo lipídico, diazepam,
+esomeprazol, omeprazol e soluções intravenosas que podem resultar num aumento de pH acima
+de 7.
+
+Este medicamento não deve ser misturado com outros medicamentos, exceto os mencionados na
+secção 6.6.
+
+6.3       Prazo de validade
+
+2 anos.
+
+A estabilidade química e física em uso foi demonstrada para a tigeciclina após diluição em
+solução de cloreto de sódio a 0,9 % ou dextrose a 5 %. O medicamento pode ser conservado
+refrigerado a uma temperatura de 2 ° a 8 °C até 48 horas após a transferência imediata da solução
+reconstituída para o saco para administração intravenosa.
+
+Do ponto de vista microbiológico, o produto deve ser utilizado imediatamente.
+Se não for utilizado de imediato, os tempos e as condições de conservação em uso são da inteira
+responsabilidade do utilizador.
+
+6.4       Precauções especiais de conservação
+
+Conservar a temperatura inferior a 25 °C.
+Condições de conservação do medicamento após reconstituição, ver secção 6.3.
+
+6.5       Natureza e conteúdo do recipiente
+
+Frascos para injetáveis de vidro transparente Tipo 1 de 5 ml, com rolha de elastómero
+bromobutílico cinzenta e cápsula de alumínio e com tampa plástica cor de laranja tipo “flip-off”.
+Tigeciclina Mylan é distribuído em embalagens contendo um tabuleiro com 10 frascos para
+injetáveis ou em embalagem com 1 frasco para injetáveis. É possível que não sejam
+comercializadas todas as apresentações.
+
+6.6       Precauções especiais de eliminação e manuseamento
+
+O pó liofilizado deve ser reconstituído com 5,3 ml de solução injetável de cloreto de sódio
+9 mg/ml (0,9 %), solução injetável de dextrose 50 mg/ml (5 %) ou solução injetável de Lactato de
+Ringer para obter uma concentração de 10 mg/ml de tigeciclina. O frasco para injetáveis deve ser
+agitado suavemente até à dissolução do medicamento. Em seguida, devem ser imediatamente
+retirados do frasco para injetáveis 5 ml da solução reconstituída e adicionados a um saco de
+100 ml para administração intravenosa ou outro recipiente para perfusão adequado (p. ex. frasco
+de vidro).
+
+Para uma dose de 100 mg, reconstituir usando dois frascos para injetáveis para um saco de 100 ml
+para administração intravenosa ou outro recipiente para perfusão adequado (p. ex., frasco de
+vidro). Nota: O frasco para injetáveis contém uma sobrecarga de 6 %. Assim, 5 ml de solução
+                                                                                APROVADO EM
+                                                                                 28-10-2023
+                                                                                 INFARMED
+reconstituída equivalem a 50 mg de substância ativa. A solução reconstituída deve ser amarelo-
+alaranjada, caso contrário deve ser rejeitada. Os produtos para uso parentérico devem ser
+inspecionados visualmente antes da administração para avaliar a presença de partículas e
+descoloração (p. ex., coloração verde ou preta).
+
+A tigeciclina deve ser administrada por via intravenosa através de um sistema de perfusão
+exclusivo ou de um conector em Y. Se for utilizado o mesmo sistema para perfusão sequencial de
+diferentes fármacos, o sistema de perfusão deve ser limpo, antes e depois da perfusão de
+tigeciclina, com solução injetável de cloreto de sódio 9 mg/ml (0,9 %) ou solução injetável de
+dextrose 50 mg/ml (5 %). A injeção deve ser feita com uma solução para perfusão compatível
+com a tigeciclina e quaisquer outros medicamentos, administrados através deste sistema de
+perfusão comum (ver secção 6.2).
+
+Este medicamento é para utilização única. Qualquer medicamento não utilizado ou resíduos
+devem ser eliminados de acordo com as exigências locais.
+
+Soluções intravenosas compatíveis incluem: solução injetável de cloreto de sódio 9 mg/ml
+(0,9 %), solução injetável de dextrose 50 mg/ml (5 %) e solução injetável de Lactato de Ringer.
+
+Quando administrado através de um conector em Y, a compatibilidade da tigeciclina diluída em
+solução injetável de cloreto de sódio 0,9 % é demonstrada com os seguintes medicamentos ou
+solventes: amicacina, dobutamina, cloridrato de dopamina, gentamicina, haloperidol, Lactato de
+Ringer, cloridrato de lidocaína, metoclopramida, morfina, noradrenalina, piperacilina/tazobactam
+(formulação com EDTA), cloreto de potássio, propofol, cloridrato de ranitidina, teofilina e
+tobramicina.
+
+
+7.      TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Mylan, Lda.
+Av. D. João II, Edifício Atlantis, N.º 44C - 7.3 e 7.4
+1990-095 Lisboa
+
+
+8.      NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Registo nº 5722236 no Infarmed I.P. – 1 frasco para injetáveis
+Registo nº 5722244 no Infarmed I.P. – 10 frasco para injetáveis
+
+
+9.   DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 26-07-2017
+Data da última renovação: 26-01-2022
+
+
+10.     DATA DA REVISÃO DO TEXTO
+

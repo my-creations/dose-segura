@@ -1,0 +1,497 @@
+                   RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+
+1.      NOME DO MEDICAMENTO
+
+Metoclopramida Basi 5 mg/ml solução injetável ou para perfusão
+(Metoclopramida Basi 10 mg/2 ml solução injetável ou para perfusão)
+
+
+2.    COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+1 ml de solução injetável contém 5,25 mg de metoclopramida cloridrato mono-hidratado (equivalente a
+5 mg/ml de metoclopramida cloridrato anidro)
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+3.    FORMA FARMACÊUTICA
+
+Solução injetável ou para perfusão.
+
+Solução límpida, incolor, livre de partículas visíveis.
+pH: 4.0-6.5
+
+
+4.    INFORMAÇÕES CLÍNICAS
+
+4.1   Indicações terapêuticas
+
+População adulta
+Metoclopramida Basi está indicada nos adultos para:
+   - Prevenção de náuseas e vómitos pós-cirúrgicos (NVPC)
+   - Tratamento sintomático de náuseas e vómitos, incluindo náuseas e vómitos induzidos por
+       enxaqueca aguda
+   - Prevenção de náuseas e vómitos induzidos por radioterapia (NVIR).
+
+População pediátrica
+Metoclopramida Basi está indicada em crianças (com idades entre 1 e 18 anos) para:
+   - Prevenção de náuseas e vómitos tardios induzidos por quimioterapia (NVIQ) como opção de
+       segunda linha
+   - Tratamento de náuseas e vómitos pós-cirúrgicos instalados (NVPC) como opção de segunda
+       linha.
+
+4.2   Posologia e modo de administração
+
+Posologia
+
+Todas as indicações (doentes adultos)
+
+Para a prevenção de NVPC recomenda-se uma dose única de 10 mg.
+Para o tratamento sintomático de náuseas e vómitos, incluindo náuseas e vómitos induzidos por
+enxaqueca aguda e a prevenção de náuseas e vómitos induzidos por radioterapia (NVIR): a dose
+recomendada é 10 mg, repetida até três vezes ao dia.
+A dose diária máxima recomendada é 30 mg ou 0,5 mg/kg de peso corporal.
+
+A duração do tratamento injetável deve ser tão curta quanto possível e a mudança para o tratamento
+oral ou retal deverá ser feita tão cedo quanto possível.
+
+                                                    1
+População pediátrica
+
+Todas as indicações (doentes pediátricos com idades entre 1 a 18 anos)
+A dose recomendada é 0,1 a 0,15 mg/kg de peso corporal, repetida até três vezes ao dia, por via
+intravenosa. A dose máxima nas 24 horas é de 0,5 mg/kg de peso corporal.
+
+Tabela de doses
+ Idade                       Peso corporal              Dose                    Frequência
+ 1-3 anos                    10-14 kg                   1 mg                    Até 3 vezes ao dia
+ 3-5 anos                    15-19 kg                   2 mg                    Até 3 vezes ao dia
+ 5-9 anos                    20-29 kg                   2,5 mg                  Até 3 vezes ao dia
+ 9-18 anos                   30-60 kg                   5 mg                    Até 3 vezes ao dia
+ 15-18 anos                  Acima de 60 kg             10 mg                   Até 3 vezes ao dia
+
+Para o tratamento de náuseas e vómitos pós-cirúrgicos (NVPC), a duração máxima do tratamento é de
+48 horas.
+
+Para a prevenção de náuseas e vómitos tardios induzidos por quimioterapia (NVIQ), a duração máxima
+do tratamento é de 5 dias.
+
+Modo de administração
+
+A solução pode ser administrada por via intravenosa ou intramuscular.
+As doses intravenosas devem ser administradas como bólus lento (pelo menos mais de 3 minutos).
+
+Um intervalo mínimo de 6 horas entre duas administrações é para ser respeitado, mesmo no caso de
+vómitos ou rejeição da dose (ver secção 4.4).
+
+População especial
+Idosos
+Nos doentes idosos, deve considerar-se uma redução da dose, com base na função renal e hepática e
+debilidade geral.
+
+Compromisso renal:
+Nos doentes com doença renal em estado terminal (depuração da creatinina ≤ 15 ml min), a dose diária
+deve ser reduzida de 75%.
+Nos doentes com compromisso renal médio a grave (depuração da creatinina 15-60 ml/min), a dose
+dever ser reduzida de 50% (ver secção 5.2).
+
+Compromisso hepático:
+Nos doentes com compromisso hepático grave, a dose deve ser reduzida de 50% (ver secção 5.2).
+
+População pediátrica
+A metoclopramida está contraindicada em crianças com idade inferior a 1 ano (ver secção 4.3).
+
+4.3       Contraindicações
+
+      -    Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na secção
+           6.1
+      -    Hemorragia gastrointestinal, obstrução mecânica ou perfuração gastrointestinal para as quais a
+           estimulação da motilidade gastrointestinal constitui um risco
+      -    Feocromocitoma confirmado ou suspeito, devido ao risco de episódios de hipertensão grave
+      -    História de neuroléticos ou discinesia tardia induzida por metoclopramida
+      -    Epilepsia (aumento da intensidade e frequência das crises)
+      -    Doença de Parkinson
+      -    Combinação com levodopa ou agonistas dopaminérgicos (ver secção 4.5)
+
+                                                    2
+      -    História conhecida de metahemoglobinemia com metoclopramida ou de carência em NADH
+           citocromo-b5
+      -    Uso em crianças com idade inferior a 1 ano de idade, devido a um risco aumentado de doenças
+           extrapiramidais (ver secção 4.4)
+      -    Mulheres que estejam a amamentar (ver secção 4.6).
+
+4.4       Advertências e precauções especiais de utilização
+
+Perturbações neurológicas
+Podem surgir perturbações extrapiramidais, particularmente em crianças ou adultos jovens, e/ou quando
+são usadas doses elevadas. Estas reações surgem, normalmente, no início do tratamento e podem surgir
+após uma administração única. A metoclopramida deve ser imediatamente descontinuada no caso de
+sintomas extrapiramidais. Estes efeitos são, geralmente, reversíveis após a descontinuação do
+tratamento, mas podem necessitar de um tratamento sintomático (benzodiazepinas nas crianças e/ou
+medicamentos anticolinérgicos antiparkinsónicos nos adultos).
+
+O intervalo de tempo de pelo menos 6 horas entre cada administração de metoclopramida, mencionado
+na secção 4.2, deve ser respeitado, mesmo no caso de vómitos ou rejeição da dose, de forma a evitar
+sobredosagem.
+
+O tratamento prolongado com metoclopramida pode provocar discinesia tardia, potencialmente
+irreversível, especialmente nos idosos. O tratamento não deve exceder os 3 meses devido ao risco de
+discinesia tardia (ver secção 4.8). O tratamento deve ser descontinuado se aparecerem sinais clínicos de
+discinesia tardia.
+
+Foi notificado síndrome maligno dos neuroléticos com metoclopramida em combinação com
+neuroléticos assim como com metoclopramida em monoterapia (ver secção 4.8). No caso de sintomas
+do síndrome maligno dos neuroléticos, a metoclopramida deve ser descontinuada imediatamente e
+deverá ser iniciado um tratamento apropriado.
+
+Deve dedicar-se especial cuidado em doentes com condições neurológicas subjacentes e em doentes sob
+tratamento com outros medicamentos que atuam a nível central (ver secção 4.3)
+
+Os sintomas da doença de Parkinson também podem se exacerbados pela metoclopramida.
+
+Metohemoglobinémia
+Foi notificada metohemoglobinémia, que pode estar relacionada com a carência em NADH citocromo
+b5 redutase. Nestes casos, a metoclopraprida deve ser imediata e definitivamente descontinuada e
+iniciadas medidas apropriadas (tais como tratamento com azul de metileno).
+
+Doenças cardíacas
+Têm sido notificados casos de efeitos indesejáveis cardiovasculares graves, incluindo casos de colapso
+circulatório, bradicardia grave, paragem cardíaca e prolongamento do intervalo QT após administração
+injetável de metoclopramida, em particular por via intravenosa (ver secção 4.8).
+Deve ter-se especial cuidado aquando da administração de metoclopramida, particularmente por via
+intravenosa, à população idosa, aos doentes com alterações da condução cardíaca (incluindo
+prolongamento do intervalo QT), doentes com desequilíbrio eletrolítico não corrigido, bradicardia e
+àqueles tomando outros medicamentos conhecidos por prolongarem o intervalo QT.
+
+As doses intravenosas devem ser administradas como um bólus lento (pelo menos mais de 3 minutos)
+de forma a reduzir o risco de efeitos secundários (p.ex., hipotensão, acatisia).
+
+Compromisso renal e hepático
+Nos doentes com compromisso renal ou com compromisso hepático grave, recomenda-se a redução da
+dose (ver secção 4.2).
+
+
+
+                                                   3
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por ampola, ou seja, é praticamente
+“isento de sódio”.
+
+4.5   Interações medicamentosas e outras formas de interação
+
+Combinação contraindicada
+A levodopa ou agonistas dopaminérgicos e metoclopramida têm um antagonismo mútuo (ver secção
+4.3).
+
+Combinação a ser evitada
+O álcool potência o efeito sedativo da metoclopramida.
+
+Combinação a ter em consideração
+Devido ao efeito procinético da metoclopramida, a absorção de alguns medicamentos pode ser alterada.
+
+Anticolinérgicos e derivados morfínicos
+Os anticolinérgicos e os derivados morfínicos podem ter ambos um antagonismo mútuo com a
+metoclopramida na motilidade do trato intestinal.
+
+Depressores do sistema nervosa central (derivados morfínicos, ansiolíticos, sedativos antihistamímicos
+H1, sedativos antidepressivos, barbitúricos, clonidina e relacionados)
+Os efeitos sedativos dos depressores do Sistema Nervoso Central e da metoclopramida são potenciados.
+
+Neuroléticos
+A metoclopramida pode ter um efeito aditivo com outros neuroléticos na ocorrência de perturbações
+extrapiramidais.
+
+Medicamento serotoninérgicos
+O uso de metoclopramida com medicamentos serotoninérgicos tais como SSRIs pode aumentar o risco
+da síndrome da serotonina.
+
+Digoxina
+A metoclopramida pode diminuir a biodisponibilidade da digoxina. É necessário monitorizar
+cuidadosamente a concentração plasmática da digoxina.
+
+Ciclosporina
+A metoclopramida aumenta a biodisponibilidade da ciclosporina (Cmax cerca de 46% e exposição cerca
+de 22%). É necessário monitorizar cuidadosamente a concentração plasmática da ciclosporina. A
+consequência clínica é incerta.
+
+Micacuvirum e suxametonium
+A injeção de metoclopramida pode prolongar a duração do bloqueio neuromuscular (através da inibição
+da colinesterase plasmática).
+
+Inibidores CYP2D6 fortes
+Os níveis de exposição de metoclopramida aumentam quando coadministrada com inibidores CYP2D6
+fortes tais como a fluoxetina e paroxetina. Embora o significado clínico seja incerto, os doentes devem
+ser monitorizados relativamente às reações adversas.
+
+4.6   Fertilidade, gravidez e aleitamento
+
+Fertilidade
+A metoclopramida causou alterações reversíveis da espermatogénese em ratos. Não é clara a
+relevância desta descoberta para o ser humano (ver secção 5.3).
+
+Gravidez
+
+
+                                                  4
+Uma grande quantidade de dados em mulheres grávidas (mais de 1000 casos de exposição) indica que
+não há, nem toxicidade malformativa, nem fototoxicidade. Se necessário do ponto de vista clínico, a
+metoclopramida pode ser usada durante a gravidez. Devido às propriedades farmacológicas (tal como
+com outros neuroléticos) no caso da metoclopramida ser administrada no final da gravidez, não se pode
+excluir a síndrome extrapiramidal no recém-nascido. A metoclopramida deve ser evitada no final da
+gravidez. Se se usar metoclopramida, deve fazer-se monitorização neonatal.
+
+Amamentação
+Níveis baixos de metoclopramida são excretados no leite materno. Não se pode excluir a ocorrência de
+reações adversas no bebé amamentado. A metoclopramida está contraindicada durante a amamentação.
+Em mulheres a amamentar, deve ser considerada a descontinuação do tratamento com metoclopramida.
+
+4.7   Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+A metoclopramida pode causar sonolência, tonturas, discinesia e distonias, as quais podem afetar a visão
+e, também, interferir com a capacidade de conduzir e utilizar máquinas.
+
+4.8   Efeitos indesejáveis
+
+Reações adversas listadas por Classes de Sistemas de Órgãos. As frequências são definidas utilizando a
+seguinte convenção: muito frequentes (≥1/10), frequentes (≥1/100, <1/10), pouco frequentes (≥1/1000,
+<1/100), raros (≥1/10 000, <1/1000), muito raros (<1/10 000), desconhecido (não pode ser calculado a
+partir de dados disponíveis).
+
+ Classes de Sistemas de Órgãos Frequência                     Reações adversas
+ Doenças do sangue e do sistema linfático
+                                 Desconhecido                 Metahemoglobinemia, que pode estar
+                                                              relacionada com carência em NADH
+                                                              citocromo b5 redutase, particularmente
+                                                              nos recém-nascidos (ver secção 4.4).
+                                                              Sulfahemoglobinemia, principalmente
+                                                              com a administração concomitante de
+                                                              doses elevadas de medicamentos
+                                                              libertadores de enxofre
+ Doenças do sistema imunitário
+                                     Pouco frequentes         Hipersensibilidade
+                                     Desconhecido             Reação anafilática (incluindo choque
+                                                              anafilático particularmente com a
+                                                              formulação intravenosa)
+ Doenças endócrinas*
+                                     Pouco frequentes         Amenorreia, Hiperprolactinemia
+                                     Raros                    Galactorreia
+                                     Desconhecido             Ginecomastia
+ Perturbações do foro psiquiátrico
+                                     Frequentes               Depressão
+                                     Pouco frequentes         Alucinações
+                                     Raros                    Estado de confusão
+ Doenças do sistema nervoso
+                                     Muito frequentes         Sonolência
+                                     Frequentes               Alterações             extrapiramidais
+                                                              (particularmente em crianças e adultos
+                                                              jovens     e/ou   quando     a   dose
+                                                              recomendada é excedida, mesmo após
+                                                              administração de uma dose única do
+                                                              medicamento) (ver secção 4.4),
+                                                              Parkinsonismo, Acatasia
+
+                                                   5
+                                 Pouco frequentes          Distonia, Discinesia, Diminuição do
+                                                           nível de consciência
+                                 Raros                     Convulsão especialmente em doentes
+                                                           epiléticos
+                                 Desconhecido              Discinesia tardia que pode ser
+                                                           persistente, durante ou após tratamento
+                                                           prolongado,      particularmente    nos
+                                                           doentes idosos (ver secção 4.4),
+                                                           Síndrome maligno dos neuroléticos
+                                                           (ver secção 4.4)
+ Cardiopatias
+                                 Pouco frequentes          Bradicardia, particularmente com a
+                                                           formulação intravenosa
+                                 Desconhecido              Paragem cardíaca, que ocorre pouco
+                                                           tempo depois da utilização injetável e
+                                                           que pode ser subsequente a bradicardia
+                                                           (ver     secção     4.4);    Bloqueio
+                                                           auriculoventricular, paragem sinusal
+                                                           particularmente com a formulação
+                                                           intravenosa; Eletrocardiograma com
+                                                           prolongamento do intervalo QT;
+                                                           Torsade de Pointes
+ Vasculopatias
+                                 Frequentes                Hipotensão, particularmente com a
+                                                           formulação intravenosa
+                                 Desconhecido              Choque, síncope após utilização
+                                                           injetável, Hipertensão aguda em
+                                                           doentes com feocromocitoma (ver
+                                                           secção 4.3)
+ Doenças gastrointestinais
+                                   Frequentes               Diarreia
+ Perturbações gerais e alterações no local de administração
+                                   Frequentes               Astenia
+* Doenças endócrinas após tratamento prolongado em relação com hiperprolactinémia (amenorreia,
+galactorreia, ginecomastia).
+
+As seguintes reações, algumas vezes associadas, ocorrem mais frequentemente quando são usadas doses
+elevadas:
+- Perturbações extrapiramidais: distonia aguda e discinesia, síndrome parkinsónico, acatisia, mesmo
+após a administração de uma dose única do medicamento, particularmente em crianças e adultos jovens
+(ver secção 4.4).
+- Sonolência, diminuição do nível de consciência, confusão, alucinações.
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas diretamente ao
+INFARMED, I.P.:
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+                                                6
+e-mail: farmacovigilancia@infarmed.pt
+
+4.9   Sobredosagem
+
+Sintomas
+Podem ocorrer perturbações extrapiramidais, sonolência, diminuição do nível de consciência, confusão,
+alucinações e paragem cardiorrespiratória.
+
+Tratamento
+No caso de sintomas extrapiramidais relacionados ou não com sobredosagem, o tratamento é apenas
+sintomático (benzodiazepinas nas crianças e/ou medicamentos anticolinérgicos antiparkinsónicos nos
+adultos).
+
+Deve ser realizado um tratamento sintomático e uma monitorização contínua das funções cardiovascular
+e respiratória de acordo com a situação clínica.
+
+
+5.    PROPRIEDADES FARMACOLÓGICAS
+
+5.1   Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 6.3.1 – Aparelho digestivo. Modificadores da motilidade gastrointestinal.
+Modificadores da motilidade gástrica ou procinéticos
+Grupo farmacoterapêutico: 2.7 – Sistema nervoso central. Antieméticos e antivertiginosos.
+Código ATC: A03F A01
+
+A metoclopramida é uma benzamida substituída da classe dos neuroléticos, principalmente usada pelas
+suas propriedades antieméticas.
+
+A atividade antiemética resulta de dois mecanismos de ação:
+-Antagonismo dos recetores dopaminérgicos D2 na zona de atuação do quimiorrecetor e no centro
+emético na medula implicada no vómito induzido pela apomorfina.
+-Antagonismo dos recetores serotoninérgicos 5-HT3 e agonismo dos recetores 5-HT4 relacionados com
+o vómito provocado pela quimioterapia.
+
+5.2   Propriedades farmacocinéticas
+
+Absorção
+Após a administração oral e intramuscular, a biodisponibilidade relativa é de 60% a 100%,
+comparativamente com a via intravenosa. As concentrações séricas máximas verificam-se em 0,5 a 2
+horas. Após administração retal, a biodisponibilidade é mais baixa (53 a 72%) e as concentrações séricas
+máximas são alcançadas mais tarde (2 a 3 horas).
+
+Distribuição
+A distribuição da metoclopramida é grande e rápida.
+
+Biotransformação e Eliminação
+A metoclopramida é principalmente eliminada na urina sob a forma inalterada, na forma sulfo ou
+glucorono-conjugada, sendo o principal metabolito o N-4 sulfoconjugado.
+Qualquer que seja a via de administração, a semivida de eliminação plasmática é de 5 a 6 horas.
+
+Compromisso renal
+A depuração da metoclopramida é reduzida até cerca de 70% nos doentes com compromisso renal grave,
+enquanto que a semivida de eliminação plasmática é aumentada (aproximadamente 10 horas para uma
+depuração da creatinina de 10-50 ml/min e 15 horas para uma depuração da creatinina <10 ml/minuto).
+
+Compromisso hepático
+
+                                                  7
+Nos doentes com cirrose hepática, observou-se acumulação da metoclopramida associada com uma
+redução de 50% na depuração plasmática.
+
+5.3    Dados de segurança pré-clínica
+
+Estes dados não indicam a necessidade de precauções especiais para além das já mencionadas
+anteriormente.
+
+
+6.        INFORMAÇÕES FARMACÊUTICAS
+
+6.1.   Lista dos excipientes
+
+Cloreto de sódio
+Ácido clorídrico
+Água para preparações injetáveis
+
+6.2    Incompatibilidades
+
+A metoclopramida é incompatível com a cefalotina sódica e outras cefalosporinas, cloranfenicol sódico
+e bicarbonato de sódio.
+Este medicamento não pode ser misturado com outros medicamentos, exceto os mencionados na secção
+6.6.
+
+6.3    Prazo de validade
+
+3 anos.
+
+Após a primeira abertura e/ou diluição, o produto deve ser utilizado imediatamente.
+
+6.4    Precauções especiais de conservação
+
+Conservar a temperatura inferior a 30ºC.
+Conservar na embalagem de origem para proteger da luz.
+Condições de conservação do medicamento após diluição, ver secção 6.3.
+
+6.5    Natureza e conteúdo do recipiente
+
+Ampolas de vidro incolor, tipo I, de 2 ml de capacidade, em embalagens de 10 ou 50 ampolas.
+
+6.6    Precauções especiais de eliminação e manuseamento
+
+Não existem requisitos especiais para a eliminação. Qualquer medicamento não utilizado ou resíduos
+devem ser eliminados de acordo com as exigências locais.
+
+Para administração por perfusão, Metoclopramida Basi pode ser diluída em uma das seguintes soluções
+intravenosas: cloreto de sódio a 0,9%, glucose a 5%, glucose a 5% e cloreto de sódio a 0,45 %, solução
+de Ringer ou solução de lactato de Ringer.
+
+Instruções para abrir as ampolas OPC (One-Point-Cut)
+1. Segurar o corpo da ampola entre o dedo polegar e o dedo indicador, com o ponto virado para cima;
+2. Colocar o dedo indicador da outra mão a apoiar a parte superior da ampola. Colocar o dedo polegar
+de modo a tapar o ponto;
+3. Com os dedos indicadores perto um do outro, pressionar na zona do ponto, para abrir a ampola.
+
+
+
+
+                                                  8
+7.    TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Laboratórios Basi – Indústria Farmacêutica, S.A.
+Parque Industrial Manuel Lourenço Ferreira, Lote 15
+3450-232 Mortágua, Portugal
+Tel.: +351 231 920 250
+Fax: +351 231 921 055
+E-mail: basi@basi.pt
+
+
+8.    NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+[A ser completado nacionalmente]>
+
+
+9.    DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+      INTRODUÇÃO NO MERCADO
+
+<[A ser completado nacionalmente]>
+
+
+10.    DATA DA REVISÃO DO TEXTO
+
+
+
+
+                                                9
+

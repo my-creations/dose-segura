@@ -1,0 +1,43 @@
+{
+  "medId": "bicarbonato-de-sodio",
+  "searchTerm": "bicarbonato de sódio",
+  "retrievedAt": "2026-02-08T00:00:00.000Z",
+  "bestMatch": {
+    "infarmedId": "9796151",
+    "name": "Bicarbonato de Sódio 8,4% - Labesfal",
+    "dci": "Bicarbonato de sódio",
+    "form": "Solução injetável",
+    "dosage": "84 mg/ml",
+    "holder": "Labesfal - Laboratórios Almiro, S.A.",
+    "score": 1.0,
+    "generic": false,
+    "processNumber": "1/161/85",
+    "administration": ["Via intravenosa"],
+    "classification": {
+      "atc": "B05XA02 - sodium bicarbonate",
+      "farmacoterapeutica": "12.1.2 - Alcalinizantes"
+    },
+    "aimDate": "29/10/1991",
+    "lastUpdated": "26/09/2023"
+  },
+  "documents": {
+    "rcm": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "rcm/9796151-rcm.pdf",
+      "size": 71000,
+      "method": "POST with form state",
+      "lastUpdated": "26/09/2023"
+    },
+    "fi": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "fi/9796151-fi.pdf",
+      "size": 65000,
+      "method": "POST with form state",
+      "lastUpdated": "26/09/2023"
+    }
+  }
+}

@@ -1,0 +1,582 @@
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+
+1. NOME DO MEDICAMENTO
+
+L-Noradrenalina Braun 1 mg/ml solução injetável
+
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada ml de L-Noradrenalina Braun 1 mg/ml solução injetável contém 1 mg de
+bitartarato de noradrenalina.
+
+Excipiente(s) com efeito conhecido:
+Cada ml de L-Noradrenalina Braun 1 mg/ml solução injetável contém 8,7 mg de
+cloreto de sódio, que corresponde a 3,42 mg de sódio e 0,05 mg de metabissulfito
+de sódio, que corresponde a 0,012 mg de sódio, ou seja, a quantidade total de sódio
+por ml é 3,43 mg.
+
+Lista completa de excipientes, ver secção 6.1
+
+
+3. FORMA FARMACÊUTICA
+
+Solução injetável.
+
+
+4. INFORMAÇÕES CLÍNICAS
+
+4.1 Indicações terapêuticas
+
+A noradrenalina está indicada como fármaco vasopressor no tratamento da
+hipotensão aguda, para restaurar a pressão arterial em certos estados como os que
+ocasionalmente ocorrem depois de:
+
+- enfarte de miocárdio;
+- by-pass cardiopulmonar;
+- choque anafilático:
+- pós-operatório;
+- durante anestesia espinal.
+
+É ainda utilizada com sucesso no tratamento do colapso circulatório, na insuficiência
+circulatória periférica e nos choques hemorrágico e cardiogénico.
+
+Desde 1987, o seu papel no tratamento do choque séptico conheceu alterações
+profundas, em especial no que concerne à dose a administrar. Deste modo, pode
+afirmar-se que, de um modo geral, o esquema terapêutico de um choque séptico
+segue os passos seguintes:
+Tratamento da causa;
+Reposição do volume plasmático;
+Dopamina, 7-20 µg/kg/min.
+
+AUSÊNCIA DE RESPOSTA
+Dobutamina, falência cardíaca;
+Noradrenalina em doses elevadas, 0,5 - 1 µg/kg/min;
+Dopamina em baixa dosagem, 2 - 3 µg/kg/min.
+
+4.2 Posologia e modo de administração
+
+ADULTOS
+
+a) Inicial: perfusão intravenosa, administrada a uma velocidade de 8 a 12 g (de
+0,008 a 0,012 mg) (base) por minuto, ajustando a velocidade de administração para
+estabelecer e manter pressão arterial desejada.
+
+b) Manutenção: perfusão intravenosa, administrada a uma velocidade de 2 a 4 g
+(de 0,002 a 0,004 mg) (base) por minuto, ajustando a dosagem de acordo com a
+resposta do doente.
+
+NOTA: podem ser necessários até 68 mg de noradrenalina (base) se o doente
+permanece hipotenso; no entanto, deve-se sempre suspeitar de uma depleção oculta
+do volume sanguíneo e deve-se corrigir caso exista.
+
+DOSES PEDIÁTRICAS USUAIS
+
+Hipotensão aguda: perfusão intravenosa, inicialmente administrada a uma
+velocidade de 2 g (0,002 mg) (base) por minuto ou 2 g/m² de superfície corporal
+por minuto, ajustando a velocidade de administração para estabelecer e manter a
+pressão arterial desejada.
+
+Hipotensão grave, em paragem cardíaca: perfusão intravenosa administrada
+inicialmente a uma velocidade de 0,1 g (0,0001 mg) (base) por kg de peso corporal
+por minuto, ajustando a velocidade de administração para estabelecer e manter a
+pressão arterial desejada.
+
+Modo de administração
+Antes da administração deve-se diluir a noradrenalina injetável com glucose a 5%
+em cloreto de sódio 0,9 % (solução para perfusão), porque a glucose nestes líquidos
+protege contra a perda significativa da potência da noradrenalina devida à oxidação.
+Para preparar uma solução contendo 4 g (0,004 mg) de noradrenalina por ml, diluir
+4 mg de noradrenalina em 1 litro de dextrose a 5%.
+
+4.3 Contraindicações
+
+O tratamento com L-Noradrenalina está contraindicado:
+ - no caso de hipersensibilidade à substância ativa ou a qualquer um dos
+    excipientes mencionados na secção 6.1
+ - em doentes com insuficiência coronária, hipertensão, hipertiroidismo e
+    arteriosclerose grave
+ - em doentes com hipotensão devido a défice de volume sanguíneo (hipovolemia)
+    (ver secção 4.4)
+ - durante a anestesia com ciclopropano ou halotano, uma vez que pode causar
+    arritmias cardíacas graves incluindo fibrilação ventricular (ver secção 4.5)
+Os doentes que não toleram outros simpaticomiméticos podem também ser
+intolerantes à noradrenalina.
+
+Os doentes que não toleram os sulfitos podem também não tolerar a noradrenalina
+injetável que contém, na sua composição, metabissulfito de sódio como conservante.
+
+4.4 Advertências e precauções especiais de utilização
+
+Advertências:
+
+A noradrenalina não deve ser administrada a doentes com hipotensão devido a
+défices de volume sanguíneo, exceto em caso de emergência para manter a perfusão
+das artérias coronárias e cerebrais até que a terapia de reposição de volume
+sanguíneo possa ser concluída (ver secção 4.3).
+
+A noradrenalina deve ser utilizada apenas em conjugação com a reposição adequada
+do volume sanguíneo (ver secção 4.8).
+
+Se a noradrenalina for administrada continuamente para manter a pressão arterial
+na ausência de reposição do volume sanguíneo, podem ocorrer os seguintes efeitos:
+vasoconstrição periférica e visceral severa, diminuição da perfusão renal e da
+produção de urina, fluxo sanguíneo sistémico deficiente apesar de uma pressão
+arterial ‘normal’, hipoxia tecidular e acidose láctica. A reposição do volume sanguíneo
+pode ser administrada antes e/ou simultaneamente com a noradrenalina; no
+entanto, se está indicada a administração de sangue ou plasma para aumentar o
+volume sanguíneo, a administração simultânea de noradrenalina poderá ser efetuada
+desde que administrada separadamente (por exemplo, usar um tubo em Y e
+administrar os frascos individuais de forma simultânea).
+
+A administração prolongada de qualquer vasopressor potente pode levar à depleção
+do volume plasmático, o que deve ser continuamente corrigido através de uma
+terapia adequada de reposição de fluidos e eletrólitos. Se os volumes plasmáticos
+não forem corrigidos, a hipotensão pode recidivar quando a noradrenalina for
+descontinuada ou a pressão arterial pode ser mantida com o risco de vasoconstrição
+periférica e visceral severa (por exemplo, diminuição da perfusão renal), com
+diminuição do fluxo sanguíneo e da perfusão tecidual, o que pode causar hipoxia
+tecidular e acidose láctica, e possivelmente lesão isquémica; a gangrena das
+extremidades tem sido raramente reportada.
+
+Quando se administrar noradrenalina por perfusão intravenosa, a pressão arterial e a
+taxa de fluxo devem ser verificadas frequentemente para evitar a hipertensão, que
+poderá estar associada a bradicardia, assim como a dor de cabeça e isquemia
+periférica, incluindo raramente gangrena das extremidades. A extravasão pode
+causar necrose tecidular local (ver secção ‘Risco de extravasamento’ abaixo).
+
+A perfusão de noradrenalina deve ser interrompida gradualmente, pois a cessação
+abrupta pode provocar uma queda acentuada da pressão arterial.
+
+Os produtos administrados por injeção devem ser sempre visualmente inspecionados
+e não podem ser utilizados se a presença de partículas ou a mudança de coloração
+for observada.
+
+Risco de extravasamento:
+O local da perfusão deve ser verificado com frequência para o fluxo livre. Devem ser
+tomadas medidas de precaução para evitar o extravasamento que possa causar a
+necrose dos tecidos circundantes da veia utilizada para a injeção. Por causa da
+vasoconstrição da parede da veia com permeabilidade aumentada, pode haver algum
+fluxo de noradrenalina para os tecidos circundantes da veia alvo da perfusão,
+causando um branqueamento dos tecidos que não é devido a um extravasamento
+óbvio. Portanto, se o branqueamento ocorrer, deve considerar-se a mudança de local
+de perfusão para permitir que os efeitos da vasoconstrição local diminuam.
+
+As doenças vasculares oclusivas (por exemplo, aterosclerose, arteriosclerose,
+endarterite diabética, doença de Buerger) são mais prováveis de ocorrer na
+extremidade inferior do que na extremidade superior. Portanto, as veias das pernas
+devem ser evitadas em doentes idosos ou em doentes que sofrem de tais distúrbios.
+
+Tratamento da isquemia devido ao extravasamento:
+Para prevenir a descamação e a necrose nas áreas onde ocorreu extravasamento,
+durante o vazamento extravascular do medicamento, a zona de injeção deve ser
+irrigada tão rapidamente quanto possível com 10 ml a 15 ml de solução salina
+contendo entre 5 mg a 10 mg de mesilato de fentolamina, um agente bloqueador
+adrenérgico. Para este efeito, é necessária a utilização de uma seringa provida de
+uma agulha fina e injetar localmente na área afetada, que é facilmente identificada
+pela sua aparência fria, dura e pálida. O bloqueio simpático com fentolamina provoca
+alterações hiperémicas locais imediatas e conspícuas se a zona for infiltrada dentro
+de 12 horas. A fentolamina deve ser administrada o mais rapidamente possível após
+a observação do extravasamento e a administração de noradrenalina deve ser
+interrompida.
+
+Precauções na utilização:
+
+Cuidado e respeito pela indicação estrita deve ser lembrado no caso de:
+- Disfunção ventricular esquerda grave associada com hipotensão aguda – uma
+avaliação cuidadosa do doente é necessária. A terapia de suporte deve ser iniciada
+simultaneamente com uma avaliação de diagnóstico. A noradrenalina deve ser
+reservada a doentes com choque cardiogénico e hipotensão refratária, em particular,
+os doentes com resistência vascular sistémica elevada. Deve ser iniciada com uma
+dose de 2 a 4 μg/min e titulada para uma dose superior se necessário. Se a perfusão
+sistémica ou pressão sistólica não puder ser mantida a >90 mmHg com a dosagem
+de 15 μg/ml, é pouco provável que um aumento adicional seja benéfico.
+- Cuidado especial deve ser observado nos doentes com trombose vascular
+periférica, coronária, ou mesentérica devido à noradrenalina poder aumentar a
+isquemia e estender a área de enfarte, exceto se na opinião do médico responsável,
+a administração de noradrenalina é considerada um procedimento salva-vidas.
+Precaução semelhante deve ser observada em doentes com hipotensão após enfarte
+do miocárdio, nos doentes com variante de Angina de Prinzmetal, diabetes,
+hipertensão ou hipertiroidismo.
+
+A ocorrência de perturbações do ritmo cardíaco durante o tratamento deve conduzir
+a uma redução da dose.
+A utilização de aminas pressoras com cloroformo, enflurano ou outros anestésicos
+halogenados pode causar arritmias cardíacas graves. Devido à possibilidade de
+aumento do risco de fibrilação ventricular, a noradrenalina deve ser utilizadas com
+precaução em doentes que recebam estes ou qualquer outro agente sensibilizante
+cardíaco ou que apresentem hipoxia ou hipercapnia (ver secção 4.5).
+A utilização com anestésicos como ciclopropano e halotano é contraindicada (ver
+secção 4.3).
+
+A noradrenalina deve ser utilizada com extrema precaução em doentes que recebem
+inibidores da monoamina oxidase (MAO) ou que tenham cessado a terapia nos
+últimos 14 dias, e em doentes que estejam a receber antidepressivos cíclicos,
+fármacos adrenérgico-serotoninérgicos ou linezolida, uma vez que podem resultar
+em hipertensão severa e prolongada (ver secção 4.5).
+
+É necessária especial precaução em doentes com insuficiência hepática, disfunção
+renal severa, doenças cardíacas isquémicas e pressão intracraniana elevada.
+Sobredosagens ou doses convencionais em pessoas hipersensíveis (por exemplo,
+doentes com hipertiroidismo) podem causar hipertensão severa, acompanhada de
+cefaleias violentas, fotofobia, dor retrosternal aguda, palidez, sudorese intensa e
+vómitos. A hipertensão pode eventualmente levar a edema pulmonar agudo, arritmia
+ou paragem cardíaca.
+
+Cuidado é recomendado nos doentes com hipotiroidismo ou diabetes mellitus. Deve-
+se ter cuidado em doentes diabéticos, pois a noradrenalina aumenta o nível de
+glicose no sangue (devido à glicogenólise no fígado e à inibição da libertação de
+insulina pelo pâncreas).
+
+Os doentes idosos podem ser especialmente sensíveis aos efeitos da noradrenalina,
+devido à maior frequência de disfunção hepática, renal ou cardíaca, bem como à
+presença de doenças concomitantes ou outras terapias medicamentosas.
+
+Sódio
+Este medicamento contém na sua composição 3,43 mg de sódio por ml.
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por mililitro ou
+seja, é praticamente “isento de sódio”.
+
+Metabissulfito de sódio
+Este medicamento contém metabissulfito de sódio. Pode causar, raramente, reações
+alérgicas (hipersensibilidade) graves e broncospasmo.
+
+4.5 Interações medicamentosas e outras formas de interação
+
+Combinações não recomendadas:
+ - Anestésicos halogenados voláteis: arritmia ventricular grave (aumento da
+   excitabilidade cardíaca)
+ - Antidepressivos (imipramina ou antidepressivos serotoninérgicos adrenérgicos):
+   hipertensão paroxística com a possibilidade de arritmia (inibição da entrada de
+   simpaticomiméticos nas fibras nervosas simpáticas)
+ - Glicosídeos digitálicos
+ - Levodopa
+ - Anti-histamínicos (Hidrocloreto de clorfeniramina, hidrocloreto de tripelenamina
+   e desipramina: aumentam significativamente a toxicidade da noradrenalina;
+   alguns anti-histamínicos podem bloquear a captação de catecolaminas pelos
+   tecidos periféricos e aumentar a toxicidade da noradrenalina.
+
+A utilização de aminas pressoras com ciclopropano, halotano, cloroformo, enflurano
+ou outros anestésicos halogenados pode causar arritmias cardíacas graves. Devido à
+possibilidade de aumento do risco de fibrilação ventricular, a noradrenalina deve ser
+utilizadas com precaução em doentes que recebam estes ou qualquer outro agente
+sensibilizante cardíaco ou que apresentem hipoxia ou hipercapnia (ver secção 4.3 e
+4.4).
+
+Combinações que requerem precaução na utilização:
+ - Inibidores não seletivos da enzima monoamina oxidase (MAO): aumento na ação
+   vasopressora do simpaticomimético que é usualmente moderada. Devem apenas
+   ser utilizados sobre estrita supervisão médica (ver secção 4.4).
+   Linezolida e inibidores seletivos da enzima monoamina oxidase (MAO): por
+   extrapolação dos inibidores não-seletivos da MAO, o risco do aumento da ação
+   pressora. Devem apenas ser utilizados sobre estrita supervisão médica (ver
+   secção 4.4).
+ - Hormonas da tiroide
+ - Antiarrítmicos
+
+Os efeitos da noradrenalina podem ser potenciados por guanetidina, guanadrel,
+reserpina, metildopa ou antidepressivos tricíclicos, anfetamina, doxapram, mazindol
+e alcaloides de rauwolfia.
+
+É necessário ter cuidado quando se utilizar a noradrenalina com os alfa e beta
+bloqueadores, uma vez que poderá originar uma hipertensão grave.
+
+Alcaloides ergotamínicos (mesilato de ergoloide, ergotamina, dihidroergotamina,
+ergometrina, metilergometrina e metilsergida) ou a oxitocina podem potenciar os
+efeitos vasopressores e vasoconstritores.
+
+A administração concomitante de propofol e noradrenalina pode levar à síndrome de
+perfusão do propofol (SPPR).
+
+Desmopressina ou vasopressina: o seu efeito diurético é diminuído.
+
+O lítio diminui o efeito da noradrenalina.
+
+4.6 Fertilidade, gravidez e aleitamento
+
+Gravidez
+A noradrenalina atravessa facilmente a placenta.
+A noradrenalina pode prejudicar a perfusão placentária e induzir bradicardia fetal.
+Pode também levar à contração do útero e levar à hipoxia fetal no final da gravidez.
+Estes riscos potenciais para os fetos devem ser medidos contra os potenciais
+benefícios para a mãe.
+
+
+Amamentação
+Desconhece-se se a noradrenalina ou os seus metabolitos são excretados no leite
+humano. Uma vez que muitos medicamentos são excretados no leite materno, deve
+ter-se precaução quando a noradrenalina é administrada a uma mulher a
+amamentar.
+A amamentação geralmente não é recomendada durante a utilização de
+noradrenalina como tratamento de emergência para hipotensão aguda.
+
+Fertilidade
+Não foram realizados estudos para recolher dados sobre fertilidade relativos à
+noradrenalina.
+
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Não há informação disponível. Portanto, a condução e/ou utilização de máquinas não
+é recomendada.
+
+4.8 Efeitos indesejáveis
+
+Doenças do sistema nervoso: ansiedade, insónia, confusão, cefaleias, estado
+psicótico, fraqueza, tremores, diminuição da vigilância, anorexia, náuseas e vómitos.
+
+Afeções oculares: glaucoma agudo, muito frequente em doentes com predisposição
+anatómica com encerramento do ângulo iridocorneano.
+
+Cardiopatias: taquicardia, bradicardia (provavelmente como resultado do reflexo do
+aumento da pressão arterial), arritmias, eletrocardiograma com alteração, choque
+cardiogénico, palpitações, aumento da contratilidade do músculo cardíaco resultante
+to efeito beta adrenérgico sobre o coração (inotrópico e cronotrópico), insuficiência
+cardíaca aguda, cardiomiopatia de stress (frequência desconhecida).
+
+Vasculopatias: hipertensão arterial e hipoxia tecidular; lesão isquémica devido à ação
+potente vasoconstritora que pode resultar em sensação de frio e palidez dos
+membros e da face.
+
+Doenças respiratórias, torácicas e do mediastino: insuficiência respiratória ou
+dificuldade na respiração, dispneia.
+
+Afeções dos tecidos cutâneos e subcutâneos: palidez, escarificação da pele, cor de
+pele azulada, rubor quente ou vermelhidão da pele, erupção cutânea, urticária ou
+prurido.
+
+Doenças renais e urinárias: retenção urinária.
+
+Doenças gastrointestinais: náuseas, vómitos.
+
+Perturbações gerais e alterações no local de administração: extravasamento,
+possibilidade de irritação e necrose no local de injeção.
+
+A administração contínua de um vasopressor para manter a pressão sanguínea na
+ausência de reposição do volume plasmático pode causar os seguintes sintomas:
+ - Vasoconstrição periféricas e visceral grave;
+ - Diminuição do fluxo sanguíneo renal;
+ - Diminuição da produção de urina;
+ - Hipoxia;
+ - Aumento dos níveis plasmáticos de lactato.
+
+No caso da hipersensibilidade ou sobredosagem, os seguintes efeitos podem
+aparecer mais frequentemente: hipertensão, fotofobia, dor retrosternal, dor faríngea,
+palidez, sudorese intensa e vómitos.
+O efeito vasopressor (resultante da ação adrenérgica nos vasos) pode ser reduzido
+pela administração concomitante de um ɑ-bloqueador (mesilato de fentolamina),
+enquanto a administração de um agente β-bloqueador (propanolol) pode resultar na
+redução do efeito estimulante do medicamento sobre o coração e num aumento do
+efeito hipertensor (através da redução da dilatação arterial), resultante da
+estimulação adrenérgica β1.
+
+A utilização prolongada de qualquer vasodilatador potente pode resultar na depleção
+do volume plasmático, que deve ser continuamente corrigido pela terapêutica
+apropriada de substituição com água e eletrólitos. Se os volumes plasmáticos não
+forem corrigidos, hipotensão pode suceder, quando a perfusão com noradrenalina for
+interrompida, ou a pressão sanguínea poderá ser mantida com o risco de
+vasoconstrição periférica e visceral grave com diminuição do fluxo sanguíneo.
+
+Hipertensão pode ocorrer, a qual pode estar associada a bradicardia, bem como a
+cefaleia e isquemia periférica, incluindo gangrena das extremidades.
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-
+risco do medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer
+suspeitas de reações adversas diretamente ao INFARMED, I.P.:
+
+Sítio da internet: https://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+e-mail: farmacovigilancia@infarmed.pt
+
+4.9 Sobredosagem
+
+Sintomas
+No caso de um evento de sobredosagem, os seguintes sintomas podem ser
+observados: vasoconstrição cutânea, úlceras de decúbito, colapso circulatório,
+cefaleias, hipertensão severa, bradicardia reflexa, aumento acentuado da resistência
+periférica e diminuição do débito cardíaco. Estes podem ser acompanhados de
+cefaleia violenta, hemorragia cerebral, fotofobia, dor retrosternal, palidez, febre,
+sudorese intensa, edema pulmonar e vómitos.
+
+Tratamento
+No caso de reações adversas relacionadas com uma dose excessiva, é recomendado
+reduzir a dosagem se possível.
+Em caso de sobredosagem acidental, evidenciada por uma elevação excessiva da
+pressão arterial, é recomendado interromper o tratamento até que a condição do
+doente estabilize.
+
+
+5. PROPRIEDADES FARMACOLÓGICAS
+5.1 Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 3.3 – Aparelho cardiovascular. Simpaticomiméticos
+Código ATC: C01CA03
+
+A noradrenalina é uma catecolamina que produz efeitos similares aos produzidos por
+estimulação das fibras pós-ganglionares simpáticas. As suas ações farmacológicas
+relacionadas com o seu emprego terapêutico estão quase exclusivamente limitadas
+aos efeitos exercidos sobre o sistema cardiovascular.
+
+Destaque-se a sua ação vasoconstritora (efeito sobre os recetores ), não só a nível
+cutâneo como também do músculo esquelético. Tal facto aumenta o fluxo sanguíneo
+das artérias coronárias e a pressão arterial, tanto sistólica como diastólica (efeito
+vasopressor), principalmente devido ao aumento da resistência vascular periférica.
+
+A sua ação estimulante cardíaca, devida ao efeito sobre os recetores , aumenta a
+força de contração, a excitabilidade e a contractilidade do coração. No entanto a
+frequência cardíaca não aumenta, uma vez que se produz uma bradicardia como
+resposta à elevação da pressão arterial. As necessidades do coração aumentam, sem
+que contudo isso se verifique com a eficiência cardíaca (relação entre o trabalho e o
+consumo de oxigénio).
+
+Aumenta também o volume sistólico, ainda que não aumente o caudal, dada a
+bradicardia reflexa. O fluxo sanguíneo diminui em todas as zonas, exceto no coração
+e no cérebro. Pode reduzir-se o volume de plasma circulante, especialmente com a
+administração prolongada, como resultado da perda de líquidos para o espaço
+extracelular provocada pela vasoconstrição pós-capilar.
+
+5.2 Propriedades farmacocinéticas
+
+Absorção:
+
+A noradrenalina é escassamente absorvida após injeção subcutânea. Se administrada
+por via oral, toda a catecolamina é destruída no trato gastrointestinal. A via de
+eleição é, a intravenosa.
+
+Distribuição:
+
+Distribui-se sobretudo pelo sistema nervoso simpático. Atravessa a placenta, mas
+não a barreira hematoencefálica.
+
+Biotransformação:
+
+A noradrenalina é metabolizada no fígado e noutros tecidos através de uma cadeia
+de reações enzimáticas em que participam as catecol-orto-metiltransferases (COMT)
+e as mono-amino-oxidases (MAO). Os metabolitos resultantes destas reações são
+inativos. A ação farmacológica da noradrenalina termina essencialmente na captação
+e metabolização pelas terminações nervosas simpáticas.
+
+Início da ação (administração intravenosa): rápida
+
+Duração de ação (administração intravenosa): de 1 a 2 minutos após interrupção da
+perfusão.
+Eliminação:
+
+A eliminação faz-se por via renal. Os metabolitos da noradrenalina são excretados na
+urina principalmente na forma sulfoconjugada, e, em menor quantidade, na forma
+glucoroconjugada. Apenas uma quantidade muito pequena de noradrenalina é
+excretada de forma inalterada.
+
+5.3 Dados de segurança pré-clínica
+
+Os diversos dados toxicológicos, farmacológicos e farmacocinéticos da noradrenalina
+permitem concluir que a solução de L-Noradrenalina Braun (noradrenalina bitartarato
+doseada a 1 mg/ml), se utilizada nas situações descritas e nas doses recomendadas,
+constitui um agente vasopressor adequado, revelando-se de grande interesse nos
+casos de hipotensão aguda.
+
+
+6. INFORMAÇÕES FARMACÊUTICAS
+
+6.1 Lista dos excipientes
+
+Cloreto de sódio,
+metabissulfito de sódio,
+ácido clorídrico (para ajuste de pH) e
+água para preparações injetáveis.
+
+6.2 Incompatibilidades
+
+A noradrenalina é incompatível com os sais de ferro, álcalis, e agentes oxidantes.
+
+6.3 Prazo de validade
+
+2 anos.
+
+6.4 Precauções especiais de conservação
+
+Não necessita de condições especiais de conservação.
+Manter os frascos e as ampolas dentro da embalagem exterior.
+
+6.5 Natureza e conteúdo do recipiente
+
+Embalagem com 10 ampolas de vidro tipo I incolor de 1 ml
+Embalagem com 10 ampolas de vidro tipo I incolor de 4 ml
+Embalagem com 100 ampolas de vidro tipo I incolor de 4 ml
+Embalagem com 10 ampolas de vidro tipo I incolor de 5 ml
+Embalagem com 10 ampolas de vidro tipo I incolor de 10 ml
+Embalagem com 100 ampolas de vidro tipo I incolor de 1 ml
+Embalagem com 10 ampolas de vidro tipo I incolor de 10 ml
+
+Embalagem com 1 frascos para injetáveis de vidro tipo I incolor de 50 ml
+Embalagem com 20 frascos para injetáveis de vidro tipo I incolor de 50 ml
+Embalagem com 25 frascos para injetáveis de vidro tipo I incolor de 50 ml
+Embalagem com 50 frascos para injetáveis de vidro tipo I incolor de 50 ml
+É possível que não sejam comercializadas todas as apresentações.
+
+6.6 Precauções especiais de eliminação e manuseamento
+
+Rejeitar a solução caso esta se apresente turva ou com sedimento.
+Utilizar um sistema de gotejo controlado para conseguir uma velocidade de fluxo
+precisa. A perfusão deve realizar-se em veias das extremidades superiores.
+
+Deve evitar-se a técnica do cateter com ligadura, se isto for possível, visto que a
+obstrução do vaso sanguíneo em redor do cateter pode produzir estase e aumento
+da concentração local de noradrenalina.
+A solução remanescente não deverá ser reutilizada.
+
+
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+B. Braun Medical, Unipessoal Lda.
+Est. Consiglieri Pedroso, 80
+Queluz de Baixo
+2730-053 Barcarena
+Portugal
+Tel.: 214 368 200
+Fax: 21 436 82 87
+
+
+8. NÚMERO (S) DE AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Nº de registo: 3810488 – 1 ml de solução injetável, 1mg/ml, 10 ampolas de vidro
+tipo I incolor
+Nº de registo: 2336980 – 1 ml de solução injetável, 1mg/ml, 100 ampolas de vidro
+tipo I incolor
+Nº de registo: 3810587 – 4 ml de solução injetável, 1mg/ml, 10 ampolas de vidro
+tipo I incolor
+Nº de registo: 3117686 – 4 ml de solução injetável, 1mg/ml, 100 ampolas de vidro
+tipo I incolor
+Nº de registo: 3810686 – 5 ml de solução injetável, 1mg/ml, 10 ampolas de vidro
+tipo I incolor
+Nº de registo: 3117785 – 5 ml de solução injetável, 1mg/ml, 100 ampolas de vidro
+tipo I incolor
+Nº de registo: 3810785 – 10 ml de solução injetável, 1mg/ml, 10 ampolas de vidro
+tipo I incolor
+Nº de registo: 3117884 – 10 ml de solução injetável, 1mg/ml, 100 ampolas de vidro
+tipo I incolor
+Nº de registo: 5200332 – 50 ml de solução injetável, 1mg/ml, 1frasco para
+injetáveis de vidro tipo I incolor
+Nº de registo: 5200340 – 50 ml de solução injetável, 1mg/ml, 20 frascos para
+injetáveis de vidro tipo I incolor
+Nº de registo: 5200357 – 50 ml de solução injetável, 1mg/ml, 25 frascos para
+injetáveis de vidro tipo I incolor
+Nº de registo: 5200365 – 50 ml de solução injetável, 1mg/ml, 50 frascos para
+injetáveis de vidro tipo I incolor
+9. DATA   DA PRIMEIRA AUTORIZAÇÃO / RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 08 de fevereiro de 1995
+Data da última renovação: 13 de agosto de 2024
+
+
+10. DATA DA REVISÃO DO TEXTO
+

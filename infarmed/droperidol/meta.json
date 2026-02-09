@@ -1,0 +1,31 @@
+{
+  "medId": "droperidol",
+  "searchTerm": "droperidol",
+  "retrievedAt": "2026-02-08T22:28:18.600Z",
+  "bestMatch": {
+    "infarmedId": "702004",
+    "name": "Droperidol AguettantMG",
+    "dci": "Droperidol",
+    "form": "Solução injetável",
+    "dosage": "2.5 mg/ml",
+    "holder": "Laboratoire Aguettant",
+    "isGeneric": false,
+    "score": 170
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/702004-rcm.pdf",
+      "size": 489214
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/702004-fi.pdf",
+      "size": 762926
+    }
+  }
+}

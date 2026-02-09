@@ -1,0 +1,339 @@
+                                                                              APROVADO EM
+                                                                              INFARMED
+
+Resumo das Características do Medicamento (RCM)
+
+
+1. NOME DO MEDICAMENTO
+
+Amicacina Hikma
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada ampola de Amicacina Hikma 100 mg/2 ml contém 161,8 mg de Sulfato de Amicacina
+equivalente a 100 mg de Amicacina.
+
+Cada ampola de Amicacina Hikma 500 mg/2 ml contém 809,0 mg de Sulfato de Amicacina
+equivalente a 500 mg de Amicacina.
+
+Excipientes com efeito conhecido:
+
+Cada ampola de Amicacina Hikma 100 mg/2 ml contém 2,90 mg de metabissulfito de sódio e
+3,64 mg de sódio (sob a forma de de metabissulfito de sódio e citrato de sódio).
+
+Cada ampola de Amicacina Hikma 500 mg/2 ml contém 14,52 mg de metabissulfito de sódio
+e 18,21 mg de sódio (sob a forma de de metabissulfito de sódio e citrato de sódio).
+
+Lista completa de excipientes, ver a secção 6.1.
+
+3. FORMA FARMACÊUTICA
+
+Solução injetável, para administração parentérica (IM, IV ou perfusão).
+
+4. INFORMAÇÕES CLÍNICAS
+
+4.1 Indicações terapêuticas
+
+A amicacina é indicada em adultos e crianças no tratamento de infeções devidas a estirpes
+sensíveis de bactérias gram-negativas. É eficaz no tratamento de infeções urinárias, mesmo
+as complicadas ou recorrentes; bacterémia, septicémia (incluindo a sepsis neonatal); infeções
+graves das vias respiratórias; dos ossos e das articulações; do sistema nervoso central; da
+pele e tecidos moles; infeções intra-abdominais e em queimaduras infetadas ou infeções pós-
+operatórias (incluindo cirurgia vascular).
+
+4.2 Posologia e modo de administração
+
+Posologia
+
+Adultos e crianças com função renal normal:
+15 mg/kg/dia, por duas a três administrações (7,5 mg/kg cada 12 horas ou 5 mg/kg cada 8
+horas).
+
+Infeções urinárias não complicadas:
+500 mg 1 vez/dia ou 250 mg 2 vezes/dia.
+A dose máxima diária deve ser inferior a 1,5 g.
+                                                                              APROVADO EM
+                                                                              INFARMED
+
+Recém-nascidos e prematuros
+Dose inicial de 10 mg/kg, seguida de doses de 7,5 mg/kg cada 12 horas.
+A dose máxima diária deve ser inferior a 15 mg/kg de peso.
+
+População idosa
+Não há um ajuste posológico específico para os doentes idosos; no entanto, deve levar-se em
+linha de conta a sua função renal, mesmo na presença de valores aparentemente normais da
+depuração da creatinina e do “BUN” (blood urea nitrogen).
+
+Doentes com insuficiência renal
+Recomenda-se que a posologia seja ajustada, administrando a dose normal com intervalos
+maiores ou reduzindo a dose.
+
+1 - Dose normal a intervalos maiores:
+Se a taxa de depuração da creatinina não estiver disponível e o doente esteja em situação
+estável, o intervalo entre as administrações pode ser calculado, multiplicando o valor da
+creatinina sérica do doente por 9 (ex.: se a conc. Creatinina no soro = 2 mg / 100 ml, a dose
+recomendada de 7,5 mg/kg deverá ser administrada cada 18 horas).
+
+2 – Redução da dose a intervalos fixos:
+Quando a função renal não é normal e seja preferível administrar a Amicacina em intervalos
+regulares fixos, com redução da dose administrada. A concentração da Amicacina no plasma
+deverá ser determinada, a fim de se evitarem concentrações superiores a 35 g/ml.
+
+Se o doseamento plasmático da Amicacina não for possível, e se o doente apresentar a função
+renal estável, os valores da creatinina sérica e da depuração da creatinina poderão ser usados
+com os indicadores para a definição da melhor dosagem. Iniciar a terapia pela administração
+da dose de 7,5 mg/ml (dose de ataque). Para as doses de manutenção, a administrar cada
+12 horas, deverão ser calculadas de acordo com a seguinte fórmula:
+
+                              depuração creatinina (mg/ml)
+dose manut. (cada 12h) =                                       x dose inicial (mg)
+                           depuração creatinina normal (mg/ml)
+
+Modo de administração
+
+O Sulfato de Amicacina destina-se a ser administrado por via parentérica (IM, IV e perfusão).
+
+Notas quanto à administração endovenosa:
+A administração endovenosa deverá ocorrer durante 30 a 60 minutos
+
+Na idade pediátrica deve respeitar-se a mesma velocidade de administração, caso a dose
+recomendada o permita. Na infância, deverá administrar-se o medicamento durante 1-2
+horas.
+
+A duração da terapêutica é normalmente de 7 a 10 dias. A dose máxima por tratamento não
+deve ultrapassar os 15g.
+
+Para instruções acerca da diluição do medicamento antes da administração, ver secção 6.6.
+
+4.3 Contraindicações
+                                                                              APROVADO EM
+                                                                              INFARMED
+
+A Amicacina está contraindicada em doentes que apresentem hipersensibilidade e reações
+tóxicas graves aos aminoglicosídeos.
+
+4.4 Advertências e precauções especiais de utilização
+
+A Amicacina, tal como os outros aminoglicosídeos, é potencialmente nefrotóxica, ototóxica e
+neurotóxica.
+
+Dado a Amicacina atingir elevadas concentrações no aparelho excretor urinário, os doentes
+devem ser bem hidratados a fim de minimizar a irritação (química) dos túbulos renais. A
+função renal deve ser avaliada, pelos métodos habituais, antes de se iniciar a terapêutica, e
+periodicamente durante o decorrer desta.
+
+Se surgirem sinais de irritação dos túbulos renais (manifestando-se pela redução da função
+renal com o aparecimento de precipitados proteicos nos túbulos e na urina de eritrócitos ou
+leucócitos, bem como albumina), dever-se-á aumentar a hidratação do doente. A posologia
+deverá ser alterada (redução dose diária) se surgirem outros sinais da disfunção renal, tais
+como diminuição da depuração da Creatinina, diminuição da densidade da urina, aumento do
+nível do “BUN” (blood urea nitrogen), creatinina ou oligúria; o tratamento deverá ser mesmo
+interrompido se ocorrer azotémia ou se a excreção urinária ou diminuindo.
+
+NOTA: quando os doentes são devidamente hidratados e possuem a função renal normal, o
+risco de reações de nefrotoxicidade é reduzido, desde que se respeitem as posologias
+recomendadas.
+
+Existe um risco aumentado de ototoxicidade em doentes que apresentam mutações no ADN
+mitocondrial (em particular a substituição do nucleótido 1555 A a G no gene rRNA12S),
+mesmo que os níveis séricos de aminoglicosídeos se encontrem dentro do intervalo
+recomendado durante o tratamento. Nestes doentes, devem ser consideradas opções de
+tratamento alternativas.
+
+Em doentes com antecedentes familiares de mutações relevantes ou surdez induzida por
+aminoglicosídeos, devem ser considerados tratamentos alternativos ou testes genéticos antes
+da administração.
+
+Excipients
+
+Sódio:
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por ampola ou seja, é
+praticamente “isento de sódio”.
+
+Metabissulfito de sódio:
+Pode causar, raramente, reações alérgicas (hipersensibilidade) graves e broncospasmo.
+
+4.5 Interações medicamentosas e outras formas de interação
+
+A administração concomitante e/ou sequencial de diuréticos potentes, bloqueadores
+neuromusculares e outros agentes potencialmente neurotóxicos e nefrotóxicos deve ser
+evitada, a fim de não se criarem efeitos aditivos potenciais.
+A Amicacina pode potenciar a ação curarizante dos miorelaxantes e dos anestésicos (risco de
+bloqueio neuromuscular e até paralisia respiratória).
+                                                                           APROVADO EM
+                                                                           INFARMED
+
+Evitar a mistura, numa mesma seringa ou frasco, da Amicacina e de outro fármaco
+particularmente um outro antibiótico Beta-lactâmico.
+
+4.6 Fertilidade, gravidez e aleitamento
+
+Não está estabelecida a segurança durante o período de gravidez e lactação. Só deve ser
+utilizada em casos de absoluta necessidade.
+
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos de Amicacina Hikma sobre a capacidade de conduzir e utilizar máquinas são nulos
+ou desprezáveis.
+
+4.8 Efeitos indesejáveis
+
+O aparecimento de efeitos indesejáveis é pouco frequente em doentes com função renal
+normal, quando a duração da terapêutica não é prolongada e a dose recomendada não é
+excedida.
+
+No entanto, nos doentes tratados com doses superiores, maiores períodos de tempo que os
+recomendados e na presença de insuficiência renal, poderá haver risco de ototoxicidade,
+nefrotoxicidade e neurotoxicidade.
+
+Outros efeitos raramente registados: erupções cutâneas, febre, cefaleias, parestesias,
+tremor, náuseas e vómitos, eosinofilia, artralgia, anemia e hipotensão.
+
+Notificação de suspeitas de reações adversas
+
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-risco do
+medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas de
+reações adversas através de:
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+e-mail: farmacovigilancia@infarmed.pt
+
+4.9 Sobredosagem
+
+Na eventualidade de uma dosagem excessiva ou de uma reação tóxica a Amicacina pode ser
+removida através de hemodiálise ou diálise peritoneal.
+
+5. PROPRIEDADES FARMACOLÓGICAS
+
+5.1 Propriedades farmacodinâmicas
+                                                                              APROVADO EM
+                                                                              INFARMED
+
+
+Grupo farmacoterapêutico: 1.1.7 - Anti-infeciosos, antibacterianos, aminoglicosídeos, código
+ATC: J01GB06.
+
+Amicacina Hikma contém, como princípio ativo, Sulfato de Amicacina, um antibiótico
+bactericida, semissintético que pertence ao grupo dos aminoglicosídeos, e cuja administração
+se faz por via parentérica (intramuscular, endovenosa ou perfusão).
+
+Mecanismo de ação
+
+A Amicacina possui a particularidade de ser resistente aos enzimas produzidos pelas bactérias
+resistentes a outros aminoglicosídeos. O seu espetro de ação compreende bactérias gram-
+negativo tais como: E. coli, Acinetobacter, Proteus, Klebsiella, Enterobacter, Serratia,
+Salmonella, Sigella incluindo Pseudomonas aeruginosa.
+
+Mostrou também, ser eficaz contra estirpes sensíveis de Estafilococos, podendo ser
+considerada uma escolha alternativa na terapêutica inicial de doentes alérgicos a outros
+antibióticos e nas infeções mistas causadas por Estafilococos e bactérias gram-negativas.
+
+5.2 Propriedades farmacocinéticas
+
+A Amicacina não é absorvida por via oral, no entanto, após administração intramuscular, tem
+uma rápida absorção e distribuição. Em doentes com a função renal normal após
+administração IM de 7,5 mg/kg (500 mg adultos), atinge um pico sérico de 20 g/ml ao fim
+de 1 hora; na perfusão IV contínua de 30 minutos, atinge uma concentração sérica de 38
+g/ml ao fim da mesma.
+
+Circula fracamente ligada às proteínas plasmáticas (10%). A sua eliminação faz-se por via
+renal (filtração glomerular) na forma ativa (não sofre metabolização); mais de 90% encontra-
+se na urina após 24 horas e a semivida de eliminação é de cerca de 2 horas.
+
+Não há registo de acumulação do fármaco com doses repetidas durante 110 dias de
+tratamento, quando administrada de acordo com a posologia recomendada.
+
+É localmente bem tolerada.
+
+5.3 Dados de segurança pré-clínica
+
+Não se aplica.
+
+6. INFORMAÇÕES FARMACÊUTICAS
+
+6.1 Lista de excipientes
+
+- Metabissulfito de sódio
+- Citrato de sódio
+- Ácido sulfúrico (1M)
+- Água para injetáveis
+
+6.2 Incompatibilidades
+                                                                           APROVADO EM
+                                                                           INFARMED
+
+Não misturar Amicacina com outro antibiótico, em especial com um betalactâmico, numa
+seringa; a injeção simultânea não é compatível.
+
+6.3 Prazo de validade
+
+3 anos
+
+6.4 Precauções especiais de conservação
+
+Conservar em local fresco e seco (inferior a 25ºC), proteger da luz.
+
+Solução diluída
+
+24 horas, após diluição de solução inicial nas soluções para perfusão, em concentrações de
+0,25 e 0,5 mg/ml, quando armazenada à temperatura ambiente.
+
+6.5 Natureza e conteúdo do recipiente
+
+Este medicamento é uma solução incolor e transparente embalada em ampolas âmbar de
+vidro tipo I.
+
+6.6 Precauções especiais de eliminação e manuseamento
+
+A solução de Amicacina poderá ser diluída para preparação de solução para perfusão, em uma
+das seguintes soluções:
+
+- Sol. Injetável de Dextrose a 5%
+- Sol. Injetável de Dextrose a 5% e cloreto de sódio a 0,2%
+- Sol. Injetável de Dextrose a 5% e cloreto de sódio a 0,45%
+- Sol. Injetável de Cloreto de sódio a 0,9%
+- Sol. Injetável de Lactato de Ringer
+
+
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Hikma Farmacêutica (Portugal), S.A.
+Estrada do Rio da Mó nos 8, 8A e 8B
+Fervença
+2705 - 906 Terrugem SNT
+Portugal
+Tel: +351 21 980 84 10
+e-mail: portugalgeral@hikma.com
+
+8. NÚMEROS DE AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+2258994 – 100 mg/2 ml (1 ampola)
+2259091 – 500 mg/2 ml (1 ampola)
+4686499 – 100 mg/2 ml (2 ampolas)
+4686598 – 500 mg/2 ml (2 ampolas)
+5462551 – 500 mg/2 ml (5 ampolas)
+2443893 – 100 mg/2 ml (6 ampolas)
+2443992 – 500 mg/2 ml (6 ampolas)
+                                                                         APROVADO EM
+                                                                         INFARMED
+
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Data da primeira Autorização de Introdução no Mercado: 8 de fevereiro de 1995
+Data da renovação da Autorização de Introdução no Mercado: 8 de fevereiro de 2005
+
+10. DATA DA REVISÃO DO TEXTO
+
+04/2023
+

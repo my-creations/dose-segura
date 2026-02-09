@@ -1,0 +1,43 @@
+{
+  "medId": "antigene-superficie-b",
+  "searchTerm": "Engerix",
+  "retrievedAt": "2026-02-08T00:00:00.000Z",
+  "bestMatch": {
+    "infarmedId": "2294189",
+    "name": "Engerix B",
+    "dci": "Vacina contra a hepatite B",
+    "form": "Suspensão injetável em seringa pré-cheia",
+    "dosage": "20 µg/1 ml",
+    "holder": "SmithKline & French Portuguesa - Produtos Farmacêuticos, Lda.",
+    "score": 1.0,
+    "generic": false,
+    "processNumber": "BE/H/0009/001",
+    "administration": ["Via intramuscular"],
+    "classification": {
+      "atc": "J07BC01 - hepatitis B, purified antigen",
+      "farmacoterapeutica": "18.1 - Vacinas (simples e conjugadas)"
+    },
+    "aimDate": "02/11/1987",
+    "lastUpdated": "05/06/2024"
+  },
+  "documents": {
+    "rcm": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "rcm/2294189-rcm.pdf",
+      "size": 118000,
+      "method": "POST with form state",
+      "lastUpdated": "05/06/2024"
+    },
+    "fi": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "fi/2294189-fi.pdf",
+      "size": 60000,
+      "method": "POST with form state",
+      "lastUpdated": "05/06/2024"
+    }
+  }
+}

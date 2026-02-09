@@ -1,0 +1,2275 @@
+                                                                                      $3529$'2(0
+
+                                                                                      
+
+                                                                                      ,1)$50('
+
+
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1. NOME DO MEDICAMENTO
+Voriconazol Normon 200 mg pó para solução para perfusão
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+Cada frasco para injetáveis contém 200 mg de voriconazol.
+Após reconstituição cada ml contém 10 mg de voriconazol. Uma vez reconstituída, é necessária
+diluição adicional antes da administração.
+Excipientes com efeito conhecido
+Cada frasco para injetáveis contém 35,38 mg de sódio.
+Cada frasco para injetáveis contém 3.200 mg de ciclodextrina.
+Lista completa de excipientes, ver secção 6.1.
+
+3. FORMA FARMACÊUTICA
+Pó para solução para perfusão
+Pó branco liofilizado.
+
+4. INFORMAÇÕES CLÍNICAS
+4.1 Indicações terapêuticas
+O voriconazol é um agente antifúngico triazólico de largo espetro e está indicado em adultos e crianças
+com 2 anos ou mais para:
+Tratamento da aspergilose invasiva.
+Tratamento da candidemia em doentes não neutropénicos.
+Tratamento de infeções invasivas graves por Candida spp. resistentes ao fluconazol (incluindo C.
+krusei).
+Tratamento de infeções fúngicas graves por Scedosporium spp. e Fusarium spp.
+Voriconazol Normon deverá ser administrado principalmente a doentes com infeções progressivas e
+passíveis de causar a morte.
+Profilaxia de infeções fúngicas invasivas em recetores de transplante alogénico de células estaminais
+hematopoiéticas (HSCT) de elevado risco.
+4.2 Posologia e modo de administração
+Posologia
+
+                                                                                     $3529$'2(0
+
+                                                                                     
+
+                                                                                     ,1)$50('
+
+
+As alterações eletrolíticas, tais como hipocaliemia, hipomagnesemia e hipocalcemia devem ser
+monitorizadas e corrigidas, se necessário, antes do início da terapêutica com voriconazol e durante o
+período de tratamento (ver secção 4.4).
+Recomenda-se que Voriconazol Normon seja administrado a um ritmo máximo de 3 mg/kg por hora
+durante 1 a 3 horas.
+Voriconazol Normon encontra-se igualmente disponível sob a forma de comprimidos revestidos por
+película de 50 mg e 200 mg.
+Tratamento
+Adultos
+A terapêutica deve ser iniciada com o regime de dose de carga de Voriconazol Normon referido, por via
+oral ou intravenosa, de modo a atingir, no Dia 1, concentrações plasmáticas próximas das do estado
+estacionário. Com base na elevada biodisponibilidade oral (96 %; ver secção 5.2), a passagem entre a
+administração intravenosa e oral é adequada quando clinicamente indicado.
+São fornecidas informações detalhadas sobre as doses recomendadas na tabela seguinte:
+                                          Oral
+                     Intravenosa          Doentes com pesoDoentes com peso
+                                          igual ou superior a 40inferior a 40 kg*
+ Regime de dose de6 mg/kg de 12 em400 mg de 12 em 12200 mg de 12 em
+ carga (primeiras 2412 horas              horas                    12 horas
+ horas)
+ Dose              de
+ manutenção (após4pormg/kg
+                         dia
+                               duas vezes200 mg duas vezes por100 mg duas vezes
+                                          dia                      por dia
+ as primeiras 24
+ h ) se aplica a doentes com idade igual ou superior a 15 anos
+*Também
+Duração do tratamento
+A duração do tratamento deve ser a menor possível, dependendo da resposta clínica e micológica do
+doente. A exposição de longo prazo ao voriconazol, com duração superior a 180 dias (6 meses), requer
+uma cuidadosa avaliação da relação benefício-risco (ver secções 4.4 e 5.1). Os dados clínicos para
+estabelecer a segurança de hidroxipropil-ß-ciclodextrina (HPBCD) administrado por via intravenosa em
+tratamentos prolongados são limitados (ver secção 5.2).
+Ajuste de dose (Adultos)
+Se o doente não tolerar o tratamento intravenoso de 4 mg/kg duas vezes por dia, reduzir a dose para
+a dose de 3 mg/kg duas vezes por dia.
+Se a resposta do doente ao tratamento for inadequada, a dose de manutenção pode ser aumentada
+para 300 mg duas vezes por dia por via oral. Para doentes com menos de 40 kg a dose oral pode ser
+aumentada para 150 mg duas vezes por dia.
+Se os doentes não conseguirem tolerar o tratamento com estas doses elevadas, reduza a dose oral
+gradualmente com redução de 50 mg de cada vez até à dose de manutenção de 200 mg duas vezes
+por dia (ou 100 mg duas vezes por dia em doentes com menos de 40 kg de peso corporal).
+Consultar as informações abaixo para o caso de utilização profilática.
+Crianças (2 a <12 anos) e adolescentes jovens com baixo peso corporal (12 a 14 anos e <50 kg)
+
+                                                                                     $3529$'2(0
+
+                                                                                     
+
+                                                                                     ,1)$50('
+
+
+O voriconazol deve ser doseado da mesma forma como nas crianças porque estes jovens adolescentes
+podem metabolizar o voriconazol de forma mais semelhante às crianças do que nos adultos.
+O regime posológico recomendado é o seguinte:
+                                    Intravenosa                      Oral
+Regime de dose de carga 9 mg/kg a cada 12 horas                      Não recomendado
+(primeiras 24 horas)
+Dose de manutenção (após as 8 mg/kg duas vezes por dia               9 mg/kg duas vezes por dia
+primeiras 24 horas)                                                  (dose máxima de 350 mg duas
+                                                                     vezes por dia)
+Nota: Baseado numa análise populacional de farmacocinética em 112 doentes pediátricos
+imunocomprometidos com idades dos 2 aos <12 anos e em 26 adolescentes imunocomprometidos com
+idades dos 12 a <17 anos.
+Recomenda-se iniciar a terapêutica com o regime intravenoso, e o regime oral deve ser considerado
+apenas após uma significativa melhoria clínica. Deve ter-se em consideração que uma dose
+intravenosa de 8 mg/kg proporcionará uma exposição ao voriconazol aproximadamente 2 vezes
+superior a uma dose oral de 9 mg/kg.
+Todos os outros adolescentes (12 a 14 anos de idade e ≥50 kg; 15 a 17 anos de idade
+independentemente do peso corporal)
+O voriconazol deve ser utilizado como nos adultos.
+Ajuste de dose [Crianças (2 a <12 anos) e adolescentes jovens com baixo peso corporal (12 a 14 anos
+e <50 kg)]
+Se a resposta do doente ao tratamento for inadequada, a dose intravenosa pode ser aumentada em
+intervalos de 1 mg/kg. Se o doente não conseguir tolerar o tratamento, deve-se reduzir a dose
+intravenosa em intervalos de 1 mg/kg.
+A utilização em doentes pediátricos com idades entre os 2 e <12 anos com insuficiência renal ou
+hepática não foi estudada (ver secções 4.8 e 5.2).
+Profilaxia em adultos e crianças
+A profilaxia deve ser iniciada no dia do transplante e pode ser administrada até durante 100 dias. A
+duração da profilaxia deve ser a menor possível, dependendo do risco de desenvolvimento de infeção
+fúngica invasiva (IFI) definida por neutropenia ou imunossupressão. Apenas pode ser continuada até
+180 dias após o transplante em caso de persistência da imunossupressão ou de doença do enxerto
+contra o hospedeiro (DecH) (ver secção 5.1).
+Dose
+O regime posológico recomendado para a profilaxia é o mesmo que para o tratamento nos respetivos
+grupos etários. Consulte as tabelas de tratamento acima.
+Duração da profilaxia
+A segurança e a eficácia da utilização de voriconazol por um período superior a 180 dias não foram
+devidamente estudadas em ensaios clínicos.
+A utilização de voriconazol em profilaxia, por mais de 180 dias (6 meses), requer uma cuidadosa
+avaliação da relação benefício-risco (ver secções 4.4 e 5.1). Os dados clínicos para o estabelecimento
+da segurança do tratamento a longo prazo com hidroxipropil-ß-ciclodextrina (HPBCD) administrado por
+via intravenosa em tratamentos prolongados são limitados (ver secção 5.2).
+
+                                                                                     $3529$'2(0
+
+                                                                                     
+
+                                                                                     ,1)$50('
+
+
+
+As seguintes instruções aplicam-se quer para o tratamento, quer para a profilaxia
+Ajuste de dose
+Para utilização profilática, não se recomendam ajustes de dose no caso de perda de eficácia ou de
+eventos adversos relacionados com o tratamento. No caso de eventos adversos relacionados com o
+tratamento, deve considerar-se a interrupção do voriconazol e a utilização de agentes antifúngicos
+alternativos (ver secções 4.4 e 4.8).
+Ajustes de dose em caso de coadministração
+A rifabutina ou fenitoína podem ser coadministradas com o voriconazol se a dose de manutenção do
+voriconazol for aumentada para 5 mg/kg por via intravenosa, duas vezes por dia, ver secções 4.4 e
+4.5.
+O efavirenz pode ser administrado concomitantemente com o voriconazol se a dose de manutenção de
+voriconazol for aumentada para 400 mg a cada 12 horas e a dose de efavirenz for reduzida em 50%,
+isto é, para 300 mg uma vez por dia. Quando o tratamento com voriconazol for suspenso, a dose
+inicial de efavirenz deve ser restabelecida (ver secções 4.4 e 4.5).
+Idosos
+Não é necessário ajuste posológico nos doentes idosos (ver secção 5.2).
+Compromisso renal
+Em doentes com compromisso renal moderado a grave (clearance de creatinina < 50 ml/min) ocorre
+acumulação do veículo utilizado na formulação intravenosa, hidroxipropil betadex. Nestes doentes deve
+ser administrada a formulação oral do voriconazol, exceto quando a avaliação do risco-benefício para o
+doente justifique o uso da formulação intravenosa. As concentrações séricas de creatinina devem ser
+rigorosamente monitorizadas nestes doentes e, se se verificarem aumentos, deve ser considerada a
+mudança para a terapêutica por via oral (ver secção 5.2).
+O voriconazol é hemodialisável com uma clearance de 121 ml/min. Uma sessão de hemodiálise com a
+duração de 4 horas não remove uma quantidade de voriconazol suficiente que justifique um ajuste
+posológico.
+O veículo intravenoso, hidroxipropil betadex, é hemodialisável com uma depuração de 37,5
+± 24 ml/min.
+Compromisso hepático
+Recomenda-se que seja utilizado o regime de dose de carga padrão, contudo a dose de manutenção
+deve ser reduzida para metade em doentes com cirrose hepática ligeira a moderada (Child-Pugh A e B)
+medicados com voriconazol (ver secção 5.2).
+O voriconazol não foi estudado nos doentes com cirrose hepática crónica grave (Child-Pugh C).
+Os dados sobre a segurança de voriconazol em doentes com resultados alterados dos testes da função
+hepática [aspartato aminotransferase (AST), alanina aminotransferase (ALT), fosfatase alcalina (FA) ou
+bilirrubina total >5 vezes o limite superior normal] são limitados.
+A administração de voriconazol tem sido associada a elevações dos testes da função hepática e a sinais
+clínicos de lesão hepática, tais como icterícia, e deve ser apenas utilizado em doentes com
+compromisso hepático grave se os benefícios compensarem os potenciais riscos. Os doentes com
+compromisso hepático grave devem ser cuidadosamente monitorizados quanto à toxicidade do
+fármaco (ver secção 4.8).
+
+                                                                                     $3529$'2(0
+
+                                                                                     
+
+                                                                                     ,1)$50('
+
+
+
+População pediátrica
+A segurança e eficácia de Voriconazol Normon em crianças com idade inferior a 2 anos não foram
+estabelecidas. Os dados atualmente disponíveis encontram-se descritos nas secções 4.8 e 5.1, mas
+não pode ser feita qualquer recomendação posológica.
+Os dados clínicos para o estabelecimento da segurança da hidroxipropil-ß-ciclodextrina, administrada
+por via intravenosa, na população pediátrica são limitados.
+Modo de administração
+Voriconazol Normon requer reconstituição e diluição (ver secção 6.6) antes da administração como
+perfusão intravenosa. Não administrar por bólus IV.
+4.3 Contraindicações
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na secção 6.1.
+Coadministração com os substratos do CYP3A4, terfenadina, astemizol, cisaprida, pimozida, quinidina
+ou ivabradina, uma vez que o aumento das concentrações plasmáticas destes medicamentos pode
+provocar um prolongamento do intervalo QTc e, raramente, a ocorrência de torsades de pointes (ver
+secção 4.5).
+Coadministração com rifampicina, carbamazepina, fenobarbital e hipericão, uma vez que estes
+medicamentos podem provocar um decréscimo significativo das concentrações plasmáticas de
+voriconazol (ver secção 4.5).
+É contraindicada a coadministração de doses padrão de voriconazol com doses de efavirenz de 400
+mg uma vez por dia ou superiores, uma vez que o efavirenz diminui significativamente as
+concentrações plasmáticas de voriconazol em indivíduos saudáveis. O voriconazol também aumenta
+significativamente as concentrações plasmáticas do efavirenz (ver secção 4.5, para dosagens inferiores
+ver secção 4.4).
+Coadministração com doses elevadas de ritonavir (400 mg ou doses superiores, duas vezes por dia),
+uma vez que o ritonavir nestas dosagens diminui significativamente as concentrações plasmáticas de
+voriconazol em indivíduos saudáveis (ver secção 4.5, para dosagens inferiores ver secção 4.4).
+Coadministração com alcaloides da cravagem de centeio (ergotamina, dihidroergotamina), que são
+substratos do CYP3A4, uma vez que o aumento das concentrações plasmáticas destes medicamentos
+pode conduzir ao ergotismo (ver secção 4.5).
+Coadministração com sirolímus, uma vez que o voriconazol pode aumentar significativamente a
+concentração plasmática de sirolímus (ver secção 4.5).
+Coadministração de voriconazol com naloxegol, um substrato do CYP3A4, uma vez que o aumento das
+concentrações plasmáticas de naloxegol pode precipitar os sintomas de privação de opioides (ver
+secção 4.5).
+Coadministração de voriconazol com tolvaptano, uma vez que os inibidores potentes do CYP3A4, tais
+como o voriconazol, aumentam significativamente as concentrações plasmáticas de tolvaptano (ver
+secção 4.5).
+Coadministração de voriconazol com lurasidona, uma vez que aumentos significativos da exposição à
+lurasidona têm o potencial para reações adversas graves (ver secção 4.5).
+
+                                                                                     $3529$'2(0
+
+                                                                                     
+
+                                                                                     ,1)$50('
+
+
+
+Administração concomitante com venetoclax no início e durante a fase de titulação da dose de
+venetoclax, uma vez que é provável que o voriconazol aumente significativamente as concentrações
+plasmáticas de venetoclax e aumente o risco de síndrome de lise tumoral ver secção 4.5).
+4.4 Advertências e precauções especiais de utilização
+Hipersensibilidade
+A prescrição de Voriconazol Normon a doentes com hipersensibilidade a outros azois deverá ser feita
+com precaução (ver secção 4.8).
+Duração do tratamento
+A duração do tratamento com a formulação intravenosa não deve ser superior a 6 meses (ver secção
+5.3).
+Cardiovasculares
+O voriconazol tem sido associado ao prolongamento do intervalo QTc. Têm ocorrido casos raros de
+torsades de pointes em doentes sob terapêutica com voriconazol e com determinados fatores de risco,
+tais como, histórico de quimioterapia cardiotóxica, cardiomiopatia, hipocaliemia e medicação
+concomitante que poderá ter contribuído para o referido efeito. O voriconazol deve ser administrado
+com precaução em doentes com condições pró-arrítmicas potenciais, tais como:
+Prolongamento do intervalo QTc congénito ou adquirido.
+Cardiomiopatia, especialmente quando existe falência cardíaca.
+Bradicardia sinusal.
+Existência de arritmias sintomáticas.
+Medicação concomitante que prolongue o intervalo QTc. As alterações eletrolíticas, tais como
+hipocaliemia, hipomagnesemia e hipocalcemia devem ser monitorizadas e corrigidas, se necessário,
+antes do início da terapêutica com voriconazol e durante o período de tratamento (ver secção 4.2). Foi
+realizado um estudo com voluntários saudáveis em que foi avaliado o efeito no intervalo QTc do
+tratamento com voriconazol, em dose única, com uma dose diária 4 vezes superior à dose
+recomendada. Em nenhum indivíduo se excedeu o limite potencialmente relevante, do ponto de vista
+clínico, de 500 mseg (ver secção 5.1).
+Reações relacionadas com a perfusão
+Durante a administração da formulação intravenosa de voriconazol foram observadas reações
+relacionadas com a perfusão, predominantemente rubor e náuseas. Dependendo da gravidade dos
+sintomas deve considerar-se a interrupção do tratamento (ver secção 4.8).
+Toxicidade hepática
+Nos ensaios clínicos, houve casos de reações hepáticas graves durante a terapêutica com voriconazol
+(nomeadamente hepatite clínica, colestase e falência hepática fulminante, incluindo morte). Foram
+registados casos de reações hepáticas principalmente em doentes com situações clínicas graves
+subjacentes (predominantemente com doença hematológica maligna). Ocorreram reações hepáticas
+transitórias, incluindo hepatite e icterícia, em doentes sem outros fatores de risco identificados. A
+disfunção hepática foi habitualmente reversível com a descontinuação da terapêutica (ver secção 4.8).
+Monitorização da função hepática
+Os doentes em tratamento com Voriconazol Normon devem ser cuidadosamente monitorizado para a
+toxicidade hepática. O controlo clínico deve incluir a avaliação laboratorial da função hepática (mais
+especificamente da AST e da ALT) no início do tratamento com Voriconazol Normon e, no mínimo,
+semanalmente durante o primeiro mês de tratamento. A duração do tratamento deve ser o mais curta
+possível; no entanto, se a avaliação benefício/risco determinar a continuação do mesmo (ver secção
+
+                                                                                      $3529$'2(0
+
+                                                                                      
+
+                                                                                      ,1)$50('
+
+
+4.2), a frequência da monitorização pode ser reduzida a mensal caso não ocorram alterações nos
+testes de função hepática.
+Se os resultados dos testes da função hepática se tornarem acentuadamente elevados, o tratamento
+com Voriconazol Normon deve ser descontinuado, a menos que a avaliação médica do benefício/risco
+do tratamento para o doente justifique a continuação da sua utilização.
+A monitorização da função hepática deve ser realizada em crianças e adultos.
+Reações adversas dermatológicas graves
+Fototoxicidade
+Adicionalmente, voriconazol tem sido associado a reações de fototoxicidade, incluindo reações como
+efélides, lentigo, queratose actínica e pseudoporfíria. Recomenda-se que todos os doentes,
+especialmente as crianças, evitem a exposição à luz solar direta durante o tratamento com Voriconazol
+Normon e que adotem medidas, tais como, o uso de vestuário protetor e protetor solar com elevado
+fator de proteção (FPS).
+Carcinoma espinocelular (CEC)
+Tem sido notificado carcinoma espinocelular (incluindo CEC cutâneo in situ ou doença de Bowen) em
+doentes. Alguns destes doentes já tinham notificado reações de fototoxicidade prévias. Se ocorrerem
+reações de fototoxicidade deve ser solicitada uma avaliação multidisciplinar e deve considerar-se a
+interrupção de Voriconazol Normon e a utilização de agentes antifúngicos alternativos e o doente deve
+ser referenciado para a dermatologia. Caso se mantenha o tratamento com Voriconazol Normon deve
+ser realizada uma avaliação dermatológica de forma sistemática e regular, para permitir a deteção e
+tratamento precoces de lesões pré-cancerígenas. O Voriconazol Normon deve ser interrompido se
+forem identificadas lesões cutâneas pré-cancerígenas ou carcinoma espinocelular (ver secção abaixo
+Tratamento de longa duração).
+Reações adversas cutâneas graves
+Têm sido notificadas reações adversas cutâneas graves (SCARs) com a utilização de voriconazol,
+incluindo a síndrome de Stevens-Johnson (SJS), necrólise epidérmica tóxica (NET) e síndrome induzida
+por fármacos com eosinofilia e sintomas sistémicos (DRESS), que podem ser potencialmente fatais ou
+fatais. Se um doente desenvolver um exantema, esse doente deve ser cuidadosamente monitorizado e
+o Voriconazol Normon deve ser descontinuado se as lesões progredirem.
+Acontecimentos suprarrenais
+Têm sido notificados casos reversíveis de insuficiência suprarrenal em doentes a receber azois,
+incluindo voriconazol. Tem sido notificada insuficiência suprarrenal em doentes a receber azois, com ou
+sem corticosteroides concomitantes. Em doentes a receber azois sem corticosteroides, a insuficiência
+suprarrenal está relacionada com a inibição direta da esteroidogénese pelos azois. Em doentes a tomar
+corticosteroides, a inibição do CYP3A4 associada ao voriconazol do seu metabolismo pode resultar em
+excesso de corticosteroides e em supressão das suprarrenais (ver secção 4.5). Também tem sido
+notificada síndrome de Cushing, com e sem insuficiência suprarrenal subsequente, em doentes a
+receber voriconazol concomitantemente com corticosteroides..
+Os doentes em tratamento de longa duração com voriconazol e corticosteroides (incluindo
+corticosteroides inalados, por exemplo, budesonida e corticosteroides intranasais) devem ser
+cuidadosamente monitorizados quanto à disfunção do córtex adrenal durante o tratamento e quando o
+voriconazol é descontinuado (ver secção 4.5). Os doentes devem ser instruídos para procurar
+assistência médica de imediato se desenvolverem sinais e sintomas de síndrome de Cushing ou de
+insuficiência suprarrenal.
+
+                                                                                      $3529$'2(0
+
+                                                                                      
+
+                                                                                      ,1)$50('
+
+
+Tratamento de longa duração
+A exposição de longa duração (tratamento ou profilaxia) com duração superior a 180 dias (6 meses)
+requer uma cuidadosa avaliação da relação benefício-risco, pelo que os médicos devem considerar a
+necessidade de limitar a exposição ao Voriconazol Normon (ver secções 4.2 e 5.1).
+Tem sido notificado carcinoma espinocelular (incluindo CEC cutâneo in situ ou doença de Bowen)
+relacionado com o tratamento de longa duração com voriconazol.
+Tem sido notificada periostite não-infeciosa com níveis elevados de fluoreto e fosfatase alcalina em
+doentes transplantados. Se um doente desenvolver dor óssea e apresentar achados radiológicos
+compatíveis com periostite, deve considerar-se a interrupção de Voriconazol Normon após avaliação
+multidisciplinar.
+Reações adversas visuais
+Tem havido notificações de reações adversas visuais prolongadas, incluindo visão turva, neurite ótica e
+edema da papila (ver secção 4.8).
+Reações adversas renais
+Foi observada falência renal aguda em doentes em estado grave submetidos a terapêutica com
+voriconazol. É provável que os doentes em tratamento com voriconazol estejam a ser tratados
+concomitantemente com medicamentos nefrotóxicos e apresentem condições simultâneas que possam
+conduzir à diminuição da função renal (ver secção 4.8).
+Monitorização da função renal
+Recomenda-se que os doentes sejam monitorizados quanto ao desenvolvimento de uma função renal
+anómala. A monitorização deve incluir avaliação laboratorial, particularmente da creatinina sérica.
+Monitorização da função pancreática
+Os doentes, especialmente crianças, com fatores de risco para pancreatite aguda [por exemplo,
+quimioterapia recente, transplante de células estaminais hematopoiéticas (HSCT) devem ser
+cuidadosamente monitorizados durante o tratamento com voriconazol. A monitorização da amílase ou
+lípase séricas pode ser considerada nesta situação clínica.
+População pediátrica
+A segurança e a eficácia em doentes pediátricos com idade inferior a dois anos não foram
+estabelecidas (ver igualmente as secções 4.8 e 5.1). O voriconazol está indicado em doentes
+pediátricos com idade igual ou superior a dois anos. Foi registada uma maior frequência no aumento
+das enzimas hepáticas junto da população pediátrica (ver secção 4.8). A função hepática deve ser
+monitorizada nas crianças e nos adultos. A biodisponibilidade oral pode ser limitada em doentes
+pediátricos com idades dos 2 aos <12 anos com má absorção e muito baixo peso corporal para a
+idade. Nesse caso, é recomendada a administração de voriconazol intravenoso.
+Reações adversas dermatológicas graves (incluindo CEC)
+A frequência das reações de fototoxicidade é superior na população pediátrica. Uma vez que foi
+notificada uma evolução no sentido de CEC, são necessárias medidas rigorosas de fotoproteção nesta
+população de doentes. Em crianças que apresentem lesões de fotoenvelhecimento, como lentigos ou
+efélides, recomenda-se que evitem a exposição solar e que recebam acompanhamento dermatológico,
+mesmo após a interrupção do tratamento.
+Profilaxia
+Em caso de eventos adversos relacionados com o tratamento (hepatotoxicidade, reações cutâneas
+graves, incluindo fototoxicidade e CEC, distúrbios oculares graves ou prolongadas e periostite), deve
+considerar-se a interrupção do voriconazol e a utilização de agentes antifúngicos alternativos.
+
+                                                                                       $3529$'2(0
+
+                                                                                       
+
+                                                                                       ,1)$50('
+
+
+
+Fenitoína (substrato do CYP2C9 e potente indutor da CYP450)
+Recomenda-se a monitorização cuidadosa das concentrações de fenitoína, quando esta é
+coadministrada com o voriconazol. O uso concomitante de voriconazol e fenitoína deve ser evitado a
+menos que o benefício compense o risco (ver secção 4.5).
+Efavirenz (indutor do CYP450; inibidor e substrato do CYP3A4)
+Quando o voriconazol é coadministrado com o efavirenz, a dose de voriconazol deverá ser aumentada
+para 400 mg, em intervalos de 12 horas, e a dose de efavirenz deverá ser diminuída para 300 mg, em
+intervalos de 24 horas (ver secções 4.2, 4.3 e 4.5).
+Glasdegib (substrato do CYP3A4)
+É de esperar que a coadministração de voriconazol aumente as concentrações plasmáticas de
+glasdegib e que aumente o risco de prolongamento do intervalo QTc (ver secção 4.5). Se o uso
+concomitante não puder ser evitado, recomenda-se a monitorização frequente do ECG.
+Inibidores da tirosinacinase (substrato do CYP3A4)
+É de esperar que a coadministração de voriconazol com inibidores da tirosinacinase metabolizados pelo
+CYP3A4 aumente as concentrações plasmáticas do inibidor da tirosinacinase e o risco de reações
+adversas. Se o uso concomitante não puder ser evitado, recomenda-se a redução da dose do inibidor
+da tirosinacinase e uma monitorização clínica rigorosa (ver secção 4.5).
+Rifabutina (potente indutor do CYP450)
+Recomenda-se a monitorização cuidadosa do hemograma e dos efeitos adversos à rifabutina (por
+exemplo uveíte), quando esta é coadministrada com voriconazol. O uso concomitante de voriconazol e
+rifabutina deve ser evitado a menos que o benefício compense o risco (ver secção 4.5).
+Ritonavir (indutor potente do CYP450; inibidor e substrato do CYP3A4)
+Deve ser evitada a coadministração de voriconazol e doses baixas de ritonavir (100 mg duas vezes por
+dia) a não ser que a avaliação benefício/risco para o doente justifique a utilização de voriconazol (ver
+secções 4.3 e 4.5).
+Everolímus (substrato do CYP3A4, substrato P-gp)
+Não se recomenda a coadministração de voriconazol com everolímus uma vez que é expectável que o
+voriconazol aumente significativamente as concentrações de everolímus. Atualmente não existem
+dados suficientes para permitir recomendações de dose nesta situação (ver secção 4.5).
+Metadona (substrato do CYP3A4)
+Recomenda-se monitorização frequente das reações adversas e toxicidade relacionados com a
+metadona, incluindo o prolongamento do intervalo QTc, quando esta é coadministrada com
+voriconazol, uma vez que se verifica um aumento dos níveis de metadona após coadministração com
+voriconazol. Poderá ser necessário reduzir a dose de metadona (ver secção 4.5).
+Opiáceos de curta ação (substratos do CYP3A4)
+Deve ser considerada a redução na dose do alfentanilo, fentanilo e outros opiáceos de curta ação com
+estrutura semelhante à do alfentanilo e metabolizados pelo CYP3A4 (por exemplo, sufentanilo),
+quando administrados concomitantemente com voriconazol (ver secção 4.5). Uma vez que a semivida
+do alfentanilo é prolongada em cerca de 4 vezes, quando coadministrado com voriconazol, e num
+estudo independente publicado o uso concomitante de voriconazol com fentanilo resultou num
+aumento da AUC0-∞ média do fentanilo, pode ser necessário uma monitorização frequente das
+reações adversas relacionadas com os opiáceos (incluindo um prolongamento do período de
+monitorização respiratória).
+
+                                                                                    $3529$'2(0
+
+                                                                                    
+
+                                                                                    ,1)$50('
+
+
+Opiáceos de ação prolongada (substratos do CYP3A4)
+Deve ser considerada a redução da dose da oxicodona e outros opiáceos de ação prolongada
+metabolizados pelo CYP3A4 (por exemplo, hidrocodona) quando coadministrados com voriconazol.
+Pode ser necessária a monitorização frequente das reações adversas relacionadas com os opiáceos
+(ver secção 4.5).
+Fluconazol (inibidor do CYP2C9, CYP2C19 e CYP3A4)
+A coadministração oral de voriconazol e fluconazol resultou num aumento significativo na Cmáx e AUCτ
+de voriconazol em indivíduos saudáveis. Não foi estabelecida a redução e/ou a frequência da dose de
+voriconazol e fluconazol que poderia eliminar este efeito. Recomenda-se a monitorização das reações
+adversas associadas ao voriconazol, se o mesmo é usado sequencialmente após o fluconazol (ver
+secção 4.5).
+Excipientes
+Sódio
+Este medicamento contém 35,38 mg de sódio por frasco para injetáveis, equivalente a 1,77% da
+ingestão diária máxima recomendada pela OMS de 2 g de sódio para um adulto.
+Ciclodextrina
+Este medicamento contém 3.200 mg de ciclodextrina em cada frasco para injetáveis que é equivalente
+a 160 mg/ml quando reconstituído em 20 ml, o que pode influenciar as propriedades (tal como
+toxicidade) da substância ativa e outros medicamentos.
+Os aspetos de segurança das ciclodextrinas têm sido considerados durante o desenvolvimento e
+avaliação de segurança do produto acabado.
+Como as ciclodextrinas são excretadas por via renal, pode ocorrer acumulação de ciclodextrina nos
+doentes com disfunção renal moderada a grave.
+4.5 Interações medicamentosas e outras formas de interação
+O voriconazol é metabolizado por, e inibe a atividade das isoenzimas CYP2C19, CYP2C9 e CYP3A4 do
+citocromo P450. Os inibidores ou indutores destas isoenzimas podem aumentar ou diminuir,
+respetivamente, as concentrações plasmáticas de voriconazol, e existe o potencial para o voriconazol
+aumentar as concentrações plasmáticas das substâncias metabolizadas por estas isoenzimas do
+CYP450, em particular para substâncias metabolizadas pelo CYP3A4, uma vez que o voriconazol é um
+inibidor forte do CYP3A4, embora o aumento da AUC seja dependente do substrato (ver Tabela
+abaixo).
+Salvo informação em contrário, os estudos de interação medicamentosa foram realizados em
+indivíduos, adultos do sexo masculino, saudáveis, com doses múltiplas de voriconazol, 200 mg duas
+vezes por dia (BID), por via oral, até ser atingido o estado estacionário. Estes resultados são
+relevantes para outras populações e outras vias de administração.
+O voriconazol deve ser administrado com precaução em doentes com medicação concomitante que se
+saiba prolongar o intervalo QTc. A coadministração é contraindicada quando existe também um
+potencial para o voriconazol aumentar as concentrações plasmáticas de substâncias metabolizadas
+pelas isoenzimas do CYP3A4 (alguns anti-histamínicos, quinidina, cisaprida, pimozida e ivabradina)
+(ver abaixo e ver secção 4.3).
+Tabela de interações
+As interações entre o voriconazol e outros medicamentos estão listadas na tabela abaixo (uma vez por
+dia como “OD”, duas vezes por dia como “BID”, três vezes por dia como “TID” e não determinado
+como “ND”). A direção da seta para cada parâmetro farmacocinético baseia-se no rácio médio
+
+                                                                                        $3529$'2(0
+
+                                                                                        
+
+                                                                                        ,1)$50('
+
+
+geométrico do intervalo de confiança de 90%, sendo dentro (↔), abaixo (↓) ou acima (↑) do intervalo
+de 80-125%. O asterisco (*) indica uma interação de dois sentidos. AUC , AUCt e AUC0-∞
+representam a área sob a curva num intervalo de dose, a área sob a curva desde o tempo zero ao
+tempo com medições detetáveis e a área sob a curva desde o tempo zero até ao infinito,
+respetivamente.
+As interações na tabela são apresentadas na seguinte ordem: contraindicações, as que requerem
+ajuste de dose, as que requerem monitorização clínica e/ou biológica cuidada e, por fim, as que não
+apresentam interações farmacocinéticas significativas mas que podem ter interesse clínico neste
+contexto terapêutico.
+Medicamento      [MecanismoInteração                           Recomendações
+de interação]                  Alterações        geométricas relativas             à
+                               médias (%)                      coadministração
+Astemizol,          cisaprida,Apesar de não ter sido
+pimozida,          quinidina,estudado,         os       níveisContraindicado     (ver
+terfenadina e ivabradina plasmáticos elevados destes secção 4.3)
+[substratos do CYP3A4]         medicamentos            podem
+                               conduzir ao prolongamento
+                               do intervalo QTc e à
+Carbamazepina                eocorrência
+                               Apesar derara  nãode ter
+                                                     torsades
+                                                          sido
+barbitúricos     de      açãoestudado, é provável que a Contraindicado           (ver
+prolongada                (ex. carbamazepina         e      os secção 4.3)
+fenobarbital, mefobarbital) barbitúricos         de      ação
+[potentes indutores doprolongada                    diminuam
+CYP450]                        significativamente           as
+                               concentrações plasmáticas
+                               d             l
+
+
+
+
+
+                                                                                       $3529$'2(0
+
+                                                                                       
+
+                                                                                       ,1)$50('
+
+
+Medicamento      [MecanismoInteração                       Recomendações
+de interação]                 Alterações      geométricas relativas                à
+                             médias (%)                    coadministração
+Efavirenz (inibidor da
+transcriptase reversa não-
+nucleósido)
+[indutor do CYP450, inibidor
+e substrato do CYP3A4]                                     Doses padrão de
+                              Efavirenz Cmax 38%           voriconazol com doses
+Efavirenz 400 mg OD,          Efavirenz AUC      44%       de 400 mg OD ou
+coadministrado com 200 mgVoriconazol Cmax             61%superior de efavirenz é
+BID de voriconazol *         Voriconazol AUC       77% contraindicado           (ver
+                                                           secção4.3).
+                                                           O voriconazol pode ser
+                             Comparando com 600 mgcoadministrado               com
+                             OD de efavirenz,              efavirenz se a dose de
+Efavirenz 300 mg OD,         Efavirenz Cmax ↔              manutenção             do
+coadministrada com 400 mgEfavirenz AUC             17% voriconazol               for
+BID de voriconazol*                                        aumentada para 400 mg
+                             Comparando com 200 mgBID e a dose de
+                             BID de voriconazol,           efavirenz for reduzida
+                             Voriconazol Cmax         23%para 300 mg OD.
+                             Voriconazol AUC         7% Quando o tratamento
+                                                           com o voriconazol for
+                                                           interrompido,       deve
+                                                           retomar-se a dose inicial
+                                                           de efavirenz (ver secção
+                                                           4.2 e 4.4).
+Alcaloides da cravagem de Apesar de não ter sido
+centeio (ex. ergotamina eestudado, o voriconazol podeContraindicado             (ver
+dihidroergotamina)           aumentar as concentrações secção 4.3)
+[substratos do CYP3A4]       plasmáticas dos alcaloides da
+                             cravagem do centeio e
+Lurasidona                        d de não ter sido
+                              Apesar
+[substratos do CYP3A4]       estudado, é provável que oContraindicado           (ver
+                             voriconazol          aumente secção 4.3)
+                             significativamente         as
+                             concentrações plasmáticas
+Naloxegol                    dApesar
+                                 l     dde não ter sido
+[substratos do CYP3A4]       estudado, é provável que oContraindicado           (ver
+                             voriconazol          aumente secção 4.3)
+                             significativamente         as
+                             concentrações plasmáticas
+                             d l          l
+
+
+
+
+
+                                                                                  $3529$'2(0
+
+                                                                                  
+
+                                                                                  ,1)$50('
+
+
+Medicamento     [MecanismoInteração                    Recomendações
+de interação]             Alterações       geométricas relativas             à
+                          médias (%)                   coadministração
+Rifabutina
+[potente indutor do CYP450]                           O uso concomitante de
+                                                      voriconazol e rifabutina
+                                                      deverá ser evitado, a
+300 mg OD                                             menos que o benefício
+                           Voriconazol Cmax        69%supere o risco.
+                           Voriconazol AUC        78% A dose de manutenção
+                                                      do voriconazol pode ser
+300 mg OD (coadministradoComparando com 200 mgaumentada para 5
+com 350 mg BID deBID de voriconazol,                  mg/kg BID por via
+voriconazol) *             Voriconazol Cmax 4% intravenosa ou para 200
+                           Voriconazol AUC        32% mg a 350 mg por via
+                                                      oral, BID (100 mg a 200
+                                                      mg por via oral BID em
+                                                      doentes com peso
+                                                      inferior a 40 kg) (ver
+300 mg OD (coadministradoRifabutina Cmax 195% secção                      4.2).
+com 400 mg BID deRifabutina AUC                  331% Recomenda-se            a
+voriconazol) *                                        monitorização cuidadosa
+                           Comparando com 200 mgda contagem de células
+                           BID de voriconazol,        sanguíneas e reações
+                           Voriconazol Cmax       104%adversas à rifabutina
+                           Voriconazol AUC        87% (ex. uveíte), quando a
+                                                      rifabutina              é
+                                                      coadministrada com o
+Rifampicina (600 mg OD) Voriconazol Cmax           93%Contraindicado       (ver
+[potente indutor do CYP450]Voriconazol AUC        96% secção 4.3)
+Ritonavir (inibidor da
+protease)
+[potente indutor do CYP450;
+inibidor e substrato do
+CYP3A4]                                               A coadministração de
+                           Ritonavir Cmax e AUC ↔ voriconazol e doses
+Dose elevada (400 mg BID) Voriconazol Cmax         66%elevadas de ritonavir
+                           Voriconazol AUC        82% (400 mg e superiores
+                                                      BID) é contraindicada
+                                                      (ver secção 4.3).
+                                                      A coadministração de
+Dose baixa (100 mg BID)*                              voriconazol e doses
+                           Ritonavir Cmax 25%         baixas de ritonavir (100
+                           Ritonavir AUC       13%    mg BID) deve ser
+                           Voriconazol Cmax        24%evitada, a não ser que a
+                           Voriconazol AUC        39% avaliação benefício/risco
+                                                      para o doente justifique
+                                                      a       utilização     de
+                                                      voriconazol.
+
+
+                                                                                    $3529$'2(0
+
+                                                                                    
+
+                                                                                    ,1)$50('
+
+
+Medicamento     [MecanismoInteração                     Recomendações
+de interação]             Alterações        geométricas relativas              à
+                          médias (%)                    coadministração
+Hipericão
+[indutor do CYP450; indutor
+P-gp]                       Num estudo independente Contraindicado           (ver
+300 mg TID (coadministradopublicado,                    secção 4.3)
+com uma dose única deVoriconazol                 AUC0-
+400 mg de voriconazol)                 59%
+Tolvaptano                  Apesar de não ter sido
+[substrato do CYP3A4]       estudado, é provável que oContraindicado         (ver
+                            voriconazol        aumente secção 4.3)
+                            significativamente       as
+                            concentrações plasmáticas
+Venetoclax                  de tolvaptano
+                            Apesar     de não ter sidoA             administração
+[substrato do CYP3A4]       estudado, é provável que oconcomitante             de
+                            voriconazol        aumente voriconazol              é
+                            significativamente       as contraindicada no início
+                            concentrações plasmáticas e durante a fase de
+                            de venetoclax.              titulação da dose de
+                                                        venetoclax (ver secção
+                                                        4.3). É necessária uma
+                                                        redução da dose de
+                                                        venetoclax, segundo as
+                                                        instruções             da
+                                                        informação             de
+                                                        prescrição             do
+                                                        venetoclax, durante a
+                                                        dose diária no estado
+                                                        estacionário;
+                                                        recomenda-se         uma
+                                                        monitorização cuidadosa
+Fluconazol (200 mg OD) Voriconazol Cmax            57%Não foi estabelecida a
+[inibidor do CYP2C9,        Voriconazol AUC       79% redução         e/ou      a
+CYP2C19 e CYP3A4]           Fluconazol Cmax ND          frequência da dose de
+                            Fluconazol AUC ND           voriconazol e fluconazol
+                                                        que poderia eliminar
+                                                        este efeito.
+                                                        Recomenda-se            a
+                                                        monitorização         das
+                                                        reações         adversas
+                                                        associadas             ao
+                                                        voriconazol, caso o
+                                                        mesmo seja usado
+                                                        sequencialmente após o
+
+
+
+
+
+                                                                                         $3529$'2(0
+
+                                                                                         
+
+                                                                                         ,1)$50('
+
+
+Medicamento      [MecanismoInteração                         Recomendações
+de interação]              Alterações            geométricas relativas               à
+                           médias (%)                        coadministração
+Fenitoína                                                    O uso concomitante de
+[substrato do CYP2C9 e                                       voriconazol e fenitoína
+potente indutor do CYP450]                                   deve ser evitado, a
+                                                             menos que o benefício
+                                                             supere       o     risco.
+300 mg OD                                                    Recomenda-se            a
+                              Voriconazol Cmax          49%monitorização cuidadosa
+                              Voriconazol AUC          69% dos níveis plasmáticos
+                                                             da fenitoína.
+                                                             A fenitoína pode ser
+300          mg            ODFenitoína Cmax 67%              coadministrada       com
+(coadministração de 400 mgFenitoína AUC              81% voriconazol se a dose de
+BID com voriconazol)*         Comparando com 200 mgmanutenção                       do
+                              BID de voriconazol,            voriconazo            for
+                              Voriconazol Cmax          34%aumentada para 5
+                              Voriconazol AUC          39% mg/kg BID por via
+                                                             intravenosa ou de
+                                                             200 mg para 400 mg
+                                                             BID por via oral
+                                                             (100 mg para 200 mg
+                                                             BID por via oral em
+Letermovir                    Voriconazole Cmax         39%Se a administração
+[indutor do CYP2C9 eVoriconazole                    AUC0-12concomitante             de
+CYP2C19]                          44%                        voriconazol          com
+                              Voriconazole C12 51% letermovir não puder ser
+                                                             evitada,      monitorizar
+                                                             quanto à perda de
+                                                             eficiência             do
+Glasdegib                                                    voriconazol
+                              Embora não tenha sidoSe o uso concomitante
+[substrato do CYP3A4]         estudado, é provável que onão
+                              voriconazol aumente as puder ser evitado,
+                              concentrações plasmáticas recomenda-se                 a
+                              de glasdegib e que aumente monitorização frequente
+                              o risco de prolongamento dodo ECG (ver secção
+                              intervalo QTc.                 4.4).
+Inibidores da tirosinacinaseEmbora não tenha sidoSe o uso concomitante
+(p.                           estudado, o voriconazolnão
+ex., axitinib, bosutinib,poderá             aumentar      as puder ser evitado,
+cabozantinib,       ceritinib,concentrações plasmáticas recomenda-se a redução
+cobimetinib,     dabrafenib,de           inibidores       da da dose de inibidor da
+dasatinib,          nilotinib,tirosinacinase metabolizados tirosinacinase         (ver
+sunitinib,         ibrutinib,pelo CYP3A4.                    secção 4.4).
+ribociclib)
+
+
+
+
+                                                                                   $3529$'2(0
+
+                                                                                   
+
+                                                                                   ,1)$50('
+
+
+Medicamento     [MecanismoInteração                     Recomendações
+de interação]             Alterações        geométricas relativas             à
+                          médias (%)                    coadministração
+Anticoagulantes
+Varfarina (dose única deO aumento máximo doRecomenda-se                        a
+30 mg, coadministrada comtempo de protrombina foi de,monitorização cuidadosa
+300 mg BID de voriconazol) aproximadamente, 2 vezes. do          tempo        de
+[substrato do CYP2C9]                                    protrombina ou outros
+                                                         testes adequados de
+Outros cumarínicos oraisApesar de não ter sidoanticoagulação, e a dose
+(ex.          femprocumom,estudado, o voriconazol podedos        anticoagulantes
+acenocumarol)               aumentar a concentração deve ser ajustada em
+[substratos do CYP2C9,plasmática                    dos conformidade.
+CYP3A4]                     anticoagulantes cumarínicos
+                            que pode aumentar o tempo
+                            de protrombina.
+Ivacaftor                   Apesar de não ter sidoRecomenda-se                 a
+[substrato do CYP3A4]       estudado, é provável que oredução da dose de
+                            voriconazol aumente as ivacaftor.
+                            concentrações plasmáticas
+                            do ivacaftor com risco de
+                            aumento        dos   efeitos
+Benzodiazepinas             adversos                     Deve ser considerada a
+[substratos do CYP3A4]                                   redução da dose das
+Midazolam (dose única de                                 benzodiazepinas.
+0,05 mg/kg IV)
+                            Num estudo independente
+                            publicado, Midazolam AUC0-
+Midazolam (dose única de∞ 3,7 vezes
+7,5 mg oral)
+                            Num estudo independente
+                            publicado, Midazolam Cmax
+                                3,8 vezes Midazolam
+Outras benzodiazepinas (p. AUC0-∞ 10,3 vezes
+Ex., triazolam, alprazolam)
+                            Apesar de não ter sido
+                            estudado clinicamente, é
+                            provável que o voriconazol
+                            aumente as concentrações
+                            plasmáticas de outras
+                            benzodiazepinas que são
+                            metabolizadas pelo CYP3A4 e
+                            leve a um prolongamento do
+                            efeito sedativo.
+
+
+
+
+
+                                                                                       $3529$'2(0
+
+                                                                                       
+
+                                                                                       ,1)$50('
+
+
+Medicamento     [MecanismoInteração                       Recomendações
+de interação]                Alterações       geométricas relativas                à
+                             médias (%)                   coadministração
+Imunossupressores
+[substratos do CYP3A4]
+Sirolímus (dose única deNum estudo independente A coadministração de
+2 mg)                        publicado,                   voriconazol e sirolímus é
+                             Sirolímus Cmax           6,6 contraindicada        (ver
+                             vezes                        secção 4.3).
+                             Sirolímus AUC0-           11
+Everolímus                   vezes                        Não se recomenda a
+                                                          coadministração         de
+                             Apesar de não ter sidovoriconazol                  com
+                             estudado, é provável que oeverolímus, umas vez
+                             voriconazol         aumente que é expectável que o
+                             significativamente        as voriconazol       aumente
+                             concentrações plasmáticas significativamente as
+                             de everolímus.               concentrações           de
+                                                          everolímus (ver secção
+                                                          4.4).
+Ciclosporina (em indivíduos
+transplantados        renais                              Quando se inicia o
+estáveis em terapia crónica                               voriconazol em doentes
+com ciclosporina)            Ciclosporina Cmax 13% sob terapêutica com
+                             Ciclosporina AUC       70% ciclosporina,
+                                                          recomenda-se a redução
+                                                          da dose da ciclosporina
+                                                          para metade e a
+                                                          monitorização cuidadosa
+                                                          dos seus níveis. Níveis
+                                                          de            ciclosporina
+                                                          aumentados          foram
+                                                          associados               a
+                                                          nefrotoxicidade. Quando
+                                                          o       voriconazol      é
+                                                          descontinuado, os níveis
+                                                          de ciclosporina devem
+                                                          ser       cuidadosamente
+Tacrolímus (dose única de                                 monitorizados e a dose
+0,1 mg/kg)                                                aumentada,              se
+                                                          necessário
+                             Tacrolímus Cmax 117%
+                             Tacrolímus AUCt 221% Quando se inicia o
+                                                          tratamento            com
+                                                          voriconazol em doentes
+                                                          sob terapêutica com
+                                                          tacrolímus, recomenda-
+                                                          se a redução da dose de
+                                                          tacrolímus para um
+                                                          terço da dose inicial e a
+                                                          monitorização cuidadosa
+
+                                                                               $3529$'2(0
+
+                                                                               
+
+                                                                               ,1)$50('
+
+
+Medicamento     [MecanismoInteração                Recomendações
+de interação]             Alterações   geométricas relativas               à
+                          médias (%)               coadministração
+                                                   dos seus níveis. Níveis
+                                                   de            tacrolímus
+                                                   aumentados         foram
+                                                   associados              a
+                                                   nefrotoxicidade.
+                                                   Quando o voriconazol é
+                                                   descontinuado, os níveis
+                                                   de tacrolímus devem ser
+                                                   cuidadosamente
+                                                   monitorizados e a dose
+                                                   aumentada,             se
+                                                   necessário.
+
+
+
+
+
+                                                                                      $3529$'2(0
+
+                                                                                      
+
+                                                                                      ,1)$50('
+
+
+Medicamento      [MecanismoInteração                       Recomendações
+de interação]                Alterações       geométricas relativas               à
+                             médias (%)                    coadministração
+Opiáceos       de       ação                               Deve ser considerada a
+prolongada                                                 redução da dose de
+[substratos do CYP3A4]                                     oxicodona e outros
+                             Num estudo independente opiáceos de acção
+Oxicodona (dose única de publicado,                        prolongada
+10 mg)                       Oxicodona Cmax            1,7 metabolizados       pelo
+                             vezes                         CYP3A4              (ex.
+                             Oxicodona              AUC0-hidrocodona). Pode ser
+                                       3,6 vezes           necessária          uma
+                                                           monitorização frequente
+                                                           das reações adversas
+                                                           associadas aos opiáceosa
+Metadona (32-100 mg OD) R-metadona (activa) Cmax Recomenda-se
+[substrato do CYP3A4]            31%                       monitorização frequente
+                             R-metadona           (activa) das reações adversas e
+                             AUC         47%               toxicidade relacionados
+                             S-metadona Cmax 65% com a metadona,
+                             S-metadona                    incluindo              o
+                             AUC         103%              prolongamento         do
+                                                           intervalo QTc. Poderá
+                                                           ser necessário reduzir a
+                                                           dose de metadona.
+Medicamentos            anti-
+inflamatórios não esteróides
+(AINE)                                                     Recomenda-se           a
+ [substratos do CYP2C9]                                    monitorização frequente
+                             S-Ibuprofeno Cmax 20% das reações adversas e
+Ibuprofeno (dose única de S-Ibuprofeno              AUC0-toxicidade relacionadas
+400 mg)                                100%                com os AINE.
+                                                           Pode ser necessária a
+Diclofenac (dose única de Diclofenac Cmax 114% redução da dose dos
+50 mg)                       Diclofenac             AUC0-AINE.
+Omeprazol (40 mg OD)                   78%
+                             Omeprazol Cmax 116% Não é recomendado
+[inibidor do CYP2C19;Omeprazol AUC                  280%ajuste posológico do
+substrato do CYP2C19 e doVoriconazol Cmax             15%voriconazol.
+CYP3A4]                      Voriconazol AUC         41%
+                                                           Quando se inicia o
+                             Outros inibidores da bomba tratamento             com
+                             de protões que são substrato voriconazol em doentes
+                             do CYP2C19 também podem em terapêutica com
+                             ser inibidos pelo voriconazoldose de 40 mg ou
+                             e pode resultar numsuperiores                       de
+                             aumento das concentrações omeprazol, recomenda-
+                             plasmáticas            destes se que a dose de
+                             medicamentos.                 omeprazol seja reduzida
+
+
+
+
+                                                                                        $3529$'2(0
+
+                                                                                        
+
+                                                                                        ,1)$50('
+
+
+Medicamento        [MecanismoInteração                      Recomendações
+de interação]                 Alterações        geométricas relativas               à
+                              médias (%)                    coadministração
+Contracetivos orais*          Etinilestradiol Cmax 36%Recomenda-se                  a
+[substrato do CYP3A4;Etinilestradiol                        monitorização         das
+inibidor do CYP2C19]          AUC           61%             reações adversas dos
+Noretisterona/etinilestradiol Noretisterona Cmax 15%contraceptivos orais,
+(1 mg/0,035 mg OD)            Noretisterona                 adicionalmente aos do
+                              AUC           53%             voriconazol.
+                              Voriconazol Cmax        14%
+Opiáceos de curta ação                                      Deve considerar-se a
+[substratos do CYP3A4]                                      redução na dose de
+                                                            alfentanilo, fentanilo e
+Alfentanilo (dose única de                                  outros opiáceos de curta
+20 µg/kg, com naloxonaNum estudo independente ação com estrutura
+concomitante)                 publicado,                    semelhante à           do
+                              Alfentanilo AUC0-           6alfentanilo              e
+                              vezes                         metabolizados        pelo
+Fentanilo (dose única de 5                                  CYP3A4               (ex.
+µg/kg)                        Num estudo independente sufentanilo).
+                              publicado                     Recomenda-se            a
+                              Fentanilo AUC0-         1,34monitorização
+                              vezes                         prolongada e frequente
+                                                            para a depressão
+                                                            respiratória e reações
+                                                            adversas      associadas
+Estatinas (ex. lovastatina) Apesar de não ter sidoSe a administração
+[substratos do CYP3A4]        estudado, é provável que oconcomitante               de
+                              voriconazol aumente as voriconazol                 com
+                              concentrações plasmáticas estatinas metabolizadas
+                              das estatinas que são pelo CYP3A4 não puder
+                              metabolizadas pelo CYP3A4 eser evitaada, deve
+                              pode levar a rabdomiólise. considerar-se a redução
+                                                            da dose das estatinas.
+Sulfonilureias                Apesar de não ter sidoRecomenda-se                    a
+(ex.tolbutamida,              estudado, é provável que omonitorização cuidadosa
+glipizida, gliburida)         voriconazol aumente os da glicemia. Deve ser
+[substratos do CYP2C9]        níveis plasmáticos das considerada a redução
+                              sulfonilureias e cause da               dose        das
+                              hi    li    i                    lf  il  i
+Alcaloides da vinca (ex. Apesar de tal não ter sidoDeve ser considerada a
+vincristina e vinblastina) estudado, é provável que oredução da dose dos
+[substratos do CYP3A4]        voriconazol aumente as alcalóides da vinca.
+                              concentrações plasmáticas
+                              dos alcaloides da vinca e
+                              cause neurotoxicidade.
+
+
+
+
+
+                                                                                       $3529$'2(0
+
+                                                                                       
+
+                                                                                       ,1)$50('
+
+
+Medicamento        [MecanismoInteração                       Recomendações
+de interação]                Alterações        geométricas relativas               à
+                             médias (%)                      coadministração
+Outros       inibidores    daNão        foi       estudado Pode ser necessário o
+protease do VIH (ex. clinicamente.                           ajuste da dose e a
+saquinavir, amprenavir eEstudos in vitro mostram que monitorização cuidadosa
+nelfinavir)*                 o voriconazol pode inibir opara                qualquer
+[substratos e inibidores dometabolismo dos inibidores ocorrência de toxicidade
+CYP3A4]                      da protease do VIH e que o medicamentosa e/ou
+                             metabolismo do voriconazolperda de eficácia.
+                             pode também ser inibido
+Outros Inibidores daNãol i ibidfoi d estudado         t Pode ser necessário o
+transcriptase reversa não-clinicamente.                      ajuste da dose e a
+nucleósidos (ITRNN) (ex. Estudos in vitro mostram que monitorização cuidadosa
+delavirdina, nevirapina)* o          metabolismo          dopara            qualquer
+[substratos do CYP3A4,voriconazol pode ser inibidoocorrência de toxicidade
+inibidores ou indutores dopelos ITRNN e o voriconazolmedicamentosa e/ou
+CYP450]                      pode inibir o metabolismoperda de eficácia.
+                             dos ITRNN. Os achados do
+                             efeito do efavirenz no
+                             voriconazol sugerem que o
+                             metabolismo de voriconazol
+Tretinoína                   pode
+                             Emboraser não
+                                         induzido
+                                               tenhapor sido
+                                                         umRecomenda-se o ajuste
+[substrato do CYP3A4]        estudado, o voriconazolda dose de tretinoína
+                             poderá       aumentar        as durante o tratamento
+                             concentrações de tretinoína e com voriconazol e após
+                             aumentar o risco de reações a sua descontinuação.
+                             adversas        (pseudotumor
+                             cerebral, hipercalcemia).
+Cimetidina (400 mg BID) Voriconazol Cmax 18% Não é necessário ajuste
+[inibidor não específico do Voriconazol AUC           23% de dose.
+CYP450 e aumenta o pH
+gástrico]
+Digoxina (0,25 mg OD)        Digoxina Cmax ↔                 Não é necessário ajuste
+[substrato P-gp]             Digoxina AUC ↔                  de dose.
+Indinavir (800 mg TID)       Indinavir Cmax ↔                Não é necessário ajuste
+[inibidor e substrato do     Indinavir AUC ↔                 de dose.
+CYP3A4]                      Voriconazol Cmax ↔
+                             Voriconazol AUC ↔
+Antibióticos macrólidos                                      Não é necessário ajuste
+                                                             de dose.
+Eritromicina (1 g BID)       Voriconazol       Cmax        e
+[inibidor do CYP3A4]         AUC ↔
+Azitromicina (500 mg OD)
+                            Voriconazol    Cmax       e
+                            AUC ↔
+                            Desconhece-se o efeito do
+                            voriconazol na eritromicina
+                                    it i i
+
+                                                                                         $3529$'2(0
+
+                                                                                         
+
+                                                                                         ,1)$50('
+
+
+Medicamento       [MecanismoInteração                       Recomendações
+de interação]                Alterações       geométricas relativas                  à
+                             médias (%)                     coadministração
+Ácido micofenólico (doseÁcido micofenólico Cmax ↔ Não é necessário ajuste
+única de 1 g)                Ácido micofenólico AUCt ↔ de dose.
+[substrato      da      UDP-
+glucorunil transferase]
+Corticosteroides
+Prednisolona (dose única dePrednisolona Cmax           11%Não é necessário ajuste
+60 mg)                       Prednisolona            AUC0-de dose.
+[substrato do CYP3A4]                   34%
+                                                            Os       doentes       em
+                                                            tratamento de longa
+                                                            duração com voriconazol
+                                                            e         corticosteroides
+                                                            (incluindo
+                                                            corticosteroides
+                                                            inalados, por exemplo,
+                                                            budesonida               e
+                                                            corticosteroides
+                                                            intranasais) devem ser
+                                                            cuidadosamente
+                                                            monitorizados quanto à
+                                                            disfunção do córtex
+                                                            adrenal durante o
+                                                            tratamento e quando o
+                                                            voriconazol              é
+                                                            discontinuado         (ver
+Ranitidina (150 mg BID) Voriconazol           Cmax        e Não é necessário ajuste
+[aumento do pH gástrico] AUC ↔                              de dose.
+Flucloxacilina               Foram              notificadas Se a administração
+[Indutor do CYP450]          concentrações plasmáticas concomitante                 de
+                             de                voriconazolvoriconazol             com
+                             significativamente reduzidas. flucloxacilina não puder
+                                                            ser evitada, monitorizar
+                                                            quanto à potencial perda
+                                                            de       eficácia       do
+                                                            voriconazol (p. ex.,
+                                                            através                 da
+                                                            monitorização
+                                                            terapêutica             de
+                                                            fármacos); poderá ser
+                                                            necessário aumentar a
+                                                            dose de voriconazol.
+4.6 Fertilidade, gravidez e aleitamento
+Gravidez
+Não existem dados adequados sobre a utilização do voriconazol na mulher grávida.
+
+
+                                                                                     $3529$'2(0
+
+                                                                                     
+
+                                                                                     ,1)$50('
+
+
+Estudos em animais revelaram toxicidade reprodutiva (ver secção 5.3). Desconhece-se o risco
+potencial para o ser humano.
+Voriconazol Normon não pode ser utilizado durante a gravidez, exceto quando o benefício para a mãe
+compense claramente o risco potencial para o feto.
+Mulheres com potencial para engravidar
+As mulheres com potencial para engravidar deverão utilizar sempre um método contracetivo eficaz
+durante o tratamento.
+Amamentação
+A excreção do voriconazol no leite materno não foi investigada. Deverá interromper-se a amamentação
+aquando da iniciação do tratamento com Voriconazol Normon.
+Fertilidade
+Num estudo em animais, não foi demonstrada redução na fertilidade em ratos macho e fêmea (ver
+secção 5.3).
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+Os efeitos de voriconazol sobre a capacidade de conduzir e utilizar máquinas são moderados. Pode
+causar alterações transitórias e reversíveis na visão, incluindo visão turva, perceção visual
+alterada/aumentada e/ou fotofobia. Os doentes devem evitar tarefas potencialmente perigosas como
+conduzir ou utilizar maquinaria enquanto estes sintomas se manifestarem.
+4.8 Efeitos indesejáveis
+Resumo do perfil de segurança
+O perfil de segurança do voriconazol em adultos é suportado por uma base integrada de dados de
+segurança de mais de 2000 indivíduos (incluindo 1603 doentes adultos em ensaios terapêuticos) e 270
+adultos adicionais em ensaios profiláticos. Esta representa uma população heterogénea, contendo
+indivíduos com doença hematológica maligna, doentes infetados com VIH com candidíase esofágica e
+infeções fúngicas refratárias, doentes não-neutropénicos com candidemia ou aspergilose e voluntários
+saudáveis.
+As reações adversas mais frequentemente notificadas incluíram insuficiência visual, pirexia, erupção
+cutânea, vómitos, náuseas, diarreia, cefaleias, edema periférico, parâmetros da função hepática
+anómalos, dificuldade respiratória e dor abdominal.
+Em geral, as reações adversas apresentaram uma gravidade ligeira a moderada. Não foram
+observadas diferenças clinicamente significativas quando os dados de segurança foram analisados por
+idade, raça ou sexo.
+Lista tabelar de reações adversas
+Atendendo a que a maioria dos estudos não apresentavam ocultação, todas as reações adversas com
+possível relação causal com o fármaco em estudo e respetivas categorias de frequência observadas em
+1873 adultos incluídos em estudos terapêuticos (1603) e profiláticos (270) combinados, estão listadas,
+por classe de sistemas de órgãos, na tabela abaixo.
+As categorias de frequência são expressas como: Muito frequentes (≥1/10); Frequentes (≥ 1/100,
+<1/10); Pouco frequentes (≥1/1.000, <1/100); Raros (≥1/10.000, <1/1.000); Muito raros
+<1/10.000); Desconhecido (não pode ser calculado a partir dos dados disponíveis).
+
+                                                                                     $3529$'2(0
+
+                                                                                     
+
+                                                                                     ,1)$50('
+
+
+Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe
+de frequência.
+Efeitos indesejáveis notificados em indivíduos que receberam voriconazol:
+Classes de Muito              Frequentes         Pouco frequentes Raros                Desconheci
+Sistemas de frequentes        ≥1/100, <1/10      ≥1/1.000,        ≥1/10.000,           do      (não
+Órgãos      ≥1/10                                <1/100           <1/1.000             pode ser
+                                                                                       calculado a
+                                                                                       partir dos
+                                                                                       dados
+                                                                                       disponíveis)
+Infeções e                    sinusite           colite
+infestações                                      pseudomembran
+                                                 osa
+Neoplasias                                                                             carcinoma
+benignas                                                                               espinocelul
+malignas e                                                                             ar
+não                                                                                    (incluindo
+especificadas                                                                          CEC
+(incl. quistos                                                                         cutâneo in
+e pólipos)                                                                             situ      ou
+                                                                                       doença de
+                                                                                       Bowen) *
+Doenças do                    agranulocitose1, insuficiência da coagulação
+sangue e do                   pancitopenia,     medula óssea, intravascular
+sistema                       trombocitopenia2 linfadenopatia,    disseminada
+linfático                     ,     leucopenia, eosinofilia
+                              anemia
+Doenças do                                      hipersensibilidad reação
+sistema                                         e                 anafilactoide
+imunitário
+Doenças                                          Insuficiência     hipertiroidismo
+endócrinas                                       suprarrenal,
+                                                 hipotiroidismo
+Doenças do edema              hipoglicemia,
+metabolismo periférico        hipocaliemia,
+e da nutrição                 hiponatremia
+Perturbações                  depressão,
+do        foro                alucinação,
+psiquiátrico                  ansiedade,
+                              insónia,
+                              agitação, estado
+                              confusional
+
+
+
+
+
+                                                                                    $3529$'2(0
+
+                                                                                    
+
+                                                                                    ,1)$50('
+
+
+Doenças do cefaleia            convulsão,        edema cerebral, encefalopatia
+sistema                        síncope, tremor, encefalopatia4, hepática,
+nervoso                        hipertonia3,      afeção              síndrome de
+                               parestesia,       extrapiramidal5, Guillain-Barré,
+                               sonolência,       neuropatia          nistagmo
+                               tonturas          periférica, ataxia,
+                                                 hipoestesia,
+                                                 disgeusia
+Afeções        insuficiência   hemorragia        afeção do nervo atrofia ótica,
+oculares       visual6         retiniana         ótico7,             opacidade da
+                                                 edema papilar8, córnea
+                                                 crise oculógira,
+                                                 diplopia,
+                                                 esclerite,
+                                                 blefarite
+Afeções do                                       hipoacusia,
+ouvido e do                                      vertigem,
+labirinto                                        acufenos
+Cardiopatias                   arritmia          fibrilhação         torsades      de
+                               supraventricular, ventricular,        pointes,
+                               taquicardia,      extrassístoles      bloqueio
+                               bradicardia       ventriculares,      auriculoventricu
+                                                 taquicardia         l ar completo,
+                                                 ventricular,        bloqueio      do
+                                                 intervalo       QT tronco, ritmo
+                                                 prolongado          nodal
+                                                 (ECG),
+                                                 taquicardia
+                                                 supraventricular
+Vasculopatia                   hipotensão,       tromboflebite,
+s                              flebite           linfangite
+Doenças        dificuldade     síndrome     de
+respiratórias, respiratória9 dificuldade
+torácicas e                    respiratória
+do                             aguda, edema
+mediastino                     pulmonar
+Doenças        diarreia,       queilite,       peritonite,
+gastrointesti vómito, dor dispepsia,           pancreatite,
+na is          abdominal,      obstipação,     tumefação da
+               náuseas         gengivite       língua,
+                                               duodenite,
+                                               gastroenterite,
+                                               glossite
+Afeções        prova        da icterícia,      insuficiência
+hepatobiliare função           icterícia       hepática,
+s              hepática        colestática,    hepatomegalia,
+               anormal         hepatite10      colecistite,
+                                               litíase biliar
+
+
+
+                                                                        $3529$'2(0
+
+                                                                        
+
+                                                                        ,1)$50('
+
+
+Afeções dos erupção    dermatite         síndrome       de necrólise       lúpus
+tecidos     cutânea    exfoliativa,      Stevens-          epidérmica      eritematoso
+cutâneos e             alopecia, erupção Johnson8,         tóxica8,        cutâneo*,
+subcutâneos            maculopapulosa, fototoxicidade,     síndrome        efélides*,
+                       prurido, eritema púrpura,           induzida por lentigos*
+                                         urticária,        fármacos com
+                                         dermatite         eosinofilia e
+                                         alérgica, erupção sintomas
+                                         papulosa,         sistémicos
+                                         erupção           (DRESS)8,
+                                         maculosa,         angiedema,
+                                         eczema            queratose
+                                                           actínica*,
+                                                           pseudoporfiria,
+                                                           eritema
+                                                           multiforme,
+                                                           psoríase,
+                                                           erupção
+                                                           medicamentosa
+Afeções                dorsalgia         artrite                           periostite*
+musculosque
+lé ticas e dos
+tecidos
+conjuntivos
+Doenças                insuficiência       necrose tubular
+renais       e         renal       aguda, renal,
+urinárias              hematúria           proteinúria,
+                                           nefrite
+Perturbações pirexia   dor       torácica, reação no local
+gerais      e          edema facial11, de            infusão,
+alterações             astenia, arrepios estado gripal
+no local de
+administraçã
+o
+Exames                 creatininemia       ureia no sangue
+complement             aumentada           aumentada,
+ar es de                                   colesterolemia
+diagnóstico                                aumentada
+
+
+
+
+
+                                                                     $3529$'2(0
+
+                                                                     
+
+                                                                     ,1)$50('
+
+
+*Reações adversas identificadas no período de pós-comercialização
+1 Inclui neutropenia febril e neutropenia.
+2 Inclui púrpura trombocitopénica imune.
+3 Inclui rigidez da nuca e tetania.
+4 Inclui encefalopatia hipóxico-isquémica e encefalopatia metabólica.
+5 Inclui acatisia e parkinsonismo.
+6 Ver “Insuficiências visuais” na secção 4.8.
+7 Foi notificada neurite ótica prolongada no período de pós-comercialização. Ver
+secção 4.4.
+8 Ver secção 4.4.
+9 Inclui dispneia e dispneia de esforço.
+10 Inclui lesão hepática induzida por fármacos, hepatite tóxica, lesão traumática
+hepatocelular e hepatotoxicidade.
+11 Inclui edema periorbitário, edema labial e edema da boca.
+Descrição de reações adversas selecionadas
+Insuficiências visuais
+Em ensaios clínicos, as insuficiências visuais (incluindo visão turva, fotofobia,
+cloropsia, cromatopsia, daltonismo, cianopsia, deficiência da visão, visão em halo,
+cegueira noturna, oscilopsia, fotopsia, escotoma cintilante, acuidade visual
+diminuída, nitidez visual, defeito do campo visual, moscas volantes e xantopsia) com
+voriconazol foram muito frequentes. Estas insuficiências visuais foram transitórias e
+totalmente reversíveis, sendo a maioria de resolução espontânea em 60 minutos e
+não se observaram efeitos clinicamente significativos a longo prazo. Existiu evidência
+de atenuação dos sintomas com doses repetidas de voriconazol. As insuficiências
+visuais foram geralmente ligeiras, resultando raramente em descontinuação, e não
+foram associadas a sequelas a longo prazo. As insuficiências visuais podem ser
+associadas a concentrações plasmáticas e/ou doses mais elevadas.
+O mecanismo de ação é desconhecido, embora o local de ação mais provável seja a
+zona interna da retina. Num estudo realizado em voluntários saudáveis em que foi
+analisado o impacto do voriconazol sobre a função da retina, verificou-se que o
+voriconazol causou uma diminuição da amplitude das ondas do eletrorretinograma
+(ERG). O ERG permite medir as correntes elétricas na retina. As alterações do ERG
+não progrediram ao longo dos 29 dias de tratamento e reverteram totalmente com a
+descontinuação do tratamento com voriconazol.
+Ocorreram notificações no período pós-comercialização de eventos adversos visuais
+prolongados (ver secção 4.4).
+Reações dermatológicas
+Nos ensaios clínicos realizados, observou-se que as reações dermatológicas eram
+muito comuns em doentes tratados com voriconazol, contudo estes doentes
+apresentavam doenças subjacentes graves e estavam a receber múltiplos
+medicamentos concomitantes. A maioria dos casos de exantema foi de gravidade
+
+                                                                      $3529$'2(0
+
+                                                                      
+
+                                                                      ,1)$50('
+
+
+ligeira a moderada. Durante o tratamento com voriconazol, os doentes
+desenvolveram reações adversas cutâneas graves (SCARs), incluindo síndrome de
+Stevens-Johnson (SJS) (pouco frequente), necrólise epidérmica tóxica (NET) (raro),
+síndrome induzida por fármacos com eosinofilia e sintomas sistémicos (DRESS)
+(raro) e eritema multiforme (raro) (ver secção 4.4).
+Caso o doente desenvolva exantema deverá ser cuidadosamente monitorizado e o
+voriconazol descontinuado se as lesões progredirem. Foram relatadas reações de
+fotossensibilidade, como efélides, lentigos e queratose actínica, especialmente em
+terapêuticas de longo prazo (ver secção 4.4).
+Tem havido notificações de carcinoma espinocelular (incluindo CEC cutâneo in situ ou
+doença de Bowen) em doentes tratados com voriconazol por longos períodos de
+tempo; não foi estabelecido o mecanismo (ver secção 4.4).
+Testes da função hepática
+A incidência global das transaminases aumentadas >3 xULN (não incluindo
+necessariamente uma reação adversa) no programa clínico do voriconazol foi de
+18,0% (319/1768) em adultos e 25,8% (73/283) em indivíduos pediátricos que
+receberam voriconazol para utilização terapêutica e profilática combinada. As
+alterações dos testes de função hepática podem ser associadas a concentrações e/ou
+doses plasmáticas mais elevadas. A maioria das alterações dos testes de função
+hepática foi resolvida durante o tratamento sem ajuste de dose ou após o ajuste de
+dose, incluindo descontinuação do tratamento.
+O voriconazol foi associado a casos de toxicidade hepática grave em doentes com
+outras situações subjacentes graves. Tal inclui casos de icterícia, hepatite e falência
+hepática levando a morte (ver secção 4.4).
+Reações relacionadas com a perfusão
+Durante a perfusão da formulação intravenosa do voriconazol em indivíduos
+saudáveis ocorreram reações do tipo anafilactoide, incluindo rubor, febre, sudação,
+taquicardia, aperto no peito, dispneia, desmaios, náuseas, prurido e exantema. Os
+sintomas surgiram imediatamente após o início da perfusão (ver igualmente secção
+4.4).
+Profilaxia
+Num estudo aberto, comparativo, multicêntrico de comparação entre voriconazol e
+itraconazol, como profilaxia primária, em recetores adultos e adolescentes de HSCT
+alogénico sem IFI anterior comprovada ou provável, a interrupção permanente do
+voriconazol devido a eventos adversos foi notificada em 39,3% dos indivíduos versus
+39,6% dos indivíduos no braço do itraconazol. Os eventos adversos hepáticos
+emergentes do tratamento resultaram na interrupção permanente da medicação do
+estudo em 50 indivíduos (21,4%) tratados com voriconazol e em 18 indivíduos
+(7,1%) tratados com itraconazol.
+
+                                                                      $3529$'2(0
+
+                                                                      
+
+                                                                      ,1)$50('
+
+
+
+População pediátrica
+A segurança de voriconazol foi investigada em 288 doentes pediátricos com idades
+dos 2 aos <12 anos (169) e dos 12 aos <18 anos (119) que receberam voriconazol
+para utilização profilática (183) e terapêutica (105) em ensaios clínicos. A segurança
+de voriconazol foi também investigada em 158 doentes pediátricos adicionais com
+idades dos 2 aos <12 anos em programas de uso compassivo. No global, o perfil de
+segurança de voriconazol na população pediátrica foi semelhante ao dos adultos. No
+entanto, no que respeita às reações adversas, foi registada uma tendência para uma
+maior frequência de enzimas hepáticas elevadas nos doentes pediátricos em
+comparação com os adultos (14,2% das transaminases aumentaram nos doentes
+pediátricos em comparação com 5,3% nos adultos). Os dados pós-comercialização
+sugerem poder haver uma maior ocorrência de reações cutâneas (principalmente
+eritema) nos doentes pediátricos, em comparação com os adultos. Nos 22 doentes
+com idade inferior a 2 anos que receberam voriconazol num programa de uso
+compassivo, registaram-se as seguintes reações adversas (para os quais não se
+pode excluir uma relação com o voriconazol): reação de fotossensibilidade (1),
+arritmia (1), pancreatite (1), bilirrubina plasmática aumentada (1), elevação das
+enzimas hepáticas (1), erupção cutânea (1) e papiloedema (1). Têm existido
+notificações pós-comercialização de pancreatite em doentes pediátricos .
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-
+risco do medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer
+suspeitas de reações adversas através de:
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou               através               dos               seguintes           contactos:
+Direção         de         Gestão          do        Risco        de     Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+e-mail: farmacovigilancia@infarmed.pt
+4.9 Sobredosagem
+Em ensaios clínicos houve 3 casos de sobredosagem acidental. Ocorreram todos em
+doentes pediátricos, que receberam, por via intravenosa, até cinco vezes a dose de
+voriconazol recomendada. Foi notificada apenas uma reação adversa de fotofobia
+com a duração de 10 minutos.
+Não é conhecido o antídoto para o voriconazol.
+
+                                                                    $3529$'2(0
+
+                                                                    
+
+                                                                    ,1)$50('
+
+
+
+O voriconazol é hemodialisável com uma clearance de 121 ml/min. O veículo
+intravenoso, o hidroxipropil betadex, é hemodialisado com uma depuração de
+37,5 ± 24 ml/min. Em caso de sobredosagem, a hemodiálise pode contribuir para a
+remoção do voriconazol e do hidroxipropil betadex do organismo.
+
+5. PROPRIEDADES FARMACOLÓGICAS
+5.1 Propriedades farmacodinâmicas
+Grupo farmacoterapêutico: Antimicóticos para uso sistémico; derivados triazólicos,
+código ATC: J02A C03
+Modo de ação
+O voriconazol é um agente antifúngico triazólico. O principal modo de ação do
+voriconazol é a inibição do citocromo P450 fúngico mediado pela desmetilação do 14
+alfa-lanosterol, uma etapa essencial na biossíntese do ergosterol fúngico. A
+acumulação do esterol 14 alfa-metilo está relacionada com a subsequente perda de
+ergosterol na membrana da célula fúngica e pode ser responsável pela atividade
+antifúngica do voriconazol. O voriconazol demonstrou ser mais seletivo para as
+enzimas fúngicas do citocromo P450, do que para vários sistemas enzimáticos do
+citocromo P450 dos mamíferos.
+Relação farmacocinética/farmacodinâmica
+Em 10 estudos terapêuticos, a mediana das concentrações plasmáticas média e
+máxima, em cada indivíduo, ao longo dos estudos foi de 2425 ng/ml (intervalo
+interquartil de 1193 a 4380 ng/ml) e de 3742 ng/ml (intervalo interquartil de 2027 a
+6302 ng/ml), respetivamente. Não foi encontrada uma associação positiva entre a
+concentração plasmática mínima, máxima ou média de voriconazol e a eficácia em
+estudos terapêuticos e esta relação não foi explorada em estudos em profilaxia.
+A análise farmacocinética-farmacodinâmica de dados de ensaios clínicos identificou
+associações positivas entre as concentrações plasmáticas de voriconazol e ambas as
+alterações dos testes da função hepática e os distúrbios oculares. Os ajustes de dose
+não foram explorados em estudos em profilaxia.
+Eficácia e segurança clínicas
+In vitro, o voriconazol, apresenta atividade antifúngica de largo espetro com ação
+contra espécies de Candida (incluindo C. krusei resistente ao fluconazol e estirpes
+resistentes de C. glabrata e C. albicans) e atividade fungicida contra todas as
+espécies de Aspergillus testadas. Adicionalmente, o voriconazol apresenta atividade
+fungicida in vitro contra agentes patogénicos fúngicos emergentes, incluindo
+Scedosporium ou Fusarium que possuem sensibilidade limitada aos agentes
+antifúngicos existentes.
+
+                                                                       $3529$'2(0
+
+                                                                       
+
+                                                                       ,1)$50('
+
+
+
+Tem sido demonstrada eficácia clínica, definida como resposta completa ou parcial
+para Aspergillus spp., incluindo A. flavus, A. fumigatus, A. terreus, A. niger, A.
+nidulans; Candida spp., incluindo C. albicans, C. glabrata, C. krusei, C. parapsilosis e
+C. tropicalis e um número limitado de C. dubliniensis, C. inconspicua e C.
+guilliermondii, Scedosporium spp. incluindo S. apiospermum, S. prolificans; e
+Fusarium spp.
+Outras infeções fúngicas tratadas (frequentemente com resposta completa ou
+parcial) incluem casos isolados de Alternaria spp., Blastomyces dermatitidis,
+Blastoschizomyces capitatus, Cladosporium spp., Coccidioides immitis, Conidiobolus
+coronatus, Cryptococcus neoformans, Exserohilum rostratum, Exophiala spinifera,
+Fonsecaea pedrosoi, Madurella mycetomatis, Paecilomyces lilacinus, Penicillium spp.,
+incluindo P. marneffei, Phialophora richardsiae, Scopulariopsis brevicaulis e
+Trichosporon spp. incluindo infeções por T. beigelii.
+Tem sido observada atividade in vitro contra os agentes isolados na clínica de
+Acremonium spp., Alternaria spp., Bipolaris spp., Cladophialophora spp. e
+Histoplasma capsulatum sendo a maioria das estirpes inibida por concentrações de
+voriconazol no intervalo de 0,05 a 2 µg/ml.
+Foi demonstrada atividade in vitro para os agentes patogénicos que se seguem,
+sendo o significado clínico desconhecido: Curvularia spp. e Sporothrix spp.
+Parâmetros de avaliação
+Antes do início da terapêutica devem ser obtidas amostras para cultura fúngica e
+para outros estudos laboratoriais relevantes (serologia, histopatologia) para isolar e
+identificar os microrganismos causais. A terapêutica pode ser instituída antes do
+resultado das culturas e de outros estudos laboratoriais serem conhecidos; no
+entanto, logo que estes resultados estejam disponíveis, a terapêutica anti-infeciosa
+deve ser ajustada em conformidade.
+As espécies envolvidas com maior frequência em infeções humanas incluem: C.
+albicans , C. parapsilosis, C. tropicalis, C. glabrata e C. krusei, as quais exibem
+usualmente concentrações inibitórias mínimas (CIM) de menos de 1 mg/L para o
+voriconazol.
+No entanto, a atividade in vitro do voriconazol contra espécies de Candida não é
+uniforme. Especificamente para a C. glabrata, as CIM do voriconazol para agentes
+isolados resistentes ao fluconazol são proporcionalmente maiores que as CIM do
+voriconazol para agentes isolados sensíveis ao fluconazol. Desta forma, devem ser
+feitas todas as tentativas para identificar a Candida ao nível da espécie. Se estiver
+disponível um teste de sensibilidade antifúngica, os resultados da CIM podem ser
+interpretados utilizando o critério de breakpoint estabelecido pelo Comité Europeu de
+Avaliação de Suscetibilidade Antimicrobiana (EUCAST).
+
+                                                                        $3529$'2(0
+
+                                                                        
+
+                                                                        ,1)$50('
+
+    
+
+    Breakpoints do EUCAST
+Espécies de Candida e Aspergillus       Concentração Inibitória Mínima (CIM) breakpoint (mg/l)
+                                          ≤S (Sensível)                   >R (Resistente)
+Candida albicans1                         0,06                            0,25
+Candida dubliniensis1                     0,06                            0,25
+Candida glabrata                          Evidência insuficiente (EI)     EI
+Candida krusei                            EI                              EI
+Candida parapsilosis1                     0,125                           0,25
+Candida tropicalis1                       0,125                           0,25
+Candida guilliermondii2                   EI                              EI
+Breakpoints não relacionados com a EI                                     EI
+espécie
+para Candida3
+Aspergillus fumigatus4                    1                               1
+Aspergillus nidulans4                     1                               1
+Aspergillus flavus                        EI5                             EI5
+Aspergillus niger                         EI5                             EI5
+Aspergillus terreus                       EI5                             EI5
+Breakpoints não relacionados com a EI                                     EI
+espécie6
+1 Estirpes com valores de CIM acima do breakpoint Sensível/Intermediário (S/I) são raras, ou ainda
+não foram notificadas. Os testes de identificação e de sensibilidade antifúngica efetuados a qualquer
+um destes agentes isolados devem ser repetidos, e se o resultado for confirmado, o agente isolado
+deve ser enviado para um laboratório de referência. Até existirem evidências relativamente à
+resposta clínica para isolados confirmados com CIM acima do breakpoint resistente atual, devem ser
+notificadas como sendo resistentes. Foi alcançada uma resposta clínica de 76% em infeções causadas
+pelas espécies listadas a seguir quando as CIM eram iguais ou inferiores aos cut-offs
+epidemiológicos. Por conseguinte, as populações de tipo selvagem de C. albicans, C. dubliniensis, C.
+parapsilosis e C. tropicalis são consideradas sensíveis.
+2 Os valores de cut-off epidemiológicos (ECOFF) para estas espécies são, em geral, superiores aos
+de C. albicans.
+3 Os breakpoints não relacionados com a espécie têm sido determinados, principalmente, com base
+nos dados de farmacocinética e farmacodinâmica e são independentes das distribuições da CIM de
+espécies específicas de Candida. Destinam-se a ser utilizados apenas para organismos que não
+possuem breakpoints específicos.
+4 A área de incerteza técnica (ATU) é de 2. Notificar como R com o seguinte comentário: “Em
+algumas situações clínicas (formas de infeção não invasivas), o voriconazol pode ser utilizado, desde
+que seja garantida uma exposição suficiente”.
+5 Os ECOFF para estas espécies são, em geral, uma diluição duas vezes superior à de A. fumigatus.
+6 Os breakpoints não relacionados com a espécie não foram determinados.
+
+    
+                                                                       $3529$'2(0
+
+                                                                       
+
+                                                                       ,1)$50('
+
+
+Experiência clínica
+ Nesta secção o sucesso do tratamento é definido em termos de resposta completa
+ou parcial.
+Infeções por Aspergillus – eficácia em doentes com aspergilose com mau prognóstico
+O voriconazol possui atividade fungicida in vitro contra Aspergillus spp. A eficácia e o
+benefício em termos de sobrevida do voriconazol versus anfotericina B convencional
+no tratamento primário da aspergilose invasiva aguda foram demonstrados num
+estudo multicêntrico, aberto e randomizado, em 277 doentes imunocomprometidos
+tratados durante 12 semanas. Voriconazol foi administrado por via intravenosa com
+uma dose de carga de 6 mg/kg de 12 em 12 horas nas primeiras 24 horas, seguido
+de uma dose de manutenção de 4 mg/kg de 12 em 12 horas por um período mínimo
+de 7 dias. A terapêutica pode depois ser alterada para a formulação oral, na dose de
+200 mg a cada 12 horas. A duração média da terapêutica com voriconazol IV foi de
+10 dias (intervalo de 2-85 dias). Após a terapêutica intravenosa com voriconazol, a
+duração média da terapêutica com voriconazol oral foi de 76 dias (intervalo de 2-232
+dias).
+Foi observada uma resposta global satisfatória (resolução parcial ou completa de
+todos os sinais e sintomas atribuíveis, alterações radiográficas/broncoscópicas
+presentes inicialmente) em 53% dos doentes tratados com voriconazol
+comparativamente a 31% dos doentes tratados com o comparador. A taxa de
+sobrevivência ao dia 84 para o voriconazol foi estatística e significativamente
+superior ao registado para o comparador, tendo sido observado um benefício
+estatisticamente significativo a favor do voriconazol, quer no tempo até à morte
+como no tempo até à descontinuação, por toxicidade.
+Este estudo confirma os achados de um estudo anterior prospetivo, de resultado
+clínico positivo, em doentes que apresentavam fatores de mau prognóstico, incluindo
+doença do enxerto contra o hospedeiro (DecH) e, em particular, infeções cerebrais
+(normalmente associadas a uma mortalidade de 100%).
+Estes estudos incluíram doentes com transplante de medula óssea e transplantados
+de órgãos sólidos, doenças hematológicas malignas, cancro e SIDA, com aspergilose
+cerebral, sinusal, pulmonar e disseminada.
+Candidemia em doentes não neutropénicos
+Foi demonstrada a eficácia do voriconazol no tratamento primário da candidemia,
+comparando com um regime de anfotericina B seguido de fluconazol, num estudo
+comparativo aberto. Foram incluídos no estudo trezentos e setenta doentes não
+neutropénicos (acima dos 12 anos) com candidemia documentada, dos quais 248
+foram tratados com voriconazol. Nove indivíduos do grupo tratado com voriconazol e
+5 do grupo tratado com anfotericina B seguida de fluconazol também apresentavam
+infeção micológica documentada do tecido profundo. Os doentes com compromisso
+renal foram excluídos deste estudo. A duração média do tratamento foi de 15 dias
+
+                                                                    $3529$'2(0
+
+                                                                    
+
+                                                                    ,1)$50('
+
+
+em ambos os braços de tratamento. Numa análise primária, definiu-se resposta
+positiva como resolução/melhoria de todos os sinais e sintomas clínicos de infeção
+com erradicação de Candida do sangue e tecidos profundos infetados, 12 semanas
+após a conclusão do tratamento (End of Therapy – EOT); esta resposta positiva foi
+avaliada por uma Comissão de Revisão de Dados (Data Review Committee – DRC),
+que desconhecia o medicamento do estudo. Os doentes que não foram avaliados 12
+semanas após a conclusão do tratamento foram considerados como falências. Com
+esta análise demonstrou-se uma resposta de sucesso em 41% dos doentes de
+ambos os braços de tratamento.
+Numa análise secundária, que utilizou avaliações DRC no tempo máximo disponível
+(EOT, ou 2, 6 ou 12 semanas após EOT), as taxas de sucesso foram de 65% para o
+voriconazol e 71% para o regime de anfotericina B seguida por fluconazol.
+Apresenta-se na tabela seguinte a avaliação efetuada pelo investigador dos
+resultados positivos para cada um destes pontos temporais.
+
+                                       Voriconazol      Anfotericina B
+         Tempo                         (N=248)          → fluconazol
+                                                        (N=122)
+         EOT                           178 (72%)        88 (72%)
+         2 semanas após EOT            125 (50%)        62 (51%)
+         6 semanas após EOT            104 (42%)        55 (45%)
+         12 semanas após EOT           104 (42%)        51 (42%)
+Infeções graves refratárias por Candida spp
+O estudo envolveu 55 doentes com infeções sistémicas refratárias graves por
+Candida spp. (incluindo candidemia, candidíase disseminada e outras candidíases
+invasivas) em que o tratamento antifúngico anterior, particularmente com fluconazol,
+foi ineficaz. Foi observada resposta com sucesso em 24 doentes (15 respostas
+completas, 9 respostas parciais). Em espécies não-albicans resistentes ao fluconazol
+obteve-se sucesso no tratamento de 3/3 infeções por C. krusei (respostas
+completas) e de 6/8 infeções por C. glabrata (5 respostas completas, 1 resposta
+parcial). Os dados de eficácia clínica foram suportados por dados de sensibilidade
+limitados.
+Infeção por Scedosporium spp. e Fusarium spp
+O voriconazol mostrou ser eficaz contra os seguintes agentes patogénicos fúngicos
+raros:
+Scedosporium spp.: Foi observado sucesso terapêutico com voriconazol em 16 (6
+respostas completas, 10 respostas parciais) de 28 doentes com S. apiospermum e
+em 2 (ambos resposta parcial) de 7 doentes com infeção por S. prolificans.
+
+                                                                         $3529$'2(0
+
+                                                                         
+
+                                                                         ,1)$50('
+
+     
+     Adicionalmente, foi observado sucesso terapêutico em um de três doentes com
+     infeções causadas por mais do que um organismo, incluindo Scedosporium spp.
+     Fusarium spp.: Sete (3 respostas completas, 4 respostas parciais) de 17 doentes
+     foram tratados com sucesso com voriconazol. Destes 7 doentes, 3 tinham infeção
+     ocular, 1 infeção sinusal e 3 infeção disseminada. Quatro doentes adicionais com
+     fusariose tinham infeção causada por vários organismos; 2 destes doentes
+     apresentaram sucesso terapêutico.
+     A maioria dos doentes medicados com voriconazol para as infeções raras acima
+     mencionadas era intolerante, ou refratárias, à terapêutica antifúngica anterior.
+     Profilaxia primária de infeções fúngicas invasivas – Eficácia em recetores de HSCT
+     sem IFI prévia comprovada ou provável
+     O voriconazol foi comparado ao itraconazol como profilaxia primária num estudo
+     aberto, comparativo, multicêntrico de recetores adultos e adolescentes de HSCT
+     alogénico sem IFI prévia comprovada ou provável. O sucesso foi definido como a
+     capacidade de continuar a profilaxia com o fármaco em estudo durante 100 dias
+     após o HSCT (sem interrupção durante >14 dias) e de sobrevida sem IFI
+     comprovada ou provável durante 180 dias após o HSCT. O grupo em intenção de
+     tratar modificada (MITT) incluiu 465 recetores de HSCT alogénico, sendo que 45%
+     dos doentes tinham leucemia mieloide aguda (LMA). De todos os doentes, 58%
+     foram sujeitos a regimes de condicionamento mieloablativo. A profilaxia com o
+     fármaco em estudo foi iniciada imediatamente após o HSCT: 224 doentes receberam
+     voriconazol e 241 receberam itraconazol. A duração mediana da profilaxia com o
+     fármaco em estudo foi de 96 dias para o voriconazol e 68 dias para o intraconazol no
+     grupo MITT.
+     As taxas de sucesso e outros parâmetros de avaliação secundárias são apresentadas
+     na tabela seguinte:
+                                                       Diferença           na
+Parâmetros de avaliação do Voriconazol Itraconazol percentagem              e Valor p
+estudo                         N=224       N=241       intervalo de confiança
+                                                       (IC) de 95%
+Sucesso no dia 180*            109 (48,7%) 80 (33,2%) 16,4%           (7,7%,0,0002**
+Sucesso no dia 100             121 (54,0%) 96 (39,8%) 15,4%           (6,6%,0,0006**
+Completou pelo menos 100 dias120 (53,6%) 94 (39,0%) 14,6%             (5,6%,0,0015
+de profilaxia com o fármaco em                         23,5%)
+Sobreviveu até ao dia 180      184 (82,1%) 197 (81,7%) 0.4% (-6,6%, 7,4%) 0,9107
+Desenvolveu IFI comprovada ou3 (1,3%) 5 (2,1%) -0,7% (-3,1%, 1,6%) 0,5390
+provável até ao dia 180
+
+     
+                                                                       $3529$'2(0
+
+                                                                       
+
+                                                                       ,1)$50('
+
+     
+
+Desenvolveu IFI comprovada ou2 (0,9%) 4 (1,7%) -0,8% (-2,8%, 1,3%) 0,4589
+provável até ao dia 100
+Desenvolveu IFI comprovada ou
+provável durante o tratamento 0               3 (1,2%) -1,2% (-2,6%, 0,2%) 0,0813
+com o fármaco em estudo
+     * Parâmetro de avaliação primário do estudo
+     ** Diferença na percentagem, IC de 95% e valores obtidos após o ajuste para
+     aleatorização
+     A taxa de superinfeção FI até ao Dia 180 e o parâmetro de avaliação primário do
+     estudo, que é o sucesso ao Dia 180, para doentes com LMA e regimes de
+     condicionamento mieloablativo, respetivamente, são indicadas na tabela seguinte:
+     LMA
+Parâmetro de avaliação do Voriconazol         Itraconazol Diferença
+                                                          intervalo
+                                                                    na percentagem e
+                                                                    de confiança (IC)
+estudo                    (N=98)              (N=109)     de 95%
+Superinfeção FI – Dia 180      1 (1,0%)       2 (1,8%)    -0,8% (-4,0%, 2,4%) **
+Sucesso ao Dia 180*            55 (56,1%) 45 (41,3%) 14,7% (1,7%, 27,7%)***
+     *Parâmetro de avaliação primário do estudo
+     ** Utilizando uma margem de 5%, é demonstrada a não inferioridade
+     *** Diferença na percentagem, IC de 95% obtidos após o ajuste para aleatorização
+     Regimes de condicionamento mieloablativo
+Parâmetro de avaliação do Voriconazol         Itraconazol Diferença
+                                                          intervalo
+                                                                    na percentagem e
+                                                                    de confiança (IC)
+estudo                    (N=125)             (N=143)     de 95%
+Superinfeção FI – Dia 180      2 (1,6%)       3 (2,1%)    -0,5% (-3,7%, 2,7%) **
+Sucesso ao Dia 180*            70 (56,0%) 53 (37,1%) 20,1% (8,5%, 31,7%)***
+     * Parâmetro de avaliação primário do estudo
+     ** Utilizando uma margem de 5%, é demonstrada a não inferioridade
+     *** Diferença na percentagem, IC de 95% obtidos após o ajuste para aleatorização
+     Profilaxia secundária de IFI – Eficácia em recetores de HSCT com IFI prévia
+     comprovada ou provável
+     O voriconazol foi estudado como profilaxia secundária num estudo aberto, não-
+     comparativo, multicêntrico de recetores adultos de HSCT alogénico com IFI prévia
+     comprovada ou provável. O parâmetro de avaliação primário foi a taxa de ocorrência
+     
+                                                                    $3529$'2(0
+
+                                                                    
+
+                                                                    ,1)$50('
+
+
+de IFI comprovada e provável durante o primeiro ano após o HSCT. O grupo MITT
+incluiu 40 doentes com IFI prévia, incluindo 31 com aspergilose, 5 com candidíase e
+4 com outras IFI. A duração mediana da profilaxia com o fármaco em estudo foi de
+95,5 dias no grupo MITT.
+Durante o primeiro ano após o HSCT, 7,5% (3/40) dos doentes desenvolveram IFI
+comprovadas ou prováveis, incluindo um caso de candidemia, um de infeção por
+Scedosporium (ambos recidivas de IFI prévias) e um de zigomicose. A taxa de
+sobrevivência ao Dia 180 foi de 80,0% (32/40) e a taxa de sobrevivência após um
+ano foi de 70,0% (28/40).
+Duração do tratamento
+Em ensaios clínicos, 705 doentes receberam terapêutica com voriconazol por mais do
+que 12 semanas, com 164 doentes a receber voriconazol por mais do que 6 meses.
+População pediátrica
+Cinquenta e três doentes pediátricos com idades dos 2 aos <18 anos foram tratados
+com voriconazol em dois ensaios clínicos prospetivos, abertos, não-comparativos e
+multicêntricos. Um estudo incluiu 31 doentes com uma possível, comprovada ou
+provável aspergilose invasiva (AI), dos quais 14 doentes tinham AI comprovada ou
+provável e foram incluídos nas análises de eficácia MITT. O segundo estudo incluiu
+22 doentes com candidíase invasiva, incluindo candidemia (ICC), e candidíase
+esofágica (CE) que necessitavam de terapia primária ou salvage, dos quais 17
+estavam incluídos nas análises de eficácia MITT. Para os doentes com AI, as
+variações gerais da resposta global às 6 semanas foram de 64,3% (9/14), a resposta
+global foi de 40% (2/5) para doentes com idades dos 2 aos <12 anos e 77,8% (7/9)
+para doentes com idades dos 12 aos <18 anos. Para os doentes com ICC, a resposta
+global no final do tratamento foi de 85,7% (6/7) e para os doentes com CE, a
+resposta global no final do tratamento foi de 70% (7/10). A variação geral da
+resposta (ICC e CE combinados) foi de 88,9% (8/9) para doentes com idades dos 2
+aos <12 anos e de 62,5% (5/8) para doentes com idades dos 12 aos <18 anos.
+Ensaios clínicos para avaliar o intervalo QTc
+Foi conduzido um ensaio clínico aleatorizado, controlado com placebo, cruzado, de
+dose única, em voluntários saudáveis, para avaliar o efeito da administração, por via
+oral, de 3 doses de voriconazol e cetoconazol no intervalo QTc. O aumento máximo
+médio do QTc ajustado ao placebo, a partir da linha basal, após a administração de
+800, 1200 e 1600 mg de voriconazol, foi de 5,1; 4,8 e 8,2 mseg respetivamente, e
+7,0 mseg após a administração de 800 mg de cetoconazol. Nenhum indivíduo de
+nenhum dos grupos em estudo apresentou um aumento ≥ 60 mseg do QTc
+relativamente à linha basal. Não se verificou, em nenhum indivíduo, um aumento do
+intervalo que excedesse o limite, potencialmente relevante do ponto de vista clínico,
+de 500 mseg.
+5.2 Propriedades farmacocinéticas
+
+                                                                    $3529$'2(0
+
+                                                                    
+
+                                                                    ,1)$50('
+
+
+
+Características farmacocinéticas gerais
+A farmacocinética do voriconazol foi caracterizada em indivíduos saudáveis,
+populações especiais e doentes. Durante a administração por via oral de 200 mg ou
+300 mg duas vezes por dia, durante 14 dias, em doentes com risco de aspergilose
+(principalmente doentes com neoplasias malignas do tecido linfático ou
+hematopoiético), as características farmacocinéticas observadas de absorção rápida
+e consistente, a acumulação e a farmacocinética não linear estavam de acordo com
+as registadas em indivíduos saudáveis.
+A farmacocinética do voriconazol é não linear devido à saturação do seu
+metabolismo. Com o aumento da dose o aumento na exposição observado é superior
+ao proporcional. Estima-se que, em média, o aumento da dose oral de 200 mg duas
+vezes por dia para 300 mg duas vezes por dia, leva a um aumento de 2,5 vezes na
+exposição (AUCτ). A dose de manutenção oral de 200 mg (ou 100 mg para doentes
+com peso inferior a 40 kg) atinge uma exposição semelhante a 3 mg/kg de
+voriconazol IV. Uma dose de manutenção oral de 300 mg (ou 150 mg para doentes
+com peso inferior a 40 kg) atinge uma exposição semelhante a 4 mg/kg de
+voriconazol IV. Quando os regimes de dose de carga por via oral ou intravenosa
+recomendados são administrados, são atingidas concentrações plasmáticas perto do
+estado estacionário nas primeiras 24 horas de dose. Sem a dose de carga, ocorre
+acumulação durante a administração de doses múltiplas duas vezes por dia, sendo
+as concentrações plasmáticas de voriconazol atingidas pelo 6º dia, na maioria dos
+indivíduos.
+A segurança a longo prazo de HPBCD em humanos é limitada a 21 dias (250
+mg/kg/dia).
+Absorção
+O voriconazol é rápida e quase totalmente absorvido após administração por via oral,
+com concentrações plasmáticas máximas (Cmax) atingidas 1-2 horas após a dose. A
+biodisponibilidade absoluta do voriconazol após administração oral é estimada como
+sendo de 96%. Quando doses múltiplas de voriconazol são administradas com
+refeições com alto teor lipídico, a Cmax e a AUCτ são reduzidas em 34% e 24%,
+respetivamente. A absorção do voriconazol não é afetada por alterações no pH
+gástrico.
+Distribuição
+Estima-se que o volume de distribuição do voriconazol no estado estacionário seja de
+4,6 L/kg o que sugere uma extensa distribuição nos tecidos. Estima-se que a ligação
+às proteínas plasmáticas seja de 58 %.
+Num programa de uso compassivo, as amostras do líquido cefalorraquidiano (LCR)
+de oito doentes apresentavam concentrações detetáveis de voriconazol em todos os
+doentes.
+
+                                                                  $3529$'2(0
+
+                                                                  
+
+                                                                  ,1)$50('
+
+
+
+Biotransformação
+Estudos in vitro mostraram que o voriconazol é metabolizado pelas isoenzimas
+hepáticas CYP2C19, CYP2C9 e CYP3A4 do citocromo P450.
+A variabilidade interindividual da farmacocinética do voriconazol é elevada.
+Estudos in vivo indicaram que o CYP2C19 está significativamente envolvido no
+metabolismo do voriconazol. Esta enzima apresenta polimorfismo genético. Por
+exemplo, poder-se-á esperar que 15-20% da população Asiática seja metabolizadora
+fraca. Para Caucasianos e Negros a prevalência de metabolizadores fracos é de 3-
+5%. Estudos efetuados em indivíduos Caucasianos e Japoneses saudáveis mostraram
+que os metabolizadores fracos têm, em média, exposição (AUCτ) ao voriconazol 4
+vezes superior à dos homozigóticos de metabolização extensa. Os indivíduos
+heterozigóticos de metabolização extensa têm, em média, exposição ao voriconazol
+2 vezes superior à dos homozigóticos de metabolização extensa.
+O principal metabolito do voriconazol é o N-óxido, que representa 72% dos
+metabolitos radiomarcados circulantes no plasma. Este metabolito possui atividade
+antifúngica mínima e não contribui para a eficácia geral do voriconazol.
+Eliminação
+O voriconazol é eliminado por metabolização hepática com menos de 2% da dose
+excretada inalterada na urina.
+Após a administração de uma dose de voriconazol radiomarcada, aproximadamente
+80% da radioatividade é recuperada na urina após administração intravenosa
+múltipla e 83% na urina após administração oral múltipla. A maioria (> 94%) da
+radioatividade total é excretada nas primeiras 96 horas após administração oral e
+intravenosa.
+A semivida terminal do voriconazol depende da dose e é de aproximadamente 6
+horas com 200 mg (oral). Devido à farmacocinética não linear, a semivida terminal
+não é útil para a previsão da acumulação ou da eliminação do voriconazol.
+Em relação ao excipiente hidroxipropil-ß-ciclodextrina (HPBCD), as ciclodextrinas
+administradas por via intravenosa desaparecem rapidamente da circulação sistémica,
+sendo excretadas de forma intacta por via renal. Em todas as espécies animais
+testadas, o volume de distribuição no estado estacionário, tanto para as β-
+ciclodextrinas como para a maioria dos seus derivados quimicamente modificados,
+corresponde ao respectivo volume de fluido extracelular.
+Isto indica que as ciclodextrinas absorvidas sistemicamente distribuem-se
+essencialmente no compartimento extracelular, não estando envolvidos outros
+compartimentos profundos ou espaços intracelulares. Em todas as espécies testadas,
+a depuraçãoclearance total do plasma para a hidroxipropil-ß-ciclodextrina e
+
+                                                                       $3529$'2(0
+
+                                                                       
+
+                                                                       ,1)$50('
+
+
+sulfobutileter-β-ciclodextrina é similar à taxa de filtração glomerular de cada espécie,
+sendo 100% da dose administrada recuperada na urina dentro de 6 a 12 horas após
+administração por via intravenosa.
+Farmacocinética em grupos especiais de doentes
+Género
+Num estudo de dose oral múltipla, a Cmax e a AUCτ em indivíduos jovens e
+saudáveis do sexo feminino foram, respetivamente, 83% e 113% superiores às de
+indivíduos jovens e saudáveis do sexo masculino (18-45 anos). No mesmo estudo
+não foram observadas diferenças significativas na Cmax nem na AUCτ entre os
+indivíduos idosos e saudáveis do sexo masculino e os indivíduos idosos e saudáveis
+do sexo feminino (≥ 65 anos).
+No programa clínico, não foi feito ajuste posológico com base no sexo. O perfil de
+segurança e as concentrações plasmáticas observadas em doentes do sexo
+masculino e em doentes do sexo feminino foram similares. Consequentemente, não
+é necessário ajuste posológico com base no sexo.
+Idosos
+Num estudo de dose oral múltipla, a Cmax e a AUCτ em indivíduos idosos e
+saudáveis do sexo masculino (≥ 65 anos) foram, respetivamente, 61% e 86%
+superiores às de indivíduos jovens e saudáveis do sexo masculino (18-45 anos). Não
+foram observadas diferenças significativas na Cmax nem na AUCτ entre os indivíduos
+idosos e saudáveis do sexo feminino (≥ 65 anos) e os indivíduos jovens e saudáveis
+do sexo feminino (18-45 anos).
+Nos estudos terapêuticos não foi feito ajuste posológico com base na idade. Foi
+observada uma relação entre as concentrações plasmáticas e a idade. No entanto, o
+perfil de segurança do voriconazol em doentes jovens e idosos foi similar e,
+consequentemente, não é necessário ajuste posológico para o idoso (ver secção
+4.2).
+População pediátrica
+As doses recomendadas para doentes adolescentes e crianças são baseadas numa
+análise populacional da farmacocinética com um conjunto de dados de 112 doentes
+pediátricos imunocomprometidos com idades compreendidas entre os 2 e <12 anos e
+de 26 doentes adolescentes imunocomprometidos com idades compreendidas entre
+os 12 e <17 anos. Doses intravenosas múltiplas de 3, 4, 6, 7 e 8 mg/kg duas vezes
+por dia e doses orais múltiplas (usando o pó para suspensão oral) de 4 mg/kg, 6
+mg/kg e 200 mg duas vezes por dia, foram avaliadas em três estudos
+farmacocinéticos pediátricos. As doses de carga intravenosa de 6 mg/kg duas vezes
+no primeiro dia seguidas por doses intravenosas de 4 mg/kg duas vezes por dia e
+comprimidos orais de 300 mg duas vezes ao dia, foram avaliadas num estudo
+
+
+                                                                    $3529$'2(0
+
+                                                                    
+
+                                                                    ,1)$50('
+
+
+farmacocinético de adolescentes. Foi observada uma maior variabilidade
+interindividual em doentes pediátricos comparativamente aos adultos.
+A comparação entre os dados de farmacocinética da população adulta e pediátrica
+indica que a exposição total prevista (AUCτ) em crianças, após a administração de
+uma dose de carga intravenosa de 9 mg/kg foi comparável à dos adultos após uma
+dose de carga intravenosa de 6 mg/kg. A exposição total prevista em crianças, após
+doses de manutenção intravenosas de 4 e 8 mg/kg duas vezes por dia foi
+comparável à dos adultos após 3 e 4 mg/kg intravenosos duas vezes por dia,
+respetivamente. A exposição total prevista em crianças, após uma dose de
+manutenção oral de 9 mg/kg (máximo de 350 mg) duas vezes por dia foi comparável
+à dos adultos após 200 mg por via oral duas vezes por dia. Uma dose intravenosa de
+8 mg/kg intravenosa proporcionará uma exposição ao voriconazol aproximadamente
+2 vezes superior à dose oral de 9 mg/kg.
+A dose de manutenção mais elevada por via intravenosa em doentes pediátricos em
+relação à dos adultos, reflete a maior capacidade de eliminação dos doentes
+pediátricos, devido a uma maior massa hepática em relação à massa corporal. A
+biodisponibilidade oral pode ser, contudo, limitada em doentes pediátricos com má
+absorção e muito baixo peso corporal para a idade. Nesse caso, é recomendada a
+administração intravenosa de voriconazol.
+As exposições ao voriconazol na maioria dos doentes adolescentes foram
+comparáveis às dos adultos que receberam os mesmos regimes de dose. No entanto,
+observou-se uma exposição inferior ao voriconazol em alguns adolescentes jovens
+com baixo peso corporal, em comparação com os adultos.É provável que estes
+indivíduos possam metabolizar o voriconazol de modo mais semelhante às crianças
+do que aos adolescentes/adultos. Com base na análise farmacocinética da
+população, os adolescentes entre os 12-14 anos com peso inferior a 50 kg devem
+receber doses recomendadas a crianças (ver secção 4.2).
+Compromisso renal
+Em doentes com uma função renal normal, o perfil farmacocinético de hidroxipropil-
+ß-ciclodextrina, um componente do voriconazol 200 mg pó para solução para
+perfusão, apresenta uma semivida curta de 1 a 2 horas e não demonstra acumulação
+após doses diárias sucessivas. Em indivíduos saudáveis e em doentes com
+insuficiência renal ligeira a moderada, a maioria (> 85%) de uma dose de 8 g de
+hidroxipropil-ß-ciclodextrina é eliminada na urina.
+Em indivíduos com compromisso renal ligeiro, moderado e grave, os valores de
+semivida aumentaram acima dos valores normais em, aproximadamente, duas,
+quatro e seis vezes, respetivamente. Nestes doentes, as perfusões sucessivas podem
+resultar em acumulação de hidroxipropil-ß-ciclodextrina até que seja atingido o
+estado estacionário. O hidroxipropil-ß-ciclodextrina é removido por hemodiálise, com
+uma depuração de 37,5 ± 24 ml/min (ver secções 4.2 e 4.4).
+
+
+                                                                    $3529$'2(0
+
+                                                                    
+
+                                                                    ,1)$50('
+
+
+Compromisso hepático
+Após a administração de uma dose oral única (200 mg), a AUC foi 233% superior em
+indivíduos com cirrose hepática ligeira a moderada (Child-Pugh A e B) em relação
+aos indivíduos com função hepática normal. A ligação do voriconazol às proteínas
+não foi alterada pelo compromisso hepático.
+Num estudo oral de dose múltipla, a AUCτ foi similar em indivíduos com cirrose
+hepática moderada (Child-Pugh B) aos quais foi administrada a dose de manutenção
+de 100 mg duas vezes por dia e em indivíduos com função hepática normal, aos
+quais foram administrados 200 mg duas vezes por dia. Não estão disponíveis dados
+de farmacocinética para doentes com cirrose hepática grave (Child-Pugh C) (ver
+secções 4.2 e 4.4).
+5.3 Dados de segurança pré-clínica
+Os estudos de toxicidade por doses repetidas com voriconazol revelaram que o
+fígado é o órgão alvo. À semelhança de outros agentes antifúngicos, ocorreu
+hepatotoxicidade com exposições plasmáticas semelhantes às obtidas com doses
+terapêuticas no ser humano. No rato, ratinho e cão, o voriconazol induziu igualmente
+alterações suprarrenais mínimas. Estudos convencionais de farmacologia de
+segurança, genotoxicidade ou potencial carcinogénico, não revelaram perigo especial
+para o ser humano.
+Em estudos de reprodução, verificou-se que o voriconazol é teratogénico em ratos e
+embriotóxico em coelhos para exposições sistémicas iguais às obtidas no ser humano
+após administração de doses terapêuticas. No estudo de desenvolvimento pré-e pós-
+natal em ratos para exposições inferiores às obtidas no ser humano após
+administração de doses terapêuticas, o voriconazol prolongou a duração do período
+de gestação e trabalho de parto e produziu distocia com consequente mortalidade
+materna e redução da sobrevida perinatal das crias. Os efeitos sobre o trabalho de
+parto são provavelmente mediados por mecanismos específicos da espécie,
+envolvendo redução dos níveis de estradiol, e são consistentes com os observados
+com outros agentes antifúngicos azólicos. A administração de voriconazol não induziu
+diminuição da fertilidade masculina ou feminina em ratos, com exposições
+semelhantes às obtidas em humanos em doses terapêuticas.
+Hidroxipropil-ß-ciclodextrina
+Os dados pré- clínicos não revelam riscos especiais para o ser humano, com base em
+estudos convencionais de toxicidade por dose repetida, genotoxicidade e toxicidade
+na reprodução e desenvolvimento. Num estudo de carcinogenicidade em ratos, a
+hidroxipropil-ß-ciclodextrina provocou adenocarcinoma do intestino grosso e
+adenocarcinomas do pâncreas exócrino.Estes resultados não foram observados num
+estudo de carcinogenicidade semelhante realizado em ratinhos. A relevância clínica
+do adenocarcionoma do intestino grosso é baixa e o mecanismo de indução de
+
+                                                                    $3529$'2(0
+
+                                                                    
+
+                                                                    ,1)$50('
+
+
+adenocarcinomas do pâncreas exócrino não é considerado relevante para o ser
+humano.
+
+6. INFORMAÇÕES FARMACÊUTICAS
+6.1 Lista dos excipientes
+Hidroxipropil betadex
+Cloreto de sódio
+6.2 Incompatibilidades
+O Voriconazol Normon não deve ser administrado por perfusão na mesma via ou
+cânula, concomitantemente com outros produtos intravenosos. O saco deve ser
+verificado para garantir que a perfusão está completa. Quando a perfusão de
+Voriconazol Normon estiver completa, a via poderá ser utilizada para a administração
+de outros produtos intravenosos.
+Derivados sanguíneos e perfusão a curto-prazo de soluções de eletrólitos
+concentradas: As alterações eletrolíticas, como hipocaliemia, hipomagnesemia e
+hipocalcemia deverão ser corrigidas antes do início da terapêutica com voriconazol
+(ver secções 4.2 e 4.4). O Voriconazol Normon não deverá ser administrado
+simultaneamente com nenhum derivado sanguíneo nem com nenhuma perfusão a
+curto-prazo de soluções de eletrólitos concentradas, mesmo que as duas perfusões
+ocorram em vias separadas.
+Nutrição parentérica total A nutrição parentérica total (NPT) não necessita ser
+interrompida quando prescrita com Voriconazol Normon, mas necessita ser
+administrada por perfusão através de uma via separada. Se administrada por
+perfusão através de um cateter de lúmen múltiplo, a NTP necessita ser administrada
+utilizando uma entrada diferente da utilizada para o Voriconazol Normon. Voriconazol
+Normon não deve ser diluído com uma solução de 4,2% de bicarbonato de sódio
+para perfusão. A compatibilidade com outras concentrações não é conhecida.
+Este medicamento não pode ser misturado com outros medicamentos, exceto os
+mencionados na secção 6.6.
+6.3 Prazo de validade
+18 meses.
+Do ponto de vista microbiológico, este produto deve ser utilizado imediatamente uma
+vez reconstituído. Se não for usado imediatamente, as condições e os tempos de
+armazenamento antes de utilização são da responsabilidade do utilizador e, de um
+
+                                                                    $3529$'2(0
+
+                                                                    
+
+                                                                    ,1)$50('
+
+
+modo geral, não deverão exceder as 24 horas a 2ºC-8ºC (no frigorífico), exceto se a
+reconstituição foi realizada em condições asséticas controladas e validadas.
+A estabilidade química e física após a reconstituição foi demonstrada para 24 horas a
+2ºC-8ºC.
+6.4 Precauções especiais de conservação
+Conservar abaixo de 25°C
+Condições de conservação do medicamento após reconstituição, ver secção 6.3.
+6.5 Natureza e conteúdo do recipiente
+Frasco para injetáveis de vidro transparente Tipo I de 20 ml, com tampa de borracha
+e cápsula de alumínio selada a plástico.
+6.6 Precauções especiais de eliminação e manuseamento
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo
+com as exigências locais.
+O pó é reconstituído com 19 ml de água para preparações injetáveis ou com 19 ml
+de Cloreto de sódio a 9 mg/ml (0,9%) para perfusão intravenosa de forma a obter
+um volume extraível de 20 ml de concentrado límpido contendo 10 mg/ml de
+voriconazol. Rejeite o frasco de Voriconazol Normon se o vácuo não puxar o solvente
+para o seu interior. Recomenda-se a utilização de uma seringa padrão (não
+automatizada) de 20 ml, de modo a assegurar que é retirado o volume exato (19,0
+ml) de água para injetáveis ou [9 mg/ml (0,9%) de Cloreto de sódio para perfusão
+intravenosa. Este medicamento destina-se apenas a utilização única e qualquer
+porção de solução não utilizada deve ser rejeitada. Apenas devem ser utilizadas
+soluções límpidas sem partículas.
+O volume necessário de concentrado reconstituído é adicionado a uma das soluções
+para perfusão compatíveis recomendadas (descritas na tabela abaixo), de modo a
+obter uma solução final de voriconazol contendo 0,5-5 mg/ml de voriconazol, para
+administração.
+A solução reconstituída pode ser diluída com:
+Solução de Cloreto de Sódio 9 mg/ml (0,9%) para Solução injetável
+Composto de Lactato de Sódio para Perfusão Intravenosa
+Solução de Lactato de Ringer e Glucose a 5% para Perfusão Intravenosa
+Solução de Glucose a 5% e Cloreto de Sódio a 0,45% para Perfusão Intravenosa
+Solução de Glucose a 5% para perfusão intravenosa
+
+                                                                    $3529$'2(0
+
+                                                                    
+
+                                                                    ,1)$50('
+
+    
+    Solução de Glucose a 5% em Cloreto de Potássio 20 mEq para Perfusão Intravenosa
+    Solução de Cloreto de Sódio a 0,45% para Perfusão Intravenosa
+    Solução de Glucose a 5% e Cloreto de Sódio a 0,9% para Perfusão Intravenosa
+    A compatibilidade do voriconazol com outros solventes, para além dos acima
+    descritos ou na secção 6.2, é desconhecida.
+    Volume necessário de Voriconazol Normon Concentrado a 10 mg/ml
+              Volume de Voriconazol Normon Concentrado (10 mg/ml) necessário para:
+Peso corporal Dose de 3 Dose de 4 Dose de 6 Dose de 8 Dose de 9
+(kg)          mg/kg (nº de mg/kg (nº de mg/kg (nº de mg/kg (nº de mg/kg (nº de
+              frascos)        frascos)        frascos)        frascos)          frascos)
+10            -               4,0 ml (1)      -               8,0 ml (1)        9,0 ml (1)
+15            -               6,0 ml (1)      -               12 ml (1)         13,5 ml (1)
+20            -               8,0 ml (1)      -               16,0 ml (1)       18,0 ml (1)
+25            -               10,0 ml (1)     -               20,0 ml (1)       22,5 ml (2)
+30            9,0 ml (1)      12,0 ml (1)     18,0 ml (1)     24,0 ml (2)       27,0 ml (2)
+35            10,5 ml (1)     14,0 ml (1)     21,0 ml (2)     28,0 ml (2)       31,5 ml (2)
+40            12,0 ml (1)     16,0 ml (1)     24,0 ml (2)     32,0 ml (2)       36,0 ml (2)
+45            13,5 ml (1)     18,0 ml (1)     27,0 ml (2)     36,0 ml (2)       40,5 ml (3)
+50            15,0 ml (1)     20,0 ml (1)     30,0 ml (2)     40,0 ml (2)       45,0 ml (3)
+55            16,5 ml (1)     22,0 ml (2)     33,0 ml (2)     44,0 ml (3)       49,5 ml (3)
+60            18,0 ml (1)     24,0 ml (2)     36,0 ml (2)     48,0 ml (3)       54,0 ml (3)
+65            19,5 ml (1)     26,0 ml (2)     39,0 ml (2)     52,0 ml (3)       58,5 ml (3)
+70            21,0 ml (2)     28,0 ml (2)     42,0 ml (3)     -                 -
+75            22,5 ml (2)     30,0 ml (2)     45,0 ml (3)     -                 -
+80            24,0 ml (2)     32,0 ml (2)     48,0 ml (3)     -                 -
+85            25,5 ml (2)     34,0 ml (2)     51,0 ml (3)     -                 -
+90            27,0 ml (2)     36,0 ml (2)     54,0 ml (3)     -
+95            28,5 ml (2)     38,0 ml (2)     57,0 ml (3)     -
+100           30,0 ml (2)     40,0 ml (2)     60,0 ml (3)     -
+
+    Informação adicional é fornecida aos profissionais de saúde no final do Folheto
+    informativo.
+
+    7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+    Laboratórios NORMON, S.A.
+    Av. Infante D. Henrique, 333H
+    Piso 3, Esc. 42
+    1800 – 282 Lisboa
+    
+                                                                 $3529$'2(0
+
+                                                                 
+
+                                                                 ,1)$50('
+
+
+Portugal
+
+8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+Número de registo no INFARMED, I.P.:5697966 – 1 frasco para injetáveis
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO
+DEINTRODUÇÃO NO MERCADO
+Data da primeira autorização: 29 de dezembro de 2016
+Data da última renovação: 23 de julho de 2020
+
+10. DATA DA REVISÃO DO TEXTO
+
+
+
+
+
+

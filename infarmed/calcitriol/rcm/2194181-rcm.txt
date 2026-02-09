@@ -1,0 +1,532 @@
+                                                                                  APROVADO EM
+                                                                                  25-02-2014
+                                                                                  INFARMED
+
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1. NOME DO MEDICAMENTO
+
+Calcijex 1 micrograma/ml solução injectável
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada ml contém 1 micrograma de calcitriol.
+
+Excipiente(s) com efeito conhecido:
+- Sódio (sob a forma de cloreto de sódio, ascorbato de sódio, fosfato dissódico anidro, edetato
+dissódico e fosfato monossódico mono-hidratado).
+
+Lista completa de excipientes, ver secção 6.1.
+
+3. FORMA FARMACÊUTICA
+
+Solução injectável.
+Calcitriol injetável está disponível como uma solução aquosa, estéril, isotónica, clara, para
+injeção intravenosa.
+
+4. INFORMAÇÕES CLÍNICAS
+
+4.1 Indicações terapêuticas
+
+Calcijex é indicado no tratamento da hipocalcemia em doentes submetidos a diálise renal crónica.
+Demonstrou reduzir de forma significativa os níveis aumentados da hormona paratiroide. A
+redução da PTH resultou numa melhoria na osteodistrofia renal.
+
+4.2 Posologia e modo de administração
+
+A dose ótima de Calcijex deve ser cuidadosamente determinada para cada doente.
+A eficácia do tratamento com Calcijex pressupõe a hipótese de que cada doente está a receber
+uma dose diária de cálcio apropriada e correta. Para assegurar que cada doente recebe uma dose
+diária de cálcio adequada, o médico deve prescrever um suplemento de cálcio ou aconselhar
+medidas dietéticas convenientes ao doente.
+A dose diária inicial recomendada, segundo a gravidade da hipocalcemia e/ou hiperparatiroidismo
+secundário, é de 1,0 micrograma (0,02 microgramas/Kg) a 2,0 microgramas, administrada 3 vezes
+por semana (dia sim, dia não). Doses reduzidas como 0,5 microgramas ou elevadas como 4,0
+microgramas, foram usadas como dose inicial. Calcijex pode ser administrado sob a forma de
+bólus intravenoso. Se não se observar uma resposta satisfatória nos parâmetros bioquímicos e
+manifestações clínicas de doença, a dose pode ser aumentada cerca de 0,5 a 1,0 microgramas,
+com intervalos de 2 a 4 semanas. Foram usados aumentos de dose de 0,25 microgramas a 2,0
+microgramas e foram descritas doses máximas até 8 microgramas, 3 vezes por semana. Durante
+este período de titulação, deverão determinar-se os níveis de fósforo e cálcio séricos pelo menos
+duas vezes por semana e, se se observar hipercalcemia ou o produto cálcio sérico x fosfato for
+superior a 70, suspender imediatamente o tratamento até normocalcemia.
+O tratamento com Calcijex pode então ser reiniciado com uma dose mais baixa. Pode ser
+necessário diminuir as doses quando os níveis de PTH diminuem, em resposta ao tratamento. O
+                                                                                   APROVADO EM
+                                                                                   25-02-2014
+                                                                                   INFARMED
+
+aumento da dose deve ser individualizado e em proporção com os níveis de PTH, cálcio sérico e
+fósforo.
+
+         Orientação sobre titulação das doses
+         Nível de PTH                                         Dose de calcitriol
+         Inalterado ou aumentado                              Aumentar
+          Diminuído em < 30%                                  Aumentar
+          Diminuído em > 30%, < 60%                           Manter
+          Diminuído em > 60%                                  Diminuir
+         Entre 1 e 1,5 e 3 vezes o limite superior normal     Manter
+
+População pediátrica: Não foi estabelecida a segurança e eficácia de Calcijex em crianças, pelo
+que não é possível estabelecer uma dose recomendada.
+
+Uso em doentes insuficientes hepáticos: Não foram efetuados estudos controlados com Calcijex
+nestes doentes pelo que não é possível estabelecer uma dose recomendada.
+
+Uso em doentes idosos: Em geral, a escolha da dose para o doente idoso deve ser determinada
+com precaução, começando geralmente com a dose mais baixa e tendo em consideração a
+presença de insuficiência hepática ou renal, a função cardíaca, doenças concomitantes ou outros
+tratamentos concomitantes (ver secção 4.4).
+
+Modo de administração:
+Calcijex solução injectável só deve ser administrado por via intravenosa.
+
+Antes da administração, verificar se a solução se apresenta límpida e sem alterações de cor (a
+solução de Calcijex pode apresentar-se desde incolor a amarelo). Rejeitar o produto sobrante.
+
+4.3 Contraindicações
+
+Calcijex é contraindicado:
+- Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na secção
+6.1;
+- em todas as doenças associadas a hipercalcemia;
+- se existir evidência de toxicidade pela Vitamina D.
+
+4.4 Advertências e precauções especiais de utilização
+
+Dado que o calcitriol é o metabolito mais potente da Vitamina D disponível, as doses prescritas
+de vitamina D e seus derivados devem ser suspensas durante o tratamento de modo a evitar
+possíveis efeitos aditivos e hipercalcemia.
+Existe uma correlação próxima entre o tratamento com calcitriol e o desenvolvimento de
+hipercalcemia.
+
+Um aumento abrupto na ingestão de cálcio como resultado de alterações na dieta (por ex.
+consumo aumentado de laticínios) ou ingestão não controlada de preparados de cálcio podem
+desencadear hipercalcemia. Os doentes e os seus familiares devem ser avisados de que é
+mandatória a adesão rigorosa à dieta prescrita e devem ser instruídos sobre como reconhecer os
+sintomas de hipercalcemia.
+                                                                                   APROVADO EM
+                                                                                   25-02-2014
+                                                                                   INFARMED
+
+Logo que os níveis de cálcio sobem para 1 mg/100 ml (250 micromol/l) acima do normal (9-11
+mg/100 ml, ou 2250-2750 micromol/l) ou a creatinina sérica aumenta para níveis > 120
+micromol/l, o tratamento com Calcijex deve ser suspenso imediatamente até se verificar
+normocalcemia (ver secção 4.2).
+
+Os doentes imobilizados, por ex. aqueles que foram submetidos a cirurgia estão especialmente
+expostos ao risco de hipercalcemia.
+
+Se os níveis de PTH forem suprimidos a níveis anormais, pode-se desenvolver doença óssea
+adinâmica. Se por outros motivos (por ex. de diagnóstico) não for realizada uma biopsia, os níveis
+de PTH poderão ser utilizados como indicação da taxa de renovação óssea. Se os níveis de PTH,
+em doentes tratados com calcitriol, atingirem valores inferiores ao do intervalo recomendado (1,5
+a 3 vezes o limite superior do normal), a dose de calcitriol deve ser reduzida ou o tratamento
+descontinuado. A descontinuação do tratamento com calcitriol pode resultar em efeito rebound,
+pelo que se recomenda uma redução apropriada da titulação da dose, para uma dose de
+manutenção.
+
+O calcitriol aumenta os níveis de fosfatos inorgânicos no soro.
+Embora isto seja desejável nos doentes com hipofosfatémia, recomenda-se precaução nos doentes
+com insuficiência renal devido ao perigo de calcificação ectópica.
+Nestas situações, o nível plasmático de fosfatos deve ser mantido num nível normal (2-5 mg/100
+ml ou 0,65-1,62 mmol/l) pela administração oral de ligantes de fosfatos livres de
+alumínioapropriados e dieta pobre em fosfatos.
+O produto do cálcio sérico x fosfato (Ca x P) não deverá exceder 70 mg2 / dl2.
+
+Os doentes com raquitismo resistente à vitamina D (hipofosfatemia familiar) que estão a receber
+tratamento com Calcijex devem continuar a terapêutica oral com fosfatos.
+
+No entanto, a possível estimulação da absorção intestinal de fosfatos pelo Calcijex deve ser tida
+em consideração porque este efeito pode modificar a necessidade de suplementação de fosfato.
+
+Dado que o calcitriol é o metabolito mais potente da Vitamina D, nenhum outro preparado de
+vitamina D deve ser prescrito durante o tratamento com Calcijex, assegurando assim que seja
+evitado o desenvolvimento de hipervitaminose.
+
+Se o doente for mudado da terapêutica com ergocalciferol (vitamina D2) para calcitriol, pode
+demorar vários meses até que o nível de ergocalciferol no sangue volte ao valor de base (ver
+secção 4.9).
+Os doentes com função renal normal que estejam a tomar Calcijex devem evitar a desidratação.
+Deve manter-se uma ingestão adequada de líquidos.
+Nos doentes com função renal normal, a hipercalcemia crónica pode estar associada a um
+aumento na creatinina sérica.
+
+Testes laboratoriais
+Deverão efetuar-se determinações séricas periódicas para cálcio, fósforo, magnésio, fosfatase
+alcalina e para o cálcio e fósforo urinários de 24 h. Durante a fase inicial do tratamento, o cálcio e
+o fósforo séricos devem ser determinados mais frequentemente (duas vezes por semana).
+
+População pediátrica
+                                                                                 APROVADO EM
+                                                                                 25-02-2014
+                                                                                 INFARMED
+
+Existem dados limitados da utilização de calcitriol em doentes pediátricos. A segurança e eficácia
+de calcitriol em crianças não foram ainda estabelecidas.
+
+Uso em geriatria
+Os estudos clínicos de calcitriol não incluíram número suficiente de indivíduos com 65 anos ou
+mais para determinar se respondem de forma diferente dos indivíduos mais jovens. Outra
+experiência clínica descrita não identificou diferenças nas respostas entre doentes idosos e jovens.
+Em geral, a escolha da dose num doente idoso deve ser cuidadosa, geralmente começando com a
+dose mais baixa estabelecida, refletindo a maior frequência de diminuição na função hepática,
+renal ou cardíaca e da doença concomitante ou outra terapêutica.
+
+Este medicamento contém 1,12 mmol (ou 26,5 mg) de sódio por dose. Esta informação deve ser
+tida em consideração em doentes com ingestão controlada de sódio.
+4.5 Interações medicamentosas e outras formas de interação
+
+Dado que o calcitriol é o metabolito mais potente da Vitamina D disponível, nenhum outro
+preparado de vitamina D deve ser prescrito durante o tratamento com calcitriol, assegurando
+assim que seja evitado o desenvolvimento de hipervitaminose. Se um doente for mudado da
+terapêutica com ergocalciferol (vitamina D2) para calcitriol, pode demorar vários meses até que o
+nível de ergocalciferol no sangue volte ao valor de base.
+Doses farmacológicas de vitamina D e seus derivados devem ser evitados durante o tratamento
+com Calcijex para evitar possíveis efeitos aditivos e hipercalcemia.
+Devem observar-se rigorosamente as instruções dietéticas, especialmente no que diz respeito aos
+suplementos de cálcio e deve evitar-se a ingestão não controlada de preparados adicionais
+contendo cálcio.
+O tratamento concomitante com um diurético tiazídico aumenta o risco de hipercalcemia. A
+posologia de calcitriol deve ser determinada com cuidado nos doentes submetidos a tratamento
+com digitálicos, porque a hipercalcemia nestes doentes pode desencadear arritmias cardíacas (ver
+secção 4.4).
+Existe uma relação de antagonismo funcional entre os análogos da vitamina D, que promovem a
+absorção do cálcio e os corticosteroides, que o inibem.
+Os medicamentos contendo magnésio (por ex. antiácidos) podem causar hipermagnesemia e não
+devem ser tomados durante o tratamento com Calcijex pelos doentes em diálise renal crónica.
+Visto que o Calcijex também possui um efeito no transporte de fosfatos no intestino, rins e ossos,
+a dose de fármacos ligantes de fosfatos deve ser ajustada de acordo com a concentração de
+fosfatos séricos (valores normais: 2-5 mg/100 ml ou 0,65-1,62 mmol/l).
+Os doentes com raquitismo resistente à vitamina D (hipofosfatemia familiar) devem continuar a
+terapêutica oral. No entanto, a possível estimulação da absorção intestinal de fosfatos pelo
+calcitiol deve ser tida em consideração visto que este efeito pode modificar a necessidade de
+suplementos de fosfatos.
+A administração de indutores enzimáticos como a fenítoina ou fenobarbital pode desencadear
+metabolismo aumentado e, por conseguinte, concentrações séricas diminuídas de calcitriol. Por
+conseguinte, podem ser necessárias doses mais elevadas de calcitriol se estes medicamentos
+forem administrados simultaneamente.
+A colestiramina pode diminuir a absorção intestinal das vitamina lipossolúveis e por conseguinte
+diminuir a absorção intestinal do calcitriol.
+
+4.6 Fertilidade, gravidez e aleitamento
+
+Gravidez
+                                                                                  APROVADO EM
+                                                                                  25-02-2014
+                                                                                  INFARMED
+
+Verificou-se estenose supravalvular na aorta em fetos com doses orais quase fatais de vitamina D
+em coelhas grávidas. Não existe evidência que sugira que a vitamina D é teratogénica nos
+humanos mesmo em doses muito elevadas. O Calcijex deve ser administrado na gravidez apenas
+se o potencial benefício ultrapassar os riscos potenciais para o feto.
+
+Amamentação
+Supõe-se que o calcitriol exógeno passe através do leite humano. Face ao potencial para
+hipercalcemia na mãe e para reações adversas devido ao Calcijex nos bebés amamentados, as
+mães podem amamentar enquanto recebem tratamento com Calcijex desde que os níveis séricos
+de cálcio da mãe e do bebé sejam controlados
+
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos de Calcijex sobre a capacidade de conduzir e utilizar máquinas são desprezíveis.
+Com base no perfil farmacodinâmico dos efeitos secundários notificados, considera-se que este
+medicamento é seguro ou pouco provável de afetar adversamente essas atividades.
+
+4.8 Efeitos indesejáveis
+
+Foram descritos raros casos de reações de hipersensibilidade, incluindo anafilaxia e rubor no local
+da injeção. Ocasionalmente foi descrita dor ligeira durante a injeção.
+
+Os efeitos secundários da injeção de calcitriol são, em geral, semelhantes aos observados com a
+ingestão excessiva de Vitamina D. Os sinais e sintomas precoces e tardios da intoxicação de
+vitamina D associada com hipercalcemia incluem:
+
+Sinais precoces
+Astenia, cefaleias, sonolência, náuseas, vómitos, xerostomia, obstipação, mialgia, dor óssea,
+disgeusia, diminuição de apetite, dor abdominal e dispepsia. A frequência destes eventos
+reportados para o calcitriol nos estudos clínicos realizados com Calcijex são descritos na Tabela
+de RAM abaixo.
+
+Sinais tardios
+Poliúria, polidipsia, diminuição de apetite, noctúria, depósito da conjuntiva, pancreatite,
+fotofobia, rinorreia, prurido, hipertermia, diminuição da libido, ureia sanguínea aumentada,
+albuminúria, hipercolesterolomia, aspartato aminotransferase aumentado, alanina
+aminotransferase aumentada, calcinose, hipertensão, arritmias cardíacas, fraqueza muscular,
+parestesia, desidratação, apatia, infeções do trato urinário, e, raramente, psicose manifesta. A
+frequência destes eventos reportados para o calcitriol nos estudos clínicos realizados com
+Calcijex são descritos na Tabela de RAM abaixo.
+
+
+Resumo de RAMs observadas em doentes tratados com Calcitriol em estudos clínicos com
+Calcijex
+
+Classes de            Muito        Frequentes            Pouco                Desconhecido
+Sistemas de           frequentes                         Frequentes
+Orgãos
+Infeções e                         Infeção do trato
+                                                                              APROVADO EM
+                                                                              25-02-2014
+                                                                              INFARMED
+
+infestações                       urinário
+Doenças do                        Hipersensibilidade
+sistema imunitário
+Doenças do                        Diminuição do                           Polidipsia
+metabolismo e da                  apetite                                 Hipercolesterolomia
+nutrição                          Desidratação
+Perturbações do                                                           Diminuição da
+foro psiquiátrico                                                         libido
+                                                                          Apatia
+                                                                          Psicose
+Doenças do           Cefaleias    Sonolência           Disgeusia
+sistema nervoso                   Parestesia
+Afeções oculares                                                          Depósito da
+                                                                          conjuntiva
+                                                                          Fotofobia
+Cardiopatias                                                              Arritmias cardíacas
+Vasculopatias                     Hipertensão
+Doenças                                                Rinorreia
+respiratórias,
+torácicas e do
+mediastino
+Doenças                           Náuseas              Pancreatite
+gastrointestinais                 Vómitos
+                                  Xerostomia
+                                  Obstipação
+                                  Dor abdominal
+                                  Dispepsia
+Afeções dos                       Prurido
+tecidos cutâneos e
+subcutâneos
+Afeções                           Mialgia              Dor óssea
+musculosqueléticas                                     Fraqueza
+e dos tecidos                                          Muscular
+conjuntivos
+Doenças renais e                                                          Poliúria
+urinárias                                                                 Noctúria
+                                                                          Albuminúria
+Perturbações        Dor           Dor no local da      Reação no local    Hipertermia
+gerais e alterações               injeção              da injeção
+no local de                       Astenia              Calcinose
+administração
+Exames                                                 Diminuição de      Ureia sanguínea
+complementares de                                      peso               aumentada
+diagnóstico                                            Aspartato          Alanina
+                                                       aminotransferase   aminotransferase
+                                                       aumentado          aumentada
+
+Notificação de suspeitas de reações adversas
+                                                                               APROVADO EM
+                                                                               25-02-2014
+                                                                               INFARMED
+
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante,
+uma vez que permite uma monitorização contínua da relação benefício-risco do medicamento.
+Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas
+diretamente ao INFARMED, I.P.:
+
+INFARMED, I.P.
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 71 40
+Fax: + 351 21 798 73 97
+Sítio da internet: http://extranet.infarmed.pt/page.seram.frontoffice.seramhomepage
+E-mail: farmacovigilancia@infarmed.pt
+
+4.9 Sobredosagem
+
+Tratamento da hipercalcemia assintomática: (ver secção 4.2)
+Dado que o calcitriol é um derivado da vitamina D, os sintomas de sobredosagem são idênticos
+aos da sobredosagem da vitamina D.
+A administração excessiva de calcitriol pode provocar hipercalcemia, hipercalciuria e
+hiperfosfatemia. A ingestão de quantidades elevadas de cálcio e fosfato com Calcijex pode
+conduzir a anomalias semelhantes (ver secções 4.4 e 4.8). O produto cálcio fósforo (CaxP) não
+deve exceder 70 mg2/dl2. Um nível de cálcio elevado no dializado pode contribuir para o
+desenvolvimento de hipercalcemia.
+
+Sintomas agudos de intoxicação pela vitamina D: anorexia, cefaleias, vómitos, obstipação.
+Sintomas crónicos: distrofia (fraqueza, perda de peso), problemas sensoriais, possivelmente febre
+com sede, poliúria, desidratação, apatia, paragem no desenvolvimento e infeções do trato
+urinário. Verifica-se hipercalcemia com calcificação metastática do córtex renal, miocárdio,
+pulmões e pâncreas.
+
+As seguintes medidas devem ser consideradas no tratamento da sobredosagem acidental: lavagem
+gástrica imediata ou indução do vómito para evitar absorção posterior. Administração de parafina
+líquida para promover excreção fecal. Recomendam-se determinações repetidas do cálcio sérico.
+Se os níveis elevados de cálcio persistirem no soro, podem ser administrados fosfatos e
+corticosteroides e instituídas medidas para provocar diurese adequada.
+
+Níveis elevados de hipercalcemia (>3,2 mmol/l) podem originar insuficiência renal especialmente
+se os níveis de fosfatos no sangue estiverem normais ou elevados devido a função renal
+diminuída.
+
+Tratamento da hipercalcemia e sobredosagem em doentes submetidos a hemodiálise
+
+O tratamento geral da hipercalcemia (mais de 1 mg/dl acima do limite máximo normal) consiste
+na suspensão imediata do tratamento com calcitriol, instituição de uma dieta com baixo teor de
+cálcio e suspensão dos suplementos de cálcio. Uma diminuição da concentração de cálcio na
+solução de diálise deverá ser considerada. Os níveis séricos de cálcio deverão ser determinados
+diariamente até se verificar normocalcemia. A hipercalcemia geralmente desaparece em 2 a 7
+dias. Quando os níveis séricos de cálcio normalizarem, o tratamento com calcitriol pode ser
+restabelecido com uma dose de 0,5 µg inferior ao tratamento inicial.
+                                                                                 APROVADO EM
+                                                                                 25-02-2014
+                                                                                 INFARMED
+
+Os níveis de cálcio sérico devem ser obtidos pelo menos duas vezes por semana, durante a
+titulação da dose.
+
+Tratamento da sobredosagem acidental de calcitriol
+
+O tratamento da sobredosagem acidental aguda de calcitriol consistirá de medidas de suporte
+gerais. Deverão efetuar-se determinações séricas de eletrólitos (especialmente cálcio), taxa de
+excreção urinária de cálcio e avaliação das alterações eletrocardiográficas devido a hipercalcémia.
+Esta monitorização é muito importante nos doentes tratados com digitálicos. Também se
+recomenda a suspensão do suplemento de cálcio e da dieta de baixo teor em cálcio nos casos de
+sobredosagem acidental. Caso se verifiquem níveis de cálcio elevados, podem ser consideradas
+outras alternativas terapêuticas, dependendo da situação subjacente dos doentes. Na literatura têm
+sido descritas as seguintes terapêuticas: diurese forçada, hemodiálise contra um dialisante isento
+de cálcio e uso de fármacos como os bifosfonatos, mitramicina, calcitonina, glucocorticoides e
+nitrato de gálio.
+
+5. PROPRIEDADES FARMACOLÓGICAS
+
+5.1 Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 9.6.3 Aparelho Locomotor. Medicamentos que atuam no osso e no
+metabolismo do cálcio. Vitaminas D, Código ATC: A11C C04
+
+Mecanismo de ação:
+O calcitriol é a forma ativa da Vitamina D3 (colecalciferol).
+O fornecimento natural ou endógeno de Vitamina D, no Homem, depende essencialmente da luz
+ultravioleta para a conversão do 7-dehidrocolesterol em Vitamina D3 na pele. A Vitamina D3
+deve ser metabolicamente ativada no fígado e no rim antes de ser totalmente ativa nos tecidos
+alvo. A transformação inicial é catalisada por uma enzima da Vitamina D3 - a 25-hidroxilase,
+presente no fígado, e o produto desta reação é a 25 - (OH) D3 (calcifediol). Esta é submetida a
+hidroxilação nas mitocôndrias do tecido renal e esta reação é ativada pela 25-hidroxivitamina D3-
+1-a-hidroxilase para produzir a 1,25-(OH)2D3 (Calcitriol), a forma ativa da Vitamina D3.
+Nos doentes urémicos pode observar-se um estado de resistência à Vitamina D devido à
+incapacidade do rim converter convenientemente os precursores no composto ativo, o calcitriol.
+Os locais de ação do calcitriol são o intestino, ossos, rim e glândula paratiroide. O calcitriol é a
+forma mais ativa da Vitamina D3 na estimulação do transporte intestinal do cálcio.
+
+Efeitos farmacodinâmicos:
+Em ratos gravemente urémicos, o calcitriol revelou estimular a absorção intestinal do cálcio. Nos
+ossos, o calcitriol, juntamente com a hormona paratiroide, estimula a reabsorção do cálcio; e no
+rim, o calcitriol aumenta a reabsorção tubular do cálcio.
+Estudos in vitro e in vivo demonstraram que o calcitriol suprime diretamente a secreção e síntese
+da PTH.
+Quando administrado em bólus, o calcitriol distribui-se rapidamente na corrente sanguínea. Sabe-
+se que os metabolitos da Vitamina D são transportados, no sangue, ligados a proteínas
+plasmáticas específicas. A atividade farmacológica da administração de uma dose de calcitriol é
+de cerca de 3 a 5 dias. Foram identificadas duas vias metabólicas para o calcitriol, a conversão em
+1,24,25 - (OH) 3D3 e em ácido calcitroico.
+
+5.2 Propriedades farmacocinéticas
+                                                                               APROVADO EM
+                                                                               25-02-2014
+                                                                               INFARMED
+
+Está bem estabelecido na literatura que, independentemente da via de administração, os efeitos
+metabólicos do calcitriol atingem o seu máximo e mantêm-se por bastante tempo após o nível
+plasmático da hormona ter voltado aos valores iniciais.
+
+Os estudos de cinética do calcitriol que seriam úteis para demonstrar que a hormona administrada
+atinge a corrente sanguínea e é eliminada do mesmo modo que o composto sintetizado
+endogenamente seriam pouco importantes na determinação da dose terapêutica ótima. A
+quantidade ótima de calcitriol a ser administrada deve ser determinada individualmente para cada
+doente, com base no tipo, gravidade e duração do desequilíbrio do cálcio.
+
+5.3 Dados de segurança pré-clínica
+
+Não se efetuaram estudos a longo prazo em animais para avaliar o potencial carcinogénico de
+Calcijex. Não se verificaram quaisquer manifestações de mutagenicidade segundo o Método de
+Ames. Não foram descritos efeitos significativos do calcitriol na fertilidade.
+
+Observaram-se mortes após a administração oral de calcitriol (25,6 microgramas/Kg em ratos
+recém-nascidos e 11,2 microgramas/Kg em ratos imaturos), não se tendo, no entanto, observado
+em ratos e ratinhos aos quais se administraram 10 microgramas/Kg. Estas doses letais
+representam aproximadamente 427 e 187 vezes, respetivamente, a exposição máxima prevista
+para os doentes submetidos a diálise. Um produto semelhante, administrado oralmente, possui
+uma dose letal média de 2 mg/Kg no ratinho e superior a 5,0 mg/Kg no rato.
+
+Exposições a doses intravenosas simples de calcitriol até 20 microgramas/Kg (333 vezes a dose
+máxima parentérica recomendada para o Homem) em ratinhos e ratos adultos não revelaram
+qualquer toxicidade.
+
+Não foram efetuados estudos a longo prazo em animais para avaliar o potencial carcinogénico de
+Calcijex. Não se verificaram quaisquer manifestações de mutagenicidade segundo o teste de
+Ames. Não foram descritos efeitos significativos na fertilidade com a administração oral de
+calcitriol.
+
+Quando administrado oralmente, o calcitriol foi descrito como sendo teratogénico em coelhos nos
+quais se administraram doses 4 e 15 vezes superiores à dose recomendada para o Homem. Todos
+os 15 fetos em 3 ninhadas, nestas doses, revelaram anomalias ósseas. No entanto, nenhuma das
+outras 23 ninhadas (156 fetos) revelou evidência de potencial teratogénico.
+
+Não foram efetuados estudos adequados e bem controlados em mulheres grávidas.
+
+6. INFORMAÇÕES FARMACÊUTICAS
+
+6.1 Lista dos excipientes
+
+Polissorbato 20,
+Cloreto de sódio,
+Ascorbato de sódio,
+Fosfato dissódico anidro,
+Fosfato monossódico mono-hidratado,
+Edetato disódico,
+Água para preparações injetáveis.
+                                                                               APROVADO EM
+                                                                               25-02-2014
+                                                                               INFARMED
+
+6.2 Incompatibilidades
+
+Sabe-se que o calcitriol é absorvido nos tubos e recipientes de cloreto de polivinil (PVC). Esta
+absorção pode reduzir de forma significativa a quantidade de medicamento administrada ao
+doente, segundo o tempo de contacto do calcitriol com o PVC, antes da administração da solução.
+
+6.3 Prazo de validade
+
+30 meses.
+
+6.4 Precauções especiais de conservação
+
+Não conservar acima de 30° C.
+Proteger da luz.
+
+6.5 Natureza e conteúdo do recipiente
+
+Ampolas de vidro Tipo I de cor âmbar de 1 ml, contendo 1 micrograma de calcitriol.
+Embalagens com 50 ampolas.
+
+6.6 Precauções especiais de eliminação e manuseamento
+
+Não existem requisitos especiais para eliminação.
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as
+exigências locais.
+
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Abbvie, Lda
+Estrada de Alfragide, 67
+Alfrapark - Edifício D
+2610-008 Amadora
+Tel.: 21908400
+Fax: 21908403
+
+8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Nº de registo: 219418 - 1 ml, solução injetável, 0.001 mg/ml, 50 ampolas de vidro tipo I âmbar
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 20 de agosto de 1993
+Data da última renovação: 20 de agosto de 2003
+
+10. DATA DA REVISÃO DO TEXTO
+

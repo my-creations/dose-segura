@@ -1,29 +1,13 @@
-const fs = require('fs');
-const path = require('path');
+#!/usr/bin/env node
+const fs = require('node:fs');
+const path = require('node:path');
+const { collectFiles } = require('./utils/fs-utils');
 
 const DIST_DIR = path.join(__dirname, '..', 'dist');
 const ASSETS_DIR = path.join(DIST_DIR, 'assets');
 const NODE_MODULES_DIR = path.join(ASSETS_DIR, 'node_modules');
 const LIBS_DIR = path.join(ASSETS_DIR, 'libs');
 const PUBLIC_DIR = path.join(__dirname, '..', 'public');
-
-function getAllFiles(dirPath, arrayOfFiles) {
-  if (!fs.existsSync(dirPath)) return arrayOfFiles || [];
-  
-  const files = fs.readdirSync(dirPath);
-  arrayOfFiles = arrayOfFiles || [];
-
-  files.forEach(function(file) {
-    const filePath = path.join(dirPath, file);
-    if (fs.statSync(filePath).isDirectory()) {
-      arrayOfFiles = getAllFiles(filePath, arrayOfFiles);
-    } else {
-      arrayOfFiles.push(filePath);
-    }
-  });
-
-  return arrayOfFiles;
-}
 
 function fixWebBuild() {
   console.log('🔧 Starting web build fix...');
@@ -60,7 +44,7 @@ function fixWebBuild() {
 
   // 2. Update references in all files
   console.log('📝 Updating references in build files...');
-  const files = getAllFiles(DIST_DIR);
+  const files = collectFiles(DIST_DIR);
   let updateCount = 0;
 
   files.forEach(filePath => {
@@ -87,4 +71,11 @@ function fixWebBuild() {
   console.log('✨ Web build fix complete!');
 }
 
-fixWebBuild();
+if (require.main === module) {
+  try {
+    fixWebBuild();
+  } catch (err) {
+    console.error('Error during web build fix:', err);
+    process.exit(1);
+  }
+}

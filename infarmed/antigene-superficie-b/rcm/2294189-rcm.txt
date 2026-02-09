@@ -1,0 +1,649 @@
+                                                                      APROVADO EM
+                                                                      05-06-2024
+                                                                      INFARMED
+
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+
+1. NOME DO MEDICAMENTO
+
+ENGERIX B 20 microgramas/1 ml
+Para frasco para injetáveis:
+Suspensão injetável
+Para seringa pré-cheia:
+Suspensão injetável em seringa pré-cheia
+Vacina contra a hepatite B (ADNr) (adsorvida) (VHB)
+
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+1 dose (1 ml) contém:
+
+Antigénio de superfície da hepatite B^1, ^2 20 microgramas
+
+^1 Adsorvido em hidróxido de alumínio, hidratado Total: 0,50 miligramas de Al^3+
+^2 Produzido em células de levedura (Saccharomyces cerevisiae) por tecnologia de
+ADN recombinante
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+3. FORMA FARMACÊUTICA
+
+Para frasco para injetáveis:
+Suspensão injetável.
+Para seringa pré-cheia:
+Suspensão injetável em seringa pré-cheia.
+A suspensão é branca e turva.
+
+
+4. INFORMAÇÕES CLÍNICAS
+
+4.1 Indicações terapêuticas
+
+ENGERIX B está indicado na imunização ativa contra a infeção pelo vírus da hepatite B
+(VHB) causada por todos os subtipos conhecidos em indivíduos não imunes com idade
+igual e superior a 16 anos. Os grupos da população que devem ser imunizados são
+determinados com base nas recomendações oficiais.
+
+Pode esperar-se que a imunização com ENGERIX B também previna a hepatite D
+(provocada pelo agente Delta), uma vez que esta não ocorre na ausência de infeção
+pelo vírus da hepatite B.
+
+4.2 Posologia e modo de administração
+                                                                         APROVADO EM
+                                                                         05-06-2024
+                                                                         INFARMED
+
+Posologia
+
+Dosagem
+
+ENGERIX B (20 mcg/1 ml) está indicado em indivíduos com idade igual ou superior a 16
+anos. ENGERIX B (10 mcg/0,5 ml) está indicado em indivíduos até aos 15 anos de
+idade, inclusive.
+
+No entanto, ENGERIX B (20 mcg/1 ml) pode também ser administrado em indivíduos
+desde os 11 anos até aos 15 anos de idade, inclusive, num esquema de 2 doses,
+quando existe um risco baixo de infeção pelo vírus da hepatite B durante o esquema de
+vacinação e quando possa ser assegurada a adesão ao esquema da vacinação
+completo (ver abaixo e secção 5.1).
+
+Esquemas de imunização primária
+
+- Indivíduos com 16 anos de idade e superior:
+
+Podem recomendar-se dois esquemas de imunização primária:
+
+Um esquema aos 0, 1 e 6 meses que confere uma proteção ótima no mês 7 e origina
+altas concentrações de anticorpos.
+
+Um esquema acelerado, com imunização aos 0, 1 e 2 meses que confere proteção mais
+rapidamente, sendo esperada maior adesão do indivíduo à vacinação. Neste esquema,
+deve ser administrada uma quarta dose aos 12 meses para assegurar uma proteção a
+longo prazo, pois após a terceira dose, as concentrações de anticorpos são inferiores às
+alcançadas com o esquema aos 0, 1 e 6 meses.
+
+- Indivíduos com 18 anos de idade e superior:
+
+Em circunstâncias excecionais em que seja necessária uma indução ainda mais rápida
+de imunização em adultos, por exemplo: indivíduos que viajem para zonas de elevada
+incidência e que iniciem o esquema de vacinação contra a hepatite B um mês antes da
+partida, pode ser utilizado um esquema de imunização de três injeções intramusculares
+aos 0, 7 e 21 dias. Quando se utiliza este esquema, recomenda-se uma quarta dose
+aos 12 meses após a primeira dose.
+
+- Indivíduos desde os 11 anos até aos 15 anos de idade, inclusive:
+
+ENGERIX B (20 mcg/1 ml) pode ser administrado em indivíduos desde os 11 anos até
+aos 15 anos de idade, inclusive, de acordo com um esquema aos 0, 6 meses. No
+entanto, neste caso, a proteção contra a infeção pelo vírus da hepatite B poderá não ser
+obtida até após a administração da segunda dose (ver secção 5.1). Por conseguinte,
+este esquema deverá apenas ser utilizado quando existe um risco baixo de infeção pela
+hepatite B durante o esquema de vacinação e quando possa ser assegurada a adesão
+ao esquema completo de duas doses. Se ambas as condições não poderem ser
+asseguradas (por exemplo, indivíduos submetidos a hemodiálise, viajantes para zonas
+endémicas e contactos estreitos com indivíduos infetados) deverá ser administrado o
+                                                                         APROVADO EM
+                                                                         05-06-2024
+                                                                         INFARMED
+
+esquema de vacinação de três doses ou o esquema de vacinação acelerado com
+ENGERIX B (10 mcg/0,5 ml).
+
+- Indivíduos com 16 anos de idade ou superior com insuficiência renal, incluindo
+indivíduos submetidos a hemodiálise:
+
+O esquema de imunização primária nos indivíduos com insuficiência renal, incluindo
+indivíduos submetidos a hemodiálise, é de quatro doses duplas (2 × 20 mcg) na data
+escolhida, 1 mês, 2 meses e 6 meses após a data da primeira dose. O esquema de
+imunização deve ser adaptado de modo a assegurar que a concentração de anticorpos
+anti-HBs permaneça igual ou superior ao nível protetor aceite de 10 UI/l.
+
+- Em caso de exposição conhecida ou presumível ao vírus da hepatite B:
+
+Em situações em que tenha havido exposição recente ao vírus da hepatite B (por
+exemplo, picada com uma agulha contaminada), a primeira dose de ENGERIX B pode
+ser administrada em simultâneo com a imunoglobulina específica da hepatite B (Ig HB),
+a qual, no entanto, deverá ser administrada em local de injeção diferente (ver secção
+4.5). Recomenda-se o esquema de imunização aos 0, 1, 2 – 12 meses.
+
+Estes esquemas de imunização podem ser adaptados à prática de acordo com práticas
+locais de imunização.
+
+Dose de reforço
+
+A informação atual não suporta a necessidade da administração da dose de reforço nos
+indivíduos imunocompetentes que responderam ao esquema completo de vacinação
+primária (Lancet 2000, 355:561).
+No entanto, nos indivíduos imunocomprometidos (por exemplo, indivíduos com
+insuficiência renal crónica, indivíduos hemodialisados, indivíduos VIH positivos) deve
+ser administrada a vacinação de reforço para manter a concentração de anticorpos anti-
+HBs igual ou superior ao nível protetor aceite de 10 UI/l. Nestes indivíduos
+imunocomprometidos, é aconselhável um teste pós-vacinação de 6-12 meses em 6-12
+meses.
+
+As recomendações nacionais sobre a vacinação de reforço devem ser consideradas.
+
+Permutabilidade entre vacinas contra a hepatite B
+
+Ver secção 4.5.
+
+Modo de administração
+
+ENGERIX B deve ser administrado por via intramuscular na região deltoide.
+
+Excecionalmente, a vacina poderá ser administrada por via subcutânea, em doentes
+com trombocitopenia ou alterações da coagulação.
+
+4.3 Contraindicações
+                                                                       APROVADO EM
+                                                                       05-06-2024
+                                                                       INFARMED
+
+ENGERIX B não deve ser administrado a indivíduos com hipersensibilidade conhecida à
+substância ativa ou a qualquer um dos excipientes mencionados na secção 6.1 ou a
+indivíduos que tenham tido manifestações de hipersensibilidade após uma anterior
+administração de ENGERIX B.
+
+Tal como acontece com qualquer outra vacina, a administração de ENGERIX B deve
+ser adiada nos indivíduos com síndrome febril grave. No entanto, a presença de uma
+infeção ligeira não constitui uma contraindicação para a imunização.
+
+4.4 Advertências e precauções especiais de utilização
+
+Pode ocorrer síncope (desmaio) após ou mesmo antes de qualquer vacinação,
+especialmente em adolescentes como uma resposta psicogénica à injeção com
+agulhas. Isto pode ser acompanhado por vários sinais neurológicos tais como distúrbios
+visuais transitórios, parestesia e movimentos tonicoclónicos dos membros durante a
+recuperação. É importante que estejam implementados procedimentos que evitem as
+lesões pelos desmaios.
+
+Em virtude do longo período da incubação de hepatite B, é possível que uma infeção
+não reconhecida esteja presente no momento da vacinação. Nestes casos a vacina
+pode não prevenir a hepatite B.
+
+A vacina não irá prevenir infeções causadas por outros patogéneos conhecidos que
+possam infetar o fígado, tais como os vírus da hepatite A, hepatite C e hepatite E.
+
+Tal como qualquer vacina, a resposta imunitária protetora pode não ser alcançada em
+todos os indivíduos vacinados.
+
+Foram observados vários fatores que diminuem a resposta imunitária às vacinas contra
+a hepatite B. Estes fatores incluem idade avançada, género masculino, obesidade,
+tabagismo, via de administração e algumas doenças crónicas subjacentes. Deve ser
+considerada a realização de exames serológicos nos indivíduos em risco de não
+atingirem a seroprotecão após completarem o esquema de vacinação de ENGERIX B.
+A necessidade de administração de doses adicionais poderá ser considerada nos
+indivíduos que não respondam ou que obtenham uma resposta subótima ao esquema
+de vacinação.
+
+Os indivíduos com doença hepática crónica ou infetados por VIH ou portadores de
+hepatite C não devem ser excluídos da vacinação contra a hepatite B. A vacina deve
+ser aconselhada a estes doentes, uma vez que neles a infeção pelo vírus da hepatite B
+pode ser grave: a vacinação contra a hepatite B deve ser, assim, considerada caso a
+caso pelo médico. Em indivíduos infetados por VIH, bem como em indivíduos com
+insuficiência renal, incluindo indivíduos submetidos a hemodiálise e em indivíduos com
+o sistema imunitário diminuído, pode não se obter uma concentração adequada de
+anticorpos anti-HBs após o esquema de imunização primária. Estes doentes podem
+necessitar de administrações de doses adicionais da vacina.
+
+ENGERIX B não deve ser administrado na região glútea ou por via intradérmica, pois
+estas vias de administração podem originar uma resposta imunológica diminuída.
+                                                                        APROVADO EM
+                                                                        05-06-2024
+                                                                        INFARMED
+
+ENGERIX B nunca deve, em nenhuma circunstância, ser administrado por via
+intravascular.
+
+Tal como acontece com todas as vacinas injetáveis, deve dispor-se de tratamento
+médico apropriado, para utilização imediata, caso ocorram reações anafiláticas após a
+administração da vacina.
+
+Esta vacina contém menos do que 1 mmol (23 mg) de sódio por dose, ou seja, é
+praticamente “isenta de sódio”.
+
+Rastreabilidade
+De modo a melhorar a rastreabilidade de medicamentos biológicos, o nome e o número
+de lote do produto administrado devem ser registados de forma clara.
+
+4.5 Interações medicamentosas e outras formas de interação
+
+A administração concomitante de ENGERIX B e de uma dose padrão de imunoglobulina
+específica (Ig HB) não se traduz por concentrações de anticorpos anti-HBs mais baixas,
+desde que sejam administradas em locais de injeção diferentes.
+
+ENGERIX B pode ser administrado concomitantemente com as vacinas contra BCG,
+hepatite A, poliomielite, sarampo, papeira, rubéola, difteria e tétano.
+
+ENGERIX B pode ser administrado concomitantemente com a vacina contra o
+Papilomavírus Humano (HPV). A administração de ENGERIX B ao mesmo tempo que
+Cervarix (vacina contra o HPV) não demonstrou interferência clinicamente relevante na
+resposta em anticorpos para os antigénios HPV. As concentrações médias geométricas
+de anticorpos anti-HBs foram inferiores na coadministração, mas a relevância clínica
+desta observação não é conhecida uma vez que a taxa de seroproteção permanece
+inalterada. A proporção de indivíduos que atingiram anti-HBs ≥ 10 mUI/ml foi de 97,9%
+para a administração concomitante e de 100% para a administração de ENGERIX B
+isoladamente.
+
+Vacinas injetáveis diferentes devem ser sempre administradas em locais de injeção
+diferentes.
+
+ENGERIX B pode ser utilizado para completar um esquema de imunização primária
+iniciado com outra vacina contra a hepatite B derivada de plasma ou de outra tecnologia
+de engenharia genética, ou se necessário, como reforço em indivíduos que fizeram
+previamente o esquema de imunização primária com vacinas contra a hepatite B
+derivadas do plasma ou de outra tecnologia de engenharia genética.
+
+4.6 Fertilidade, gravidez e aleitamento
+
+Gravidez
+
+Não foi avaliado o efeito do AgHBs no desenvolvimento fetal.
+
+Contudo, tal como acontece com todas as vacinas víricas inativadas, não se esperam
+riscos nocivos para o feto. ENGERIX B só deverá ser usado na gravidez quando
+                                                                        APROVADO EM
+                                                                        05-06-2024
+                                                                        INFARMED
+
+absolutamente necessário e quando as possíveis vantagens sejam superiores aos
+eventuais riscos para o feto.
+
+Amamentação
+
+O efeito de ENGERIX B em lactentes, decorrente da administração da vacina a
+mulheres durante o período de amamentação, não foi avaliado em ensaios clínicos,
+dado que não existe informação sobre excreção através do leite materno.
+
+Não foi estabelecida qualquer contraindicação.
+
+Fertilidade
+
+ENGERIX B não foi avaliado em estudos de fertilidade.
+
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos de ENGERIX B sobre a capacidade de conduzir e utilizar máquinas são nulos
+ou desprezáveis.
+
+4.8 Efeitos indesejáveis
+
+Resumo do perfil de segurança
+
+O perfil de segurança a seguir descrito tem como base a informação de 5329 indivíduos
+seguidos em 23 ensaios clínicos.
+
+A formulação atual de ENGERIX B não contém tiomersal (um composto
+organomercúrico). Os efeitos indesejáveis descritos seguidamente foram notificados
+após a administração de formulações contendo tiomersal e da formulação sem
+tiomersal.
+
+Num ensaio clínico realizado com a formulação atual (formulação sem tiomersal) a
+incidência de dor, vermelhidão, inchaço, fadiga, gastrenterites, cefaleias e febre foi
+comparável à incidência observada nos ensaios clínicos realizados com as formulações
+anteriores da vacina com tiomersal.
+
+Resumo das reações adversas em formato tabelar
+
+As frequências por dose são descritas como:
+Muito frequentes:    (≥1/10)
+Frequentes:          (≥1/100 a <1/10)
+Pouco frequentes:    (≥1/1.000 a <1/100)
+Raros:               (≥1/10.000 a <1/1.000)
+Muito raros:         (<1/10.000)
+
+Classe de sistema de órgãos    Frequência            Reações adversas
+Ensaios Clínicos
+Doenças do sangue e do sistema Raros                 Linfadenopatia
+linfático
+                                                                          APROVADO EM
+                                                                          05-06-2024
+                                                                          INFARMED
+
+Doenças do metabolismo e da Frequentes                Perda de apetite
+nutrição
+Perturbações do foro psiquiátrico Muito               Irritabilidade
+                                  frequentes
+Doenças do sistema nervoso        Frequentes          Sonolência, cefaleias
+                                  Pouco               Tonturas
+                                  frequentes
+                                  Raros               Parestesias
+Doenças gastrointestinais         Frequentes          Sintomas gastrointestinais (tais
+                                                      como náuseas, vómitos, diarreia,
+                                                      dor abdominal)
+Afeções dos tecidos cutâneos e Raros                  Urticária, prurido, erupção cutânea
+subcutâneos
+Afeções musculosqueléticas e dos Pouco                Mialgia
+tecidos conjuntivos              frequentes
+                                 Raros                Artralgia
+Perturbações gerais e alterações Muito                Dor e vermelhidão no local da
+no local de administração        frequentes           injeção, fadiga
+                                 Frequentes           Febre      (≥37,5°C),  mal-estar,
+                                                      inchaço no local da injeção,
+                                                      reações no local da injeção (tais
+                                                      como induração)
+                                    Pouco             Doença semelhante à gripe
+                                    frequentes
+Farmacovigilância pós-comercialização
+Infeções e infestações                     Meningite
+Doenças do sangue e do sistema linfático   Trombocitopenia
+Doenças do sistema imunitário              Anafilaxia,    reações     alérgicas
+                                           incluindo reações anafilactoides e
+                                           síndrome semelhante à doença do
+                                           soro
+Doenças do sistema nervoso                 Encefalite,           encefalopatia,
+                                           convulsões,     paralisia,   neurite
+                                           (incluindo síndrome de Guillain-
+                                           Barré, nevrite ótica e esclerose
+                                           múltipla), neuropatia, hipostesia
+Vasculopatias                              Vasculite, hipotensão
+Afeções dos tecidos cutâneos e subcutâneos Eritema      multiforme,     edema
+                                           angioneurótico, líquen plano
+Afeções musculosqueléticas e dos tecidos Artrite, fraqueza muscular
+conjuntivos
+
+Num ensaio clínico comparativo realizado em indivíduos desde os 11 anos até aos 15
+anos de idade, inclusive, a incidência de sintomas solicitados locais e gerais notificados
+após um regime de duas doses de ENGERIX B (20 mcg/1 ml) foi globalmente idêntica
+aos referidos após o regime de três doses padrão de ENGERIX B (10 mcg/0,5 ml).
+
+Notificação de suspeitas de reações adversas
+                                                                       APROVADO EM
+                                                                       05-06-2024
+                                                                       INFARMED
+
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-risco
+do medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer
+suspeitas de reações adversas diretamente ao INFARMED, I.P.:
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+E-mail: farmacovigilancia@infarmed.pt
+
+4.9 Sobredosagem
+
+Foram notificados casos de sobredosagem durante a farmacovigilância pós-
+comercialização. Os acontecimentos adversos notificados após a sobredosagem foram
+semelhantes aos notificados com a administração normal da vacina.
+
+
+5. PROPRIEDADES FARMACOLÓGICAS
+
+5.1 Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 18.1 – Vacinas e imunoglobulinas. Vacinas (simples e
+conjugadas). V acina contra a hepatite B
+Código ATC: J07BC01
+
+Mecanismo de ação
+
+ENGERIX B induz anticorpos humorais específicos contra AgHBs (anticorpos anti-HBs).
+A concentração de anticorpos anti-HBs ≥10 UI/l está correlacionada com proteção
+contra a infeção pelo VHB.
+
+Efeitos farmacodinâmicos
+
+Em estudos de campo, demonstrou-se uma eficácia protetora compreendida entre 95%
+e 100% em recém-nascidos, crianças e adultos de risco.
+
+- Indivíduos saudáveis com 16 anos de idade e superior:
+
+A tabela seguinte resume as taxas de seroproteção (isto é, a percentagem de indivíduos
+com concentrações de anticorpos anti-HBs ≥ 10 UI/l) obtidas em ensaios clínicos com
+ENGERIX B (20 mcg/1 ml) administrado de acordo com os diferentes esquemas
+mencionados na secção 4.2:
+
+População                   Esquema                        Taxa de seroproteção
+Indivíduos saudáveis com 16 0, 1, 6 meses                  no mês 7: ≥96%
+                                                                        APROVADO EM
+                                                                        05-06-2024
+                                                                        INFARMED
+
+anos de idade e superior        0, 1, 2, 12 meses            no mês 1: 15%
+                                                             no mês 3: 89%
+                                                             no mês 13: 95,8%
+Indivíduos saudáveis com 18 0, 7, 21 dias, 12 meses          no dia 28: 65,2%
+anos de idade e superior                                     no mês 2: 76%
+                                                             no mês 13: 98,6%
+
+A informação incluída na tabela foi obtida com as vacinas contendo tiomersal. Dois
+ensaios clínicos adicionais, realizados com a formulação atual de ENGERIX B, que não
+contem tiomersal, em lactentes e adultos saudáveis, mostraram taxas de seroproteção
+semelhantes, comparativamente à formulação anterior de ENGERIX B com tiomersal.
+
+- Indivíduos saudáveis desde os 11 anos de idade até os 15 de idade, inclusive:
+
+As taxas de seroproteção obtidas com os dois esquemas e doses diferentes aprovados
+em indivíduos desde os 11 anos de idade até aos 15 anos de idade, inclusive, foram
+avaliadas até aos 66 meses após a administração da primeira dose da vacinação
+primária e encontram-se descritas na tabela seguinte (coorte ATP para a eficácia):
+
+                     Meses após a primeira dose de vacina:
+Esquema           de 2       6         7         30        42            54       66
+vacinação
+                     Taxa de seroproteção
+ENGERIX B (10 55,8%           87,6%     98,2%*       96,9%     92,5%     94,7%    91,4%
+mcg/0,5 ml) (0, 1, 6
+meses)
+ENGERIX B (20 11,3%           26,4%     96,7%*       87,1%     83,7%     84,4%    79,5%
+mcg/1 ml)
+(0, 6 meses)
+
+* No mês 7, 97,3% e 88,8% dos indivíduos dos 11 aos 15 anos de idade vacinados com
+ENGERIX B (10 mcg/0,5 ml) (esquema de 0, 1, 6 meses) ou ENGERIX B (20 mcg/1 ml)
+(esquema de 0, 6 meses), respetivamente, desenvolveram concentrações de anticorpos
+anti-HBs ≥100 mUI/ml. A concentração média geométrica (Geometric Mean
+Concentrations – GMC) foi de 7238 mUI/ml e 2739 mUI/ml, respetivamente.
+
+Foi administrada uma dose de carga a todos os indivíduos de ambos os grupos da
+vacina (N=74), 72 a 78 meses após a vacinação primária. Um mês depois, todos os
+indivíduos obtiveram uma resposta anamnésica com a GMC a aumentar em 108 e 95
+vezes do antes para os pontos após a dose de carga no esquema de primo-imunização
+de 2 doses e 3 doses, respetivamente e foi demonstrado estarem seroprotegidos. Esta
+informação sugere que a memória imunitária foi induzida em todos os indivíduos que
+responderam à vacinação primária, mesmo os que tinham perdido a seroproteção ao
+mês 66.
+
+- Doentes com insuficiência renal incluindo doentes submetidos a hemodiálise:
+As taxas de seroproteção em indivíduos com idade igual e superior a 16 anos com
+insuficiência renal, incluindo doentes submetidos a hemodiálise, foram avaliadas 3 e 7
+meses após a primeira dose da vacinação primária e são apresentadas na Tabela
+seguinte:
+                                                                       APROVADO EM
+                                                                       05-06-2024
+                                                                       INFARMED
+
+
+Idade (anos)                 Esquema                      Taxa de seroproteção
+16 e superior                0, 1, 2, 6 meses             ao mês 3: 55,4%
+                             (2 x 20 mcg)                 ao mês 7: 87,1%
+
+- Doentes com diabetes tipo II:
+As taxas de seroproteção em indivíduos com idade igual e superior a 20 anos com
+diabetes tipo II foram avaliadas um mês após a última dose da vacinação primária e são
+apresentadas na Tabela seguinte:
+
+Idade (anos)                  Esquema                      Taxa de seroproteção
+                                                           ao Mês 7
+20-39                                                      88,5%
+40-49                         0,     1,         6    meses 81,2%
+50-59                         (20 mcg)                     83,2%
+≥ 60                                                       58,2%
+
+- Redução da incidência de carcinoma hepatocelular em crianças:
+Foi estabelecida uma relação evidente entre a infeção por vírus da hepatite B e a
+ocorrência de carcinoma hepatocelular (CHC). A prevenção da hepatite B por vacinação
+traduz-se numa redução da incidência de CHC, como foi observado em crianças dos 6
+aos 14 anos, na Formosa.
+
+5.2 Propriedades farmacocinéticas
+
+Não aplicável
+
+5.3 Dados de segurança pré-clínica
+
+Os dados de segurança pré-clínica satisfazem os requisitos da OMS.
+
+
+6. INFORMAÇÕES FARMACÊUTICAS
+
+6.1 Lista dos excipientes
+
+Cloreto de sódio
+Fosfato dissódico di-hidratado
+Fosfato monossódico di-hidratado
+Água para preparações injetáveis
+
+Para o adsorvente ver secção 2.
+
+6.2 Incompatibilidades
+
+Na ausência de estudos de compatibilidade, este medicamento não pode ser misturado
+com outros medicamentos.
+
+6.3 Prazo de validade
+                                                                         APROVADO EM
+                                                                         05-06-2024
+                                                                         INFARMED
+
+
+3 anos
+
+6.4 Precauções especiais de conservação
+
+Conservar no frigorífico (2ºC a 8ºC).
+
+Não congelar.
+
+Conservar na embalagem de origem para proteger da luz.
+
+Os dados de estabilidade indicam que ENGERIX B é estável a temperaturas até 37ºC
+durante 3 dias ou até 25ºC durante 7 dias. Esta informação tem como objetivo orientar
+os profissionais de saúde apenas em caso de excursão temporária de temperatura.
+
+6.5 Natureza e conteúdo do recipiente
+
+1 ml de suspensão em seringa pré-cheia (vidro tipo I) com um travão no êmbolo
+(borracha butílica) e uma tampa de borracha na extremidade.
+Embalagens de 1 e 10 , com ou sem agulhas.
+
+1 ml de suspensão num frasco (vidro tipo I) com uma rolha (borracha butílica).
+Embalagens de 1, 10, 25 e 100.
+
+A extremidade da tampa e a rolha de borracha do êmbolo da seringa pré-cheia e a
+tampa do frasco são feitos de borracha sintética.
+
+
+É possível que não sejam comercializadas todas as apresentações.
+
+6.6 Precauções especiais de eliminação e manuseamento
+
+Após armazenagem, o conteúdo pode apresentar um depósito branco fino com um
+sobrenadante incolor transparente. Após agitação a vacina fica ligeiramente opaca.
+
+A vacina deverá ser inspecionada visualmente antes da sua administração para detetar
+qualquer partícula estranha e/ou aparência física anormal. No caso de alguma destas
+observações, não administrar a vacina.
+
+A totalidade do conteúdo do recipiente monodose deve ser retirada e administrada de
+imediato.
+                                                                                APROVADO EM
+                                                                                05-06-2024
+                                                                                INFARMED
+
+   Instruções para a seringa pré-cheia
+
+
+                                            Segure a seringa pela cânula e não pelo êmbolo da seringa.
+                      Adaptador do
+                      sistema de rosca
+                                            Desenrosque a tampa da seringa rodando-a no sentido contrário aos
+                                            ponteiros do relógio.
+
+Êmbolo da
+seringa   Cânula da
+          seringa        Tampa da seringa
+
+
+
+                                             Para colocar a agulha na seringa, ligue o orifício da agulha ao
+                                             adaptador do sistema de rosca, rodando um quarto no sentido dos
+                  Orifício da                ponteiros do relógio até sentir que está fixo.
+                  agulha
+                                             Não puxe o êmbolo da seringa para fora da cânula da seringa. Se isso
+                                             acontecer, não administre a vacina.
+
+
+
+
+   Eliminação
+
+   Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com
+   as exigências locais.
+
+
+   7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+   Smith Kline & French Portuguesa - Produtos Farmacêuticos, Lda.
+   Rua Dr. António Loureiro Borges, 3
+   Arquiparque – Miraflores
+   1495-131 Algés
+
+
+   8. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+   1 frasco para injetáveis monodose x 20 mcg + 1 seringa: 8671909
+   3 frascos para injetáveis monodose x 20 mcg + 3 seringas: 3739281
+   10 frascos para injetáveis monodoses x 20 mcg + 10 seringas: 8671917
+   25 frascos para injetáveis monodose x 20 mcg + 25 seringas:     8671925
+   100 frascos para injetáveis monodose x 20 mcg + 100 seringas: 3739489
+                                                                    APROVADO EM
+                                                                    05-06-2024
+                                                                    INFARMED
+
+1 frasco para injetáveis monodose x 20 mcg:      373908310 frascos para injetáveis
+monodose x 20 mcg: 4779682
+25 frascos para injetáveis monodose x 20 mcg:    3739380
+100 frascos para injetáveis monodose x 20 mcg:   3737780
+
+1 seringa pré-cheia x 20 mcg:      2294189
+10 seringas pré-cheias x 20 mcg:   3738887
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 2 de novembro de 1987
+Data da ´última renovação: 23 de novembro de 2012
+
+
+10. DATA DA REVISÃO DO TEXTO
+

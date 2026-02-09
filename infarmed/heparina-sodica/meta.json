@@ -1,0 +1,15 @@
+{
+  "bestMatch": {
+    "infarmedId": "4183",
+    "medicationName": "Heparina Leo",
+    "dci": "Heparina sódica",
+    "form": "Solução injetável",
+    "dosage": "25000 U.I./5 ml",
+    "holder": "Leo Pharma A/S",
+    "searchTerm": "heparina sodica"
+  },
+  "documents": {
+    "rcm": "rcm/4183-rcm.pdf",
+    "fi": "fi/4183-fi.pdf"
+  }
+}

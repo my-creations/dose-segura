@@ -1,0 +1,386 @@
+                                                                                      APROVADO EM
+                                                                                       11-04-2019
+                                                                                       INFARMED
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1. NOME DO MEDICAMENTO
+Adenosina Baxter 6mg/2ml solução injetável
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+Cada ml de solução injetável contém 3 mg de adenosina.
+Cada frasco de 2 ml contém 6 mg de adenosina.
+Excipientes com efeito conhecido:
+cada ml de solução contém 3,542 mg de sódio
+Lista completa de excipientes, ver secção 6.1.
+
+3. FORMA FARMACÊUTICA
+Solução injetável
+Solução límpida entre incolor a praticamente incolor, livre de partículas visíveis.
+Osmolaridade: entre 250 mOsmol/L e 360 mOsmol/L
+pH: entre 4,50 e 7,50.
+
+4. INFORMAÇÕES CLÍNICAS
+4.1 Indicações terapêuticas
+Rápida conversão para ritmo sinusal normal, das taquicardias paroxísticas supraventriculares,
+incluindo as associadas a vias acessórias (síndroma de Wolff-Parkinson-White).
+População pediátrica
+Rápida conversão para ritmo sinusal normal, de taquicardia paroxística supraventricular em
+crianças com idades entre 0 e 18 anos.
+Indicações de diagnóstico
+Auxiliar no diagnóstico de taquicardias supraventriculares de complexos finos. Embora
+Adenosina Baxter 3mg/ml solução injetável não converta o flutter auricular, fibrilhação
+auricular, ou taquicardia ventricular para ritmo sinusal, o retardamento da condução aurículo-
+ventricular (AV) facilita o diagnóstico da atividade auricular.
+Melhoria da sensibilidade dos estudos eletrofisiológicos intracavitários.
+4.2 Posologia e modo de administração
+A adenosina destina-se exclusivamente para uso hospitalar apenas quando exista equipamento
+de monitorização e reanimação cardiorrespiratória disponível para utilização imediata.
+Modo de administração
+Deve ser administrado em bólus de injeção endovenosa rápida de acordo com o esquema de
+aumento das doses, tal como se indica a seguir. Para garantir que a solução atinge a
+circulação sistémica esta deve ser administrada ou diretamente numa veia ou através de uma
+                                                                              APROVADO EM
+                                                                               11-04-2019
+                                                                               INFARMED
+linha endovenosa. Se a administração se fizer através de uma linha endovenosa, deve ser
+injetada tão próximo quanto possível do cateter e seguido de uma rápida infusão salina.
+A adenosina só deve ser administrada quando existe equipamento de
+monitorização cardíaca. Os doentes que desenvolvam um bloqueio AV de grau elevado com
+uma determinada dose, não devem receber doses mais elevadas.
+Posologia
+Adultos:
+Dose inicial:          3 mg administrados em bólus endovenoso rápido
+                       (durante 2 segundos).
+Segunda dose:          Se com a primeira dose não se conseguir a supressão da
+                       taquicardia supraventricular nos primeiros 1 a 2 minutos,
+                       devem ser administrados 6 mg também em bólus
+                       endovenoso rápido.
+Terceira dose:         Se com a segunda dose não se conseguir a supressão da
+                       taquicardia supraventricular nos primeiros 1 a 2 minutos,
+                       devem ser administrados 12 mg também em bólus
+                       endovenoso rápido.
+Não se recomenda a administração de doses adicionais ou doses mais elevadas.
+População pediátrica
+Durante a administração de adenosina o equipamento de reanimação cardiorrespiratória deve
+estar disponível para uso imediato, se necessário.
+A adenosina destina-se a ser usada com monitorização contínua e registo de ECG durante a
+administração.
+A dose recomendada para o tratamento da taquicardia paroxística supraventricular na
+população pediátrica é:
+- primeiro bólus de 0,1 mg/kg de peso corporal (dose máxima de 6 mg)
+- aumentos de 0,1 mg/kg de peso corporal consoante necessário até terminar a taquicardia
+supraventricular (dose máxima de 12 mg).
+Modo de administração
+A adenosina deve ser administrada em bólus de injeção endovenosa rápida numa veia ou
+através de uma linha endovenosa. Se a administração se fizer através de uma linha
+endovenosa, deve ser injetada tão próximo quanto possível do cateter e seguido de uma
+rápida infusão salina. Se for administrada através de veia periférica, dever-se-á usar uma
+cânula de suporte largo.
+Cada frasco destina-se a utilização única. Antes da administração a solução deverá ser
+examinada visualmente quanto a matéria particulada e descoloração. Só se deverá usar
+solução clara e incolor.
+Idosos
+Ver as recomendações de dose para adultos.
+Dose de diagnóstico
+                                                                               APROVADO EM
+                                                                                11-04-2019
+                                                                                INFARMED
+A escala de doses crescentes acima referida deve ser utilizada até se conseguir informação
+diagnóstica suficiente.
+Modo de administração: apenas injeção endovenosa rápida.
+4.3 Contraindicações
+Adenosina está contraindicado em doentes com:
+- Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na
+secção 6.1.
+- Doença do nódulo sinusal, bloqueio átrio-ventricular (AV) de segundo ou terceiro grau
+(exceto em doentes com um pacemaker artificial funcional).
+- Doença pulmonar obstrutiva crónica com evidência de broncospasmo (ex.: asma brônquica).
+- Síndroma de QT longo
+- Hipotensão grave
+- Estados descompensados de insuficiência cardíaca
+4.4 Advertências e precauções especiais de utilização
+Advertências: devido à possibilidade de surgimento de arritmias cardíacas transitórias durante
+a conversão da taquicardia supraventricular para o ritmo sinusal normal, a administração
+deverá ser feita em hospitais que disponham de equipamento de monitorização e reanimação
+cardiorrespiratória para utilização imediata, caso seja necessário. Durante a administração é
+necessária a monitorização contínua do ECG, uma vez que podem ocorrer arritmias
+potencialmente fatais (ver secção 4.2).
+Devido ao facto de poder causar uma hipotensão significativa, a adenosina deve ser utilizada
+com precaução em doentes com estenose coronária principalmente esquerda, hipovolémia não
+corrigida, doença valvular estenótica cardíaca, derivação da esquerda para a direita,
+pericardite ou derrame pericárdico, disfunção autonómica ou doença arterial estenótica da
+carótida com insuficiência cerebrovascular.
+A adenosina deve ser utilizada com precaução em doentes com enfarte do miocárdio recente,
+insuficiência cardíaca grave, ou em doentes com alterações menores da condução (bloqueio AV
+de primeiro grau, bloqueio completo de ramo) que possam ser temporariamente agravadas
+durante a perfusão.
+A adenosina deve ser utilizada com precaução em doentes com fibrilhação atrial ou flutter e
+especialmente naqueles com um bypass acessório, visto que, em particular estes últimos,
+podem desenvolver um aumento da condução ao longo da via anómala.
+Têm sido relatados casos raros de bradicardia grave. Alguns ocorreram em doentes
+recentemente transplantados; nos outros casos estava presente uma doença sinoatrial oculta.
+A ocorrência de bradicardia grave deve ser tomada como um aviso de doença subjacente que
+poderá favorecer a ocorrência de torsades de pointes, especialmente em doentes com
+intervalos QT prolongados.
+Em doentes com transplante cardíaco recente (menos de 1 ano) foi observado um aumento da
+sensibilidade do coração à adenosina.
+Uma vez que nem os rins nem o fígado estão envolvidos na degradação da adenosina
+exógena, a eficácia da adenosina não será afetada pela insuficiência hepática ou renal.
+Uma vez que o dipiridamol é um conhecido inibidor da captação da adenosina, pode potenciar
+a ação da adenosina. Assim, sugere-se que a mesma não seja administrada a doentes que se
+encontrem a receber dipiridamol; se a utilização da adenosina for essencial, o dipiridamol
+deve ser interrompido 24 horas antes, ou a dose de adenosina deve ser grandemente reduzida
+(ver secção 4.5 Interações medicamentosas e outras formas de interação).
+                                                                                APROVADO EM
+                                                                                 11-04-2019
+                                                                                 INFARMED
+Precauções:
+A ocorrência de angina, bradicardia grave, hipotensão grave, insuficiência respiratória
+(potencialmente fatal), ou assistolia/paragem cardíaca (potencialmente fatal), devem levar à
+descontinuação imediata do tratamento.
+A adenosina pode desencadear convulsões em doentes suscetíveis a convulsões. Em doentes
+com antecedentes de convulsões/ataques, a administração de adenosina deve ser
+cuidadosamente monitorizada.
+Devido ao possível risco de torsades de pointes, a adenosina injetável deve ser usada com
+precaução em doentes com intervalos QT prolongados, quer estes sejam de indução
+medicamentosa ou de origem metabólica. A adenosina está contraindicada em doentes com
+síndroma de QT longo (ver secção 4.3)
+A adenosina pode precipitar ou agravar o broncospasmo (ver secções 4.3 e 4.8).
+A adenosina contém 9 mg de cloreto de sódio por ml (o que corresponde a 3,54 mg de sódio
+por ml). Esta informação deve ser tida em consideração em doentes com ingestão controlada
+de sódio.
+População pediátrica
+A adenosina pode levar ao surgimento de arritmias atriais que podem originar aceleração
+ventricular em crianças com o síndroma de Wolff-Parkinson-White (WPW). Ver também secção
+5.1.
+A eficácia da administração intraóssea não foi estabelecida.
+4.5 Interações medicamentosas e outras formas de interação
+O dipiridamol inibe a captação celular e o metabolismo da adenosina, potenciando a ação da
+adenosina. Um estudo com dipiridamol demonstrou que este aumenta em quatro vezes a ação
+da adenosina. Foi relatada assistolia após a administração concomitante.
+Assim, sugere-se que adenosina não seja administrada a doentes que se encontrem a receber
+dipiridamol; se a utilização de adenosina for essencial, o dipiridamol deve ser interrompido 24
+horas antes, ou a dose de adenosina deve ser grandemente reduzida (ver secção 4.4
+Advertências e precauções especiais de utilização).
+A aminofilina, a teofilina e outras xantinas são antagonistas competitivos da adenosina e
+devem ser evitadas durante as 24 horas anteriores ao uso de adenosina.
+Alimentos e bebidas contendo xantinas (chá, café, chocolate e cola) devem ser evitados, pelo
+menos durante 12 horas antes do uso de adenosina.
+A adenosina pode interagir com medicamentos com tendência para interferir com a condução
+cardíaca.
+4.6 Fertilidade, gravidez e aleitamento
+Gravidez
+Não existem ou são limitados os dados disponíveis sobre a utilização da adenosina em
+mulheres grávidas. Estudos em animais são insuficientes no que diz respeito à toxicidade
+reprodutiva. Não se recomenda a utilização de adenosina durante a gravidez a não ser que o
+médico considere que os benefícios ultrapassam os potenciais riscos
+                                                                              APROVADO EM
+                                                                               11-04-2019
+                                                                               INFARMED
+Amamentação
+Desconhece-se se os metabolitos da adenosina são excretados no leite materno.
+A adenosina não deve ser utilizada durante a amamentação.
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+Não relevante.
+4.8 Efeitos indesejáveis
+Os efeitos adversos são ordenados em função da sua frequência:
+Muito frequentes (≥1/10), frequentes (≥1/100, <1/10), pouco frequentes (≥1/1000, <1/100)
+raros (≥1/10000, <1/1000), muito raros (<1/10000), desconhecido (não pode ser calculado a
+partir dos dados disponíveis). Estes efeitos secundários são geralmente suaves, de curta
+duração (geralmente menos de um minuto) e bem tolerados pelo doente, No entanto, podem
+ocorrer reações graves.
+As metilxantinas, tais como a aminofilina ou teofilina IV, têm sido utilizadas para pôr termo
+aos efeitos secundários persistentes (50-125 mg por injeção intravenosa lenta).
+
+Frequência                               Efeitos secundários
+Perturbações do foro psiquiátrico
+Frequentes                               - Apreenssão
+Doenças do sistema nervoso
+Frequentes                               - Cefaleia
+                                         - Tonturas, atordoamento
+Pouco frequentes                         Pressão na cabeça
+Muito raros                              Agravamento transitório da hipertensão
+                                         intracraniana reversível de forma rápida
+                                         e espontânea
+Desconhecidos                            - Perda de consciência/síncope
+                                         - Convulsões, especialmente em
+                                         doentes predispostos (ver secção 4.4)
+Afeções oculares
+Pouco frequentes                         - Visão enevoada
+Cardiopatias
+Muito frequentes                         - Bradicardia
+                                         - Pausa sinusal, batimentos em falta
+                                         - Extrassístoles atriais
+                                         - Bloqueio Atrio-Ventricular
+                                         - Alterações da excitabilidade
+                                         ventricular, tais como extrassístoles
+                                         ventriculares, taquicardia ventricular
+                                         não persistente
+Pouco frequentes                         - Taquicardia sinusal
+                                         - Palpitações
+Muito raros                              - Fibrilhação auricular
+                                         -Bradicardia grave não corrigida por
+                                         atropina e possivelmente requerendo
+                                                                               APROVADO EM
+                                                                                11-04-2019
+                                                                                INFARMED
+                                         pacemaker temporário.
+                                         - Alterações da excitabilidade
+                                         ventricular incluindo         fibrilhação
+                                         ventricular e torsade de pointes (ver
+                                         secção 4.4)
+Desconhecidos                            Hipotensão por vezes grave
+                                         - assistolia/paragem cardíaca, por vezes
+                                         fatal, especialmente em doentes com
+                                         perturbações subjacentes cardíacas ou
+                                         doença isquémica cardíaca (ver secção
+                                         4.4)
+Vasculopatias
+Muito frequentes                         - Rubor
+Doenças respiratórias, torácicas e do mediastino
+Muito frequentes                           Dispneia (ou necessidade de respirar
+                                          profundamente)
+Pouco frequentes                           Hiperventilação
+Muito raros                               Broncospasmo (ver secção 4.4)
+Desconhecidos                             Insuficiência respiratória (ver secção
+                                          4.4)
+                                          - Apneia/Paragem respiratória
+Foram notificados casos fatais de insuficiência respiratória, broncospasmo, apneia
+e paragem respiratória.
+Doenças gastrointestinais
+Frequentes                                 - Náuseas
+Pouco frequentes                           - Gosto metálico
+Desconhecidos                              - Vómitos
+Perturbações gerais e alterações no local de administração
+Muito frequentes                           - Pressão/dor no peito, sensação de
+                                           constrição/opressão torácica
+Frequentes                                 Sensação de queimadura
+Pouco frequentes                           - Sudação
+                                           - Sensação de desconforto generalizada
+                                           / astenia / dor
+Muito raros                                - Reações no local da injeção
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-risco do
+medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas de
+reações adversas diretamente ao INFARMED, I.P.:
+INFARMED, I.P.
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 71 40
+Fax: + 351 21 798 73 97
+Sítio da internet: http://extranet.infarmed.pt/page.seram.frontoffice.seramhomepage
+E-mail: farmacovigilancia@infarmed.pt
+                                                                               APROVADO EM
+                                                                                11-04-2019
+                                                                                INFARMED
+4.9 Sobredosagem
+A sobredosagem pode causar hipotensão grave, bradicardia ou assistolia. A semivida
+plasmática da adenosina no sangue é muito curta e os efeitos secundários (quando ocorrerem)
+terão uma duração muito limitada. Pode ser necessário administrar aminofilina ou teofilina IV.
+A avaliação farmacocinética indica que as metilxantinas são antagonistas competitivos da
+adenosina e que concentrações terapêuticas de teofilina bloqueiam os seus efeitos exógenos.
+
+5. PROPRIEDADES FARMACOLÓGICAS
+5.1 Propriedades farmacodinâmicas
+Grupo farmacoterapêutico: 3.2.5 – Aparelho cardiovascular. Antiarrítmicos. Outros
+antiarrítmicos
+Código ATC: C01EB10
+Nucleósido endógeno com efeito vasodilatador periférico / antiarrítmico.
+Mecanismo de ação:
+Medicamento Antiarrítmico
+A adenosina é um nucleósido purínico presente em todas as células do corpo. Estudos de
+farmacologia animal realizados em diversas espécies mostraram que a adenosina tem um
+efeito dromotrópico negativo no nódulo aurículo-ventricular (AV).
+No homem, a adenosina quando administrada por injeção endovenosa rápida, retarda a
+condução através do nódulo AV. Esta ação pode interromper os circuitos de reentrada
+envolvendo o nódulo AV e repor o ritmo sinusal normal em doentes com taquicardias
+supraventriculares paroxísticas. Uma vez interrompido o circuito, a taquicardia pára e o ritmo
+sinusal normal é restabelecido.
+Uma interrupção aguda do circuito é geralmente suficiente para parar a taquicardia.
+Uma vez que a fibrilhação auricular e o flutter auricular não envolvem o nódulo AV como parte
+do circuito de reentrada, a adenosina não eliminará estas arritmias.
+Através do retardamento transitório da condução AV, é mais fácil avaliar a atividade auricular
+nos registos de ECG e, portanto, o uso de Adenosina pode auxiliar o diagnóstico de
+taquicardias complexas.
+A adenosina pode ser muito útil durante os estudos eletrofisiológicos para determinação do
+local do bloqueio AV, ou para determinar em certos casos de pré-excitação, se a condução
+ocorre através de uma via acessória ou via nódulo AV.
+População pediátrica
+Não foram efetuados ensaios clínicos controlados com adenosina em doentes pediátricos
+quanto à conversão das taquicardias paroxísticas supraventriculares (TPSV). No entanto, a
+segurança e eficácia da adenosina em crianças com idades entre 0 e 18 anos com TPSV
+considera-se estabelecida com base no uso clínico extensivo e nos dados da bibliografia
+(estudos abertos, relatórios de caso, diretrizes clínicas).
+A revisão da literatura identificou 14 estudos em que a adenosina IV foi usada para a
+eliminação imediata de taquicardias supraventriculares (TSV) em cerca de 450 doentes
+                                                                                 APROVADO EM
+                                                                                  11-04-2019
+                                                                                  INFARMED
+pediátricos, com idades entre 6 horas e 18 anos. Os estudos foram heterogéneos em termos
+de idades e esquemas de dosagem. A TSV foi eliminada em 72 a 100% dos casos, na maioria
+dos estudos publicados. As doses variaram entre 37,5 mcg/kg e 400 mcg/kg. Vários estudos
+discutiram a ausência de resposta a doses iniciais inferiores a 100 mcg/kg.
+Dependendo da história clínica da criança, dos sintomas e do diagnóstico de ECG, a adenosina
+tem sido usada na prática clínica, sob supervisão de especialistas, em crianças com taquicardia
+complexa estável com QRS extenso e síndroma de Wolff-Parkinson-White. No entanto, os
+dados atualmente disponíveis não apoiam a indicação pediátrica. No total foram descritos 6
+casos de arritmias induzidas por adenosina (3 fibrilhação atrial, 2 flutter atrial, 1 fibrilhação
+ventricular) em 6 crianças com idades entre 0 e 16 anos, com síndroma WPW manifesto ou
+oculto, dos quais 3 recuperaram espontaneamente e 3 necessitaram de amiodarona +/-
+cardioversão (ver também secção 4.4).
+A adenosina foi também usada como auxiliar no diagnóstico de taquicardias supraventriculares
+de complexos finos nas mesmas doses usadas para tratamento de taquicardias
+supraventriculares. Embora a adenosina não converta o flutter auricular, a fibrilhação
+auricular, ou a taquicardia ventricular para ritmo sinusal, o retardamento da condução
+aurículo-ventricular (AV) facilita o diagnóstico da atividade auricular. No entanto, os dados
+atualmente disponíveis não apoiam a indicação de adenosina com finalidade de diagnóstico na
+população pediátrica.
+5.2 Propriedades farmacocinéticas
+É impossível estudar a adenosina através dos protocolos clássicos de ADME. A adenosina
+encontra-se presente, sob várias formas, em todas as células do organismo onde desempenha
+um importante papel nos sistemas de produção e utilização de energia. Existe um sistema
+eficiente de recuperação e reciclagem no organismo, principalmente a nível dos eritrócitos e
+nas células endoteliais dos vasos sanguíneos. A semivida in vitro é estimada em menos de 10
+segundos. A semivida in vivo poderá ser ainda menor.
+5.3 Dados de segurança pré-clínica
+Não existem dados de segurança pré-clínica relevantes para o prescritor, além do que já foi
+indicado em outras secções do RCM.
+
+6. INFORMAÇÕES FARMACÊUTICAS
+6.1 Lista dos excipientes
+Água para preparações injetáveis
+Cloreto de sódio
+6.2 Incompatibilidades
+Não é conhecida a compatibilidade com outros medicamentos.
+Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com
+outros medicamentos.
+6.3 Prazo de validade
+Fechado: 2 Anos
+O produto deve ser usado imediatamente após abertura.
+Qualquer porção do frasco para injetáveis que não seja utilizada de imediato deve ser
+rejeitada.
+                                                                              APROVADO EM
+                                                                               11-04-2019
+                                                                               INFARMED
+6.4 Precauções especiais de conservação
+Conservar a temperatura inferior a 25ºC. Não refrigerar.
+6.5 Natureza e conteúdo do recipiente
+Frascos tubulares de vidro tipo I transparente, tratados com dióxido de enxofre, com tampa de
+borracha revestida a teflon e volume de enchimento de 2 ml.
+Embalagens de 5, 6, 10 e 25 frascos.
+É possível que não sejam comercializadas todas as apresentações.
+6.6 Precauções especiais de eliminação e manuseamento
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as
+exigências locais.
+
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+10. DATA DA REVISÃO DO TEXTO
+

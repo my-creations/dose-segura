@@ -1,0 +1,15 @@
+{
+  "bestMatch": {
+    "infarmedId": "4899",
+    "medicationName": "Largactil IM",
+    "dci": "Cloropromazina",
+    "form": "Solução injetável",
+    "dosage": "25 mg/5 ml",
+    "holder": "Faes Farma Portugal, S.A.",
+    "searchTerm": "cloropromazina"
+  },
+  "documents": {
+    "rcm": "rcm/4899-rcm.pdf",
+    "fi": "fi/4899-fi.pdf"
+  }
+}

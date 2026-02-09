@@ -1,0 +1,31 @@
+{
+  "medId": "verapamilo-cloridrato",
+  "searchTerm": "verapamilo",
+  "retrievedAt": "2026-02-09T00:50:23.579Z",
+  "bestMatch": {
+    "infarmedId": "4684",
+    "name": "Isoptin",
+    "dci": "Verapamilo",
+    "form": "Solução injetável",
+    "dosage": "5 mg/2 ml",
+    "holder": "Viatris Healthcare, Lda.",
+    "isGeneric": false,
+    "score": 130
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/4684-rcm.pdf",
+      "size": 99060
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/4684-fi.pdf",
+      "size": 103891
+    }
+  }
+}

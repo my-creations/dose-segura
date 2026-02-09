@@ -1,0 +1,31 @@
+{
+  "medId": "diazepam",
+  "searchTerm": "diazepam",
+  "retrievedAt": "2026-02-08T22:21:25.093Z",
+  "bestMatch": {
+    "infarmedId": "607343",
+    "name": "Diazepam GrindeksMG",
+    "dci": "Diazepam",
+    "form": "Solução injetável",
+    "dosage": "10 mg/2 ml",
+    "holder": "Grindeks, S.A.",
+    "isGeneric": false,
+    "score": 170
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/607343-rcm.pdf",
+      "size": 66863
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/607343-fi.pdf",
+      "size": 49079
+    }
+  }
+}

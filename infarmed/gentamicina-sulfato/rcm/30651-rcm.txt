@@ -1,0 +1,537 @@
+                                                                        APROVADO EM
+                                                                        06-06-2024
+                                                                        INFARMED
+
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+
+1 - NOME DO MEDICAMENTO
+
+Gentamicina Labesfal, 10 mg/1 ml, Solução injetável
+Gentamicina Labesfal, 40 mg/ 1 ml, Solução injetável
+Gentamicina Labesfal, 80 mg/2 ml, Solução injetável
+Gentamicina Labesfal, 160 mg/ 2 ml, Solução injetável
+
+
+2 - COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Gentamicina Labesfal, 10 mg/1 ml, Solução injetável
+Cada ml de solução injetável contém 10 mg de gentamicina (sob a forma de sulfato).
+
+Gentamicina Labesfal, 40 mg/1 ml, Solução injetável
+Gentamicina Labesfal, 80 mg/2 ml, Solução injetável
+Cada ml de solução injetável contém 40 mg de gentamicina (sob a forma de sulfato).
+
+Gentamicina Labesfal, 160 mg/2 ml, Solução injetável
+Cada ml de solução injetável contém 80 mg de gentamicina (sob a forma de sulfato).
+
+Excipiente(s) com efeito conhecido:
+p-hidroxibenzoato de propilo (E 216) - 0,2 mg/ml
+p-hidroxibenzoato de metilo (E 218) - 1,8 mg/ml
+Bissulfito de sódio (E 222) - 3,2 mg/ml
+Sódio - 0,72 mg/ml (sob a forma de edetato disódico e de bissulfito de sódio)
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+3 - FORMA FARMACÊUTICA
+
+Solução injetável.
+
+
+4 - INFORMAÇÕES CLÍNICAS
+
+4.1 Indicações terapêuticas
+
+São determinadas pela atividade antibacteriana e pelas características farmacocinéticas da
+gentamicina. Estão limitadas às infeções por bacilos gram-negativos, definidos como
+sensíveis, principalmente nas suas manifestações renais e urológicas.
+                                                                       APROVADO EM
+                                                                       06-06-2024
+                                                                       INFARMED
+
+A associação da gentamicina com um outro antibiótico poderá ser justificada em certas
+infeções por germes sensíveis, com base em dados bacteriológicos, particularmente nas
+suas manifestações:
+- renais, urológicos e genitais;
+- septicémicas e endocardites;
+- meningites (associando-se um tratamento local);
+- respiratórias;
+- cutâneas (estafilococcia cutânea maligna da face);
+- articulares.
+
+Deverão ter-se em consideração as normas orientadoras sobre o uso adequado de
+antibacterianos.
+
+4.2 Posologia e modo de administração
+
+Posologia
+
+A dose diária recomendada nas crianças, adolescentes e adultos, com função renal
+normal, é 3-6 mg/kg de peso corporal por dia em uma (preferencial) ou até duas doses
+únicas.
+
+A dose diária em bebés após o primeiro mês de vida é 4,5-7,5 mg/kg de peso corporal em
+uma (preferencial) ou até duas doses únicas.
+A dose diária em recém-nascidos é de 4-7 mg/kg de peso corporal. Dada a maior
+semivida, os recém-nascidos devem receber a dose diária necessária numa dose única.
+
+- Insuficientes renais:
+- Em doentes com alterações da função renal a dose diária recomendada deve ser
+diminuída e ajustada à função renal. Vigiar de forma regular as funções renal, coclear e
+vestibular e realizar na medida do possível as dosagens séricas de controlo. Os valores da
+creatinina sérica ou de clearance da creatinina endógena, são os melhores testes para
+avaliar o estado da função renal e proceder a uma adaptação na posologia da gentamicina.
+Adaptação da posologia em função dos valores da creatinina sérica:
+• conservando uma dose unitária de 1 mg/kg e aumentando o espaço entre as injeções. O
+intervalo (em horas) entre duas doses unitárias é obtido multiplicando por 0,8 o valor da
+creatinina sérica (em mg/l).
+• conservando um intervalo de 8 horas entre as injeções e reduzindo a dose unitária
+administrada. Neste caso, após uma dose de ataque de 1 mg/kg, administra-se de 8 em 8
+horas uma dose reduzida obtida pela divisão da dose de ataque pela décima parte do valor
+da creatinina sérica (em mg/l).
+Na hemodiálise periódica: injeção única de 1 mg/kg por via intravenosa lenta, no final de
+cada sessão.
+Na diálise peritoneal: injeção inicial de 1 mg/kg por via intramuscular; no curso da
+diálise, as perdas são compensadas juntando 5 a 10 mg de gentamicina por litro de
+líquido de diálise.
+                                                                         APROVADO EM
+                                                                         06-06-2024
+                                                                         INFARMED
+
+É recomendável que as concentrações séricas de gentamicina sejam monitorizadas,
+especialmente em idosos, recém-nascidos e em doentes com a função renal
+comprometida. As amostras deverão ser retiradas no final de cada intervalo entre doses
+(concentrações mínimas). As concentrações mínimas de gentamicina não devem exceder
+2 micrograma/ml quando administrada duas vezes por dia e 1 micrograma/ml quando
+administrada numa única dose diária.
+
+Modo de administração
+
+A via intramuscular é a via de eleição.
+Deve ser sempre utilizada, desde que seja acessível. Se for impraticável, pode ser
+utilizada a via intravenosa em perfusão descontínua: a quantidade de gentamicina a
+administrar é de 1 mg/kg diluída em soro fisiológico ou glicosado isotónico (pelo menos
+1 ml de soro para 1 mg de antibiótico, ou seja, no adulto: cerca de 100 a 200 ml de soro.
+Esta perfusão deve durar entre 30 a 60 minutos e deve ser renovada:
+- todas as 8 horas nos sujeitos normais;
+- a intervalos de tempo maiores nos insuficientes renais.
+
+4.3 Contraindicações
+
+- Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na
+secção 6.1.
+- Alergia aos antibióticos da família dos aminoglicósidos;
+- Miastenia Gravis.
+
+4.4 Advertências e precauções especiais de utilização
+
+Nos indivíduos portadores de anomalia vestibular e coclear.
+A nefrotoxicidade e a ototoxicidade da gentamicina, impõem as seguintes precauções de
+emprego:
+
+Existe um risco acrescido de ototoxicidade em doentes com mutações do ADN
+mitocondrial (particularmente a substituição do nucleótido 1555 A por G no gene 12S
+rRNA), mesmo que os níveis séricos de aminoglicosídeos estejam dentro dos limites
+recomendados durante o tratamento. Nesses doentes, devem considerar-se opções de
+tratamento alternativas.
+
+Em doentes com história materna de mutações relevantes ou surdez induzida por
+aminoglicosídeos, devem ser considerados tratamentos alternativos ou testes genéticos
+antes da administração.
+
+Em caso de insuficiência renal, utilizar a gentamicina só em situações de estrita
+necessidade e adaptar a posologia em função do clearance de creatinina (ver secção 4.2).
+- de forma a evitarem-se efeitos adversos, a monitorização contínua (antes, durante e após
+a administração) da função renal (creatinina sérica, clearance da creatinina), o controlo da
+                                                                        APROVADO EM
+                                                                        06-06-2024
+                                                                        INFARMED
+
+função vestibular e coclear bem como dos parâmetros hepáticos e laboratoriais, é
+recomendada.
+- as taxas séricas do antibióticos deverão ser controladas dentro da medida do possível;
+- tendo em conta a farmacocinética do produto e o mecanismo de ototoxicidade e de
+nefrotoxicidade, evitar os tratamentos iterativos e/ou prolongados, particularmente nos
+idosos;
+- associação com diuréticos muito ativos (ver secção 4.5).
+
+Utilizar com grande precaução em doentes com parkinsonismo e outras situações
+caracterizadas por fraqueza muscular.
+Em caso de intervenção cirúrgica, informar o anestesista-reanimador da toma do
+medicamento (ver secção 4.5).
+
+O tratamento com gentamicina pode produzir um crescimento excessivo de
+microrganismos resistentes. Se tal acontecer, deverá ser iniciado um tratamento
+adequado.
+
+Diarreia e colite pseudomembranosa foram observadas quando a gentamicina é
+combinada com outros antibióticos. Estes diagnósticos devem ser considerados em todos
+os doentes que desenvolverem diarreia durante ou imediatamente após o tratamento. A
+gentamicina deve ser interrompida se o doente sofrer de diarreia grave e/ou diarreia com
+sangramento durante o tratamento e um tratamento adequado deve ser iniciado. Não
+devem ser administrados medicamento que inibam o peristaltismo (ver secção 4.8).
+
+Para-hidroxibenzoato de propilo (E 216) / Para-hidroxibenzoato de metilo (E 218)
+Este medicamento contém para-hidroxibenzoato de propilo e para-hidroxibenzoato de
+metilo. Estes excipientes podem causar reações alérgicas (possivelmente retardadas), e
+excecionalmente, broncospasmo.
+
+SódioEste medicamento contém menos do que 1 mmol (23 mg) de sódio por mililitro, ou
+seja, é praticamente "isento de sódio".
+
+Bissulfito de sódio (E 222)
+Este medicamento contém bissulfito de sódio. Este excipiente pode causar, raramente,
+reações alérgicas (hipersensibilidade) graves e broncospasmo.
+
+4.5 Interações medicamentosas e outras formas de interação
+
+Evitar a associação da gentamicina com diuréticos muito ativos (diuréticos da ansa) e, em
+geral, a todo o produto ototóxico e nefrotóxico.
+Interação com outros aminoglicosídeos, vancomicina, algumas cefalosporinas,
+ciclosporina, cisplatina, fludarabina pode aumentar o risco de toxicidade.
+Curare, miorelaxantes, certos anestésicos gerais: a gentamicina pode potenciar a sua ação
+(risco de bloqueio neuromuscular podendo evoluir até paralisia respiratória). As
+                                                                        APROVADO EM
+                                                                        06-06-2024
+                                                                        INFARMED
+
+propriedades de bloqueio neuromuscular dos aminoglicosídeos podem ser suficientes
+para provocarem depressão respiratória grave em doentes sob anestesia geral ou opiáceos.
+A gentamicina não deve ser misturada num mesmo frasco ou na mesma seringa com
+outro medicamento, particularmente com um antibiótico da família dos beta-lactâmicos.
+
+4.6 Fertilidade, gravidez e aleitamento
+
+Gravidez
+A inocuidade da gentamicina ainda não foi estabelecida. Existe a possibilidade de
+toxicidade para o aparelho cocleo-vestibular do feto.
+A gentamicina só deve ser utilizada se os benefícios para a mãe forem superiores aos
+riscos em que incorre o feto.
+
+Amamentação
+A passagem para o leite materno é negligenciável.
+
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Não são conhecidos efeitos negativos sobre a capacidade de condução ou uso de
+máquinas.
+
+4.8 Efeitos indesejáveis
+
+As reações adversas que ocorreram durante os ensaios clínicos ou que foram notificadas
+espontaneamente estão descritas a seguir. A sua frequência está definida de acordo com
+as seguintes convenções: frequentes (≥1/100 a <1/10); pouco frequentes (≥ 1/1000 a
+<1/100); raros (≥1/10000 a <1/1000), muito raros (<1/10000), desconhecido (não pode
+ser calculado a partir dos dados disponíveis). Os efeitos indesejáveis são apresentados por
+ordem decrescente de gravidade dentro de cada classe de frequência.
+
+Doenças do sistema imunitário
+Reação anafilática (incluindo choque anafilático) e hipersensibilidade com frequência
+desconhecida (não pode ser calculado a partir dos dados disponíveis).
+Foram descritas reações alérgicas menores: rash, urticária. Estes fenómenos desaparecem
+com a interrupção do tratamento.
+
+Afeções do ouvido e do labirinto
+Ototoxicidade: este medicamento pertence à família dos aminósidos para os quais foram
+detetados casos de lesão cocleo-vestibular. Estes são favorecidos por posologias muito
+elevadas, tratamentos prolongados, insuficiência renal pré-existente, principalmente
+insuficiência renal funcional dos idosos ou associações a produtos ototóxicos.
+Foram notificadas situações de perda auditiva e surdez com frequência desconhecida (não
+pode ser calculada a partir dos dados disponíveis).
+
+Doenças renais e urinárias
+                                                                       APROVADO EM
+                                                                       06-06-2024
+                                                                       INFARMED
+
+Nefrotoxicidade: este medicamento pertence à família dos aminósidos para os quais
+foram referidos casos de insuficiência renal. Na maior parte dos casos, estes foram
+relacionados com uma posologia muito elevada ou com tratamentos prolongados,
+alterações renais anteriores, problemas hemodinâmicos ou associações a produtos
+nefrotóxicos.
+Foram notificados casos de insuficiência renal aguda e de Síndrome de Fanconi em
+doentes submetidos a tratamentos prolongados de alta dose, com frequência muito rara (<
+1/10000).
+
+Infeções e infestações
+Superinfeção (causada por bactérias resistentes à gentamicina), com frequência
+desconhecida (não pode ser calculada a partir dos dados disponíveis).
+Colite pseudomembranosa com frequência desconhecida (não pode ser calculado a partir
+dos dados disponíveis).
+
+Afeções dos tecidos cutâneos e subcutâneos
+Síndrome de Steven-Johnson e necrólise epidérmica tóxica, com frequência desconhecida
+(não pode ser calculado a partir dos dados disponíveis).
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-risco
+do medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas
+de reações adversas diretamente ao INFARMED, I.P.:
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+E-mail: farmacovigilancia@infarmed.pt
+
+4.9 Sobredosagem
+
+Em caso de sobredosagem ou de toxicidade, pode ser realizada hemodiálise ou diálise
+peritoneal para proceder a uma depuração sérica acelerada do antibiótico. As técnicas de
+depuração extrarrenal são particularmente indicadas nos insuficientes renais.
+
+
+5 - PROPRIEDADES FARMACOLÓGICAS
+
+5.1 Propriedades farmacodinâmicas
+                                                                       APROVADO EM
+                                                                       06-06-2024
+                                                                       INFARMED
+
+
+Grupo farmacoterapêutico: 1.1.7 - Medicamentos anti-infeciosos. Antibacterianos.
+Aminoglicosídeos.
+Código ATC: J01GB03
+
+A Gentamicina é um antibiótico bactericida da família dos aminoglicosídeos. O princípio
+ativo é um complexo do grupo dos aminósidos, obtido por fermentação de
+“actinomycetes monospores” do género micronospora. A gentamicina é formada por 3
+componentes: as frações C1,C1a, C2.
+O espetro antibacteriano natural da gentamicina é o seguinte:
+- Espécies habitualmente sensíveis: E. coli, Klebsiella, Enterobacter, serratia, proteus
+indole-, proteus indole+, Salmonella, Shigella, Pseudomonas, Acinetobacter,
+estafilococos;
+- Espécies resistentes (CMI > 16micrograma/ml): meningococos, Treponema pallidum,
+germes anaeróbios, estreptococos dos quais pneumococos.
+Apesar de inativa “in vitro” sobre os estreptococos, a gentamicina possui uma atividade
+sinérgica com os beta-lactâmicos sobre estes germes. Este efeito sinérgico existe
+igualmente, mas num grau menor, sobre os estafilococos.
+Se para uma dada espécie, não foi estabelecida a noção duma sensibilidade constante da
+estirpe, só um estudo “in vitro” da estirpe em causa permite confirmar se ela é sensível,
+resistente ou intermédia.
+
+5.2 Propriedades farmacocinéticas
+
+Absorção: a Gentamicina não é praticamente absorvida por via oral. É utilizada sob a
+forma de sulfato em soluções injetáveis, para administração parenteral.
+
+Distribuição: o volume de distribuição da gentamicina é praticamente equivalente ao
+volume de água extracelular. No recém-nascido a quantidade de água corresponde até 70-
+75 % do peso corporal, em comparação com os 50-55% em adultos. O compartimento
+extracelular de água é maior (40% do peso corporal em comparação com os 25% de peso
+corporal nos adultos). Portanto, o volume de distribuição da gentamicina por kg de peso
+corporal é afetado e diminui com o aumento da idade entre 0,5 a 0,7 l/kg para os recém-
+nascidos até 0,25 l/kg em adolescentes. Um maior volume de distribuição por kg de peso
+corporal significa que para um pico plasmático adequado é necessário administrar uma
+dose maior por kg de peso corporal.
+
+Nos indivíduos com função renal normal, após injeção IM duma dose unitária de 1
+mg/kg, obtém-se no fim de 30 a 60 minutos:
+- um pico sérico compreendido entre 4 a 5 micrograma/ml;
+- uma semivida plasmática (T 1/2) compreendida entre 2 e 2,5 horas; esta semivida é de
+aproximadamente 3 horas nos lactentes e de 5 horas nos recém-nascidos;
+- a insuficiência renal não modifica de forma significativa as concentrações séricas
+máximas (estão ligeiramente aumentadas), nem o tempo de obtenção do pico sérico.
+                                                                       APROVADO EM
+                                                                       06-06-2024
+                                                                       INFARMED
+
+A semivida de eliminação aumenta proporcionalmente à insuficiência renal. Este
+aumento do T ½ é líquido quando a clearance de creatinina endógena diminui abaixo de
+30 ml/min.
+Penetração tecidual e humoral: após administração por via parenteral, a gentamicina
+encontra-se na maioria dos tecidos e dos líquidos biológicos. A sua concentração é baixa
+no líquido cefalorraquidiano e é mais importante nas secreções brônquicas.
+Atravessa a barreira peritoneal e a barreira feto-placentária.
+Não atravessa praticamente a barreira hemato-meníngea; o tratamento das meningites
+necessita de administração intratecal associada à via sistémica.
+A passagem para o leite materno é muito fraca.
+A ligação às proteínas é praticamente nula.
+
+Biotransformação: a gentamicina não sofre a biotransformação hepática.
+
+Eliminação: a gentamicina não é metabolizada no organismo, sendo excretada na sua
+forma microbiologicamente ativa maioritariamente por via renal. Nos doentes com
+função renal normal a semivida de eliminação é cerca de 2 a 3 horas. Nos recém-nascidos
+a velocidade de eliminação é reduzida dada a imaturidade da função renal. A média da
+semivida de eliminação em prematuros com uma idade gestacional de 26 a 34 semanas é
+de aproximadamente 8 horas enquanto em prematuros com idade gestacional de 35 a 37
+semanas é de cerca de 6,7 horas.
+Assim, os valores de clearance aumentam desde aproximadamente 0,05 l/h em
+prematuros com uma idade gestacional de 27 semanas até 0,2 l/h em recém-nascidos com
+idade gestacional de 40 semanas.
+A eliminação biliar é fraca.
+A eliminação urinária diminui paralelamente ao grau de insuficiência renal. Assim, nos
+insuficientes renais não anúricos, as concentrações urinárias obtidas nas amostras
+recolhidas de 12 a 24 horas após a injeção (8 a 10 micrograma/ml), mantêm-se superiores
+à CMI dos germes sensíveis.
+A clearance renal da gentamicina diminui proporcionalmente à insuficiência renal, mas
+sem modificação significativa da relação clearance renal/clearance da creatinina que se
+mantém próximo de 60 a 70%.
+A gentamicina é hemodialisável.
+
+5.3 Dados de segurança pré-clínica
+
+A gentamicina, administrada por via IM., SC ou IV., manifestou potencial nefrotóxico e
+ototóxico. Em estudos de toxicidade reprodutiva, realizados no rato, a administração
+sistémica de doses elevadas de gentamicina provocou redução de peso dos rins e
+contagem de glomérulos na descendência. Não são conhecidos estudos para avaliação de
+efeitos potenciais sobre a fertilidade.
+A gentamicina não foi genotóxica no teste de Ames ou teste do micronúcleo, in vivo. Não
+são conhecidos estudos de carcinogenicidade.
+A gentamicina não demonstrou potencial de sensibilização no porquinho da índia.
+                                                                       APROVADO EM
+                                                                       06-06-2024
+                                                                       INFARMED
+
+
+6 - INFORMAÇÕES FARMACÊUTICAS
+
+6.1 Lista dos excipientes
+
+Gentamicina Labesfal 10 mg/1 ml
+Para-hidroxibenzoato de metilo (E218)
+Para-hidroxibenzoato de propilo (E216)
+Bissulfito de sódio (E 222)
+EDTA (sal dissódico)
+Água para preparações injetáveis - solvente
+
+Gentamicina Labesfal 40 mg/1 ml
+P-hidroxibenzoato de metilo (E218)
+P-hidroxibenzoato de propilo (E216)
+Bissulfito de sódio (E 222)
+EDTA (sal dissódico)
+Água para preparações injetáveis - solvente
+
+Gentamicina Labesfal 80 mg/2 ml
+P-hidroxibenzoato de metilo (E218)
+P-hidroxibenzoato de propilo (E216)
+Bissulfito de sódio (E 222)
+EDTA (sal dissódico)
+Água para preparações injetáveis - solvente
+
+Gentamicina Labesfal 160 mg/2 ml
+P-hidroxibenzoato de metilo (E218)
+P-hidroxibenzoato de propilo (E216)
+Bissulfito de sódio (E 222)
+EDTA (sal dissódico)
+Água para preparações injetáveis - solvente
+
+6.2 Incompatibilidades
+
+Os aminoglicosídeos são inativados “in vitro” por várias penicilinas e cefalosporinas via
+uma interação com o anel beta-lactâmico.
+A extensão da inativação depende da temperatura, concentração e duração do contacto.
+Entre os vários aminoglicosídeos, a gentamicina possui uma estabilidade intermédia. Os
+beta-lactâmicos, variam também na sua capacidade para produzir inativação marcada.
+Foi também referida inativação com o ácido clavulânico.
+A gentamicina é também incompatível com a furosemida, heparina, bicarbonato de sódio
+(o pH ácido das soluções de gentamicina pode libertar dióxido de carbono) e algumas
+soluções para nutrição parenteral.
+Podem ser esperadas interações com preparações com pH ácido.
+                                                                      APROVADO EM
+                                                                      06-06-2024
+                                                                      INFARMED
+
+Devido à sua potencial incompatibilidade, a gentamicina não deve ser, duma forma
+genérica, misturada com outros agentes em seringas ou soluções de infusão nem
+administrada através do mesmo sistema intravenoso. A administração de
+aminoglicosídeos juntamente com beta-lactâmicos deve ser em sítios separados.
+
+6.3 Prazo de validade
+
+O injetável de sulfato de gentamicina possui um prazo de validade de 2 anos após a data
+de fabrico.
+Após a abertura da ampola, quaisquer quantidades não utilizadas devem ser rejeitadas.
+6.4 Precauções especiais de conservação
+
+Conservar a temperatura inferior a 25ºC.
+Conservar na embalagem de origem para proteger da luz.
+
+6.5 Natureza e conteúdo do recipiente
+
+Embalagens com 1, 3 ou 5 ampolas de 160 mg/2 ml
+Embalagens com 1, 3, 5 ou 50 (embalagem hospitalar) ampolas de 80 mg/2 ml
+Embalagens com 1, 3, 5 ou 50 (embalagem hospitalar) ampolas de 40 mg/1 ml
+Embalagens com 1, 3 5 ou 50 (embalagem hospitalar) ampolas de 10 mg/1 ml
+
+É possível que não sejam comercializadas todas as apresentações.
+
+6.6 Precauções especiais de eliminação e manuseamento
+
+Os medicamentos destinados a administração parentérica devem ser visualmente
+inspecionados antes da sua utilização. Só deverá ser administrado se a solução se
+encontrar límpida e sem partículas em suspensão, e o recipiente estiver intacto.
+Este medicamento destina-se a uma utilização única. O conteúdo não utilizado deverá ser
+eliminado de imediato. Qualquer medicamento não utilizado ou resíduos devem ser
+eliminados de acordo com as exigências locais.
+Após abertura da ampola, a solução injetável deve ser usada de imediato
+
+Instruções para abrir as ampolas OPC (One-Point-Cut)
+
+- Segure o corpo da ampola entre o dedo polegar e o dedo indicador, com o ponto virado
+para cima;
+- Coloque o dedo indicador da outra mão a apoiar a parte superior da ampola. Coloque o
+dedo polegar de modo a tapar o ponto, conforme mostra a figura.
+- Com os dedos indicadores perto um do outro, pressione na zona do ponto, para abrir a
+ampola.
+                                                          APROVADO EM
+                                                          06-06-2024
+                                                          INFARMED
+
+
+
+
+7 - TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+LABESFAL - Laboratórios Almiro, S.A.
+Zona Industrial do Lagedo
+3465-157 Santiago de Besteiros
+Portugal
+
+
+8 - NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Gentamicina Labesfal, 10 mg/1 ml, Solução injetável
+Registo nº 2231793 - Embalagem de 1 ampola
+Registo nº 2231892 - Embalagem de 3 ampolas
+Registo nº 4602090 - Embalagem de 5 ampolas
+Registo nº 5164041 - Embalagem hospitalar de 50 ampolas
+
+Gentamicina Labesfal, 40 mg/1 ml, Solução injetável
+Registo nº 2232197 - Embalagem de 1 ampola
+Registo nº 2232296 - Embalagem de 3 ampolas
+Registo nº 4602298 - Embalagem de 5 ampolas
+Registo nº 5386792 - Embalagem hospitalar de 50 ampolas
+
+Gentamicina Labesfal, 80 mg/2 ml, Solução injetável
+Registo nº 2232395 - Embalagem de 1 ampola
+Registo nº 2232494 - Embalagem de 3 ampolas
+Registo nº 4602397 - Embalagem de 5 ampolas
+Registo nº 5386891 - Embalagem hospitalar de 50 ampolas
+
+Gentamicina Labesfal, 160 mg/2 ml, Solução injetável
+Registo nº 2232593 - Embalagem de 1 ampola
+Registo nº 2232692 - Embalagem de 3 ampolas
+Registo nº 4602496 - Embalagem de 5 ampolas
+                                                    APROVADO EM
+                                                    06-06-2024
+                                                    INFARMED
+
+
+9 - DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA INTRODUÇÃO NO
+MERCADO
+
+Data da primeira autorização: 16 de julho de 1994
+
+
+10 - DATA DA REVISÃO DO TEXTO
+
+MM/AAAA
+

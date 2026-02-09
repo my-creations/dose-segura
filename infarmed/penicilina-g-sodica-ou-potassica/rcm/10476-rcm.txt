@@ -1,0 +1,741 @@
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+
+1. NOME DO MEDICAMENTO
+
+Penicilina Atral 1 M.U.I. Pó para solução injetável
+Penicilina Atral 20 M.U.I. Pó para solução injetável
+
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Penicilina Atral 1 M.U.I. Pó para solução injetável
+Cada frasco para injetável contém o equivalente a 1.000.000 de Unidades Internacionais de
+benzilpenicilina, sob a forma de benzilpenicilina potássica.
+
+Excipiente com efeito conhecido:
+Sódio – cada frasco contém cerca de 6,1 mg.
+
+Penicilina Atral 20 M.U.I. Pó para solução injetável
+Cada frasco para injetável contém o equivalente a 20.000.000 de Unidades Internacionais de
+benzilpenicilina, sob a forma de benzilpenicilina potássica.
+
+Excipiente com efeito conhecido:
+Sódio – cada frasco contém cerca de 122 mg.
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+3. FORMA FARMACÊUTICA
+
+Pó para solução injetável.
+Pó branco ou quase branco.
+
+
+4. INFORMAÇÕES CLÍNICAS
+
+4.1 Indicações terapêuticas
+
+Penicilina Atral está indicada, em adultos e crianças, para o tratamento das seguintes infeções,
+causadas por bactérias suscetíveis à benzilpenicilina, bem como na terapêutica empírica anterior
+à identificação do(s) agente(s) patogénico(s) causal(ais):
+
+- infeções das vias respiratórias superiores;
+- infeções das vias respiratórias inferiores;
+- infeções da pele e dos tecidos moles;
+- infeções intra-abdominais por Clostridium;
+- infeções ósseas, nomeadamente na osteomielite aguda e crónica;
+- meningites;
+- septicemias;
+- endocardite e pericardite;
+- outras infeções, nomeadamente: tétano, actinomicose, antrax, leptospirose, listeriose, doença de
+Lyme grave, difteria e pasteurelose;
+- complicações secundárias à gonorreia e à sífilis (por exemplo, a artrite gonocócica ou
+endocardite, sífilis congénita e neurossífilis).
+Deve ser considerada a orientação oficial local sobre o uso adequado de agentes antibacterianos.
+A suscetibilidade do organismo causal ao tratamento deve ser testada (se possível), embora a
+terapia possa ser iniciada antes que os resultados estejam disponíveis.
+
+4.2 Posologia e modo de administração
+
+A dose e a via de administração devem ser determinadas tendo em consideração a gravidade da
+infeção, sensibilidade do microrganismo e condição clínica do doente.
+
+Posologia normal
+
+Grupo etário                   Posologia normal                            Frequência
+Recém-nascidos (durante a      Peso inferior a 2Kg: 50.000 U.I./Kg/dia     2 doses separadas
+1ª semana de vida)             Peso superior a 2Kg:75.000 U.I./Kg/dia      3 doses separadas
+Recém-nascidos entre 1ª        Peso inferior a 1,2Kg:50.000U.I./Kg/dia     2 doses separadas
+semana de vida e 4ª semana     Peso entre 1,2 e 2Kg:75.000U.I./Kg/dia      3 doses separadas
+de vida                        Peso superior a2Kg:100.000U.I./Kg/dia       4 doses separadas
+Crianças com idade entre o
+1º mês de vida e os 12 anos
+                               50.000 U.I./Kg/dia                          4 - 6 doses separadas
+de idade, com peso corporal
+30Kg
+Adultos e adolescentes com
+idade superior a 12 anos,      1 M.U.I./ dia – 5 M.U.I./ dia               4 doses separadas
+com peso corporal ≥30Kg
+Idosos                         1 M.U.I./ dia – 5 M.U.I./ dia               4 doses separadas
+
+Recomendações especiais de posologia
+
+Adultos
+
+Endocardite (associada a infeção por Enterococcus)
+18 – 30 M.U.I./dia, administradas por perfusão intravenosa contínua ou divididas em 6 tomas
+administradas por via intravenosa, cada 4 horas, paralelamente à administração de gentamicina
+(3mg/Kg/dia, em 3 doses). O tratamento deve ser mantido durante 4 – 6 semanas.
+
+Endocardite (associada a infeção por Streptococci viridans, S. bovis)
+12 – 18 M.U.I./dia, administradas por perfusão intravenosa contínua ou divididas em 6 tomas
+administradas por via intravenosa, cada 4 horas, durante 4 semanas.
+Durante as duas primeiras semanas de tratamento, é recomendada a administração paralela de
+gentamicina (3mg/Kg/dia, em 3 doses).
+
+Meningite (associada a infeção por Neisseria meningitidis)
+24 M.U.I./dia; 2 M.U.I., administradas por via intramuscular, cada 2 horas. O tratamento deve ser
+mantido durante pelo menos 10 – 14 dias.
+
+Antrax (contaminação natural)
+8 – 12 M.U.I./dia, em 6 – 4 tomas, administradas cada 4 – 6 horas.
+Para tratamento de Antrax em contexto de bioterrorismo, devem ser consultadas recomendações
+específicas emitidas por “US Centers for Disease Control and Prevention” e “US Working Group
+on Civilian Biodefense”.
+
+Difteria
+300.000 – 400.000 U.I./dia, em tomas separadas, administradas por via intramuscular, cada 4 – 6
+horas.
+Listeriose
+15 – 20 M.U.I./dia, em 6 – 4 tomas, administradas cada 4 – 6 horas. O tratamento deve ser mantido
+durante 2 ou 4 semanas, consoante se observem meningites ou endocardites associadas à infeção
+por Listeria, respetivamente.
+
+Infeções por Clostridium sp
+20 M.U.I./ dia, em 6 – 4 tomas, administradas cada 4 – 6 horas.
+
+Actinomicose
+Doença torácica e abdominal: 10-20 M.U.I./dia, em 6 – 4 tomas, administradas cada 4 – 6 horas.
+Este tratamento intravenoso deve ser seguido de tratamento com penicilina V oral durante 6 a 12
+meses.
+
+Infeções por Fusobacterium sp
+5 – 10 M.U.I./dia, em 6 – 4 tomas, administradas cada 4 – 6 horas.
+
+Neurossífilis
+18 – 24 M.U.I./dia, administradas por perfusão intravenosa contínua ou divididas em 6 tomas
+administradas por via intravenosa, cada 4 horas, durante 10 a 14 dias. É recomendada terapia
+adicional com benzilpenicilina benzatínica, correspondente a 3 doses, na dosagem de 2.400.000
+U.I. por semana.
+
+Doença de Lyme
+Para tratamento de manifestações cardíacas da Doença de Lyme, 18 – 24 M.U.I./dia, divididas em
+6 tomas administradas por via intravenosa, de 4 horas em 4 horas, durante 14 a 21 dias. No caso
+da doença se manifestar por meningite ou radiculopatia, poderá ser necessário prolongar este
+tratamento até 28 dias.
+
+População pediátrica
+
+Endocardite (associada a infeção por estreptococos e meningococos)
+150.000 – 300.000 U.I./Kg/dia, divididas em 6 – 4 tomas, administradas cada 4 – 6 horas; a
+duração do tratamento varia em função do microrganismo causador e tipo de infeção.
+
+Endocardite (associada a infeção por Streptococci viridans, S. bovis)
+250.000 U.I./Kg/dia, divididas em 6 tomas, administradas cada 4 horas, durante 4 semanas.
+
+Meningite (associada a infeção por estreptococos do grupo B)
+Recém-nascidos durante a 1ª semana de vida: 250.000 – 450.000 U.I./Kg/dia, divididas em 3
+doses diárias, administradas por via intravenosa.
+Recém-nascidos após a 1ª semana de vida: 450.000 U.I./Kg/dia, divididas em 4 doses diárias,
+administradas por via intravenosa.
+
+Meningite (associada a infeção por Streptococcus pneumoniae)
+250.000 – 450.000 U.I./Kg/dia, divididas em 4 – 6 doses diárias, administradas por via
+intravenosa.
+
+Antrax (contaminação natural)
+100.000 – 150.000 U.I./Kg /dia, em 6 – 4 tomas, administradas cada 4 – 6 horas.
+Para tratamento de Antrax em contexto de bioterrorismo, devem ser consultadas recomendações
+específicas emitidas por “US Centers for Disease Control and Prevention” e “US Working Group
+on Civilian Biodefense”.
+Difteria
+100.000 – 150.000 U.I./Kg/dia, divididas em 4 doses diárias, administradas por via intravenosa,
+durante 14 dias (quando utilizada paralelamente à antitoxina da difteria).
+
+Sífilis congénita
+Recém-nascidos (durante a 1ª semana de vida):100.000 – 150.000 U.I./Kg/dia, administradas em
+doses de 50.000 U.I./Kg, de 12 horas em 12 horas, durante os primeiros 7 dias de vida, alterando
+o intervalo de dosagem para 8 horas em 8 horas, entre o 8º e 10º dias de vida.
+Crianças após 1º mês de vida: 200.000 – 300.000 U.I./Kg/dia, administradas em doses de 50.000
+U.I./Kg, cada 4 – 6 horas, durante 10 dias.
+
+Doença de Lyme
+200.000 – 400.000 U.I./Kg/dia, em 6 – 4 tomas, administradas cada 4 – 6 horas, durante 14 – 28
+dias.
+Para tratamento de manifestações cardíacas graves da Doença de Lyme, 200.000 – 400.000
+U.I./Kg/dia, em 6 – 4 tomas, administradas cada 4 – 6 horas, durante 14 – 21 dias.
+Não deve ser ultrapassada a dose máxima diária de 18 – 24 M.U.I.
+
+Duração do tratamento
+A duração do tratamento varia de acordo com a evolução da doença. Tal como com a
+antibioterapia em geral, a administração da benzilpenicilina deve continuar por um período
+mínimo de 48-72 horas após o desaparecimento da febre ou evidência de erradicação bacteriana.
+
+Insuficiência renal
+Face à baixa toxicidade da benzilpenicilina, geralmente só é necessária a redução da dose em caso
+de insuficiência renal grave.
+
+        Depuração da creatinina
+                                          Dose/ Intervalo de dosagem
+        (ml/ min)
+                                          Dose de carga completa, seguida de 50% da
+        < 10
+                                          dose de carga, cada 8 – 10 horas
+                                          Dose de carga completa, seguida de 50% da
+         10
+                                          dose de carga cada 4 – 5 horas
+
+Insuficiência hepática
+A dose apresentada no quadro anterior deve ser reduzida, se a insuficiência renal grave estiver
+associada doença hepática.
+
+Modo de administração
+Para instruções acerca da reconstituição do medicamento antes da administração, ver secção 6.6.
+
+Penicilina Atral (sal potássico) pode ser administrada por injeção intramuscular ou por perfusão
+intravenosa, contínua ou intermitente. Nas indicações clínicas aplicáveis, Penicilina Atral (sal
+potássico) poderá também ser administrada por instilação intrapleural, intra-articular ou outras
+instilações locais.
+Dosagens de 1.000.000 U.I. ou inferiores podem ser administradas por via intramuscular ou via
+intravenosa.
+Dosagens de 20.000.000 U.I. apenas podem ser administradas por perfusão intravenosa, não
+podendo ser administradas por via intramuscular.
+
+Administração intramuscular
+Na administração por via intramuscular, são bem toleradas as soluções com concentrações até
+100.000 U.I./ ml. Embora seja fisicamente possível injetar soluções mais concentradas (até 1
+M.U.I./ml), estas injeções implicam dor no local de injeção devido à sua hipertonia.
+Devem ainda ser tomadas precauções para evitar administração intravenosa/ intra-arterial
+acidental, ou injeção na proximidade de nervos periféricos ou vasos sanguíneos principais, porque
+tais injeções podem produzir danos neurovasculares.
+A via de administração intramuscular não é a recomendada para crianças com idade inferior a
+dois anos.
+
+Administração intravenosa
+A via intravenosa deve ser usada sempre que forem prescritas doses elevadas de benzilpenicilina
+potássica i.e. doses de 5 M.U.I. ou superiores.
+Para perfusão intravenosa contínua, as soluções reconstituídas de Penicilina Atral devem
+geralmente ser adicionadas a 1-2 litros de uma solução intravenosa compatível.
+São determinados o volume de fluido IV e a velocidade de administração, requeridos por cada
+doente individual, num período de 24 horas e a dosagem diária recomendada é adicionada ao
+fluido. Por exemplo, se um doente adulto necessita de 2 litros de fluido em 24 horas e uma
+dosagem diária de 10 M.U.I. de benzilpenicilina, podem ser adicionadas 5 M.U.I. de
+benzilpenicilina a 1 litro de solução IV e a velocidade de administração ajustada para 1 litro/ 12
+horas.
+
+Para perfusão intravenosa intermitente, as soluções reconstituídas de Penicilina Atral devem
+geralmente ser administradas durante 1 - 2 horas.
+Nos adultos sugere-se a administração de 1/6 ou de 1/4 da dose diária total prescrita sob a forma
+de uma perfusão com duração de 1 ou 2 horas, a cada 4 ou 6 horas, respetivamente. No caso dos
+recém-nascidos e crianças, a dose diária total prescrita deverá igualmente ser administrada de
+forma fracionada, em perfusões intravenosas com duração de 15 - 30 minutos.
+A administração de grandes doses via IV (mais de 10 milhões de unidades) deverá ser feita
+lentamente, pois podem ocorrer desequilíbrios eletrolíticos devido ao conteúdo de sódio e
+potássio deste medicamento.
+
+4.3 Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer dos excipientes mencionados na secção 6.1.
+Deve ter-se em consideração a possibilidade de ocorrência de reações alérgicas cruzadas com as
+cefalosporinas.
+
+4.4 Advertências e precauções especiais de utilização
+
+Advertências
+Têm sido notificadas reações adversas cutâneas graves (SCARs), incluindo síndrome de Stevens-
+Johnson (SJS), necrólise epidérmica tóxica (TEN), reação medicamentosa com eosinofilia e
+sintomas sistêmicos (DRESS) e pustulose exantematosa generalizada aguda (AGEP) em
+associação com antibióticos beta-lactâmicos (incluindo penicilinas).
+
+A benzilpenicilina é contraindicada em pacientes com hipersensibilidade às penicilinas. Os
+doentes com história de hipersensibilidade a cefalosporinas, penicilinas ou outros antibacterianos
+beta-lactâmicos podem também ser hipersensíveis à benzilpenicilina (ver secção 4.3). A
+benzilpenicilina deve ser usada com cautela em pacientes com história de reações de
+hipersensibilidade não graves a quaisquer outros antibióticos beta-lactâmicos (por exemplo,
+cefalosporinas ou carbapenemes) e nunca em pacientes com história de reações de
+hipersensibilidade graves. Se ocorrer uma reação alérgica grave ou SCAR durante o tratamento
+com Benzilpenicilina, o tratamento com o medicamento deve ser interrompido e tomadas as
+medidas adequadas.
+
+Foram registadas reações de hipersensibilidade graves e ocasionalmente fatais (anafilaxia) em
+doentes a tomar antibióticos beta-lactâmicos. As reações de hipersensibilidade à benzilpenicilina
+são mais frequentes em doentes com asma brônquica ou hipersensibilidade a múltiplos alergenos.
+Antes de se iniciar a terapêutica com benzilpenicilina potássica, deve ser investigada a ocorrência
+prévia de reações de hipersensibilidade a penicilinas, cefalosporinas ou outros alergenos.
+Se ocorrer reação alérgica, a benzilpenicilina potássica deve ser descontinuada e instituída uma
+terapêutica alternativa apropriada.
+As reações anafiláticas graves requerem tratamento de emergência com adrenalina, podendo ser
+necessário administrar oxigénio e corticosteroides por via intravenosa ou mesmo recorrer a
+ventilação assistida.
+
+Foi notificada diarreia associada ao Clostridioides difficile (CDAD) com a utilização de quase
+todos os fármacos antibacterianos, incluindo benzilpenicilina potássica, cuja gravidade pode
+variar desde diarreia ligeira a colite fatal. O tratamento com fármacos antibacterianos altera a flora
+normal do cólon, originando um crescimento excessivo do Clostridioides difficile. O
+Clostridioides difficile produz toxinas A e B, que contribuem para o desenvolvimento da CDAD.
+As estirpes de Clostridioides difficile produtoras de hipertoxinas causam aumento da morbilidade
+e da mortalidade, pois estas infeções podem ser resistentes ao tratamento antimicrobiano, podendo
+ser necessária uma colectomia. A CDAD deve ser considerada em todos os doentes que
+apresentem diarreia subsequente à utilização de antibiótico. É necessária uma cuidadosa análise
+da história clínica, pois foi notificada a ocorrência de CDAD passados dois meses após a
+administração de fármacos antibacterianos.
+Se houver suspeita ou confirmação de CDAD, pode ser necessário descontinuar a utilização de
+antibióticos não dirigidos ao Clostridioides difficile. Conforme indicação clínica, deve ser
+instituído um controlo de fluidos e de eletrólitos, suplementos de proteínas, tratamento antibiótico
+do Clostridioides difficile e avaliação cirúrgica.
+
+A administração prolongada de benzilpenicilina potássica pode ocasionalmente levar ao
+crescimento de microrganismos não sensíveis. Caso ocorram superinfeções, deverão ser tomadas
+as medidas apropriadas, que poderão incluir não apenas antibioterapia, mas também incisão e
+drenagem ou outros procedimentos cirúrgicos.
+
+No tratamento de infeções por espiroquetas pode ocorrer, até 1- 2 horas após a administração da
+primeira dose, a reação de Jarisch-Herxheimer que se caracteriza por febre, arrepios, mialgia, dor
+de cabeça, taquicardia, hiperventilação, vasodilatação e hipotensão moderada (ver secção 4.8).
+
+Durante o tratamento prolongado com administração intravenosa de doses elevadas de
+benzilpenicilina, deve ser feita uma avaliação periódica do equilíbrio eletrolítico, sistemas
+hematopoiéticos, renal e hepático, associada à monitorização do “status” cardíaco e vascular. Se
+existirem suspeitas ou conhecimento de insuficiência funcional, deve ser equacionada a redução
+da dosagem total (ver secção 4.2).
+
+Durante a manipulação da Penicilina Atral, deve ser evitado o contacto da pele com a
+benzilpenicilina, de forma a evitar reações de sensibilização/ dermatite de contacto.
+
+Interferência com testes laboratoriais
+O tratamento com benzilpenicilina pode originar reações positivas em testes de pesquisa de
+glucose na urina, realizados com sulfato de cobre.
+A benzilpenicilina pode também interferir em alguns testes para determinação de proteínas no
+soro e na urina.
+Em doentes sujeitos a tratamento com doses iguais ou superiores a 10 M.U.I. de benzilpenicilina,
+observam-se resultados falsos-positivos no Teste de Coombs (ver secção 4.8).
+
+Penicilina Atral 1 M.U.I. Pó para solução injetável
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por frasco para injetável, ou
+seja, é praticamente “isento de sódio”.
+Este medicamento contém 1,6 mmol (ou 63 mg) de potássio por frasco para injetável. Esta
+informação deve ser tida em consideração em doentes com função renal diminuída ou em doentes
+com ingestão controlada de potássio.
+
+Penicilina Atral 20 M.U.I. Pó para solução injetável
+Este medicamento contém 122 mg de sódio por frasco para injetável, equivalente a 6,1% da
+ingestão diária máxima recomendada pela OMS de 2 g de sódio para um adulto.
+Este medicamento contém 32,2 mmol (ou 1259,6 mg) de potássio por frasco para injetável. Esta
+informação deve ser tida em consideração em doentes com função renal diminuída ou em doentes
+com ingestão controlada de potássio.
+Pode causar dor no local de injeção.
+
+4.5 Interações medicamentosas e outras formas de interação
+
+Antibióticos bacteriostáticos (cloranfenicol, eritromicina, sulfonamidas ou tetraciclinas) podem
+antagonizar o efeito bactericida da penicilina. Esta interação foi documentada em estudos in vitro
+mas a sua relevância clínica não está bem estabelecida.
+
+A probenecida prolonga a semivida da benzilpenicilina, competindo com esta a nível da secreção
+tubular renal.
+
+A semivida da benzilpenicilina é igualmente prolongada, através de inibição da secreção tubular
+renal, por salicilatos, fenilbutazona, indometacina e sulfonamidas (sulfifenazol, sulfinpirazona).
+
+As penicilinas podem reduzir a excreção do metotrexato provocando um aumento potencial da
+sua toxicidade.
+
+4.6 Fertilidade, gravidez e aleitamento
+
+Gravidez
+Não existem estudos adequados e controlados relativos ao uso de benzilpenicilina durante a
+gravidez, mas a experiência clínica com benzilpenicilina, em mulheres grávidas, indica ausência
+de malformações ou toxicidade fetal/ neonatal. Os estudos em animais não indicam toxicidade
+reprodutiva (ver secção 5.3).
+A utilização de Penicilina Atral pode ser considerada durante a gravidez, se necessário.
+
+Amamentação
+Os dados físico-químicos sugerem excreção de benzilpenicilina no leite humano, pelo que não
+pode ser excluído qualquer risco para os recém-nascidos/ lactentes.
+Tem que ser tomada uma decisão sobre a descontinuação da amamentação ou a descontinuação/
+abstenção da terapêutica com Penicilina Atral tendo em conta o benefício da amamentação para
+a criança e o benefício da terapêutica para a mulher.
+
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos de Penicilina Atral sobre a capacidade de conduzir e utilizar máquinas são nulos.
+
+4.8 Efeitos indesejáveis
+
+Os efeitos indesejáveis mais frequentes, na terapia com benzilpenicilina, são as reações de
+hipersensibilidade (ver secção 4.4). Ocorreram ocasionalmente reações anafiláticas, que por vezes
+foram fatais.
+A incidência global de reações alérgicas à penicilina varia entre 1 e 10%. As reações anafiláticas
+ocorrem em cerca de 0,05% dos doentes, geralmente após administração parentérica.
+Foi utilizada a seguinte convenção, na classificação de efeitos indesejáveis: muito frequentes
+(≥1/10), frequentes (≥1/100, <1/10), pouco frequentes (≥1/1.000, <1/100), raros (≥1/10.000
+<1/1.000), muito raros (<1/10.000) e desconhecido (não pode ser calculado a partir dos dados
+disponíveis).
+
+    Afeções dos tecidos cutâneos e subcutâneos
+    Desconhecido: Pustulose Exantemática Generalizada Aguda (AGEP), prurido, erupção
+    maculopapular, erupção cutânea morbiliforme, eritema
+    Doenças do sangue e do sistema linfático
+    Muito raros: Eosinofilia, Leucopenia, Neutropenia, Granulocitopenia, Agranulocitose,
+    Pancitopenia; adicionalmente poderão surgir Anemia hemolítica e Distúrbios de
+    coagulação
+    Desconhecido: Trombocitopenia
+    Doenças do sistema imunitário
+    Frequentes: Reações alérgicas incluindo Urticária, Eritema polimorfo, Dermatite
+    esfoliativa, Febre, Artralgia
+    Raros: Reações de choque anafilático (ver secção 4.4)
+    Frequência desconhecida: no tratamento de doentes com sífilis, observa-se a Reação de
+    Jarisch-Herxheimer (ver secção 4.4)
+    Desconhecido: Angioedema
+    Doenças do sistema nervoso
+    Raros: na terapia com dosagens elevadas, podem surgir Efeitos Neurotóxicos (ver secção
+    4.9)
+    Desconhecido: Encefalopatia metabólica
+    Doenças do metabolismo e da nutrição
+    Raros: na administração de dosagens elevadas, por perfusão rápida, podem surgir
+    Distúrbios Eletrolíticos (ver secção 4.2)
+    Doenças gastrointestinais
+    Pouco frequentes: Enterocolite pseudomembranosa (ver secção 4.4)
+    Raros: Diarreia causada por Clostridium difficile
+    Afeções hepatobiliares
+    Frequência desconhecida: Hepatite, Colestase
+    Doenças renais e urinárias
+    Raros: Nefropatia, Albuminúria, Cilindrúria e Hematúria
+    Na terapia com dosagens elevadas, pode surgir Oligúria ou Anúria que desaparece
+    geralmente 48 horas após interrupção do tratamento.
+    Perturbações gerais e alterações no local de administração
+    Raros: na administração intramuscular a lactentes, podem surgir reações locais graves
+    (ver secção 4.2)
+    Exames complementares de diagnóstico
+    Frequência desconhecida: Teste de Coombs positivo (ver secção 4.4)
+
+Reações cutâneas adversas graves SCARs (síndrome de Stevens-Johnson, necrólise epidérmica
+tóxica, reação medicamentosa com eosinofilia e sintomas sistêmicos, pustulose e exantema
+generalizado agudo) foram notificados com antibióticos beta-lactâmicos, incluindo penicilinas
+(ver seção 4.4).
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante,
+uma vez que permite uma monitorização contínua da relação benefício-risco do medicamento.
+Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas
+diretamente ao INFARMED, I.P.:
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+E-mail: farmacovigilancia@infarmed.pt
+
+4.9 Sobredosagem
+
+Pode surgir toxicidade relacionada com a dose quando são administradas doses muito elevadas,
+especialmente em doentes com insuficiência renal. As manifestações podem incluir hiperreflexia,
+mioclonia, convulsões e coma, além de distúrbios do equilíbrio eletrolítico.
+Em caso de sobredosagem, deve ser descontinuado o tratamento com benzilpenicilina potássica
+e instituído tratamento sintomático com as medidas de suporte necessárias. A benzilpenicilina é
+hemodialisável.
+
+
+5. PROPRIEDADES FARMACOLÓGICAS
+
+5.1 Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 1.1.1.1 – Medicamentos anti-infeciosos. Antibacterianos. Penicilinas.
+Benzilpenicilinas e fenoximetilpenicilina.
+Código ATC: J01CE01
+
+Mecanismo de ação
+A benzilpenicilina potássica é uma penicilina natural pertencente ao grupo dos antibióticos beta-
+lactâmicos. Os antibióticos beta-lactâmicos inibem uma ou mais enzimas (frequentemente
+designadas “penicillin-binding proteins” ou PBPs) do processo de biossíntese do peptidoglicano
+bacteriano. Este biopolímero é um componente estrutural da parede celular bacteriana, que serve
+para manter a forma e a integridade da célula. A inibição da síntese do peptidoglicano leva a um
+enfraquecimento da estrutura, normalmente seguido por lise celular e morte bacteriana. O
+peptidoglicano não existe em células eucariotas, o que confere especificidade aos beta-lactâmicos
+e outros agentes antibacterianos que atuam sobre a parede celular.
+
+Relação Farmacocinética/Farmacodinâmica (PK/PD)
+O intervalo de tempo em que se mantém a concentração do fármaco acima da concentração
+inibitória mínima (T>CIM) é considerado um dos principais determinantes da eficácia dos
+antibióticos beta-lactâmicos.
+
+Mecanismo de resistência
+Os principais mecanismos de resistência bacteriana à benzilpenicilina são a inativação enzimática
+da molécula através de beta-lactamases e/ ou resistência intrínseca, associada à presença de uma
+barreira à permeabilidade na membrana exterior do microrganismo ou alterações nas PBPs.
+
+Valores de concentração crítica (“breakpoints”)
+As concentrações inibitórias mínimas (CIM) determinadas pelo EUCAST (“European Committee
+on Antimicrobial Susceptibility Testing”) para a benzilpenicilina são as seguintes:
+
+                                                           CIM (mg/L)
+                   Microrganismo
+                                                   Suscetível        Resistente
+         Staphylococcus spp. 1                 0,12              0,12
+         Streptococcus A, B, C, G    2         0,25              0,25
+          Streptococcus pneumoniae 3             0,06                 2
+          Outros estreptococos                   0,25                 2
+          Neisseria gonorrhoeae                  0,06                 1
+          Neisseria meningitidis                 0,06                 0,25
+          Anaeróbios Gram-positivos              0,25                 0,5
+          Anaeróbios Gram-negativos              0,25                 0,5
+          Non-species related breakpoints        0,25                 2
+1 - Staphylococcus spp. - a maioria dos estafilococos é produtora de penicilinases. Os isolados
+positivos às beta-lactamases são resistentes à benzilpenicilina, fenoximetilpenicilina, amino-,
+carboxi- e ureidopenicilinas. Os isolados negativos às beta-lactamases e suscetíveis à meticilina
+(suscetíveis à oxacilina/ cefoxitina) podem ser considerados suscetíveis a estas moléculas. Os
+isolados resistentes à meticilina são resistentes a todos os agentes beta-lactâmicos atualmente
+disponíveis, incluindo combinações com inibidores da beta-lactamase.
+2 - Streptococcus A, B, C, G - as estirpes com valores de CIM acima do “breakpoint” suscetível
+são muito raras ou não foram ainda descritas. A identificação e os testes de suscetibilidade
+antimicrobiana de qualquer isolado deste tipo devem ser repetidos, e caso seja confirmado o
+resultado, o isolado tem de ser enviado a um laboratório de referência. Enquanto não existirem
+provas de resposta clínica para isolados confirmados, com CIM acima do “breakpoint” atual, estes
+devem ser descritos como resistentes.
+3 - Streptococcus pneumoniae - na pneumonia, as seguintes estirpes devem ser consideradas como
+suscetíveis à penicilina: estirpes com CIMs ≤ 0,5 mg/L, quando são usadas doses de 1,2 g x 4;
+estirpes com CIMs ≤ 1mg/L, quando são usadas doses de 2,4 g x 4 ou 1,2 g x 6 e estirpes com
+CIMs ≤ 2,0 mg/L, quando são usadas doses de 2,4 g x 6. Na meningite, isolados com CIMs acima
+de 0,06 mg/L devem ser catalogados como resistentes à penicilina. Para as restantes indicações,
+as CIMs de 0,06/2 mg/L são válidas. Deve ser testada a resistência às beta-lactamases com o disco
+de 1 μg de oxacilina. Os isolados classificados como suscetíveis podem ser descritos como
+suscetíveis à benzilpenicilina, independentemente da indicação clínica. Os isolados classificados
+como resistentes à oxacilina podem ser descritos como resistentes à benzilpenicilina na meningite.
+
+A prevalência da resistência adquirida pode variar geograficamente e com o tempo para as
+espécies selecionadas e é desejável a existência de informação local sobre resistências,
+particularmente aquando do tratamento de infeções graves.
+De acordo com a necessidade, deve procurar-se aconselhamento especializado quando a
+prevalência local da resistência é tal que a utilidade do agente, em pelo menos alguns tipos de
+infeções, seja questionável.
+
+   Microrganismos sensíveis
+   Microrganismos aeróbios Gram positivo
+   Bacillus anthracis
+   Corynebacterium diphtheriae
+   Estreptococos dos Grupos C e G
+   Listeria monocytogenes
+   Streptococcus agalactiae
+   Streptococcus pneumoniae
+   Streptococcus pyogenes
+   Streptococcus viridians
+
+   Microrganismos aeróbios Gram negativo
+   Neisseria meningitidis
+   Pasteurella multocida
+
+   Microrganismos anaeróbios
+   Actinomyces israelii
+   Clostridium perfringens
+   Clostridium tetani
+   Fusobacterium spp.
+   Peptococcus spp.
+   Peptostreptococcus spp.
+
+   Outros microrganismos
+   Borrelia spp.
+   Leptospira spp.
+   Treponema pallidum
+   Microrganismos em que a resistência adquirida pode ser um problema
+   Microrganismos aeróbios Gram positivo
+   Enterococcus spp.
+   Staphylococcus aureus
+   Staphylococcus epidermidis
+   Staphylococcus haemolyticus
+   Staphylococcus hominis
+
+   Microrganismos aeróbios Gram negativo
+   Haemophilus influenzae
+   Neisseria gonorrhoeae
+   Microrganismos com resistência inerente
+   Microrganismos aeróbios Gram positivo
+   Staphylococcus spp. produtores de beta-lactamases
+
+   Microrganismos aeróbios Gram negativo
+   Enterobacteriaceae
+   Moraxella catarrhalis
+   Pseudomonas spp.
+
+   Microrganismos anaeróbios
+   Bacteroides spp.
+   Clostridioides difficile
+
+   Outros microrganismos
+   Chlamydia spp.
+   Chlamydophila spp.
+   Legionella pneumophila
+   Mycoplasma spp.
+
+5.2 Propriedades farmacocinéticas
+
+Absorção:
+Após administração intramuscular em adultos, de uma dose única de 600.000 ou 1.000.000 U.I.,
+são obtidas concentrações plasmáticas máximas de 6-8 e 20 U.I./ml respetivamente, em 15-30
+minutos.
+Após perfusão intravenosa intermitente de 2.000.000 U.I. cada 2 horas ou 3.000.000 U.I. cada 3
+horas, a concentração média de benzilpenicilina corresponde a 20mcg/ml.
+A benzilpenicilina potássica é absorvida da cavidade peritoneal após instilação local, sendo
+também absorvida através das superfícies pleurais, pericárdio e cavidades articulares. A
+benzilpenicilina não é absorvida através da pele integra.
+
+Distribuição:
+O volume de distribuição da benzilpenicilina é de 0,53 a 0,67 L/Kg em adultos com função renal
+normal.
+A benzilpenicilina distribui-se largamente, em concentrações variáveis, nos tecidos e fluidos
+corporais. A penetração da benzilpenicilina no LCR é aumentada, se os tecidos estiverem
+inflamados ou quando é administrado probenecida oral concomitantemente.
+Aproximadamente 60% da dose de benzilpenicilina administrada liga-se às proteínas plasmáticas.
+A benzilpenicilina atravessa a placenta e é excretada no leite materno.
+
+Metabolismo:
+A benzilpenicilina é parcialmente (16-30% de uma dose IM) metabolizada em ácido penicilóico,
+que é microbiologicamente inativo. Paralelamente, formam-se pequenas quantidades de outros
+metabolitos microbiologicamente ativos: ácido 6-aminopenicilânico e metabolitos hidroxilados.
+
+Eliminação:
+A benzilpenicilina e os seus metabolitos são excretados na urina principalmente por secreção
+tubular. Pequenas quantidades da benzilpenicilina são também excretadas na bílis (em doentes
+com função renal normal). Após administração intramuscular ou intravenosa de uma dose única
+de benzilpenicilina, em adultos com função renal normal, é excretada 60% ou mais da quantidade
+administrada, sob forma microbiologicamente ativa.
+Os valores registados para semivida sérica da benzilpenicilina, em adultos com função renal
+normal, variam entre 0,4 e 0,9 horas.
+
+Farmacocinética em populações especiais
+
+Em doentes com disfunção renal, pode observar-se aumento da concentração e semivida séricas
+da benzilpenicilina. Se adicionalmente à disfunção renal existir disfunção hepática, a semivida
+sérica da benzilpenicilina pode ser prolongada 2-3 vezes, em relação a doentes com função
+hepática normal.
+
+A semivida sérica da benzilpenicilina em recém-nascidos varia inversamente com a idade e parece
+ser independente do peso à nascença. A semivida sérica é 3,2-3,4 horas em recém-nascidos de 6
+dias ou menos, 1,2-2,2 horas em recém-nascidos de 7-13 dias e 0,9-1,9 horas em recém-nascidos
+a partir dos 14 dias.
+
+5.3 Dados de segurança pré-clínica
+
+A benzilpenicilina potássica não foi mutagénica em testes efetuados em bactérias. Não são
+conhecidos outros dados de segurança pré-clínica relevantes para o prescritor, nomeadamente
+dados relativos a toxicidade sobre a reprodução.
+
+
+6. INFORMAÇÕES FARMACÊUTICAS
+
+6.1 Lista dos excipientes
+
+Citrato de sódio
+
+6.2 Incompatibilidades
+
+Na ausência de estudos de compatibilidade, este medicamento não pode ser misturado com outros
+medicamentos.
+
+6.3 Prazo de validade
+
+4 anos
+Solução reconstituída em água para injetável: quando conservada a temperatura inferior a 25ºC,
+mantém a sua atividade durante 24 horas; quando conservada no frigorífico (2ºC-8ºC), mantém a
+sua atividade durante 72 horas.
+
+6.4 Precauções especiais de conservação
+
+Conservar a temperatura inferior a 25ºC.
+Conservar na embalagem de origem para proteger da luz e da humidade.
+
+Condições de conservação do medicamento após reconstituição, ver secção 6.3.
+
+6.5 Natureza e conteúdo do recipiente
+
+Penicilina Atral é fornecida em frasco para injetáveis de vidro incolor tipo I ou II, com fecho de
+borracha butílica e cápsula inviolável de alumínio
+Penicilina Atral 1 M.U.I. está disponível em embalagens de 1, 6, 10 ou 100 frasco(s) para
+injetáveis de 9 ml com pó para solução injetável.
+
+Penicilina Atral 20 M.U.I. está disponível em embalagens de 1, 6 ou 10 frasco(s) para injetáveis
+de 50 ml com pó para solução injetável.
+
+É possível que não sejam comercializadas todas as apresentações.
+
+6.6 Precauções especiais de eliminação e manuseamento
+
+Instruções de Utilização e Manipulação
+
+Mantenha o frasco em posição horizontal e rode-o, enquanto injeta lentamente o solvente contra
+a parede do frasco. Após adição da quantidade necessária de solvente, agite vigorosamente.
+
+Quando o volume de solvente necessário é superior à capacidade do frasco, utilize uma porção
+do solvente para dissolver o pó no frasco, retire a solução resultante e combine-a com o solvente
+remanescente, num recipiente estéril de volume superior.
+
+A tabela apresentada abaixo indica a quantidade de solvente necessária para preparação de uma
+solução em diversas concentrações.
+
+           Concentração desejada          Volume de solvente a adicionar (ml)
+           (U.I./ ml)                     Frasco 1 M.U.I.      Frasco 20 M.U.I.
+           50.000                         20                   -
+           100.000                        10                   -
+           250.000                        4                    75
+           500.000                        -                    33
+           1.000.000                      -                    11,5
+
+Consoante a via de administração selecionada, utilize água para injetável ou solução de cloreto
+de sódio 0,9% para injetável como solvente.
+
+Durante a manipulação deve evitar o contacto com a penicilina dado que pode ocorrer
+sensibilização cutânea.
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as
+exigências locais.
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Laboratórios Atral, S.A.
+Rua da Estação, n.ºs 1 e 1A
+2600-726 Castanheira do Ribatejo
+Portugal
+
+
+8. NÚMERO (S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Penicilina Atral 1 M.U.I. Pó para solução injetável
+N.º de registo: 9818302 - 1 unidade, pó para solução injetável, 1 M.U.I., frasco para injetáveis de
+vidro incolor tipo I ou II
+N.º de registo: 4651394 - 6 unidades, pó para solução injetável, 1 M.U.I., frasco para injetáveis
+de vidro incolor tipo I ou II
+N.º de registo: 4651493 - 10 unidades, pó para solução injetável, 1 M.U.I., frasco para injetáveis
+de vidro incolor tipo I ou II
+N.º de registo: 5922695 - 100 unidades, pó para solução injetável, 1 M.U.I., frasco para injetáveis
+de vidro incolor tipo I ou II
+
+Penicilina Atral 20 M.U.I. Pó para solução injetável
+N.º de registo: 9818310 - 1 unidade, pó para solução injetável, 20 M.U.I., frasco para injetáveis
+de vidro incolor tipo I ou II
+N.º de registo: 4651592 - 6 unidades, pó para solução injetável, 20 M.U.I., frasco para injetáveis
+de vidro incolor tipo I ou II
+N.º de registo: 4651691 - 10 unidades, pó para solução injetável, 20 M.U.I., frasco para injetáveis
+de vidro incolor tipo I ou II
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data de revisão: 27 de outubro de 1997
+Data da última renovação: 03 de novembro de 2010
+
+
+10. DATA DA REVISÃO DO TEXTO
+

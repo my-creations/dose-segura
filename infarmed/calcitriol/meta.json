@@ -1,0 +1,44 @@
+{
+  "medId": "calcitriol",
+  "searchTerm": "calcitriol",
+  "retrievedAt": "2026-02-08T00:00:00.000Z",
+  "bestMatch": {
+    "infarmedId": "2194181",
+    "name": "Calcijex",
+    "dci": "Calcitriol",
+    "form": "Solução injetável",
+    "dosage": "0.001 mg/ml",
+    "holder": "Abbvie, Lda.",
+    "score": 1.0,
+    "generic": false,
+    "processNumber": "2/77/92",
+    "administration": ["Via intravenosa"],
+    "classification": {
+      "atc": "A11CC04 - calcitriol",
+      "farmacoterapeutica": "9.6.3 - Vitaminas D"
+    },
+    "aimDate": "20/08/1993",
+    "lastUpdated": "25/02/2014",
+    "status": "Revogado (20/01/2016)"
+  },
+  "documents": {
+    "rcm": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "rcm/2194181-rcm.pdf",
+      "size": 39000,
+      "method": "POST with form state",
+      "lastUpdated": "25/02/2014"
+    },
+    "fi": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "fi/2194181-fi.pdf",
+      "size": 32000,
+      "method": "POST with form state",
+      "lastUpdated": "25/02/2014"
+    }
+  }
+}

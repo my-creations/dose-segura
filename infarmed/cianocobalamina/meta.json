@@ -1,0 +1,26 @@
+{
+  "medId": "cianocobalamina",
+  "searchTerm": "cianocobalamina",
+  "retrievedAt": "2026-02-08T17:35:00.000Z",
+  "bestMatch": {
+    "infarmedId": "5126891",
+    "name": "CIANOCOBALAMINA LABESFAL",
+    "dci": "cianocobalamina",
+    "form": "Solução injetável",
+    "dosage": "1 mg/ml",
+    "holder": "LABESFAL - Laboratórios Almiro, S.A.",
+    "score": 1
+  },
+  "documents": {
+    "rcm": {
+      "status": "downloaded",
+      "contentType": "application/pdf",
+      "file": "infarmed/cianocobalamina/rcm/5126891-rcm.pdf"
+    },
+    "fi": {
+      "status": "downloaded",
+      "contentType": "application/pdf",
+      "file": "infarmed/cianocobalamina/fi/5126891-fi.pdf"
+    }
+  }
+}

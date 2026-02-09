@@ -1,0 +1,26 @@
+{
+  "medId": "azitromicina",
+  "searchTerm": "azitromicina",
+  "retrievedAt": "2026-02-08T14:40:00Z",
+  "bestMatch": {
+    "infarmedId": "698764",
+    "name": "Azitromicina Altan MG",
+    "dci": "Azitromicina",
+    "form": "Pó para solução para perfusão",
+    "dosage": "500 mg",
+    "holder": "Altan Pharmaceuticals, S.A.",
+    "score": 100
+  },
+  "documents": {
+    "rcm": {
+      "status": "downloaded",
+      "contentType": "application/pdf",
+      "file": "rcm/698764-rcm.pdf"
+    },
+    "fi": {
+      "status": "downloaded",
+      "contentType": "application/pdf",
+      "file": "fi/698764-fi.pdf"
+    }
+  }
+}

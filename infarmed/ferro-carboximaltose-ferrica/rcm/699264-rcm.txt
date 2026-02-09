@@ -1,0 +1,697 @@
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+1.    NOME DO MEDICAMENTO
+
+Carboximaltose férrica Mylan 50 mg ferro/ml dispersão injetável ou para perfusão
+
+
+2.    COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Um ml de dispersão contém carboximaltose férrica correspondente a 50 mg de ferro.
+
+Cada frasco para injetáveis de 2 ml contém carboximaltose férrica correspondente a
+100 mg de ferro.
+Cada frasco para injetáveis de 10 ml contém carboximaltose férrica correspondente a 500 mg de ferro.
+Cada frasco para injetáveis de 20 ml contém carboximaltose férrica correspondente a 1000 mg de ferro.
+
+Excipiente(s) com efeito conhecido
+Um ml de dispersão contém até 5,5 mg (0,24 mmol) de sódio, ver secção 4.4.
+Lista completa de excipientes, ver secção 6.1.
+
+
+3.    FORMA FARMACÊUTICA
+
+Dispersão injetável ou para perfusão.
+
+Solução aquosa castanho-escura opaca.
+pH entre 5 e 7
+Osmolalidade entre 280 mOsmol/Kg and 385 mOsmol/Kg
+
+
+4.    INFORMAÇÕES CLÍNICAS
+
+4.1   Indicações terapêuticas
+
+Carboximaltose férrica Mylan está indicado no tratamento da deficiência em ferro quando (ver secção
+5.1):
+
+      •    as formulações orais de ferro não são eficazes;
+      •    as formulações orais de ferro não podem ser utilizadas;
+      •    existe uma necessidade clínica de administrar ferro rapidamente.
+
+O diagnóstico de deficiência em ferro deve ser baseado em análises clínicas.
+
+4.2   Posologia e modo de administração
+
+Monitorize cuidadosamente o aparecimento de possíveis sinais e sintomas de reações de
+hipersensibilidade nos doentes durante e após cada administração de Carboximaltose férrica Mylan.
+
+Carboximaltose férrica Mylan deve ser administrado apenas quando estão imediatamente disponíveis
+técnicos formados em avaliação e tratamento de reações anafiláticas, em instalações que seja assegurado
+todo o suporte para reanimação.
+O doente deve ser observado para identificar possíveis efeitos adversos durante, pelo menos, 30 minutos
+após cada administração do tratamento (ver secção 4.4).
+
+Posologia
+
+A posologia de Carboximaltose férrica Mylan segue uma abordagem gradual: [1] determinação da
+necessidade individual de ferro, [2] cálculo e administração da(s) dose(s) de ferro e [3] avaliações após a
+reposição de ferro. Estes passos estão descritos a seguir:
+
+Passo 1: Determinação da necessidade de ferro
+A necessidade individual de ferro para reposição, utilizando Carboximaltose férrica Mylan, é determinada
+com base no peso corporal e no nível de hemoglobina (Hb) do doente. Consulte a Tabela 1 para
+determinar a necessidade total de ferro. Podem ser necessárias 2 doses para repor a necessidade total de
+ferro; consulte o Passo 2 para saber quais as doses individuais máximas de ferro.
+A deficiência em ferro tem de ser confirmada através de análises clínicas, conforme indicado em 4.1.
+
+Tabela 1: Determinação da necessidade total de ferro corporal.
+            Hb                                     Peso corporal do doente
+    g/dl         mmol/l           menos de 35 kg             35 kg a <70 kg             70 kg e superior
+     <10           <6,2       30 mg/kg peso corporal            1500 mg                     2000 mg
+  10 a <14      6,2 a <8,7    15 mg/kg peso corporal            1000 mg                     1500 mg
+     ≥14           ≥8,7       15 mg/ kg peso corporal            500 mg                     500 mg
+
+
+Passo 2: Cálculo e administração da(s) dose(s) individual(ais) máxima(s) de ferro
+Com base na necessidade total de ferro determinada, deve(m) ser administrada(s) a(s) dose(s)
+apropriada(s) de Carboximaltose férrica Mylan, tendo em consideração o seguinte:
+
+Adultos e adolescentes de idade igual ou superior a 14 anos
+
+Uma administração única de Carboximaltose férrica Mylan não deve exceder:
+      •     15 mg ferro/kg peso corporal (para administração por injeção intravenosa) ou 20 mg
+            ferro/kg peso corporal (para administração por perfusão intravenosa)
+      •     1000 mg de ferro (20 ml Carboximaltose férrica Mylan)
+
+A dose cumulativa máxima recomendada de Carboximaltose férrica Mylan é de 1000 mg de ferro (20 ml
+Carboximaltose férrica Mylan) por semana. Se a necessidade total de ferro for superior, a administração
+de uma dose adicional deve ocorrer com um intervalo mínimo de 7 dias em relação à primeira dose.
+
+Crianças e adolescentes entre 1 e 13 anos de idade
+
+Uma administração única de Carboximaltose férrica Mylan não deve exceder:
+•    15 mg ferro/kg peso corporal
+•    750 mg de ferro (15 ml Carboximaltose férrica Mylan)
+
+A dose cumulativa máxima recomendada de Carboximaltose férrica Mylan é de 750 mg de ferro (15 ml
+Carboximaltose férrica Mylan) por semana. Se a necessidade total de ferro for superior, a administração
+de uma dose adicional deve ocorrer com um intervalo mínimo de 7 dias em relação à primeira dose.
+Passo 3: Avaliações após a reposição de ferro
+A reavaliação deve ser efetuada pelo médico com base na condição individual do doente. O nível de Hb
+deve ser reavaliado até 4 semanas após a última administração do tratamento, de modo a reservar tempo
+suficiente para a eritropoiese e a utilização de ferro. Caso o doente necessite de uma nova reposição de
+ferro, a necessidade de ferro deve ser novamente calculada (ver Passo 1).
+
+Crianças de idade inferior a 1 ano
+A eficácia e a segurança de Carboximaltose férrica Mylan não foi investigada em crianças de idade
+inferior a 1 ano. Por conseguinte, este medicamento não é recomendado para utilização em crianças desta
+faixa etária.
+
+Doentes com doença renal crónica dependente de hemodiálise
+Em adultos e adolescentes de idade igual ou superior a 14 anos, uma dose única máxima diária de 200 mg
+de ferro não deve ser excedida em doentes com doença renal crónica dependente de hemodiálise (ver
+também secção 4.4).
+
+Em crianças entre 1 e 13 anos com doença renal crónica que requeira hemodiálise, a eficácia e a
+segurança de Carboximaltose férrica Mylan não foi investigada. Por conseguinte, este medicamento não é
+recomendado para utilização em crianças entre 1 e 13 anos com doença renal crónica que requeira
+hemodiálise.
+
+Modo de administração
+
+Carboximaltose férrica Mylan deve ser administrado somente através de via intravenosa:
+     •     por injeção ou
+     •     por perfusão ou
+     •     durante uma sessão de hemodiálise diretamente e sem diluição no braço venoso do
+           dialisador.
+
+Carboximaltose férrica Mylan não deve ser administrado por via subcutânea ou intramuscular.
+
+Injeção intravenosa
+
+Carboximaltose férrica Mylan pode ser administrado por injeção intravenosa utilizando a dispersão não
+diluída. Em adultos e adolescentes de idade igual ou superior a 14 anos, a dose única máxima é de 15 mg
+ferro/kg peso corporal, mas não deve exceder os 1000 mg de ferro. Em crianças entre 1 e 13 anos de
+idade, a dose única máxima é de 15 mg ferro/kg peso corporal, mas não deve exceder os 750 mg de ferro.
+As taxas de administração são apresentadas na Tabela 2:
+
+Tabela 2: Taxas de administração para injeção intravenosa de Carboximaltose férrica Mylan
+   Volume de Carboximaltose         Dose de ferro equivalente     Taxa de administração/Tempo
+     férrica Mylan necessário
+              2 a 4 ml                     100 a 200 mg              Nenhum tempo mínimo
+                                                                             prescrito
+             >4 a 10 ml                   >200 a 500 mg                 100 mg ferro/min
+            >10 a 20 ml                   >500 a 1000 mg                    15 minutos
+Perfusão intravenosa
+
+Carboximaltose férrica Mylan pode ser administrado por perfusão intravenosa, tendo de ser, nesse caso,
+diluído. Em adultos e adolescentes de idade igual ou superior a 14 anos, a dose única máxima é de 20 mg
+ferro/kg peso corporal, mas não deve exceder os 1000 mg de ferro. Em crianças entre 1 e 13 anos de
+idade, a dose única máxima é de 15 mg ferro/kg peso corporal, mas não deve exceder os 750 mg de ferro.
+
+Para perfusão, Carboximaltose férrica Mylan deve ser diluído somente numa solução estéril de cloreto de
+sódio a 0,9% m/V como se apresenta na Tabela 3. Nota: por razões de estabilidade, Carboximaltose
+férrica Mylan não deve ser diluído para concentrações inferiores a 2 mg ferro/ml (não incluindo o volume
+da dispersão de carboximaltose férrica). Para mais instruções acerca da diluição do medicamento antes da
+administração, ver secção 6.6.
+
+Tabela 3: Plano de diluição de Carboximaltose férrica Mylan para perfusão intravenosa
+        Volume de                Dose de ferro        Quantidade máxima       Tempo mínimo de
+  Carboximaltose férrica           equivalente        de solução estéril de    administração
+     Mylan necessário                                  cloreto de sódio a
+                                                        0,9% m/V 50 ml
+          2 a 4 ml                100 a 200 mg                50 ml            Nenhum tempo
+                                                                               mínimo prescrito
+         >4 a 10 ml              >200 a 500 mg               100 ml               6 minutos
+        >10 a 20 ml             >500 a 1000 mg               250 ml              15 minutos
+
+4.3   Contraindicações
+
+A utilização de Carboximaltose férrica Mylan está contraindicada nas seguintes situações:
+       • Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na
+           secção 6.1.
+       • Hipersensibilidade grave conhecida a outros produtos de ferro administrados por via
+           parentérica.
+       • Anemia não atribuída a deficiência em ferro, por exemplo anemia microcítica.
+       • Evidência de sobrecarga de ferro ou alterações na utilização do ferro.
+
+4.4   Advertências e precauções especiais de utilização
+
+Reações de hipersensibilidade
+As preparações de ferro administradas por via parentérica podem causar reações de hipersensibilidade,
+incluindo reações anafiláticas graves e potencialmente fatais. Também foram notificadas reações de
+hipersensibilidade após administração sem intercorrências, de complexos de ferro administrados por via
+parentérica. Foram comunicados casos de reações de hipersensibilidade que progrediram para a síndrome
+de Kounis (espasmo agudo arterial coronário alérgico que pode resultar em enfarte agudo do miocárdio
+alérgico, ver secção 4.8).
+
+O risco é maior em doentes com alergias conhecidas, incluindo alergias a fármacos, incluindo doentes
+com antecedentes de asma, eczema ou outra alergia atópica grave.
+Existe também um risco aumentado de reações de hipersensibilidade a complexos de ferro administrados
+por via parentérica em doentes com doenças imunes ou inflamatórias (p. ex., lúpus eritematoso sistémico,
+artrite reumatoide).
+
+Carboximaltose férrica Mylan deve ser administrado apenas quando estão imediatamente disponíveis
+técnicos formados em avaliação e tratamento de reações anafiláticas, em instalações em que seja
+assegurado todo o suporte para reanimação. Cada doente deve ser observado para identificar possíveis
+efeitos adversos durante pelo menos 30 minutos após cada administração do tratamento. Se ocorrerem
+reações de hipersensibilidade ou sinais de intolerância durante a administração, o tratamento deve ser
+interrompido de imediato. Devem estar disponíveis instalações e equipamento para reanimação
+cardiorrespiratória, bem como para tratar reações anafiláticas agudas, incluindo uma solução injetável de
+adrenalina 1:1000. Deverá ser administrada terapêutica adicional com anti-histamínicos e/ou
+corticosteroides, conforme seja apropriado.
+
+Osteomalacia hipofosfatémica
+Foi comunicada hipofosfatemia sintomática originando osteomalacia e fraturas que exigiram intervenção
+clínica, incluindo cirurgia no contexto pós-comercialização. Deve ser pedido aos doentes que procurem
+aconselhamento médico em caso de agravamento da fadiga com mialgias ou dor óssea.
+
+O fosfato sérico deve ser monitorizado em doentes que recebam várias administrações com doses mais
+elevadas ou em tratamento prolongado, bem como naqueles com fatores de risco existentes de
+hipofosfatemia. Em caso de hipofosfatemia persistente, o tratamento com carboximaltose férrica deve ser
+reavaliado.
+
+Insuficiência hepática ou renal
+Em doentes com disfunção hepática, só se deve administrar ferro por via parentérica após avaliação
+cuidadosa da relação risco/benefício. Deve evitar-se a administração parentérica de ferro em doentes com
+disfunção hepática sempre que a sobrecarga de ferro seja um fator precipitante, em particular de Porfiria
+Cutânea Tardia (PCT). Recomenda−se monitorização cuidadosa da concentração de ferro de forma a
+evitar sobrecarga.
+
+Não existem dados disponíveis de segurança acerca dos doentes com doença renal crónica dependentes de
+hemodiálise que recebem doses únicas superiores a 200 mg de ferro.
+
+Infeção
+O ferro parentérico tem de ser utilizado com precaução em caso de infeção crónica ou aguda, asma,
+eczema ou alergias atópicas. Recomenda-se que o tratamento com carboximaltose férrica seja
+interrompido em doentes com bacteriemia. Assim, em doentes com infeção crónica deve ser efetuada uma
+avaliação dos benefícios/riscos, tendo em conta a supressão de eritropoiese.
+
+Extravasação
+Deve-se ter precaução para evitar extravasão paravenosa ao administrar carboximaltose férrica. A
+extravasão paravenosa deste medicamento no local de administração poderá levar a irritação da pele, bem
+como uma coloração castanha no local de administração que poderá persistir durante bastante tempo. No
+caso de haver extravasão paravenosa deve-se interromper imediatamente a administração de
+Carboximaltose férrica Mylan.
+
+Excipientes
+Este medicamento contém 5,5 mg (0,24 mmol) de sódio por ml de dispersão não diluída, equivalente a
+0,3% da ingestão diária máxima recomendada pela OMS de 2 g de sódio para um adulto.
+
+4.5   Interações medicamentosas e outras formas de interação
+
+A absorção de ferro por via oral é reduzida quando administrado concomitantemente com formulações
+parentéricas de ferro. Portanto, se necessário, a terapêutica com ferro oral não deve ser iniciada durante
+pelo menos 5 dias após a última administração de Carboximaltose férrica Mylan.
+4.6   Fertilidade, gravidez e aleitamento
+
+Gravidez
+Existem dados limitados sobre a utilização de carboximaltose férrica em mulheres grávidas (ver
+secção 5.1). Os dados relativos a animais sugerem que o ferro libertado pela carboximaltose férrica pode
+atravessar a barreira placentária e que a utilização durante a gravidez pode influenciar o desenvolvimento
+esquelético do feto (ver secção 5.3).
+
+
+Carboximaltose férrica Mylan não deve ser utilizado durante o primeiro trimestre da gravidez. A anemia
+ferropénica, que ocorre no primeiro trimestre de gravidez, pode, em muitos casos, ser tratada com ferro
+oral. O tratamento com Carboximaltose férrica Mylan deve ser limitado ao segundo e terceiro trimestres e
+só deve ser utilizado se se considerar que o benefício é superior ao potencial risco tanto para a mãe como
+para o feto.
+
+Pode ocorrer bradicardia fetal após administração de ferros parentéricos. Esta é normalmente transitória e
+consequência de uma reação de hipersensibilidade na mãe. O feto deve ser cuidadosamente monitorizado
+durante a administração intravenosa de ferros parentéricos a mulheres grávidas.
+
+
+Amamentação
+Os estudos clínicos demonstraram que a transferência de ferro da carboximaltose férrica para o leite
+humano é negligenciável (≤1%). Com base em dados limitados de mulheres em fase de amamentação, é
+improvável que a carboximaltose férrica represente um risco para a criança amamentada. Carboximaltose
+férrica Mylan pode ser utilizado durante a amamentação.
+
+Fertilidade
+Não existem dados acerca do efeito de carboximaltose férrica na fertilidade humana. Nos estudos em
+animais, a fertilidade não foi afetada após tratamento com carboximaltose férrica (ver secção 5.3).
+
+4.7   Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos de Carboximaltose férrica Mylan sobre a capacidade de conduzir ou utilizar máquinas são
+nulos ou desprezáveis.
+
+4.8   Efeitos indesejáveis
+
+A tabela 4 apresenta as reações adversas medicamentosas (RAM) notificadas durante os estudos clínicos
+nos quais 9000 indivíduos (incluindo >100 crianças e adolescentes entre 1 e 17 anos de idade) receberam
+carboximaltose férrica, assim como as notificadas a partir da experiência pós-comercialização (ver notas
+de rodapé da tabela para as informações).
+
+A RAM mais frequentemente notificada é náusea (que ocorreu em 3,2% dos indivíduos), seguida de
+reações no local da infusão/perfusão, hipofosfatemia, cefaleias, rubor, tonturas e hipertensão. As reações
+no local da injeção/perfusão incluem várias RAM que, individualmente, são pouco frequentes ou são
+raras.
+A RAM mais grave é a reação anafilática (rara); foram notificados casos de mortes. Para obter mais
+informações, ver secção 4.4.
+Tabela 4: Reações adversas medicamentosas observadas durante os ensaios clínicos e na
+experiência pós-comercialização
+  Classe de sistemas     Frequentes    Pouco frequentes           Raras           Frequência
+        de órgãos          (≥1/100,    (≥1/1000, <1/100)       (≥1/10 000,     desconhecida(1)
+                            <1/10)                              <1/1000)
+  Doenças do sistema                   Hipersensibilidade        Reações
+       imunitário                                              anafiláticas
+      Doenças do       Hipofosfatemia
+   metabolismo e da
+        nutrição
+  Doenças do sistema      Cefaleias,  Parestesia, disgeusia                        Perda de
+         nervoso           tonturas                                              consciência(1)
+   Perturbações do                                            Ansiedade(2)
+   foro psiquiátrico
+     Cardiopatias                         Taquicardia                            Síndrome de
+                                                                                   Kounis(1)
+     Vasculopatias         Rubores,        Hipotensão             Flebite,
+                         hipertensão                         síncope(2), pré-
+                                                                síncope(2)
+        Doenças                             Dispneia        Broncospasmo(2)
+     respiratórias,
+     torácicas e do
+       mediastino
+       Doenças            Náuseas       Vómitos, dispepsia,       Flatulência
+   gastrointestinais                      dor abdominal,
+                                        obstipação, diarreia
+ Afeções dos tecidos                     Prurido, urticária,    Angioedema(2),      Edema da face(1)
+     cutâneos e                          eritema, erupção         palidez (2),
+    subcutâneos                              cutânea(3)          descoloração
+                                                                  distante da
+                                                                    pele(2)
+
+      Afeções                           Mialgia, lombalgia,                           Osteomalacia
+ musculosqueléticas                     artralgia, dores nas                        hipofosfatémica(1)
+   e dos tecidos                           extremidades,
+    conjuntivos                              espasmos
+                                            musculares
+ Perturbações gerais     Reações no     Pirexia, fadiga, dor      Estado gripal
+ e alterações no local    local de        torácica, edema       (cujo início pode
+   de administração       injeção/      periférico, arrepios,      variar entre
+                         perfusão(4)         mal-estar           algumas horas a
+                                                                  vários dias)(2)
+
+      Exames                            Aumento da alanina-
+ complementares de                       aminotransferase,
+    diagnóstico                            aumento da
+                                            aspartato-
+                                         aminotransferase,
+                                             aumento da gama-
+                                            glutamiltransferase,
+                                                aumento da
+                                               desidrogenase,
+                                                aumento de
+                                            fosfatase alcalina no
+                                                   sangue
+ (1) RAM exclusivamente notificadas em pós-comercialização; estimadas como raras.
+ (2) RAM notificadas em pós-comercialização que também se observaram em ensaios clínicos.
+ (3) Inclui os seguintes termos preferenciais: erupção cutânea (RAM individual determinada como
+     pouco frequente) e erupção eritematosa, generalizada, macular, maculopapulosa, pruriginosa (todas
+     as RAM individuais determinadas como raras).
+ (4) Inclui, sem limitação, os seguintes termos preferenciais: reações no local de injeção/perfusão dor,
+     hematoma, descoloração, extravasão, irritação, (todas as RAM individuais determinadas como
+     pouco frequentes) e parestesia (RAM individual determinada como rara).
+ Nota: RAM = reação adversa medicamentosa.
+
+População pediátrica
+
+O perfil de segurança para crianças e adolescentes entre 1 e 17 anos de idade é comparável ao dos adultos.
+110 doentes pediátricos receberam carboximaltose férrica em 7 estudos clínicos. Não foram notificadas
+RAM graves. As RAM não graves notificadas foram hipofosfatemia (n = 5), urticária (n = 5), reações no
+local de injeção/perfusão (n = 4), dor abdominal (n = 2), rubores (n = 2), cefaleias (n = 2), pirexia (n = 2),
+aumento das enzimas hepáticas (n = 2) e erupção cutânea (n = 2). Obstipação, gastrite, hipertensão,
+prurido e sede foram notificados apenas uma vez.
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma vez
+que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas diretamente ao
+INFARMED, I.P.:
+
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+E-mail: farmacovigilancia@infarmed.pt
+
+4.9   Sobredosagem
+
+A administração de Carboximaltose férrica Mylan em quantidades que excedam a quantidade necessária
+para corrigir a deficiência em ferro na altura da administração pode levar a acumulação de ferro nos locais
+de depósito conduzindo eventualmente a hemossiderose. No reconhecimento da acumulação de ferro,
+poderá ser útil fazer a monitorização dos parâmetros de ferro como a ferritina sérica e a saturação da
+transferrina (TSAT). Se ocorrer acumulação de ferro, trate de acordo com a prática médica padrão, por
+exemplo, considere a utilização de um quelante de ferro.
+5.    PROPRIEDADES FARMACOLÓGICAS
+
+5.1   Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 4.1.1 Sangue. Antianémicos.
+Compostos de ferro. Ferro para via parental. código ATC: B03AC.
+
+A dispersão de Carboximaltose férrica Mylan para injeção/perfusão é uma solução coloidal do complexo
+de ferro sob a forma de carboximaltose férrica.
+
+O complexo foi concebido para fornecer, de forma controlada, ferro utilizável para as proteínas de
+transporte e de reservas de ferro no organismo (respetivamente a transferrina e a ferritina).
+
+A utilização por glóbulos vermelhos de carboximaltose férrica radio-marcada com 59Fe variou entre 91%
+e 99% nos indivíduos com carência de ferro e 61% a 84% nos indivíduos com anemia renal 24 dias após a
+dose. O tratamento de carboximaltose férrica resulta num aumento do número de reticulócitos, dos níveis
+de ferritina sérica e dos níveis de TSAT para níveis normais.
+
+Eficácia e segurança clínicas
+
+A eficácia e segurança de carboximaltose férrica foram estudadas em diferentes áreas terapêuticas que
+precisam de ferro intravenoso para corrigir uma carência de ferro. Os principais estudos estão descritos
+com mais pormenor abaixo.
+
+Cardiologia
+
+Insuficiência cardíaca crónica
+O estudo CONFIRM-HF foi um ensaio aleatorizado em dupla ocultação com 2 grupos que comparou
+carboximaltose férrica (n = 150) vs. placebo (n = 151) em indivíduos com insuficiência cardíaca crónica e
+deficiência de ferro ao longo de um período de tratamento de 52 semanas. No Dia 1 e Semana 6 (fase de
+correção), os indivíduos foram submetidos a tratamento com carboximaltose férrica de acordo com um
+esquema de dosagem simplificado, utilizando o valor inicial de Hb e o peso corporal registados no
+rastreio (ver secção 4.2), tratamento com placebo ou nenhuma dose. Nas Semanas 12, 24 e 36 (fase de
+manutenção) os indivíduos foram submetidos a tratamento com carboximaltose férrica (500 mg de ferro)
+ou placebo caso a ferritina sérica fosse <100 ng/ml ou 100 a 300 ng/ml com TSAT <20%. Os benefícios
+do tratamento com carboximaltose férrica vs. placebo foram demonstrados, através da alteração no teste
+de marcha de 6 minutos a partir do valor inicial até à Semana 24 (33 ±11 metros, p=0,002), objetivo
+primário de eficácia. Este efeito manteve-se ao longo do estudo até à Semana 52 (36 ±11 metros,
+p<0,001).
+
+O estudo EFFECT-HF foi um ensaio aberto (com avaliação de objetivo com ocultação), aleatorizado com
+2 grupos que comparou carboximaltose férrica (n = 86) vs. tratamento padrão (n = 86) em indivíduos com
+insuficiência cardíaca crónica e deficiência de ferro ao longo de um período de tratamento de 24 semanas.
+No Dia 1 e Semana 6 (fase de correção), os indivíduos receberam o tratamento com carboximaltose
+férrica de acordo com um mapa de dosagem simplificado, utilizando o valor inicial de Hb e o peso
+corporal registados no rastreio (ver secção 4.2) ou o tratamento padrão. Na Semana 12 (fase de
+manutenção), os indivíduos receberam carboximaltose férrica (500 mg de ferro) ou o tratamento padrão
+de ferritina sérica <100 ng/ml ou 100 a 300 ng/ml e TSAT <20%. Os benefícios do tratamento com
+carboximaltose férrica vs. o tratamento padrão foram observados com o objetivo primário de eficácia, a
+mudança no pico de VO2 ajustado ao peso a partir do valor inicial até à Semana 24 (erro padrão da média
+1,04 ±0,44, p=0,02).
+
+Nefrologia
+
+Doença renal crónica dependente de hemodiálise
+O estudo VIT-IV-CL-015 foi um estudo de grupo paralelo aleatorizado e aberto que comparou
+carboximaltose férrica (n = 97) com sacarose de ferro (n = 86) em indivíduos com anemia provocada por
+carência de ferro em hemodiálise. Os indivíduos receberam carboximaltose férrica ou sacarose de ferro 2-
+3 vezes por semana em dose individual de 200 mg de ferro diretamente no dialisador até ser atingida a
+dose de ferro cumulativa calculada individualmente (dose cumulativa média de ferro como
+carboximaltose férrica: 1700 mg). O parâmetro de eficácia primário foi a percentagem de indivíduos que
+atingiram um aumento na Hb de ≥1,0 g/dl às 4 semanas após o valor base. Às 4 semanas após o valor
+base, 44,1% responderam ao tratamento com carboximaltose férrica (i.e. aumento de Hb de ≥1,0 g/dl)
+comparado com 35,3% para a sacarose de ferro (p = 0,2254).
+
+Doença renal crónica não dependente de diálise
+O estudo 1VIT04004 foi um estudo de controlo ativo aleatorizado e aberto, que avaliou a segurança e
+eficácia de carboximaltose férrica (n = 147) vs. ferro oral (n = 103). Os indivíduos no grupo de
+carboximaltose férrica receberam 1000 mg de ferro no valor base e 500 mg de ferro nos dias 14 e 28, se
+TSAT foi <30% e a ferritina sérica foi <500 ng/ml na visita respetiva. Os indivíduos no grupo de ferro
+oral receberam 65 mg de ferro TID como sulfato ferroso do valor base ao dia 56. Os indivíduos foram
+acompanhados até ao dia 56. O parâmetro de eficácia primário foi a percentagem de indivíduos que
+atingiram um aumento na Hb de ≥1,0 g/dl em qualquer momento entre o valor base e o final do estudo ou
+tempo de intervenção. Isto foi conseguido em 60,54% dos indivíduos que receberam carboximaltose
+férrica vs. 34,7% de indivíduos no grupo de ferro oral (p<0,001). A alteração na hemoglobina média no
+dia 56/final do estudo foi 1,0 g/dl no grupo de carboximaltose férrica e 0,7 g/dl no grupo de ferro oral
+(p = 0,034, 95% IC: 0,0, 0,7).
+
+Gastroenterologia
+
+Doença entérica inflamatória
+O estudo VIT-IV-CL -008 foi um estudo aberto e aleatorizado que comparou a eficácia de carboximaltose
+férrica vs. sulfato ferroso oral na redução da anemia por carência em ferro em indivíduos com doença
+entérica inflamatória. Os indivíduos receberam ou carboximaltose férrica (n = 111) em doses individuais
+de até 1000 mg de ferro uma vez por semana até ser atingida a dose de ferro calculada individualmente
+(através da fórmula Ganzoni) (dose de ferro cumulativa média: 1490 mg), ou 100 mg de ferro BID como
+sulfato ferroso (n = 49) durante 12 semanas. Os indivíduos que receberam carboximaltose férrica
+demonstraram um aumento médio na Hb do valor base para a Semana 12 de 3,83 g/dl, que não foi inferior
+às 12 semanas de terapia com sulfato ferroso duas vezes ao dia (3,75 g/dl, p = 0,8016).
+
+O estudo FER-IBD-07-COR foi um estudo aberto e aleatorizado que comparou a eficácia de
+carboximaltose férrica vs. sacarose férrica em indivíduos com doença entérica inflamatória moderada ou
+em remissão. Os indivíduos que receberam carboximaltose férrica foram doseados de acordo com uma
+grelha de doses simplificada que utilizou o valor base de Hb e o peso corporal (ver secção 4.2) em doses
+individuais até 1000 mg de ferro, enquanto os indivíduos que receberam sacarose de ferro foram doseados
+de acordo com as doses de ferro calculadas individualmente utilizando a fórmula Ganzoni em doses de
+200 mg de ferro até se atingir a dose de ferro cumulativa. Os indivíduos foram acompanhados durante
+12 semanas. 65,8% dos indivíduos que receberam carboximaltose férrica (n = 240; dose de ferro
+cumulativa média: 1414 mg) vs. 53,6% que receberam sacarose de ferro (n = 235; dose cumulativa média
+1207 mg; p = 0,004) responderam à Semana 12 (definido como aumento de Hb ≥2 g/dl). 83,8% dos
+indivíduos tratados com carboximaltose férrica vs. 75,9% dos indivíduos tratados com sacarose de ferro
+atingiram um aumento de Hb ≥2 g/dl ou tiveram Hb nos limites normais à Semana 12 (p = 0,019).
+
+Saúde das mulheres
+
+Pós-parto
+O estudo VIT-IV-CL-009 foi um estudo de não-inferioridade, aberto e aleatorizado que comparou a
+eficácia de carboximaltose férrica (n = 227) vs. sulfato ferroso (n = 117) em mulheres a sofrer de anemia
+pós-parto. Os indivíduos receberam carboximaltose férrica em doses individuais de até 1000 mg de ferro
+até ser atingida a dose de ferro cumulativa calculada individualmente (através da fórmula Ganzoni) ou
+100 mg de ferro sob a forma de sulfato ferroso BID durante 12 semanas. Os indivíduos foram
+acompanhados durante 12 semanas. A alteração média na Hb do valor base à Semana 12 foi 3,37 g/dl no
+grupo de carboximaltose férrica (n = 179; dose de ferro cumulativa média: 1347 mg) vs. 3,29 g/dl no
+grupo de sulfato ferroso (n = 89), não demonstrando inferioridade entre os tratamentos.
+
+Gravidez
+Os medicamentos com ferro para administração intravenosa não devem ser utilizados durante a gravidez,
+a menos que tal seja claramente necessário. O tratamento com carboximaltose férrica deve ser limitado ao
+segundo e terceiro trimestres, se se considerar que o benefício é superior ao potencial risco tanto para a
+mãe como para o feto (ver secção 4.6).
+
+Estão disponíveis dados de segurança limitados em mulheres grávidas resultantes do estudo FER-ASAP-
+2009-01, um ensaio aleatorizado aberto que comparou carboximaltose férrica (n=121) vs. sulfato de ferro
+oral (n = 115) em mulheres grávidas no segundo e terceiro trimestres com anemia com deficiência em
+ferro durante um período de tratamento de 12 semanas. Os indivíduos foram submetidos a tratamento com
+carboximaltose férrica em doses cumulativas de 1000 mg ou 1500 mg de ferro (dose cumulativa média:
+1029 mg de ferro) com base na Hb e no peso corporal determinados no rastreio, ou 100 mg de ferro por
+via oral duas vezes por dia durante 12 semanas.
+A incidência de reações adversas relacionadas com o tratamento foi semelhante entre as mulheres tratadas
+com carboximaltose férrica e as mulheres tratadas com ferro por via oral (11,4% no grupo de
+carboximaltose férrica; 15,3% no grupo de ferro oral). As reações adversas relacionadas com o tratamento
+notificadas mais frequentemente foram náuseas, dor abdominal superior e cefaleias. Os níveis de Apgar
+dos recém-nascidos, assim como os parâmetros de ferro em recém-nascidos foram semelhantes nos dois
+grupos de tratamento.
+
+População pediátrica
+
+Adolescentes com idade igual ou superior a 14 anos foram incluídos em 4 estudos realizados em adultos.
+Além disso, foram realizados estudos pediátricos em crianças e adolescentes entre 1 e 17 anos de idade
+com anemia por deficiência de ferro. As etiologias mais frequentes para anemia por deficiência de ferro
+foram doenças gastrointestinais (por exemplo, doença entérica inflamatória, gastrite por Helicobacter
+pylori, doença celíaca) e hemorragia uterina intensa.
+
+Num estudo farmacocinético/farmacodinâmico prospetivo de fase 2 (1VIT13036), 35 crianças com uma
+idade média de 9,8 anos (intervalo: 1,5-17,5 anos) foram tratadas em 2 coortes de doses consecutivas com
+doses únicas de carboximaltose férrica a 7,5 mg de ferro/kg peso corporal (n = 16) ou carboximaltose
+férrica a 15 mg de ferro/kg peso corporal (n = 19), com uma dose máxima de 750 mg de ferro. A Hb, a
+ferritina e a TSAT aumentaram dependendo da dose. No dia 35 após a injeção, o aumento médio (DP) na
+Hb foi de 1,9 (1,38) g/dl com carboximaltose férrica a 7,5 mg de ferro/kg e 2,8 (1,15) g/dL com
+carboximaltose férrica a 15 mg de ferro/kg. Consulte também a secção 4.8.
+Num estudo de fase 3 prospetivo, aberto e de grupos paralelos (1VIT17044), a eficácia e a segurança de
+carboximaltose férrica foram comparadas com a terapêutica com ferro oral. 40 crianças com uma idade
+média de 14,5 anos (intervalo: 1 a 17 anos) foram tratadas com 2 doses de carboximaltose férrica a 15 mg
+de ferro/kg peso corporal num intervalo de 7 dias (dose única máxima de 750 mg) e 39 crianças com uma
+idade média de 14,0 anos (intervalo: 1 a 17 anos) com sulfato ferroso oral durante 28 dias. Foi observado
+um aumento semelhante na Hb após o tratamento com carboximaltose férrica e o tratamento com sulfato
+ferroso oral. O aumento na Hb desde o valor inicial até ao dia 35 (erro padrão da média [IC 95%]) foi de
+2,22 [1,69, 2,75] g/dL após carboximaltose férrica e de 1,92 [1,43, 2,41] g/dL após sulfato ferroso oral.
+No total, 87,5% dos doentes no grupo de ferro intravenoso alcançaram um aumento de Hb >1 g/dl no
+final do estudo. O aumento na ferritina e na TSAT, utilizado como uma medida da reposição das reservas
+de ferro, foi superior após a terapêutica com ferro intravenoso em comparação com a terapêutica com
+sulfato ferroso oral, com um aumento na ferritina desde o valor inicial até ao dia 35 (erro padrão da média
+[IC 95%]) de 132,1 [105,44, 158,76] ng/ml após carboximaltose férrica e de 11,0 [-15,62, 37,65] ng/ml
+após sulfato ferroso oral. O aumento correspondente na TSAT foi de 24,3 [19,19, 29,41] % e 8,7 [3,70,
+13,63]%, respetivamente. Consulte também a secção 4.8.
+
+Monitorização da ferritina após a terapêutica de substituição
+Os dados do estudo VIT-IV-CL-008 são limitados, o que demonstra que os níveis de ferritina diminuem
+rapidamente entre 2 a 4 semanas após a substituição e mais lentamente após este período. Os níveis
+médios de ferritina não desceram para níveis em que possa ser considerado um novo tratamento durante
+as 12 semanas de acompanhamento do estudo. Desta forma, os dados disponíveis não indicam, de forma
+evidente, o momento ideal para a realização de um novo teste de ferritina, apesar de a avaliação dos níveis
+de ferritina antes das 4 semanas após a terapêutica de substituição aparentar ser prematura. Assim sendo,
+recomenda-se que seja efetuada a reavaliação adicional da ferritina pelo médico com base na condição
+individual do doente.
+
+5.2   Propriedades farmacocinéticas
+
+Distribuição
+A tomografia por emissão de positrões demonstrou que o 59Fe e o 52Fe libertados da carboximaltose
+férrica foram rapidamente eliminados da corrente sanguínea, transferidos para a medula óssea e
+depositados no fígado e no baço.
+Após a administração de uma única dose de carboximaltose férrica de 100 a 1000 mg de ferro em
+indivíduos com deficiência de ferro, obtiveram-se níveis séricos totais máximos de ferro de 37 µg/ml até
+333 µg/ml, após 15 minutos até 1,21 horas, respetivamente. O volume do compartimento central
+corresponde ao volume do plasma (aproximadamente 3 litros).
+
+Eliminação
+O ferro injetado ou perfundido foi rapidamente eliminado do plasma, apresentando uma semivida
+terminal entre 7 e 12 horas e um tempo de permanência médio (MRT) entre 11 e 18 horas. A eliminação
+renal de ferro foi negligenciável.
+
+População pediátrica
+As propriedades farmacocinéticas de carboximaltose férrica a uma dose de 15 mg de ferro/kg foram
+semelhantes às registadas para adultos com deficiência de ferro. O ferro sérico aumentou
+proporcionalmente à dose após uma dose única de 7,5 mg de ferro/kg ou 15 mg de ferro/kg. Após uma
+dose única de carboximaltose férrica de 15 mg de ferro/kg peso corporal (no máximo, 750 mg), foram
+medidos valores séricos totais máximos médios de ferro de 310 µg/ml após 1,12 horas. A semivida
+terminal foi de 9,8 horas e o volume de distribuição estimado pela análise farmacocinética da população
+foi de 0,42 a 3,14 l. Com base em simulações baseadas em modelos, os indivíduos pediátricos tenderam a
+ter uma exposição sistémica inferior (AUC0-72h inferior) em comparação com a dos adultos (mediana
+por faixa etária: 3.340 µg×h/ml (1 a 2 anos), 4.110 µg×h/ml (3 a 12 anos), 4.740 µg×h/ml (13 a 17 anos),
+8.864 µg×h/ml (adultos)).
+
+5.3    Dados de segurança pré-clínica
+
+Dados não clínicos não revelam riscos especiais para o ser humano, segundo
+estudos convencionais de farmacologia de segurança, toxicidade de dose repetida e genotoxicidade. Os
+estudos pré-clínicos sugerem que o ferro libertado pela carboximaltose férrica atravessa a barreira
+placentária e é excretado no leite materno em quantidades limitadas e controladas. Em estudos de
+toxicidade reprodutiva efetuados em coelhos sem deficiência de ferro, a carboximaltose férrica foi
+associada a anomalias esqueléticas “minor” no feto. Num estudo de fertilidade em ratos, não se
+verificaram efeitos sobre a fertilidade quer em fêmeas quer em machos. Não foram realizados estudos a
+longo prazo em animais que permitam avaliar o potencial carcinogénico da carboximaltose férrica. Não se
+observou qualquer evidência de potencial alérgico ou imunotóxico. Um estudo controlado in vivo
+demonstrou não haver reação cruzada da carboximaltose férrica com os anticorpos antidextrano. Após a
+administração endovenosa, não se observou irritação local ou intolerância.
+
+
+6.     INFORMAÇÕES FARMACÊUTICAS
+
+6.1.   Lista dos excipientes
+
+Ácido clorídrico (ajuste do pH)
+Hidróxido de sódio (ajuste do pH)
+Água para preparações injetáveis
+
+6.2    Incompatibilidades
+
+Este medicamento não pode ser misturado com outros medicamentos, exceto os mencionados na
+secção 6.6.
+
+6.3    Prazo de validade
+
+Prazo de validade para o medicamento na embalagem de venda:
+3 anos.
+
+Prazo de validade após a abertura do recipiente:
+De um ponto de vista microbiológico, a menos que o método de abertura impeça o risco de contaminação
+microbiana, o produto deve ser utilizado imediatamente.
+
+Prazo de validade após diluição com uma solução estéril de cloreto de sódio a 0,9% m/V:
+A estabilidade química e física em utilização do produto diluído foi demonstrada durante 72 horas a
+25 °C.
+De um ponto de vista microbiológico, o produto diluído deve ser utilizado imediatamente. Se não for
+utilizado imediatamente, os tempos e condições de conservação durante a utilização são da
+responsabilidade do utilizador e, normalmente, não devem ser superiores a 24 horas a uma temperatura
+entre 2 e 8 °C, a menos que a diluição tenha sido efetuada em condições assépticas controladas e
+validadas.
+
+6.4    Precauções especiais de conservação
+Conservar na embalagem de origem para proteger da luz. Não conservar acima de 30 °C. Não congelar.
+Condições de conservação do medicamento após diluição ou primeira abertura, ver secção 6.3.
+
+6.5    Natureza e conteúdo do recipiente
+
+Carboximaltose férrica Mylan é fornecido num frasco para injetável (vidro tipo I) com uma rolha cinzenta
+escura (borracha de bromobutilo) e um selo de alumínio sob a forma de:
+
+–     Dispersão de 2 ml contendo 100 mg de ferro. Disponível em embalagens de 1, 2 ou 5 frascos.
+–     Dispersão de 10 ml contendo 500 mg de ferro. Disponível em embalagens de 1, 2 ou 5 frascos.
+–     Dispersão de 20 ml contendo 1000 mg de ferro. Disponível numa embalagem de 1 frasco.
+
+É possível que não sejam comercializadas todas as apresentações.
+
+6.6    Precauções especiais de eliminação e manuseamento
+
+Antes de utilizar deverá inspecionar visualmente os frascos para injetáveis para despistar sedimentos ou
+danos. Só deve utilizar as unidades sem sedimentos e que se apresentem como uma dispersão homogénea.
+
+Cada frasco para injetáveis de Carboximaltose férrica Mylan é de utilização única. Os produtos não
+utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+
+Carboximaltose férrica Mylan só deve ser misturado com uma solução estéril de cloreto de sódio a
+0,9% m/V. Não devem ser utilizadas outras soluções parentéricas de diluição nem outros agentes
+terapêuticos na medida em que existe um risco de precipitação e/ou interação. Para instruções de diluição
+relacionadas com a dose equivalente de ferro, ver secção 4.2, Tabela 3.
+
+O período de estabilidade química e física em uso para o produto diluído indicado na secção 6.3 é
+baseado em estudos de estabilidade do produto diluído para uma concentração final de ferro de 2-5
+mg/ml.
+
+7.     TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+
+Viatris Ltd.
+Damastown Industrial Park,
+Mulhuddart, Dublin 15, DUBLIN
+Irlanda
+
+
+8.     NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Registo nº 5895438 no Infarmed I.P. – 1 frasco de 2 ml
+Registo nº 5895446 no Infarmed I.P. – 1 frasco de 10 ml
+Registo nº 5895453 no Infarmed I.P. – 1 frasco de 20 ml
+
+9.     DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+       INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: {DD de mês de AAAA}
+Data da última renovação: {DD de mês de AAAA}
+10.   DATA DA REVISÃO DO TEXTO
+
+DD/MM/AAAA
+

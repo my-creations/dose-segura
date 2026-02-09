@@ -1,0 +1,26 @@
+{
+  "medId": "cobamamida",
+  "searchTerm": "cobamamida",
+  "retrievedAt": "2026-02-08T20:15:00.000Z",
+  "bestMatch": {
+    "infarmedId": "4730",
+    "name": "Jaba B12",
+    "dci": "Cobamamida",
+    "form": "Pó e solvente para solução injetável",
+    "dosage": "10 mg/2 ml",
+    "holder": "Jaba Recordati, S.A.",
+    "score": 1.0
+  },
+  "documents": {
+    "rcm": {
+      "status": "success",
+      "contentType": "application/pdf",
+      "file": "infarmed/cobamamida/rcm/4730-rcm.pdf"
+    },
+    "fi": {
+      "status": "success",
+      "contentType": "application/pdf",
+      "file": "infarmed/cobamamida/fi/4730-fi.pdf"
+    }
+  }
+}

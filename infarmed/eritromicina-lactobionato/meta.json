@@ -1,0 +1,15 @@
+{
+  "bestMatch": {
+    "infarmedId": "3079",
+    "medicationName": "Eritrocel",
+    "dci": "Eritromicina",
+    "form": "Pó para solução injetável",
+    "dosage": "1000 mg",
+    "holder": "Labesfal - Laboratórios Almiro, S.A.",
+    "searchTerm": "eritromicina"
+  },
+  "documents": {
+    "rcm": "rcm/3079-rcm.pdf",
+    "fi": "fi/3079-fi.pdf"
+  }
+}

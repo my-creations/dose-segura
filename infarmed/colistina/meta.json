@@ -1,0 +1,26 @@
+{
+  "medId": "colistina-sulfometato-sodico",
+  "searchTerm": "colistimetato",
+  "retrievedAt": "2026-02-08T20:25:00.000Z",
+  "bestMatch": {
+    "infarmedId": "36279",
+    "name": "Colistina Generis",
+    "dci": "Colistimetato de sódio",
+    "form": "Pó para solução injetável ou para solução para inalação por nebulização",
+    "dosage": "1000000 U.I.",
+    "holder": "Eugia Pharma (Malta) Limited",
+    "score": 1.0
+  },
+  "documents": {
+    "rcm": {
+      "status": "success",
+      "contentType": "application/pdf",
+      "file": "infarmed/colistina/rcm/36279-rcm.pdf"
+    },
+    "fi": {
+      "status": "success",
+      "contentType": "application/pdf",
+      "file": "infarmed/colistina/fi/36279-fi.pdf"
+    }
+  }
+}

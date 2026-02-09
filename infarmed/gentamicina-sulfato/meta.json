@@ -1,0 +1,15 @@
+{
+  "bestMatch": {
+    "infarmedId": "30651",
+    "medicationName": "Gentamicina Labesfal MG",
+    "dci": "Gentamicina",
+    "form": "Solução injetável",
+    "dosage": "80 mg/2 ml",
+    "holder": "Labesfal - Laboratórios Almiro, S.A.",
+    "searchTerm": "gentamicina"
+  },
+  "documents": {
+    "rcm": "rcm/30651-rcm.pdf",
+    "fi": "fi/30651-fi.pdf"
+  }
+}

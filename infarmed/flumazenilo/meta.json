@@ -1,0 +1,15 @@
+{
+  "bestMatch": {
+    "infarmedId": "40409",
+    "medicationName": "Flumazenilo Fresenius KabiMG",
+    "dci": "Flumazenilo",
+    "form": "Solução injetável",
+    "dosage": "0.1 mg/ml",
+    "holder": "Fresenius Kabi Pharma Portugal, Lda.",
+    "searchTerm": "flumazenilo"
+  },
+  "documents": {
+    "rcm": "rcm/40409-rcm.pdf",
+    "fi": "fi/40409-fi.pdf"
+  }
+}

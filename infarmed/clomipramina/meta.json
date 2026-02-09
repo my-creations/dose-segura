@@ -1,0 +1,26 @@
+{
+  "medId": "clomipramina",
+  "searchTerm": "clomipramina",
+  "retrievedAt": "2026-02-08T19:45:00.000Z",
+  "bestMatch": {
+    "infarmedId": "409",
+    "name": "Anafranil",
+    "dci": "Clomipramina",
+    "form": "Solução injetável",
+    "dosage": "25 mg/2 ml",
+    "holder": "Alfasigma S.p.A.",
+    "score": 1.0
+  },
+  "documents": {
+    "rcm": {
+      "status": "success",
+      "contentType": "application/pdf",
+      "file": "infarmed/clomipramina/rcm/409-rcm.pdf"
+    },
+    "fi": {
+      "status": "success",
+      "contentType": "application/pdf",
+      "file": "infarmed/clomipramina/fi/409-fi.pdf"
+    }
+  }
+}

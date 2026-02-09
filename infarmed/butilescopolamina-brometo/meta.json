@@ -1,0 +1,43 @@
+{
+  "medId": "butilescopolamina-brometo",
+  "searchTerm": "Buscopan",
+  "retrievedAt": "2026-02-08T00:00:00.000Z",
+  "bestMatch": {
+    "infarmedId": "8906404",
+    "name": "Buscopan",
+    "dci": "Butilescopolamina",
+    "form": "Solução injetável",
+    "dosage": "20 mg/1 ml",
+    "holder": "Opella Healthcare Portugal, Unipessoal Lda",
+    "score": 1.0,
+    "generic": false,
+    "processNumber": "9/17/60",
+    "administration": ["Via intramuscular", "Via intravenosa", "Via subcutânea"],
+    "classification": {
+      "atc": "A03BB01 - butylscopolamine",
+      "farmacoterapeutica": "6.4 - Antiespasmódicos"
+    },
+    "aimDate": "13/01/1961",
+    "lastUpdated": "30/07/2024"
+  },
+  "documents": {
+    "rcm": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "rcm/8906404-rcm.pdf",
+      "size": 33308,
+      "method": "POST with form state",
+      "lastUpdated": "30/07/2024"
+    },
+    "fi": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "fi/8906404-fi.pdf",
+      "size": 28507,
+      "method": "POST with form state",
+      "lastUpdated": "30/07/2024"
+    }
+  }
+}

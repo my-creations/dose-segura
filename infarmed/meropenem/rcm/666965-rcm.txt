@@ -1,0 +1,780 @@
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+
+1. NOME DO MEDICAMENTO
+
+Meropenem Atral 500 mg pó para solução injetável ou para perfusão
+Meropenem Atral 1000 mg pó para solução injetável ou para perfusão
+
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada frasco contém meropenem tri-hidratado equivalente a 500 mg e 1000 mg de
+meropenem anidro, respetivamente.
+
+Excipiente com efeito conhecido: sódio.
+Cada frasco de 500 mg contém 104 mg de carbonato de sódio, que equivale
+aproximadamente a 2,0 mEq de sódio (aproximadamente 45 mg).
+Cada frasco de 1000 mg contém 208 mg de carbonato de sódio, que equivale
+aproximadamente a 4,0 mEq de sódio (aproximadamente 90 mg).
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+3. FORMA FARMACÊUTICA
+
+Pó para solução injetável ou para perfusão
+Pó cristalino branco a amarelo-claro.
+
+
+4. INFORMAÇÕES CLÍNICAS
+
+4.1 Indicações terapêuticas
+
+Meropenem está indicado para o tratamento das seguintes infeções, em adultos e crianças
+com idade superior a 3 meses (ver secções 4.4 e 5.1):
+- Pneumonia grave, incluindo pneumonia hospitalar e associada ao ventilador
+- Infeções bronco-pulmonares na fibrose quística
+- Infeções complicadas das vias urinárias
+- Infeções complicadas intra-abdominais
+- Infeções intra- e pós-parto
+- Infeções complicadas da pele e tecidos moles
+- Meningite bacteriana aguda
+
+Meropenem pode ser utilizado na abordagem de doentes neutropénicos com febre com
+suspeita de se encontrar associada a infeção bacteriana.
+
+Tratamento de doentes com bacteriemia que ocorre em associação com, ou se suspeita
+estar associada com, qualquer uma das infeções acima referidas.
+
+As recomendações oficiais devem ser consideradas relativamente ao uso apropriado de
+medicamentos antibacterianos.
+
+4.2 Posologia e modo de administração
+
+Posologia
+A tabela abaixo fornece recomendações gerais de dosagem.
+
+A dose de meropenem administrada e a duração do tratamento devem ter em consideração
+o tipo de infeção a ser tratada, incluindo a sua gravidade e a resposta clínica.
+
+A dose até 2000 mg três vezes por dia em adultos e adolescentes, e a dose até 40 mg/kg
+três vezes por dia, em crianças, podem ser particularmente apropriadas quando se trata
+alguns tipos de infeções, tais como infeções devidas a espécies bacterianas menos
+sensíveis (p. ex. Enterobacterales, Pseudomonas aeruginosa, Acinetobacter spp.) ou
+infeções muito graves.
+
+São necessárias considerações adicionais quando se tratam doentes com insuficiência
+renal (ver mais em baixo).
+
+Adultos e adolescentes
+
+ Infeção                                      Dose a ser administrada a cada 8
+                                              horas
+ Pneumonia grave, incluindo pneumonia 500 mg ou 1000 mg
+ hospitalar e associada ao ventilador
+ Infeções bronco-pulmonares na fibrose 2000 mg
+ quística
+ Infeções complicadas das vias urinárias      500 mg ou 1000 mg
+ Infeções complicadas intra-abdominais        500 mg ou 1000 mg
+ Infeções intra- e pós-parto                  500 mg ou 1000 mg
+ Infeções complicadas da pele e tecidos moles 500 mg ou 1000 mg
+ Meningite bacteriana aguda                   2000 mg
+ Abordagem de doentes neutropénicos febris 1000 mg
+
+Meropenem é normalmente administrado por perfusão                intravenosa   durante
+aproximadamente 15 a 30 minutos (ver secções 6.2, 6.3 e 6.6).
+
+Alternativamente, doses até 1000 mg podem ser administradas por injeção de bólus
+intravenoso durante aproximadamente 5 minutos. Estão disponíveis dados de segurança
+limitados que suportam a administração da dose de 2000 mg em adultos por injeção de
+bólus intravenoso.
+
+Compromisso renal
+A dose para adultos e adolescentes deve ser ajustada quando a depuração da creatinina é
+inferior a 51 ml/min, como mostrado em baixo. Existem dados limitados para suportar a
+aplicação destes ajustes de dose para a dose unitária de 2000 mg.
+ Depuração           da Dose (baseada no intervalo de dose                 Frequência
+ creatinina (ml/min)    “unitária” de 500 mg ou 1000 mg ou 2000
+                        mg, ver tabela abaixo
+ 26-50                  Uma dose unitária                                  A cada 12 horas
+ 10-25                  Meia dose unitária                                 A cada 12 horas
+ < 10                   Meia dose unitária                                 A cada 24 horas
+
+Meropenem é eliminado por hemodiálise e hemofiltração. A dose requerida deve ser
+administrada após finalização do ciclo de hemodiálise.
+
+Não existem recomendações de dose estabelecidas para doentes a receberem diálise
+peritoneal.
+
+Compromisso hepático
+Não é necessário ajuste posológico em doentes com compromisso hepático (ver secção
+4.4).
+
+Idosos
+Não é necessário ajuste posológico em idosos com função renal normal ou com valores
+de depuração da creatinina superiores a 50 ml/min.
+
+População pediátrica
+
+Crianças com idade inferior a 3 meses
+A segurança e a eficácia de meropenem em crianças com idade inferior a 3 meses ainda
+não foi estabelecida e a posologia ótima ainda não foi identificada. Contudo, dados
+limitados de farmacocinética sugerem que 20 mg/kg a cada 8 horas pode ser um regime
+apropriado (ver secção 5.2).
+
+Crianças com idade entre 3 meses e 11 anos e com peso corporal até 50 kg
+As posologias recomendadas são mostradas na tabela abaixo:
+
+ Infeção                                      Dose a ser administrada a cada 8
+                                              horas
+ Pneumonia grave, incluindo pneumonia 10 mg ou 20 mg/kg
+ hospitalar e associada ao ventilador
+ Infeções broncopulmonares na fibrose 40 mg/kg
+ quística
+ Infeções complicadas das vias urinárias      10 mg ou 20 mg/kg
+ Infeções complicadas intra-abdominais        10 mg ou 20 mg/kg
+ Infeções complicadas da pele e tecidos moles 10 mg ou 20 mg/kg
+ Meningite bacteriana aguda                   40 mg/kg
+ Abordagem de doentes neutropénicos febris 20 mg/kg
+
+Crianças com peso corporal superior a 50 kg
+Deverá ser administrada a dose de adulto.
+
+Não existe experiência em crianças com compromisso renal.
+Modo de administração
+
+Meropenem é normalmente administrado por perfusão intravenosa durante
+aproximadamente 15 a 30 minutos (ver secções 6.2, 6.3 e 6.6).
+Alternativamente, doses de meropenem até 20 mg/kg podem ser administradas por bólus
+intravenoso durante aproximadamente 5 minutos. Estão disponíveis dados de segurança
+limitados que suportam a administração da dose de 40 mg/kg em crianças por injeção de
+bólus intravenoso.
+
+Para instruções acerca da reconstituição do medicamento antes da administração, ver
+secção 6.6.
+
+4.3 Contraindicações
+
+- Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na
+secção 6.1.
+- Hipersensibilidade a qualquer outro medicamento antibacteriano carbapenemo.
+- Hipersensibilidade grave (por exemplo reação anafilática, reação cutânea grave) a
+qualquer um dos tipos de medicamentos antibacterianos beta-lactâmicos (por exemplo,
+penicilinas ou cefalosporinas).
+
+4.4 Advertências e precauções especiais de utilização
+
+A seleção de meropenem para tratar um doente individual deverá ter em consideração a
+utilização apropriada de um medicamento antibacteriano carbapenemo baseada em
+fatores como a gravidade da infeção, a prevalência de resistência a outros medicamentos
+antibacterianos e o risco de seleção de bactérias resistentes a carbapenemos.
+
+Resistência em Enterobacterales, Pseudomonas aeruginosa, Acinetobacter spp.
+A resistência aos penemes por Enterobacterales, Pseudomonas aeruginosa,
+Acinetobacter spp. varia transversalmente na União Europeia. Recomenda-se aos
+prescritores para terem em consideração a prevalência local de resistência aos penemes
+nestas bactérias.
+
+Reações de hipersensibilidade
+Como com todos os antibióticos beta-lactâmicos, foram reportadas reações de
+hipersensibilidade graves e ocasionalmente fatais (ver secções 4.3 e 4.8).
+
+Doentes com história de hipersensibilidade a carbapenemos, penicilinas ou outros
+antibióticos beta-lactâmicos podem também ser hipersensíveis ao meropenem. Antes do
+início da terapêutica com meropenem, deverão ser cuidadosamente questionadas reações
+de hipersensibilidade prévias a antibióticos beta-lactâmicos.
+
+Se ocorrer reação alérgica grave, o medicamento deve ser descontinuado e devem ser
+tomadas medidas adequadas.
+
+Foram notificadas reações cutâneas adversas graves (RCAG), tais como síndrome de
+Stevens-Johnson (SSJ), necrólise epidérmica tóxica (NET), reação aos fármacos com
+eosinofilia e sintomas sistémicos (DRESS), eritema multiforme (EM), pustulose
+exantemática generalizada aguda (PEGA) em doentes tratados com meropenem (ver
+secção 4.8). Se surgirem sinais e sintomas sugestivos destas reações, o tratamento deve
+ser imediatamente descontinuado, devendo-se instituir um tratamento alternativo.
+
+Colite associada a antibióticos
+Foram reportadas colite e colite pseudomembranosa associadas a antibioterapia com
+quase todos os medicamentos antibacterianos, incluindo meropenem, sendo que a
+gravidade pode variar de ligeira a potencialmente fatal. Assim, é importante considerar
+este diagnóstico em doentes com diarreia durante, ou subsequentemente à administração
+de meropenem (ver secção 4.8). Deverá ser considerada a descontinuação da terapêutica
+com meropenem, e a administração de tratamento específico para Clostridioides difficile.
+Não devem ser administrados medicamentos que inibam o peristaltismo.
+
+Convulsões
+Durante o tratamento com carbapenemos, incluindo meropenem, as convulsões foram
+reportadas com pouca frequência (ver secção 4.8).
+
+Lesão hepática induzida por medicamentos (DILI)
+A função hepática deverá ser cuidadosamente monitorizada durante o tratamento com
+meropenem, devido ao risco de DILI (ver secção 4.8). Em caso de DILI grave, a
+descontinuação do tratamento deve ser considerada clinicamente adequada. Meropenem
+deve ser reintroduzido apenas se considerado essencial para o tratamento.
+
+Utilização em doentes com doença hepática: doentes com doenças hepáticas pré-
+existentes devem ser submetidos a monitorização da função hepática durante o tratamento
+com meropenem. Não é necessário ajuste de dose (ver secção 4.2).
+
+Seroconversão pelo teste de antiglobulina direto (teste de Coombs)
+Pode desenvolver-se um teste Coombs direto ou indireto positivo durante o tratamento
+com meropenem.
+
+Utilização concomitante com ácido valpróico/valproato de sódio/valpromida
+A utilização concomitante de meropenem e ácido valpróico/valproato                   de
+sódio/valpromida não é recomendada (ver secção 4.5).
+
+Meropenem Atral contém sódio
+
+Meropenem Atral 500 mg contém 45 mg de sódio por frasco, equivalente a 2,25% da
+dose diária máxima recomendada pela OMS de 2 g de sódio para um adulto.
+Meropenem Atral 1 g contém 90 mg de sódio por frasco, equivalente a 4,5% da dose
+diária máxima recomendada pela OMS de 2 g de sódio para um adulto.
+
+4.5 Interações medicamentosas e outras formas de interação
+
+Não foram conduzidos estudos específicos de interação de medicamentos a não ser com
+a probenecida. Este fármaco compete com o meropenem na secreção tubular ativa e,
+consequentemente, inibe a excreção renal de meropenem, com o efeito de aumento do
+tempo de semivida de eliminação e da concentração plasmática de meropenem. É
+necessária precaução se probenecida for coadministrada com meropenem.
+
+O potencial efeito de meropenem na ligação às proteínas ou metabolismo de outros
+medicamentos não foi estudado. Contudo, a ligação às proteínas é tão baixa que não se
+esperam interações com outros compostos com base neste mecanismo.
+
+Foram reportadas diminuições dos níveis sanguíneos de ácido valproico quando
+coadministrado com medicamentos carbapenemos, resultando numa diminuição de 60-
+100% dos níveis de ácido valpróico em dois dias. Devido ao rápido início e à extensão da
+diminuição, a coadministração de ácido valpróico/valproato de sódio/valpromida com
+medicamentos carbapenemos não é considerada como passível de ser gerida, e como tal
+deverá ser evitada (ver secção 4.4).
+
+Anticoagulantes orais
+A administração simultânea de antibióticos com varfarina pode aumentar os seus efeitos
+anticoagulantes. Tem havido muitas notificações de aumentos dos efeitos anticoagulantes
+de medicamentos anticoagulantes administrados oralmente, incluindo varfarina, em
+doentes que se encontram a receber medicamentos antibacterianos concomitantemente.
+O risco pode variar com a infeção subjacente, idade e estado geral do doente, pelo que a
+contribuição do antibiótico para o aumento do INR (“International Normalised Ratio”) é
+difícil de avaliar. É recomendado que o INR seja monitorizado frequentemente durante e
+logo após a coadministração de antibióticos com um medicamento anticoagulante oral.
+
+População pediátrica
+Os estudos de interação só foram realizados em adultos.
+
+4.6 Fertilidade, gravidez e aleitamento
+
+Gravidez
+
+Não existem dados, ou existem dados limitados, sobre a utilização de meropenem em
+mulheres grávidas.
+Os estudos em animais não indicam efeitos nocivos diretos ou indiretos no que respeita a
+toxicidade reprodutiva (ver secção 5.3).
+Como medida de precaução, é preferível evitar-se a utilização de meropenem durante a
+gravidez.
+
+Amamentação
+
+Foi notificada a excreção de pequenas quantidades de meropenem no leite humano.
+Meropenem não deve ser utilizado em mulheres a amamentar a não ser que o benefício
+potencial para a mãe justifique o risco potencial para o bebé.
+
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+No entanto, quando conduzir ou utilizar máquinas, deve ter-se em conta a existência de
+relatos de cefaleias, parestesias e convulsões para o meropenem.
+
+4.8 Efeitos indesejáveis
+
+Resumo do perfil de segurança
+Numa revisão de 4872 doentes com 5026 exposições de tratamento a meropenem, as
+reações adversas relacionadas com meropenem mais frequentemente reportadas foram
+diarreia (2,3%), eritema (1,4%), náuseas/vómitos (1,4%) e inflamação no local da injeção
+(1,1%). Os eventos adversos laboratoriais mais frequentemente reportados com
+meropenem foram trombocitose (1,6%) e aumento das enzimas hepáticas (1,5-4,3%).
+
+Tabela do risco de reações adversas
+Na tabela abaixo todas as reações adversas estão listadas por classes de sistema de órgãos
+e de frequência: muito frequentes (≥ 1/10), frequentes (≥ 1/100 a <1/10), pouco frequentes
+(≥ 1/1000 a < 1/100), raros (≥ 1/10 000 a <1/1000), ou muito raros (<1/10 000) e
+desconhecidos (não podem ser calculados a partir dos dados disponíveis). Em cada
+agrupamento de frequência, os efeitos indesejáveis são apresentados por ordem de
+diminuição da gravidade.
+
+ Classes de sistemas de órgãos     Frequência        Efeito indesejável
+ Infeções e infestações            Pouco frequente   Candidíase oral e vaginal
+ Doenças do sangue e do sistema    Frequente         Trombocitemia
+ linfático                         Pouco frequente   Eosinofilia,          trombocitopenia,
+                                                     leucopenia,               neutropenia,
+                                                     agranulocitose, anemia hemolítica
+ Doenças do sistema imunitário     Pouco frequente   Angioedema, anafilaxia (ver secções
+                                                     4.3 e 4.4)
+ Doenças do sistema nervoso        Frequente         Cefaleias
+                                   Pouco frequente   Parestesias
+                                   Raro              Convulsões (ver secção 4.4)
+ Doenças psiquiátricas             Raro              Delírio
+ Doenças gastrointestinais         Frequente         Diarreia, vómitos, náuseas, dor
+                                                     abdominal
+                                   Pouco frequente   Colite associada a antibióticos (ver
+                                                     secção 4.4)
+ Doenças metabólicas e de          Pouco frequente   Hipocaliemia
+ nutrição
+ Afeções hepatobiliares            Frequente         Aumento das transaminases, aumento
+                                                     da fosfatase alcalina no sangue,
+                                                     aumento de lactato desidrogenase no
+                                                     sangue
+                                   Pouco frequente   Aumento da bilirrubina no sangue,
+                                                     lesão     hepática     induzida     por
+                                                     medicamentos*
+ Alterações dos tecidos cutâneos e Frequente         Eritema cutâneo, prurido
+ subcutâneos                       Pouco frequente   Urticária, necrólise epidérmica tóxica,
+                                                     síndrome de Stevens-Johnson, eritema
+                                                     multiforme
+                                   Desconhecido      Reação a fármaco com eosinofilia e
+                                                     sintomas sistémicos (Síndrome de
+                                                     DRESS)
+ Doenças renais e urinárias        Pouco frequente   Aumento da creatinina no sangue,
+                                                     Aumento da ureia no sangue
+ Perturbações gerais e alterações Frequente          Inflamação, dor
+ no local de administração        Pouco frequente    Tromboflebite, dor no local de injeção
+* DILI inclui hepatite e insuficiência hepática
+
+População pediátrica
+Meropenem está indicado para crianças com mais de 3 meses de idade. Com base nos
+dados disponíveis limitados, não há evidência de um risco aumentado de qualquer reação
+adversa ao medicamento em crianças. Todas as notificações recebidas foram consistentes
+com eventos observados na população adulta.
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-risco
+do medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas
+de       reações       adversas       através    do       sítio     da       internet:
+http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+e-mail: farmacovigilancia@infarmed.pt
+
+4.9 Sobredosagem
+
+Em doentes com compromisso renal, pode ocorrer uma sobredosagem relativa se a dose
+não for ajustada conforme descrito na secção 4.2. Experiências de pós-comercialização
+limitadas indicam que se as reações adversas ocorrerem após sobredosagem, estas são
+consistentes com o perfil de reações adversas descrito na secção 4.8, geralmente de
+gravidade ligeira, e com resolução após descontinuação ou redução da dose. Tratamentos
+sintomáticos devem ser considerados.
+
+Em indivíduos com função renal normal, ocorrerá eliminação renal rápida.
+
+A hemodiálise removerá o meropenem e o seu metabolito.
+
+
+5. PROPRIEDADES FARMACOLÓGICAS
+
+5.1 Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: antibióticos de uso sistémico, carbapenemos, código ATC:
+J01DH02
+
+Mecanismo de ação
+Meropenem exerce a sua atividade bactericida através da inibição da síntese da parede da
+célula bacteriana, tanto em bactérias Gram-positivo, como Gram-negativo, através da
+ligação a proteínas de ligação que se ligam às penicilinas (PBP).
+
+Relação Farmacocinética/Farmacodinamia (PK/PD)
+À semelhança de outros medicamentos antibacterianos beta-lactâmicos, o tempo que as
+concentrações de meropenem excedem a CIM (T>CIM) demonstrou apresentar a melhor
+correlação com a eficácia. Em modelos pré-clínicos, o meropenem demonstrou atividade
+quando as concentrações plasmáticas excederam a CIM do organismo infetante durante
+aproximadamente 40% do intervalo entre administrações. Este objetivo não foi
+estabelecido em estudos clínicos.
+
+Mecanismo de resistência
+A resistência bacteriana ao meropenem pode resultar de: (1) diminuição da
+permeabilidade da parede celular de bactérias Gram-negativo (devido à diminuição da
+produção de canais de porina), (2) afinidade reduzida das PBP alvo, (3) expressão
+aumentada dos componentes da bomba de efluxo, e (4) produção de betalactamases que
+conseguem hidrolisar carbapenemos.
+
+Foram reportados na União Europeia nichos localizados de infeção devida a bactérias
+resistentes aos carbapenemos.
+
+Não existe nenhum alvo baseado na resistência cruzada entre meropenem e
+medicamentos das classes das quinolonas, aminoglicosídeos, macrólidos e tetraciclinas.
+Contudo, as bactérias podem exibir resistência a mais do que uma classe de medicamentos
+antibacterianos, quando o mecanismo envolvido inclui impermeabilidade e/ou bombas de
+efluxo.
+
+Limites de sensibilidade
+Os limites clínicos para os testes de CIM do European Committee on Antimicrobial
+Susceptibility Testing (EUCAST) são apresentados abaixo.
+
+Limites clínicos de CIM da EUCAST para meropenem (2021-01-01, v 11.0)
+ Organismo                                                                  Resistente
+                                                             Sensível (S)
+                                                                               (R)
+                                                               (mg/l)
+                                                                             (mg/l)
+ Enterobacterales (infeções exceto meningite)                    ≤2            >8
+ Enterobacterales (meningite)                                    ≤2            >2
+ Pseudomonas spp. (infeções exceto meningite)                    ≤2            >8
+ Pseudomonas spp. (meningite)                                    ≤2            >2
+ Acinetobacter spp. (infeções exceto meningite)                  ≤2            >8
+ Acinetobacter spp. (meningite)                                  ≤2            >2
+ Streptococcus grupos A, B, C e G                               nota 1       nota 1
+ Streptococcus pneumoniae (infeções exceto meningite)            ≤2            >2
+ Streptococcus pneumoniae (meningite)2                          ≤ 0,25       > 0,25
+ Streptococci grupo Viridans                                     ≤2            >2
+ Enterococcus spp.                                                --            --
+ Staphylococcus spp.                                            nota 3       nota 3
+ Moraxella catarrhalis4                                          ≤2            >2
+ Haemophilus influenzae (infeções exceto meningite)              ≤2            >2
+ Haemophilus influenzae (meningite)2                            ≤ 0,25       > 0,25
+ Neisseria meningitidis5                                        ≤ 0,25       > 0,25
+ Anaeróbios Gram-positivo exceto Clostridioides difficile        ≤2            >8
+ Anaeróbios Gram-negativo                                        ≤2            >8
+ Listeria monocytogenes                                         ≤ 0,25       > 0,25
+ Aerococcus sanguinicola and urinae                             ≤ 0,25       > 0,25
+ Kingella kingae                                                ≤ 0,03       > 0,03
+ Achromobacter xylosoxidans                                      ≤1            >4
+ Bacillus spp. (exceto B. anthracis)                            ≤ 0,25       > 0,25
+ Burkholderia pseudomallei                                       ≤2            >2
+    Limites para espécies não comuns                              ≤2            >8
+
+1
+   A sensibilidade de Streptococcus grupos A, B, C e G a carbapenemos é inferida da
+sensibilidade à benzilpenicilina.
+2
+  Meropenem é o único carbapenemo utilizado para meningite.
+3
+  A sensibilidade dos estafilococos aos carbapenemos é inferida da sensibilidade à
+cefoxitina.
+4
+  Isolados com valores de CIM acima dos limites de sensibilidade são muito raros ou
+ainda não foram notificados. A identificação e os testes de sensibilidade antimicrobiana
+relativamente a qualquer um deste tipo de isolados devem ser confirmados e o isolado
+deve ser enviado para um laboratório de referência
+
+A prevalência da resistência adquirida pode variar geograficamente, e com o tempo, para
+espécies selecionadas, e informação local relativa à resistência é desejável,
+particularmente quando se tratam infeções graves. Sempre que necessário, deverá ser
+procurado aconselhamento especializado quando a prevalência local de resistência é tal
+que a utilidade do medicamento em alguns tipos de infeções é questionável.
+
+A tabela seguinte de agentes patogénicos listados deriva da experiência clínica e das
+recomendações terapêuticas.
+
+Espécies geralmente sensíveis
+Aeróbios Gram-positivo
+Enterococcus faecalis$
+Staphylococcus aureus (sensível à meticilina)£
+Espécies de Staphylococcus (sensíveis à meticilina) incluindo Staphylococcus
+epidermidis
+Streptococcus agalactiae (Grupo B)
+Grupo de Streptococcus milleri (S. anginosus, S. constellatus, y S. intermedius)
+Streptococcus pneumoniae
+Streptococcus pyogenes (Grupo A)
+
+Aeróbios Gram-negativo
+Citrobacter freundii
+Citrobacter koseri
+Enterobacter aerogenes
+Enterobacter cloacae
+Escherichia coli
+Haemophilus influenzae
+Klebsiella oxytoca
+Klebsiella pneumoniae
+Morganella morganii
+Neisseria meningitidis
+Proteus mirabilis
+Proteus vulgaris
+Serratia marcescens
+
+Anaeróbios Gram-positivo
+Clostridium perfringens
+Peptoniphilus asaccharolyticus
+Espécies de Peptostreptococcus (incluyendo P. micros, P anaerobius, P. magnus)
+
+Anaeróbios Gram-negativo
+Bacteroides caccae
+Grupo de Bacteroides fragilis
+Prevotella bivia
+Prevotella disiens
+Espécies para as quais a resistência adquirida pode ser um problema
+Aeróbios Gram-positivo
+Enterococcus faecium$†
+
+Aeróbios Gram-negativo
+Espécies de Acinetobacter
+Burkholderia cepacia
+Pseudomonas aeruginosa
+Organismos inerentemente resistentes
+Aeróbios Gram-negativo
+Stenotrophomonas maltophilia
+Espécies de Legionella
+
+Outros microrganismos
+Chlamydophila pneumoniae
+Chlamydophila psittaci
+Coxiella burnetii
+Mycoplasma pneumoniae
+
+Espécies que mostram sensibilidade intermédia natural
+Todos os estafilococos resistentes à meticilina são resistentes ao meropenem
+Taxa de resistência ≥ 50% em um ou mais de países da UE.
+
+Mormo e melioidose
+O uso de meropenem em humanos é baseado nos dados de sensibilidade in vitro à B.
+mallei e B. pseudomallei e nos dados em humanos limitados. O médico deve consultar os
+documentos de consenso nacionais e/ou internacionais no que respeita o tratamento da
+mormo e melioidose.
+
+5.2 Propriedades farmacocinéticas
+
+Em indivíduos saudáveis, o tempo médio de semivida plasmática é de aproximadamente
+1 hora; o volume de distribuição médio é de aproximadamente 0,25 l/kg (11-27 L) e a
+depuração média é de 287 ml/min a 250 mg, descendo para 205 ml/min a 2000 mg. Doses
+de 500, 1000 e 2000 mg em administração por perfusão durante 30 minutos originam
+valores médios de Cmax de aproximadamente 23, 49 e 115 µg/ml, respetivamente,
+correspondendo a valores de AUC de 39,3 , 62,3 e 153 µg.h/ml. Após perfusão durante 5
+minutos os valores de Cmax são de 52 e 112 µg /ml após doses de 500 e 1000 mg,
+respetivamente. Quando são administradas doses múltiplas a cada 8 horas a doentes com
+função renal normal, não ocorre acumulação de meropenem.
+
+Um estudo efetuado com 12 doentes submetidos a administração de meropenem 1000 mg
+a cada 8 horas após cirurgia para infeções intra-abdominais mostrou uma Cmax e uma
+semivida de eliminação comparáveis a sujeitos normais, mas com um volume de
+distribuição maior 27 l.
+
+Distribuição
+
+A média de ligação às proteínas plasmáticas de meropenem foi de aproximadamente 2%,
+e foi independente da concentração. Após administração rápida (5 minutos ou menos), a
+farmacocinética foi bi-exponencial, mas tal é muito menos evidente após 30 minutos de
+perfusão. Meropenem demonstrou penetrar bem em vários fluidos corporais e tecidos
+incluindo: pulmões, secreções brônquicas, bílis, líquido cefalorraquidiano, tecidos
+ginecológicos, pele, fáscia, músculos e exsudados peritoneais.
+
+Biotransformação
+
+Meropenem é metabolizado por hidrólise do anel beta-lactâmico, gerando um metabolito
+microbiologicamente inativo. In vitro, meropenem apresenta uma sensibilidade reduzida
+à hidrólise pela dehidropeptidase-I (DHP-I), em comparação com o imipenem, e não é
+necessário coadministrar um inibidor da DHP-I.
+
+Eliminação
+Meropenem é primariamente excretado inalterado pelos rins; aproximadamente 70% (50
+–75 %) da dose é excretada inalterada em 12 horas. 28% adicionais são recuperados como
+metabolito microbiologicamente inativo. A eliminação fecal representa apenas
+aproximadamente 2% da dose. A depuração renal medida e o efeito do probenecida
+mostram que meropenem sofre igualmente filtração e secreção tubular.
+
+Insuficiência renal
+O compromisso renal resultou numa AUC plasmática superior e uma semivida de
+eliminação maior para o meropenem. Registaram-se aumentos da AUC de 2,4 vezes em
+doentes com compromisso moderado (CrCL 33-74 ml/min), 5 vezes no compromisso
+grave (CrCL 4-23 ml/min) e 10 vezes em doentes em hemodiálise (CrCL <2 ml/min)
+quando comparada com sujeitos saudáveis (CrCL >80 ml/min). A AUC dos metabolitos
+de anel aberto microbiologicamente inativos também se encontra consideravelmente
+aumentada em doentes com compromisso renal. É recomendado ajuste de dose em
+doentes com compromisso renal moderado e grave (ver secção 4.2).
+
+Meropenem é removido por hemodiálise, com uma depuração aproximadamente 4 vezes
+superior durante a hemodiálise, por comparação com o verificado em doentes anúricos.
+
+Insuficiência hepática
+Um estudo em doentes com cirrose alcoólica não mostrou qualquer efeito da doença
+hepática na farmacocinética de meropenem após doses repetidas.
+
+Doentes adultos
+Estudos de farmacocinética efetuados em doentes não mostraram diferenças
+farmacocinéticas significativas em relação a sujeitos saudáveis com função renal
+equivalente. Um modelo base populacional desenvolvido a partir de dados de 79 doentes
+com infeção intra-abdominal ou pneumonia, mostrou que o volume central dependia do
+peso, e a depuração dependia da depuração da creatinina e da idade.
+População pediátrica
+A farmacocinética em bebés e crianças com infeção, com doses de 10, 20 e 40 mg/kg,
+mostrou valores de Cmax aproximados aos dos adultos após doses de 500, 1000 e
+2000 mg, respetivamente. A comparação mostrou farmacocinética consistente entre as
+doses e semivida de eliminação similar à observada em adultos em todos à exceção dos
+doentes mais novos (<6 meses t1/2 1,6 horas). Os valores médios de depuração de
+meropenem foram de 5,8 ml/min/kg (6-12 anos), 6,2 ml/min/kg (2-5 anos), 5,3 ml/min/kg
+(6-23 meses) e 4,3 ml/min/kg (2-5 meses). Aproximadamente 60 % da dose é excretada
+na urina durante 12 horas como meropenem, com 12 % adicional como metabolito. As
+concentrações de meropenem no LCR de crianças com meningite são de
+aproximadamente 20 % dos níveis plasmáticos concomitantes, embora exista uma
+elevada variabilidade inter-individual.
+
+A farmacocinética de meropenem em neonatos que requerem tratamento anti-infecioso
+mostrou uma depuração superior em neonatos com idade cronológica ou gestacional
+superior, com uma semivida de eliminação global média de 2,9 horas. A simulação de
+Monte Carlo baseada no modelo de PK de base populacional mostrou que um regime
+posológico de 20 mg/kg a cada 8 horas atingiu 60% T>CIM para P. aeruginosa em 95%
+dos pré-termo e em 91% dos neonatos de termo.
+
+Idosos
+Estudos de farmacocinética em sujeitos idosos saudáveis (65-80 anos) demonstraram uma
+redução na depuração plasmática que se correlacionou com uma redução associada à
+idade da depuração da creatinina, e a uma redução menor da depuração não renal. Não é
+necessário ajuste posológico em doentes idosos, com exceção dos casos de compromisso
+renal moderado a grave (ver secção 4.2).
+
+5.3 Dados de segurança pré-clínica
+
+Estudos efetuados em animais indicam que meropenem é bem tolerado pelos rins. Foi
+observada evidência histológica de lesão tubular renal em ratos e cães apenas com doses
+de 2000 mg/kg e superiores após uma administração única, e acima em macacos com 500
+mg/kg num estudo de 7 dias.
+
+Meropenem é geralmente bem tolerado pelo sistema nervoso central. Foram observados
+efeitos em estudos de toxicidade aguda em roedores com doses acima de 1000 mg/kg.
+
+A DL50 IV de meropenem em roedores é superior a 2000 mg/kg.
+
+Em estudos de dose repetida, com até 6 meses de duração, foram observados apenas
+efeitos menores, incluindo diminuição dos parâmetros dos glóbulos vermelhos em cães.
+
+Não se verificou evidência de potencial mutagénico na bateria de testes convencionais,
+nem qualquer evidência de toxicidade reprodutiva, incluindo potencial teratogénico em
+estudos efetuados em ratos até 750 mg/kg, e em macacos até 360 mg/kg.
+
+Não se verificou evidência de sensibilidade aumentada ao meropenem em animais jovens
+comparativamente a animais adultos. A formulação intravenosa foi bem tolerada em
+estudos efetuados em animais.
+O único metabolito de meropenem apresentou um perfil de toxicidade similar em estudos
+em animais.
+
+
+6. INFORMAÇÕES FARMACÊUTICAS
+
+6.1 Lista dos excipientes
+
+Carbonato de sódio.
+
+6.2 Incompatibilidades
+
+Na ausência de estudos de compatibilidade, este medicamento não pode ser misturado
+com outros medicamentos.
+
+6.3 Prazo de validade
+
+Meropenem Atral 500 mg pó para solução injetável ou para perfusão: 2 anos;
+Meropenem Atral 1000 mg pó para solução injetável ou para perfusão: 3 anos.
+
+Após reconstituição:
+Administração por injeção de bólus intravenoso
+A solução para bólus intravenoso é preparada dissolvendo o medicamento em água
+esterilizada para preparações injetáveis para uma concentração final de 50 mg/ml.
+De um ponto de vista microbiológico, a não ser que o método de
+abertura/reconstituição/diluição exclua o risco de contaminação microbiológica, o
+medicamento deve ser utilizado imediatamente.
+Se não utilizado imediatamente, o tempo e as condições de conservação em utilização são
+da responsabilidade do utilizador.
+
+Administração por perfusão intravenosa
+A solução para perfusão é preparada dissolvendo o medicamento numa solução para
+perfusão de cloreto de sódio a 0,9% ou numa solução para perfusão de dextrose a 5% para
+uma concentração final de 1 a 20 mg/ml.
+De um ponto de vista microbiológico, a não ser que o método de
+abertura/reconstituição/diluição exclua o risco de contaminação microbiológica, o
+medicamento deve ser utilizado imediatamente.
+Se não for utilizado imediatamente, o tempo e as condições de conservação em utilização
+são da responsabilidade do utilizador. A solução reconstituída do medicamento em
+solução de dextrose a 5% deve ser utilizada imediatamente.
+
+Não congelar a solução reconstituída.
+
+6.4 Precauções especiais de conservação
+
+Meropenem Atral 500 mg pó para solução injetável ou para perfusão: Conservar a
+temperatura inferior a 25 ºC;
+Meropenem Atral 1000 mg pó para solução injetável ou para perfusão: Conservar a
+temperatura inferior a 30 ºC.
+Condições de conservação do medicamento após reconstituição, ver secção 6.3.
+6.5 Natureza e conteúdo do recipiente
+
+Meropenem Atral 500 mg - Embalagens de 1, 10, 25, 50, 100, 500 ou 1000 frascos para
+injetáveis de vidro tipo III, com rolha de borracha e cápsula de alumínio.
+Meropenem Atral 1000 mg - Embalagens de 1, 10, 25, 50, 100, 500 ou 1000 frascos para
+injetáveis de vidro tipo II, com rolha de borracha e cápsula de alumínio.
+
+É possível que não sejam comercializadas todas as apresentações.
+
+6.6 Precauções especiais de eliminação e manuseamento
+
+Deverão ser utilizadas técnicas de assepsia padrão na preparação e administração da
+solução.
+A solução deve ser agitada antes de utilizar.
+Cada frasco para injetáveis destina-se a uma única utilização.
+Recomenda-se a utilização de soluções preparadas recentemente.
+
+Injeção
+O meropenem a ser utilizado em injeção de bólus intravenoso deve ser reconstituído com
+água para preparações injetáveis.
+
+Perfusão
+Para a perfusão intravenosa, o meropenem pode ser reconstituído diretamente com cloreto
+de sódio a 9 mg/ml (0,9%) ou com solução de glucose 5% para perfusão.
+
+Qualquer resíduo do antibiótico ou material não utilizado devem ser eliminados de acordo
+com as exigências locais.
+
+
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Laboratórios Atral, S.A.
+Rua da Estação, n.ºs 1 e 1A,
+2600 – 726 Castanheira do Ribatejo - Portugal
+
+8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Meropenem Atral 500 mg pó para solução injetável ou para perfusão
+N.º de registo: xxxxxxx - 1 unidade, pó para solução injetável ou para perfusão, 500 mg,
+frasco para preparações injetáveis, vidro tipo III
+N.º de registo: xxxxxxx - 10 unidades, pó para solução injetável ou para perfusão, 500
+mg, frasco para preparações injetáveis, vidro tipo III
+N.º de registo: xxxxxxx - 25 unidades, pó para solução injetável ou para perfusão, 500
+mg, frasco para preparações injetáveis, vidro tipo III
+N.º de registo: xxxxxxx - 50 unidades, pó para solução injetável ou para perfusão, 500
+mg, frasco para preparações injetáveis, vidro tipo III
+N.º de registo: xxxxxxx - 100 unidades, pó para solução injetável ou para perfusão, 500
+mg, frasco para preparações injetáveis, vidro tipo III
+N.º de registo: xxxxxxx - 500 unidades, pó para solução injetável ou para perfusão, 500
+mg, frasco para preparações injetáveis, vidro tipo III
+N.º de registo: xxxxxxx - 1000 unidades, pó para solução injetável ou para perfusão, 500
+mg, frasco para preparações injetáveis, vidro tipo III
+
+Meropenem Atral 1000 mg pó para solução injetável ou para perfusão
+N.º de registo: xxxxxxx - 1 unidade, pó para solução injetável ou para perfusão, 1000 mg,
+frasco para injetáveis, vidro tipo II
+N.º de registo: xxxxxxx - 10 unidades, pó para solução injetável ou para perfusão, 1000
+mg, frasco para injetáveis, vidro tipo II
+N.º de registo: xxxxxxx - 25 unidades, pó para solução injetável ou para perfusão, 1000
+mg, frasco para injetáveis, vidro tipo II
+N.º de registo: xxxxxxx - 50 unidades, pó para solução injetável ou para perfusão, 1000
+mg, frasco para injetáveis, vidro tipo II
+N.º de registo: xxxxxxx - 100 unidades, pó para solução injetável ou para perfusão, 1000
+mg, frasco para injetáveis, vidro tipo II
+N.º de registo: xxxxxxx - 500 unidades, pó para solução injetável ou para perfusão, 1000
+mg, frasco para injetáveis, vidro tipo II
+N.º de registo: xxxxxxx - 1000 unidades, pó para solução injetável ou para perfusão, 1000
+mg, frasco para injetáveis, vidro tipo II
+
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO
+DE INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização:
+
+
+10. DATA DA REVISÃO DO TEXTO
+

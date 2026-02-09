@@ -1,0 +1,31 @@
+{
+  "medId": "rocuronio",
+  "searchTerm": "rocuronio",
+  "retrievedAt": "2026-02-09T00:47:51.446Z",
+  "bestMatch": {
+    "infarmedId": "686984",
+    "name": "Brometo de Rocurónio Aguettant",
+    "dci": "Brometo de rocurónio",
+    "form": "Solução injetável em seringa pré-cheia",
+    "dosage": "10 mg/ml",
+    "holder": "Laboratoire Aguettant",
+    "isGeneric": false,
+    "score": 150
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/686984-rcm.pdf",
+      "size": 151734
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/686984-fi.pdf",
+      "size": 62170
+    }
+  }
+}

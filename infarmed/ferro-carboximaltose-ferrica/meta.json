@@ -1,0 +1,30 @@
+{
+  "medId": "ferro-carboximaltose-ferrica",
+  "searchTerm": "carboximaltose",
+  "retrievedAt": "2026-02-08T22:45:00Z",
+  "bestMatch": {
+    "infarmedId": "699264",
+    "name": "Carboximaltose férrica Mylan",
+    "dci": "Carboximaltose férrica",
+    "form": "Dispersão injetável ou para perfusão",
+    "dosage": "50 mg/ml",
+    "holder": "Viatris Limited",
+    "score": 119.44
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/699264-rcm.pdf",
+      "size": 308477
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/699264-fi.pdf",
+      "size": 225646
+    }
+  }
+}

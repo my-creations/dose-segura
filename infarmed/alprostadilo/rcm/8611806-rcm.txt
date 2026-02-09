@@ -1,0 +1,317 @@
+                                                                      APROVADO EM
+                                                                       27-09-2019
+                                                                       INFARMED
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1. NOME DO MEDICAMENTO
+Prostin Vr 0,5mg/ml solução injetável
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+Cada mililitro da solução injetável de Prostin Vr contém 0,5 mg de alprostadilo
+(prostaglandina E1)
+Excipiente com efeito conhecido:
+Etanol – 1 ml (q.b.p.)
+
+3. FORMA FARMACÊUTICA
+Solução injetável
+
+4. INFORMAÇÕES CLÍNICAS
+4.1 Indicações terapêuticas
+Prostin Vr está indicado na terapêutica paliativa não definitiva da manutenção
+temporária da funcionalidade do canal arterial, até que se possa proceder à cirurgia
+corretiva ou paliativa em recém-nascidos com anomalias cardíacas congénitas, e que
+cuja sua sobrevivência esteja dependente da funcionalidade do canal arterial. As
+malformações cardíacas congénitas incluem, embora não estejam limitadas a:
+atresia mitral, atresia pulmonar, estenose pulmonar, atresia tricúspida, tetralogia de
+Fallot, interrupção do arco aórtico, coartação da aorta e transposição dos grandes
+vasos, associada ou não a outras malformações.
+4.2 Posologia e modo de administração
+A via de administração preferencial para a administração do alprostadilo é a perfusão
+intravenosa contínua numa veia de grande calibre.
+Como alternativa, o fármaco pode ser administrado por meio de cateter na artéria
+umbilical, de modo que a extremidade do cateter seja colocada junto da abertura do
+canal. O aumento de oxigenação sanguínea (pO2) é semelhante em ambas as vias
+de administração.
+A perfusão inicia-se normalmente com uma dose de 0,05 a 0,1 microgramas de
+alprostadilo por quilograma de peso corporal, por minuto. Foram obtidos
+aparentemente bons resultados com doses iniciais mais baixas que as referidas, mas
+esta experiência revelou alguma ambiguidade. Foi obtida uma maior experiência
+0com valores de 0,1 microgramas/kg/min. Após a obtenção de uma resposta
+terapêutica (um aumento de pO2 nos recém-nascidos com circulação pulmonar
+restrita ou um aumento na pressão sanguínea sistémica e de pH sanguíneo nos
+recém-nascidos com circulação sistémica restrita), o grau de perfusão deve ser
+                                                                         APROVADO EM
+                                                                          27-09-2019
+                                                                          INFARMED
+reduzido para o valor mais baixo possível, mas que permita manter a resposta
+terapêutica adequada.
+No caso da dose inicial (0,1 microgramas/kg/minuto) ser inadequada, esta deve ser
+cuidadosamente aumentada até 0,4 microgramas/kg/ minuto. Contudo,
+normalmente doses mais elevadas não produzem efeitos superiores.
+Devido à sua instabilidade, o alprostadilo deve ser conservado no frigorífico a 2-8ºC.
+Devem preparar-se as diluições de alprostadilo diariamente e usá-las no prazo de 24
+horas. Não se devem usar diluições com mais de 24 horas.
+Devido às baixas concentrações de alprostadilo a utilizar, apresentamos
+seguidamente um quadro auxiliar das diluições.
+Diluir a quantidade de alprostadilo pretendida com soro fisiológico estéril ou com
+dextrose estéril, para injetáveis. Se o Prostin Vr, solução injetável não diluída estiver
+em contacto direto com o recipiente de plástico podem ser cedidas das paredes
+laterais plasticizantes. A solução pode tornar-se turva e o aspeto do recipiente
+modificar-se. Se tal ocorrer, a solução deve ser rejeitada e o recipiente de plástico
+deve ser substituído. Este fenómeno parece ser dependente da concentração. Para
+minimizar a possível turvação, o Prostin Vr deve ser diretamente adicionado à
+solução de perfusão intravenosa evitando o contacto da solução de perfusão com as
+paredes do recipiente de plástico. Deve diluir-se para os volumes apropriados ao
+sistema de aplicação que se vai utilizar.
+As seguintes concentrações de alprostadilo (microgramas/ml) são obtidas por adição
+dos teores de alprostadilo de 100, 250 e 500 microgramas, a diversos volumes de
+diluente:
+                        Microgramas de alprostadilo adicionados
+      Volume total      100 microgramas 250 microgramas (0,5 500 microgramas
+                        (0,2 ml)**           ml) **             (1 ml)**
+      250 ml            0,4                  1,0                2,0
+      100 ml            1,0                  2,5                5,0
+      50 ml             2,0                  5,0                10,0
+      25 ml             4,0                  10,0               20,0
+** Volume da ampola
+Taxa de perfusão (ml/h) = Dose (microgramas/kg/min) x peso do doente (kg) x 60
+(min/h)
+                                 Concentração final a ser utilizada
+(microgramas/ml)
+EXEMPLO: Para administrar 0,1 microgramas/kg/minuto a um recém-nascido de 2,8
+kg de peso e usando uma concentração final de alprostadilo de 5 microgramas/ml:
+       Taxa de perfusão = 0,1 microgramas/kg/minuto x 2,8 kg x 60 min/h =
+3,36 ml/h
+                                                   5 microgramas/ml
+                                                                       APROVADO EM
+                                                                        27-09-2019
+                                                                        INFARMED
+4.3 Contraindicações
+Hipersensibilidade à substância ativa (alprostadilo) ou a qualquer um dos
+excipientes.
+4.4 Advertências e precauções especiais de utilização
+O alprostadilo deve ser administrado apenas por pessoal médico bem treinado e em
+locais com acesso a unidades pediátricas de cuidados intensivos.
+Cerca de 10-12 % dos recém-nascidos com anomalias cardíacas congénitas, quando
+tratados com alprostadilo, podem entrar em apneia. A apneia é mais frequente nos
+recém-nascidos, especialmente os que apresentam à nascença um peso inferior a
+2,0 kg, e normalmente aparece durante a primeira hora de perfusão do fármaco.
+Assim, o alprostadilo só deve ser usado em serviços que disponham de assistência
+ventilatória imediata.
+Prostin Vr deve ser perfundido no intervalo de tempo mais curto e na menor dose
+que permita manter a resposta terapêutica adequada. Quando administrado a
+crianças em estado crítico, deve ser avaliado o risco de uma administração de
+alprostadilo durante um período de tempo prolongado em relação aos possíveis
+benefícios que daí possam advir da sua administração.
+Estudos patológicos dos canais arteriais e artérias pulmonares das crianças tratadas
+com prostaglandina E1, revelaram alterações histológicas relacionadas com o efeito
+debilitante nestas estruturas. A relevância clínica ou específica destes resultados não
+é conhecida.
+A proliferação cortical dos ossos longos tem sido referida em recém-nascidos,
+durante uma perfusão prolongada de alprostadilo (PEG1). A proliferação cortical nas
+crianças regrediu após a suspensão do tratamento.
+Uma vez que a prostaglandina E1 é um potente inibidor da agregação plaquetária, o
+alprostadilo deve ser utilizado com precaução em recém-nascidos (e bebés) com
+tendências hemorrágicas.
+O alprostadilo não deve ser usado nos recém-nascidos (ou bebés) com síndrome de
+insuficiência respiratória (doença da membrana hialina). Deve fazer-se sempre um
+diagnóstico diferencial entre a síndrome de insuficiência respiratória e a doença
+cardíaca cianótica (fluxo sanguíneo pulmonar diminuído). No caso de não se poder
+fazer um diagnóstico completo, este deve ser baseado na presença de cianose (pO2
+inferior a 40 mmHg) e por evidência radiográfica de circulação sanguínea pulmonar
+restrita
+A pressão arterial deve ser intermitentemente monitorizada por cateterização da
+artéria umbilical, por auscultação, ou com um transdutor de Doppler. Se a pressão
+arterial baixar significativamente, a taxa de perfusão deve diminuir imediatamente.
+Foi relatado enfraquecimento da parede do canal arterial e da artéria pulmonar,
+particularmente durante a administração prolongada.
+                                                                             APROVADO EM
+                                                                              27-09-2019
+                                                                              INFARMED
+      A administração de alprostadilo a recém-nascidos (ou bebés) pode originar uma
+      obstrução secundária do canal gástrico a uma hiperplasia antral. Este efeito parece
+      estar relacionado com a duração da terapêutica e dose cumulativa do fármaco. Os
+      recém-nascidos (ou bebés) que estão a receber alprostadilo nas doses
+      recomendadas por mais de 120 horas devem ser cuidadosamente monitorizados
+      para evidenciar a hiperplasia antral e a obstrução do canal gástrico.
+      Em recém-nascidos (ou bebés) com fluxo sanguíneo pulmonar diminuído, o aumento
+      da oxigenação sanguínea é inversamente proporcional aos valores anteriores de
+      pO2; ou seja, doentes com valores pO2 baixos (inferiores a 40 mmHg) respondem
+      melhor, e os doentes com valores elevados de pO2 (superiores a 40 mmHg) têm
+      normalmente uma resposta mínima. Em recém-nascidos (ou bebés) com fluxo
+      sanguíneo pulmonar diminuído, a determinação da eficácia do alprostadilo é feita por
+      monitorização do aumento de oxigenação sanguínea. Em recém-nascidos (ou bebés)
+      com fluxo sanguíneo sistémico diminuído a determinação da eficácia é feita por
+      monitorização do aumento da pressão sanguínea sistémica e o pH do sangue.
+      4.5 Interações medicamentosas e outras formas de interação
+      Não se conhecem interações medicamentosas entre o alprostadilo e a terapêutica
+      padrão utilizada em recém-nascidos (ou bebés) com malformações cardíacas
+      congénitas.
+      A terapêutica padrão inclui antibióticos, como é o caso da penicilina ou gentamicina;
+      vasopressores como a dopamina ou isoproterenol; glicósidos cardíacos e diuréticos
+      como a furosemida.
+      4.6 Fertilidade, gravidez e aleitamento
+      Não aplicável.
+      4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+      Não relevante.
+      4.8 Efeitos indesejáveis
+      As reações adversas mais frequentemente observadas com a perfusão de
+      alprostadilo nos recém-nascidos (e bebés) com malformação cardíaca congénita
+      ducto-dependente tratados com alprostadilo, estão relacionadas com os efeitos
+      farmacológicos deste fármaco.
+      Os seguintes efeitos indesejáveis foram observados e relatados durante o tratamento
+      com alprostadilo (436 recém-nascidos tratados) com as seguintes frequências:
+      Muito frequentes (≥1/10); frequentes (≥1/100, <1/10); pouco frequentes
+      (≥1/1.000, <1/100); raros (≥1/10.000, <1/1.000); muito raros (<1/10.000).
+Classes de sistemas de Frequência                             Efeitos indesejáveis
+órgãos
+Doenças do metabolismo e Frequentes                           Hipocaliemia
+da nutrição
+                                                                              APROVADO EM
+                                                                               27-09-2019
+                                                                               INFARMED
+Doenças do           sistema Frequentes                         Convulsões
+nervoso
+Cardiopatias                    Frequentes                      Bradicardia, hipotensão, taquicardia
+                                Muito frequentes                Apneia
+Doenças        respiratórias,
+torácicas e do mediastino
+                                Frequentes                      Diarreia
+Doenças gastrointestinais
+                                Pouco frequentes                Obstrução gástrica, hipertrofia da
+                                                                mucosa gástrica
+                           Pouco frequentes                     Exostoses
+Afeções musculosqueléticas
+e dos tecidos conjuntivos
+Vasculopatias              Pouco frequentes                     Fragilidade vascular
+Perturbações gerais e Muito frequentes                          Pirexia passageira
+alterações no local de Frequentes                               Vasodilatação cutânea (rubor)*
+administração
+        * É a única reação adversa diretamente relacionada com a via de administração,
+        sendo mais frequente quando se usa a via intra-arterial.
+        Notificação de suspeitas de reações adversas
+        A notificação de suspeitas de reações adversas após a autorização do medicamento é
+        importante, uma vez que permite uma monitorização contínua da relação benefício-
+        risco do medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer
+        suspeitas de reações adversas através de:
+        Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+        (preferencialmente)
+        ou através dos seguintes contactos:
+        Direção de Gestão do Risco de Medicamentos
+        Parque da Saúde de Lisboa, Av. Brasil 53
+        1749-004 Lisboa
+        Tel: +351 21 798 73 73
+        Linha do Medicamento: 800222444 (gratuita)E-mail: farmacovigilancia@infarmed.pt
+
+        4.9 Sobredosagem
+        Apneia, bradicardia, pirexia, hipotensão e rubor podem ser sinais de sobredosagem.
+        Se ocorrer apneia ou bradicardia, a perfusão deve ser interrompida, instituindo-se
+        tratamento médico apropriado. Devem tomar-se precauções se o tratamento for
+        reiniciado. Se ocorrer pirexia ou hipertensão, o grau de perfusão deve reduzir-se até
+        estes sintomas desaparecerem. O rubor deve-se normalmente a uma colocação
+        incorreta do cateter intra-arterial e corrige-se normalmente com a recolocação da
+        ponta do cateter.
+
+        5. PROPRIEDADES FARMACOLÓGICAS
+                                                                     APROVADO EM
+                                                                      27-09-2019
+                                                                      INFARMED
+5.1 Propriedades farmacodinâmicas
+Grupo farmacoterapêutico: 4.3.1.4 – Sangue, Anticoagulantes e antitrombóticos,
+Anticoagulantes, Antiagregantes plaquetários, código ATC: C01EA01
+O alprostadilo (prostaglandina E1) pertence a uma família de lípidos acídicos,
+derivados do ácido araquidónico, os quais exercem vários efeitos farmacológicos,
+nomeadamente a nível vasomotor, metabólico e efeito celular na circulação pulmonar
+e coronária. Os efeitos mais notáveis incluem vasodilatação, inibição da agregação
+plaquetária e estimulação da musculatura lisa intestinal e uterina. Doses de 1 a 10
+microgramas de alprostadilo por kg de peso corporal, diminuem a pressão sanguínea
+nos mamíferos através da diminuição da resistência periférica.
+A musculatura lisa do canal arterial é especialmente sensível ao alprostadilo
+verificando-se que há também um relaxamento acentuado de porções de canal
+arterial de ovelha. Para além disso, a administração de alprostadilo reabre o canal
+fechado em ratos, coelhos e ovelhas recém-nascidos.
+Estas observações estimularam a investigação dos efeitos do alprostadilo em
+crianças com malformações congénitas que limitavam a circulação pulmonar ou
+sistémica e que necessitavam do canal arterial livre para uma oxigenação sanguínea
+adequada.
+Cerca de 50% das crianças com circulação pulmonar limitada tiveram um aumento
+da pressão sanguínea de O2 de 10 mmHg, quando tratadas com alprostadilo. Os
+doentes que responderam melhor ao tratamento tinham uma idade igual ou inferior
+a 4 anos e apresentavam uma baixa pressão sanguínea de O2 no pré-tratamento.
+5.2 Propriedades farmacocinéticas
+Com base em estudos realizados em várias espécies animais conclui-se que a
+prostaglandina E1, administrada por via intravenosa ou arterial, é rapidamente
+metabolizada e distribuída por todo o organismo, com exceção do SNC, onde a
+distribuição, apesar de detetável, é marcadamente reduzida.
+Assim, o alprostadilo deve ser administrado por perfusão contínua já que sofre muito
+rapidamente metabolização.
+As principais vias metabólicas e de eliminação da prostaglandina E1 são
+provavelmente o pulmão, fígado e rim, os quais removem e metabolizam 40-95% do
+fármaco numa única passagem. Também outros tecidos possuem capacidade
+metabólica significativa, embora menor.
+Os principais metabolitos encontrados no plasma, 15-oxo-prostaglandia E1 e 13,14-
+di-hidro-15-oxo-prostaglandia E1 são extensamente metabolizados por oxidação β e
+ω antes da excreção, a qual ocorre principalmente por via renal. Têm sido poucos os
+metabolitos urinários da prostaglandina E1 que se têm conseguido caracterizar, mas
+presume-se que sejam análogos dos metabolitos da prostaglandina E2 e da
+prostaglandina F2α, os quais foram relatados pormenorizadamente.
+A excreção é praticamente completa ao fim de 24 horas de administração. Não foi
+encontrado alprostadilo inalterado na urina não havendo evidências de retenção
+tecidular do alprostadilo ou dos seus metabolitos.
+Em três espécies animais – rato, coelho e ovelha – a atividade metabólica do pulmão
+de animais em final de gestação mostrou-se pelo menos tão eficaz quanto a dos
+adultos.
+                                                                    APROVADO EM
+                                                                     27-09-2019
+                                                                     INFARMED
+
+5.3 Dados de segurança pré-clínica
+Os dados pré-clínicos não indicam risco de mutagenicidade ou teratogenicidade. Os
+efeitos adversos observados nos estudos de toxicidade de dose única, toxicidade de
+dose repetida e toxicidade reprodutiva ocorreram unicamente para doses excessivas
+por comparação às doses terapêuticas.
+
+6. INFORMAÇÕES FARMACÊUTICAS
+6.1 Lista dos excipientes
+Etanol.
+6.2 Incompatibilidades
+As soluções diluídas de Prostin Vr devem ser perfundidas a partir de contentores de
+vidro ou plástico rígido, ou bolsas de perfusão em PVC. Se o Prostin Vr, solução
+injetável não diluída estiver em contacto direto com o recipiente de plástico podem
+ser cedidas das paredes laterais plasticizantes. Este fenómeno parece ser
+dependente da concentração.
+6.3 Prazo de validade
+3 anos.
+Devem preparar-se as diluições diariamente e usá-las no prazo de 24 horas. Não se
+devem usar diluições com mais de 24 horas.
+6.4 Precauções especiais de conservação
+Conservar no frigorífico (2ºC – 8ºC).
+As soluções diluídas devem ser utilizadas no prazo de 24 horas.
+Condições de conservação do medicamento após diluição, ver secção 6.3.
+6.5 Natureza e conteúdo do recipiente
+A solução injetável de Prostin Vr encontra-se acondicionada em ampolas de vidro
+Tipo I com capacidade de 1 ml, em embalagens de 5 ampolas.
+6.6 Precauções especiais de eliminação e manuseamento
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo
+com as exigências locais.
+
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+Laboratórios Pfizer, Lda.
+Lagoas Park, Edifício 10
+                                                                APROVADO EM
+                                                                 27-09-2019
+                                                                 INFARMED
+2740-271 Porto Salvo
+Portugal
+8. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+Nº de registo: 8611806 – 5 unidades, solução injetável, 0,5 mg/1 ml, ampola de
+vidro tipo I
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+Data da primeira autorização: 18 de abril de 1985
+Data de revisão: 12 de abril de 2000
+Data da última renovação: 12 de abril de 2005
+
+10. DATA DA REVISÃO DO TEXTO
+

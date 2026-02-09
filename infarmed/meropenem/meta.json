@@ -1,0 +1,31 @@
+{
+  "medId": "meropenem",
+  "searchTerm": "meropenem",
+  "retrievedAt": "2026-02-09T00:22:45.419Z",
+  "bestMatch": {
+    "infarmedId": "666965",
+    "name": "Meropenem AtralMG",
+    "dci": "Meropenem",
+    "form": "Pó para solução injetável ou para perfusão",
+    "dosage": "1000 mg",
+    "holder": "Laboratórios Atral, S.A.",
+    "isGeneric": false,
+    "score": 170
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/666965-rcm.pdf",
+      "size": 302497
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/666965-fi.pdf",
+      "size": 192670
+    }
+  }
+}

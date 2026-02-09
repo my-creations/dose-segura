@@ -1,0 +1,26 @@
+{
+  "medId": "cimetidina",
+  "searchTerm": "cimetidina",
+  "retrievedAt": "2026-02-08T18:40:00.000Z",
+  "bestMatch": {
+    "infarmedId": "8233",
+    "name": "Tagamet",
+    "dci": "Cimetidina",
+    "form": "Solução injetável",
+    "dosage": "200 mg/2 ml",
+    "holder": "SmithKline & French Portuguesa - Produtos Farmacêuticos, Lda.",
+    "score": 1.0
+  },
+  "documents": {
+    "rcm": {
+      "status": "success",
+      "contentType": "application/pdf",
+      "file": "infarmed/cimetidina/rcm/8233-rcm.pdf"
+    },
+    "fi": {
+      "status": "success",
+      "contentType": "application/pdf",
+      "file": "infarmed/cimetidina/fi/8233-fi.pdf"
+    }
+  }
+}

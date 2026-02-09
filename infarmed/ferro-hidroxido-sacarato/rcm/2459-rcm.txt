@@ -1,0 +1,864 @@
+                                                                          APROVADO EM
+                                                                          21-11-2014
+                                                                          INFARMED
+
+
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+
+1. NOME DO MEDICAMENTO
+
+Desferal 500 mg pó para solução injetável
+
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Substância ativa: sulfonato monometano do ácido N-[5-(3-[(5-aminopentil)-hidroxicarbamoil
+]-propionamido)pentil]-3-([ 5-(N-hidroxiacetamido)-pentil]-carbamoil)-propionohidroxâmico
+(=sulfonato metano de desferrioxamina). Cada frasco contém 500 mg de sulfonato metano de
+desferrioxamina.
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+3. FORMA FARMACÊUTICA
+
+Pó para solução injetável.
+Liofilizado branco a quase branco.
+
+
+4. INFORMAÇÕES CLÍNICAS
+
+4.1 Indicações terapêuticas
+
+Quelação do ferro, em monoterapia para tratamento da sobrecarga crónica de ferro, por ex:
+- hemosiderose transfusional, tal como observado nos casos de talassemia major, anemia
+sideroblástica, anemia hemolítica autoimune e outras anemias crónicas.
+- hemocromatose idiopática (primária) em doentes nos quais as perturbações concomitantes
+(por exemplo, anemia grave, doença cardíaca, hipoproteínemia) contraindicam flebotomia.
+- sobrecarga de ferro associada a porfiria cutânea tarda em doentes incapazes de tolerar
+flebotomia.
+
+Tratamento do envenenamento agudo por ferro.
+
+Tratamento da sobrecarga crónica de alumínio em doentes com insuficiência renal terminal
+(submetidos a diálise de manutenção) com
+- doença óssea relacionada com o alumínio,
+- encefalopatia em diálise ou
+- anemia relacionada com o alumínio.
+
+Diagnóstico
+Diagnóstico de sobrecarga de ferro ou de alumínio.
+
+4.2 Posologia e modo de administração
+
+Tratamento da sobrecarga crónica de ferro
+                                                                            APROVADO EM
+                                                                            21-11-2014
+                                                                            INFARMED
+
+
+O objetivo principal da terapêutica de quelação na sobrecarga de ferro em doentes bem
+controlados é manter um equilíbrio do ferro e na prevenção da hemosiderose, enquanto nos
+doentes sobrecarregados é desejável um equilíbrio negativo do ferro de forma a reduzir as
+reservas aumentadas de ferro e evitar os efeitos tóxicos deste metal.
+
+Adultos
+A terapêutica com Desferal deve ser iniciada após as primeiras 10 a 20 transfusões
+sanguíneas ou quando existam evidências de monitorização clínica de que está presente
+sobrecarga de ferro (ex. nível sérico de ferritina ≥1000 ng/ml).
+
+A posologia e o modo de administração podem ser determinados individualmente e
+adaptados no decurso da terapêutica de acordo com a gravidade da carga de ferro do doente.
+Deve ser utilizada a dose mínima eficaz. De forma a avaliar a resposta à terapêutica de
+quelação, pode-se proceder inicialmente à monitorização diária da excreção urinária de ferro,
+durante 24 horas, estabelecendo-se a resposta ao aumento das doses de Desferal. Logo que a
+dose adequada for estabelecida, poder-se-á proceder à medição das taxas de excreção
+urinária do ferro a intervalos de algumas semanas. Em alternativa a dose média diária pode
+ser ajustada baseada nos níveis de ferritina de forma a manter o índice terapêutico abaixo de
+0,025 (i.e. a dose média diária (mg/kg) de Desferal dividida pelo nível sérico de ferritina
+(microgramas/l) deve ser inferior a 0,025). O índice terapêutico é uma ferramenta útil na
+proteção destes doentes da quelação excessiva, mas não é um substituto de uma
+monitorização clínica cuidadosa.
+A dose diária média de Desferal varia geralmente entre 20 e 60 mg/kg. Na generalidade os
+doentes com um nível de ferritina abaixo de 2000 ng/ml requerem aproximadamente 25
+mg/kg/dia. Os doentes com um nível de ferritina entre 2000 e 3000 ng/ml requerem cerca de
+35 mg/kg/dia. Doentes com níveis de ferritina sérica superiores podem necessitar de doses
+até 55 mg/kg/dia. Não é aconselhável exceder regularmente uma dose média diária de 50
+mg/kg/dia exceto quando é necessária uma quelação muito intensiva, em doentes que já
+completaram o seu crescimento. Se os níveis de ferritina caírem abaixo dos 1000 ng/ml, o
+risco de toxicidade de Desferal aumenta; é importante monitorizar estes doentes
+cuidadosamente e talvez considerar a redução da dose semanal total. As doses aqui
+especificadas são doses médias diárias. Dado que a maioria dos doentes utiliza Desferal
+menos de 7 dias por semana, a dose real por perfusão habitualmente difere da dose média
+diária; p.e. se é necessária uma dose diária média de 40 mg/kg/dia, e o doente usa a bomba 5
+noites por semana, cada perfusão deve conter 56 mg/kg.
+
+A quelação regular com Desferal mostrou aumentar a esperança de vida em doentes com
+talassemia.
+
+População pediátrica
+Da sobrecarga de ferro ou de doses excessivas de Desferal pode resultar atraso no
+crescimento. Se a quelação for iniciada em doentes com menos de 3 anos de idade deve-se
+monitorizar cuidadosamente o crescimento e a dose média diária não deve exceder os 40
+mg/kg (ver secção 4.4). Não é aconselhável exceder regularmente uma dose média diária de
+50 mg/kg/dia exceto quando é necessária uma quelação muito intensiva, em doentes que já
+completaram o seu crescimento.
+
+Idosos
+Os estudos clínicos com Desferal não incluíram um número de indivíduos com 65 anos de
+idade ou mais para determinar se respondem de forma diferente comparativamente com
+                                                                            APROVADO EM
+                                                                            21-11-2014
+                                                                            INFARMED
+
+
+indivíduos mais jovens. Em geral, a seleção de dose para um doente idoso deve ser
+cuidadosa, normalmente iniciando no limite inferior do intervalo posológico, refletindo a
+maior frequência de diminuição das funções hepática, renal ou cardíaca, e de doenças
+concomitantes ou outras terapêuticas medicamentosas (ver secções 4.4 e 4.8).
+
+Insuficiência hepática
+Não foram efetuados estudos em doentes com insuficiência hepática.
+
+Perfusão subcutânea lenta
+A perfusão subcutânea lenta utilizando uma bomba de perfusão portátil de peso reduzido,
+durante um período de 8 a 12 horas é considerada eficaz e particularmente conveniente nos
+doentes em regime ambulatório, embora possa ser igualmente administrada ao longo de um
+período de 24 horas. Normalmente, Desferal deve ser administrado por meio deste tipo de
+bomba 5 a 7 vezes por semana. Desferal não é formulado para administração subcutânea em
+bólus.
+
+Perfusão intravenosa durante transfusões sanguíneas
+A disponibilidade de um acesso venoso durante as transfusões permite administrar uma
+perfusão intravenosa sem qualquer inconveniência adicional para o doente. Esta situação é
+particularmente útil nos doentes com reduzida adesão e/ou não tolerem as perfusões
+subcutâneas. A solução de Desferal não deve ser colocada diretamente no saco de sangue
+mas pode ser adicionada ao sistema de sangue por meio de um adaptador em “Y” localizado
+perto do local venoso da injeção. Deve ser usada a bomba do doente para administar o
+Desferal, como é usual. Dada a quantidade limitada de fármaco que pode ser administrada
+por perfusão IV durante uma transfusão de sangue, o benefício clínico deste modo de
+administração é limitado. Os doentes e os enfermeiros devem estar avisados contra a
+aceleração da perfusão, já que um bólus intravenoso de Desferal pode levar a colapso
+circulatório (ver secção 4.4).
+
+Perfusão intravenosa contínua
+Os sistemas intravenosos implantados podem ser utilizados nos casos em que se realiza
+quelação intensiva. A perfusão intravenosa contínua está indicada nos doentes incapazes de
+manter administrações subcutâneas e nos doentes com problemas cardíacos secundários à
+sobrecarga de ferro. A dose de Desferal depende da grandeza da sobrecarga de ferro do
+doente. Deve-se proceder à medição regular da excreção urinária de ferro às 24 horas,
+quando se requer quelação intensiva (I.V.) e a dose ajustada em conformidade. Deve ser
+tomada precaução quando se liga o sistema de modo a evitar uma perfusão súbita de Desferal
+residual que pode estar presente no espaço morto do sistema, já que esta situação pode
+provocar colapso circulatório (ver secção 4.4).
+
+Administração intramuscular
+Uma vez que perfusões subcutâneas são mais eficazes, só se deverá recorrer a injeções
+intramusculares nos casos em que não seja possível a administração subcutânea.
+Independentemente da via de administração escolhida, a dose de manutenção individual a
+selecionar deverá depender da taxa de excreção de ferro do doente.
+
+Uso concomitante de Vitamina C
+Os doentes com sobrecarga de ferro normalmente desenvolvem deficiências de Vitamina C,
+provavelmente devido à oxidação da Vitamina pelo ferro. Como adjuvante da terapêutica de
+quelação poder-se-ão administrar doses diárias até 200 mg de Vitamina C, em doses
+                                                                           APROVADO EM
+                                                                           21-11-2014
+                                                                           INFARMED
+
+
+repartidas, após o primeiro mês de tratamento regular com Desferal (ver secção 4.4). A
+Vitamina C aumenta a disponibilidade do ferro para a quelação. Na generalidade, 50 mg são
+suficientes na criança com idade inferior a 10 anos e utilizam-se 100 mg na criança mais
+velha. As doses mais elevadas de Vitamina C não produzem qualquer aumento adicional na
+excreção do complexo de ferro.
+
+Tratamento do envenenamento agudo por ferro
+Desferal é um adjuvante das medidas padrão geralmente utilizadas no tratamento de
+envenenamento agudo por ferro.
+
+O tratamento com Desferal está indicado em qualquer uma das seguintes situações:
+Todos os doentes sintomáticos exibindo mais do que sintomas menores transitórios (p.e.
+mais do que um episódio de emese ou de fezes moles).
+Doentes com evidência de letargia, dor abdominal significativa, hipovolemia ou acidose.
+Doentes com resultados de radiografias abdominais positivos, exibindo radiopacidades
+múltiplas (a grande maioria destes doentes desenvolverá envenenamento pelo ferro
+sintomático),
+Qualquer doente sintomático com um nível sérico de ferro maior do que 300 a 350
+microgramas/dl independentemente da capacidade de ligação total do ferro (TIBC). Foi
+também sugerido que uma abordagem conservadora sem terapêutica ou teste com Desferal
+deve ser considerada quando os níveis séricos de ferro se encontram entre os 300 a 500
+microgramas/dl nos doentes assintomáticos, bem como nos doentes com diarreia ou emese
+não sanguinolenta autolimitante, sem outros sintomas.
+
+A administração intravenosa contínua de Desferal é a via preferida. A taxa de perfusão
+recomendada é de 15 mg/kg por hora, devendo ser reduzida logo que as circunstâncias o
+permitam, regra geral ao fim de 4 a 6 horas, de modo a que a dose intravenosa total não
+ultrapasse os 80 mg/kg recomendados em qualquer período de 24 horas.
+
+Julga-se que os critérios sugeridos de seguida representam os requisitos adequados à
+interrupção de Desferal. A terapêutica de quelação deve ser mantida até que todos os
+seguintes critérios sejam satisfeitos:
+Os doentes devem estar livres de sinais ou sintomas de envenenamento sistémico por ferro
+(p.e. sem acidose, sem hepatotoxicidade agravada).
+Idealmente, um nível sérico de ferro corrigido deve ser normal ou baixo (ie. abaixo de 100
+microgramas/dl). Dado que os laboratórios não podem medir com precisão concentrações
+séricas de ferro na presença de Desferal, é aceitável interromper Desferal quando todos os
+outros critérios são satisfeitos, se o nível sérico de ferro medido não estiver elevado.
+Deve ser repetido um exame radiográfico abdominal em doentes que inicialmente
+demonstraram radiopacidades múltiplas para assegurar que estas desapareceram antes de
+Desferal ser interrompido dado que servem como marcador para a absorção contínua de
+ferro.
+Se o doente desenvolveu inicialmente urina de cor rosada com a terapêutica de Desferal,
+parece razoável que a cor da urina volte à normalidade antes de se suspender Desferal (a
+ausência de urina de cor rosada por si só não é suficiente para garantir a interrupção de
+Desferal).
+
+A eficácia do tratamento depende de um débito urinário adequado, por forma a assegurar que
+o complexo férrico, a ferrioxamina, seja excretado do organismo. Caso se registe
+                                                                             APROVADO EM
+                                                                             21-11-2014
+                                                                             INFARMED
+
+
+desenvolvimento de oligúria ou anúria, poderá ser necessário recorrer a diálise peritoneal,
+hemodiálise ou hemofiltração.
+
+Tratamento da sobrecarga crónica de alumínio em doentes com insuficiência renal terminal
+Os complexos que Desferal forma com o ferro e o alumínio são dialisáveis. A sua eliminação
+será aumentada através de diálise nos doentes com insuficiência renal.
+
+Os doentes com evidência de sintomas ou com disfunção orgânica devida a sobrecarga de
+alumínio devem ser tratados com Desferal. O tratamento com Desferal deve ser considerado
+mesmo em doentes assintomáticos, desde que os níveis séricos de alumínio se mantenham
+consistentemente em valores superiores a 60 ng/ml e se encontrem associados a um teste de
+perfusão de Desferal positivo (ver seguidamente). Este é particularmente o caso se os
+resultados de biópsias ósseas apresentem sinais de doença óssea relacionada com o alumínio.
+
+Desferal deve ser administrado com uma dose única semanal de 5 mg/kg (ver secção 6.6).
+Para doentes com níveis séricos de alumínio pós teste-DFO até 300 ng/ml, Desferal deve ser
+administrado como uma perfusão I.V. lenta durante os últimos 60 minutos de uma sessão de
+diálise. Para doentes com um nível de alumínio sérico pós teste-DFO acima de 300 ng/ml,
+Desferal deve ser administrado por perfusão I.V. lenta 5 horas antes da sessão de diálise.
+Após completar o primeiro curso terapêutico de Desferal com a duração de 3 meses, seguido
+por um período de 4 semanas de wash-out, dever-se-á proceder ao teste de perfusão de
+Desferal. O tratamento com Desferal não é recomendado caso se obtenham dois testes de
+perfusão de Desferal realizados consecutivamente a intervalos de 1 mês, com níveis séricos
+de alumínio inferiores a 50 ng/ml acima dos valores basais.
+
+Nos doentes submetidos a diálise peritoneal ambulatória contínua (CAPD) ou a diálise
+peritoneal cíclica contínua (CCPD), Desferal deve ser administrado uma vez por semana,
+numa dose de 5 mg/kg antes do último soro de diálise do dia. A via intraperitoneal é
+recomendada nestes doentes, mas Desferal pode ser administrado igualmente por via I.M. ou
+perfusão I.V. ou S.C. lenta.
+
+Teste de Desferal
+Este teste fundamenta-se no facto de que, nos indivíduos saudáveis, Desferal não aumenta a
+excreção do ferro e alumínio para valores superiores a um determinado limite.
+
+1. Teste de Desferal para doentes com sobrecarga de ferro e função renal normal
+Dever-se-ão injetar 500 mg de Desferal por via intramuscular. A urina deverá então ser
+colhida durante um período de 6 horas, determinando-se o seu conteúdo em ferro. Uma
+excreção de 1-1,5 mg de ferro (18-27 micromol) durante este período de 6 horas sugere a
+presença de sobrecarga de ferro; valores superiores a 1,5 mg (27 micromol) deverão ser
+considerados patológicos. O teste só produz resultados fiáveis nos casos em que a função
+renal é normal.
+
+2. Teste de perfusão de Desferal para a sobrecarga de alumínio nos doentes com
+insuficiência renal terminal
+Recomenda-se proceder a um teste de perfusão de Desferal nos doentes com níveis séricos
+de alumínio superiores a 60 ng/ml, associados a níveis séricos de ferritina superiores a
+100 ng/ml.
+Imediatamente antes de iniciar uma sessão de hemodiálise, obtém-se uma amostra de sangue
+para determinar o nível sérico basal de alumínio.
+                                                                            APROVADO EM
+                                                                            21-11-2014
+                                                                            INFARMED
+
+
+Durante os últimos 60 minutos da sessão de hemodiálise, administra-se uma dose de 5 mg/kg
+(ver secção 6.6), sob a forma de perfusão intravenosa lenta.
+No início da sessão de hemodiálise seguinte (ie. 44 horas após a perfusão de Desferal
+supracitada), colhe-se a segunda amostra de sangue para determinar, uma vez mais, o nível
+sérico de alumínio.
+O teste de Desferal é considerado positivo caso o aumento do alumínio sérico acima do nível
+basal exceda 150 ng/ml. Contudo, a obtenção de um resultado negativo não exclui, em
+absoluto, um diagnóstico de sobrecarga de alumínio.
+
+4.3 Contraindicações
+
+Hipersensibilidade à substância ativa, exceto nos casos em que a dessensibilização eficaz
+possa tornar possível o tratamento.
+
+4.4 Advertências e precauções especiais de utilização
+
+Perfusão intravenosa rápida
+A perfusão intravenosa rápida pode conduzir a hipotensão e choque (p.e. rubor facial,
+taquicardia, colapso circulatório e urticária).
+
+Insuficiência visual e auditiva
+As doses elevadas de Desferal, em especial nos doentes com níveis plasmáticos reduzidos de
+ferritina, podem produzir perturbações da visão e da audição (ver secção 4.8). Os doentes
+com insuficiência renal submetidos a diálise de manutenção e que apresentem níveis baixos
+de ferritina podem ser particularmente propensos a efeitos indesejáveis, tendo sido referidos
+sintomas visuais na sequência da administração de doses únicas de Desferal. O risco de
+efeitos indesejáveis é reduzido quando se utiliza terapêutica de doses reduzidas. Caso
+ocorram perturbações visuais ou auditivas, Desferal deve ser imediatamente suspenso. As
+alterações induzidas por Desferal são habitualmente reversíveis se identificadas cedo. O
+tratamento com Desferal pode ser posteriormente retomado em doses mais reduzidas,
+procedendo-se à monitorização cuidadosa da função audiovisual.
+Recomenda-se proceder a testes oftalmológicos e audiológicos especializados antes do início
+do tratamento com Desferal e, subsequentemente, a intervalos regulares (cada 3 meses)
+particularmente se os níveis de ferritina estiverem muito baixos. O risco de anomalias
+audiométricas pode ser reduzido em doentes com talassemia se a razão entre a dose média
+diária (mg/kg) de Desferal dividida pela ferritina sérica (microgramas/l) abaixo de 0,025.
+
+Insuficiência renal
+Cerca de metade do complexo metálico é excretado por via renal, em doentes com
+sobrecarga de ferro e função renal normal. Assim, recomenda-se precaução em doentes com
+insuficiência renal grave. Os complexos de ferro e de alumínio da desferrioxamina são
+dialisáveis; a sua eliminação sofrerá um aumento por ação da diálise em doentes com
+insuficiência renal.
+Foram também notificados casos isolados de insuficiência renal aguda (ver também secção
+4.8). Deve ser considerada monitorização dos doentes para alterações na função renal (ex.
+creatinina sérica aumentada).
+
+População pediátrica
+Atraso no crescimento
+                                                                            APROVADO EM
+                                                                            21-11-2014
+                                                                            INFARMED
+
+
+Doentes com níveis séricos de ferritina baixos, tratados com doses elevadas de Desferal, ou
+doentes de pouca idade (<3 anos no início do tratamento) foram associados com atraso no
+crescimento (ver secção 4.2). O atraso no crescimento, se associado com doses excessivas de
+Desferal, deve ser distinguido do atraso no crescimento resultante de sobrecarga de ferro. O
+atraso no crescimento devido à utilização de Desferal é raro se a dose for mantida abaixo dos
+40 mg/kg; se o atraso no crescimento for relacionado com doses acima deste valor, então a
+redução da dose pode restituir a velocidade do crescimento, contudo, não será atingida a
+altura adulta prevista.
+Os doentes pediátricos submetidos a tratamento com Desferal devem ser monitorizados
+quanto ao peso corporal e ao crescimento longitudinal a intervalos de 3 meses (ver secção
+4.4).
+
+Síndrome de dificuldade respiratória aguda
+Tem sido descrita síndrome de dificuldade respiratória aguda na sequência de tratamento
+com doses de Desferal I.V. excessivamente elevadas, em doentes com intoxicação aguda por
+ferro, bem como em doentes talassémicos. As doses diárias recomendadas não devem,
+consequentemente, ser excedidas.
+
+Infeções
+Tem sido referido, nos doentes com sobrecarga de ferro, que Desferal aumenta a
+suscetibilidade a infeções, nomeadamente por Yersinia enterocolitica e Yersinia
+pseudotuberculosis. Caso um doente submetido a tratamento com Desferal desenvolva febre
+acompanhada por enterite/enterocolite aguda, dor abdominal difusa ou faringite, o tratamento
+deve ser temporariamente interrompido, procedendo-se à realização de testes bacteriológicos
+e instaurando-se imediatamente a antibioterapia adequada., O tratamento com Desferal pode
+ser retomado após desaparecimento da infeção.
+
+Têm sido referidos casos raros de mucormicose, alguns fatais em doentes tratados com
+Desferal por sobrecarga de alumínio e/ou ferro,. Caso ocorra algum dos sinais ou sintomas
+suspeitos, o tratamento com Desferal deve ser interrompido, procedendo-se à realização de
+testes micológicos e à instituição imediata de tratamento adequado. A mucormicose pode
+ocorrer igualmente em doentes não tratados com Desferal, indicando que outros fatores, (tais
+como diabetes mellitus, alterações do equilíbrio ácido-base, processos hematológicos
+malignos, fármacos imunossupressores ou sistema imunitário comprometido) poderão
+desempenhar um papel importante no desenvolvimento deste tipo de infeção.
+
+Insuficiência cardíaca com doses elevadas de vitamina C
+Nos doentes com sobrecarga crónica grave de ferro, tem sido referida insuficiência cardíaca
+após tratamento concomitante com Desferal e doses elevadas de Vitamina C (mais de 500
+mg por dia). A disfunção cardíaca revelou-se reversível após a interrupção do tratamento
+com Vitamina C. Devem ser tomadas as seguintes precauções no uso concomitante de
+Desferal e Vitamina C:
+
+- Os suplementos de Vitamina C não devem ser administrados nos doentes com insuficiência
+cardíaca.
+- O tratamento com Vitamina C só deve ser iniciado após um mês de tratamento regular com
+Desferal.
+- A Vitamina C só deve ser administrada se o doente é tratado regularmente com Desferal, de
+preferência logo após a preparação da bomba.
+- Não exceder uma dose diária de 200 mg de Vitamina C, administrada em doses repartidas.
+                                                                              APROVADO EM
+                                                                              21-11-2014
+                                                                              INFARMED
+
+
+- Recomenda-se a monitorização da função cardíaca no decurso da terapêutica combinada.
+
+Doentes tratados para sobrecarga de alumínio crónica
+Nos doentes com encefalopatia associada ao alumínio, as doses elevadas de Desferal podem
+exacerbar a disfunção neurológica (convulsão), provavelmente devido a um aumento agudo
+do alumínio circulante (ver secção 4.8). Desferal pode precipitar o aparecimento de
+demência da diálise. O tratamento prévio com clonazepam tem permitido evitar esta
+deterioração neurológica. O tratamento da sobrecarga de alumínio pode, também, provocar
+hipocalcemia e um agravamento do hiperparatiroidismo.
+
+4.5 Interações medicamentosas e outras formas de interação
+
+O tratamento concomitante com Desferal e proclorperazina, um derivado da fenotiazina,
+pode afetar, temporariamente, a vigília.
+
+Nos doentes com doença crónica grave por depósito de ferro submetidos a tratamento
+combinado com Desferal e doses elevadas de Vitamina C (doses superiores a 500 mg por
+dia), têm sido referidos casos de insuficiência cardíaca (ver secção 4.4); esta situação revelou
+ser reversível com a suspensão da Vitamina C.
+
+Os resultados da imagiologia de Gálio-67 podem sofrer alteração devido à rápida excreção
+urinária do Gálio-67 ligado a Desferal. Recomenda-se a interrupção do tratamento com
+Desferal 48 horas antes da cintigrafia.
+
+4.6 Fertilidade, gravidez e aleitamento
+
+Gravidez
+Existem dados limitados sobre a utilização da desferrioxamina em doentes grávidas. Estudos
+em animais (coelhos) mostraram toxicidade reprodutiva/teratogenicidade (ver secção 5.3). O
+risco para o feto/mãe é desconhecido. A desferrioxamina deve ser usada durante a gravidez
+apenas se o benefício esperado for superior ao potencial risco para o feto.
+
+Mulheres em idade fértil
+Os benefícios para a mãe devem ser, caso a caso, ponderados relativamente aos riscos para o
+feto.
+
+Aleitamento
+Desconhece-se se a desferrioxamina passa ao leite materno. Como muitos fármacos são
+excretados no leite materno e uma vez que o potencial para reações adversas
+medicamentosas em recém-nascidos/lactentes, deve tomar-se a decisão de parar a
+amamentação ou evitar utilizar o medicamento, tendo em conta a importância do
+medicamento para a mãe.
+
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os doentes que sintam tonturas, quaisquer outras perturbações do sistema nervoso central, ou
+perturbações da visão ou audição devem abster-se de conduzir veículos ou manusear
+máquinas (ver secção 4.8).
+
+4.8 Efeitos indesejáveis
+                                                                             APROVADO EM
+                                                                             21-11-2014
+                                                                             INFARMED
+
+
+As reações adversas (Tabela 1) são listadas de acordo com o sistema MedDRA de classe de
+órgãos. Dentro de cada sistema de classe de órgãos, as reações adversas são apresentadas por
+frequências, em primeiro lugar as mais frequentes. Dentro de cada categoria de frequência,
+as reações adversas são apresentadas por ordem decrescente de gravidade. Adicionalmente, a
+categoria de frequência correspondente, de acordo com a seguinte convenção (CIOMS III), é
+também incluída para cada reação adversa:
+Muito frequentes (³1/10); Frequentes (³1/100; <1/10); Pouco frequentes (³1/1.000; <1/100);
+Raros (³1/10.000; <1/1.000); Muito raros (<1/10.000); desconhecido (quando não é possível
+estimar com fiabilidade a frequência de reações adversas notificadas durante a experiência
+pós-comercialização, uma vez que as notificações advêm de uma população de dimensão
+incerta).
+
+Alguns dos sinais e sintomas relatados como efeitos adversos podem igualmente ser
+manifestações da doença subjacente (sobrecarga de ferro e/ou alumínio).
+
+Infeções e infestações
+Raros: Mucormicoses (ver secção 4.4).
+Muito raros: Gastroenterite devido a Yersinia (ver secção 4.4)
+
+Doenças do sangue e do sistema linfático
+Muito raros: Alterações sanguíneas (incl. trombocitopenia, leucopenia)
+
+Doenças do sistema imunitário
+Muito raros: Choque anafilático, reação anafilática, edema angioneurótico
+
+Doenças do sistema nervoso
+Frequentes: Cefaleias
+Muito raros: Perturbações neurológicas, incluindo tonturas, precipitação ou exacerbação da
+encefalopatia de diálise relacionada com o alumínio, neuropatia periférica, parestesias (ver
+secção 4.4)
+Desconhecido: Convulsão (ver “Observações” abaixo)
+
+Afeções oculares
+Raros: Perda da visão, escotoma, degeneração da retina, nevrite ótica, cataratas, diminuição
+da acuidade visual, visão desfocada, cegueira noturna, defeitos do campo visual, cromatopsia
+(alterações da visão cromática), opacidades da córnea (ver secção 4.4 e “Observações”
+abaixo)
+
+Afeções do ouvido e do labirinto
+Pouco frequentes: Surdez neurosensorial, zumbidos (ver secção 4.4 e “Observações” abaixo)
+
+Vasculopatias
+Raros: Hipotensão, taquicardia e choque se não forem seguidas as precauções recomendadas
+para a administração de Desferal (ver secções 4.2 e 4.4)
+
+Doenças respiratórias, torácicas e do mediastino
+Pouco frequentes: Asma
+Muito raros: Síndrome de dificuldade respiratória aguda, infiltração pulmonar (ver secção
+4.4)
+                                                                               APROVADO EM
+                                                                               21-11-2014
+                                                                               INFARMED
+
+
+Doenças gastrointestinais
+Frequentes: Náuseas
+Pouco frequentes: Vómitos, dor abdominal
+Muito raros: Diarreia
+
+Doenças dos tecidos cutâneos e subcutâneos
+Frequentes: Urticária
+Muito raros: Eritema generalizado
+
+Doenças musculosqueléticas e dos tecidos conjuntivos
+Muito frequentes: Artralgia, mialgia
+Frequentes: Atraso no crescimento e doenças ósseas (p.e. displasia metafisária) com doses
+elevadas e em doentes jovens (ver secção 4.4)
+Desconhecido: Espasmos musculares
+
+Doenças renais e urinárias
+Desconhecido: Insuficiência renal aguda, insuficiência renal tubular, creatinina sérica
+aumentada (ver secções 4.4 e 4.9)
+
+Perturbações gerais e alterações no local de administração
+Muito frequentes: Reações no local da injeção incluindo dor, inchaço, infiltração, eritema,
+prurido, escaras, crostas (Ver “Observações” abaixo)
+Frequentes: Pirexia
+Pouco frequentes: Reações no local da injeção incluindo vesículas, edema, sensação de
+queimadura (Ver “Observações” abaixo)
+
+Observações
+A surdez neurosensorial e os zumbidos são pouco frequentes, se as doses se encontrarem
+dentro das recomendações e se forem reduzidas quando os níveis de ferritina caiem (a razão
+entre a dose média diária de Desferal dividida pela ferritina sérica deve ser inferior a 0,025).
+As várias doenças dos olhos são raras, exceto em caso de administração de doses elevadas
+(ver secção 4.4).
+
+O atraso no crescimento e as doenças ósseas (p.e. displasia metafisária) são frequentes em
+doentes quelados a receber doses superiores a 60 mg/kg, especialmente em doentes que
+iniciam a quelação do ferro durante os primeiros três anos de vida., O risco é
+consideravelmente reduzido com doses de 40 mg/kg ou inferiores.
+
+No local da injeção dor, inchaço, infiltração, eritema, prurido e escaras/crostas são muito
+frequentes, enquanto vesículas, edema local e sensação de queimadura são pouco frequentes.
+As manifestações locais podem ser acompanhadas de reações sistémicas tais como
+artralgia/mialgia (muito frequentes), cefaleias (frequente), urticária (frequente), náuseas
+(frequente), pirexia (frequente), vómitos (pouco frequente), dor abdominal (pouco frequente)
+ou asma (pouco frequente).
+A excreção do complexo de ferro pode provocar uma descoloração castanho-avermelhada da
+urina.
+
+Convulsões foram essencialmente notificadas em doentes dialisados com sobrecarga de
+alumínio (ver secção 4.4).
+                                                                           APROVADO EM
+                                                                           21-11-2014
+                                                                           INFARMED
+
+
+Foram notificados casos raros de transaminases aumentadas em doentes que foram tratados
+com Desferal; no entanto, não foi estabelecida uma relação causal com o fármaco.
+
+Doentes tratados para sobrecarga de alumínio crónica
+A terapêutica de quelação com Desferal para a sobrecarga de alumínio pode resultar em
+hipocalcemia e agravamento de hiperparatiroidismo (ver secção 4.4)
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-risco do
+medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas de
+reações adversas diretamente ao INFARMED, I.P.:
+
+INFARMED, I.P.
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 71 40
+Fax: + 351 21 798 73 97
+Sítio da internet: http://extranet.infarmed.pt/page.seram.frontoffice.seramhomepage
+E-mail: farmacovigilancia@infarmed.pt
+
+4.9 Sobredosagem
+
+Sinais e sintomas
+A administração inadvertida de uma sobredose ou a administração inadvertida em bólus
+intravenoso/perfusão intravenosa rápida pode estar associada com hipotensão, taquicardia e
+perturbações gástricas; já foram descritas perda aguda, embora passageira, da visão, afasia,
+agitação, cefaleias, náuseas, bradicardia, bem como já tem sido descrita insuficiência renal
+aguda (ver secção 4.8).
+Tem sido descrito síndrome de dificuldade respiratória aguda na sequência de tratamento
+com doses de Desferal I.V. excessivamente elevadas, em doentes com intoxicação aguda por
+ferro, e também em doentes talassémicos (ver também secção 4.4).
+
+Tratamento
+Não existe antídoto específico. O tratamento com Desferal deve ser interrompido,
+instaurando-se as medidas sintomáticas apropriadas.
+Desferal é dialisável.
+
+
+5. PROPRIEDADES FARMACOLÓGICAS
+
+5.1 Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 17 - Medicamentos usados no tratamento de intoxicações, código
+ATC: V03AC01
+
+Mecanismo de ação
+A desferrioxamina (DFO) forma complexos, predominantemente com o ião férrico e com os
+iões trivalentes de alumínio: as constantes de formação de complexo são 1031 e 1025,
+                                                                            APROVADO EM
+                                                                            21-11-2014
+                                                                            INFARMED
+
+
+respetivamente. A afinidade da DFO para os iões divalentes tais como o Fe2+, Cu2+, Zn2+,
+Ca2+ é substancialmente menor (constantes de formação de complexo iguais ou inferiores
+a1014). A quelação ocorre numa base molar de 1:1, pelo que 1 g de DFO pode ligar,
+teoricamente, 85 mg de iões férricos ou 41 mg de Al3+.
+Em virtude das suas propriedades quelantes, a DFO é capaz de reter o ferro livre, quer
+plasmático quer celular, formando, consequentemente, o complexo ferrioxamina (FO). A
+excreção urinária de ferro do FO é predominantemente um reflexo do ferro derivado do
+turnover plasmático enquanto o ferro fecal reflete principalmente a quelação intrahepática do
+ferro. O ferro pode ser quelado a partir da ferritina e da hemosiderina mas é relativamente
+lento em concentrações de DFO clinicamente relevantes. A DFO não remove, contudo, o
+ferro da transferrina, da hemoglubina ou de outras substâncias contendo hemina.
+
+A DFO pode, além disso, mobilizar e quelar o alumínio, formando um complexo
+aluminoxamina (AlO).
+
+Efeitos farmacodinâmicos
+Uma vez que ambos os complexos, FO e A1O, são totalmente excretados, a DFO promove a
+excreção do ferro e de alumínio na urina e fezes, reduzindo assim os depósitos patológicos
+de ferro ou alumínio nos órgãos.
+
+5.2 Propriedades farmacocinéticas
+
+Absorção
+A DFO é rapidamente absorvida na sequência de administração intramuscular em bólus ou
+perfusão subcutânea lenta, embora seja fracamente absorvida no trato gastrointestinal em
+presença de mucosa intacta. A biodisponibilidade absoluta é inferior a 2% após
+administração oral de 1 g de DFO.
+Durante a diálise peritoneal, a DFO é absorvida caso seja administrada no líquido de diálise.
+
+Distribuição
+Nos voluntários saudáveis, mediram-se concentrações plasmáticas pico de 15,5 micromol/l
+(8,7 microgramas/ml) 30 minutos após uma injeção intramuscular de 10 mg/kg de DFO.
+Uma hora após a injeção, a concentração pico de FO era de 3,7 micromol/l (2,3
+micrograma/ml). Após a perfusão intravenosa de 2 g (cerca de 29 mg/kg) de DFO a
+voluntários saudáveis, durante 2 horas, alcançaram-se concentrações médias da DFO, no
+estado de equilíbrio, de 30,5 micromol/l; a distribuição de DFO é muito rápida com uma
+semivida de distribuição média de 0,4 horas. A ligação, in vitro, da DFO às proteínas séricas
+é inferior a 10%.
+
+Biotransformação
+Foram isolados e identificados quatro metabolitos da DFO na urina de doentes com
+sobrecarga de ferro. As reações de biotransformação seguintes foram observadas com a
+DFO: transaminação e oxidação produzindo um metabolito ácido, beta-oxidação produzindo
+igualmente um metabolito ácido, descarboxilação e N-hidroxilação produzindo metabolitos
+neutros.
+
+Eliminação
+Tanto a DFO como a FO apresentam uma eliminação bifásica após injeção intramuscular nos
+voluntários saudáveis; no caso da DFO, a semivida de distribuição aparente corresponde, a 1
+hora, enquanto para a FO, é igual a 2,4 horas. A semivida terminal aparente é de 6 horas para
+                                                                            APROVADO EM
+                                                                            21-11-2014
+                                                                            INFARMED
+
+
+ambas as substâncias. Seis horas após a injeção, 22% da dose aparece na urina sob a forma
+de DFO e 1% sob a forma de FO.
+
+Características nos doentes
+Nos doentes com hemocromatose, mediram-se níveis plasmáticos pico de 7,0 micromol/l
+(3,9 microgramas/ml) para a DFO e de 15,7 micromol/l (9,6 microgramas/ml) para a FO,
+1 hora após uma injeção intramuscular de 10 mg/kg de DFO. Estes doentes eliminaram a
+DFO e a FO com semividas de 5,6 e 4,6 horas, respetivamente. Seis horas após a injeção,
+17% da dose foi excretada na urina sob a forma de DFO e 12% sob a forma de FO.
+
+Em doentes com talassemia a perfusão intravenosa contínua de 50 mg/kg/24 h de DFO
+resultou em níveis plasmáticos de DFO no estado de equilíbrio de 7,4 micromol/l (4,1
+microgramas/ml). A eliminação da DFO do plasma foi bifásica com uma semivida de
+distribuição média de 0,28 horas e uma semivida terminal aparente de 3,0 horas. A
+depuração plasmática total foi de 0,5 L/h/kg e o volume de distribuição no estado de
+equilíbrio foi estimado em 1,35 L/kg. A exposição ao principal metabolito ligado ao ferro foi
+cerca de 54% da exposição à DFO em termos de AUC. A semivida de eliminação
+monoexponencial aparente do metabolito foi de 1,3 horas.
+
+Nos doentes dialisados por insuficiência renal, tratados com 40 mg/kg de DFO perfundida
+por via I.V. durante 1 hora, a concentração plasmática no final da perfusão foi de 152
+micromol/l (85,2 microgramas/ml) quando a perfusão foi administrada entre sessões de
+diálise. As concentrações plasmáticas da DFO registaram valores entre 13% e 27% inferiores
+quando a perfusão foi administrada durante a diálise. As concentrações de FO foram, em
+todos os casos, aproximadamente iguais a 7,0 micromol/l (4,3 microgramas/ml); para a AlO
+estes valores foram de 2 a 3 micromol/l (1,2 a 1,8 microgramas/ml). Após a interrupção da
+perfusão, a concentração plasmática de DFO registou uma rápida redução, com uma
+semivida de 20 minutos. Uma fração menor da dose foi eliminada com uma semivida mais
+longa, de 14 horas. As concentrações plasmáticas de AlO continuaram a aumentar até às 48
+horas após a perfusão e atingiram valores de aproximadamente 7 micromol/l (4
+microgramas/ml). Após a diálise, a concentração plasmática da AlO reduziu-se para 2,2
+micromol/l (1,3 microgramas/ml).
+
+A desferrioxamina foi usada como comparador num ensaio clínico aleatorizado, com
+duração de 1 anos, que investigou a utilização de outro quelante de ferro (deferasirox) em
+doentes com beta-talassemia e hemosiderose transfusional. Um total de 290 doentes foi
+tratado com desferrioxamina subcutânea com doses iniciais de 20 a 60 mg/kg, 5 dias por
+semana. O estudo mostrou um efeito dose-dependente da desferrioxamina nos níveis séricos
+de ferritina, concentração hepática de ferro e taxa de excreção de ferro.
+A desferrioxamina foi também usada como comparador num segundo estudo aberto,
+aleatorizado, com a duração de 1 ano que investigou a utilização de deferasirox em doentes
+com anemia falciforme e hemosiderose transfusional. Um total de 63 doentes foi tratado com
+desferrioxamina subcutânea com doses iniciais de 20 a 60 mg/kg, pelo menos 5 dias por
+semana. No final do estudo, a variação média na concentração média de ferro hepático foi de
+- 0,7 mg Fe/g peso seco.
+
+5.3 Dados de segurança pré-clínica
+
+A administração subcutânea de doses elevadas de DFO em ratos, cães e gatos durante várias
+semanas causou opacidade no cristalino com formação de catarata.
+                                                                            APROVADO EM
+                                                                            21-11-2014
+                                                                            INFARMED
+
+
+
+A DFO não exibiu evidência de efeitos genotóxicos/mutagénicos nos ensaios in vitro (Teste
+de Ames) e nos ensaios in vivo (teste do micronúcleo em ratos). Não foram realizados
+quaisquer estudos prolongados sobre carcinogenicidade.
+
+A DFO não foi teratogénica em ratos e murganhos. Em fetos de coelhos, que foram expostos
+in utero apenas a doses maternas tóxicas, verificaram-se algumas malformações do esqueleto
+axial. Apesar dos resultados deste estudo serem considerados de caráter preliminar, a
+teratogenicidade induzida pela DFO em coelhos, sob as condições experimentais usadas, não
+pode ser excluída (ver secção 4.6).
+
+
+6. INFORMAÇÕES FARMACÊUTICAS
+
+6.1 Lista dos excipientes
+
+Não aplicável.
+
+6.2 Incompatibilidades
+
+- Solução injetável de heparina
+- O soro fisiológico (0,9%) não deve ser utilizado como solvente da substância anidra;
+contudo, após reconstituição da solução de Desferal com água para injetáveis, o soro pode
+ser utilizado para diluição adicional.
+
+6.3 Prazo de validade
+
+18 meses
+Após reconstituição: 24 horas
+
+6.4 Precauções especiais de conservação
+
+Conservar a temperatura inferior a 30°C.
+
+Cada frasco destina-se apenas a uma utilização. O produto deve ser usado imediatamente
+após a reconstituição (início do tratamento no espaço de 3 horas). Quando a reconstituição é
+efetuada em condições assépticas validadas, o produto pode ser armazenado por um período
+máximo de 24 horas à temperatura ambiente (abaixo de 25ºC) antes da administração.
+
+6.5 Natureza e conteúdo do recipiente
+
+Frascos para injetáveis de vidro transparente e incolor, de 7,5 ml, com tampa de borracha.
+Embalagens de 5 unidades.
+
+6.6 Precauções especiais de eliminação e manuseamento
+
+Quando administrado por via parentérica, o fármaco deverá ser utilizado sob a forma de
+solução de 95mg/ml em água para preparações injetáveis, exceto para injeção I.M. que
+poderá requerer uma concentração mais elevada. A preparação do pó para solução injetável é
+apresentada nas Tabelas 1 e 2 para administrações subcutânea, intravenosa e intramuscular,
+                                                                           APROVADO EM
+                                                                           21-11-2014
+                                                                           INFARMED
+
+
+respetivamente. Após a injeção de uma quantidade apropriada de água para injetáveis no
+frasco contendo 500 mg de Desferal pó, agitando bem o frasco.
+Só deverão ser utilizadas soluções límpidas e incolores a amareladas (ver secção 4.4).
+
+Tabela 1:      Preparação para administração subcutânea e intravenosa
+Reconstitua Desferal com água estéril para injetáveis
+Tamanh Quantidade de água           Teor total de        Concentração final por ml após
+o do       estéril para injetáveis  fármaco após         reconstituição
+frasco     necessária para          reconstituição
+           reconstituição
+500 mg     5 ml                     500 mg/5,3 ml        95 mg/ml
+Tabela 2:      Preparação para administração intramuscular
+Reconstitua Desferal com água estéril para injetáveis
+Tamanho do Quantidade de            Teor total de        Concentração final por ml após
+frasco          água estéril para   fármaco após         reconstituição
+                injetáveis          reconstituição
+                necessária para
+                reconstituição
+500 mg          2 ml                500 mg/2,35 ml       213 mg/ml
+
+A solução de Desferal a 95mg/ml após reconstituição pode ser submetida a diluição
+adicional com soluções normais para perfusão (NaCl 0,9%, glucose 5%, solução de Ringer,
+solução de Lactato de Ringer, soluções de diálise peritoneal, tais como Dianeal 137 Glucose
+2,27%, Dianeal PD4 Glucose 2,27%, e CAPD/DPCA 2 Glucose 1,5%).
+
+Para o teste de perfusão de Desferal e no tratamento da sobrecarga crónica de alumínio, a
+solução de 5,3 ml de Desferal no frasco de 500mg constitui uma dose adequada (5 mg/kg)
+para um doente com 100 kg de peso corporal. A quantidade apropriada de solução de
+Desferal, que depende do peso corporal do doente, deve ser retirada do frasco e adicionada a
+150 ml de soro fisiológico a 0,9% (solução de NaCl).
+
+Desferal dissolvido pode ser igualmente adicionado ao líquido de diálise e administrado por
+via intraperitoneal a doentes submetidos a CAPD ou CCPD.
+
+O uso de Desferal na sobrecarga crónica de ferro, através de uma bomba de perfusão portátil
+encontra-se descrito, do seguinte modo, na informação destinada ao doente (ver ilustrações):
+
+1. Transfira a água para preparações injetáveis para uma seringa.
+2. Após limpar a tampa de borracha do frasco de Desferal com álcool, injete o conteúdo da
+seringa no frasco.
+3. Agite cuidadosamente o frasco para dissolver o pó.
+4. Transfira a solução assim obtida para a seringa.
+5. Ligue o tubo de extensão à seringa, e ligue o tubo de extensão à agulha tipo butterfly,
+enchendo o volume vazio do tubo com a solução contida na seringa.
+6. Coloque a seringa na bomba de perfusão.
+7. Para a perfusão, poderá introduzir a agulha tipo butterfly sob a pele do abdómen, braço,
+coxa ou anca.
+É fundamental, em primeiro lugar, limpar cuidadosamente a pele com álcool. Depois
+introduza firmemente a agulha, até aos rebordos, numa prega da pele formada com a sua mão
+livre. A ponta da agulha deverá mover-se livremente quando movimentar lateralmente a
+                                                                             APROVADO EM
+                                                                             21-11-2014
+                                                                             INFARMED
+
+
+agulha. Se tal não acontecer, a ponta da agulha poderá estar demasiado perto da pele. Tente
+novamente noutro local, após limpar com álcool.
+8. Proceda à fixação da agulha com adesivo.
+9. Os doentes transportam geralmente a bomba presa num cinto ou coldre. Muitos doentes
+consideram mais conveniente o uso noturno.
+
+
+
+
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Novartis Farma-Produtos Farmacêuticos, S.A.
+Avenida Professor Doutor Cavaco Silva, n.º 10E
+Taguspark
+2740-255 Porto Salvo
+Portugal
+
+
+8. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+N.º de registo: 8103317- pó para solução injetável, 500 mg, 5 frascos para injetáveis de vidro
+transparente e incolor com capacidade de 7,5 ml
+                                                    APROVADO EM
+                                                    21-11-2014
+                                                    INFARMED
+
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/ RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 11 de março de 1964
+Data de revisão: 31 de dezembro de 1997
+Data da última renovação: 30 de setembro de 2001
+
+
+
+10. DATA DA REVISÃO DO TEXTO
+

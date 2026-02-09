@@ -1,0 +1,797 @@
+1.     NOME DO MEDICAMENTO
+
+Teicoplanina ALTAN 200 mg pó para solução injetável ou para perfusão
+Teicoplanina ALTAN 400 mg pó para solução injetável ou para perfusão
+
+
+2.    COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada frasco para injetáveis contêm 200 mg de teicoplanina, equivalente a não menos de
+200.000 IU
+
+Cada frasco para injetáveis contêm 400 mg de teicoplanina, equivalente a não menos de
+400.000 IU
+
+Excipientes com efeito conhecido: sódio: 4,42 mg/ frasco para injetável
+Lista completa de excipientes, ver secção 6.1
+
+
+3.    FORMA FARMACÊUTICA
+
+Pó para solução injetável ou para perfusão ou para solução oral.
+
+O pó para solução injetável ou para perfusão é branco ou esbranquiçado.
+
+
+4.    INFORMAÇÕES CLÍNICAS
+
+4.1   Indicações terapêuticas
+
+Teicoplanina ALTAN está indicada em adultos e em crianças desde o nascimento para o
+tratamento parentérico das infeções seguintes (ver secções 4.2, 4.4 e 5.1):
+    • infeções complicadas da pele e tecidos moles,
+    • infeções ósseas e articulares,
+    • pneumonia hospitalar,
+    • pneumonia adquirida na comunidade,
+    • infeções complicadas do trato urinário,
+    • endocardite infeciosa,
+    • peritonite associada à diálise peritoneal contínua e ambulatória (DPCA),
+    • bacteremia que ocorre em associação com qualquer uma das indicações listadas
+       acima.
+
+A Teicoplanina ALTAN é também indicada como um tratamento alternativo oral para a
+infeção por Clostridium difficile associada a sintomas de diarreia e colite.
+
+Se necessário, a teicoplanina deve ser administrada em combinação com outros agentes
+antibacterianos.
+
+Devem ser tomadas em consideração as orientações oficiais sobre o uso apropriado de
+agentes antibacterianos.
+4.2       Posologia e modo de administração
+
+Posologia
+A dosagem e duração do tratamento devem ser ajustadas de acordo com o tipo e
+gravidade de infeção, da resposta clínica do doente, e das características do doente, tais
+como idade e função renal.
+
+Determinação das concentrações séricas
+As concentrações séricas de teicoplanina devem ser monitorizadas no estado
+estacionário depois da conclusão do regime de dose de carga, por forma a assegurar que
+será atingido um mínimo de concentração no soro:
+
+      •    Para a maioria das infeções por bactérias Gram-positivas, os níveis mínimos de
+           teicoplanina são de pelo menos 10 mg/L, quando medido por cromatografia
+           líquida de alta eficiência (HPLC), ou pleno menos, 15 mg/L, quando medido
+           pelo método de imunoensaio de fluorescência por polarização (FPIA).
+
+      •    Para a endocardite e outras infeções graves, os níveis mínimos de teicoplanina
+           variam entre 15 a 30 mg/L quando medidos por HPLC, ou de 30-40 mg/L,
+           quando medidos pelo método FPIA.
+
+Durante o tratamento de manutenção, a monitorização dos níveis séricos da
+concentração da teicoplanina pode ser realizada pelo menos uma vez por semana para
+assegurar que estas concentrações estão estáveis.
+
+Adultos e idosos doentes com função renal normal
+
+ Indicações                   Dose de carga                     Dose de manutenção
+                     Regime de dose Janela de            Dose de           Janela de
+                     de carga         concentração       manutenção        concentração
+                                      a atingir entre                      a atingir
+                                      o dia 3 e 5                          durante a
+                                                                           dose de
+                                                                           manutenção
+ -Infeções           6 mg/kg de peso >15 mg/L1           6 mg/kg de peso >15 mg/L1
+ complicadas         corporal a cada                     corporal por via uma vez por
+ da pele e           12 horas por                        intravenosa ou    semana
+ tecidos moles       três                                por via
+                     administrações                      intramuscular,
+ -Pneumonia                                              uma vez por dia
+
+ -Infeções
+ complicadas
+ do trato
+ urinário
+    Infeções dos     12 mg/kg de        >20 mg/L1       12 mg/kg de        >20 mg/L1
+    ossos e          peso corporal a                    peso corporal
+    articulações     cada 12 horas                      por via
+                     por três a cinco                   intravenosa ou
+                     administrações                     por via
+                                                        intramuscular,
+                                                        uma vez por dia
+    Endocardite      12 mg/kg de        30-40 mg/L1     12 mg/kg de        >30 mg/L1
+    infeciosa        peso corporal a                    peso corporal
+                     cada 12 horas                      por via
+                     por três a cinco                   intravenosa ou
+                     administrações                     por via
+                                                        intramuscular,
+                                                        uma vez por dia
+1
+    Medido por FPIA
+
+Duração do tratamento
+A duração do tratamento deve ser decidida com base na resposta clínica. No caso de
+endocardite infeciosa é geralmente considerado apropriado um mínimo de 21 dias. O
+tratamento não deve ter uma duração superior a 4 meses.
+
+Terapia combinada
+A teicoplanina tem um espetro limitado de atividade antibacteriana (Gram positivo).
+Não é adequada para a utilização como agente único para o tratamento de alguns tipos
+de infeções, a menos que o agente patogénico esteja já documentado e conhecido por
+ser suscetível ou exista uma elevada suspeita de que o agente patogénico seria adequado
+para o tratamento com teicoplanina.
+
+Infeção por Clostridium difficile associada à diarreia e colite
+A dose recomendada é de 100 a 200 mg administrados por via oral duas vezes por dia
+durante 7 a 14 dias.
+
+População idosa
+Não é necessário ajuste de dose, a menos que haja compromisso renal (ver abaixo).
+
+Adultos e doentes idosos com compromisso renal
+O ajuste da dose não é necessário até ao quarto dia de tratamento, altura em que a
+dosagem deve ser ajustada para manter uma concentração mínima no soro de pelo
+menos 10 mg/L.
+Depois do quarto dia de tratamento:
+
+       •   Na insuficiência renal ligeira a moderada (depuração de creatinina 30-80
+           mL/min): a dose de manutenção deve ser reduzida para metade, quer pela
+           administração da dose a cada dois dias ou pela administração de metade da dose
+           uma vez por dia.
+
+       •   Na insuficiência renal grave (depuração de creatinina inferior a 30 mL/min) e
+           em doentes hemodialisados: a dose deve ser um terço da dose habitual, quer
+           através da administração da dose inicial unitária a cada três dias ou pela
+           administração de um terço da dose uma vez por dia.
+A teicoplanina não é removida por hemodiálise.
+
+Doentes em diálise peritoneal contínua e ambulatória (DPCA)
+Após uma única dose de carga intravenosa de 6 mg/kg de peso corporal, 20 mg/L é
+administrada no saco da solução de diálise na primeira semana, 20 mg/L em diferentes
+bolsas na segunda semana e, em seguida, 20 mg/L na bolsa noturna na terceira semana.
+
+População pediátrica
+As recomendações das doses são as mesmas para adultos e crianças com idade superior
+a 12 anos.
+
+Recém-nascidos e lactentes até à idade de dois meses:
+Dose de carga
+Uma dose única de 16 mg/kg de peso corporal, administrada por via intravenosa por
+perfusão no primeiro dia.
+Dose de manutenção
+Uma dose única de 8 mg/kg de peso corporal, administrada por via intravenosa por
+perfusão uma vez por dia.
+
+Crianças (2 meses a 12 anos)
+Dose de carga
+Uma dose única de 10 mg/kg de peso corporal, administrada por via intravenosa a cada
+12 horas, repetida três vezes.
+Dose de manutenção
+Uma dose única de 6-10 mg/kg de peso corporal, administrada por via intravenosa uma
+vez por dia.
+
+Modo de administração
+A teicoplanina deve ser administrada por via intravenosa ou intramuscular. A injeção
+intravenosa pode ser administrada quer na forma de bólus durante 3 a 5 minutos ou
+como perfusão de 30 minutos.
+Apenas o método de perfusão deve ser utilizado em recém-nascidos.
+
+Para instruções acerca da reconstituição e diluição do medicamento antes da
+administração, ver secção 6.6.
+
+4.3   Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na
+secção 6.1.
+
+4.4   Advertências e precauções especiais de utilização
+
+A teicoplanina não deve ser administrada por via intraventricular.
+
+Reações de hipersensibilidade
+Reações graves de hipersensibilidade com risco de vida, por vezes fatais, foram
+notificadas com teicoplanina (por ex., choque anafilático). Se uma reação alérgica à
+teicoplanina ocorrer, o tratamento deve ser descontinuado imediatamente e devem ser
+iniciadas medidas de emergência apropriadas.
+
+A teicoplanina deve ser administrada com precaução em doentes com
+hipersensibilidade conhecida à vancomicina, pois podem ocorrer reações de
+hipersensibilidade cruzadas, incluindo choque anafilático fatal.
+
+No entanto, a história prévia de "síndrome do homem vermelho" com a vancomicina
+não é uma contraindicação para o uso de teicoplanina.
+
+Reações relacionadas com a perfusão
+Em casos raros (mesmo com a primeira dose), o síndrome do homem vermelho (um
+complexo de sintomas que incluem prurido, urticária, eritema, edema angioneurótico,
+taquicardia, hipotensão, dispneia) tem sido observada.
+Parar ou abrandar a perfusão pode resultar na cessação destas reações. Reações
+relacionadas com a perfusão podem ser limitadas se a dose diária não for administrada
+através de injeção de bólus, mas por perfusão durante um período de 30 minutos.
+
+Reações bolhosas graves
+Têm sido notificadas reações cutâneas com risco de vida ou até mesmo fatais, como
+Síndrome de Stevens-Johnson (SJS) e necrólise epidérmica tóxica (TEN) com a
+utilização de teicoplanina. Se os sintomas ou sinais de SJS ou TEN (por ex., erupção
+cutânea progressiva, frequentemente com bolhas ou lesões nas mucosas) estiverem
+presentes, o tratamento com teicoplanina deve ser interrompido imediatamente.
+
+Espectro de atividade antibacteriana
+A teicoplanina tem um espectro limitado de atividade antibacteriana (Gram-positiva).
+Não é adequada para utilização como agente único para o tratamento de alguns tipos de
+infeções, a menos que o agente patogénico já esteja documentado e conhecido por ser
+suscetível ou exista uma elevada suspeita de que o agente patogénico seria adequado
+para o tratamento com teicoplanina.
+
+A utilização racional da teicoplanina deve ter em conta o espectro de atividade
+bacteriana, o perfil de segurança e a adequação da terapia antibacteriana padrão para o
+tratamento de um doente individual. Nesta base, é expectável que na maioria dos casos
+a teicoplanina seja utilizada para tratar infeções graves em doentes para os quais a
+atividade antibacteriana padrão é considerada como inadequada.
+
+Trombocitopenia
+Trombocitopenia tem sido notificada com teicoplanina (ver secção 4.8). Exames
+hematológicos periódicos, incluindo hemograma completo, são recomendados durante o
+tratamento.
+
+Nefrotoxicidade
+A nefrotoxicidade e insuficiência renal têm sido notificadas em doentes tratados com
+teicoplanina (ver secção 4.8). Doentes com insuficiência renal, aqueles que recebem o
+regime de alta dose de teicoplanina, e nos que recebem teicoplanina em conjunto ou
+sequencialmente com outros medicamentos com potencial nefrotóxico conhecido (ex.
+aminoglicosídeos, colistina, anfotericina B, ciclosporina e cisplatina) devem ser
+cuidadosamente monitorizados e devem realizar testes auditivos (ver "Ototoxicidade"
+abaixo).
+
+Uma vez que a teicoplanina é principalmente excretada pelos rins, a dose de
+teicoplanina deve ser adaptada em doentes com insuficiência renal (ver secção 4.2).
+
+Ototoxicidade
+Tal como acontece com outros glicopeptídeos, ototoxicidade (surdez e acufeno) tem
+sido notificada em doentes tratados com teicoplanina (ver secção 4.8). Os doentes que
+desenvolvam sinais e sintomas de deficiência auditiva ou distúrbios do ouvido interno
+durante o tratamento com teicoplanina devem ser cuidadosamente avaliados e
+monitorizados, especialmente em caso de tratamento prolongado e em doentes com
+insuficiência renal. Os doentes que recebem teicoplanina em conjunto ou
+sequencialmente com outros medicamentos com conhecido potencial nefrotóxico e/ou
+neurotóxico/ototóxico (ex. aminoglicosídeos, colistina, anfotericina B, ciclosporina,
+cisplatina, furosemida e ácido etacrínico) devem ser cuidadosamente monitorizados e os
+benefícios da teicoplanina avaliados se a audição se deteriorar.
+
+Devem ser tomadas precauções especiais quando se administra teicoplanina em doentes
+que necessitam de tratamento concomitante com medicamentos ototóxicos e/ou
+nefrotóxicos para os quais é recomendado que os testes regulares da função
+hematológica, hepática e renal sejam realizados.
+
+Superinfeção
+Tal como acontece com outros antibióticos, o uso de teicoplanina, especialmente se
+prolongado, pode resultar na proliferação de organismos não-sensíveis. Se a
+superinfeção ocorrer durante a terapia, devem ser tomadas medidas adequadas.
+
+Excipientes
+Este medicamento contém menos de 23 mg (1mmol) de sódio por frasco para injetáveis,
+é considerado isento de sódio.
+
+4.5 Interações medicamentosas e outras formas de interação
+Não foram realizados estudos de interação específicos.
+
+As soluções de teicoplanina e aminoglicosídeo são incompatíveis e não podem ser
+misturadas para a injeção; no entanto, estas soluções são compatíveis no líquido de
+diálise e podem ser utilizadas livremente no tratamento da peritonite associada com
+diálise peritoneal contínua e ambulatória (DPCA).
+A teicoplanina deve ser utilizada com precaução quando conjugada ou quando utilizada
+sequencialmente com outros medicamentos com potencial nefrotóxico e/ou
+nerotóxico/ototóxico conhecidos. Estes incluem por exemplo, aminoglicosídeos,
+colistina, anfotericina B, ciclosporina, cisplatina, furosemida e ácido etacrínico (ver
+secção 4.4 "Nefrotoxicidade" e "Ototoxicidade"). No entanto, não há evidência de
+toxicidade sinérgica em combinações com a teicoplanina.
+
+Nos ensaios clínicos, a teicoplanina foi administrada a muitos doentes que já tomavam
+vários medicamentos incluindo outros antibióticos, anti-hipertensores, agentes
+anestésicos, medicamentos cardíacos e agentes antidiabéticos, sem evidência de
+quaisquer interações.
+População pediátrica
+Os estudos de interação só foram realizados em adultos.
+
+4.6    Fertilidade, gravidez e aleitamento
+
+Gravidez
+A quantidade de dados sobre a utilização de teicoplanina em mulheres grávidas é
+limitada. Os estudos em animais revelaram toxicidade reprodutiva com doses elevadas
+(ver secção 5.3): nos ratos observou-se um aumento da incidência de nados-mortos e
+mortalidade neonatal. O risco potencial para humanos é desconhecido.
+
+Portanto, a teicoplanina não deve ser usada durante a gravidez a menos que seja
+estritamente necessário.
+Não é possível excluir um potencial risco de danos no ouvido interno e de danos renais
+para o feto (ver secção 4.4).
+
+Amamentação
+Desconhece-se se a teicoplanina é excretada no leite humano. Não existe informação
+sobre a excreção da teicoplanina no leite animal. Tem que ser tomada uma decisão
+sobre a continuação/descontinuação da amamentação ou a continuação/descontinuação
+da terapêutica com teicoplanina tendo em conta o benefício da amamentação para a
+criança e o benefício da terapêutica com teicoplanina para a mãe.
+
+Fertilidade
+Estudos de reprodução em animais não revelaram evidência de alterações na fertilidade.
+
+4.7   Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Teicoplanina ALTAN tem uma influência mínima na capacidade de conduzir e
+utilizar máquinas. A teicoplanina pode provocar tonturas e cefaleias. A capacidade
+de conduzir e utilizar máquinas pode estar afetada. Doentes que manifestem estes
+efeitos secundários não devem conduzir ou utilizar máquinas.
+
+4.8   Efeitos indesejáveis
+
+Lista tabelar de reações adversas
+Na tabela abaixo todas as reações adversas, que ocorreram com uma incidência maior
+do que o placebo e em que mais de um doente foi listado de acordo com a seguinte
+convenção: muito frequentes (≥1/10), frequentes (≥1/100 a <1/10), pouco frequentes
+(≥1/1.000 a <1/100), raros (≥1/10.000 a <1/1.000), muito raros (<1/10.000) e
+desconhecidos (não podem ser calculados a partir dos dados disponíveis).
+
+Em cada agrupamento de frequência, os efeitos indesejáveis estão apresentados por
+ordem decrescente de gravidade.
+
+ Classes de      Frequent    Poucos           Raros       Muito       Desconhecidos
+ sistemas de     es          frequentes       (≥1/10.0    raros       (não podem ser
+ órgãos          (≥1/100     (≥1/1.000 a      00 a        (<1/10.00   calculados a
+                 a <1/10)    1/100)           <1/1.000    0)          partir dos dados
+                                              )                       disponíveis)
+Infeções e                                    Abcessos    Superinfeção
+infestações                                               (supercrescime
+                                                          nto de
+                                                          microrganismo
+                                                          s não
+                                                          suscetíveis)
+Doenças do                  Leucopenia,                   Agranulocitose,
+sangue e do                 trombocitopen                 neutropenia,
+sistema                     ia, eosinofilia               pancitopenia
+linfático
+Doenças do                  Reação                        Síndrome
+sistema                     anafilática                   DRESS (
+imunitário                  (anafilaxia)                  reação a
+                            (ver secção                   fármaco com
+                            4.4)                          eosinoflilia e
+                                                          sintomas
+                                                          sistémicos),
+                                                          Choque
+                                                          anafilático (ver
+                                                          secção 4.4)
+Doenças do                  Tonturas,                     Convulsões
+sistema                     cefaleias
+nervoso
+Afeções do                  Surdez, perda
+ouvido e do                 de audição
+labirinto                   (ver secção
+                            4.4), acufeno,
+                            distúrbio
+                            vestibular
+Vasculopatias               Flebite                       Tromboflebite
+Doenças                     Broncospasmo
+respiratórias,
+torácicas e do
+mediastino
+Doenças                     Diarreia,
+gastrointestin              vómitos,
+ais                         náuseas
+Afeções dos      Erupção                      Síndrom     Necrólise
+tecidos          cutânea,                     e do        epidérmica
+cutâneos e       eritema,                     homem       tóxica,
+subcutâneos      prurido                      vermelho    síndrome
+                                              (por ex.,   Stevens-
+                                              rubor na    Johnson,
+                                              parte       eritema
+                                              superior    multiforme,
+                                              do corpo)   angioedema,
+                                              (ver        dermatite
+                                              secção      esfoliativa,
+                                              4.4)        urticária (ver
+                                                          secção 4.4)
+ Doenças                    Aumento da                               Insuficiência
+ renais e                   creatinina no                            renal (incluindo
+ urinárias                  sangue                                   insuficiência
+                                                                     renal aguda)
+                                                                     (ver abaixo
+                                                                     descrição de
+                                                                     reacções
+                                                                     adversas
+                                                                     específicas)*
+ Perturbações Dor,                                                   Abcesso no
+ gerais e      pirexia                                               local da
+ alterações no                                                       injeção,
+ local de                                                            arrepios
+ administração                                                       (calafrios)
+ Exames                     Aumento das
+ complementar               transaminases
+ es de                      (anomalias
+ diagnóstico                transitórias
+                            das
+                            transaminases)
+                            , fosfatase
+                            alcalina
+                            aumentada no
+                            sangue
+                            (anomalias
+                            transitórias
+                            das fosfatases
+                            alcalinas)
+
+Descrição de reacções adversas específicas
+* Com base em relatos da literatura, a taxa estimada de nefrotoxicidade em pacientes
+que recebem uma dose de carga baixa de em média 6 mg/kg duas vezes por dia, seguida
+de uma dose de manutenção de em média 6 mg/kg uma vez por dia, é de cerca de 2%.
+Num estudo observacional de segurança pós-autorização que envolveu 300 doentes com
+idade média de 63 anos (tratados por infecção óssea e articular, endocardite ou outras
+infecções graves) que receberam o regime de dose de carga elevada de 12 mg/kg duas
+vezes por dia (recebendo 5 doses de carga como mediana) seguido de uma dose de
+manutenção de 12 mg/kg uma vez por dia, a taxa de nefrotoxicidade confirmada
+observada foi de 11,0% (95% IC = [7,4%; 15,5%]) ao longo dos primeiros 10 dias. A
+taxa cumulativa de nefrotoxicidade desde o início do tratamento até 60 dias após a
+última dose foi de 20,6% (95% IC = [16,0%; 25,8%]). Em doentes que recebem mais de
+5 doses de carga elevadas de 12 mg/kg duas vezes por dia, seguidas de uma dose de
+manutenção de 12 mg/kg uma vez por dia, a taxa cumulativa de nefrotoxicidade
+observada desde o início do tratamento até 60 dias após a última administração foi de
+27% (95% IC = [20,7%; 35,3%]) (ver secção 4.4).
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-risco
+do medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas
+de reações adversas através dos seguintes contactos.
+
+INFARMED, I.P.
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+E-mail: farmacovigilancia@infarmed.pt
+
+4.9   Sobredosagem
+
+Sintomas
+Têm sido notificados casos de administração acidental de doses excessivas de
+teicoplanina na população pediátrica. Num caso ocorreu agitação num recém-nascido
+com 29 dias no qual foram administrados 400 mg I.V. (95 mg/Kg).
+
+Tratamento
+O tratamento da sobredosagem de teicoplanina deve ser sintomático.
+A hemodiálise não remove a teicoplanina, e esta, é apenas removida lentamente por
+diálise peritoneal.
+
+
+5.    PROPRIEDADES FARMACOLÓGICAS
+
+5.1   Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 1.1.11 – Medicamentos anti-infeciosos. Antibacterianos.
+Outros antibacterianos. Código ATC: J01XA 02
+
+Mecanismo de ação
+A teicoplanina inibe o crescimento de organismos suscetíveis interferindo com a
+biossíntese da parede celular num local diferente do afetado pelos beta-lactâmicos. A
+síntese de peptidoglicano é bloqueada pela ligação específica aos resíduos de D-alanil-
+D-alanina.
+
+Mecanismo de resistência
+A resistência à teicoplanina pode ter por base os seguintes mecanismos:
+   • Alteração na estrutura do alvo: esta forma de resistência tem ocorrido
+        particularmente em espécies de Enterococcus faecium. A alteração tem por base
+        a troca do terminal da função D-alanina-D-alanina da cadeia de aminoácidos do
+        percursor da mureína com D-Ala-D-lactase de forma a que a afinidade para a
+        vancomicina seja reduzida. As enzimas responsáveis são as recém formadas D-
+        lactase desidrogenase ou ligase.
+   • A redução da sensibilidade ou resistência dos estafilococos à teicoplanina tem
+        por base a superprodução de percursores de mureína que estão ligados à
+        teicoplanina.
+Pode ocorrer resistência cruzada entre a teicoplanina e a glicoproteína vancomicina. Um
+número de enterococcus resistentes à vancomicina são sensíveis à teicoplanina (fenótipo
+VanB).
+
+Limite de sensibilidade
+Os valores CIM definidos pela European Comittee on Antimicrobial Susceptibility
+Testing (EUCAST), versão 8.0, 01 de janeiro de 2018, encontram-se descritos na
+seguinte tabela:
+
+  Microrganismo                                        Sensibilidade        Resistência
+                          a,b
+  Staphylococcus aureus                                  ≤ 2 mg/L            > 2 mg/L
+  Staphylococcus coagulase negativos a                   ≤ 4 mg/L            > 4 mg/L
+  Enterococcus spp.                                      ≤ 2 mg/L            > 2 mg/L
+  Streptococcus spp. (grupos A, B, C, G) b               ≤ 2 mg/L            > 2 mg/L
+                              b
+  Streptococcus pneumoniae                               ≤ 2 mg/L            > 2 mg/L
+                                  b
+  Streptococcus do grupo viridans                        ≤ 2 mg/L            > 2 mg/L
+  Anaeróbios gram-positivos com exceção do                   IE                 IE
+                        c
+  Clostridium difficile
+  PK/PD (não relacionados com a espécie)                     IE                 IE
+              c
+  breakpoints
+a
+  As CIM dos glicopeptídeos são dependentes do método e devem ser determinadas por
+microdiluição em caldo (referência ISO 20776). S. aureus com valores de CIM de
+vancomicina de 2 mg/L estão no limite de distribuição CIM do tipo selvagem e podem
+ter uma resposta clínica prejudicada. O ponto crítico de resistência para o S. aureus foi
+reduzido para 2 mg/L para evitar a notificação de casos isolados de GISA intermédios
+como as infeções graves de casos isolados de GISA não tratáveis com o aumento das
+doses de vancomicina ou teicoplanina.
+b
+  Isolados não suscetíveis são muito raros ou ainda não foram notificados. A
+identificação e os testes de suscetibilidade antimicrobiana em qualquer isolado devem
+ser confirmados e o isolado tem de ser enviado para um laboratório de referência.
+c
+ IE indica que não há evidência suficiente de que a espécie em questão seja um bom
+alvo para o tratamento com o medicamento. Uma CIM com um comentário, mas sem o
+acompanhamento de uma categorização S, I ou R pode ser notificada.
+
+Relação farmacocinética/farmacodinâmica
+A atividade antimicrobiana da teicoplanina depende essencialmente da duração do
+tempo durante o qual o nível de substância é mais elevado do que a concentração
+inibitória mínima (CIM) do agente patogénico.
+
+Suscetibilidade
+A prevalência da resistência pode variar geograficamente e durante o tempo para
+determinadas espécies, sendo desejável informação local sobre a resistência,
+particularmente quando se tratam infeções graves. Conforme necessário, deve ser
+procurado aconselhamento de um perito quando a prevalência da resistência local é tal
+que a utilidade da teicoplanina em pelo menos alguns tipos de infeção é questionável.
+
+    Espécies geralmente sensíveis
+    Bactérias aeróbicas Gram-positivas
+ Corynebacterium jeikeium a
+ Enterococcus faecalis
+ Staphylococcus aureus (incluindo estirpes resistentes à meticilina)
+ Streptococcus agalactiae
+ Streptococcus dysgalactiae subsp. equisimilis a
+ (Streptococcus do grupo C&G)
+ Streptococcus pneumoniae
+ Streptococcus pyogenes
+ Streptococcus do grupo viridans a b
+ Bactérias anaeróbicas Gram-positivas
+ Clostridium difficile a
+ Peptostreptococcus spp.a
+
+ Espécies em que a resistência adquirida poderá ser um problema
+ Bactérias aeróbicas Gram-positivas
+ Enterococcus faecium
+ Staphylococcus epidermidis
+ Staphylococcus haemolyticus
+ Staphylococcus hominis
+
+  Bactérias com resistência inerente
+  Todas as bactérias Gram-negativas
+  Outras bactérias
+  Chlamydia spp.
+  Chlamydophila spp.
+  Legionella pneumophila
+  Mycoplasma spp.
+a
+  Não existiam dados atuais disponíveis quando as tabelas foram publicadas. A literatura
+primária, volumes padrão e recomendações de tratamento assumem sensibilidade.
+b
+  O termo coletivo para um grupo heterogéneo de espécies de
+streptococcus. A taxa de resistência pode variar, dependendo da espécie
+de streptococcus atual.
+
+5.2   Propriedades farmacocinéticas
+
+Absorção
+A teicoplanina é administrada por via parentérica (intravenosa ou intramuscular). Após
+a administração intramuscular, a biodisponibilidade da teicoplanina (comparada com a
+administração intravenosa) é quase completa (90%). Após seis administrações
+intramusculares diárias de 200 mg, a média (SD) da concentração máxima de
+teicoplanina (Cmax) chega a 12,1 (0,9) mg/L e ocorre em 2 horas após a administração.
+
+Após uma dose de carga de 6 mg/kg administrada por via intravenosa a cada 12 horas
+durante 3 a 5 administrações, os valores da Cmax variam de 60 a 70 mg/L e a Cmin está
+geralmente acima de 10 mg/L. Após uma dose de carga intravenosa de 12 mg/kg,
+administrados em cada 12 horas durante 3 administrações, valores médios de Cmax e
+Cmin são estimados em cerca de 100 mg/L e 20 mg/L, respetivamente.
+
+Após uma dose de manutenção de 6 mg/kg, administrada uma vez por dia, os valores de
+Cmax e Cmin são de aproximadamente 70 mg/L e 15 mg/L, respetivamente. Após uma
+dose de manutenção de 12 mg/kg uma vez por dia os valores de Cmin variam de 18
+para 30 mg/L.
+
+Quando administrada por via oral, a teicoplanina não é absorvida a partir do trato
+gastrointestinal. Quando administrada por via oral, 250 ou 500 mg em dose única a
+indivíduos saudáveis, a teicoplanina não é detetada no soro ou na urina, sendo apenas
+recuperada nas fezes (cerca de 45% da dose administrada) como medicamento
+inalterado.
+
+Distribuição
+A ligação às proteínas do soro humano varia de 87,6 a 90,8%, sem qualquer variação
+em função da concentração da teicoplanina. A teicoplanina é principalmente ligada à
+albumina do soro humano. A teicoplanina não é distribuída nas células vermelhas.
+O volume de distribuição no estado estacionário (Vss) varia de 0,7 a 1,4 mL/kg. Os
+valores mais elevados de Vss foram observados em estudos recentes, onde o período
+de amostragem foi superior a 8 dias.
+A teicoplanina é distribuída principalmente no pulmão, miocárdio e tecido ósseo com
+rácios tecido/soro superiores a 1. Nos fluidos das vesículas, no fluido sinovial e no
+fluido peritoneal, os rácios de tecido/soro variam de 0,5 a 1. A eliminação de
+teicoplanina do fluido peritoneal ocorre na mesma taxa que a partir do soro. No líquido
+pleural e tecido adiposo subcutâneo os rácios de tecido/soro estão compreendidos entre
+0,2 e 0,5.
+A teicoplanina não penetra rapidamente no líquido cefalorraquidiano (LCR).
+
+Biotransformação
+A forma inalterada de teicoplanina é o composto principal identificado no plasma e na
+urina, indicando um metabolismo mínimo. Dois metabolitos são formados
+provavelmente por hidroxilação e representam 2 a 3% da dose administrada.
+
+Eliminação
+A teicoplanina inalterada é excretada principalmente pela via urinária (80% em 16 dias),
+enquanto que 2,7% da dose administrada é recuperada nas fezes (por excreção biliar) no
+prazo de 8 dias após a administração.
+A semivida de eliminação de teicoplanina varia de 100 a 170 horas nos estudos mais
+recentes, em que o período de amostragem de sangue foi de cerca de 8 a 35 dias.
+A teicoplanina tem uma baixa depuração total no intervalo de 10 a 14 mL/h/kg, e uma
+depuração renal no intervalo de 8 a 12 mL/h/kg, indicando que a teicoplanina é
+excretada principalmente por mecanismos renais.
+
+Linearidade
+A teicoplanina exibiu uma farmacocinética linear no intervalo de doses de 2 a 25 mg/kg.
+
+Populações especiais
+   • Compromisso renal:
+      Como a teicoplanina é eliminada por via renal, a eliminação da teicoplanina
+      diminui de acordo com o grau de comprometimento renal. As depurações
+      totais e renais de teicoplanina dependem da depuração da creatinina.
+   • Doentes idosos:
+      Na população idosa a farmacocinética da teicoplanina não é modificada a não
+      ser em casos de compromisso renal.
+      •    População pediátrica:
+           Uma depuração total superior (15,8 mL/h/kg para recém-nascidos, 14,8 mL/h/kg
+           para uma idade média de 8 anos) e uma menor semivida de eliminação (40 horas
+           recém-nascidos; 58 horas para os 8 anos) são observadas em comparação com
+           doentes adultos.
+
+5.3       Dados de segurança pré-clínica
+
+Na sequência da administração parentérica repetida no rato e cão, foram observados
+efeitos no rim e ficou demonstrado serem dependentes da dose e reversíveis. Estudos
+para investigar a potencial causa de ototoxicidade no porco da Guiné indicam que é
+possível existir um ligeiro comprometimento das funções coclear e vestibular, na
+ausência de dano morfológico.
+
+A administração subcutânea de teicoplanina até 40 mg/kg/dia não afeta a fertilidade
+masculina e feminina no rato. Em estudos de desenvolvimento embriofetal, não foram
+observadas malformações após a administração subcutânea até 200 mg/kg/dia no rato e
+administração intramuscular até 15 mg/kg/dia, no coelho. No entanto, no rato, houve
+um aumento da incidência de nados mortos em doses de 100 mg/kg/dia e superiores e
+de mortalidade neonatal com 200 mg/kg/dia. Este efeito não foi notificado com 50
+mg/kg/dia. Um estudo pré e pós-natal em ratos demonstrou não ter efeitos sobre a
+fertilidade da geração F1 ou sobre a sobrevivência e desenvolvimento da geração F2,
+após administração subcutânea de até 40 mg/kg/dia.
+
+A teicoplanina não demonstrou qualquer potencial de causar antigenicidade (em ratos,
+porcos da guiné ou coelhos), genotoxicidade ou irritação local.
+
+6.        INFORMAÇÕES FARMACÊUTICAS
+
+6.1. Lista dos excipientes
+
+O frasco para injetáveis com pó, contém:
+Cloreto de sódio
+Hidróxido de sódio (para ajuste do pH)
+Ácido clorídrico (para ajuste do pH)
+
+6.2       Incompatibilidades
+
+A teicoplanina e aminoglicosídeos são incompatíveis quando misturados diretamente e
+não devem ser misturados antes da injeção.
+Se a teicoplanina for administrada em combinação com outros antibióticos, a
+preparação deve ser administrada separadamente.
+Este medicamento não deve ser misturado com outros medicamentos, exceto os
+mencionados na secção 6.6.
+
+6.3       Prazo de validade
+
+Prazo de validade do pó na embalagem fechada:
+30 meses.
+Prazo de validade da solução reconstituída:
+A estabilidade química e física em uso da solução reconstituída, preparada como
+recomendado, demonstrou uma validade de 24 horas à temperatura de 2ºC a 8º C.
+Do ponto de vista microbiológico, o medicamento deve ser utilizado imediatamente. Se
+não for utilizado imediatamente, o tempo de conservação de uso e as condições antes da
+utilização são da responsabilidade do utilizador e normalmente não devem ser
+superiores a 24 horas entre 2 a 8 ° C, a menos que a reconstituição tenha sido efetuada
+em condições assépticas controladas e validadas.
+
+Prazo de validade do medicamento diluído:
+A estabilidade química e física em uso da solução reconstituída, preparada como
+recomendado, demonstrou uma validade de 24 horas a 2 a 8 ° C.
+Do ponto de vista microbiológico, o medicamento deve ser utilizado imediatamente. Se
+não for utilizado imediatamente, o tempo de conservação de uso e as condições antes da
+utilização são da responsabilidade do utilizador e normalmente não devem ser
+superiores a 24 horas a 2 a 8 ° C, a menos que a reconstituição/diluição tenha ocorrido
+em condições assépticas controladas e validadas.
+
+6.4   Precauções especiais de conservação
+
+Pó na embalagem fechada:
+O medicamento não necessita de quaisquer precauções especiais de conservação.
+
+Para condições de conservação do medicamento após reconstituição/diluição, ver
+secção 6.3.
+
+6.5   Natureza e conteúdo do recipiente
+
+Embalagem primária:
+O medicamento liofilizado é embalado em:
+Frasco para injetáveis de vidro tipo I, incolor, de volume útil de 10 mL para 200 mg,
+fechado com tampa de borracha bromobutílica e rolha de plástico do tipo flip-off selada
+a alumínio amarelo.
+
+Frasco para injetáveis de vidro tipo I, incolor, de volume útil de 10 mL para 400 mg,
+fechado com tampa de borracha bromobutílica e rolha de plástico do tipo flip-off selada
+a alumínio verde.
+
+Tamanho das embalagens:
+- 1 frasco para injetáveis com pó
+- 5 frascos para injetáveis com pó
+
+6.6   Precauções especiais de eliminação e manuseamento
+
+Este medicamento é apenas para utilização única.
+
+Preparação da solução reconstituída:
+- A solução é reconstituída ao ser adicionado 3,2 mL de água para injetáveis a 200 mg e
+  400 mg de pó fornecidos no frasco para injetáveis. A água deve ser adicionada
+  lentamente ao frasco para injetáveis e este deve ser rodado até o pó estar todo
+ dissolvido para evitar a formação de espuma. Se for formada espuma, deixar a solução
+ em repouso aproximadamente 15 minutos.
+ Apenas devem ser utilizadas apenas soluções límpidas e amareladas.
+
+ Conteúdo nominal de teicoplanina no         200 mg                   400 mg
+ frasco para injetáveis
+ Volume de pó no frasco para injetáveis      10 mL                    10 mL
+ Volume que contém a dose nominal de         3,0 mL                   3,0 mL
+ teicoplanina (extraída através de uma
+ seringa de 5 mL e agulha de 23 G)
+
+A solução reconstituída pode ser injetada diretamente ou em alternativa após diluição,
+ou administrada por via oral.
+
+Preparação da solução diluída antes da perfusão:
+A teicoplanina pode ser administrada nas seguintes soluções de perfusão:
+    • Solução de cloreto de sódio 9 mg/ml (0,9%)
+    • Solução de Ringer
+    • Solução de lactato de Ringer
+    • Injeção de dextrose 5%
+    • Injeção de dextrose 10%
+    • Solução de cloreto de sódio a 0,18% e glucose a 4%
+    • Solução de cloreto de sódio a 0,45% e glucose a 5%
+    • Solução de diálise peritoneal contendo uma solução de glucose de 1,36% ou
+       3,86%.
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com
+as exigências locais.
+
+
+7.    TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Altan Pharmaceuticals S.A.
+C/ Cólquide nº6, portal 2, planta 1ª -Edificio Prisma,
+28230 Las Rozas (Madrid)
+Espanha
+
+
+8.    NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+5763131 (200 mg)
+5763149 (400 mg)
+
+
+9.    DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO
+      DE INTRODUÇÃO NO MERCADO
+
+27/11/2018
+10.   DATA DA REVISÃO DO TEXTO
+

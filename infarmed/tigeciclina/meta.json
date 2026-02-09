@@ -1,0 +1,31 @@
+{
+  "medId": "tigeciclina",
+  "searchTerm": "tigeciclina",
+  "retrievedAt": "2026-02-09T01:08:42.158Z",
+  "bestMatch": {
+    "infarmedId": "608422",
+    "name": "Tigeciclina MylanMG",
+    "dci": "Tigeciclina",
+    "form": "Pó para solução para perfusão",
+    "dosage": "50 mg",
+    "holder": "Viatris Limited",
+    "isGeneric": false,
+    "score": 170
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/608422-rcm.pdf",
+      "size": 109488
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/608422-fi.pdf",
+      "size": 54933
+    }
+  }
+}

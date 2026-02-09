@@ -1,0 +1,26 @@
+{
+  "medId": "clorpromazina",
+  "searchTerm": "clorpromazina",
+  "retrievedAt": "2026-02-08T20:05:00.000Z",
+  "bestMatch": {
+    "infarmedId": "4900",
+    "name": "Largactil IV",
+    "dci": "Cloropromazina",
+    "form": "Solução injetável",
+    "dosage": "50 mg/2 ml",
+    "holder": "Faes Farma Portugal, S.A.",
+    "score": 1.0
+  },
+  "documents": {
+    "rcm": {
+      "status": "success",
+      "contentType": "application/pdf",
+      "file": "infarmed/clorpromazina/rcm/4900-rcm.pdf"
+    },
+    "fi": {
+      "status": "success",
+      "contentType": "application/pdf",
+      "file": "infarmed/clorpromazina/fi/4900-fi.pdf"
+    }
+  }
+}

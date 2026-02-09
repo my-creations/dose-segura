@@ -1,0 +1,15 @@
+{
+  "bestMatch": {
+    "infarmedId": "56224",
+    "medicationName": "Furosemida HikmaMG",
+    "dci": "Furosemida",
+    "form": "Solução injetável ou para perfusão",
+    "dosage": "20 mg/2 ml",
+    "holder": "Hikma Farmacêutica (Portugal), S.A.",
+    "searchTerm": "furosemida"
+  },
+  "documents": {
+    "rcm": "rcm/56224-rcm.pdf",
+    "fi": "fi/56224-fi.pdf"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "medId": "salbutamol-sulfato",
+  "searchTerm": "salbutamol",
+  "retrievedAt": "2026-02-09T00:48:02.688Z",
+  "bestMatch": {
+    "infarmedId": "9083",
+    "name": "Ventilan",
+    "dci": "Salbutamol",
+    "form": "Solução injetável",
+    "dosage": "0.5 mg/1 ml",
+    "holder": "Glaxo Wellcome Farmacêutica, Lda.",
+    "isGeneric": false,
+    "score": 130
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/9083-rcm.pdf",
+      "size": 65660
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/9083-fi.pdf",
+      "size": 54157
+    }
+  }
+}

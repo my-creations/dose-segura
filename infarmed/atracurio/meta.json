@@ -1,0 +1,43 @@
+{
+  "medId": "atracurio",
+  "searchTerm": "atracurio",
+  "retrievedAt": "2026-02-08T00:00:00.000Z",
+  "bestMatch": {
+    "infarmedId": "5794672",
+    "name": "Besilato de Atracúrio Basi",
+    "dci": "Besilato de atracúrio",
+    "form": "Solução injetável",
+    "dosage": "10 mg/ml",
+    "holder": "Laboratórios Basi - Indústria Farmacêutica, S.A",
+    "score": 1.0,
+    "generic": true,
+    "processNumber": "03/H/0274/001",
+    "administration": ["Via intravenosa"],
+    "classification": {
+      "atc": "M03AC04 - atracurium",
+      "farmacoterapeutica": "2.3.2 - Ação periférica"
+    },
+    "aimDate": "19/03/2004",
+    "lastUpdated": "29/11/2024"
+  },
+  "documents": {
+    "rcm": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "rcm/5794672-rcm.pdf",
+      "size": 95000,
+      "method": "POST with form state",
+      "lastUpdated": "29/11/2024"
+    },
+    "fi": {
+      "status": "retrieved",
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/detalhes-medicamento.xhtml",
+      "file": "fi/5794672-fi.pdf",
+      "size": 93000,
+      "method": "POST with form state",
+      "lastUpdated": "29/11/2024"
+    }
+  }
+}

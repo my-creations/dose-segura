@@ -1,0 +1,15 @@
+{
+  "bestMatch": {
+    "infarmedId": "46164",
+    "medicationName": "Fluconazol KabiMG",
+    "dci": "Fluconazol",
+    "form": "Solução para perfusão",
+    "dosage": "2 mg/ml",
+    "holder": "Fresenius Kabi Pharma Portugal, Lda.",
+    "searchTerm": "fluconazol"
+  },
+  "documents": {
+    "rcm": "rcm/46164-rcm.pdf",
+    "fi": "fi/46164-fi.pdf"
+  }
+}

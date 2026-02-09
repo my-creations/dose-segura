@@ -1,0 +1,31 @@
+{
+  "medId": "dobutamina",
+  "searchTerm": "dobutamina",
+  "retrievedAt": "2026-02-08T22:27:01.335Z",
+  "bestMatch": {
+    "infarmedId": "581281",
+    "name": "Dobutamina HikmaMG",
+    "dci": "Dobutamina",
+    "form": "Concentrado para solução para perfusão",
+    "dosage": "12.5 mg/ml",
+    "holder": "Hikma Farmacêutica (Portugal), S.A.",
+    "isGeneric": false,
+    "score": 170
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/581281-rcm.pdf",
+      "size": 283729
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/581281-fi.pdf",
+      "size": 228274
+    }
+  }
+}
