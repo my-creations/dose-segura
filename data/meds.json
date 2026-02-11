@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-02-01",
+  "lastUpdated": "2026-02-11",
   "medications": {
     "acetilcisteina": {
       "id": "acetilcisteina",
@@ -28,12 +28,11 @@
         "Solução injetável pronta para uso"
       ],
       "administration": [
-        "Via Intramuscular: 1 ampola (300 mg), 1 a 2 vezes por dia (adultos)",
-        "Via Endovenosa: 1 ampola (300 mg), 1 a 2 vezes por dia (adultos)",
+        "Via Intramuscular: Adultos: 1 ampola (300 mg), 1 a 2 vezes por dia",
+        "Via Endovenosa: Adultos: 1 ampola (300 mg), 1 a 2 vezes por dia",
         "Via Tópica (Aerossol): 1 ampola (300 mg) por sessão, 1 a 2 sessões por dia, durante 5 a 7 dias",
-        "Crianças (6-12 anos): Meia ampola (150 mg), 1 a 2 vezes por dia (IM/IV/Aerossol)",
-        "Crianças (> 12 anos): Dose idêntica à do adulto",
-        "Contra-indicado em crianças com idade inferior a 6 anos"
+        "Crianças (6-12 anos): Meia ampola (150 mg), 1 a 2 vezes por dia (Intramuscular/Endovenosa/Aerossol)",
+        "Crianças (maior que 12 anos): Dose idêntica à do adulto"
       ],
       "stability": [
         "Uso imediato após abertura",
@@ -54,7 +53,8 @@
         "Em doentes asmáticos, suspender se ocorrer broncoconstrição",
         "Pode causar náuseas, vómitos, diarreia ou ardor no local da injeção (raro)",
         "Contra-indicado o uso concomitante com nitroglicerina (risco de hipotensão e cefaleias)",
-        "Para aerossol: Nebulizar a solução sem diluir ou diluída em soro fisiológico"
+        "Para aerossol: Nebulizar a solução sem diluir ou diluída em Cloreto de sódio 0,9%",
+        "Em doentes debilitados ou que tenham diminuição do reflexo da tosse há risco de obstrução da via aérea como consequência do aumento da quantidade de secreções"
       ]
     },
     "acetilsalicilato-de-lisina": {
@@ -78,31 +78,36 @@
       ],
       "presentationAndStorage": [
         "500 mg / 1000 mg (pó para solução injetável)",
+        "900 mg / 1800 mg / 5 ml de pó para solução injetável",
         "Não conservar acima de 25ºC",
+        "Proteger da luz e humidade",
         "Conservar na embalagem de origem"
       ],
       "preparation": [
         "Dissolver o pó com a ampola de solvente (5 ml de água para preparações injetáveis)",
-        "A solução deve ficar límpida e sem cristais visíveis"
+        "A solução deve ficar límpida e sem cristais visíveis",
+        "Não misturar na mesma seringa com outras especialidades farmacêuticas injectáveis"
       ],
       "administration": [
         "Via Intramuscular Profunda: 1 ampola (1 g de AAS), 2 a 4 vezes por dia (máx 4 g/dia)",
         "Via Endovenosa Direta: Administrar lentamente após reconstituição",
-        "Via Endovenosa Perfusão: Diluir em soro fisiológico ou glicosado",
+        "Via Endovenosa Perfusão: Diluir em Cloreto de sódio 0,9% ou Glicose a 5%",
         "Adultos: 1 ampola (0,9g ou 1,8g dependendo da apresentação) de 2 a 4 vezes ao dia"
       ],
       "stability": [
         "Uso imediato após reconstituição (prazo máximo de 30 minutos)"
       ],
       "contraindicationsAndPrecautions": [
-        "Hipersensibilidade a salicilatos ou outros AINEs",
-        "História de asma induzida por AINEs",
+        "Hipersensibilidade a salicilatos ou outros Anti-inflamatórios não esteroides",
+        "História de asma induzida por Anti-inflamatórios não esteroides",
         "Úlcera péptica ativa ou história de hemorragia gastrointestinal",
-        "Terceiro trimestre da gravidez (> 100 mg/dia)",
+        "Terceiro trimestre da gravidez (maior que 100 mg/dia)",
         "Insuficiência hepática ou renal grave",
         "Insuficiência cardíaca grave não controlada",
-        "Deficiência de G6PD (risco de hemólise com doses elevadas)",
-        "Diátese hemorrágica ou distúrbios da coagulação"
+        "Deficiência de Glucose-6-fosfato desidrogenase (risco de hemólise com doses elevadas)",
+        "Diátese hemorrágica ou distúrbios da coagulação",
+        "Associação com metotrexato (maior que 15 mg/semana)",
+        "Associação com anticoagulantes orais (doses elevadas de salicilatos)"
       ],
       "nursingCare": [
         "Não misturar na mesma seringa com outros medicamentos injetáveis",
@@ -110,7 +115,8 @@
         "Vigiar sinais de hemorragia (gengival, nasal, digestiva)",
         "Sinais de sobredosagem: zumbidos (tinido), diminuição da acuidade auditiva, cefaleias e vertigens",
         "Suspender antes de cirurgias (risco hemorrágico aumentado)",
-        "Verificar ausência de salicilatos em outros medicamentos concomitantes para evitar sobredosagem"
+        "Verificar ausência de salicilatos em outros medicamentos concomitantes para evitar sobredosagem",
+        "Os idosos apresentam uma maior frequência de reações adversas, nomeadamente hemorragias gastrointestinais e perfurações que podem ser fatais"
       ]
     },
     "aciclovir": {
@@ -133,19 +139,21 @@
       ],
       "presentationAndStorage": [
         "250 mg pó para solução para perfusão",
-        "Conservar a temperatura inferior a 25ºC"
+        "Fauviral: solução pronta",
+        "Conservar a temperatura inferior a 25ºC",
+        "Armazenar ao abrigo da luz"
       ],
       "preparation": [
-        "Reconstituir com 10 ml de água p.p.i. ou cloreto de sódio 0,9%",
+        "Reconstituir com 10 ml de Água para Preparação de Injetáveis ou cloreto de sódio 0,9%",
         "Diluir a solução reconstituída em volume compatível para perfusão (ex: 50-100ml)",
         "pH da solução reconstituída é aprox. 11 (alcalino)"
       ],
       "administration": [
-        "Via Endovenosa Perfusão Lenta: Administrar durante pelo menos 1 hora (Nunca em bólus)",
+        "Via Endovenosa Perfusão Lenta: Administrar durante pelo menos 1 hora (Nunca em Bólus)",
         "Adultos (HSV/Varicela): 5 mg/kg cada 8 horas",
         "Imunocomprometidos/Encefalite Herpética: 10 mg/kg cada 8 horas (se função renal normal)",
         "Duração tratamento: 5 dias (regra geral) ou 10 dias (encefalite)",
-        "Ajuste Renal: ClCr 25-50 (12/12h); ClCr 10-25 (24/24h); ClCr <10/Anúria (metade da dose 24/24h + reforço pós-diálise)"
+        "Ajuste Renal: Depuração da Creatinina 25-50 (12/12h); Depuração da Creatinina 10-25 (24/24h); Depuração da Creatinina menor que 10/Anúria (metade da dose 24/24h + reforço pós-diálise)"
       ],
       "stability": [
         "Após reconstituição: Uso imediato",
@@ -157,13 +165,14 @@
         "Desidratação (assegurar hidratação adequada)"
       ],
       "nursingCare": [
-        "Nunca administrar em bólus endovenoso (risco de cristalúria e insuficiência renal aguda)",
+        "Nunca administrar em Bólus endovenoso (risco de cristalúria e insuficiência renal aguda)",
         "Extravasamento pode causar necrose tecidular grave (pH alcalino)",
         "Vigiar função renal e hepática em tratamentos prolongados ou doses elevadas",
         "Manter hidratação adequada do doente para prevenir precipitação renal",
         "Neurotoxicidade (confusão, alucinações, coma) reversível com suspensão, mais frequente em insuficiência renal",
         "Incompatível com foscarneto (precipitação)",
-        "Dialisável por hemodiálise (administrar dose após a sessão)"
+        "Dialisável por hemodiálise (administrar dose após a sessão)",
+        "Observar a integridade da pele antes e durante tratamentos de longa duração"
       ]
     },
     "acido-aminocaproico": {
@@ -189,7 +198,7 @@
         "Conservar a temperatura inferior a 25ºC"
       ],
       "preparation": [
-        "Solução injetável pronta para diluição"
+        "Solução injetável pronta"
       ],
       "administration": [
         "Via Endovenosa Perfusão Lenta: Administrar dose inicial em 1 hora, seguida de perfusão contínua",
@@ -203,15 +212,16 @@
       ],
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade à substância ativa",
-        "Coagulação intravascular disseminada (CID) sem heparina concomitante",
+        "Coagulação intravascular disseminada (Coagulação Intravascular Disseminada) sem heparina concomitante",
         "Evidência de processo de coagulação intravascular ativo",
         "Precaução em insuficiência renal (requer ajuste de dose)",
         "Precaução em risco de trombose ou embolia",
-        "Gravidez e amamentação (não recomendado)"
+        "Gravidez e amamentação (não recomendado)",
+        "Usar com precaução em caso de doença cardíaca, renal e hepática"
       ],
       "nursingCare": [
         "A administração rápida pode causar hipotensão grave, bradicardia ou arritmias",
-        "Monitorizar CPK em tratamentos prolongados (risco de miopatia e rabdomiólise)",
+        "Monitorizar Creatina-fosfoquinase em tratamentos prolongados (risco de miopatia e rabdomiólise)",
         "Vigiar sinais de trombose ou embolia",
         "Se ocorrerem tonturas ou hipotensão, reduzir a velocidade de perfusão",
         "Contém sódio (ter em conta em doentes com restrição salina)",
@@ -241,35 +251,35 @@
         "Não utilizar se a solução estiver descolorada ou com partículas"
       ],
       "preparation": [
-        "Solução injetável pronta para administração",
+        "Solução injetável Pronta",
         "Na presença de cristais, dissolver por aquecimento à temperatura ambiente (solução deve ficar límpida)"
       ],
       "administration": [
         "Via Endovenosa Bólus Rápido (em 2 segundos) numa veia de grosso calibre ou linha central",
-        "Seguir imediatamente com bólus rápido de soro fisiológico (flush)",
-        "Adultos (Dose Inicial): 3 mg em bólus rápido",
+        "Seguir imediatamente com Bólus rápido de Cloreto de sódio 0,9% (flush)",
+        "Adultos (Dose Inicial): 3 mg em Bólus rápido",
         "Adultos (2ª Dose): Se sem resposta em 1-2 min, administrar 6 mg",
         "Adultos (3ª Dose): Se sem resposta em 1-2 min, administrar 12 mg",
         "Não se recomendam doses superiores a 12 mg",
-        "Crianças: Utilizada em bólus para TPSV (monitorização rigorosa)"
+        "Crianças: Utilizada em Bólus para Taquicardia Paroxística Supraventricular (monitorização rigorosa)"
       ],
       "stability": [
         "Uso imediato após abertura (rejeitar porção não utilizada)"
       ],
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade à adenosina",
-        "Bloqueio AV de 2º ou 3º grau ou doença do nó sinusal (exceto se pacemaker)",
+        "Bloqueio Auriculoventricular de 2º ou 3º grau ou doença do nó sinusal (exceto se pacemaker)",
         "Síndrome de QT longo",
         "Hipotensão grave ou insuficiência cardíaca descompensada",
         "Doença pulmonar obstrutiva com broncospasmo (ex: asma)",
-        "Transplante cardíaco recente (< 1 ano): sensibilidade aumentada (reduzir dose)"
+        "Transplante cardíaco recente (menor que 1 ano): sensibilidade aumentada (reduzir dose)"
       ],
       "nursingCare": [
         "Administração exclusiva sob monitorização cardíaca contínua e equipamento de reanimação disponível",
         "Interação: Dipiridamol potencia o efeito (risco de assistolia) - reduzir dose de adenosina",
         "Interação: Xantinas (cafeína, teofilina, aminofilina) antagonizam o efeito",
         "Pode causar bradicardia, pausas sinusais ou assistolia transitória durante a conversão",
-        "Efeitos adversos frequentes (rubor, dispneia, dor torácica) duram geralmente < 1 minuto",
+        "Efeitos adversos frequentes (rubor, dispneia, dor torácica) duram geralmente menor que 1 minuto",
         "Administrar o mais próximo possível do acesso venoso para garantir eficácia (semivida muito curta)"
       ]
     },
@@ -297,18 +307,19 @@
         "Não utilizar se a solução estiver turva, com cor ou precipitado"
       ],
       "preparation": [
-        "Solução injetável pronta para uso IM (1 mg/ml)",
-        "Para uso IV: Diluir obrigatoriamente para 0,1 mg/ml (1:10.000) com NaCl 0,9% ou Glicose 5%",
+        "Solução injetável pronta",
+        "Para uso Endovenosa: Diluir obrigatoriamente para 0,1 mg/ml (1:10.000) com Cloreto de sódio 0,9% ou Glicose a 5%",
         "Diluição 1:10: 1 ml de Adrenalina + 9 ml de solvente"
       ],
       "administration": [
         "Via Intramuscular: Preferencial em anafilaxia (zona ântero-lateral do terço médio da coxa)",
-        "Via Endovenosa: Apenas em emergência hospitalar (UCI/SU) por profissionais experientes",
+        "Via Endovenosa: Apenas em emergência hospitalar (Unidade de Cuidados Intensivos/Serviço de Urgência) por profissionais experientes",
         "Via Endovenosa Bólus: Diluída 1:10 (0,1 mg/ml)",
-        "Dose Anafilaxia (Adulto): 0,5 mg (0,5 ml) IM; repetir a cada 5 min se necessário",
-        "Dose Anafilaxia (Crianças): <6 anos (0,15 mg); 6-12 anos (0,3 mg); >12 anos (0,5 mg)"
+        "Dose Anafilaxia (Adulto): 0,5 mg (0,5 ml) Intramuscular; repetir a cada 5 min se necessário",
+        "Dose Anafilaxia (Crianças): menor que 6 anos (0,15 mg); 6-12 anos (0,3 mg); maior que 12 anos (0,5 mg)"
       ],
       "stability": [
+        "24 horas à temperatura ambiente",
         "Uso imediato após abertura e diluição"
       ],
       "contraindicationsAndPrecautions": [
@@ -321,14 +332,17 @@
         "Não usar durante a segunda fase do trabalho de parto (inibe contrações)"
       ],
       "nursingCare": [
-        "Monitorização rigorosa: ECG, TA, SpO2 e pulso logo que possível",
-        "Via SC não recomendada em anafilaxia (absorção lenta)",
+        "Monitorização rigorosa: Eletrocardiograma, Tensão Arterial, Saturação de Oxigénio e pulso logo que possível",
+        "Via Subcutânea não recomendada em anafilaxia (absorção lenta)",
         "Incompatível com soluções alcalinas, oxidantes, ferro, iodo",
         "Não misturar com outros fármacos na mesma seringa",
         "Risco de necrose tecidular por extravasamento (vasoconstrição potente)",
         "Interação: Oxitocina (risco de efeitos aditivos/toxicidade)",
         "Interação: Beta-bloqueadores não cardiosseletivos (antagonizam efeito)",
-        "Massajar local de injeção IM para acelerar absorção"
+        "Massajar local de injeção Intramuscular para acelerar absorção",
+        "Pode provocar arrefecimento das extremidades por hipoperfusão periférica",
+        "A via Endovenosa pode ser usada também para esclerose de varizes ou hemorragia gástrica",
+        "Se a solução se apresentar rosa, amarelada ou castanha deve ser rejeitada"
       ]
     },
     "albumina-humana": {
@@ -355,8 +369,8 @@
         "Proteger da luz (manter na embalagem exterior)"
       ],
       "preparation": [
-        "Solução injetável pronta para uso",
-        "Pode ser diluída em soluções isotónicas (NaCl 0,9% ou Glicose 5%)",
+        "Solução injetável Pronta",
+        "Pode ser diluída em soluções isotónicas (Cloreto de sódio 0,9% ou Glicose a 5%)",
         "Aquecer à temperatura ambiente ou corporal antes do uso se administrar grandes volumes"
       ],
       "administration": [
@@ -381,7 +395,9 @@
         "Monitorizar sinais de sobrecarga cardiovascular: cefaleias, dispneia, jugulares ingurgitadas",
         "Monitorizar eletrólitos (contém pouco sódio comparado com plasma, risco de desequilíbrio)",
         "Se houver reação alérgica/choque, interromper imediatamente",
-        "Não utilizar se a solução estiver turva ou com depósitos"
+        "Não utilizar se a solução estiver turva ou com depósitos",
+        "Sempre que administrada deve ser feito o registo do nome e o número de lote do medicamento",
+        "A administração por perfusão contínua está desaconselhada por ser um meio de cultura"
       ]
     },
     "alfentanil": {
@@ -403,18 +419,18 @@
         "Glicose a 5% em cloreto de sódio 0,9%"
       ],
       "presentationAndStorage": [
-        "0,5 mg/ml (500 µg/ml) solução injetável",
+        "0,5 mg/ml (500 mcg/ml) solução injetável",
         "Não são necessárias precauções especiais de conservação"
       ],
       "preparation": [
-        "Solução injetável pronta para uso (injeção direta)",
+        "Solução injetável pronta",
         "Pode ser diluída para perfusão (concentração final 25-80 mcg/ml)"
       ],
       "administration": [
         "Via Endovenosa: Bólus lento (30 seg em não ventilados) ou Perfusão Contínua",
         "Adultos (Indução): 120 mcg/kg (mantém estabilidade cardiovascular)",
-        "Adultos (Procedimentos Curtos <10 min): 7-15 mcg/kg bólus",
-        "Adultos (Procedimentos Médios 10-30 min): 20-40 mcg/kg bólus inicial",
+        "Adultos (Procedimentos Curtos menor que 10 min): 7-15 mcg/kg Bólus",
+        "Adultos (Procedimentos Médios 10-30 min): 20-40 mcg/kg Bólus inicial",
         "Crianças: Requer monitorização cuidadosa; doses ajustadas pelo especialista"
       ],
       "stability": [
@@ -426,13 +442,14 @@
         "Depressão respiratória não ventilada",
         "Traumatismo craniano (pode mascarar sinais clínicos)",
         "Gravidez (não recomendado, risco de síndrome de abstinência neonatal)",
-        "Amamentação (suspender por 24h após administração)"
+        "Amamentação (suspender por 24h após administração)",
+        "Hipersensibilidade a um analgésico semelhante"
       ],
       "nursingCare": [
         "Monitorização rigorosa: sinais vitais, saturação O2, apneia e rigidez muscular (tórax)",
         "Ter Naloxona e equipamento de reanimação prontamente disponíveis",
         "Risco de bradicardia: pode prevenir-se com anticolinérgico (atropina) antes da indução",
-        "Interação: Potenciado por benzodiazepinas, álcool e depressores do SNC (risco de coma/morte)",
+        "Interação: Potenciado por benzodiazepinas, álcool e depressores do Sistema Nervoso Central (risco de coma/morte)",
         "Evitar conduzir ou operar máquinas nas 24h seguintes"
       ]
     },
@@ -451,7 +468,7 @@
         "Glicose a 5%"
       ],
       "presentationAndStorage": [
-        "0,5 mg/ml (500 µg/ml) solução injetável (ampolas 1 ml)",
+        "0,5 mg/ml (500 mcg/ml) solução injetável (ampolas 1 ml)",
         "Conservar no frigorífico (2ºC – 8ºC)"
       ],
       "preparation": [
@@ -461,9 +478,9 @@
       "administration": [
         "Via Endovenosa Perfusão Contínua (preferencial): Veia de grande calibre",
         "Via Arterial (Cateter Umbilical): Extremidade junto à abertura do canal arterial",
-        "Dose Inicial: 0,05 a 0,1 µg/kg/min",
-        "Manutenção: Reduzir para a menor dose eficaz após resposta terapêutica (aumento pO2 ou PA)",
-        "Se resposta inadequada: Pode aumentar até 0,4 µg/kg/min (doses superiores não mostram benefício)"
+        "Dose Inicial: 0,05 a 0,1 mcg/kg/min",
+        "Manutenção: Reduzir para a menor dose eficaz após resposta terapêutica (aumento Pressão parcial de Oxigénio ou Pressão Arterial)",
+        "Se resposta inadequada: Pode aumentar até 0,4 mcg/kg/min (doses superiores não mostram benefício)"
       ],
       "stability": [
         "Soluções diluídas: 24 horas no frigorífico (rejeitar após este período)"
@@ -474,12 +491,14 @@
         "Precaução em recém-nascidos com tendências hemorrágicas (inibe agregação plaquetária)"
       ],
       "nursingCare": [
-        "Monitorização contínua: SpO2, pressão arterial, frequência cardíaca e temperatura",
-        "Risco elevado de apneia (10-12%), especialmente na 1ª hora e em < 2kg: TER VENTILAÇÃO DISPONÍVEL",
+        "Monitorização contínua: Saturação de Oxigénio, pressão arterial, frequência cardíaca e temperatura",
+        "Risco elevado de apneia (10-12%), especialmente na 1ª hora e em menor que 2kg: TER VENTILAÇÃO DISPONÍVEL",
         "Pode causar febre transitória, bradicardia, hipotensão, convulsões e diarreia",
         "Monitorizar sinais de obstrução gástrica ou hipertrofia da mucosa em tratamentos prolongados",
         "Risco de proliferação cortical óssea em perfusões prolongadas (reversível)",
-        "Vigiar sinais de extravasamento (fragilidade vascular)"
+        "Vigiar sinais de extravasamento (fragilidade vascular)",
+        "O período de tratamento não deve exceder as 4 semanas",
+        "Deve ser administrado com recurso a bomba infusora para controlo rigoroso da velocidade de perfusão"
       ]
     },
     "ambroxol": {
@@ -505,8 +524,8 @@
         "Conservar na embalagem de origem para proteger da luz"
       ],
       "preparation": [
-        "Solução injetável pronta para uso",
-        "Pode ser diluída em Soro Fisiológico ou Ringer para perfusão"
+        "Solução injetável pronta",
+        "Pode ser diluída em Cloreto de sódio 0,9% ou Lactato de Ringer para perfusão"
       ],
       "administration": [
         "Via Intramuscular",
@@ -514,7 +533,7 @@
         "Via Endovenosa Perfusão: Gota a gota",
         "Adultos: 1 ampola (15 mg) 2 a 3 vezes por dia",
         "Crianças: 1,2 a 1,6 mg/kg/dia",
-        "Recém-nascidos (SDR): 30 mg/kg/dia dividido em 4 doses (perfusão IV lenta ≥ 5 min)"
+        "Recém-nascidos (Síndrome de Dificuldade Respiratória): 30 mg/kg/dia dividido em 4 doses (perfusão Endovenosa lenta maior ou igual 5 min)"
       ],
       "stability": [
         "Uso imediato após abertura",
@@ -527,8 +546,8 @@
         "Gravidez e amamentação (precaução)"
       ],
       "nursingCare": [
-        "Não misturar com outras soluções na mesma seringa (risco de precipitação se pH > 6.3)",
-        "Vigiar reações cutâneas graves (S. Stevens-Johnson, NET); suspender se ocorrer erupção",
+        "Não misturar com outras soluções na mesma seringa (risco de precipitação se pH maior que 6.3)",
+        "Vigiar reações cutâneas graves (Síndrome de Stevens-Johnson, Necrólise Epidérmica Tóxica); suspender se ocorrer erupção",
         "Pode causar desconforto gastrointestinal (náuseas, vómitos, diarreia)",
         "Aumenta a concentração de antibióticos (amoxicilina, cefuroxima, eritromicina) no tecido pulmonar",
         "Promove a síntese e secreção de surfactante pulmonar",
@@ -560,8 +579,8 @@
         "Proteger da luz (manter na embalagem exterior)"
       ],
       "preparation": [
-        "Solução injetável pronta para uso IM (não diluir)",
-        "Via IV: Diluir a dose calculada em 100-200 ml de solução compatível"
+        "Solução injetável pronta para uso Intramuscular (não diluir)",
+        "Via Endovenosa: Diluir a dose calculada em 100-200 ml de solução compatível"
       ],
       "administration": [
         "Via Intramuscular Profunda",
@@ -614,15 +633,15 @@
       ],
       "preparation": [
         "Solução injetável pronta para uso",
-        "Pode ser diluída em NaCl 0,9% ou Glicose 5%"
+        "Pode ser diluída em Cloreto de sódio 0,9% ou Glicose a 5%"
       ],
       "administration": [
-        "Via Endovenosa Lenta: Máximo 25 mg/min (risco cardiovascular/SNC)",
+        "Via Endovenosa Lenta: Máximo 25 mg/min (risco cardiovascular/Sistema Nervoso Central)",
         "Via Endovenosa Perfusão: Diluir a dose em 100-200 ml e administrar em 30-60 min",
         "Dose de ataque (se virgem de tratamento): 5-6 mg/kg em 20-30 min",
         "Dose de ataque (se medicado com teofilina): Determinar nível sérico primeiro ou usar dose reduzida 2,5-3,0 mg/kg em emergência",
         "Manutenção (Crianças 9-16a / Fumadores): 1,0 mg/kg/h nas primeiras 12h, depois 0,8 mg/kg/h",
-        "Intervalo terapêutico: 10-20 mcg/ml (Tóxico > 20 mcg/ml)"
+        "Intervalo terapêutico: 10-20 mcg/ml (Tóxico maior que 20 mcg/ml)"
       ],
       "stability": [
         "Uso imediato após abertura"
@@ -635,7 +654,7 @@
       ],
       "nursingCare": [
         "Administração rápida pode causar hipotensão grave, arritmias fatais e convulsões",
-        "Monitorização rigorosa: Frequência cardíaca, TA, e sinais de toxicidade (náuseas, vómitos, agitação, taquicardia)",
+        "Monitorização rigorosa: Frequência cardíaca, Tensão Arterial, e sinais de toxicidade (náuseas, vómitos, agitação, taquicardia)",
         "Manter doente deitado durante a administração direta",
         "Rejeitar solução se apresentar cristais ou precipitado",
         "Muitas incompatibilidades químicas: Ácidos, penicilinas, fenitoína, ondansetrom, etc. Não misturar na mesma via",
@@ -666,14 +685,14 @@
       "preparation": [
         "Diluir EXCLUSIVAMENTE em Glicose a 5%",
         "Concentrações inferiores a 600 mg/L (2 ampolas em 500 ml) são instáveis e não devem ser usadas",
-        "Não utilizar material de PVC para administração (absorção do fármaco)"
+        "Não utilizar material de Policloreto de vinilo para administração (absorção do fármaco)"
       ],
       "administration": [
-        "Via Endovenosa Perfusão (Carga): 5 mg/kg em 250 ml Glicose 5% durante 20 a 120 minutos",
-        "Via Endovenosa Perfusão (Manutenção): 10-20 mg/kg/24h (600-800 mg, máx 1200 mg) em 250 ml Glicose 5%",
-        "Via Endovenosa Bólus (Emergência): 5 mg/kg (150-300 mg) em 10-20 ml Glicose 5% em pelo menos 3 minutos",
-        "Reanimação (FV/TV sem pulso): 300 mg (ou 5 mg/kg) em 20 ml Glicose 5% bolus rápido; pode repetir 150 mg",
-        "Nunca repetir bólus em menos de 15 minutos (exceto na reanimação)"
+        "Via Endovenosa Perfusão (Carga): 5 mg/kg em 250 ml Glicose a 5% durante 20 a 120 minutos",
+        "Via Endovenosa Perfusão (Manutenção): 10-20 mg/kg/24h (600-800 mg, máx 1200 mg) em 250 ml Glicose a 5%",
+        "Via Endovenosa Bólus (Emergência): 5 mg/kg (150-300 mg) em 10-20 ml Glicose a 5% em pelo menos 3 minutos",
+        "Reanimação (Fibrilhação Ventricular/Taquicardia Ventricular sem pulso): 300 mg (ou 5 mg/kg) em 20 ml Glicose a 5% bolus rápido; pode repetir 150 mg",
+        "Nunca repetir Bólus em menos de 15 minutos (exceto na reanimação)"
       ],
       "stability": [
         "Uso imediato após abertura e diluição",
@@ -681,18 +700,18 @@
       ],
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade à amiodarona ou ao iodo",
-        "Bradicardia sinusal, bloqueio SA/AV (sem pacemaker)",
+        "Bradicardia sinusal, bloqueio Sino-auricular / Auriculoventricular (sem pacemaker)",
         "Disfunção da tiroide",
         "Hipotensão grave ou colapso circulatório",
         "Gravidez (exceto risco de vida) e amamentação",
         "Associação com fármacos indutores de Torsades de Pointes"
       ],
       "nursingCare": [
-        "Monitorização contínua: ECG e Pressão Arterial (risco de hipotensão grave/colapso)",
+        "Monitorização contínua: Eletrocardiograma e Pressão Arterial (risco de hipotensão grave/colapso)",
         "Administrar preferencialmente por via venosa central (risco elevado de flebite)",
-        "Utilizar material de vidro ou poliolefina (PVC absorve 20-40% da substância ativa)",
-        "Incompatível com Soro Fisiológico (precipitação)",
-        "Contém álcool benzílico (risco de toxicidade em recém-nascidos e crianças < 3 anos)",
+        "Utilizar material de vidro ou poliolefina (Policloreto de vinilo absorve 20-40% da substância ativa)",
+        "Incompatível com Cloreto de sódio 0,9% (precipitação)",
+        "Contém álcool benzílico (risco de toxicidade em recém-nascidos e crianças menor que 3 anos)",
         "Vigiar toxicidade pulmonar (tosse, dispneia), hepática e tiroideia",
         "Não misturar com outros fármacos na mesma seringa ou linha"
       ]
@@ -721,8 +740,8 @@
         "Proteger da luz e humidade (manter na embalagem original)"
       ],
       "preparation": [
-        "Reconstituir 600 mg com 10 ml e 1200 mg com 20 ml de Água para Injetáveis ou NaCl 0,9%",
-        "Para perfusão: Diluir em 50-100 ml de NaCl 0,9%, Ringer ou Hartmann",
+        "Reconstituir 600 mg com 10 ml e 1200 mg com 20 ml de Água para Injetáveis ou Cloreto de sódio 0,9%",
+        "Para perfusão: Diluir em 50-100 ml de Cloreto de sódio 0,9%, Ringer ou Hartmann",
         "Não diluir em Glicose, Bicarbonato ou Dextrano (instabilidade química)"
       ],
       "administration": [
@@ -731,7 +750,7 @@
         "Adultos (Dose Padrão): 1200 mg (1000/200) a cada 8 horas",
         "Adultos (Infeções Graves): 1200 mg a cada 4-6 horas",
         "Profilaxia Cirúrgica: 1200 mg na indução da anestesia (pode repetir em cirurgias longas)",
-        "Ajuste Renal: ClCr 10-30 ml/min (1200 mg inicial, depois 600 mg 12/12h); ClCr < 10 ml/min (1200 mg inicial, depois 600 mg 24/24h)"
+        "Ajuste Renal: Depuração da Creatinina 10-30 ml/min (1200 mg inicial, depois 600 mg 12/12h); Depuração da Creatinina menor que 10 ml/min (1200 mg inicial, depois 600 mg 24/24h)"
       ],
       "stability": [
         "Uso imediato obrigatório: administrar nos 20 minutos após reconstituição (degradação rápida)",
@@ -787,8 +806,8 @@
         "Neonatos: 25-50 mg/kg/dose (intervalo 6h-12h consoante peso e idade gestacional)"
       ],
       "stability": [
-        "Reconstituído (IM/IV): Uso no prazo de 1 hora",
-        "Perfusão (<30mg/ml): 24 horas no frigorífico (preferencialmente NaCl 0.9%)"
+        "Reconstituído (Intramuscular/Endovenosa): Uso no prazo de 1 hora",
+        "Perfusão (menor que 30mg/ml): 24 horas no frigorífico (preferencialmente Cloreto de sódio 0,9%)"
       ],
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade a penicilinas ou cefalosporinas (alergia cruzada)",
@@ -796,7 +815,7 @@
         "Ajustar dose em insuficiência renal grave"
       ],
       "nursingCare": [
-        "Administração IV rápida pode desencadear convulsões (respeitar tempo min 10 min)",
+        "Administração Endovenosa rápida pode desencadear convulsões (respeitar tempo min 10 min)",
         "Não utilizar soluções turvas ou com precipitados",
         "Incompatível com Aminoglicosídeos na mesma seringa (inativação)",
         "Interação: Alopurinol aumenta risco de erupção cutânea",
@@ -832,13 +851,13 @@
       ],
       "administration": [
         "Via Endovenosa Perfusão: Administrar em 30 a 60 minutos",
-        "Doses > 5 mg/kg: Administrar durante 2 horas (reduz reações adversas)",
+        "Doses maior que 5 mg/kg: Administrar durante 2 horas (reduz reações adversas)",
         "Dose Padrão: 1 a 3 mg/kg/dia (pode ir até 5 mg/kg em infeções graves)",
         "Mucormicose: Iniciar com 5 mg/kg/dia"
       ],
       "stability": [
         "Reconstituído: 24 horas a 25ºC ou 7 dias no frigorífico",
-        "Diluído (Glicose 5%): 72 horas a 25ºC ou 7 dias no frigorífico"
+        "Diluído (Glicose a 5%): 72 horas a 25ºC ou 7 dias no frigorífico"
       ],
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade à anfotericina B (exceto em risco de vida)",
@@ -846,7 +865,7 @@
         "Monitorizar função renal e eletrólitos concomitantemente com outros nefrotóxicos"
       ],
       "nursingCare": [
-        "INCOMPATÍVEL com Soro Fisiológico (precipitação). Lavar via com Glicose antes e depois",
+        "INCOMPATÍVEL com Cloreto de sódio 0,9% (precipitação). Lavar via com Glicose antes e depois",
         "Reações à perfusão (febre, calafrios, rigidez) são comuns: pré-medicar se necessário",
         "Monitorizar K+ e Mg2+ (suplementação frequentemente necessária)",
         "Vigiar função renal (embora menos tóxica que a forma convencional)",
@@ -866,8 +885,8 @@
       ],
       "compatibility": [],
       "presentationAndStorage": [
-        "20 µg/1 ml (Adultos ≥ 16 anos) suspensão injetável",
-        "10 µg/0,5 ml (Pediátrica ≤ 15 anos) suspensão injetável",
+        "20 mcg/1 ml (Adultos maior ou igual a 16 anos) suspensão injetável",
+        "10 mcg/0,5 ml (Pediátrica menor ou igual a 15 anos) suspensão injetável",
         "Conservar no frigorífico (2ºC – 8ºC)",
         "Não congelar (inativa a vacina)",
         "Proteger da luz"
@@ -882,7 +901,7 @@
         "Via Subcutânea: Excecionalmente em doentes com trombocitopenia ou risco hemorrágico",
         "Esquema Padrão: 0, 1 e 6 meses",
         "Esquema Acelerado: 0, 1, 2 e 12 meses",
-        "Esquema Ultrarrápido (>18 anos): 0, 7, 21 dias e 12 meses"
+        "Esquema Ultrarrápido (maior que 18 anos): 0, 7, 21 dias e 12 meses"
       ],
       "stability": [
         "Uso imediato após abertura",
@@ -927,7 +946,7 @@
       ],
       "preparation": [
         "Solução pronta para uso (injeção direta)",
-        "Para perfusão: Diluir para concentração ≥ 0,5 mg/ml",
+        "Para perfusão: Diluir para concentração maior ou igual 0,5 mg/ml",
         "Incompatível com soluções alcalinas (ex: Tiopental) na mesma seringa"
       ],
       "administration": [
@@ -938,7 +957,7 @@
       ],
       "stability": [
         "Ampolas abertas: Uso imediato",
-        "Diluição (≥0,5mg/ml): 24h (NaCl 0,9%), 8h (Glicose 5% / Ringer), 4h (Hartmann)"
+        "Diluição (maior ou igual a 0,5mg/ml): 24h (Cloreto de sódio 0,9%), 8h (Glicose a 5% / Ringer), 4h (Hartmann)"
       ],
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade ao atracúrio ou ácido benzenosulfónico",
@@ -950,7 +969,7 @@
         "Obrigatório equipamento de ventilação artificial e reanimação disponível",
         "Risco de libertação de histamina: rubor, hipotensão e broncoespasmo",
         "Reversão do bloqueio: Neostigmina ou Edrofónio (associados a Atropina/Glicopirrolato)",
-        "Vigiar convulsões em tratamentos prolongados em UCI (acumulação de laudanosina)"
+        "Vigiar convulsões em tratamentos prolongados em Unidade de Cuidados Intensivos (acumulação de laudanosina)"
       ]
     },
     "atropina": {
@@ -972,7 +991,7 @@
       ],
       "presentationAndStorage": [
         "0,5 mg/ml e 1 mg/ml solução injetável",
-        "Não necessita de precauções especiais de conservação (< 25ºC)",
+        "Não necessita de precauções especiais de conservação (menor que 25ºC)",
         "Proteger da luz (manter na embalagem exterior)"
       ],
       "preparation": [
@@ -980,10 +999,10 @@
         "Pode ser administrada sem diluição"
       ],
       "administration": [
-        "Via Endovenosa (IV Direta), Intramuscular (IM) ou Subcutânea (SC)",
-        "Pré-anestesia: 0,3 a 0,6 mg (IM/SC 30-60 min antes ou IV imediato)",
-        "Bradicardia Sintomática: 0,5 mg a 1 mg IV a cada 3-5 min (Dose máx: 3 mg)",
-        "Intoxicação (Antídoto): 1 a 2 mg IV (2-6 mg em casos graves); repetir a cada 5-60 min até secagem de secreções",
+        "Via Endovenosa (Direta), Intramuscular ou Subcutânea",
+        "Pré-anestesia: 0,3 a 0,6 mg (Intramuscular/Subcutânea 30-60 min antes ou Endovenosa imediato)",
+        "Bradicardia Sintomática: 0,5 mg a 1 mg Endovenosa a cada 3-5 min (Dose máx: 3 mg)",
+        "Intoxicação (Antídoto): 1 a 2 mg Endovenosa (2-6 mg em casos graves); repetir a cada 5-60 min até secagem de secreções",
         "Pediatria: 0,01 a 0,02 mg/kg (Dose única máx: 0,6 mg)"
       ],
       "stability": [
@@ -996,7 +1015,7 @@
         "Miastenia gravis (exceto para reverter efeitos de relaxantes musculares)"
       ],
       "nursingCare": [
-        "Doses baixas (<0,5 mg) ou administração lenta podem causar bradicardia paradoxal",
+        "Doses baixas (menor que 0,5 mg) ou administração lenta podem causar bradicardia paradoxal",
         "Monitorizar frequência cardíaca (risco de taquicardia) e débito urinário",
         "Efeitos anticolinérgicos esperados: boca seca (xerostomia), visão turva, fotofobia, obstipação",
         "Pode inibir a sudação (risco de hipertermia/golpe de calor)",
@@ -1034,7 +1053,7 @@
       ],
       "administration": [
         "Via Endovenosa Perfusão: Diluir a solução inicial em 250 ml (2 mg/ml) ou 500 ml (1 mg/ml)",
-        "Administrar num período ≥ 60 minutos (1 hora para 500 ml; 3 horas para 250 ml)",
+        "Administrar num período maior ou igual 60 minutos (1 hora para 500 ml; 3 horas para 250 ml)",
         "Pneumonia/DIP: 500 mg por dia numa única perfusão diária (pelo menos 1 ou 2 dias)"
       ],
       "stability": [
@@ -1052,7 +1071,7 @@
         "Monitorização rigorosa para risco de prolongamento do intervalo QT e arritmias",
         "Vigiar sinais de disfunção hepática (icterícia, urina escura)",
         "Vigilância cuidadosa dos acessos venosos pelo risco de flebites",
-        "Não administrar via Endovenosa em bólus ou Intramuscular",
+        "Não administrar via Endovenosa em Bólus ou Intramuscular",
         "Interação com Digoxina e Colquicina (aumento dos níveis séricos)",
         "Risco de superinfeção (ex: colite pseudomembranosa/diarreia)"
       ]
@@ -1086,7 +1105,7 @@
       "administration": [
         "Via Intramuscular: Injeção profunda na região glútea",
         "Via Intradérmica",
-        "Via Intralesional: Usar agulha > 26 G",
+        "Via Intralesional: Usar agulha maior que 26 G",
         "Via Intra-articular",
         "Via Intrassinovial",
         "Via Periarticular",
@@ -1109,11 +1128,11 @@
         "Vigiar sinais de hipercortisolismo (estado cushingóide) e irregularidades menstruais",
         "Evitar vacinação (especialmente vacinas vivas) e contacto com varicela/sarampo",
         "Pode misturar com anestésico local (lidocaína/procaína): aspirar primeiro a betametasona e depois o anestésico, agitando ligeiramente",
-        "Injeção IM profunda para evitar atrofia tissular local",
+        "Injeção Intramuscular profunda para evitar atrofia tissular local",
         "Monitorizar glicemia em diabéticos (pode exigir ajuste de dose de antidiabéticos)",
         "Vigiar alterações visuais (visão turva) e crescimento em crianças",
         "Interação: Fenobarbital, rifampicina, fenitoína e efedrina reduzem a eficácia",
-        "Interação: Aumenta o risco de úlcera se associado a AINEs ou álcool",
+        "Interação: Aumenta o risco de úlcera se associado a Anti-inflamatórios não esteroides ou álcool",
         "Contém álcool benzílico e para-hidroxibenzoatos (metilo e propilo)",
         "Risco de hipoglicemia neonatal se administrado no pré-natal em risco de parto pré-termo tardio"
       ]
@@ -1142,7 +1161,7 @@
       ],
       "preparation": [
         "Solução pronta para uso (requer via central se pura)",
-        "Para RN e prematuros: Diluir 1:1 com Glicose 5% (resulta em 4,2%)"
+        "Para Recém-nascidos e prematuros: Diluir 1:1 com Glicose a 5% (resulta em 4,2%)"
       ],
       "administration": [
         "Via Endovenosa (Cateter Venoso Central preferencial para 8,4%, preferencialmente veia cava)",
@@ -1198,8 +1217,8 @@
         "Via Intramuscular",
         "Via Endovenosa Lenta",
         "Sintomas Extrapiramidais: 2,5-5 mg (repetir em 30 min se necessário; Máx 20 mg/dia)",
-        "Intoxicação por Nicotina: 5-10 mg IM ou 5 mg IV (em casos graves)",
-        "População Pediátrica: <1 ano (Máx 1 mg), 1-6 anos (2 mg), 6-10 anos (3 mg)"
+        "Intoxicação por Nicotina: 5-10 mg Intramuscular ou 5 mg Endovenosa (em casos graves)",
+        "População Pediátrica: menor que 1 ano (Máx 1 mg), 1-6 anos (2 mg), 6-10 anos (3 mg)"
       ],
       "stability": [
         "Uso imediato após abertura"
@@ -1217,12 +1236,12 @@
         "Vigiar retenção urinária (especialmente em idosos com adenoma da próstata)",
         "Antídoto para sobredosagem: Inibidores da acetilcolinesterase (ex: neostigmina)",
         "Interação: Antagoniza a ação da metoclopramida no trato GI",
-        "Interação: Quinidina aumenta o efeito anticolinérgico (especialmente a nível da condução AV)",
+        "Interação: Quinidina aumenta o efeito anticolinérgico (especialmente a nível da condução Auriculoventricular)",
         "Interação: Potencia o efeito do álcool e as discinésias da Levodopa",
         "Amamentação: Pode suprimir a lactação; passa para o leite materno (recomenda-se desmame)",
-        "Vigiar efeitos no SNC: confusão, alucinações, tonturas, perturbações da memória e do sono (redução REM)",
+        "Vigiar efeitos no Sistema Nervoso Central: confusão, alucinações, tonturas, perturbações da memória e do sono (redução REM)",
         "Vigiar efeitos oculares: midríase, fotossensibilidade e visão turva",
-        "Praticamente isento de sódio (< 1 mmol por ampola)"
+        "Praticamente isento de sódio (menor que 1 mmol por ampola)"
       ]
     },
     "buflomedil-cloridrato": {
@@ -1256,7 +1275,7 @@
       ],
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade ao cloridrato de buflomedil, ou a qualquer um dos excipientes",
-        "Insuficiência renal grave (depuração da creatinina < 30 ml/min)",
+        "Insuficiência renal grave (depuração da creatinina menor que 30 ml/min)",
         "Imediatamente após o parto ou em presença de hemorragia arterial"
       ],
       "nursingCare": [
@@ -1303,7 +1322,7 @@
         "Estenose mecânica do trato GI, íleo paralítico ou obstrutivo, megacólon",
         "Taquicardia",
         "Miastenia gravis",
-        "Nunca administrar via IM em doentes sob anticoagulantes (risco de hematoma)"
+        "Nunca administrar via Intramuscular em doentes sob anticoagulantes (risco de hematoma)"
       ],
       "nursingCare": [
         "Vigiar sinais de anafilaxia ou choque após administração parentérica",
@@ -1355,8 +1374,8 @@
       ],
       "nursingCare": [
         "Monitorizar Cálcio e Fósforo séricos pelo menos 2 vezes por semana durante a titulação",
-        "Monitorizar níveis de PTH (paratormona); reduzir dose se PTH < 1,5-3x o limite superior do normal",
-        "Suspender tratamento se: Cálcio > 11 mg/dl, Produto Cálcio x Fósforo > 70 ou Creatinina > 120 µmol/l",
+        "Monitorizar níveis de PTH (paratormona); reduzir dose se PTH menor que 1,5-3x o limite superior do normal",
+        "Suspender tratamento se: Cálcio maior que 11 mg/dl, Produto Cálcio x Fósforo maior que 70 ou Creatinina maior que 120 micromol/l",
         "Vigiar sintomas de intoxicação por Vit D: astenia, cefaleias, sonolência, secura de boca, obstipação, mialgia, dor óssea e náuseas",
         "Interação: Diuréticos tiazídicos aumentam o risco de hipercalcemia",
         "Interação: Digitálicos têm maior risco de arritmias se ocorrer hipercalcemia",
@@ -1391,10 +1410,10 @@
       ],
       "administration": [
         "Via Intramuscular: A via Endovenosa não está recomendada",
-        "Anemia sem neuropatia (Dose inicial): 0,25 - 1 mg IM, em dias alternados (1-2 semanas)",
-        "Anemia sem neuropatia (Dose acerto): 0,25 mg IM, 1 vez por semana até normalização",
-        "Anemia com neuropatia (Dose inicial): 1 mg IM, em dias alternados até normalização",
-        "Dose de Manutenção: 1 mg IM, uma vez por mês"
+        "Anemia sem neuropatia (Dose inicial): 0,25 - 1 mg Intramuscular, em dias alternados (1-2 semanas)",
+        "Anemia sem neuropatia (Dose acerto): 0,25 mg Intramuscular, 1 vez por semana até normalização",
+        "Anemia com neuropatia (Dose inicial): 1 mg Intramuscular, em dias alternados até normalização",
+        "Dose de Manutenção: 1 mg Intramuscular, uma vez por mês"
       ],
       "stability": [
         "Após abertura da ampola deve ser utilizada de imediato"
@@ -1445,7 +1464,7 @@
       ],
       "administration": [
         "Via Endovenosa Perfusão lenta (2 a 6 horas)",
-        "A dose IV recomendada é aproximadamente um terço da dose oral correspondente"
+        "A dose Endovenosa recomendada é aproximadamente um terço da dose oral correspondente"
       ],
       "stability": [
         "Após diluição: 24 horas (pode ser conservado no frigorífico entre 2ºC e 8ºC)"
@@ -1466,7 +1485,7 @@
         "Risco aumentado de infeções (oportunistas) e neoplasias (especialmente linfomas e pele)",
         "Possíveis efeitos a longo prazo: hirsutismo, hipertrofia gengival, anorexia, náuseas e vómitos",
         "Nos doentes transplantados, monitorizar níveis sanguíneos de ciclosporina",
-        "Utilizar preferencialmente recipientes de vidro. Se usar plástico, deve ser isento de PVC, óleo de silicone e gorduras",
+        "Utilizar preferencialmente recipientes de vidro. Se usar plástico, deve ser isento de Policloreto de vinilo, óleo de silicone e gorduras",
         "Não é dialisável de modo significativo"
       ]
     },
@@ -1486,7 +1505,7 @@
         "Cloreto de sódio 0,9%",
         "Glicose a 5%",
         "Glicose a 10%",
-        "Solução de Ringer lactato"
+        "Lactato de Ringer"
       ],
       "presentationAndStorage": [
         "100 mg/ml solução injetável (ampolas de 200 mg/2 ml)",
@@ -1498,20 +1517,20 @@
       ],
       "administration": [
         "Via Intramuscular: 200 mg a cada 4-6 horas",
-        "Via Endovenosa Direta: diluir 200 mg em NaCl 0,9% até 20 ml e administrar LENTAMENTE (≥ 5 minutos)",
-        "Via Endovenosa Perfusão Intermitente: diluir 400 mg em 100 ml de solvente e administrar em ≥ 15-20 minutos",
+        "Via Endovenosa Direta: diluir 200 mg em Cloreto de sódio 0,9% até 20 ml e administrar LENTAMENTE (maior ou igual 5 minutos)",
+        "Via Endovenosa Perfusão Intermitente: diluir 400 mg em 100 ml de solvente e administrar em maior ou igual 15-20 minutos",
         "Via Endovenosa Perfusão Contínua: ritmo habitual 50-100 mg/h (máximo 2400 mg/dia)"
       ],
       "stability": [
-        "Após diluição: 7 dias à temperatura ambiente em NaCl 0,9%, Glicose (5-10%) ou Ringer Lactato"
+        "Após diluição: 7 dias à temperatura ambiente em Cloreto de sódio 0,9%, Glicose (5-10%) ou Ringer Lactato"
       ],
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade à substância ativa",
-        "Ajuste Renal (ClCr < 50 ml/min): Reduzir dose diária em 25% (ClCr 30-49), 50% (ClCr 5-29) ou 66% (ClCr 0-4)",
+        "Ajuste Renal (Depuração da Creatinina menor ou igual a 50 ml/min): Reduzir dose diária em 25% (Depuração da Creatinina 30-49), 50% (Depuração da Creatinina 5-29) ou 66% (Depuração da Creatinina 0-4)",
         "Precaução em doentes de meia-idade ou idosos com sintomas dispépticos novos (pode mascarar cancro gástrico)"
       ],
       "nursingCare": [
-        "Nunca administrar por via IV rápida (< 5 min): risco de arritmias, paragem cardíaca e hipotensão",
+        "Nunca administrar por via Endovenosa rápida (menor que 5 min): risco de arritmias, paragem cardíaca e hipotensão",
         "Incompatibilidade física com pentobarbital: a mistura resulta em precipitação imediata",
         "Administrar preferencialmente após a hemodiálise (níveis reduzidos pela diálise)",
         "Vigiar estado mental: pode ocorrer confusão reversível, especialmente em idosos ou doentes graves",
@@ -1539,7 +1558,7 @@
         "Glicose a 5% e a 10%",
         "Solução de Ringer",
         "Solução de Ringer lactato",
-        "Glicose 5% com Cloreto de Sódio (0,225% ou 0,45%)"
+        "Glicose a 5% com Cloreto de Sódio (0,225% ou 0,45%)"
       ],
       "presentationAndStorage": [
         "2 mg/ml solução para perfusão (sacos ou frascos de 50, 100 ou 200 ml)",
@@ -1640,7 +1659,7 @@
         "Não são necessárias precauções especiais de conservação"
       ],
       "preparation": [
-        "Via Endovenosa Perfusão: 10 ml de água p.p.i"
+        "Via Endovenosa Perfusão: 10 ml de Água para Preparação de Injetáveis"
       ],
       "administration": [
         "Via Endovenosa Perfusão: diluir em 250 ml e administrar em 60 minutos"
@@ -1654,7 +1673,7 @@
       ],
       "nursingCare": [
         "Vigilância cuidadosa dos acessos venosos pelo risco marcado de flebites",
-        "Não deve ser administrada sob a forma de bólus ou por injeção Intramuscular",
+        "Não deve ser administrada sob a forma de Bólus ou por injeção Intramuscular",
         "Não dialisável por hemodiálise ou diálise peritoneal"
       ]
     },
@@ -1682,11 +1701,11 @@
         "Não refrigerar ou congelar (pode originar cristais)"
       ],
       "preparation": [
-        "Via Endovenosa Perfusão: diluir até uma concentração ≤ 12 mg/ml"
+        "Via Endovenosa Perfusão: diluir até uma concentração menor ou igual 12 mg/ml"
       ],
       "administration": [
         "Via Intramuscular: não exceder 600 mg por injeção",
-        "Via Endovenosa Perfusão: não administrar em bólus",
+        "Via Endovenosa Perfusão: não administrar em Bólus",
         "Velocidade de perfusão: não exceder 30 mg/minuto (mínimo 10-60 minutos)"
       ],
       "stability": [
@@ -1703,11 +1722,11 @@
       "nursingCare": [
         "Risco elevado de colite pseudomembranosa grave (suspender imediatamente se ocorrer diarreia)",
         "Monitorizar função renal e hepática em tratamentos prolongados ou com outros fármacos nefrotóxicos",
-        "Injeção IM deve ser profunda para minimizar dor e irritação",
+        "Injeção Intramuscular deve ser profunda para minimizar dor e irritação",
         "Injeção EV rápida pode causar paragem cardiorrespiratória e hipotensão",
         "Antagonismo in vitro com eritromicina: evitar associação concomitante",
         "Potencia o efeito de bloqueadores neuromusculares",
-        "Monitorizar INR em doentes medicados com antagonistas da vitamina K (risco de hemorragia)"
+        "Monitorizar Rácio Normalizado Internacional em doentes medicados com antagonistas da vitamina K (risco de hemorragia)"
       ]
     },
     "clomipramina-cloridrato": {
@@ -1751,7 +1770,7 @@
       ],
       "nursingCare": [
         "Risco de choque anafilático na administração Endovenosa",
-        "Monitorizar tensão arterial (risco de hipotensão postural) e ECG (especialmente em idosos)",
+        "Monitorizar Tensão Arterial (risco de hipotensão postural) e Eletrocardiograma (especialmente em idosos)",
         "Vigilância rigorosa do risco de suicídio e ideação suicida, especialmente no início do tratamento",
         "Evitar a descontinuação abrupta (risco de sintomas de privação/abstinência)",
         "Idosos são mais sensíveis aos efeitos anticolinérgicos, neurológicos e cardiovasculares",
@@ -1792,7 +1811,7 @@
         "Via Intramuscular: administração profunda",
         "Via Endovenosa direta: administração muito lenta numa veia de grande calibre",
         "Via Endovenosa Perfusão: diluir em solução compatível",
-        "Dose Agitação: 20 a 200 mg/dia; Tétano: 120 mg a 2000 mg/dia (infusão IV)",
+        "Dose Agitação: 20 a 200 mg/dia; Tétano: 120 mg a 2000 mg/dia (infusão Endovenosa)",
         "Deve estar disponível equipamento de reanimação"
       ],
       "stability": [
@@ -1832,7 +1851,7 @@
         "Cloreto de sódio 0,9%"
       ],
       "presentationAndStorage": [
-        "25 mg/5 ml (IM); 50 mg/2 ml (IV) solução injetável",
+        "25 mg/5 ml (Intramuscular); 50 mg/2 ml (Endovenosa) solução injetável",
         "Conservar na embalagem de origem para proteger da luz"
       ],
       "preparation": [
@@ -1842,16 +1861,16 @@
         "Via Intramuscular: injeção profunda no quadrante supero-externo da nádega",
         "Via Endovenosa: sempre por perfusão (diluída) ou no tubo da perfusão à distância do vaso",
         "Adultos: 25 a 50 mg por injeção; Máx 150 mg/dia",
-        "Idosos (≥65 anos): Evitar via parentérica; se necessário usar metade da dose"
+        "Idosos (maior ou igual a 65 anos): Evitar via parentérica; se necessário usar metade da dose"
       ],
       "stability": [
         "Inutilizar soluções que apresentem alteração da cor"
       ],
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade a fenotiazinas",
-        "Coma, depressão grave do SNC e antecedentes de depressão da medula óssea",
+        "Coma, depressão grave do Sistema Nervoso Central e antecedentes de depressão da medula óssea",
         "Risco de glaucoma de ângulo estreito e retenção urinária",
-        "Contraindicado em crianças < 1 ano (risco de síndrome de morte súbita infantil)",
+        "Contraindicado em crianças menor que 1 ano (risco de síndrome de morte súbita infantil)",
         "Precaução em: epilepsia (baixo limiar convulsivo), Parkinson, insuficiência renal/hepática e doenças cardiovasculares"
       ],
       "nursingCare": [
@@ -1945,15 +1964,15 @@
         "Conservar na embalagem de origem para proteger da luz"
       ],
       "preparation": [
-        "Via IM/IV: diluir o pó em 2 ml de água p.p.i. ou cloreto de sódio 0,9%",
-        "Para perfusão: diluir a dose em 10 a 50 ml de NaCl 0,9% para obter solução límpida",
-        "Nebulização: dissolver em 2-4 ml de NaCl 0,9% ou água p.p.i."
+        "Via Intramuscular/Endovenosa: diluir o pó em 2 ml de Água para Preparação de Injetáveis ou cloreto de sódio 0,9%",
+        "Para perfusão: diluir a dose em 10 a 50 ml de Cloreto de sódio 0,9% para obter solução límpida",
+        "Nebulização: dissolver em 2-4 ml de Cloreto de sódio 0,9% ou Água para Preparação de Injetáveis"
       ],
       "administration": [
         "Via Intramuscular: injeção profunda (glúteo ou deltoide)",
         "Via Endovenosa Direta: diluir em 10 ml e administrar em pelo menos 5 minutos",
         "Via Endovenosa Perfusão: administrar em 30 a 60 minutos",
-        "Adultos: 9 M.U.I/dia divididos em 2-3 doses (dose de carga de 9 Mui em doentes críticos)"
+        "Adultos: 9 Milhões de Unidades Internacionais/dia divididos em 2-3 doses (dose de carga de 9 Milhões de Unidades Internacionais em doentes críticos)"
       ],
       "stability": [
         "Após reconstituição: 8 horas a 25ºC ou 24 horas no frigorífico (2ºC-8ºC)"
@@ -1961,14 +1980,14 @@
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade ao colistimetato ou polimixinas",
         "Miastenia gravis (risco de agravamento)",
-        "Precaução em: insuficiência renal (exige ajuste de dose), porfíria, asma e crianças < 1 ano",
+        "Precaução em: insuficiência renal (exige ajuste de dose), porfíria, asma e crianças menor que 1 ano",
         "Vigiar risco de síndrome de pseudo-Bartter (espasmos, fadiga, poliúria)"
       ],
       "nursingCare": [
         "Risco elevado de nefrotoxicidade e neurotoxicidade (dose-dependente)",
         "Monitorizar função renal regularmente; vigiar débito urinário, ureia e creatinina",
         "Vigiar efeitos neurológicos: tonturas, confusão, parestesia facial e visão turva",
-        "Evitar a monoterapia por via IV para prevenir o desenvolvimento de resistências",
+        "Evitar a monoterapia por via Endovenosa para prevenir o desenvolvimento de resistências",
         "Nebulização: pode induzir tosse ou broncoespasmo; pode ser prevenido com beta2-agonistas",
         "Na nebulização a solução pode fazer espuma se agitada; usar em sala bem ventilada",
         "Interação: Risco aumentado de danos renais com outros fármacos nefrotóxicos",
@@ -2008,7 +2027,7 @@
         "Via Intramuscular",
         "Via Endovenosa lenta: administrar durante 2-3 minutos (evitar parestesias)",
         "Via Endovenosa Perfusão lenta: gota a gota",
-        "Dose Covid-19: 6 mg IV uma vez por dia (até 10 dias)"
+        "Dose Covid-19: 6 mg Endovenosa uma vez por dia (até 10 dias)"
       ],
       "stability": [
         "Após abertura: Uso imediato",
@@ -2021,11 +2040,11 @@
         "Injeção intra-articular contraindicada em: infeções locais, instabilidade articular e tendência hemorrágica"
       ],
       "nursingCare": [
-        "Evitar descontinuação abrupta após tratamentos > 10 dias (risco de insuficiência suprarrenal aguda)",
+        "Evitar descontinuação abrupta após tratamentos maior que 10 dias (risco de insuficiência suprarrenal aguda)",
         "Monitorizar glicemia (redução da tolerância à glucose) e níveis de potássio (risco de arritmias)",
         "A dexametasona pode mascarar sinais de infeção ou ativar infeções latentes (tuberculose, nematoides)",
         "Vigilância de sintomas psiquiátricos: euforia, depressão, insónia, psicose e alucinações",
-        "Risco de úlcera péptica e hemorragia gastrointestinal (especialmente se associado a AINEs)",
+        "Risco de úlcera péptica e hemorragia gastrointestinal (especialmente se associado a Anti-inflamatórios não esteroides)",
         "Pode ocorrer uma descoloração amarelada da solução que não afeta a sua qualidade",
         "Interação: Efedrina e indutores do CYP3A4 (rifampicina, fenitoína) reduzem o efeito corticoide",
         "Interação: Macrólidos podem aumentar o risco de efeitos indesejáveis sistémicos",
@@ -2052,7 +2071,7 @@
       "presentationAndStorage": [
         "10 mg/2 ml solução injetável",
         "Conservar a temperatura inferior a 25ºC",
-        "Infarmed (RCM): Conservar no frigorífico (2ºC – 8ºC)"
+        "Infarmed (Resumo das Características do Medicamento): Conservar no frigorífico (2ºC – 8ºC)"
       ],
       "preparation": [
         "Solução injetável pronta"
@@ -2064,7 +2083,7 @@
         "Estado epilético: Máximo 3 mg/kg em 24 horas"
       ],
       "stability": [
-        "Após diluição: 24 horas para concentrações ≥ 1:50; 4 horas para concentrações = 1:20 e 6-8 horas para concentrações = 1:40",
+        "Após diluição: 24 horas para concentrações maior ou igual 1:50; 4 horas para concentrações = 1:20 e 6-8 horas para concentrações = 1:40",
         "Após diluição para perfusão: 48 horas a aproximadamente 25ºC"
       ],
       "contraindicationsAndPrecautions": [
@@ -2075,13 +2094,13 @@
         "Insuficiência hepática grave"
       ],
       "nursingCare": [
-        "Tem ação depressora sobre Sistema nervoso central, podendo produzir sedação e sonolência indesejáveis durante o dia",
+        "Tem ação depressora sobre Sistema Nervoso Central, podendo produzir sedação e sonolência indesejáveis durante o dia",
         "Devem ser administradas doses reduzidas aos idosos e doentes com insuficiência hepática",
-        "O Flumazenil pode ser utilizado como antídoto",
+        "O Flumazenilo pode ser utilizado como antídoto",
         "Não deve ser misturado com outras substâncias além das descritas, mas pode ser injectado lentamente no sistema de perfusão, o mais próximo possível do local de inserção da punção venosa",
         "Deve evitar-se o contacto com Policloreto de vinilo bem como o seu acondicionamento em seringas de plástico, pelo fato de haver absorção do fármaco",
         "Administrado por via Intramuscular, a sua absorção é irregular e a injeção dolorosa, podendo causar eritema",
-        "Deve-se injectar profundamente no músculo deltóide para o máximo de absorção",
+        "Deve-se injectar profundamente no músculo deltoide para o máximo de absorção",
         "Não utilizar veias de pequeno calibre (risco de trombose venosa e flebite)",
         "Não é dialisável por hemodiálise nem por diálise peritoneal"
       ]
@@ -2111,16 +2130,16 @@
       ],
       "administration": [
         "Via Intramuscular: contra-indicada por estar associada a necrose muscular, contudo pode ser administrada por via Intramuscular profunda seguida de massagem no local da injeção",
-        "Via Endovenosa Direta: administrar diretamente ou diluir num volume 4 vezes ou mais das substâncias acima descritas e administrar lentamente ≥ 5 minutos",
+        "Via Endovenosa Direta: administrar diretamente ou diluir num volume 4 vezes ou mais das substâncias acima descritas e administrar lentamente maior ou igual 5 minutos",
         "Via Endovenosa Perfusão: diluir 0,5 mg em 500 ml",
-        "Ao mudar da via oral para IV, a dose deve ser reduzida em aproximadamente 33%"
+        "Ao mudar da via oral para Endovenosa, a dose deve ser reduzida em aproximadamente 33%"
       ],
       "stability": [
         "Após diluição: 48 horas à temperatura ambiente (quando se dilui 1 ampola em 500 ml de solução de perfusão)"
       ],
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade à digoxina, a outros glicósidos digitálicos ou a qualquer dos excipientes",
-        "Estenose subaórtica hipertrófica idiopática, no bloqueio cardíaco completo intermitente ou no bloqueio Auriculoventricular de segundo grau, especialmente em doentes com história clínica de síndrome de Stockes-Adams",
+        "Estenose subaórtica hipertrófica idiopática, no bloqueio cardíaco completo intermitente ou no bloqueio Auriculoventricular de segundo grau, especialmente em doentes com história clínica de síndrome de Stokes-Adams",
         "Arritmias causadas por intoxicação com glicósidos cardíacos",
         "Taquicardia ventricular ou fibrilhação ventricular",
         "Cardiomiopatia hipertrófica obstrutiva"
@@ -2131,7 +2150,7 @@
         "Avaliação periódica dos valores dos electrólitos séricos e função renal",
         "As arritmias poderão ser precipitadas por toxicidade da digoxina",
         "Interação: Bloqueadores beta podem aumentar o tempo de condução auriculoventricular",
-        "Cálcio IV pode produzir arritmias graves em doentes a tomar digitálicos",
+        "Cálcio Endovenoso pode produzir arritmias graves em doentes a tomar digitálicos",
         "A diálise não é eficaz na remoção da digoxina do organismo",
         "A utilização de uma diluição inferior a 1:4 pode originar precipitado"
       ]
@@ -2160,7 +2179,7 @@
       ],
       "administration": [
         "Via Endovenosa Perfusão Contínua: diluir num volume mínimo de 50 ml",
-        "Dose pediátrica: Inicial 5 µg/kg/min; ajustada conforme resposta entre 2-20 µg/kg/min"
+        "Dose pediátrica: Inicial 5 mcg/kg/min; ajustada conforme resposta entre 2-20 mcg/kg/min"
       ],
       "stability": [
         "Após diluição: 24 horas",
@@ -2180,7 +2199,7 @@
         "Incompatível com soluções alcalinas",
         "Pode provocar caliémia",
         "Não se aconselha uma paragem abrupta da terapêutica com dobutamina",
-        "Não se recomendam doses de carga ou injeção de bólus",
+        "Não se recomendam doses de carga ou injeção de Bólus",
         "É fotossensível",
         "Deve-se utilizar seringa infusora para que se verifique controlo rigoroso da dose administrada",
         "Não eliminado por hemodiálise ou diálise peritoneal",
@@ -2213,7 +2232,7 @@
       "administration": [
         "Via Intramuscular",
         "Via Endovenosa: administrar lentamente",
-        "Prevenção e tratamento de NVPO: 0,625 mg a 1,25 mg"
+        "Prevenção e tratamento de Náuseas e Vómitos Pós-Operatórios: 0,625 mg a 1,25 mg"
       ],
       "stability": [
         "Após diluição: 7 dias se acondicionado em frascos de vidro, se conc. = 0,02 mg/ml"
@@ -2233,7 +2252,7 @@
       "nursingCare": [
         "Utilizado para tratamento de náuseas e vómitos marcados",
         "Pode provocar efeitos extrapiramidais do tipo parkinsonismo ou discinésia",
-        "Monitorização com oximetria de pulso contínua durante 30 minutos após administração IV única em doentes de risco",
+        "Monitorização com oximetria de pulso contínua durante 30 minutos após administração Endovenosa única em doentes de risco",
         "Os doentes não devem conduzir ou utilizar máquinas durante 24 horas após a administração",
         "Não se conhece nenhum antídoto específico. No entanto, quando surgirem reacções extrapiramidais, deve administrar-se um anticolinérgico",
         "Não é dialisável por hemodiálise ou diálise peritoneal"
@@ -2262,20 +2281,20 @@
         "Conservar à temperatura ambiente e ao abrigo da luz"
       ],
       "preparation": [
-        "Via Endovenosa Perfusão Intermitente/Contínua: 20 ml água p.p.i",
-        "Reconstituir apenas com Água para Preparações Injetáveis sem conservantes ou sais (outros solventes causam precipitação)",
+        "Via Endovenosa Perfusão Intermitente/Contínua: 20 ml Água para Preparação de Injetáveis",
+        "Reconstituir apenas com Água para Preparação de Injetáveis sem conservantes ou sais (outros solventes causam precipitação)",
         "Após reconstituição, a solução contém 50 mg de eritromicina base por ml"
       ],
       "administration": [
         "Via Endovenosa Perfusão Intermitente: diluir a reconstituição em 200-250 ml e perfundir durante 20-60 minutos",
         "Via Endovenosa Perfusão Contínua: diluir em 500-1000 ml e administrar em 8 horas",
-        "Nunca administrar por via Endovenosa Bólus (risco de prolongamento QT e arritmias)"
+        "Nunca administrar por via Endovenosa Bólus (risco de prolongamento do intervalo QT e arritmias)"
       ],
       "stability": [
         "Após reconstituição: 24 horas à temperatura ambiente de 25ºC, 14 dias no frigorífico entre 2ºC e 8ºC",
-        "Infarmed (FI/RCM): Após reconstituição estável 2 dias no frigorífico ou 24 horas a temperatura inferior a 25ºC",
+        "Infarmed (Folheto Informativo/Resumo das Características do Medicamento): Após reconstituição estável 2 dias no frigorífico ou 24 horas a temperatura inferior a 25ºC",
         "Após diluição: 8 horas",
-        "Após diluição (NaCl 0,9% ou Ringer Lactato): 12 horas a temperatura inferior a 25ºC"
+        "Após diluição (Cloreto de sódio 0,9% ou Lactato de Ringer): 12 horas a temperatura inferior a 25ºC"
       ],
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade à eritromicina, aos antibióticos macrólidos ou a qualquer outro componente da eritromicina",
@@ -2284,10 +2303,10 @@
         "Co-administração com terfenadina, astemizol, cisaprida, pimozida, ergotamina ou dihidroergotamina"
       ],
       "nursingCare": [
-        "A injeção por bólus via Endovenosa está contra-indicada; deve ser utilizado unicamente por perfusão contínua ou intermitente",
+        "A injeção por Bólus via Endovenosa está contra-indicada; deve ser utilizado unicamente por perfusão contínua ou intermitente",
         "A administração Intramuscular não é recomendada",
         "A solução final de lactobionato de Eritromicina para administração Endovenosa deverá ser completamente administrada num período de 8 horas, uma vez que não é adequada para conservação",
-        "Risco de perda de audição (ototoxicidade) com doses ≥ 4 g/dia, especialmente em insuficiência renal ou hepática",
+        "Risco de perda de audição (ototoxicidade) com doses maior ou igual 4 g/dia, especialmente em insuficiência renal ou hepática",
         "Não se deve administrar qualquer outro produto na veia que esteja a receber uma perfusão de eritromicina",
         "Não é removida de forma eficiente quer por hemodiálise quer por diálise peritoneal",
         "Vigilância de flebites, por ser muito agressivo, pelo que a substituição por Via oral deve acontecer o mais rápido possível",
@@ -2312,16 +2331,16 @@
         "Cloreto de sódio 0,9%"
       ],
       "presentationAndStorage": [
-        "1gr pó para concentrado para solução para perfusão",
+        "1 g pó para concentrado para solução para perfusão",
         "Não conservar acima dos 25ºC"
       ],
       "preparation": [
-        "Via Endovenosa Perfusão: 10 ml de água p.p.i. ou cloreto de sódio 0,9%",
+        "Via Endovenosa Perfusão: 10 ml de Água para Preparação de Injetáveis ou cloreto de sódio 0,9%",
         "Reconstituir o frasco de 1 g com 10 ml de solvente para obter aprox. 100 mg/ml; agitar bem"
       ],
       "administration": [
         "Via Endovenosa Perfusão: diluir em 50 ml e administrar em 30 minutos",
-        "Adultos e adolescentes (≥ 13 anos): 1 g uma vez por dia"
+        "Adultos e adolescentes (maior ou igual a 13 anos): 1 g uma vez por dia"
       ],
       "stability": [
         "Após diluição: 6 horas à temperatura ambiente e 24 horas no frigorífico"
@@ -2333,7 +2352,7 @@
       "nursingCare": [
         "A sua concentração em sódio deve ser tida em conta nos doentes com restrição de ingestão de sódio",
         "Vigilância cuidadosa dos acessos periféricos pelo risco de flebites",
-        "Risco de convulsões, especialmente em idosos e doentes com lesões preexistentes do SNC",
+        "Risco de convulsões, especialmente em idosos e doentes com lesões preexistentes do Sistema Nervoso Central",
         "Não administrar medicamentos que inibam o peristaltismo em caso de diarreia",
         "Dor no local da perfusão",
         "Deve-se agitar bem para dissolver",
@@ -2355,7 +2374,7 @@
       "compatibility": [
         "Cloreto de sódio a 0,45% e 0,9%",
         "Glicose a 5%",
-        "Glicose 5% em lactato ringer"
+        "Glicose a 5% em lactato ringer"
       ],
       "presentationAndStorage": [
         "2500 mg/10 ml solução para perfusão",
@@ -2435,10 +2454,10 @@
       "nursingCare": [
         "Em perfusão contínua, utilizar seringas e sistemas opacos",
         "Monitorizar doentes com sintomas de alarme (perda ponderal, vómitos recorrentes) para excluir neoplasias",
-        "Tratamento prolongado (> 3 meses) pode causar hipomagnesemia grave; monitorizar níveis de magnésio",
+        "Tratamento prolongado (maior que 3 meses) pode causar hipomagnesemia grave; monitorizar níveis de magnésio",
         "Risco de fraturas ósseas em tratamentos de longa duração ou doses elevadas",
         "Pode reduzir a absorção da vitamina B12",
-        "Vigiar sinais de reações cutâneas graves (Síndrome de Stevens-Johnson, NET)"
+        "Vigiar sinais de reações cutâneas graves (Síndrome de Stevens-Johnson, Necrólise Epidérmica Tóxica)"
       ]
     },
     "estreptomicina": {
@@ -2456,13 +2475,13 @@
         "Cloreto de sódio 0,9%"
       ],
       "presentationAndStorage": [
-        "1gr pó e solvente para solução injetável",
+        "1 g pó e solvente para solução injetável",
         "Conservar a temperatura inferior a 20ºC",
         "Conservar na embalagem de origem para proteger da luz"
       ],
       "preparation": [
-        "Via Intramuscular: 4 ml de água p.p.i",
-        "Via Endovenosa Perfusão: 10 ml de água p.p.i. ou cloreto de sódio 0,9%"
+        "Via Intramuscular: 4 ml de Água para Preparação de Injetáveis",
+        "Via Endovenosa Perfusão: 10 ml de Água para Preparação de Injetáveis. ou cloreto de sódio 0,9%"
       ],
       "administration": [
         "Via Intramuscular: administrar profundamente no músculo glúteo",
@@ -2572,7 +2591,7 @@
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade à(s) substância(s) ativa(s) ou a qualquer dos excipientes",
         "Hipersensibilidade ao etomidato, soja ou amendoim",
-        "Não recomendado em bebés com idade inferior a 6 meses (exceto em emergência hospitalar)",
+        "Não recomendado em bebés com idade maior ou igual a 6 meses (exceto em emergência hospitalar)",
         "Deficiência congénita na produção do heme (porfiria)"
       ],
       "nursingCare": [
@@ -2612,11 +2631,11 @@
         "Não deve ser misturada com outras soluções (risco de precipitação)"
       ],
       "administration": [
-        "Apenas para uso intravenoso (absorção IM é retardada e não fiável)",
+        "Apenas para uso intravenoso (absorção Intramuscular é retardada e não fiável)",
         "Via Intramuscular: apenas quando via Endovenosa não está disponível",
-        "Via Endovenosa: administrar lentamente a uma velocidade ≤ 50 mg/min",
+        "Via Endovenosa: administrar lentamente a uma velocidade menor ou igual a 50 mg/min",
         "Via Endovenosa Perfusão: diluir na concentração de 1:10 mg/ml e administrar em 30 minutos",
-        "Velocidade de administração IV (Recém-nascidos): 1-3 mg/kg/minuto"
+        "Velocidade de administração Endovenosa (Recém-nascidos): 1-3 mg/kg/minuto"
       ],
       "stability": [
         "2 horas à temperatura ambiente",
@@ -2633,9 +2652,9 @@
         "É utilizado também no tratamento de arritmias auriculares ou ventriculares associadas a intoxicação pelos digitálicos",
         "A via Intramuscular não é recomendada para o tratamento do estado epiléptico devido à lenta absorção e ao atraso resultante na obtenção de níveis séricos de fenitoína dentro dos limites terapêuticos",
         "A injeção Intra-arterial deve ser evitada devido ao pH da solução ser elevado (pH ~12)",
-        "Quando administrado Endovenosa direto deverá ser numa veia de grande calibre e através de uma agulha de diâmetro largo; devido à alcalinidade da solução, a injeção de fenitoína deve ser seguida de uma injeção de soro fisiológico estéril, através da mesma agulha ou cateter, para evitar a irritação local da veia",
+        "Quando administrado Endovenosa direto deverá ser numa veia de grande calibre e através de uma agulha de diâmetro largo; devido à alcalinidade da solução, a injeção de fenitoína deve ser seguida de uma injeção de Cloreto de sódio 0,9% estéril, através da mesma agulha ou cateter, para evitar a irritação local da veia",
         "Risco de necrose tecidular grave por extravasamento",
-        "Monitorização obrigatória: ECG, Tensão arterial e estado neurológico durante administração",
+        "Monitorização obrigatória: Eletrocardiograma, Tensão arterial e estado neurológico durante administração",
         "Vigiar sinais de toxicidade: nistagmo, ataxia, disartria",
         "Só deve ser administrada uma solução límpida (coloração ligeiramente amarelada é aceitável)",
         "Por via Endovenosa deve ser usado com precaução nos doentes com hipotensão e insuficiência miocárdica grave",
@@ -2713,7 +2732,7 @@
       ],
       "preparation": [
         "Solução injetável pronta",
-        "Pode ser administrado não diluído (injeção IV) ou diluído em cloreto de sódio 0,9%",
+        "Pode ser administrado não diluído (injeção Endovenosa) ou diluído em cloreto de sódio 0,9%",
         "Diluir EXCLUSIVAMENTE em cloreto de sódio 0,9% (outros solventes podem causar precipitação)"
       ],
       "administration": [
@@ -2723,7 +2742,7 @@
       ],
       "stability": [
         "Uso imediato",
-        "Após diluição (NaCl 0,9%): 72 horas a 25ºC"
+        "Após diluição (Cloreto de sódio 0,9%): 72 horas a 25ºC"
       ],
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade às substâncias ativas",
@@ -2748,7 +2767,7 @@
         "Utilizar recipientes de vidro ou polietileno",
         "Evitar o extravasamento (pode causar coloração castanha da pele e irritação tecidular)",
         "A sua concentração de sódio deve ser tida em conta nos doentes com ingestão controlada de sódio",
-        "Interação: Ferro oral não deve ser iniciado antes de 5 dias após a última administração IV",
+        "Interação: Ferro oral não deve ser iniciado antes de 5 dias após a última administração Endovenosa",
         "Um armazenamento incorrecto pode provocar formação de sedimentos visíveis a olho nu"
       ]
     },
@@ -2829,7 +2848,7 @@
       "administration": [
         "Via Endovenosa: administrar lentamente durante pelo menos 30 segundos",
         "Via Endovenosa Perfusão: diluir em 55 ml de glicose a 5%",
-        "Pode ser injetada na parte inferior de um dispositivo de perfusão durante perfusão contínua de NaCl 0,9% ou Glicose 5%",
+        "Pode ser injetada na parte inferior de um dispositivo de perfusão durante perfusão contínua de Cloreto de sódio 0,9% ou Glicose a 5%",
         "Pode ser administrado Via oral, retirando-se da ampola a quantidade pretendida, colocando diretamente na boca, devendo-se engolir com a ajuda de água"
       ],
       "stability": [
@@ -2845,7 +2864,7 @@
       ],
       "nursingCare": [
         "Vitamina K1 é antídoto de anticoagulantes cumarínicos (ex: varfarina) mas NÃO da heparina",
-        "Monitorizar INR após administração, especialmente em doentes com função hepática alterada",
+        "Monitorizar Rácio Normalizado Internacional após administração, especialmente em doentes com função hepática alterada",
         "A ação da Fitomenadiona pode ser afectada pela administração simultânea de medicamentos anticonvulsivantes",
         "Vigiar sinais de reações anafilactóides e flebite (raro)",
         "Não utilizar se a solução estiver turva ou com separação de fases",
@@ -2898,7 +2917,7 @@
         "Doença renal"
       ],
       "nursingCare": [
-        "Risco de reações cutâneas graves como Síndrome DRESS",
+        "Risco de reações cutâneas graves como Reação a Fármaco com Eosinofilia e Sintomas Sistémicos",
         "Monitorizar sinais de toxicidade hepática: icterícia, urina escura, cansaço, vómitos",
         "Ocasionalmente podem ocorrer tonturas",
         "Por conter sódio, a sua administração deve ser tida em conta em doentes com ingestão controlada de sódio",
@@ -2929,7 +2948,7 @@
       ],
       "preparation": [
         "Solução injetável pronta",
-        "Para perfusão: diluir em NaCl 0,9%, Glicose 5% ou Glicose 2,5% em NaCl 0,45%"
+        "Para perfusão: diluir em Cloreto de sódio 0,9%, Glicose a 5% ou Glicose 2,5% em Cloreto de sódio 0,45%"
       ],
       "administration": [
         "Via Endovenosa: administração rápida: 15 a 30 segundos",
@@ -2984,7 +3003,7 @@
         "Solução injetável pronta"
       ],
       "administration": [
-        "Via Endovenosa Perfusão: diluir e administrar com velocidade de perfusão <20mEq/L"
+        "Via Endovenosa Perfusão: diluir e administrar com velocidade de perfusão menor que 20mEq/L"
       ],
       "stability": [],
       "contraindicationsAndPrecautions": [
@@ -3057,7 +3076,7 @@
         "Administrações muito rápidas podem provocar ototoxicidade",
         "Deverão ser inutilizadas as soluções com cor amarela",
         "A furosemida é pouco dialisável em doentes sob tratamento com hemodiálise, diálise peritoneal ou diálise peritoneal ambulatorial crónica",
-        "Não diluir nem administrar em \"Y\" com glicose a 5% água porque provoca soluções com pH≥ 5,5",
+        "Não diluir nem administrar em \"Y\" com glicose a 5% água porque provoca soluções com pHmaior ou igual 5,5",
         "Não administrar juntamente com hidrato de cloral (risco de rubor, sudação e hipertensão)"
       ]
     },
@@ -3086,7 +3105,7 @@
       ],
       "preparation": [
         "Solução injetável pronta",
-        "Via IV: diluir em 100-200 ml de NaCl 0,9% ou Glicose 5% (pelo menos 1 ml para cada 1 mg)"
+        "Via Endovenosa: diluir em 100-200 ml de Cloreto de sódio 0,9% ou Glicose a 5% (pelo menos 1 ml para cada 1 mg)"
       ],
       "administration": [
         "Via Intramuscular: via de eleição; administração profunda no músculo glúteo",
@@ -3094,7 +3113,7 @@
         "Via Endovenosa Perfusão: diluir em 50-200 ml e administrar durante 30 a 120 minutos",
         "Adultos e crianças (função renal normal): 3-6 mg/kg/dia em 1 ou 2 doses",
         "Recém-nascidos: 4-7 mg/kg/dia em dose única",
-        "Bebés (> 1 mês): 4,5-7,5 mg/kg/dia em 1 ou 2 doses"
+        "Bebés (maior que 1 mês): 4,5-7,5 mg/kg/dia em 1 ou 2 doses"
       ],
       "stability": [
         "Após diluição: 24 horas à temperatura ambiente",
@@ -3187,8 +3206,8 @@
         "Via Intramuscular: injectar profundamente no músculo glúteo",
         "Via Endovenosa: injeção lenta",
         "Via Endovenosa Perfusão: diluir 5-10 mg em 100 ml e administrar em 30 minutos",
-        "Agitação psicomotora aguda: 5 mg IM; pode ser repetido a cada hora (máx 20 mg/dia)",
-        "Coreia na doença de Huntington: 2-5 mg IM; pode ser repetido a cada hora até controlo"
+        "Agitação psicomotora aguda: 5 mg Intramuscular; pode ser repetido a cada hora (máx 20 mg/dia)",
+        "Coreia na doença de Huntington: 2-5 mg Intramuscular; pode ser repetido a cada hora até controlo"
       ],
       "stability": [
         "Uso imediato"
@@ -3210,7 +3229,7 @@
         "O Haloperidol é excretado no leite materno",
         "Vigilância de sintomas motores extrapiramidais",
         "Risco aumentado de morte súbita em doentes idosos com psicose associada a demência",
-        "Pode verificar-se alteração do ritmo cardíaco com a utilização de doses elevadas; monitorizar ECG",
+        "Pode verificar-se alteração do ritmo cardíaco com a utilização de doses elevadas; monitorizar Eletrocardiograma",
         "Vigiar sinais de Síndrome Neuroléptica Maligna (hipertermia, rigidez muscular)",
         "Pode causar sedação ou diminuir o estado de alerta; precaução na condução",
         "No caso de tratamento concomitante com anticoagulantes o Haloperidol ratiopharm 5 mg/ml solução injetável não pode ser administrado por via Intramuscular",
@@ -3237,7 +3256,7 @@
       "presentationAndStorage": [
         "25000 U.I./5 ml solução injetável",
         "Conservar a temperatura inferior a 25ºC e ao abrigo da luz em local seco e fresco",
-        "Uma vez aberto o frasco, utilizar no prazo máximo de 28 dias (conservado < 30ºC)"
+        "Uma vez aberto o frasco, utilizar no prazo máximo de 28 dias (conservado menor que 30ºC)"
       ],
       "preparation": [
         "Solução injetável pronta"
@@ -3245,7 +3264,7 @@
       "administration": [
         "Via Subcutânea: administrar na parte superior do braço, da coxa ou no abdómen",
         "Via Endovenosa: sem diluição administrar num minuto",
-        "Via Endovenosa Perfusão Intermitente: 1000 UI/10-20 ml diluído e administrar de 15-30 minutos",
+        "Via Endovenosa Perfusão Intermitente: 1000 Unidades Internacionais/10-20 ml diluído e administrar de 15-30 minutos",
         "Via Endovenosa Perfusão Contínua: administrar por bomba infusora para precisão da dose",
         "Nunca administrar por via Intramuscular (risco de hematomas)"
       ],
@@ -3278,8 +3297,8 @@
         "Não utilizar material de Policloreto de vinilo, visto que há absorção (adere às paredes)",
         "O sulfato de Protamina é o seu antídoto",
         "Não eliminado por hemodiálise e diálise peritoneal",
-        "Vigiar o número de plaquetas regularmente (risco de HIT tipo II entre os dias 5 e 14)",
-        "Contém álcool benzílico: não administrar a recém-nascidos (< 4 semanas) salvo se essencial"
+        "Vigiar o número de plaquetas regularmente (risco de Trombocitopenia Induzida por Heparina tipo II entre os dias 5 e 14)",
+        "Contém álcool benzílico: não administrar a recém-nascidos (menor que 4 semanas) salvo se essencial"
       ]
     },
     "iloprost-trometamol": {
@@ -3331,7 +3350,7 @@
         "Podem ocorrer no local de perfusão vermelhidão e dor, ou uma vasodilatação cutânea que pode originar eritema estriado no local da veia da perfusão",
         "A sua administração é diária e com recurso a bombas de perfusão para controlo rigoroso da dose a administrar",
         "O contacto com a pele pode provocar eritemas persistentes, mas indolores, devendo-se lavar com água ou cloreto de sódio 0,9%",
-        "Evitar o contacto com a pele ou olhos; pode provocar eritemas persistentes mas indolores (lavar com água ou NaCl 0,9%)",
+        "Evitar o contacto com a pele ou olhos; pode provocar eritemas persistentes mas indolores (lavar com água ou Cloreto de sódio 0,9%)",
         "Recomendar firmemente que o doente deixe de fumar",
         "Vigiar risco de hipotensão ortostática no final da perfusão"
       ]
@@ -3365,7 +3384,7 @@
       ],
       "administration": [
         "Via Intramuscular: injectar profundamente numa grande massa muscular",
-        "Via Endovenosa Perfusão: diluir em 50 ml (250 mg) e em 100 ml (500 mg) e administrar durante 20-30 minutos para doses ≤500 mg/500 mg ou 40-60 minutos para doses ≥500 mg/500 mg",
+        "Via Endovenosa Perfusão: diluir em 50 ml (250 mg) e em 100 ml (500 mg) e administrar durante 20-30 minutos para doses menor ou igual a 500 mg/500 mg ou 40-60 minutos para doses maior ou igual a 500 mg/500 mg",
         "Adultos (função renal normal): 500/500 mg cada 6h ou 1000/1000 mg cada 6-8h",
         "Dose diária máxima: 4000 mg / 4000 mg"
       ],
@@ -3420,9 +3439,9 @@
         "Solução injetável pronta"
       ],
       "administration": [
-        "Via Endovenosa: administrar 50 mg num período ≥ 1 minuto",
+        "Via Endovenosa: administrar 50 mg num período maior ou igual 1 minuto",
         "Via Endovenosa Perfusão: diluir 200 mg em 200 ml com velocidade de perfusão 20 mg/h até 160 mg/h (se Hipertensão arterial na gravidez); 15 mg/h a 120 mg/h (se Hipertensão arterial após Enfarte agudo do miocárdio); 2 mg/min (para outras causas de Hipertensão arterial)",
-        "Dose total por injeção bólus não deverá exceder 200 mg",
+        "Dose total por injeção Bólus não deverá exceder 200 mg",
         "Na gravidez, a dose pode ser duplicada a cada 30 minutos até resposta ou atingir 160 mg/h"
       ],
       "stability": [
@@ -3477,9 +3496,9 @@
       ],
       "administration": [
         "Via Endovenosa Perfusão: diluir em 100 ml e administrar durante 15 minutos",
-        "Adultos e adolescentes (≥ 16 anos - Monoterapia): Inicial 250 mg 2x/dia; habitual 1000-3000 mg/dia",
-        "Crianças (4-11 anos) e adolescentes (< 50 kg - Adjuvante): 20-60 mg/kg/dia",
-        "Experiência com a administração IV limitada a 4 dias"
+        "Adultos e adolescentes (maior ou igual 16 anos - Monoterapia): Inicial 250 mg 2x/dia; habitual 1000-3000 mg/dia",
+        "Crianças (4-11 anos) e adolescentes (menor que 50 kg - Adjuvante): 20-60 mg/kg/dia",
+        "Experiência com a administração Endovenosa limitada a 4 dias"
       ],
       "stability": [
         "Após diluição: 24 horas, conservado em sacos de Policloreto de vinilo, à temperatura ambiente"
@@ -3622,11 +3641,11 @@
         "Cloreto de sódio 0,9%"
       ],
       "presentationAndStorage": [
-        "500µg pó e solvente para solução injetável ou perfusão",
+        "500 mcg pó e solvente para solução injetável ou perfusão",
         "Conservar no frigorífico e proteger da luz"
       ],
       "preparation": [
-        "Via Endovenosa/Via Endovenosa Perfusão: 5 ml de água p.p.i"
+        "Via Endovenosa/Via Endovenosa Perfusão: 5 ml de Água para Preparação de Injetáveis"
       ],
       "administration": [
         "Via Endovenosa: administrar lentamente durante 2 a 3 minutos",
@@ -3672,14 +3691,15 @@
         "0,2%, 0,5% e 0,8% solução injetável",
         "10 mg/ml (1%), 20 mg/ml (2%) ou 50 mg/ml (5%) solução injetável",
         "Não conservar acima de 30ºC",
-        "Infarmed (RCM): Não conservar acima de 25ºC"
+        "Infarmed (Resumo das Características do Medicamento): Não conservar acima de 25ºC"
       ],
       "preparation": [
         "Solução injetável pronta"
       ],
       "administration": [
-        "Via Subcutânea/IR",
-        "Via Intramuscular: administrar no músculo deltóide",
+        "Via Subcutânea",
+        "Via Intrarraquidiana",
+        "Via Intramuscular: administrar no músculo deltoide",
         "Via Endovenosa: administrar lentamente à velocidade de 25-50 mg/min",
         "Via Endovenosa Perfusão: diluir e administrar 2-4 mg/min",
         "Dose deve ser individualizada; usar a menor dose eficaz",
@@ -3696,7 +3716,7 @@
         "Contraindicado em anestesia epidural se houver hemorragia ou risco hemorrágico"
       ],
       "nursingCare": [
-        "A via Subcutânea e IR são usadas para administração como anestésico",
+        "A via Subcutânea e Intrarraquidiana são usadas para administração como anestésico",
         "A via Intramuscular deve ser usada apenas quando na via Endovenosa não é possível a monitorização de Eletrocardiograma",
         "Deve ser utilizado um dispositivo para controlo rigoroso da velocidade de perfusão",
         "A diálise não tem significado no tratamento da sobredosagem aguda",
@@ -3706,7 +3726,7 @@
         "Não associar a vasoconstritores para administração Endovenosa",
         "Em associação com a adrenalina tem efeito vasoconstritor local, sendo muito utilizado em pequena cirurgia",
         "Risco de dor de cabeça pós-epidural (mais comum em adolescentes e adultos até 30 anos)",
-        "Monitorizar para sinais de toxicidade do SNC: sensações ao redor da boca, formigueiro na língua, delírio",
+        "Monitorizar para sinais de toxicidade do Sistema Nervoso Central: sensações ao redor da boca, formigueiro na língua, delírio",
         "A lidocaína atravessa rapidamente a barreira placentária; monitorizar neonato (risco depressão Apgar)",
         "Interação: Propranolol, diltiazem e verapamil aumentam o risco de acumulação",
         "Precaução em doentes com Miastenia gravis"
@@ -3739,14 +3759,14 @@
       ],
       "administration": [
         "Via Endovenosa Perfusão: deve ser administrada num período de 30 a 120 minutos",
-        "Adultos (≥ 18 anos): 600 mg (300 ml) duas vezes por dia"
+        "Adultos (maior ou igual 18 anos): 600 mg (300 ml) duas vezes por dia"
       ],
       "stability": [
         "Uso imediato"
       ],
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade à linezolida ou a qualquer componente",
-        "Uso de inibidores da monoaminoxidase (IMAO) nas últimas 2 semanas",
+        "Uso de inibidores da monoaminoxidase (Inibidor da Monoamino Oxidase) nas últimas 2 semanas",
         "Contra-indicado no aleitamento",
         "Linezolida não é habitualmente recomendado para menores de 18 anos",
         "Especial atenção em casos de:",
@@ -3758,10 +3778,10 @@
         "Diarreia"
       ],
       "nursingCare": [
-        "Monitorizar hemograma (CBC) semanalmente (risco de mielosupressão: anemia, leucopenia, trombocitopenia)",
+        "Monitorizar hemograma semanalmente (risco de mielosupressão: anemia, leucopenia, trombocitopenia)",
         "Interação: Pode aumentar significativamente a pressão arterial se usado com pseudoephedrina",
         "Vigiar sinais de Síndrome serotoninérgica (especialmente em uso concomitante com ISRS)",
-        "Monitorizar a visão se o tratamento for prolongado (> 28 dias)",
+        "Monitorizar a visão se o tratamento for prolongado (maior que 28 dias)",
         "É dialisável por hemodiálise, mas existem dúvidas se o é por diálise peritoneal",
         "Gosto metálico na boca",
         "Risco acentuado de flebites, pelo que se aconselha vigilância cuidadosa dos acessos venosos",
@@ -3795,7 +3815,7 @@
       ],
       "preparation": [
         "Via Intramuscular: 2 ml de solvente (carbonato de sódio)",
-        "Via Endovenosa: 10 ml (500 mg); 20 ml (1000 mg) de água p.p.i",
+        "Via Endovenosa: 10 ml (500 mg); 20 ml (1000 mg) de Água para Preparação de Injetáveis",
         "Via Endovenosa Direta (Bólus): reconstituir em água para preparações injetáveis (50 mg/ml)"
       ],
       "administration": [
@@ -3803,7 +3823,7 @@
         "Via Endovenosa: administrar em pelo menos 5 minutos",
         "Via Endovenosa Perfusão: diluir em 100-200 ml e administrar em 15-30 minutos",
         "Adultos: 500 mg a 2000 mg a cada 8 horas conforme o tipo de infeção",
-        "Crianças (> 3 meses): 10 mg/kg a 40 mg/kg a cada 8 horas"
+        "Crianças (maior que 3 meses): 10 mg/kg a 40 mg/kg a cada 8 horas"
       ],
       "stability": [
         "Após reconstituição: 8 horas à temperatura ambiente; 48 horas no frigorífico",
@@ -3821,10 +3841,10 @@
         "Dialisável por hemodiálise, mas não por diálise peritoneal",
         "Não administrar a formulação Intramuscular por via Endovenosa",
         "Interação: Evitar uso concomitante com ácido valpróico (redução drástica dos níveis do antiepiléptico)",
-        "Risco de reações cutâneas adversas graves (SSJ, NET, DRESS)",
+        "Risco de reações cutâneas adversas graves (Síndrome de Stevens-Johnson, Necrólise Epidérmica Tóxica, Reação a Fármaco com Eosinofilia e Sintomas Sistémicos)",
         "Pode apresentar um teste de Coombs positivo",
         "Vigiar sinais de toxicidade hepática: icterícia, urina escura",
-        "Monitorizar para risco de convulsões, especialmente em doentes com lesões do SNC",
+        "Monitorizar para risco de convulsões, especialmente em doentes com lesões do Sistema Nervoso Central",
         "Vigiar sinais de colite pseudomembranosa"
       ]
     },
@@ -3856,7 +3876,7 @@
       "administration": [
         "Via Intramuscular: injeção profunda na massa muscular",
         "Via Endovenosa Perfusão: diluir em 50-100 ml e administrar durante 20-60 minutos",
-        "Adultos e adolescentes (≥ 15 anos): até 1000 mg em dose única; máx 5000 mg/dia",
+        "Adultos e adolescentes (maior ou igual 15 anos): até 1000 mg em dose única; máx 5000 mg/dia",
         "Crianças: 8-16 mg/kg em dose única"
       ],
       "stability": [
@@ -3879,7 +3899,7 @@
         "O principal metabolito pode ser eliminado através de hemodiálise, hemofiltração, hemoperfusão ou filtração do plasma",
         "Risco raro mas potencialmente fatal de agranulocitose (idiosincrático); vigiar febre e dores de garganta",
         "Vigiar sinais de lesão hepática (icterícia, urina escura) que podem surgir dias a meses após o início",
-        "Risco de reações cutâneas graves (SSJ, NET, DRESS)",
+        "Risco de reações cutâneas graves (Síndrome de Stevens-Johnson, Necrólise Epidérmica Tóxica, Reação a Fármaco com Eosinofilia e Sintomas Sistémicos)",
         "Embora não descrito, a administração oral da ampola de Metamizol Magnésico é muito eficaz no controlo da dor severa (sabor muito amargo)",
         "A administração Endovenosa directa deverá ser evitada pelo risco de hipotensão grave",
         "Uma administração Intra-arterial inadvertida poderá causar necrose da área vascular distal"
@@ -3913,10 +3933,10 @@
       ],
       "administration": [
         "Via Intramuscular",
-        "Via Endovenosa: doses inferiores a 250 mg administrar num período ≥ 5 minutos",
+        "Via Endovenosa: doses inferiores a 250 mg administrar num período maior ou igual 5 minutos",
         "Via Endovenosa Perfusão: para doses superiores a 250 mg e administrar em 30 minutos",
         "Via Endovenosa Perfusão Contínua: diluir no volume necessário e ajustar à situação",
-        "Situações fatais (Adjuvante): 30 mg/kg IV durante pelo menos 30 min; repetir a cada 4-6h até 48h"
+        "Situações fatais (Adjuvante): 30 mg/kg Endovenosa durante pelo menos 30 min; repetir a cada 4-6h até 48h"
       ],
       "stability": [
         "Após reconstituição/diluição: 48 horas, quando conservado a temperatura inferior a 25ºC",
@@ -3976,7 +3996,7 @@
         "Não deve ser administrado a doentes com hipotiroidismo, estados psicóticos, insuficiência cardíaca, diabetes mellitus ou glaucoma",
         "Não deverá ser diluída nem misturada com outras substâncias",
         "Não administrar via Endovenosa",
-        "A Metilprednisolona pode ser administrada via rectal sendo que se deve diluir a dose necessária em 30-300 ml de água e administrar sob a forma de enema de retenção ou gota a gota"
+        "A Metilprednisolona pode ser administrada via retal sendo que se deve diluir a dose necessária em 30-300 ml de água e administrar sob a forma de enema de retenção ou gota a gota"
       ]
     },
     "metoclopramida": {
@@ -4046,7 +4066,7 @@
       "aliases": [
         "Metronidazol Generis",
         "Metronidazol Labesfal",
-        "Metronidazol IV Braun",
+        "Metronidazol Endovenosa Braun",
         "Flagyl",
         "Metronidazol Basi"
       ],
@@ -4070,8 +4090,8 @@
       ],
       "administration": [
         "Via Endovenosa Perfusão: 100 ml em 20-30 minutos; 200 ml em 40-60 minutos",
-        "Adultos e crianças (> 12 anos): 7,5 mg/kg cada 8 horas",
-        "Crianças (< 12 anos): 7,5 mg/kg cada 8 horas",
+        "Adultos e crianças (maior que 12 anos): 7,5 mg/kg cada 8 horas",
+        "Crianças (menor que 12 anos): 7,5 mg/kg cada 8 horas",
         "Duração habitual do tratamento: até 10 dias"
       ],
       "stability": [
@@ -4079,7 +4099,7 @@
       ],
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade ao metronidazol, substância ativa, ou a outros medicamentos com compostos nitro-imidazólicos ou a qualquer outro componente deste medicamento",
-        "História clínica de doenças hematopoéticas, hepática e do Sistema nervoso central",
+        "História clínica de doenças hematopoéticas, hepática e do Sistema Nervoso Central",
         "Insuficiência hepática grave",
         "Recomenda-se precaução na administração em situações de discrasias hemorrágicas e insuficiência cardíaca congestiva e outros estados de retenção salina",
         "Contra-indicado no primeiro trimestre de gravidez"
@@ -4094,7 +4114,7 @@
         "Suspender o aleitamento ou rejeitar o leite materno durante 48 a 72 horas após o fim do tratamento",
         "Monitorizar função hepática em doentes com síndrome de Cockayne (risco de hepatotoxicidade fulminante)",
         "Pode causar sabor metálico na boca e urina escura",
-        "Interfere com a determinação espectrofotométrica da TGO (obtêm-se valores inferiores)"
+        "Interfere com a determinação espectrofotométrica da Transaminase Glutâmica Oxalacética (obtêm-se valores inferiores)"
       ]
     },
     "micafungina": {
@@ -4123,8 +4143,8 @@
       ],
       "administration": [
         "Via Endovenosa Perfusão: diluir em 100 ml e administrar durante 60 minutos",
-        "Adultos (> 40 kg): 100 mg/dia (candidíase invasiva) ou 150 mg/dia (candidíase esofágica)",
-        "Crianças e recém-nascidos (< 4 meses): 4-10 mg/kg/dia (candidíase invasiva)"
+        "Adultos (maior que 40 kg): 100 mg/dia (candidíase invasiva) ou 150 mg/dia (candidíase esofágica)",
+        "Crianças e recém-nascidos (menor que 4 meses): 4-10 mg/kg/dia (candidíase invasiva)"
       ],
       "stability": [
         "Após reconstituição: 48 horas à temperatura ambiente",
@@ -4137,7 +4157,7 @@
         "Vigilância cuidadosa dos acessos venosos pelo risco de flebites",
         "Monitorizar atentamente a função hepática (ALT, AST, bilirrubina); risco de tumores hepáticos observado em ratos",
         "Monitorizar função renal durante o tratamento",
-        "Vigiar sinais de reações anafiláticas ou cutâneas graves (SSJ, NET)",
+        "Vigiar sinais de reações anafiláticas ou cutâneas graves (Síndrome de Stevens-Johnson, Necrólise Epidérmica Tóxica)",
         "Interação: Pode aumentar a exposição a sirolímus, nifedipina e itraconazol",
         "Não há experiência de sobredosagens de micafungina",
         "Não é dialisável",
@@ -4179,9 +4199,9 @@
         "Via Intramuscular: injeção profunda na massa muscular",
         "Via Endovenosa: administrar lentamente: 1 mg/30seg",
         "Via Endovenosa Perfusão Contínua: diluir e ajustar velocidade de perfusão à necessidade",
-        "Sedação consciente (Adultos < 60 anos): Inicial 2-2,5 mg IV; total habitual 3,5-7,5 mg",
+        "Sedação consciente (Adultos menor que 60 anos): Inicial 2-2,5 mg Endovenosa; total habitual 3,5-7,5 mg",
         "Titular lentamente até obter o nível de sedação pretendido",
-        "Os doentes pediátricos < 6 meses requerem titulação com pequenos incrementos"
+        "Os doentes pediátricos menor que 6 meses requerem titulação com pequenos incrementos"
       ],
       "stability": [
         "Após diluição: 24 horas à temperatura ambiente",
@@ -4191,7 +4211,7 @@
         "Hipersensibilidade à substância ativa ou a qualquer outro componente deste medicamento",
         "Hipersensibilidade às benzodiazepinas",
         "Não utilizar para a sedação consciente em doentes com insuficiência respiratória grave ou depressão respiratória aguda",
-        "Contra-indicado no tratamento de recém-nascidos (< 6 meses) fora de ambiente hospitalar",
+        "Contra-indicado no tratamento de recém-nascidos (menor que 6 meses) fora de ambiente hospitalar",
         "Deve-se ter especial atenção aquando da administração a doentes com miastenia gravis",
         "Não diluir em Macrodex 6% ou misturar com soluções alcalinas"
       ],
@@ -4200,10 +4220,10 @@
         "O risco de dependência aumenta com a dose e com a duração do tratamento",
         "Causa amnésia anterógrada",
         "A administração Endovenosa pode deprimir a contractilidade do miocárdio e causar apneia",
-        "Pode ser administrado via rectal, introduzindo a solução das ampolas através de um aplicador de plástico; se o volume a administrar for pequeno, pode-se perfazer até 10 ml com água p.p.i",
+        "Pode ser administrado via retal, introduzindo a solução das ampolas através de um aplicador de plástico; se o volume a administrar for pequeno, pode-se perfazer até 10 ml com Água para Preparação de Injetáveis",
         "Deve-se providenciar monitorização e suporte da função respiratória e cardiovascular; ter equipamento de reanimação disponível",
         "Risco de incidentes cardiorrespiratórios graves (apneia, paragem cardíaca) se injetado muito rapidamente",
-        "Os bebés < 6 meses são particularmente vulneráveis à obstrução das vias aéreas e hipoventilação",
+        "Os bebés menor que 6 meses são particularmente vulneráveis à obstrução das vias aéreas e hipoventilação",
         "Não administrar com soluções alcalinas pelo risco de precipitação",
         "Pode ser administrada por via Subcutânea, nomeadamente em cuidados paliativos",
         "Não eliminado por hemodiálise nem diálise peritoneal",
@@ -4237,7 +4257,8 @@
         "Via Intramuscular",
         "Via Subcutânea",
         "Via Endovenosa: administrar lentamente",
-        "Via Endovenosa/IR Perfusão"
+        "Via Endovenosa Perfusão",
+        "Via Intrarraquidiana Perfusão"
       ],
       "stability": [
         "Uso imediato"
@@ -4357,7 +4378,7 @@
       "compatibility": [
         "Cloreto de sódio 0,9%",
         "Glicose a 5%",
-        "Glicose 5% em cloreto de sódio 0,9%"
+        "Glicose a 5% em cloreto de sódio 0,9%"
       ],
       "presentationAndStorage": [
         "1 mg/ml solução injetável",
@@ -4368,15 +4389,15 @@
         "Diluir com glucose a 5% em cloreto de sódio 0,9% para proteger contra a perda de potência por oxidação"
       ],
       "administration": [
-        "Via Endovenosa Perfusão: diluir o equivalente a 4 µg de base por ml",
-        "Adultos (Dose inicial): 8 a 12 µg (0,008 a 0,012 mg) por minuto",
-        "Adultos (Dose manutenção): 2 a 4 µg (0,002 a 0,004 mg) por minuto",
-        "Crianças (Hipotensão aguda): Inicialmente 2 µg/min ou 2 µg/m² por minuto",
-        "Crianças (Paragem cardíaca): Inicialmente 0,1 µg/kg/min",
+        "Via Endovenosa Perfusão: diluir o equivalente a 4 mcg de base por ml",
+        "Adultos (Dose inicial): 8 a 12 mcg (0,008 a 0,012 mg) por minuto",
+        "Adultos (Dose manutenção): 2 a 4 mcg (0,002 a 0,004 mg) por minuto",
+        "Crianças (Hipotensão aguda): Inicialmente 2 mcg/min ou 2 mcg/m² por minuto",
+        "Crianças (Paragem cardíaca): Inicialmente 0,1 mcg/kg/min",
         "Podem ser necessários até 68 mg (base) se o doente permanecer hipotenso; suspeitar de depleção oculta de volume"
       ],
       "stability": [
-        "Após diluição: 24 horas à temperatura ambiente se pH ≤ 5,6"
+        "Após diluição: 24 horas à temperatura ambiente se pH menor ou igual 5,6"
       ],
       "contraindicationsAndPrecautions": [
         "Não administrar a doentes com trombose vascular periférica ou mesentérica pelo risco de agravamento das lesões isquémicas",
@@ -4386,7 +4407,7 @@
       "nursingCare": [
         "Monitorização rigorosa dos sinais vitais; risco de Hipertensão arterial, taquicardia e arritmia",
         "Não perfundir em bifurcação com a soroterapia",
-        "Não fazer doses de carga ou injeção por bólus",
+        "Não fazer doses de carga ou injeção por Bólus",
         "Não dialisável por hemodiálise ou diálise peritoneal",
         "Em caso de extravasamento deverá infiltrar-se uma solução de procaína a 2% e 5 mg de fentolamina na zona onde se verificou a extravasão",
         "Deve utilizar-se um acesso central por ser muito agressivo para os acessos vasculares periféricos",
@@ -4423,7 +4444,7 @@
       ],
       "stability": [
         "Após diluição: 24 horas à temperatura ambiente",
-        "Conservado em sacos de Policloreto de vinilo pode ser conservado durante 7 dias a temperatura ≤ 25ºC"
+        "Conservado em sacos de Policloreto de vinilo pode ser conservado durante 7 dias a temperatura menor ou igual 25ºC"
       ],
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade ao Octreotido, ou a qualquer outro componente deste medicamento"
@@ -4467,7 +4488,7 @@
         "Via Endovenosa Perfusão: diluir em 100 ml e administrar durante 20-30 minutos"
       ],
       "stability": [
-        "Após reconstituição: 4 horas à temperatura ≤ 25ºC",
+        "Após reconstituição: 4 horas à temperatura menor ou igual 25ºC",
         "Apresentação para perfusão: 12 horas se diluído em cloreto de sódio 0,9% e 6 horas se diluído em glicose a 5%"
       ],
       "contraindicationsAndPrecautions": [
@@ -4521,7 +4542,7 @@
         "Em doentes que apresentem sinais de obstrução sub-aguda intestinal recomenda-se monitorização devido ao aumento do tempo em trânsito no intestino grosso induzido pelo Ondansetron",
         "Não deve ser administrado em crianças com idade inferior a 2 anos",
         "Em doentes sujeitos a intervenção cirúrgica às amígdalas recomenda-se precaução na administração de ondansetron pois este pode encobrir uma hemorragia oculta",
-        "Pode ser administrado por via Subcutânea, nomeadamente em CP",
+        "Pode ser administrado por via Subcutânea, nomeadamente em Cuidados Paliativos",
         "Não dialisável por hemodiálise ou diálise peritoneal"
       ]
     },
@@ -4549,7 +4570,7 @@
       "administration": [
         "Via Intramuscular",
         "Via Endovenosa: administrar lentamente",
-        "Via Endovenosa Perfusão: diluir 5 UI em 500 ml e 100UI em 1000 ml"
+        "Via Endovenosa Perfusão: diluir 5 UI em 500 ml e 100 UI em 1000 ml"
       ],
       "stability": [],
       "contraindicationsAndPrecautions": [
@@ -4577,17 +4598,17 @@
       ],
       "compatibility": [
         "Cloreto de Sódio 0,9%",
-        "Glicose 5%"
+        "Glicose a 5%"
       ],
       "presentationAndStorage": [
         "15 mg; 30 mg; 60 mg; 90 mg solução para perfusão",
         "Conservar a temperatura inferior a 25ºC na embalagem original"
       ],
       "preparation": [
-        "Via Endovenosa Perfusão: diluir 15 mg em 5 ml de água p.p.i. e 30 mg, 60 mg e 90 mg em 10 ml água p.p.i"
+        "Via Endovenosa Perfusão: diluir 15 mg em 5 ml de Água para Preparação de Injetáveis. e 30 mg, 60 mg e 90 mg em 10 ml Água para Preparação de Injetáveis"
       ],
       "administration": [
-        "Via Endovenosa Perfusão: diluir em ≥ 250 ml e administrar em cerca de 2 horas, em que a taxa de perfusão não deve exceder 60 mg/h"
+        "Via Endovenosa Perfusão: diluir em maior ou igual 250 ml e administrar em cerca de 2 horas, em que a taxa de perfusão não deve exceder 60 mg/h"
       ],
       "stability": [
         "Após reconstituição: 24 horas no frigorífico",
@@ -4601,7 +4622,7 @@
         "Em doentes com factores de risco concomitantes (por ex. cancro, quimioterapia, corticosteróides, higiene dentária deficiente), deverá considerar-se a realização de exame dentário com odontologia preventiva apropriada previamente ao tratamento com bifosfonatos. Durante o tratamento, estes doentes deverão evitar procedimentos dentários invasivos",
         "Durante o tratamento com Pamidronato pode ocorrer sonolência e/ou vertigem pelo que os doentes devem abster-se de conduzir, utilizar máquinas potencialmente perigosas, ou dedicar-se a outras actividades que se possam tornar arriscadas por diminuição da agilidade",
         "As ampolas de 6 ml contêm uma quantidade de sódio que deve ser tida em conta nos doentes com ingestão controlada de sódio",
-        "Nunca deve ser administrado na forma de bólus",
+        "Nunca deve ser administrado na forma de Bólus",
         "Não deve ser administrado concomitantemente com outros bifosfonatos uma vez que os seus efeitos combinados ainda não foram estabelecidos",
         "Não deve ser adicionado a soluções endovenosas que contenham cálcio",
         "Em caso de hipocalcémia com parestesias, tétano e hipotensão considerável pode reverter-se esta situação através da administração de perfusão de gluconato de cálcio",
@@ -4614,7 +4635,7 @@
       "name": "Pantoprazol",
       "aliases": [
         "Pantoc",
-        "Pantoc IV"
+        "Pantoc Endovenosa"
       ],
       "highRisk": false,
       "classification": [
@@ -4638,7 +4659,7 @@
       "administration": [
         "Via Endovenosa: administrar lentamente durante 2-5 minutos",
         "Via Endovenosa Perfusão: diluir em 100 ml e administrar em 15 minutos",
-        "Síndrome de Zollinger-Ellison: inicial 80 mg IV por dia; pode ser aumentada até 160 mg"
+        "Síndrome de Zollinger-Ellison: inicial 80 mg Endovenosa por dia; pode ser aumentada até 160 mg"
       ],
       "stability": [
         "Após reconstituição: 12 horas",
@@ -4650,12 +4671,12 @@
       ],
       "nursingCare": [
         "A via Endovenosa é recomendada apenas se a administração oral não for apropriada; substituir por via oral logo que possível",
-        "Tratamento prolongado (> 3 meses) pode causar hipomagnesemia grave; monitorizar níveis de magnésio",
+        "Tratamento prolongado (maior que 3 meses) pode causar hipomagnesemia grave; monitorizar níveis de magnésio",
         "Vigiar doentes com sintomas de alarme (perda ponderal significativa, anemia) para excluir malignidade gástrica",
         "Monitorizar enzimas hepáticas em doentes com compromisso hepático grave; suspender se ocorrer aumento",
-        "Vigiar sinais de reações adversas cutâneas graves (SSJ, NET, DRESS, PEGA)",
+        "Vigiar sinais de reações adversas cutâneas graves (Síndrome de Stevens-Johnson, Necrólise Epidérmica Tóxica, Reação a Fármaco com Eosinofilia e Sintomas Sistémicos, Pustulose Exantemática Generalizada Aguda)",
         "Interação: Pode reduzir significativamente a biodisponibilidade de atazanavir",
-        "Risco de fraturas ósseas em tratamentos de longa duração (> 1 ano)",
+        "Risco de fraturas ósseas em tratamentos de longa duração (maior que 1 ano)",
         "Desconhece-se a existência de sintomas de sobredosagem no Homem",
         "Como o pantoprazol se liga extensamente às proteínas, não é prontamente dialisável",
         "Devem-se utilizar recipientes de vidro ou plástico para a diluição",
@@ -4678,7 +4699,7 @@
       "compatibility": [
         "Cloreto de sódio 0,9%",
         "Glicose a 5%",
-        "Cloreto de sódio 0,9% com Glicose 5%"
+        "Cloreto de sódio 0,9% com Glicose a 5%"
       ],
       "presentationAndStorage": [
         "10 mg/ml solução para perfusão",
@@ -4688,12 +4709,12 @@
       ],
       "preparation": [
         "Solução injetável pronta",
-        "Pode ser diluído em NaCl 0,9% ou Glicose 5% até uma proporção de 1:10"
+        "Pode ser diluído em Cloreto de sódio 0,9% ou Glicose a 5% até uma proporção de 1:10"
       ],
       "administration": [
         "Via Endovenosa Perfusão: administrar durante 15 minutos",
-        "Frasco 100 ml: restrito a adultos, adolescentes e crianças > 33 kg",
-        "Frasco 50 ml: restrito a crianças > 10 kg e até 33 kg",
+        "Frasco 100 ml: restrito a adultos, adolescentes e crianças maior que 33 kg",
+        "Frasco 50 ml: restrito a crianças maior que 10 kg e até 33 kg",
         "Ampola 10 ml: restrito a recém-nascidos de termo e crianças até 10 kg"
       ],
       "stability": [
@@ -4713,7 +4734,7 @@
         "Não pode ser utilizado se apresentar opalescência, partículas em suspensão ou precipitado",
         "Recomenda-se o uso da dose efetiva mais baixa durante o menor período possível",
         "Interação: Probenecida pode exigir redução da dose de paracetamol",
-        "Interação: Vigilância do INR em uso concomitante com anticoagulantes orais (> 4 g/dia)"
+        "Interação: Vigilância do Rácio Normalizado Internacional em uso concomitante com anticoagulantes orais (maior que 4 g/dia)"
       ]
     },
     "penicilina-g-sodica-ou-potassica": {
@@ -4733,23 +4754,23 @@
         "Glicose a 5%"
       ],
       "presentationAndStorage": [
-        "1/20 M.U.I. pó para solução injetável",
+        "1/20 Milhões de Unidades Internacionais pó para solução injetável",
         "Conservar a temperatura inferior a 25ºC",
         "Conservar na embalagem de origem para proteger da luz e da humidade"
       ],
       "preparation": [
-        "Via Intramuscular: 4 ml de água p.p.i",
-        "Via Endovenosa Perfusão: 10-20 ml de água p.p.i",
+        "Via Intramuscular: 4 ml de Água para Preparação de Injetáveis",
+        "Via Endovenosa Perfusão: 10-20 ml de Água para Preparação de Injetáveis",
         "Mantenha o frasco em posição horizontal e rode-o enquanto injeta lentamente o solvente; agite vigorosamente"
       ],
       "administration": [
         "Via Intramuscular: administrar profundamente no músculo glúteo",
-        "Via Endovenosa Perfusão: diluir 1 M.U.I. em 50-100 ml e administrar durante 30-60 minutos",
-        "Via Endovenosa Perfusão Contínua: diluir dose ≥ 10 M.U.I. em 1000-2000 ml e administrar em 24 horas",
-        "Recém-nascidos (1ª semana): < 2 kg: 50.000 UI/kg/dia (2 doses); > 2 kg: 75.000 UI/kg/dia (3 doses)",
-        "Recém-nascidos (1ª-4ª semana): < 1,2 kg: 50.000 UI/kg/dia (2 doses); 1,2-2 kg: 75.000 UI/kg/dia (3 doses); > 2 kg: 100.000 UI/kg/dia (4 doses)",
-        "Crianças (1 mês-12 anos, < 30 kg): 50.000 UI/kg/dia (4-6 doses)",
-        "Adultos e adolescentes (≥ 30 kg): 1 a 5 M.U.I./dia (4 doses)"
+        "Via Endovenosa Perfusão: diluir 1 Milhão de Unidades Internacionais em 50-100 ml e administrar durante 30-60 minutos",
+        "Via Endovenosa Perfusão Contínua: diluir dose maior ou igual a 10 Milhões de Unidades Internacionais em 1000-2000 ml e administrar em 24 horas",
+        "Recém-nascidos (1ª semana): menor que 2 kg: 50.000 UI/kg/dia (2 doses); maior que 2 kg: 75.000 UI/kg/dia (3 doses)",
+        "Recém-nascidos (1ª-4ª semana): menor que 1,2 kg: 50.000 UI/kg/dia (2 doses); 1,2-2 kg: 75.000 UI/kg/dia (3 doses); maior que 2 kg: 100.000 UI/kg/dia (4 doses)",
+        "Crianças (1 mês-12 anos, menor que 30 kg): 50.000 UI/kg/dia (4-6 doses)",
+        "Adultos e adolescentes (maior ou igual a 30 kg): 1 a 5 Milhões de Unidades Internacionais/dia (4 doses)"
       ],
       "stability": [
         "Após reconstituição: 24 horas à temperatura ambiente; 72 horas no frigorífico",
@@ -4765,11 +4786,11 @@
         "Durante a manipulação da Penicilina, deve ser evitado o contacto da pele com a benzilpenicilina, de forma a evitar reacções de sensibilização/dermatites de contacto",
         "A sua concentração em potássio deve ser tida em conta em doentes com função renal diminuída ou com ingestão controlada de potássio",
         "É dialisável por hemodiálise, mas não por diálise peritoneal",
-        "Soluções mais concentradas (até 1 M.U.I.) implicam dor no local da injeção devido à sua hipertonia, por isso deve-se massajar após administrar",
+        "Soluções mais concentradas (até 1 Milhão de Unidades Internacionais) implicam dor no local da injeção devido à sua hipertonia, por isso deve-se massajar após administrar",
         "Na administração Intramuscular deve-se diluir com cloridrato de lidocaína a 1% para administração menos dolorosa",
         "Na administração Endovenosa deve-se variar o local de administração de 48 em 48 horas (quando em acesso venoso periférico)",
         "No tratamento da sífilis, vigiar a Reação de Jarisch-Herxheimer (febre, calafrios, dores musculares)",
-        "Risco de reações cutâneas graves (SSJ, NET, DRESS, PEGA)",
+        "Risco de reações cutâneas graves (Síndrome de Stevens-Johnson, Necrólise Epidérmica Tóxica, Reação a Fármaco com Eosinofilia e Sintomas Sistémicos, Pustulose Exantemática Generalizada Aguda)",
         "Interação: Pode reduzir a excreção do metotrexato aumentando a sua toxicidade"
       ]
     },
@@ -4799,10 +4820,10 @@
       "administration": [
         "Via Intramuscular",
         "Via Subcutânea",
-        "Via Endovenosa: administração lenta durante 3 a 5 minutos (a diluição com água p.p.i. é aconselhável)",
+        "Via Endovenosa: administração lenta durante 3 a 5 minutos (a diluição com Água para Preparação de Injetáveis é aconselhável)",
         "Via Endovenosa Perfusão: diluir em 100 ml e administrar em 60 minutos",
         "Via Endovenosa Perfusão Contínua: diluir e ajustar a velocidade de perfusão à necessidade",
-        "Adultos: 25-100 mg (IM/SC) ou 25-50 mg (IV lenta) a cada 4 horas",
+        "Adultos: 25-100 mg (Intramuscular/Subcutânea) ou 25-50 mg (Endovenosa lenta) a cada 4 horas",
         "Idosos: Dose inicial não deve exceder 25 mg"
       ],
       "stability": [
@@ -4810,7 +4831,7 @@
       ],
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade à substância ativa ou outros derivados fenilpiperidínicos",
-        "Uso de inibidores da monoamino oxidase (IMAO) nas últimas 2 semanas (risco fatal)",
+        "Uso de Inibidores da Monoamino Oxidase nas últimas 2 semanas (risco fatal)",
         "Uso concomitante de ritonavir ou agonistas-antagonistas opioides (ex: buprenorfina)",
         "Contra-indicada em situações de depressão respiratória, especialmente na presença de cianose e secreção brônquica excessiva",
         "Contra-indicada em situações de alcoolismo agudo e quando a pressão intracraniana está aumentada",
@@ -4821,7 +4842,7 @@
       ],
       "nursingCare": [
         "Vigilância dos parâmetros respiratórios pelo risco de depressão respiratória",
-        "Interação fatal com IMAO: pode causar hipertensão/hipotensão grave, hiperpirexia e coma",
+        "Interação fatal com Inibidores da Monoamino Oxidase: pode causar hipertensão/hipotensão grave, hiperpirexia e coma",
         "Os consumidores regulares podem tolerar doses elevadas",
         "O álcool pode potenciar os efeitos sedativos e hipotensivos da petidina",
         "O seu antídoto é a Naloxona",
@@ -4941,7 +4962,7 @@
         "Conservar na embalagem de origem para proteger da luz"
       ],
       "preparation": [
-        "Via Intramuscular/Via Endovenosa: 1 ml (10 mg, 25 mg, 50 mg); 2 ml (250 mg), 10 ml (1gr) de água p.p.i"
+        "Via Intramuscular/Via Endovenosa: 1 ml (10 mg, 25 mg, 50 mg); 2 ml (250 mg), 10 ml (1gr) de Água para Preparação de Injetáveis"
       ],
       "administration": [
         "Via Intramuscular",
@@ -4986,8 +5007,8 @@
       ],
       "administration": [
         "Via Intramuscular Profunda: administrar 1 a 2 ampolas por dia",
-        "Via Endovenosa: só em caso de emergência, diluir em 20 ml de água p.p.i",
-        "Injeção IV deve ser realizada com extremo cuidado para evitar extravasamento ou injeção intra-arterial (risco de gangrena)"
+        "Via Endovenosa: só em caso de emergência, diluir em 20 ml de Água para Preparação de Injetáveis",
+        "Injeção Endovenosa deve ser realizada com extremo cuidado para evitar extravasamento ou injeção intra-arterial (risco de gangrena)"
       ],
       "stability": [
         "Uso imediato após abertura"
@@ -4996,13 +5017,13 @@
         "Hipersensibilidade à prometazina, a fármacos do grupo das fenotiazinas ou a qualquer um dos excipientes",
         "Glaucoma de ângulo fechado",
         "Risco de retenção urinária ligada a alterações uretro-prostáticas",
-        "Depressão do SNC e uso de inibidores da MAO nos últimos 14 dias",
+        "Depressão do Sistema Nervoso Central e uso de inibidores da Monoamino Oxidase nos últimos 14 dias",
         "Crianças com idade inferior a 15 anos",
         "Contra-indicado no aleitamento"
       ],
       "nursingCare": [
         "A injeção Intramuscular deve ser cuidadosamente administrada de modo a evitar a injeção Subcutânea, que pode dar origem a necrose local",
-        "Parar imediatamente a injeção IV se o doente se queixar de dor (sinal de extravasamento ou via intra-arterial)",
+        "Parar imediatamente a injeção Endovenosa se o doente se queixar de dor (sinal de extravasamento ou via intra-arterial)",
         "Deve evitar a exposição à luz solar durante o tratamento (risco de fotossensibilidade)",
         "Risco de prolongamento do intervalo QT e Torsade de pointes",
         "Vigiar sinais de Síndrome Neuroléptica Maligna (febre, rigidez muscular, alteração consciência)",
@@ -5031,7 +5052,7 @@
         "Solução de dextrose a 4%",
         "Cloreto de sódio 0,18%",
         "Lidocaína 1% (sem conservantes)",
-        "Glicose 5% em cloreto de sódio 0,9% (perto do cateter)"
+        "Glicose a 5% em cloreto de sódio 0,9% (perto do cateter)"
       ],
       "presentationAndStorage": [
         "10 mg/ml (1%) e 20 mg/ml (2%) emulsão injetável ou para perfusão",
@@ -5041,15 +5062,15 @@
       "preparation": [
         "Agitar suavemente antes de usar; a emulsão deve ser homogénea",
         "Não utilizar se forem visíveis duas camadas após agitar",
-        "Pode ser administrado puro ou diluído em Glicose 5% ou NaCl 0,9%",
+        "Pode ser administrado puro ou diluído em Glicose a 5% ou Cloreto de sódio 0,9%",
         "Se diluído, usar lidocaína 1% (1 parte de lidocaína para 20 de propofol) para reduzir dor local",
         "Diluições devem ser preparadas imediatamente antes da administração"
       ],
       "administration": [
-        "Via Endovenosa: injeção bólus titulada ou perfusão contínua",
-        "Indução (Adulto < 55 anos): 1,5 a 2,5 mg/kg (20-40 mg a cada 10 seg)",
+        "Via Endovenosa: injeção Bólus titulada ou perfusão contínua",
+        "Indução (Adulto menor que 55 anos): 1,5 a 2,5 mg/kg (20-40 mg a cada 10 seg)",
         "Manutenção (Adulto): 4 a 12 mg/kg/h",
-        "Sedação em UCI: Reservada a ventilados > 16 anos; Dose: 0,3 a 4,0 mg/kg/h"
+        "Sedação em Unidade de Cuidados Intensivos: Reservada a ventilados maior que 16 anos; Dose: 0,3 a 4,0 mg/kg/h"
       ],
       "stability": [
         "Uso imediato após abertura (máximo 12 horas para o sistema)",
@@ -5057,14 +5078,14 @@
       ],
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade ao propofol, soja ou amendoim",
-        "Contraindicado para sedação em UCI em doentes ≤ 16 anos",
+        "Contraindicado para sedação em Unidade de Cuidados Intensivos em doentes menor ou igual a 16 anos",
         "Precaução em: hipovolemia, epilepsia, doença mitocondrial e níveis elevados de gordura no sangue",
-        "Doentes com risco III e IV da ASA: reduzir dose inicial (aprox. 1 mg/kg)"
+        "Doentes com risco III e IV da American Society of Anesthesiologists: reduzir dose inicial (aprox. 1 mg/kg)"
       ],
       "nursingCare": [
         "Administração exclusiva por pessoal treinado em anestesia/cuidados intensivos",
         "Não deve ser administrado pela pessoa que realiza o procedimento cirúrgico ou de diagnóstico",
-        "Monitorização contínua: ECG, oximetria de pulso e pressão arterial",
+        "Monitorização contínua: Eletrocardiograma, oximetria de pulso e pressão arterial",
         "Assegurar via aérea e equipamento de reanimação prontamente disponível",
         "Substituir o sistema de administração (incluindo o frasco) após 12 horas",
         "Vigiar para Síndrome da Perfusão de Propofol (PIS): acidose metabólica, hipercaliemia, falência cardíaca",
@@ -5108,8 +5129,8 @@
       "administration": [
         "Via Endovenosa: administração lenta (acima de 10 minutos)",
         "Via Endovenosa Perfusão: débito máximo de 50 mg (5 ml) em 10 minutos",
-        "Neutralização da heparina: 10 mg (1 ml) neutraliza aproximadamente 1400 UI",
-        "Neutralização de HBPM: 10 mg (1 ml) por 1000 UI anti-Xa"
+        "Neutralização da heparina: 10 mg (1 ml) neutraliza aproximadamente 1400 Unidades Internacionais",
+        "Neutralização de Heparinas de Baixo Peso Molecular: 10 mg (1 ml) por 1000 Unidades Internacionais anti-Xa"
       ],
       "stability": [
         "Uso imediato após abertura"
@@ -5121,11 +5142,11 @@
         "Sensação de calor e rubor na pele durante a administração",
         "Monitorizar para efeito rebound anticoagulante 30 minutos a 18 horas após a administração",
         "Risco aumentado de anafilaxia em doentes alérgicos a peixe, diabéticos em uso de insulina protamina, homens inféreis ou vasectomizados",
-        "Monitorizar parâmetros de coagulação (TTPA, TCA ou anti-Xa) 5 a 15 minutos após administração",
+        "Monitorizar parâmetros de coagulação (Tempo de Tromboplastina Parcial Ativada, Tempo de Coagulação Ativado ou anti-Xa) 5 a 15 minutos após administração",
         "Administração muito rápida pode causar hipotensão grave e bradicardia",
         "Dose excessiva pode prolongar o tempo de coagulação (efeito anticoagulante próprio)",
         "Não dialisável por hemodiálise ou diálise peritoneal",
-        "[CONFLITO]: Infarmed indica que 10 mg neutralizam 1400 UI (v. meds.json 1000 UI) de heparina"
+        "[CONFLITO]: Infarmed indica que 10 mg neutralizam 1400 Unidades Internacionais (v. meds.json 1000 Unidades Internacionais) de heparina"
       ]
     },
     "ranitidina": {
@@ -5201,7 +5222,7 @@
       ],
       "preparation": [
         "Via Endovenosa: 1 ml (1 mg); 2 ml (2 mg) e 5 ml (5 mg) de solvente",
-        "Diluir para conc. de 20 a 250 µg/ml para perfusão controlada manualmente (adulto recomendado: 50 µg/ml; pediátrico ≥ 1 ano: 20-25 µg/ml)"
+        "Diluir para conc. de 20 a 250 mcg/ml para perfusão controlada manualmente (adulto recomendado: 50 mcg/ml; pediátrico maior ou igual a 1 ano: 20-25 mcg/ml)"
       ],
       "administration": [
         "Via Endovenosa",
@@ -5209,7 +5230,7 @@
       ],
       "stability": [
         "Após Reconstituição: 24 horas",
-        "Após diluição: 24 horas à temperatura ambiente para conc. de 20 a 250 µg/ml"
+        "Após diluição: 24 horas à temperatura ambiente para conc. de 20 a 250 mcg/ml"
       ],
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade ao remifentanilo, análogos fentanílicos ou outros componentes",
@@ -5308,10 +5329,10 @@
       ],
       "nursingCare": [
         "Manter o doente sob ventilação assistida até recuperação da respiração espontânea",
-        "Monitorizar para curarização residual; risco aumentado em doentes geriátricos (≥ 65 anos)",
+        "Monitorizar para curarização residual; risco aumentado em doentes geriátricos (maior ou igual a 65 anos)",
         "Os anestésicos de inalação, aminoglicosídeos, sais de magnésio e bloqueadores dos canais de cálcio potenciam o bloqueio",
         "Monitorizar para risco de reações anafiláticas e Kounis syndrome",
-        "Vigiar sinais de reações cutâneas graves (SCARs)",
+        "Vigiar sinais de Reações Adversas Cutâneas Graves",
         "Em caso de necessidade de reversão imediata, considerar o uso de sugammadex",
         "Tem uma grande influência na condução e utilização de máquinas",
         "Não utilizar este medicamento se verificar que a solução não está límpida ou isenta de partículas"
@@ -5348,26 +5369,26 @@
         "Via Subcutânea",
         "Via Intramuscular",
         "Via Endovenosa: administrar durante 2 a 5 minutos; pode ser diluído na proporção de 1:10 para facilitar a administração",
-        "Via Endovenosa Perfusão: 3-20 µg/min (habitual); no trabalho de parto (22-37 semanas) iniciar 10 µg/min e ajustar até 45 µg/min"
+        "Via Endovenosa Perfusão: 3-20 mcg/min (habitual); no trabalho de parto (22-37 semanas) iniciar 10 mcg/min e ajustar até 45 mcg/min"
       ],
       "stability": [
         "Após diluição: 24 horas"
       ],
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade à substância ativa ou a qualquer um dos excipientes",
-        "Idade gestacional < 22 semanas",
+        "Idade gestacional menor que 22 semanas",
         "Doença cardíaca isquémica preexistente ou fatores de risco significativos",
         "Ameaça de aborto durante o 1º e 2º trimestre",
         "Qualquer condição da mãe ou do feto na qual o prolongamento da gravidez seja perigoso (ex: toxemia grave, eclâmpsia, descolamento da placenta)",
         "Morte fetal intra-uterina, malformação congénita letal ou malformação cromossómica letal conhecida"
       ],
       "nursingCare": [
-        "O conteúdo das ampolas para perfusão IV não deve ser injetado sem ser diluído (reduzir concentração em 50%)",
+        "O conteúdo das ampolas para perfusão Endovenosa não deve ser injetado sem ser diluído (reduzir concentração em 50%)",
         "Deverá ser utilizado um dispositivo de perfusão controlada, preferencialmente uma seringa infusora",
-        "Monitorização obrigatória de ECG, pressão arterial e frequência cardíaca; parar se ocorrer dor no peito ou alterações no ECG",
+        "Monitorização obrigatória de Eletrocardiograma, pressão arterial e frequência cardíaca; parar se ocorrer dor no peito ou alterações no Eletrocardiograma",
         "Vigiar para acidose láctica e hipocaliemia grave (especialmente se em uso concomitante com diuréticos ou esteroides)",
         "Monitorizar glicemia em doentes diabéticos (risco de cetoacidose)",
-        "Nos doentes diabéticos e naqueles que recebem simultaneamente corticosteroides deve-se diluir apenas em NaCl 0,9%",
+        "Nos doentes diabéticos e naqueles que recebem simultaneamente corticosteroides deve-se diluir apenas em Cloreto de sódio 0,9%",
         "Duração máxima de 48 horas quando utilizado no adiamento do parto prematuro",
         "Não dialisável por hemodiálise ou diálise peritoneal",
         "Pode ser utilizado como relaxante muscular do miométrio em situações de hipertonia uterina"
@@ -5396,7 +5417,7 @@
       ],
       "administration": [
         "Via Endovenosa: deve ser administrado lentamente, pelo menos 3 a 5 minutos",
-        "Via Endovenosa Perfusão Contínua: diluir e administrar a uma velocidade de 250 µg/h"
+        "Via Endovenosa Perfusão Contínua: diluir e administrar a uma velocidade de 250 mcg/h"
       ],
       "stability": [
         "Após reconstituição: 24 horas à temperatura ambiente",
@@ -5409,7 +5430,7 @@
         "Deve ser reconstituída imediatamente antes do seu uso",
         "Aos doentes com insuficiência renal grave deve ser administrada metade da dose recomendada",
         "No início da perfusão pode ocorrer hipoglicemia, possivelmente seguida, 2 a 3 horas depois, por um aumento da glicemia devido a alterações no balanço entre as hormonas reguladoras, insulina e glucagon. Por esta razão exige-se uma determinação da glicemia cada 4 a 6 horas",
-        "Os sinais vitais dos doentes devem ser monitorizados durante a fase inicial da administração, em particular após o bólus intravenoso",
+        "Os sinais vitais dos doentes devem ser monitorizados durante a fase inicial da administração, em particular após o Bólus intravenoso",
         "Não se conhece antídoto específico",
         "Não dialisável por hemodiálise ou diálise peritoneal",
         "Em caso de perfusão contínua, utilizar bombas infusoras para controlo adequado da velocidade de perfusão",
@@ -5439,22 +5460,22 @@
       ],
       "preparation": [
         "Solução injetável pronta",
-        "Pode ser misturado com NaCl 0,9%, Glicose 5% ou Lactato de Ringer"
+        "Pode ser misturado com Cloreto de sódio 0,9%, Glicose a 5% ou Lactato de Ringer"
       ],
       "administration": [
         "Via Endovenosa (Injeção lenta ou Perfusão)",
         "Epidural",
-        "Adultos (Anestesia): 25-50 microgramas/kg IV",
-        "Adultos (Analgesia): 0,5-5 microgramas/kg IV",
-        "Crianças (> 1 mês): 0,2-0,5 microgramas/kg IV (injeção lenta ≥ 30 seg)",
+        "Adultos (Anestesia): 25-50 microgramas/kg Endovenosa",
+        "Adultos (Analgesia): 0,5-5 microgramas/kg Endovenosa",
+        "Crianças (maior que 1 mês): 0,2-0,5 microgramas/kg Endovenosa (injeção lenta maior ou igual 30 seg)",
         "Pre-medicar com um anticolinérgico (ex: Atropina) para evitar bradicardia"
       ],
       "stability": [
-        "Após diluição: 24 horas (Infarmed indica 24h a 2-8ºC ou < 25ºC)"
+        "Após diluição: 24 horas (Infarmed indica 24h a 2-8ºC ou menor que 25ºC)"
       ],
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade ao sufentanilo ou outros fármacos similares à morfina",
-        "IV durante o parto ou antes de clampar o cordão umbilical em cesarianas (risco depressão neonatal)",
+        "Endovenosa durante o parto ou antes de clampar o cordão umbilical em cesarianas (risco depressão neonatal)",
         "Excesso de secreções brônquicas",
         "Não utilizar a via epidural em caso de: hemorragias graves, choque, septicémia ou coagulopatia"
       ],
@@ -5463,7 +5484,7 @@
         "Vigilância de depressão respiratória marcada que pode persistir or recorrer no pós-operatório",
         "Monitorizar para hiperalgesia induzida por opioides se a dor não responder ao aumento da dose",
         "Interromper a amamentação por 24 horas após a administração",
-        "Para administração epidural o produto pode ser misturado com NaCl 0,9% e/ou bupivacaína",
+        "Para administração epidural o produto pode ser misturado com Cloreto de sódio 0,9% e/ou bupivacaína",
         "Nos bloqueios sub aracnoideos quando associado à bupivacaína pesada a reversão é mais prolongada",
         "É frequente dar prurido essencialmente no tronco e abdómen",
         "A sua concentração em sódio deve ser tida em conta em doentes com ingestão controlada de sódio",
@@ -5490,14 +5511,14 @@
         "100 mg/2 ml solução injetável",
         "Conservar no frigorífico (2ºC-8ºC)",
         "Conservar na embalagem de origem para proteger da luz",
-        "Estável por 30 dias a temperatura ambiente (< 25ºC) após remoção do frigorífico"
+        "Estável por 30 dias a temperatura ambiente (menor que 25ºC) após remoção do frigorífico"
       ],
       "preparation": [
         "Solução injetável pronta"
       ],
       "administration": [
         "Via Intramuscular",
-        "Via Endovenosa: administrar 1 ml/10 segundos (1 mg/kg em bólus)",
+        "Via Endovenosa: administrar 1 ml/10 segundos (1 mg/kg em Bólus)",
         "Via Endovenosa Perfusão: diluir 100 mg em 50-100 ml e administrar durante cerca de 1 hora à velocidade de 0,5 a 10 mg/min"
       ],
       "stability": [
@@ -5518,8 +5539,8 @@
         "Tem um início de ação de 30-60 segundos e recuperação em 2-6 minutos",
         "Usado em bloco operatório para intubação de indução rápida",
         "A via Intramuscular está reservada para as situações em que a via Endovenosa é impraticável",
-        "High risk de sensibilidade cruzada (> 50%) com outros bloqueadores neuromusculares",
-        "O cloreto de suxametónio é instável em soluções alcalinas (Ph > 4,5)",
+        "High risk de sensibilidade cruzada (maior que 50%) com outros bloqueadores neuromusculares",
+        "O cloreto de suxametónio é instável em soluções alcalinas (Ph maior que 4,5)",
         "Vigiar fasciculações musculares visíveis",
         "Vigiar para bradicardia (especialmente em crianças ou doses repetidas) ou arritmias",
         "Não dialisável por hemodiálise ou diálise peritoneal"
@@ -5567,10 +5588,10 @@
         "Precaução em doentes com hipersensibilidade à vancomicina (risco de sensibilidade cruzada)"
       ],
       "nursingCare": [
-        "Determinar concentrações séricas residuais: alvo ≥ 10-15 mg/L (infeções Gram-positivas) ou 15-30 mg/L (endocardite/infeções graves)",
+        "Determinar concentrações séricas residuais: alvo maior ou igual 10-15 mg/L (infeções Gram-positivas) ou 15-30 mg/L (endocardite/infeções graves)",
         "Provoca nefrotoxicidade e ototoxicidade; monitorizar audição e função renal em tratamentos prolongados ou altas doses",
         "Vigiar sinais de 'Síndrome do homem vermelho' (rubor, prurido); abrandar a perfusão se ocorrer",
-        "Vigiar sinais de reações cutâneas graves (SSJ, NET, DRESS)",
+        "Vigiar sinais de reações cutâneas graves (Síndrome de Stevens-Johnson, Necrólise Epidérmica Tóxica, Reação a Fármaco com Eosinofilia e Sintomas Sistémicos)",
         "Devem ser tomadas precauções especiais em uso concomitante com medicamentos ototóxicos ou nefrotóxicos",
         "A hemodiálise não remove a teicoplanina; removida lentamente por diálise peritoneal",
         "A teicoplanina e aminoglicosídeos são incompatíveis quando misturados diretamente",
@@ -5644,7 +5665,7 @@
       ],
       "preparation": [
         "Solução injetável pronta",
-        "Pode ser diluída em 100 ml de NaCl 0,9% para perfusão"
+        "Pode ser diluída em 100 ml de Cloreto de sódio 0,9% para perfusão"
       ],
       "administration": [
         "Via Intramuscular Profunda",
@@ -5652,7 +5673,7 @@
         "Via Endovenosa Perfusão lenta (para reduzir risco de anafilaxia)",
         "Dose (Risco de deficiência): 100 mg 3x/dia",
         "Dose (Alcoolismo/Deficiência): 200 mg 3x/dia",
-        "Dose (Wernicke): 500 mg IV 3x/dia"
+        "Dose (Wernicke): 500 mg Endovenosa 3x/dia"
       ],
       "stability": [
         "Após abertura: Uso imediato",
@@ -5710,8 +5731,8 @@
       ],
       "nursingCare": [
         "A via de administração Intramuscular é preferível à via de administração Endovenosa, por resultar em menos reações adversas",
-        "Ajuste de dose em insuficiência renal: ClCr 30-60 (75%), 10-30 (50%), < 10 ml/min (25% da dose normal)",
-        "Vigiar sinais de Síndrome Neuroléptica Maligna (SMN): hipertermia, rigidez muscular",
+        "Ajuste de dose em insuficiência renal: Depuração da Creatinina 30-60 (75%), 10-30 (50%), menor que 10 ml/min (25% da dose normal)",
+        "Vigiar sinais de Síndrome Neuroléptica Maligna: hipertermia, rigidez muscular",
         "Vigiar para risco de prolongamento do intervalo QT e Torsade de pointes",
         "Monitorizar idosos para risco de diminuição do nível de consciência e coma",
         "Pode causar hiperprolactinémia (amenorreia, ginecomastia, galactorreia)",
@@ -5765,7 +5786,7 @@
         "Monitorizar para o desenvolvimento de superinfeções (ex: pneumonia nosocomial)",
         "Vigiar cicatrização de feridas cirúrgicas; cicatrização lenta pode estar associada a superinfeção",
         "Vigiar sinais de lesão hepática (padrão colestático) e pancreatite aguda",
-        "Interação: Pode aumentar o tempo de protrombina (TP) e TTPa; monitorizar INR se em uso de anticoagulantes",
+        "Interação: Pode aumentar o tempo de protrombina e Tempo de Tromboplastina Parcial Ativada; monitorizar Rácio Normalizado Internacional se em uso de anticoagulantes",
         "Interação: Pode reduzir a eficácia dos contracetivos orais",
         "O frasco para injetáveis deve ser agitado suavemente até à dissolução",
         "A tigeciclina deve ser administrada por sistema de perfusão exclusivo ou conector em Y"
@@ -5824,14 +5845,14 @@
         "Conservar a temperatura ambiente (15ºC-30ºC) e ao abrigo da luz"
       ],
       "preparation": [
-        "Via Endovenosa/Via Endovenosa Perfusão: diluir em água p.p.i., cloreto de sódio 0,9% ou glicose a 5%",
+        "Via Endovenosa/Via Endovenosa Perfusão: diluir em Água para Preparação de Injetáveis, cloreto de sódio 0,9% ou glicose a 5%",
         "Manipular com cuidado para evitar contaminações (não contém bacteriostáticos)"
       ],
       "administration": [
         "Via Endovenosa: administrar lentamente",
         "Adultos: habitual 0,30 a 0,50 g; dose total máxima 1 a 1,5 g",
-        "Hipertensão cerebral: 1,5 a 3,5 mg/kg IV (intermitente)",
-        "Crises convulsivas: 50 a 125 mg IV logo após o início das crises"
+        "Hipertensão cerebral: 1,5 a 3,5 mg/kg Endovenosa (intermitente)",
+        "Crises convulsivas: 50 a 125 mg Endovenosa logo após o início das crises"
       ],
       "stability": [
         "Após reconstituição: 24 horas"
@@ -5899,7 +5920,7 @@
       ],
       "nursingCare": [
         "A administração prolongada deste medicamento pode causar o desenvolvimento de tolerância e dependência psíquica e física, embora apresente um baixo potencial de dependência",
-        "A administração concomitante de tramadol e derivados cumarínicos (ex.: varfarina) deve ser efectuada com cuidado uma vez que foram relatados casos de aumento do Rácio Normalizado Internacional (INR) com possível hemorragia e equimoses em alguns doentes",
+        "A administração concomitante de tramadol e derivados cumarínicos (ex.: varfarina) deve ser efectuada com cuidado uma vez que foram relatados casos de aumento do Rácio Normalizado Internacional com possível hemorragia e equimoses em alguns doentes",
         "Num número limitado de estudos, a administração pré e pós-cirúrgica do antiemético antagonista do 5-HT3, ondansetron, conduziu a um aumento da necessidade de tramadol em doentes com dor pós-cirúrgica",
         "Mesmo quando tomado de acordo com as instruções, o tramadol pode causar efeitos como sonolência e tonturas e alterar as reacções de condutores e operadores de máquinas, especialmente quando se conjuga com outras substâncias psicotrópicas, particularmente o álcool",
         "Efeitos indesejáveis mais frequentes são as náuseas e tonturas",
@@ -5930,7 +5951,7 @@
         "Conservar à temperatura ambiente"
       ],
       "preparation": [
-        "Via Endovenosa: 4 ml de solvente (água p.p.i.)"
+        "Via Endovenosa: 4 ml de solvente (Água para Preparação de Injetáveis)"
       ],
       "administration": [
         "Via Endovenosa: administrar lentamente em 3 minutos",
@@ -5976,12 +5997,12 @@
         "Conservar na embalagem de origem para proteger da luz"
       ],
       "preparation": [
-        "Via Endovenosa Perfusão: 10 ml (500 mg) e 20 ml (1 gr) de água p.p.i",
+        "Via Endovenosa Perfusão: 10 ml (500 mg) e 20 ml (1 gr) de Água para Preparação de Injetáveis",
         "Após reconstituição a solução é de incolor a amarelo-acastanhado"
       ],
       "administration": [
-        "Via Endovenosa Perfusão: diluir para conc. máx 5 mg/ml; administrar a taxa ≤ 10 mg/min num tempo ≥ 60 minutos",
-        "Adultos e adolescentes (≥ 12 anos): 15-20 mg/kg cada 8 a 12 horas",
+        "Via Endovenosa Perfusão: diluir para conc. máx 5 mg/ml; administrar a taxa menor ou igual 10 mg/min num tempo maior ou igual 60 minutos",
+        "Adultos e adolescentes (maior ou igual 12 anos): 15-20 mg/kg cada 8 a 12 horas",
         "Crianças (1 mês a 12 anos): 10-15 mg/kg cada 6 horas"
       ],
       "stability": [
@@ -5995,10 +6016,10 @@
       ],
       "nursingCare": [
         "Monitorizar audição (ototoxicidade) e função renal, especialmente em idosos e tratamentos longos",
-        "Monitorizar hemograma (WBC) semanalmente para detetar neutropenia ou agranulocitose",
+        "Monitorizar hemograma (contagem de glóbulos brancos) semanalmente para detetar neutropenia ou agranulocitose",
         "Vigiar para 'Síndrome do pescoço vermelho' (rubor facial, hipotensão) associada a infusão rápida",
-        "Risco de reações cutâneas graves (SSJ, NET, DRESS, PEGA)",
-        "Nunca administrar em bólus (risco de paragem cardíaca)",
+        "Risco de reações cutâneas graves (Síndrome de Stevens-Johnson, Necrólise Epidérmica Tóxica, Reação a Fármaco com Eosinofilia e Sintomas Sistémicos, Pustulose Exantemática Generalizada Aguda)",
+        "Nunca administrar em Bólus (risco de paragem cardíaca)",
         "Pode ocorrer dor ou tromboflebite; administrar em veia de grande calibre",
         "O fármaco é fracamente eliminado por hemodiálise ou diálise peritoneal",
         "Uso Via oral em C. difficile: diluir em 30 ml de água (estável 48h a 2-8ºC)"
@@ -6026,7 +6047,7 @@
         "Proteger da luz"
       ],
       "preparation": [
-        "Via Endovenosa: 1 ml (4 mg), 5 ml (10 mg) de água p.p.i"
+        "Via Endovenosa: 1 ml (4 mg), 5 ml (10 mg) de Água para Preparação de Injetáveis"
       ],
       "administration": [
         "Via Endovenosa: administrar de forma rápida",
@@ -6047,7 +6068,7 @@
         "Em cirurgias sob hipotermia, o efeito bloqueador neuromuscular aumenta e a sua duração prolonga-se",
         "Os antídotos podem ser o Sugamadex ou um inibidor da acetilcolinesterase",
         "Não dialisável por hemodiálise ou diálise peritoneal",
-        "Diluir para perfusão apenas se reconstituído em água p.p.i"
+        "Diluir para perfusão apenas se reconstituído em Água para Preparação de Injetáveis"
       ]
     },
     "verapamilo-cloridrato": {
@@ -6078,8 +6099,8 @@
       ],
       "administration": [
         "Via Endovenosa: administrar lentamente (pelo menos 2 minutos)",
-        "Adultos (Dose inicial): 5 a 10 mg (0,075 a 0,15 mg/kg) em bólus IV lento",
-        "Monitorização obrigatória de ECG contínuo e pressão arterial durante a administração"
+        "Adultos (Dose inicial): 5 a 10 mg (0,075 a 0,15 mg/kg) em Bólus Endovenosa lento",
+        "Monitorização obrigatória de Eletrocardiograma contínuo e pressão arterial durante a administração"
       ],
       "stability": [
         "Após diluição: 24 horas a 25ºC protegido da luz"
@@ -6087,26 +6108,26 @@
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade à substância ativa ou a qualquer dos excipientes",
         "Hipotensão grave ou choque cardiogénico",
-        "Perturbações graves da condução (bloqueio AV de 2º ou 3º grau, exceto se pacemaker)",
+        "Perturbações graves da condução (bloqueio Auriculoventricular de 2º ou 3º grau, exceto se pacemaker)",
         "Síndrome do nódulo sinusal (exceto se pacemaker)",
-        "Insuficiência cardíaca com fração de ejeção reduzida (< 35%)",
+        "Insuficiência cardíaca com fração de ejeção reduzida (menor que 35%)",
         "Doentes medicados com fármacos bloqueadores beta-adrenérgicos intravenosos (aguardar várias horas)",
-        "Doentes com WPW ou Lown-Ganong-Levine e fibrilhação/flutter (risco de arritmia ventricular fatal)",
-        "Taquicardia ventricular (QRS ≥ 0,12 seg)",
+        "Doentes com Síndrome de Wolff-Parkinson-White ou Lown-Ganong-Levine e fibrilhação/flutter (risco de arritmia ventricular fatal)",
+        "Taquicardia ventricular (QRS maior ou igual a 0,12 seg)",
         "Enfarte agudo do miocárdio",
         "Insuficiência cardíaca descompensada",
         "Combinação com ivabradina"
       ],
       "nursingCare": [
-        "A administração IV só deve ser praticada pelo médico",
-        "Vigiar para bradicardia e bloqueio AV de 1º grau; descontinuar doses subsequentes se ocorrer agravamento",
+        "A administração Endovenosa só deve ser praticada pelo médico",
+        "Vigiar para bradicardia e bloqueio Auriculoventricular de 1º grau; descontinuar doses subsequentes se ocorrer agravamento",
         "A assistolia em doentes sem síndrome do nódulo sinusal é geralmente de curta duração (recuperação espontânea)",
         "Doentes devem permanecer no leito, pelo menos 1 hora após a administração",
         "Verapamilo pode aumentar os níveis de álcool no sangue e atrasar a sua eliminação",
         "O cálcio é considerado como antídoto específico",
         "Não dialisável por hemodiálise",
         "Em caso de sobredosagem aconselha-se a hemofiltração e a plasmaferese",
-        "Por razões de estabilidade, não se recomenda a diluição em Lactato de Sódio USP em sacos de PVC"
+        "Por razões de estabilidade, não se recomenda a diluição em Lactato de Sódio USP em sacos de Policloreto de vinilo"
       ]
     },
     "voriconazol": {
@@ -6132,7 +6153,7 @@
         "Conservar abaixo de 25ºC"
       ],
       "preparation": [
-        "Via Endovenosa Perfusão: 19 ml de água p.p.i. ou NaCl 0,9%",
+        "Via Endovenosa Perfusão: 19 ml de Água para Preparação de Injetáveis ou cloreto de sódio 0,9%",
         "Diluir o concentrado (10 mg/ml) para obter uma solução final de 0,5-5 mg/ml"
       ],
       "administration": [
@@ -6146,13 +6167,13 @@
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade ao voriconazol ou azois",
         "Coadministração com: Rifampicina, Carbamazepina, Fenobarbital, Hipericão",
-        "Coadministração com: Ritonavir (≥ 400 mg 2x/dia), Efavirenz (≥ 400 mg/dia)",
+        "Coadministração com: Ritonavir (maior ou igual a 400 mg 2x/dia), Efavirenz (maior ou igual a 400 mg/dia)",
         "Coadministração com: Terfenadina, Astemizol, Cisaprida, Pimozida, Quinidina, Ivabradina",
         "Coadministração com: Alcaloides da cravagem do centeio (Ergotismo), Sirolímus, Naloxegol, Tolvaptano",
-        "Duração do tratamento IV não deve exceder 6 meses"
+        "Duração do tratamento Endovenosa não deve exceder 6 meses"
       ],
       "nursingCare": [
-        "Incidência muito frequente (> 10%) de distúrbios visuais: visão turva, alterações de cor, fotofobia",
+        "Incidência muito frequente (maior que 10%) de distúrbios visuais: visão turva, alterações de cor, fotofobia",
         "Interromper amamentação ao iniciar o tratamento com voriconazol",
         "Corrigir alterações eletrolíticas (hipocaliemia, hipomagnesemia, hipocalcemia) antes de iniciar",
         "Monitorizar para prolongamento do intervalo QTc e Torsade de pointes",
@@ -6160,7 +6181,7 @@
         "Vigilância regular da função hepática; risco de toxicidade hepática grave",
         "Tem sido associado a reações de fototoxicidade; evitar exposição solar direta",
         "Têm sido notificados casos de carcinoma espinocelular da pele em uso prolongado",
-        "Não administrar em bólus Endovenosa"
+        "Não administrar em Bólus Endovenosa"
       ]
     }
   }
