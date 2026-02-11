@@ -40,14 +40,13 @@ Fetch RCM and FI PDFs from Infarmed (INFOMED) and store them under `infarmed/{me
     - `node scripts/meds.js extract <medId>`
     - `node scripts/meds.js parse <medId>`
     - **Cleaning:** During extraction, strip JSF artifacts and Infarmed approval stamps (e.g., "APROVADO EM...", "INFARMED").
-11) Before proposing additions to `data/meds.json`, scan ALL existing fields for the med
-    - Search for the statement across ALL fields for the med.
-    - If already present, do not add it again under a new section.
-    - If the statement exists in a different form, prefer the clearer wording and avoid duplicates.
+11) When proposing additions to `data/meds.json`, follow the deduplication and style rules from the `meds-formatter` skill.
     - Use `node scripts/meds.js suggest-merge <medId>` (if available) to assist in identifying overlaps.
-12) Check for inconsistencies in existing `data/meds.json` content versus Infarmed.
-    - **Conflict Format:** Prefix conflicts with `[CONFLITO]: Infarmed indica X (v. meds.json Y)`.
-    - Flag conflicts explicitly instead of silently overwriting.
+12) Identify and flag conflicts according to the `meds-formatter` skill.
+
+## Formatting & Style
+- For ALL updates, additions, or validations involving `data/meds.json`, **you MUST follow the rules defined in the `meds-formatter` skill**.
+- This includes rules for technical names, units, mathematical symbols, administration routes, and safety regarding acronyms.
 
 ## Notes
 - The PDF is not a stable URL; it is returned by a session-based POST.
@@ -57,12 +56,3 @@ Fetch RCM and FI PDFs from Infarmed (INFOMED) and store them under `infarmed/{me
 - `medId`, `searchTerm`, `retrievedAt` (ISO)
 - `bestMatch`: `infarmedId`, `name`, `dci`, `form`, `dosage`, `holder`, `score`, `atcCode` (if available)
 - `documents`: `rcm`, `fi` with `status`, `contentType`, `url`, `file`, `size`
-
-## Style
-- Avoid trailing periods at the end of sentences in `data/meds.json` list items.
-- Administration routes in `data/meds.json` must be separated into individual list items (e.g., no "Via X / Via Y").
-- Emphatic words like "Nunca", "Não", "Sempre" should be in sentence case.
-- Acronyms such as UCI, ASA, M.U.I., ECG, SNC, AV, IV, IM, TCA CAN be in ALL CAPS.
-## Consistency Check
-- Compare Infarmed dose, stability, preparation, and storage details with existing entries.
-- If there is a conflict, use the conflict format and request confirmation before changing.
