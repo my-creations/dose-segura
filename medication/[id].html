@@ -1,12 +1,48 @@
-<!DOCTYPE html><html  lang="en"><head><title data-rh="true"></title><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/><meta name="apple-mobile-web-app-title" content="Dose Segura"/><meta name="theme-color" content="#E8A0BF"/><link rel="apple-touch-icon" href="/dose-segura/icon.png"/><link rel="icon" type="image/png" href="/dose-segura/icon.png"/><link rel="manifest" href="/dose-segura/manifest.json"/><style id="expo-reset">#root,body,html{height:100%}body{overflow:hidden}#root{display:flex}</style><style>
+<!DOCTYPE html><html  lang="pt-PT"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><title>Dose Segura | Guia rápido de medicamentos para enfermagem</title><meta http-equiv="X-UA-Compatible" content="IE=edge"/><meta name="description" content="Consulte informação essencial sobre medicamentos injetáveis, compatibilidade, preparação, administração e cuidados de enfermagem na app Dose Segura."/><meta name="robots" content="index,follow"/><link rel="canonical" href="https://my-creations.github.io/dose-segura"/><meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/><meta name="apple-mobile-web-app-title" content="Dose Segura"/><meta name="theme-color" content="#E8A0BF"/><meta property="og:locale" content="pt_PT"/><meta property="og:type" content="website"/><meta property="og:site_name" content="Dose Segura"/><meta property="og:title" content="Dose Segura | Guia rápido de medicamentos para enfermagem"/><meta property="og:description" content="Consulte informação essencial sobre medicamentos injetáveis, compatibilidade, preparação, administração e cuidados de enfermagem na app Dose Segura."/><meta property="og:url" content="https://my-creations.github.io/dose-segura"/><meta property="og:image" content="https://my-creations.github.io/dose-segura/icon.png"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Dose Segura | Guia rápido de medicamentos para enfermagem"/><meta name="twitter:description" content="Consulte informação essencial sobre medicamentos injetáveis, compatibilidade, preparação, administração e cuidados de enfermagem na app Dose Segura."/><meta name="twitter:image" content="https://my-creations.github.io/dose-segura/icon.png"/><link rel="apple-touch-icon" href="/dose-segura/icon.png"/><link rel="icon" type="image/png" href="/dose-segura/icon.png"/><link rel="manifest" href="/dose-segura/manifest.json"/><link rel="alternate" hrefLang="pt-PT" href="https://my-creations.github.io/dose-segura"/><script>
+    (function() {
+      var mode = 'system';
+      try {
+        var storedTheme = window.localStorage.getItem("dose_segura_theme_preference");
+        if (storedTheme === 'light' || storedTheme === 'dark' || storedTheme === 'system') {
+          mode = storedTheme;
+        }
+      } catch (error) {}
+
+      var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+      var resolvedTheme = mode === 'system' ? (prefersDark ? 'dark' : 'light') : mode;
+      var backgroundColor = resolvedTheme === 'dark'
+        ? "#151718"
+        : "#FFF9F9";
+
+      document.documentElement.setAttribute('data-theme', resolvedTheme);
+      document.documentElement.style.colorScheme = resolvedTheme;
+
+      var themeColorMeta = document.querySelector('meta[name="theme-color"]');
+      if (themeColorMeta) {
+        themeColorMeta.setAttribute('content', backgroundColor);
+      }
+
+      if (document.body) {
+        document.body.style.backgroundColor = backgroundColor;
+      }
+    })();
+  </script><style id="expo-reset">#root,body,html{height:100%}body{overflow:hidden}#root{display:flex}</style><style>
+html,
 body {
-  background-color: #fff;
+  background-color: #FFF9F9;
 }
+
+html[data-theme="dark"],
+html[data-theme="dark"] body {
+  background-color: #151718;
+}
+
 @media (prefers-color-scheme: dark) {
+  html:not([data-theme]),
   body {
-    background-color: #000;
+    background-color: #151718;
   }
-}</style><style id="react-native-stylesheet">[stylesheet-group="0"]{}
+}</style><script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","name":"Dose Segura","url":"https://my-creations.github.io/dose-segura","inLanguage":"pt-PT","description":"Consulte informação essencial sobre medicamentos injetáveis, compatibilidade, preparação, administração e cuidados de enfermagem na app Dose Segura."},{"@type":"SoftwareApplication","name":"Dose Segura","applicationCategory":"MedicalApplication","operatingSystem":"Web, iOS, Android","url":"https://my-creations.github.io/dose-segura","description":"Consulte informação essencial sobre medicamentos injetáveis, compatibilidade, preparação, administração e cuidados de enfermagem na app Dose Segura."}]}</script><style id="react-native-stylesheet">[stylesheet-group="0"]{}
 body{margin:0;}
 button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0;}
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:rgba(0,0,0,0);}
@@ -61,7 +97,6 @@ input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-web
 .r-z2wwpe{border-bottom-left-radius:4px;border-bottom-right-radius:4px;border-top-left-radius:4px;border-top-right-radius:4px;}
 [stylesheet-group="2.1"]{}
 .r-11f147o{padding-bottom:8px;padding-top:8px;}
-.r-11gswi8{padding-left:3px;padding-right:3px;}
 .r-17q4wm6{margin-left:5px;margin-right:5px;}
 .r-184id4b{margin-bottom:12px;margin-top:12px;}
 .r-1d7mnkm{padding-bottom:15px;padding-top:15px;}
@@ -155,7 +190,6 @@ input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-web
 .r-1a2p6p6{-webkit-text-decoration-style:solid;text-decoration-style:solid;}
 .r-1abnn5w{animation-play-state:paused;}
 .r-1acpoxo{width:36px;}
-.r-1aiqnjv{font-family:monospace,monospace;}
 .r-1aockid{width:40px;}
 .r-1awozwy{align-items:center;}
 .r-1ay1djp{animation-duration:1s;}
@@ -172,7 +206,6 @@ input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-web
 .r-1euycsn{flex-direction:row-reverse;}
 .r-1ewcgjf{box-shadow:0px 1px 3px rgba(0,0,0,0.5);}
 .r-1ff274t{text-align:right;}
-.r-1ffj0ar{background-color:rgba(0,0,0,0.40);}
 .r-1g80hic{opacity:0.8;}
 .r-1ge9hsw{max-width:960px;}
 .r-1ghxqbu{font-variant:tabular-nums;}
@@ -218,7 +251,6 @@ input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-web
 .r-1r8g8re{height:36px;}
 .r-1rnoaur{overflow-y:auto;}
 .r-1s2bzr4{margin-top:12px;}
-.r-1sg8ghl{z-index:1000;}
 .r-1ssbvtb{gap:12px;}
 .r-1sxrcry{background-size:auto;}
 .r-1udbk01{text-overflow:ellipsis;}
@@ -363,5 +395,5 @@ input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-web
 @keyframes r-t2lo5v{0%{opacity:1;}100%{opacity:0;}}</style><style id="expo-generated-fonts">@font-face{font-family:"Quicksand_400Regular";src:url("/dose-segura/assets/libs/@expo-google-fonts/quicksand/400Regular/Quicksand_400Regular.5845af22f839a90a9cca3b8ec0e3cff4.ttf");font-display:auto}
 @font-face{font-family:"Quicksand_500Medium";src:url("/dose-segura/assets/libs/@expo-google-fonts/quicksand/500Medium/Quicksand_500Medium.95906e2457ee777801b3ca4b02b4947c.ttf");font-display:auto}
 @font-face{font-family:"Quicksand_600SemiBold";src:url("/dose-segura/assets/libs/@expo-google-fonts/quicksand/600SemiBold/Quicksand_600SemiBold.dc8fa3ed1fa18875d0aac23ecbf64e02.ttf");font-display:auto}
-@font-face{font-family:"Quicksand_700Bold";src:url("/dose-segura/assets/libs/@expo-google-fonts/quicksand/700Bold/Quicksand_700Bold.8003228962d5cafb549cf4034f9ece07.ttf");font-display:auto}</style><link rel="preload" href="/dose-segura/assets/libs/@expo-google-fonts/quicksand/400Regular/Quicksand_400Regular.5845af22f839a90a9cca3b8ec0e3cff4.ttf" as="font" crossorigin="" /><link rel="preload" href="/dose-segura/assets/libs/@expo-google-fonts/quicksand/500Medium/Quicksand_500Medium.95906e2457ee777801b3ca4b02b4947c.ttf" as="font" crossorigin="" /><link rel="preload" href="/dose-segura/assets/libs/@expo-google-fonts/quicksand/600SemiBold/Quicksand_600SemiBold.dc8fa3ed1fa18875d0aac23ecbf64e02.ttf" as="font" crossorigin="" /><link rel="preload" href="/dose-segura/assets/libs/@expo-google-fonts/quicksand/700Bold/Quicksand_700Bold.8003228962d5cafb549cf4034f9ece07.ttf" as="font" crossorigin="" /><script type="module">globalThis.__EXPO_ROUTER_HYDRATE__=true;</script><link rel="icon" href="/dose-segura/favicon.ico" /></head><body><div id="root"><div class="css-g5y9jx r-13awgt0"><!--$--><!--/$--></div></div><script src="/dose-segura/_expo/static/js/web/entry-d4305ad5a1ded5bdbe1c6ae6fc7d44bf.js" defer></script>
+@font-face{font-family:"Quicksand_700Bold";src:url("/dose-segura/assets/libs/@expo-google-fonts/quicksand/700Bold/Quicksand_700Bold.8003228962d5cafb549cf4034f9ece07.ttf");font-display:auto}</style><link rel="preload" href="/dose-segura/assets/libs/@expo-google-fonts/quicksand/400Regular/Quicksand_400Regular.5845af22f839a90a9cca3b8ec0e3cff4.ttf" as="font" crossorigin="" /><link rel="preload" href="/dose-segura/assets/libs/@expo-google-fonts/quicksand/500Medium/Quicksand_500Medium.95906e2457ee777801b3ca4b02b4947c.ttf" as="font" crossorigin="" /><link rel="preload" href="/dose-segura/assets/libs/@expo-google-fonts/quicksand/600SemiBold/Quicksand_600SemiBold.dc8fa3ed1fa18875d0aac23ecbf64e02.ttf" as="font" crossorigin="" /><link rel="preload" href="/dose-segura/assets/libs/@expo-google-fonts/quicksand/700Bold/Quicksand_700Bold.8003228962d5cafb549cf4034f9ece07.ttf" as="font" crossorigin="" /><script type="module">globalThis.__EXPO_ROUTER_HYDRATE__=true;</script><link rel="icon" href="/dose-segura/favicon.ico" /></head><body><div id="root"><div class="css-g5y9jx r-13awgt0"><!--$--><!--/$--></div></div><script src="/dose-segura/_expo/static/js/web/entry-693db0a9feda432efc42487e02b73f92.js" defer></script>
 </body></html>
