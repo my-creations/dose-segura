@@ -1,5 +1,6 @@
-import { RootLayoutNav } from '@/navigation/RootLayoutNav';
+import { CookieConsentBanner } from '@/components/CookieConsentBanner';
 import { AppProviders } from '@/context/AppProviders';
+import { RootLayoutNav } from '@/navigation/RootLayoutNav';
 
 export { ErrorBoundary } from 'expo-router';
 
@@ -12,6 +13,7 @@ export default function RootLayout() {
   return (
     <AppProviders>
       <RootLayoutNav />
+      <CookieConsentBanner />
     </AppProviders>
   );
 }
