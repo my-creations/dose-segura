@@ -19,6 +19,9 @@ export default function FavoritesScreen() {
   const favoriteMedications = favorites
     .map((id) => getMedicationSummary(id))
     .filter((med): med is NonNullable<typeof med> => med !== undefined);
+  const handleToggleFavorite = React.useCallback((id: string) => {
+    toggleFavorite(id);
+  }, [toggleFavorite]);
 
   if (isLoading) {
     return (
@@ -37,7 +40,7 @@ export default function FavoritesScreen() {
           <MedicationCard
             medication={item}
             isFavorite={isFavorite(item.id)}
-            onToggleFavorite={() => toggleFavorite(item.id)}
+            onToggleFavorite={handleToggleFavorite}
           />
         )}
         contentContainerStyle={[

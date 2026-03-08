@@ -6,7 +6,7 @@ import {
   MedicationsIndexData,
   MedicationSummary,
 } from "@/types/medication";
-import React, { createContext, useContext, useMemo } from "react";
+import React, { createContext, useCallback, useContext, useMemo } from "react";
 
 export interface MedicationsContextType {
   medications: MedicationSummary[];
@@ -21,6 +21,10 @@ const MedicationsContext = createContext<MedicationsContextType | undefined>(
   undefined,
 );
 
+function normalizeSearchText(value: string) {
+  return value.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+}
+
 export function MedicationsProvider({
   children,
 }: {
@@ -32,46 +36,41 @@ export function MedicationsProvider({
     return Object.values(data.medications);
   }, []);
 
-  const getMedicationSummary = (id: string): MedicationSummary | undefined => {
-    return data.medications[id];
-  };
+  const searchableMedications = useMemo(() => {
+    return medications.map((medication) => ({
+      medication,
+      normalizedName: normalizeSearchText(medication.name),
+      normalizedAliases: medication.aliases.map(normalizeSearchText),
+    }));
+  }, [medications]);
 
-  const getMedicationDetails = async (
+  const getMedicationSummary = useCallback((id: string): MedicationSummary | undefined => {
+    return data.medications[id];
+  }, [data.medications]);
+
+  const getMedicationDetails = useCallback(async (
     id: string,
   ): Promise<Medication | undefined> => {
     const fullData = (await loadMedicationsFull()) as MedicationsData;
     return fullData.medications[id];
-  };
+  }, []);
 
-  const searchMedications = (query: string): MedicationSummary[] => {
+  const searchMedications = useCallback((query: string): MedicationSummary[] => {
     if (!query.trim()) {
       return medications;
     }
 
-    const normalizedQuery = query
-      .toLowerCase()
-      .normalize("NFD")
-      .replace(/[\u0300-\u036f]/g, "");
+    const normalizedQuery = normalizeSearchText(query);
 
-    return medications.filter((med) => {
-      const normalizedName = med.name
-        .toLowerCase()
-        .normalize("NFD")
-        .replace(/[\u0300-\u036f]/g, "");
-
-      const normalizedAliases = med.aliases.map((alias) =>
-        alias
-          .toLowerCase()
-          .normalize("NFD")
-          .replace(/[\u0300-\u036f]/g, ""),
-      );
-
-      return (
-        normalizedName.includes(normalizedQuery) ||
-        normalizedAliases.some((alias) => alias.includes(normalizedQuery))
-      );
-    });
-  };
+    return searchableMedications
+      .filter(({ normalizedName, normalizedAliases }) => {
+        return (
+          normalizedName.includes(normalizedQuery) ||
+          normalizedAliases.some((alias) => alias.includes(normalizedQuery))
+        );
+      })
+      .map(({ medication }) => medication);
+  }, [medications, searchableMedications]);
 
   const value: MedicationsContextType = {
     medications,

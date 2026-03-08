@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useCallback, useDeferredValue, useMemo, useState } from 'react';
 import { FlatList, Platform, StyleSheet, View } from 'react-native';
 
 import { MedicationCard } from '@/components/MedicationCard';
@@ -13,12 +13,35 @@ import i18n from '@/utils/i18n';
 export default function HomeScreen() {
   const [searchQuery, setSearchQuery] = useState('');
   const { searchMedications, version, lastUpdated } = useMedications();
-  const { isFavorite, toggleFavorite } = useFavorites();
+  const { favorites, toggleFavorite } = useFavorites();
   const colorScheme = useColorScheme();
   const colors = Colors[colorScheme ?? 'light'];
   const isWeb = Platform.OS === 'web';
+  const deferredSearchQuery = useDeferredValue(searchQuery);
 
-  const filteredMedications = searchMedications(searchQuery);
+  const filteredMedications = useMemo(
+    () => searchMedications(deferredSearchQuery),
+    [deferredSearchQuery, searchMedications],
+  );
+  const favoriteIds = useMemo(() => new Set(favorites), [favorites]);
+
+  const handleToggleFavorite = useCallback((id: string) => {
+    toggleFavorite(id);
+  }, [toggleFavorite]);
+
+  const renderItem = useCallback(({ item }: { item: (typeof filteredMedications)[number] }) => (
+    <MedicationCard
+      medication={item}
+      isFavorite={favoriteIds.has(item.id)}
+      onToggleFavorite={handleToggleFavorite}
+    />
+  ), [favoriteIds, handleToggleFavorite]);
+
+  const keyExtractor = useCallback((item: (typeof filteredMedications)[number]) => item.id, []);
+  const shouldRenderAllWebItems = isWeb && filteredMedications.length <= 150;
+  const webRenderCount = shouldRenderAllWebItems
+    ? Math.max(filteredMedications.length, 1)
+    : 24;
 
   return (
     <View style={[styles.container, { backgroundColor: colors.background }]} testID="home-screen">
@@ -30,18 +53,13 @@ export default function HomeScreen() {
 
       <FlatList
         data={filteredMedications}
-        keyExtractor={(item) => item.id}
-        renderItem={({ item }) => (
-          <MedicationCard
-            medication={item}
-            isFavorite={isFavorite(item.id)}
-            onToggleFavorite={() => toggleFavorite(item.id)}
-          />
-        )}
+        keyExtractor={keyExtractor}
+        renderItem={renderItem}
         contentContainerStyle={styles.list}
-        initialNumToRender={isWeb ? 6 : 12}
-        maxToRenderPerBatch={isWeb ? 4 : 8}
-        windowSize={isWeb ? 3 : 5}
+        initialNumToRender={isWeb ? webRenderCount : 12}
+        maxToRenderPerBatch={isWeb ? webRenderCount : 10}
+        windowSize={isWeb ? 15 : 7}
+        updateCellsBatchingPeriod={isWeb ? 0 : 16}
         removeClippedSubviews={!isWeb}
         keyboardShouldPersistTaps="handled"
         ListEmptyComponent={

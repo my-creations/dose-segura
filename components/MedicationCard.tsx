@@ -12,10 +12,10 @@ import { MedicationSummary } from '@/types/medication';
 interface MedicationCardProps {
   medication: MedicationSummary;
   isFavorite?: boolean;
-  onToggleFavorite?: () => void;
+  onToggleFavorite?: (id: string) => void;
 }
 
-export function MedicationCard({ medication, isFavorite = false, onToggleFavorite }: MedicationCardProps) {
+function MedicationCardComponent({ medication, isFavorite = false, onToggleFavorite }: MedicationCardProps) {
   const colorScheme = useColorScheme();
   const colors = Colors[colorScheme ?? 'light'];
   const isWeb = Platform.OS === 'web';
@@ -25,7 +25,7 @@ export function MedicationCard({ medication, isFavorite = false, onToggleFavorit
       onPress={(e) => {
         e?.stopPropagation?.();
         e?.preventDefault?.();
-        onToggleFavorite?.();
+        onToggleFavorite?.(medication.id);
       }}
       style={isWeb ? styles.favoriteButtonInline : styles.favoriteButton}
       hitSlop={10}
@@ -94,6 +94,13 @@ export function MedicationCard({ medication, isFavorite = false, onToggleFavorit
     </Link>
   );
 }
+
+export const MedicationCard = React.memo(
+  MedicationCardComponent,
+  (previousProps, nextProps) =>
+    previousProps.medication === nextProps.medication &&
+    previousProps.isFavorite === nextProps.isFavorite,
+);
 
 const styles = StyleSheet.create({
   container: {
