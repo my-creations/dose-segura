@@ -8,10 +8,13 @@ import { DarkTheme, DefaultTheme, ThemeProvider } from '@react-navigation/native
 import { useFonts } from 'expo-font';
 import { Stack } from 'expo-router';
 import * as SplashScreen from 'expo-splash-screen';
-import { useEffect } from 'react';
+import { Fragment, useEffect } from 'react';
+import { Platform } from 'react-native';
 import 'react-native-reanimated';
 
+import { CookieConsentBanner } from '@/components/CookieConsentBanner';
 import { Colors } from '@/constants/Colors';
+import { CookieConsentProvider } from '@/context/CookieConsentContext';
 import { FavoritesProvider } from '@/context/FavoritesContext';
 import { MedicationsProvider } from '@/context/MedicationsContext';
 import { AppThemeProvider } from '@/context/ThemeContext';
@@ -54,12 +57,17 @@ const PastelDarkTheme = {
 };
 
 export default function RootLayout() {
-  const [loaded, error] = useFonts({
-    Quicksand_400Regular,
-    Quicksand_500Medium,
-    Quicksand_600SemiBold,
-    Quicksand_700Bold,
-  });
+  const [loaded, error] = useFonts(
+    Platform.OS === 'web'
+      ? {}
+      : {
+          Quicksand_400Regular,
+          Quicksand_500Medium,
+          Quicksand_600SemiBold,
+          Quicksand_700Bold,
+        }
+  );
+  const fontsReady = loaded || Platform.OS === 'web';
 
   // Expo Router uses Error Boundaries to catch errors in the navigation tree.
   useEffect(() => {
@@ -67,12 +75,12 @@ export default function RootLayout() {
   }, [error]);
 
   useEffect(() => {
-    if (loaded) {
+    if (Platform.OS !== 'web' && loaded) {
       SplashScreen.hideAsync();
     }
   }, [loaded]);
 
-  if (!loaded) {
+  if (!fontsReady) {
     return null;
   }
 
@@ -89,27 +97,32 @@ function RootLayoutNav() {
   return (
     <MedicationsProvider>
       <FavoritesProvider>
-        <ThemeProvider value={colorScheme === 'dark' ? PastelDarkTheme : PastelLightTheme}>
-          <Stack
-            screenOptions={{
-              headerTitleStyle: {
-                fontFamily: 'Quicksand_600SemiBold',
-              },
-            }}
-          >
-            <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
-            <Stack.Screen 
-              name="medication/[id]" 
-              options={{ 
-                headerShown: true, 
-                title: 'Medicamento',
-                headerTintColor: Colors[colorScheme ?? 'light'].tint,
-                headerBackTitle: 'Voltar',
-              }} 
-            />
-            <Stack.Screen name="modal" options={{ presentation: 'modal' }} />
-          </Stack>
-        </ThemeProvider>
+        <CookieConsentProvider>
+          <ThemeProvider value={colorScheme === 'dark' ? PastelDarkTheme : PastelLightTheme}>
+            <Fragment>
+              <Stack
+                screenOptions={{
+                  headerTitleStyle: {
+                    fontFamily: 'Quicksand_600SemiBold',
+                  },
+                }}
+              >
+                <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
+                <Stack.Screen 
+                  name="medication/[id]" 
+                  options={{ 
+                    headerShown: true, 
+                    title: 'Medicamento',
+                    headerTintColor: Colors[colorScheme ?? 'light'].tint,
+                    headerBackTitle: 'Voltar',
+                  }} 
+                />
+                <Stack.Screen name="modal" options={{ presentation: 'modal' }} />
+              </Stack>
+              <CookieConsentBanner />
+            </Fragment>
+          </ThemeProvider>
+        </CookieConsentProvider>
       </FavoritesProvider>
     </MedicationsProvider>
   );

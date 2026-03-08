@@ -1,6 +1,9 @@
 import { defineConfig, devices } from '@playwright/test';
 
+delete process.env.NO_COLOR;
+
 const PORT = process.env.E2E_PORT ? Number(process.env.E2E_PORT) : 8081;
+const WEB_SERVER_COMMAND = `npm run web -- --port ${PORT}`;
 
 export default defineConfig({
   testDir: './tests',
@@ -18,7 +21,7 @@ export default defineConfig({
     video: 'retain-on-failure',
   },
   webServer: {
-    command: 'npm run web',
+    command: WEB_SERVER_COMMAND,
     port: PORT,
     reuseExistingServer: !process.env.CI,
     timeout: 120 * 1000,

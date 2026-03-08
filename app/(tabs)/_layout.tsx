@@ -1,14 +1,32 @@
 import { Ionicons } from '@expo/vector-icons';
+import { BottomTabBar, type BottomTabBarProps } from '@react-navigation/bottom-tabs';
 import { Tabs } from 'expo-router';
 import React from 'react';
+import { Platform, StyleSheet, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
+import { WebBottomAdBanner } from '@/components/WebBottomAdBanner';
 import { Colors } from '@/constants/Colors';
 import { useColorScheme } from '@/hooks/useColorScheme';
 import i18n from '@/utils/i18n';
 
 function TabBarIcon(props: { name: React.ComponentProps<typeof Ionicons>['name']; color: string }) {
   return <Ionicons size={24} style={{ marginBottom: 0 }} {...props} />;
+}
+
+function TabBarWithWebAd(props: BottomTabBarProps) {
+  const shouldRenderWebAd = Platform.OS === 'web' && process.env.EXPO_PUBLIC_ENABLE_WEB_ADS === 'true';
+
+  if (!shouldRenderWebAd) {
+    return <BottomTabBar {...props} />;
+  }
+
+  return (
+    <View style={styles.tabBarWrapper}>
+      <WebBottomAdBanner />
+      <BottomTabBar {...props} />
+    </View>
+  );
 }
 
 export default function TabLayout() {
@@ -18,6 +36,7 @@ export default function TabLayout() {
 
   return (
     <Tabs
+      tabBar={(props) => <TabBarWithWebAd {...props} />}
       screenOptions={{
         tabBarActiveTintColor: colors.tint,
         tabBarInactiveTintColor: colors.tabIconDefault,
@@ -67,3 +86,9 @@ export default function TabLayout() {
     </Tabs>
   );
 }
+
+const styles = StyleSheet.create({
+  tabBarWrapper: {
+    backgroundColor: 'transparent',
+  },
+});

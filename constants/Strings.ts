@@ -25,6 +25,7 @@ export const Strings = {
     settings: {
       appearance: 'Aparência',
       databaseInfo: 'Informações da Base de Dados',
+      privacy: 'Privacidade e Cookies',
       about: 'Sobre',
       application: 'Aplicação',
       themes: {
@@ -57,6 +58,24 @@ export const Strings = {
       },
       aboutText: 'Dose Segura é uma aplicação de referência para auxiliar profissionais de saúde na administração de medicamentos',
       warningText: 'Esta aplicação é apenas para referência. Verifique sempre a informação com fontes oficiais e a farmácia antes de administrar qualquer medicamento',
+      cookies: {
+        description: 'Este controlo aplica-se à versão web. Ao ativar publicidade, a app pode usar cookies de publicidade e mostrar anúncios. Ao desativar, os anúncios deixam de ser mostrados',
+        currentStatus: 'Estado atual',
+        toggleLabel: 'Ativar publicidade',
+        toggleHelp: 'Ligado: aceita cookies de publicidade e permite mostrar anúncios. Desligado: bloqueia cookies de publicidade e desativa anúncios',
+        supportNote: 'Ao permitir publicidade, ajuda a financiar a manutenção e o desenvolvimento contínuo da app',
+        status: {
+          pending: 'Escolha pendente',
+          accepted: 'Publicidade ativada',
+          rejected: 'Publicidade desativada',
+        },
+      },
+    },
+    cookies: {
+      title: 'Cookies para publicidade',
+      description: 'Usamos cookies para mostrar anúncios relevantes na versão web. Pode aceitar ou rejeitar cookies não essenciais.',
+      accept: 'Aceitar',
+      reject: 'Rejeitar',
     },
     medication: {
       disclaimer: '⚠️ Esta informação é apenas para referência. Verifique sempre com a farmácia antes de administrar',
