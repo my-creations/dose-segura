@@ -8,6 +8,9 @@ const ASSETS_DIR = path.join(DIST_DIR, 'assets');
 const NODE_MODULES_DIR = path.join(ASSETS_DIR, 'node_modules');
 const LIBS_DIR = path.join(ASSETS_DIR, 'libs');
 const PUBLIC_DIR = path.join(__dirname, '..', 'public');
+const INDEX_HTML_PATH = path.join(DIST_DIR, 'index.html');
+const NOT_FOUND_HTML_PATH = path.join(DIST_DIR, '404.html');
+const NOJEKYLL_PATH = path.join(DIST_DIR, '.nojekyll');
 
 function fixWebBuild() {
   console.log('🔧 Starting web build fix...');
@@ -56,7 +59,13 @@ function fixWebBuild() {
       
       // Replace "assets/node_modules" with "assets/libs"
       // This regex captures the string literal usage in JS and URL paths in HTML/CSS
-      const newContent = content.replace(/assets\/node_modules/g, 'assets/libs');
+      let newContent = content.replace(/assets\/node_modules/g, 'assets/libs');
+
+      // Expo may emit an empty react-helmet title before the real title.
+      // Remove the empty one so crawlers only see the meaningful document title.
+      if (filePath.endsWith('.html')) {
+        newContent = newContent.replace(/<title data-rh="true"><\/title>/g, '');
+      }
 
       if (content !== newContent) {
         fs.writeFileSync(filePath, newContent, 'utf8');
@@ -66,6 +75,15 @@ function fixWebBuild() {
       console.error(`Error processing ${filePath}:`, err);
     }
   });
+
+  // 3. Make the export directly deployable to GitHub Pages
+  if (fs.existsSync(INDEX_HTML_PATH)) {
+    console.log('📄 Ensuring 404.html exists for GitHub Pages SPA fallback...');
+    fs.copyFileSync(INDEX_HTML_PATH, NOT_FOUND_HTML_PATH);
+  }
+
+  console.log('🪧 Ensuring .nojekyll exists for GitHub Pages asset serving...');
+  fs.writeFileSync(NOJEKYLL_PATH, '', 'utf8');
 
   console.log(`✅ Fixed references in ${updateCount} files.`);
   console.log('✨ Web build fix complete!');

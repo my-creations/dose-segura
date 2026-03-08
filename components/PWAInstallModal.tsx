@@ -2,9 +2,9 @@ import React from 'react';
 import { Modal, Pressable, ScrollView, StyleSheet, View } from 'react-native';
 
 import { Ionicons } from '@expo/vector-icons';
-
 import { ThemedText } from '@/components/ThemedText';
 import { Colors } from '@/constants/Colors';
+import { modalShadow } from '@/constants/Shadows';
 import { useColorScheme } from '@/hooks/useColorScheme';
 import i18n from '@/utils/i18n';
 
@@ -97,14 +97,7 @@ const styles = StyleSheet.create({
     maxWidth: 400,
     borderRadius: 24,
     padding: 24,
-    shadowColor: '#000',
-    shadowOffset: {
-      width: 0,
-      height: 2,
-    },
-    shadowOpacity: 0.25,
-    shadowRadius: 4,
-    elevation: 5,
+    ...modalShadow,
   },
   header: {
     flexDirection: 'row',

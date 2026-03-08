@@ -2,8 +2,9 @@
 import React, { useEffect } from 'react';
 import { render, waitFor } from '@testing-library/react-native';
 
+import medsData from '@/data/meds.json';
 import { MedicationsContextType, MedicationsProvider, useMedications } from '@/context/MedicationsContext';
-import { Medication } from '@/types/medication';
+import { MedicationSummary, MedicationsData } from '@/types/medication';
 
 describe('searchMedications', () => {
   function renderWithProvider(onReady: (value: MedicationsContextType) => void) {
@@ -52,7 +53,7 @@ describe('searchMedications', () => {
 
     const results = contextValue!.searchMedications('acetilcisteina');
 
-    expect(results.some((med: Medication) => med.id === 'acetilcisteina')).toBe(true);
+    expect(results.some((med: MedicationSummary) => med.id === 'acetilcisteina')).toBe(true);
   });
 
   it('matches medication aliases', async () => {
@@ -68,7 +69,7 @@ describe('searchMedications', () => {
 
     const results = contextValue!.searchMedications('nac');
 
-    expect(results.some((med: Medication) => med.id === 'acetilcisteina')).toBe(true);
+    expect(results.some((med: MedicationSummary) => med.id === 'acetilcisteina')).toBe(true);
   });
 
   it('returns no results when query does not match', async () => {
@@ -85,5 +86,39 @@ describe('searchMedications', () => {
     const results = contextValue!.searchMedications('medicamento-inexistente-xyz');
 
     expect(results).toHaveLength(0);
+  });
+
+  it('loads medication details on demand', async () => {
+    let contextValue: MedicationsContextType | null = null;
+
+    renderWithProvider((value) => {
+      contextValue = value;
+    });
+
+    await waitFor(() => {
+      expect(contextValue).not.toBeNull();
+    });
+
+    await expect(contextValue!.getMedicationDetails('acetilcisteina')).resolves.toMatchObject({
+      id: 'acetilcisteina',
+      name: 'Acetilcisteína',
+    });
+  });
+
+  it('returns medication details that match the source JSON record', async () => {
+    let contextValue: MedicationsContextType | null = null;
+
+    renderWithProvider((value) => {
+      contextValue = value;
+    });
+
+    await waitFor(() => {
+      expect(contextValue).not.toBeNull();
+    });
+
+    const expectedMedication = (medsData as MedicationsData).medications.acetilcisteina;
+    const actualMedication = await contextValue!.getMedicationDetails('acetilcisteina');
+
+    expect(actualMedication).toEqual(expectedMedication);
   });
 });

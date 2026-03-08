@@ -1,3 +1,4 @@
+import { Ionicons } from '@expo/vector-icons';
 import React from 'react';
 import { FlatList, StyleSheet, View } from 'react-native';
 
@@ -8,17 +9,16 @@ import { useMedications } from '@/context/MedicationsContext';
 import { useColorScheme } from '@/hooks/useColorScheme';
 import { useFavorites } from '@/hooks/useFavorites';
 import i18n from '@/utils/i18n';
-import { Ionicons } from '@expo/vector-icons';
 
 export default function FavoritesScreen() {
-  const { getMedication } = useMedications();
+  const { getMedicationSummary } = useMedications();
   const { favorites, isFavorite, toggleFavorite, isLoading } = useFavorites();
   const colorScheme = useColorScheme();
   const colors = Colors[colorScheme ?? 'light'];
 
   const favoriteMedications = favorites
-    .map((id) => getMedication(id))
-    .filter((med) => med !== undefined);
+    .map((id) => getMedicationSummary(id))
+    .filter((med): med is NonNullable<typeof med> => med !== undefined);
 
   if (isLoading) {
     return (

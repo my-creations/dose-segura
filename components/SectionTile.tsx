@@ -1,8 +1,9 @@
 import React from 'react';
-import { Platform, StyleSheet, View, ViewStyle } from 'react-native';
+import { StyleSheet, View, ViewStyle } from 'react-native';
 
 import { ThemedText } from '@/components/ThemedText';
 import { Colors, SECTION_COLORS, SectionKey } from '@/constants/Colors';
+import { pastelCardShadow } from '@/constants/Shadows';
 import { useColorScheme } from '@/hooks/useColorScheme';
 
 interface SectionTileProps {
@@ -64,20 +65,7 @@ const styles = StyleSheet.create({
   container: {
     borderRadius: 16,
     overflow: 'hidden',
-    ...Platform.select({
-      ios: {
-        shadowColor: '#E8A0BF',
-        shadowOffset: { width: 0, height: 2 },
-        shadowOpacity: 0.1,
-        shadowRadius: 6,
-      },
-      android: {
-        elevation: 2,
-      },
-      web: {
-        boxShadow: '0px 2px 6px rgba(232, 160, 191, 0.1)',
-      },
-    }),
+    ...pastelCardShadow,
   },
   header: {
     paddingHorizontal: 16,

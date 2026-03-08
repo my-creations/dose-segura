@@ -1,0 +1,1528 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-02-11",
+  "medications": {
+    "acetilcisteina": {
+      "id": "acetilcisteina",
+      "name": "Acetilcisteína",
+      "aliases": [
+        "NAC",
+        "N-acetilcisteína",
+        "Fluimucil",
+        "Acetilcisteína Sandoz"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Expetorante",
+        "Mucolítico"
+      ]
+    },
+    "acetilsalicilato-de-lisina": {
+      "id": "acetilsalicilato-de-lisina",
+      "name": "Acetilsalicilato de Lisina",
+      "aliases": [
+        "Aspegic",
+        "AAS",
+        "Ácido acetilsalicílico"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Analgésico",
+        "Antipirético",
+        "Anti-inflamatório não esteroide (AINE)"
+      ]
+    },
+    "aciclovir": {
+      "id": "aciclovir",
+      "name": "Aciclovir (sódico)",
+      "aliases": [
+        "Zovirax",
+        "Aciclovax",
+        "Fauviral"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antiviral"
+      ]
+    },
+    "acido-aminocaproico": {
+      "id": "acido-aminocaproico",
+      "name": "Ácido Aminocapróico",
+      "aliases": [
+        "Epsicaprom",
+        "Amicar",
+        "Ipsilon"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Anti-hemorrágico",
+        "Antifibrinolítico"
+      ]
+    },
+    "adenosina": {
+      "id": "adenosina",
+      "name": "Adenosina",
+      "aliases": [
+        "Adenocor",
+        "Adenocard",
+        "Adenosina Baxter"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Antiarrítmico"
+      ]
+    },
+    "adrenalina": {
+      "id": "adrenalina",
+      "name": "Adrenalina (cloridrato/tartarato)",
+      "aliases": [
+        "Epinefrina",
+        "Adrenalina Basi"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Simpaticomimético",
+        "Agente adrenérgico e dopaminérgico"
+      ]
+    },
+    "albumina-humana": {
+      "id": "albumina-humana",
+      "name": "Albumina Humana 20%",
+      "aliases": [
+        "Albuminex",
+        "Alburex",
+        "Albumina Humana CSL Behring"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Corretivo do volume e das alterações eletrolíticas",
+        "Substituto do plasma"
+      ]
+    },
+    "alfentanil": {
+      "id": "alfentanil",
+      "name": "Alfentanil (cloridrato)",
+      "aliases": [
+        "Rapifen",
+        "Alfentanilo Hameln"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Analgésico opioide",
+        "Anestésico geral"
+      ]
+    },
+    "alprostadilo": {
+      "id": "alprostadilo",
+      "name": "Alprostadilo (Prostaglandina E1)",
+      "aliases": [
+        "Prostin VR"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Prostaglandina"
+      ]
+    },
+    "ambroxol": {
+      "id": "ambroxol",
+      "name": "Ambroxol (cloridrato)",
+      "aliases": [
+        "Mucosolvan",
+        "Broncoliber"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Expetorante",
+        "Mucolítico"
+      ]
+    },
+    "amicacina": {
+      "id": "amicacina",
+      "name": "Amicacina (sulfato)",
+      "aliases": [
+        "Amicacina Hikma",
+        "Amikin",
+        "Biclin"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antibacteriano",
+        "Aminoglicosídeo"
+      ]
+    },
+    "aminofilina": {
+      "id": "aminofilina",
+      "name": "Aminofilina",
+      "aliases": [
+        "Eufilina",
+        "Teofilina etilenodiamina",
+        "Aminofilina Labesfal"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Broncodilatador",
+        "Antiasmático",
+        "Xantina"
+      ]
+    },
+    "amiodarona": {
+      "id": "amiodarona",
+      "name": "Amiodarona (cloridrato)",
+      "aliases": [
+        "Cordarone",
+        "Atlansil"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Antiarrítmico (Classe III)"
+      ]
+    },
+    "amoxicilina-acido-clavulanico": {
+      "id": "amoxicilina-acido-clavulanico",
+      "name": "Amoxicilina + Ácido Clavulânico",
+      "aliases": [
+        "Augmentin",
+        "Clavamox"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antibacteriano",
+        "Penicilina com inibidor de beta-lactamase"
+      ]
+    },
+    "ampicilina": {
+      "id": "ampicilina",
+      "name": "Ampicilina (sódica)",
+      "aliases": [
+        "Penbritin",
+        "Ampicilina Labesfal"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antibacteriano",
+        "Penicilina (Aminopenicilina)"
+      ]
+    },
+    "anfotericina-b-lipossomica": {
+      "id": "anfotericina-b-lipossomica",
+      "name": "Anfotericina B Lipossómica",
+      "aliases": [
+        "Ambisome",
+        "AmBisome"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Antifúngico"
+      ]
+    },
+    "antigene-superficie-b": {
+      "id": "antigene-superficie-b",
+      "name": "Vacina Hepatite B (AgHBs)",
+      "aliases": [
+        "Engerix B",
+        "Recombivax HB"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Vacina viral inativada (rDNA)"
+      ]
+    },
+    "atracurio": {
+      "id": "atracurio",
+      "name": "Besilato de Atracúrio",
+      "aliases": [
+        "Tracrium",
+        "Besilato de Atracúrio Basi"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Relaxante neuromuscular (não despolarizante)"
+      ]
+    },
+    "atropina": {
+      "id": "atropina",
+      "name": "Sulfato de Atropina",
+      "aliases": [
+        "Atropen",
+        "Atropina Basi"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Anticolinérgico",
+        "Antídoto",
+        "Antiarrítmico"
+      ]
+    },
+    "azitromicina": {
+      "id": "azitromicina",
+      "name": "Azitromicina",
+      "aliases": [
+        "Zithromax",
+        "Azitrix",
+        "Azitromicina Altan"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antibacteriano",
+        "Macrólido"
+      ]
+    },
+    "betametasona": {
+      "id": "betametasona",
+      "name": "Betametasona (Dipropionato + Fosfato Sódico)",
+      "aliases": [
+        "Diprofos Depot",
+        "Diprofos",
+        "Celestoderm"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Glucocorticoide de ação prolongada"
+      ]
+    },
+    "bicarbonato-de-sodio": {
+      "id": "bicarbonato-de-sodio",
+      "name": "Bicarbonato de Sódio 8,4%",
+      "aliases": [
+        "NaHCO3",
+        "Bicarbonato",
+        "Bicarbonato de Sódio Labesfal"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Corretivo do equilíbrio ácido-base",
+        "Alcalinizante"
+      ]
+    },
+    "biperideno-lactato": {
+      "id": "biperideno-lactato",
+      "name": "Lactato de Biperideno",
+      "aliases": [
+        "Akineton"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Anticolinérgico",
+        "Antiparkinsónico"
+      ]
+    },
+    "buflomedil-cloridrato": {
+      "id": "buflomedil-cloridrato",
+      "name": "Buflomedil (cloridrato)",
+      "aliases": [
+        "Loftyl"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Vasodilatador"
+      ]
+    },
+    "butilescopolamina-brometo": {
+      "id": "butilescopolamina-brometo",
+      "name": "Brometo de Butilescopolamina",
+      "aliases": [
+        "Buscopan"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antiespasmódico",
+        "Anticolinérgico periférico"
+      ]
+    },
+    "calcitriol": {
+      "id": "calcitriol",
+      "name": "Calcitriol (1,25-di-hidroxivitamina D3)",
+      "aliases": [
+        "Rocaltrol",
+        "Calcijex"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Vitamina D (Metabolito ativo)"
+      ]
+    },
+    "cianocobalamina": {
+      "id": "cianocobalamina",
+      "name": "Cianocobalamina",
+      "aliases": [
+        "Vitamina B12",
+        "Cianocobalamina Labesfal"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antianémico",
+        "Tratamento de anemias megaloblásticas"
+      ]
+    },
+    "ciclosporina": {
+      "id": "ciclosporina",
+      "name": "Ciclosporina",
+      "aliases": [
+        "Sandimmun",
+        "Neoral"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Imunossupressor"
+      ]
+    },
+    "cimetidina": {
+      "id": "cimetidina",
+      "name": "Cimetidina",
+      "aliases": [
+        "Tagamet",
+        "Cimetidina Labesfal"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antagonista dos recetores H2",
+        "Modificador da secreção gástrica"
+      ]
+    },
+    "ciprofloxacina": {
+      "id": "ciprofloxacina",
+      "name": "Ciprofloxacina",
+      "aliases": [
+        "Cipro",
+        "Ciprobay",
+        "Ciprofloxacina Kabi"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antibacteriano",
+        "Fluoroquinolona"
+      ]
+    },
+    "citicolina-sodica": {
+      "id": "citicolina-sodica",
+      "name": "Citicolina (sódica)",
+      "aliases": [
+        "Somazina",
+        "Trausan"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Tratamento da alteração da função cognitiva",
+        "Neuroprotector"
+      ]
+    },
+    "claritromicina-lactobionato": {
+      "id": "claritromicina-lactobionato",
+      "name": "Claritromicina (lactobionato)",
+      "aliases": [
+        "Klacid"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antibacteriano",
+        "Macrólido"
+      ]
+    },
+    "clindamicina": {
+      "id": "clindamicina",
+      "name": "Clindamicina",
+      "aliases": [
+        "Clincina",
+        "Dalacin",
+        "Clindamicina Labesfal"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antibacteriano",
+        "Lincosamida"
+      ]
+    },
+    "clomipramina-cloridrato": {
+      "id": "clomipramina-cloridrato",
+      "name": "Clomipramina (cloridrato)",
+      "aliases": [
+        "Anafranil"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antidepressivo tricíclico",
+        "Psicofármaco"
+      ]
+    },
+    "clorazepato-potassico": {
+      "id": "clorazepato-potassico",
+      "name": "Clorazepato (dipotássico)",
+      "aliases": [
+        "Tranxene",
+        "Tranxilium"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Ansiolítico",
+        "Sedativo e hipnótico",
+        "Benzodiazepina"
+      ]
+    },
+    "cloropromazina": {
+      "id": "cloropromazina",
+      "name": "Cloropromazina (cloridrato)",
+      "aliases": [
+        "Largactil"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antipsicótico",
+        "Psicofármaco",
+        "Neuroléptico"
+      ]
+    },
+    "cobamamida": {
+      "id": "cobamamida",
+      "name": "Cobamamida",
+      "aliases": [
+        "Jaba B12",
+        "Enzicoba"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antianémico",
+        "Tratamento das anemias megaloblásticas"
+      ]
+    },
+    "colistina-sulfometato-sodico": {
+      "id": "colistina-sulfometato-sodico",
+      "name": "Colistina (sulfometato sódico)",
+      "aliases": [
+        "Colimicina",
+        "Colistín",
+        "Colistina Generis"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Polimixina",
+        "Antibacteriano"
+      ]
+    },
+    "dexametasona": {
+      "id": "dexametasona",
+      "name": "Dexametasona (fosfato sódico)",
+      "aliases": [
+        "Decadron",
+        "Dexametasona Fosfato",
+        "Dexametasona Basi"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Glucocorticoide"
+      ]
+    },
+    "diazepam": {
+      "id": "diazepam",
+      "name": "Diazepam",
+      "aliases": [
+        "Valium"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Psicofármaco",
+        "Ansiolítico, sedativo e hipnótico"
+      ]
+    },
+    "digoxina": {
+      "id": "digoxina",
+      "name": "Digoxina",
+      "aliases": [
+        "Lanoxin"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Cardiotónico",
+        "Digitálico"
+      ]
+    },
+    "dobutamina": {
+      "id": "dobutamina",
+      "name": "Dobutamina (cloridrato)",
+      "aliases": [
+        "Dobutrex"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Simpaticomimético"
+      ]
+    },
+    "droperidol": {
+      "id": "droperidol",
+      "name": "Droperidol",
+      "aliases": [
+        "Inapsine"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Psicofármaco",
+        "Antipsicótico"
+      ]
+    },
+    "eritromicina-lactobionato": {
+      "id": "eritromicina-lactobionato",
+      "name": "Eritromicina (lactobionato)",
+      "aliases": [
+        "Eritrocina"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antibacteriano",
+        "Macrólido"
+      ]
+    },
+    "ertapenem": {
+      "id": "ertapenem",
+      "name": "Ertapenem",
+      "aliases": [
+        "Invanz"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antibacteriano",
+        "Beta-lactâmico"
+      ]
+    },
+    "esmolol-cloridrato": {
+      "id": "esmolol-cloridrato",
+      "name": "Esmolol (cloridrato)",
+      "aliases": [
+        "Brevibloc"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Betabloqueante"
+      ]
+    },
+    "esomeprazol-sodico": {
+      "id": "esomeprazol-sodico",
+      "name": "Esomeprazol (sódico)",
+      "aliases": [
+        "Nexium"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Inibidor da bomba de protões"
+      ]
+    },
+    "estreptomicina": {
+      "id": "estreptomicina",
+      "name": "Estreptomicina (sulfato)",
+      "aliases": [
+        "Streptomycin"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antibacteriano",
+        "Aminoglicosídeo"
+      ]
+    },
+    "estreptoquinase": {
+      "id": "estreptoquinase",
+      "name": "Estreptoquinase",
+      "aliases": [
+        "Streptase"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Anticoagulante",
+        "Antitrombótico"
+      ]
+    },
+    "etomidato": {
+      "id": "etomidato",
+      "name": "Etomidato",
+      "aliases": [
+        "Hypnomidate",
+        "Etomidato-Lipuro"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Anestésico geral"
+      ]
+    },
+    "fenitoina-sodica": {
+      "id": "fenitoina-sodica",
+      "name": "Fenitoína (sódica)",
+      "aliases": [
+        "Dilantin",
+        "Epanutin",
+        "Fenitoína Generis"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Antiepiléptico e anticonvulsivante"
+      ]
+    },
+    "fenobarbital-sodico": {
+      "id": "fenobarbital-sodico",
+      "name": "Fenobarbital (sódico)",
+      "aliases": [
+        "Gardenal",
+        "Luminal"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Antiepiléptico",
+        "Anticonvulsivante"
+      ]
+    },
+    "ferro-carboximaltose-ferrica": {
+      "id": "ferro-carboximaltose-ferrica",
+      "name": "Ferro (carboximaltose férrica)",
+      "aliases": [
+        "Ferinject",
+        "Carboximaltose férrica Mylan"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antianémico"
+      ]
+    },
+    "ferro-hidroxido-sacarato": {
+      "id": "ferro-hidroxido-sacarato",
+      "name": "Ferro, hidróxido (sacarato)",
+      "aliases": [
+        "Venofer"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antianémico"
+      ]
+    },
+    "fitomenadiona": {
+      "id": "fitomenadiona",
+      "name": "Fitomenadiona",
+      "aliases": [
+        "Kanavit",
+        "Konakion",
+        "Vitamina K1",
+        "Kanakion MM"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Hemostático",
+        "Vitamina K1"
+      ]
+    },
+    "fluconazol": {
+      "id": "fluconazol",
+      "name": "Fluconazol",
+      "aliases": [
+        "Diflucan",
+        "Fluconazol Kabi"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antifúngico designado por imidazóis"
+      ]
+    },
+    "flumazenilo": {
+      "id": "flumazenilo",
+      "name": "Flumazenilo",
+      "aliases": [
+        "Anexate",
+        "Flumazenilo Fresenius Kabi"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antídoto das benzodiazepinas"
+      ]
+    },
+    "fosfato-monopotassico": {
+      "id": "fosfato-monopotassico",
+      "name": "Fosfato monopotássico",
+      "aliases": [
+        "Potássio"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Correctivo electrolítico"
+      ]
+    },
+    "furosemida": {
+      "id": "furosemida",
+      "name": "Furosemida",
+      "aliases": [
+        "Lasix"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Anti-hipertensor",
+        "Diurético de ansa"
+      ]
+    },
+    "gentamicina-sulfato": {
+      "id": "gentamicina-sulfato",
+      "name": "Gentamicina (sulfato)",
+      "aliases": [
+        "Garamycin",
+        "Gentamicina Labesfal"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antibacteriano",
+        "Aminoglicosídeo"
+      ]
+    },
+    "granisetron-cloridrato": {
+      "id": "granisetron-cloridrato",
+      "name": "Granisetron (cloridrato)",
+      "aliases": [
+        "Kytril"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antiemético e antivertiginoso",
+        "Antagonista da serotonina"
+      ]
+    },
+    "haloperidol": {
+      "id": "haloperidol",
+      "name": "Haloperidol",
+      "aliases": [
+        "Haldol",
+        "Haloperidol Teva"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Psicofármaco",
+        "Antipsicótico"
+      ]
+    },
+    "heparina-sodica": {
+      "id": "heparina-sodica",
+      "name": "Heparina (sódica)",
+      "aliases": [
+        "Liquemine",
+        "Heparina LEO"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Anticoagulante e Antitrombótico"
+      ]
+    },
+    "iloprost-trometamol": {
+      "id": "iloprost-trometamol",
+      "name": "Iloprost (trometamol)",
+      "aliases": [
+        "Ventavis",
+        "Iloprost Waymade"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antiagregante plaquetário"
+      ]
+    },
+    "imipenem-cilastatina-sodica": {
+      "id": "imipenem-cilastatina-sodica",
+      "name": "Imipenem + Cilastatina (sódica)",
+      "aliases": [
+        "Tienam",
+        "Imipenem/Cilastatina Hikma"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antibacteriano",
+        "Carbapeneme"
+      ]
+    },
+    "labetalol-cloridrato": {
+      "id": "labetalol-cloridrato",
+      "name": "Labetalol (cloridrato)",
+      "aliases": [
+        "Trandate",
+        "Labetalol Pharmakern"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Anti-Hipertensor"
+      ]
+    },
+    "levetiracetam-cloridrato": {
+      "id": "levetiracetam-cloridrato",
+      "name": "Levetiracetam (cloridrato)",
+      "aliases": [
+        "Keppra"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antiepiléptico",
+        "Outros antiepilépticos"
+      ]
+    },
+    "levobupivacaina-cloridrato": {
+      "id": "levobupivacaina-cloridrato",
+      "name": "Levobupivacaína (cloridrato)",
+      "aliases": [
+        "Chirocaine",
+        "Levobupivacaína NORMON"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Anestésico local"
+      ]
+    },
+    "levofloxacina": {
+      "id": "levofloxacina",
+      "name": "Levofloxacina",
+      "aliases": [
+        "Tavanic",
+        "Levofloxacina Basi"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Fluoroquinolona"
+      ]
+    },
+    "levotiroxina-sodica": {
+      "id": "levotiroxina-sodica",
+      "name": "Levotiroxina (sódica)",
+      "aliases": [
+        "Synthroid",
+        "Eutirox",
+        "Letter"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Hormona da tiroide"
+      ]
+    },
+    "lidocaina-cloridrato": {
+      "id": "lidocaina-cloridrato",
+      "name": "Lidocaína (cloridrato)",
+      "aliases": [
+        "Xylocaine",
+        "Lidocaína Braun"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Anestésico",
+        "Antiarrítmico"
+      ]
+    },
+    "linezolida": {
+      "id": "linezolida",
+      "name": "Linezolida",
+      "aliases": [
+        "Zyvoxid",
+        "Linezolida Altan"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antibacteriano",
+        "Oxazolidinona"
+      ]
+    },
+    "meropenem": {
+      "id": "meropenem",
+      "name": "Meropenem",
+      "aliases": [
+        "Meronem",
+        "Meropenem Atral"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antibacteriano",
+        "Carbapeneme"
+      ]
+    },
+    "metamizol-magnesico": {
+      "id": "metamizol-magnesico",
+      "name": "Metamizol magnésico",
+      "aliases": [
+        "Nolotil",
+        "Dipirona"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Analgésico",
+        "Antipirético",
+        "Espasmolítico"
+      ]
+    },
+    "metilprednisolona": {
+      "id": "metilprednisolona",
+      "name": "Metilprednisolona (succinato de sódio)",
+      "aliases": [
+        "Solu-Medrol",
+        "Metilprednisolona Succinato",
+        "Metilprednisolona Hikma"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Glucocorticoide"
+      ]
+    },
+    "metilprednisolona-acetato": {
+      "id": "metilprednisolona-acetato",
+      "name": "Metilprednisolona (acetato)",
+      "aliases": [
+        "Depo-Medrol",
+        "Depo-Medrate"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Glucocorticoide"
+      ]
+    },
+    "metoclopramida": {
+      "id": "metoclopramida",
+      "name": "Metoclopramida",
+      "aliases": [
+        "Primperan",
+        "Metoclopramida Basi"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antiemético",
+        "Antivertiginoso",
+        "Procinético"
+      ]
+    },
+    "metronidazol": {
+      "id": "metronidazol",
+      "name": "Metronidazol",
+      "aliases": [
+        "Metronidazol Generis",
+        "Metronidazol Labesfal",
+        "Metronidazol Endovenosa Braun",
+        "Flagyl",
+        "Metronidazol Basi"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antibacteriano",
+        "Antiprotozoário"
+      ]
+    },
+    "micafungina": {
+      "id": "micafungina",
+      "name": "Micafungina",
+      "aliases": [
+        "Mycamine",
+        "Micafungina Accord"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antimicótico",
+        "Equinocandina"
+      ]
+    },
+    "midazolam": {
+      "id": "midazolam",
+      "name": "Midazolam",
+      "aliases": [
+        "Midazolam Hikma",
+        "Dormicum",
+        "Midazolam Basi"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Hipnótico e sedativo derivado da benzodiazepina"
+      ]
+    },
+    "morfina-cloridrato": {
+      "id": "morfina-cloridrato",
+      "name": "Morfina (cloridrato)",
+      "aliases": [
+        "MST Continus"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Analgésico estupefaciente"
+      ]
+    },
+    "nandrolona-decanoato": {
+      "id": "nandrolona-decanoato",
+      "name": "Nandrolona (decanoato)",
+      "aliases": [
+        "Deca-Durabolin"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Hormona sexual",
+        "Androgénio",
+        "Anabolizante"
+      ]
+    },
+    "neostigmina-metilsulfato": {
+      "id": "neostigmina-metilsulfato",
+      "name": "Neostigmina (metilsulfato)",
+      "aliases": [
+        "Prostigmine"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antimiasténico"
+      ]
+    },
+    "noradrenalina-bitartrato": {
+      "id": "noradrenalina-bitartrato",
+      "name": "Noradrenalina (bitartrato)",
+      "aliases": [
+        "Levophed",
+        "L-Noradrenalina Braun"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Simpaticomimético"
+      ]
+    },
+    "octreotido-acetato": {
+      "id": "octreotido-acetato",
+      "name": "Octreotido (acetato)",
+      "aliases": [
+        "Sandostatina"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Corticosteróide"
+      ]
+    },
+    "omeprazol-sodico": {
+      "id": "omeprazol-sodico",
+      "name": "Omeprazol (sódico)",
+      "aliases": [
+        "Losec"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antiácido e anti-ulceroso",
+        "Modificador de secreção gástrica",
+        "Inibidor da bomba de protões"
+      ]
+    },
+    "ondansetron-cloridrato": {
+      "id": "ondansetron-cloridrato",
+      "name": "Ondansetron (cloridrato)",
+      "aliases": [
+        "Zofran"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antiemético",
+        "Antivertiginoso"
+      ]
+    },
+    "oxitocina": {
+      "id": "oxitocina",
+      "name": "Oxitocina",
+      "aliases": [
+        "Syntocinon"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Hormona hipotalâmica e hipofisária"
+      ]
+    },
+    "pamidronato-dissodio": {
+      "id": "pamidronato-dissodio",
+      "name": "Pamidronato (dissódio)",
+      "aliases": [
+        "Pamidronato dissódico",
+        "Pamidran"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Bifosfonato de 2ª geração"
+      ]
+    },
+    "pantoprazol": {
+      "id": "pantoprazol",
+      "name": "Pantoprazol",
+      "aliases": [
+        "Pantoc",
+        "Pantoc Endovenosa"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antiácido",
+        "Anti-ulceroso",
+        "Modificador da secreção gástrica"
+      ]
+    },
+    "paracetamol": {
+      "id": "paracetamol",
+      "name": "Paracetamol",
+      "aliases": [
+        "Ben-u-ron",
+        "Tylenol",
+        "Panadol",
+        "Paracetamol B. Braun"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Analgésico e antipirético"
+      ]
+    },
+    "penicilina-g-sodica-ou-potassica": {
+      "id": "penicilina-g-sodica-ou-potassica",
+      "name": "Penicilina G (sódica ou potássica)",
+      "aliases": [
+        "Cristalina",
+        "Penicilina Atral"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antibacteriano",
+        "Penicilina"
+      ]
+    },
+    "petidina-cloridrato": {
+      "id": "petidina-cloridrato",
+      "name": "Petidina (cloridrato)",
+      "aliases": [
+        "Demedrol",
+        "Meperidina",
+        "Petidina Basi"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Analgésico e estupefaciente"
+      ]
+    },
+    "piracetam": {
+      "id": "piracetam",
+      "name": "Piracetam",
+      "aliases": [
+        "Piracetam Generis",
+        "Piracetam ratiopharm"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Medicamento utilizado no tratamento sintomático das alterações das funções cognitivas"
+      ]
+    },
+    "prednisolona-hemi-succinato": {
+      "id": "prednisolona-hemi-succinato",
+      "name": "Prednisolona (hemi-succinato)",
+      "aliases": [
+        "Solu-Dacortin"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Glucocorticóide"
+      ]
+    },
+    "prednisolona-succinato-de-sodio": {
+      "id": "prednisolona-succinato-de-sodio",
+      "name": "Prednisolona (succinato de sódio)",
+      "aliases": [
+        "Lepicortinolo",
+        "Prednisolona succinato sódico"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Corticosteróide",
+        "Glucocorticoide"
+      ]
+    },
+    "prometazina-cloridrato": {
+      "id": "prometazina-cloridrato",
+      "name": "Prometazina (cloridrato)",
+      "aliases": [
+        "Fenergan",
+        "Prometazina Basi"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Medicação antialérgica",
+        "anti-histamínico; anti-histamínico H1 sedativo"
+      ]
+    },
+    "propofol": {
+      "id": "propofol",
+      "name": "Propofol",
+      "aliases": [
+        "Diprivan",
+        "Propofol Baxter",
+        "Propofol Lipuro",
+        "Propofol Fresenius"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Anestésico geral intravenoso",
+        "Sedativo"
+      ]
+    },
+    "protamina-sulfato-ou-cloridrato": {
+      "id": "protamina-sulfato-ou-cloridrato",
+      "name": "Protamina (sulfato ou cloridrato)",
+      "aliases": [
+        "Protamina",
+        "Sulfato de Protamina LEO Pharma"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Medicamento utilizado no tratamento de intoxicações"
+      ]
+    },
+    "ranitidina": {
+      "id": "ranitidina",
+      "name": "Ranitidina (cloridrato)",
+      "aliases": [
+        "Zantac"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antiácido",
+        "Anti-ulceroso",
+        "Modificador de secreção gástrica",
+        "Antagonista dos receptores H2"
+      ]
+    },
+    "remifentanil": {
+      "id": "remifentanil",
+      "name": "Remifentanil (cloridrato)",
+      "aliases": [
+        "Remifentanilo Sandoz",
+        "Remifentanilo Kabi",
+        "Remifentanilo Combino",
+        "Ultiva",
+        "Remifentanilo Aurovitas",
+        "Remifentanilo Mylan",
+        "Remifentanilo Normon"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Analgésico Opióide"
+      ]
+    },
+    "risperidona": {
+      "id": "risperidona",
+      "name": "Risperidona",
+      "aliases": [
+        "Risperdal"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Psicofármaco",
+        "Antipsicótico"
+      ]
+    },
+    "rocuronio": {
+      "id": "rocuronio",
+      "name": "Rocurónio (brometo)",
+      "aliases": [
+        "Esmeron",
+        "Brometo de rocurónio Hikma",
+        "Brometo de Rocurónio Aguettant"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Relaxante muscular"
+      ]
+    },
+    "salbutamol-sulfato": {
+      "id": "salbutamol-sulfato",
+      "name": "Salbutamol (sulfato)",
+      "aliases": [
+        "Ventolin",
+        "Ventilan"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antiasmático e broncodilatador",
+        "Agonista adrenérgico",
+        "Simpaticomimético"
+      ]
+    },
+    "somatostatina": {
+      "id": "somatostatina",
+      "name": "Somatostatina (acetato)",
+      "aliases": [
+        "Somatostatina"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Hormona e medicamento usado no tratamento das doenças endócrinas"
+      ]
+    },
+    "sufentanilo-citrato": {
+      "id": "sufentanilo-citrato",
+      "name": "Sufentanilo (citrato)",
+      "aliases": [
+        "Sufenta",
+        "Sontilen"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Anestésico opiáceo"
+      ]
+    },
+    "suxametonio-cloreto": {
+      "id": "suxametonio-cloreto",
+      "name": "Suxametónio (cloreto)",
+      "aliases": [
+        "Succinylcholine",
+        "Anectine",
+        "Suxametónio Aguettant"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Relaxante muscular"
+      ]
+    },
+    "teicoplanina-sodica": {
+      "id": "teicoplanina-sodica",
+      "name": "Teicoplanina (sódica)",
+      "aliases": [
+        "Targocid",
+        "Teicoplanina ALTAN"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antibacteriano",
+        "Glicopeptídico"
+      ]
+    },
+    "tenoxicam": {
+      "id": "tenoxicam",
+      "name": "Tenoxicam",
+      "aliases": [
+        "Tilcotil"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Anti-inflamatório não esteróide"
+      ]
+    },
+    "tiamina": {
+      "id": "tiamina",
+      "name": "Tiamina",
+      "aliases": [
+        "Vitamina B1",
+        "Beneuron",
+        "Tiamina Labesfal"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Vitamina",
+        "Vitaminas e sais minerais"
+      ]
+    },
+    "tiaprida": {
+      "id": "tiaprida",
+      "name": "Tiaprida (cloridrato)",
+      "aliases": [
+        "Tiapridal"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Psicofármaco",
+        "Antipsicótico",
+        "Neuroléptico"
+      ]
+    },
+    "tigeciclina": {
+      "id": "tigeciclina",
+      "name": "Tigeciclina",
+      "aliases": [
+        "Tygacil",
+        "Tigeciclina Mylan"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antibacteriano",
+        "Glicilciclina"
+      ]
+    },
+    "tiocolchicosido": {
+      "id": "tiocolchicosido",
+      "name": "Tiocolchicosido",
+      "aliases": [
+        "Muscoril"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Relaxante muscular"
+      ]
+    },
+    "tiopental": {
+      "id": "tiopental",
+      "name": "Tiopental (sódico)",
+      "aliases": [
+        "Pentothal",
+        "Tiopental Braun"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Anestésico geral",
+        "Psicofármaco",
+        "Barbitúrico"
+      ]
+    },
+    "tramal-cloridrato": {
+      "id": "tramal-cloridrato",
+      "name": "Tramadol (cloridrato)",
+      "aliases": [
+        "Tramal"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Analgésico estupefaciente"
+      ]
+    },
+    "valproato-de-sodio": {
+      "id": "valproato-de-sodio",
+      "name": "Valproato de sódio",
+      "aliases": [
+        "Depakene",
+        "Diplexil"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antiepiléptico e anticonvulsivante"
+      ]
+    },
+    "vancomicina": {
+      "id": "vancomicina",
+      "name": "Vancomicina (cloridrato)",
+      "aliases": [
+        "Vancocin",
+        "Vancomicina Azevedos"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Anti-infeccioso",
+        "Glucopéptido"
+      ]
+    },
+    "vecuronio-brometo": {
+      "id": "vecuronio-brometo",
+      "name": "Vecurónio (brometo)",
+      "aliases": [
+        "Norcuron"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Relaxante muscular"
+      ]
+    },
+    "verapamilo-cloridrato": {
+      "id": "verapamilo-cloridrato",
+      "name": "Verapamilo (cloridrato)",
+      "aliases": [
+        "Isoptin"
+      ],
+      "highRisk": true,
+      "classification": [
+        "Antiarrítmico",
+        "Anti-hipertensor",
+        "Bloqueador dos canais de cálcio"
+      ]
+    },
+    "voriconazol": {
+      "id": "voriconazol",
+      "name": "Voriconazol",
+      "aliases": [
+        "Vfend",
+        "Voriconazol Normon"
+      ],
+      "highRisk": false,
+      "classification": [
+        "Antifúngico triazólico"
+      ]
+    }
+  }
+}

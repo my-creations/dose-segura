@@ -39,7 +39,7 @@ Uma aplicação de referência rápida para enfermeiros, desenhada para facilita
 
 Este projeto inclui scripts para descarregar e extrair PDFs (RCM/FI) do Infarmed e gerar textos para revisão manual
 
-### Pré-requisitos
+### Pré-requisitos do Infarmed
 
 - Poppler (`pdftotext`)
 
@@ -61,7 +61,7 @@ Os PDFs e artefactos são guardados em `infarmed/<medId>/`
 
 ## 🚀 Como Executar
 
-### Pré-requisitos
+### Pré-requisitos da App
 
 - Node.js 18+
 - npm ou yarn
@@ -118,7 +118,7 @@ npm run e2e:ui
 
 ## 🏗️ Estrutura do Projeto
 
-```
+```text
 dose-segura/
 ├── app/                    # Ecrãs da aplicação
 │   ├── (tabs)/             # Navegação por tabs

@@ -7,6 +7,7 @@ export const Strings = {
       back: 'Voltar',
       highRisk: 'Alto Risco',
       medicationNotFound: 'Medicamento não encontrado',
+      medicationLoadError: 'Não foi possível carregar os detalhes do medicamento',
     },
     navigation: {
       medications: 'Medicamentos',

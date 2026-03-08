@@ -3,6 +3,7 @@ import React from 'react';
 import { Platform, StyleSheet, TextInput, View } from 'react-native';
 
 import { Colors } from '@/constants/Colors';
+import { pastelCardShadowStrong } from '@/constants/Shadows';
 import { useColorScheme } from '@/hooks/useColorScheme';
 import i18n from '@/utils/i18n';
 
@@ -15,10 +16,11 @@ interface SearchBarProps {
 export function SearchBar({ value, onChangeText, placeholder = i18n.t('home.searchPlaceholder') }: SearchBarProps) {
   const colorScheme = useColorScheme();
   const colors = Colors[colorScheme ?? 'light'];
+  const showIcon = Platform.OS !== 'web';
 
   return (
     <View style={[styles.container, { backgroundColor: colors.cardBackground, borderColor: colors.lavender }]}>
-      <Ionicons name="search" size={20} color={colors.tint} style={styles.icon} />
+      {showIcon ? <Ionicons name="search" size={20} color={colors.tint} style={styles.icon} /> : null}
       <TextInput
         style={[styles.input, { color: colors.text, backgroundColor: 'transparent' }]}
         value={value}
@@ -45,20 +47,7 @@ const styles = StyleSheet.create({
     paddingVertical: 12,
     marginHorizontal: 16,
     marginVertical: 12,
-    ...Platform.select({
-      ios: {
-        shadowColor: '#E8A0BF',
-        shadowOffset: { width: 0, height: 2 },
-        shadowOpacity: 0.15,
-        shadowRadius: 8,
-      },
-      android: {
-        elevation: 3,
-      },
-      web: {
-        boxShadow: '0px 2px 8px rgba(232, 160, 191, 0.15)',
-      },
-    }),
+    ...pastelCardShadowStrong,
   },
   icon: {
     marginRight: 10,

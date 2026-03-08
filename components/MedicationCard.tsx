@@ -5,11 +5,12 @@ import { Platform, Pressable, StyleSheet, View } from 'react-native';
 
 import { ThemedText } from '@/components/ThemedText';
 import { Colors } from '@/constants/Colors';
+import { pastelCardShadowStrong } from '@/constants/Shadows';
 import { useColorScheme } from '@/hooks/useColorScheme';
-import { Medication } from '@/types/medication';
+import { MedicationSummary } from '@/types/medication';
 
 interface MedicationCardProps {
-  medication: Medication;
+  medication: MedicationSummary;
   isFavorite?: boolean;
   onToggleFavorite?: () => void;
 }
@@ -32,11 +33,22 @@ export function MedicationCard({ medication, isFavorite = false, onToggleFavorit
       accessibilityHint="Alterna este medicamento como favorito"
       testID="favorite-button"
     >
-      <Ionicons 
-        name={isFavorite ? 'heart' : 'heart-outline'} 
-        size={24} 
-        color={isFavorite ? colors.rose : colors.icon} 
-      />
+      {isWeb ? (
+        <ThemedText
+          style={[
+            styles.favoriteGlyph,
+            { color: isFavorite ? colors.rose : colors.icon },
+          ]}
+        >
+          {isFavorite ? '♥' : '♡'}
+        </ThemedText>
+      ) : (
+        <Ionicons 
+          name={isFavorite ? 'heart' : 'heart-outline'} 
+          size={24} 
+          color={isFavorite ? colors.rose : colors.icon} 
+        />
+      )}
     </Pressable>
   );
 
@@ -54,7 +66,7 @@ export function MedicationCard({ medication, isFavorite = false, onToggleFavorit
               {isWeb && FavoriteButton}
               {medication.highRisk && (
                 <View style={[styles.highRiskBadge, { backgroundColor: colors.coral }]}>
-                  <Ionicons name="warning" size={12} color="#fff" />
+                  {!isWeb ? <Ionicons name="warning" size={12} color="#fff" /> : null}
                   <ThemedText style={styles.highRiskText}>Alto Risco</ThemedText>
                 </View>
               )}
@@ -97,20 +109,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     borderRadius: 16,
     padding: 16,
-    ...Platform.select({
-      ios: {
-        shadowColor: '#E8A0BF',
-        shadowOffset: { width: 0, height: 3 },
-        shadowOpacity: 0.12,
-        shadowRadius: 8,
-      },
-      android: {
-        elevation: 3,
-      },
-      web: {
-        boxShadow: '0px 3px 8px rgba(232, 160, 191, 0.12)',
-      },
-    }),
+    ...pastelCardShadowStrong,
   },
   content: {
     flex: 1,
@@ -165,5 +164,10 @@ const styles = StyleSheet.create({
   favoriteButtonInline: {
     padding: 4,
     marginLeft: 4,
+  },
+  favoriteGlyph: {
+    fontSize: 22,
+    lineHeight: 24,
+    fontFamily: 'System',
   },
 });

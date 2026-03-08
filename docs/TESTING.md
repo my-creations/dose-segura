@@ -21,7 +21,7 @@ We employ a multi-layered testing strategy to ensure application stability and c
 
 ## Directory Structure
 
-```
+```text
 dose-segura/
 ├── __tests__/                  # Unit and Integration tests
 │   ├── components/             # Component tests (logic & interaction)

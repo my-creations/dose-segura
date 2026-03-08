@@ -123,7 +123,7 @@ export function useMedications() {
 ## Architecture
 
 ### File Structure
-```
+```text
 app/              # Expo Router pages (tabs, dynamic routes)
 components/       # Reusable UI
 context/          # React Context providers

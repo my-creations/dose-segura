@@ -1,9 +1,12 @@
-export interface Medication {
+export interface MedicationSummary {
   id: string;
   name: string;
   aliases: string[];
   highRisk: boolean;
   classification: string[];
+}
+
+export interface Medication extends MedicationSummary {
   compatibility: string[];
   presentationAndStorage: string[];
   preparation: string[];
@@ -17,6 +20,12 @@ export interface MedicationsData {
   version: string;
   lastUpdated: string;
   medications: Record<string, Medication>;
+}
+
+export interface MedicationsIndexData {
+  version: string;
+  lastUpdated: string;
+  medications: Record<string, MedicationSummary>;
 }
 
 export type MedicationSection = 

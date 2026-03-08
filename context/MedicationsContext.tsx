@@ -1,11 +1,18 @@
-import medsData from "@/data/meds.json";
-import { Medication, MedicationsData } from "@/types/medication";
+import medsIndexData from "@/data/meds-index.json";
+import { loadMedicationsFull } from "@/data/loadMedicationsFull";
+import {
+  Medication,
+  MedicationsData,
+  MedicationsIndexData,
+  MedicationSummary,
+} from "@/types/medication";
 import React, { createContext, useContext, useMemo } from "react";
 
 export interface MedicationsContextType {
-  medications: Medication[];
-  getMedication: (id: string) => Medication | undefined;
-  searchMedications: (query: string) => Medication[];
+  medications: MedicationSummary[];
+  getMedicationSummary: (id: string) => MedicationSummary | undefined;
+  getMedicationDetails: (id: string) => Promise<Medication | undefined>;
+  searchMedications: (query: string) => MedicationSummary[];
   version: string;
   lastUpdated: string;
 }
@@ -19,17 +26,24 @@ export function MedicationsProvider({
 }: {
   children: React.ReactNode;
 }) {
-  const data = medsData as MedicationsData;
+  const data = medsIndexData as MedicationsIndexData;
 
   const medications = useMemo(() => {
     return Object.values(data.medications);
   }, []);
 
-  const getMedication = (id: string): Medication | undefined => {
+  const getMedicationSummary = (id: string): MedicationSummary | undefined => {
     return data.medications[id];
   };
 
-  const searchMedications = (query: string): Medication[] => {
+  const getMedicationDetails = async (
+    id: string,
+  ): Promise<Medication | undefined> => {
+    const fullData = (await loadMedicationsFull()) as MedicationsData;
+    return fullData.medications[id];
+  };
+
+  const searchMedications = (query: string): MedicationSummary[] => {
     if (!query.trim()) {
       return medications;
     }
@@ -61,7 +75,8 @@ export function MedicationsProvider({
 
   const value: MedicationsContextType = {
     medications,
-    getMedication,
+    getMedicationSummary,
+    getMedicationDetails,
     searchMedications,
     version: data.version,
     lastUpdated: data.lastUpdated,

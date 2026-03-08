@@ -5,6 +5,7 @@ import { Platform, Pressable, ScrollView, StyleSheet, View } from 'react-native'
 import { ThemedText } from '@/components/ThemedText';
 import { PWAInstallModal } from '@/components/PWAInstallModal';
 import { Colors } from '@/constants/Colors';
+import { pastelCardShadow } from '@/constants/Shadows';
 import { useMedications } from '@/context/MedicationsContext';
 import { ThemeMode, useTheme } from '@/context/ThemeContext';
 import { useColorScheme } from '@/hooks/useColorScheme';
@@ -74,7 +75,7 @@ export default function SettingsScreen() {
 
       <View style={styles.section}>
         <ThemedText type="sectionTitle" style={styles.sectionTitle}>{i18n.t('settings.databaseInfo')}</ThemedText>
-        <View style={[styles.card, { backgroundColor: colors.cardBackground }]}>
+          <View style={[styles.card, { backgroundColor: colors.cardBackground }]}>
           <View style={styles.row}>
             <View style={[styles.iconContainer, { backgroundColor: colors.lavender }]}>
               <Ionicons name="document-text" size={18} color={colors.textDark} />
@@ -182,20 +183,7 @@ const styles = StyleSheet.create({
   card: {
     borderRadius: 16,
     padding: 16,
-    ...Platform.select({
-      ios: {
-        shadowColor: '#E8A0BF',
-        shadowOffset: { width: 0, height: 2 },
-        shadowOpacity: 0.1,
-        shadowRadius: 6,
-      },
-      android: {
-        elevation: 2,
-      },
-      web: {
-        boxShadow: '0px 2px 6px rgba(232, 160, 191, 0.1)',
-      },
-    }),
+    ...pastelCardShadow,
   },
   row: {
     flexDirection: 'row',

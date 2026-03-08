@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { FlatList, StyleSheet, View } from 'react-native';
+import { FlatList, Platform, StyleSheet, View } from 'react-native';
 
 import { MedicationCard } from '@/components/MedicationCard';
 import { SearchBar } from '@/components/SearchBar';
@@ -16,17 +16,18 @@ export default function HomeScreen() {
   const { isFavorite, toggleFavorite } = useFavorites();
   const colorScheme = useColorScheme();
   const colors = Colors[colorScheme ?? 'light'];
+  const isWeb = Platform.OS === 'web';
 
   const filteredMedications = searchMedications(searchQuery);
 
   return (
     <View style={[styles.container, { backgroundColor: colors.background }]} testID="home-screen">
-      <SearchBar 
-        value={searchQuery} 
-        onChangeText={setSearchQuery} 
+      <SearchBar
+        value={searchQuery}
+        onChangeText={setSearchQuery}
         placeholder={i18n.t('home.searchPlaceholder')}
       />
-      
+
       <FlatList
         data={filteredMedications}
         keyExtractor={(item) => item.id}
@@ -38,10 +39,15 @@ export default function HomeScreen() {
           />
         )}
         contentContainerStyle={styles.list}
+        initialNumToRender={isWeb ? 6 : 12}
+        maxToRenderPerBatch={isWeb ? 4 : 8}
+        windowSize={isWeb ? 3 : 5}
+        removeClippedSubviews={!isWeb}
+        keyboardShouldPersistTaps="handled"
         ListEmptyComponent={
           <View style={styles.empty}>
             <ThemedText style={styles.emptyText}>
-              {searchQuery 
+              {searchQuery
                 ? i18n.t('home.noResults')
                 : i18n.t('home.noData')}
             </ThemedText>
