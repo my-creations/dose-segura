@@ -6,7 +6,7 @@ import {
   MedicationsIndexData,
   MedicationSummary,
 } from "@/types/medication";
-import React, { createContext, useCallback, useContext, useMemo } from "react";
+import React, { createContext, useCallback, useContext, useEffect, useMemo } from "react";
 
 export interface MedicationsContextType {
   medications: MedicationSummary[];
@@ -80,6 +80,34 @@ export function MedicationsProvider({
     version: data.version,
     lastUpdated: data.lastUpdated,
   };
+
+  useEffect(() => {
+    let cancelled = false;
+
+    const warmMedicationDetails = () => {
+      if (!cancelled) {
+        void loadMedicationsFull().catch(() => {
+          // Keep the first navigation path resilient even if the warmup fails.
+        });
+      }
+    };
+
+    if (typeof requestIdleCallback === "function") {
+      const idleId = requestIdleCallback(warmMedicationDetails, { timeout: 1500 });
+
+      return () => {
+        cancelled = true;
+        cancelIdleCallback(idleId);
+      };
+    }
+
+    const timeoutId = setTimeout(warmMedicationDetails, 300);
+
+    return () => {
+      cancelled = true;
+      clearTimeout(timeoutId);
+    };
+  }, []);
 
   return (
     <MedicationsContext.Provider value={value}>
