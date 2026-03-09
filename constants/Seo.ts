@@ -4,7 +4,7 @@ export const SEO = {
   defaultTitle: 'Dose Segura | Guia rápido de medicamentos para enfermagem',
   defaultDescription:
     'Consulte informação essencial sobre medicamentos injetáveis, compatibilidade, preparação, administração e cuidados de enfermagem na app Dose Segura.',
-  defaultImage: 'https://my-creations.github.io/dose-segura/icon.png',
+  defaultImage: 'https://my-creations.github.io/dose-segura/icon-512.png',
 };
 
 export function getCanonicalUrl(path = '/') {

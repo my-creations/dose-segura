@@ -1,13 +1,5 @@
-import {
-  Quicksand_400Regular,
-  Quicksand_500Medium,
-  Quicksand_600SemiBold,
-  Quicksand_700Bold,
-} from '@expo-google-fonts/quicksand';
 import { DarkTheme, DefaultTheme, ThemeProvider } from '@react-navigation/native';
-import { useFonts } from 'expo-font';
 import { Stack } from 'expo-router';
-import { useEffect } from 'react';
 
 import { Colors } from '@/constants/Colors';
 import { FavoritesProvider } from '@/context/FavoritesContext';
@@ -46,21 +38,6 @@ const PastelDarkTheme = {
 };
 
 export default function RootLayout() {
-  const [loaded, error] = useFonts({
-    Quicksand_400Regular,
-    Quicksand_500Medium,
-    Quicksand_600SemiBold,
-    Quicksand_700Bold,
-  });
-
-  useEffect(() => {
-    if (error) throw error;
-  }, [error]);
-
-  if (!loaded) {
-    return null;
-  }
-
   return (
     <AppThemeProvider>
       <RootLayoutNav />

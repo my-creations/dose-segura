@@ -28,7 +28,7 @@ test.describe('Favorites flow', () => {
     });
 
     await test.step('Navigate to favorites tab', async () => {
-      const favoritesTab = page.getByText(Strings.pt.navigation.favorites);
+      const favoritesTab = page.getByRole('tab', { name: new RegExp(Strings.pt.navigation.favorites, 'i') });
 
       await expect(favoritesTab).toBeVisible();
       await favoritesTab.click();

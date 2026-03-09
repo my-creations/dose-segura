@@ -9,6 +9,7 @@ import { THEME_STORAGE_KEY } from '@/constants/Theme';
 // The contents of this function only run in Node.js environments and
 // do not have access to the DOM or browser APIs.
 export default function Root({ children }: { children: React.ReactNode }) {
+  const assetBasePath = process.env.NODE_ENV === 'production' ? '/dose-segura' : '';
   const structuredData = {
     '@context': 'https://schema.org',
     '@graph': [
@@ -88,11 +89,10 @@ export default function Root({ children }: { children: React.ReactNode }) {
         <meta name="twitter:title" content={SEO.defaultTitle} />
         <meta name="twitter:description" content={SEO.defaultDescription} />
         <meta name="twitter:image" content={SEO.defaultImage} />
-
         {/* Icons */}
-        <link rel="apple-touch-icon" href="/dose-segura/icon.png" />
-        <link rel="icon" type="image/png" href="/dose-segura/icon.png" />
-        <link rel="manifest" href="/dose-segura/manifest.json" />
+        <link rel="apple-touch-icon" sizes="180x180" href={`${assetBasePath}/apple-touch-icon.png`} />
+        <link rel="icon" type="image/png" sizes="32x32" href={`${assetBasePath}/favicon-32.png`} />
+        <link rel="manifest" href={`${assetBasePath}/manifest.json`} />
         <link rel="alternate" hrefLang="pt-PT" href={getCanonicalUrl('/')} />
         <script dangerouslySetInnerHTML={{ __html: initialThemeScript }} />
 
@@ -103,7 +103,7 @@ export default function Root({ children }: { children: React.ReactNode }) {
         <ScrollViewStyleReset />
 
         {/* Using raw CSS styles as an escape-hatch to ensure the background color never flickers in dark-mode. */}
-        <style dangerouslySetInnerHTML={{ __html: responsiveBackground }} />
+        <style dangerouslySetInnerHTML={{ __html: responsiveBackground(assetBasePath) }} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
@@ -115,7 +115,40 @@ export default function Root({ children }: { children: React.ReactNode }) {
   );
 }
 
-const responsiveBackground = `
+function responsiveBackground(assetBasePath: string) {
+  return `
+@font-face {
+  font-family: 'Quicksand_400Regular';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('${assetBasePath}/fonts/Quicksand_400Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Quicksand_500Medium';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('${assetBasePath}/fonts/Quicksand_500Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Quicksand_600SemiBold';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('${assetBasePath}/fonts/Quicksand_600SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Quicksand_700Bold';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('${assetBasePath}/fonts/Quicksand_700Bold.ttf') format('truetype');
+}
+
 html,
 body {
   background-color: ${Colors.light.background};
@@ -132,3 +165,4 @@ html[data-theme="dark"] body {
     background-color: ${Colors.dark.background};
   }
 }`;
+}

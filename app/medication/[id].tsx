@@ -134,10 +134,10 @@ export default function MedicationDetailScreen() {
           title: medication.name,
           headerRight: isWeb ? undefined : () => (
             <Pressable onPress={() => toggleFavorite(medication.id)} hitSlop={10} testID="favorite-toggle">
-              <Ionicons 
-                name={favorite ? 'heart' : 'heart-outline'} 
-                size={24} 
-                color={favorite ? colors.rose : colors.icon} 
+              <Ionicons
+                name={favorite ? 'heart' : 'heart-outline'}
+                size={24}
+                color={favorite ? colors.rose : colors.icon}
               />
             </Pressable>
           ),
@@ -151,10 +151,10 @@ export default function MedicationDetailScreen() {
             </ThemedText>
             {isWeb && (
               <Pressable onPress={() => toggleFavorite(medication.id)} hitSlop={10} style={styles.favoriteButtonWeb} testID="favorite-toggle">
-                <Ionicons 
-                  name={favorite ? 'heart' : 'heart-outline'} 
-                  size={26} 
-                  color={favorite ? colors.rose : colors.icon} 
+                <Ionicons
+                  name={favorite ? 'heart' : 'heart-outline'}
+                  size={26}
+                  color={favorite ? colors.rose : colors.icon}
                 />
               </Pressable>
             )}

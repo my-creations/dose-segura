@@ -33,22 +33,11 @@ function MedicationCardComponent({ medication, isFavorite = false, onToggleFavor
       accessibilityHint="Alterna este medicamento como favorito"
       testID="favorite-button"
     >
-      {isWeb ? (
-        <ThemedText
-          style={[
-            styles.favoriteGlyph,
-            { color: isFavorite ? colors.rose : colors.icon },
-          ]}
-        >
-          {isFavorite ? '♥' : '♡'}
-        </ThemedText>
-      ) : (
-        <Ionicons 
-          name={isFavorite ? 'heart' : 'heart-outline'} 
-          size={24} 
-          color={isFavorite ? colors.rose : colors.icon} 
-        />
-      )}
+      <Ionicons
+        name={isFavorite ? 'heart' : 'heart-outline'}
+        size={24}
+        color={isFavorite ? colors.rose : colors.icon}
+      />
     </Pressable>
   );
 
@@ -63,7 +52,7 @@ function MedicationCardComponent({ medication, isFavorite = false, onToggleFavor
           <View style={styles.content}>
             <View style={styles.header}>
               <ThemedText style={styles.name}>{medication.name}</ThemedText>
-              {isWeb && FavoriteButton}
+              {isWeb ? FavoriteButton : null}
               {medication.highRisk && (
                 <View style={[styles.highRiskBadge, { backgroundColor: colors.coral }]}>
                   {!isWeb ? <Ionicons name="warning" size={12} color="#fff" /> : null}
@@ -87,8 +76,7 @@ function MedicationCardComponent({ medication, isFavorite = false, onToggleFavor
               </ThemedText>
             )}
           </View>
-          
-          {!isWeb && FavoriteButton}
+          {!isWeb ? FavoriteButton : null}
         </View>
       </Pressable>
     </Link>
@@ -171,10 +159,5 @@ const styles = StyleSheet.create({
   favoriteButtonInline: {
     padding: 4,
     marginLeft: 4,
-  },
-  favoriteGlyph: {
-    fontSize: 22,
-    lineHeight: 24,
-    fontFamily: 'System',
   },
 });
