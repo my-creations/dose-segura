@@ -13,6 +13,17 @@ export const Strings = {
       medications: 'Medicamentos',
       favorites: 'Favoritos',
       settings: 'Definições',
+      medication: 'Medicamento',
+    },
+    notFound: {
+      title: 'Ups!',
+      message: 'Este ecrã não existe.',
+      goHome: 'Ir para o ecrã inicial',
+    },
+    accessibility: {
+      favoriteMedication: 'Favoritar medicamento',
+      favoriteMedicationHint: 'Alterna este medicamento como favorito',
+      openMedication: 'Abrir medicamento {{name}}',
     },
     home: {
       searchPlaceholder: 'Pesquisar medicamento...',

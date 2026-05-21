@@ -8,6 +8,7 @@ import { Colors } from '@/constants/Colors';
 import { pastelCardShadowStrong } from '@/constants/Shadows';
 import { useColorScheme } from '@/hooks/useColorScheme';
 import { MedicationSummary } from '@/types/medication';
+import i18n from '@/utils/i18n';
 
 interface MedicationCardProps {
   medication: MedicationSummary;
@@ -29,8 +30,8 @@ function MedicationCardComponent({ medication, isFavorite = false, onToggleFavor
       }}
       style={isWeb ? styles.favoriteButtonInline : styles.favoriteButton}
       hitSlop={10}
-      accessibilityLabel="Favoritar medicamento"
-      accessibilityHint="Alterna este medicamento como favorito"
+      accessibilityLabel={i18n.t('accessibility.favoriteMedication')}
+      accessibilityHint={i18n.t('accessibility.favoriteMedicationHint')}
       testID="favorite-button"
     >
       <Ionicons
@@ -45,7 +46,7 @@ function MedicationCardComponent({ medication, isFavorite = false, onToggleFavor
     <Link href={`/medication/${medication.id}`} asChild>
       <Pressable
         style={({ pressed }) => [styles.container, pressed && styles.pressed]}
-        accessibilityLabel={`Abrir medicamento ${medication.name}`}
+        accessibilityLabel={i18n.t('accessibility.openMedication', { name: medication.name })}
         testID={`medication-card-${medication.id}`}
       >
         <View style={[styles.card, { backgroundColor: colors.cardBackground }]}>

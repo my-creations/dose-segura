@@ -6,6 +6,7 @@ import { FavoritesProvider } from '@/context/FavoritesContext';
 import { MedicationsProvider } from '@/context/MedicationsContext';
 import { AppThemeProvider } from '@/context/ThemeContext';
 import { useColorScheme } from '@/hooks/useColorScheme';
+import i18n from '@/utils/i18n';
 
 export {
   ErrorBoundary,
@@ -64,9 +65,9 @@ function RootLayoutNav() {
               name="medication/[id]"
               options={{
                 headerShown: true,
-                title: 'Medicamento',
+                title: i18n.t('navigation.medication'),
                 headerTintColor: Colors[colorScheme ?? 'light'].tint,
-                headerBackTitle: 'Voltar',
+                headerBackTitle: i18n.t('common.back'),
               }}
             />
             <Stack.Screen name="modal" options={{ presentation: 'modal' }} />
