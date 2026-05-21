@@ -1,3 +1,8 @@
+---
+name: infarmed-fetch
+description: Fetch RCM and FI PDFs from Infarmed (INFOMED) for a given medication, store them under infarmed/{medId}/, extract and parse all sections, and propose additions to data/meds.json following meds-formatter rules. Use when retrieving or updating medication documents from Infarmed.
+---
+
 # Infarmed Fetch Skill
 
 ## Goal
