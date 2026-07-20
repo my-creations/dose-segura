@@ -5,6 +5,7 @@ Dose Segura is a React Native medication management app built with Expo SDK 54, 
 ## Commands
 
 ### Development
+
 ```bash
 npm start          # Expo dev server
 npm run android    # Android device/emulator
@@ -17,12 +18,17 @@ npm run web        # Web version
 ```bash
 npm run lint           # ESLint (minimal - mainly validates data/meds.json)
 npm run lint:fix       # Auto-fix ESLint
+npm run format         # Prettier write (spacing, newlines)
+npm run format:check   # Prettier check only
 npm run type-check     # TypeScript checking
 npm run lint:meds      # ESLint on medication data
 npm run lint:meds:fix  # Auto-fix medication data
 ```
 
+Pre-commit (Husky): `lint-staged` (Prettier on staged files) → `type-check` → `test`.
+
 ### Testing
+
 ```bash
 npm test               # Jest unit/integration tests
 npm test -- path/to/test.ts    # Run specific test file
@@ -34,6 +40,7 @@ npm run test:all       # Jest + Playwright
 ```
 
 ### Build/Deploy
+
 ```bash
 npm run build:web      # Export for web
 npm run build:android  # EAS build Android
@@ -44,11 +51,13 @@ npm run deploy         # Deploy PWA to GitHub Pages
 ## Code Style
 
 ### Import Order
+
 1. React/React Native (`react`, `react-native`)
 2. Third-party libraries (`@expo/vector-icons`, `expo-router`)
 3. Local imports with `@` alias (`@/components`, `@/constants`, `@/context`, `@/types`)
 
 ### Component Patterns
+
 - Use functional components with TypeScript interfaces
 - Destructure props with default values
 - Use early returns for loading/error states
@@ -68,39 +77,45 @@ export function MedicationCard({ medication, isFavorite = false, onToggleFavorit
 ```
 
 ### Custom Hooks
+
 - Prefix with `use`
 - Include error boundaries for context hooks
 
 ```typescript
 export function useMedications() {
   const context = useContext(MedicationsContext);
-  if (!context) throw new Error("useMedications must be used within MedicationsProvider");
+  if (!context) throw new Error('useMedications must be used within MedicationsProvider');
   return context;
 }
 ```
 
 ### TypeScript
+
 - Use interfaces for object shapes
 - Use union types for string literals
 - Avoid `any` type
 
 ### Styling
+
 - Use theme hook: `const colors = Colors[useColorScheme() ?? 'light']`
 - Use StyleSheet, avoid inline styles
 - Quicksand font family (400, 500, 600, 700)
 - 16px margins, 8px gaps, 16px border radius for cards
 
 ### File Naming
+
 - Components: PascalCase (`MedicationCard.tsx`)
 - Hooks: `useXxx.ts`
 - Types: camelCase (`medication.ts`)
 - Constants: PascalCase (`Colors.ts`)
 
 ### Error Handling
+
 - Context hooks: throw if used outside provider
 - Async: try-catch-finally with loading state
 
 ### Performance
+
 - Use `useMemo` for expensive computations
 - Use `useCallback` for event handlers
 - Use `FlatList` with `keyExtractor` for lists
@@ -108,6 +123,7 @@ export function useMedications() {
 ## Testing
 
 ### Jest
+
 - Tests in `__tests__` directories or files named `*.test.ts` / `*.spec.ts`
 - Use `testID` props for selectors
 - Jest uses `jest-expo` preset with @testing-library
@@ -115,6 +131,7 @@ export function useMedications() {
 - E2E tests in `e2e/` are ignored by Jest
 
 ### Playwright E2E
+
 - Tests in `e2e/tests/`
 - Use `testID` props (maps to `data-testid` on web)
 - Scope queries: `page.getByTestId('home-screen').getByTestId(...)`
@@ -123,6 +140,7 @@ export function useMedications() {
 ## Architecture
 
 ### File Structure
+
 ```text
 app/              # Expo Router pages (tabs, dynamic routes)
 components/       # Reusable UI
@@ -136,6 +154,7 @@ scripts/          # Extraction/parsing scripts
 ```
 
 ### State Management
+
 - React Context for global state
 - AsyncStorage for user preferences
 - Bundled JSON for medication data
@@ -143,23 +162,27 @@ scripts/          # Extraction/parsing scripts
 ## Platform Considerations
 
 ### Web/Mobile
+
 - Use `useSafeAreaInsets` for layout (not hardcoded heights)
 - Use `Platform.select` for web-specific styles
 - Minimum 44px touch targets
 - GitHub Pages ignores `_` prefix (deploy script renames `_expo` to `expo_assets`)
 
 ### Accessibility
+
 - Use `accessibilityLabel`
 - Ensure contrast ratios
 - Large touch targets
 
 ## Workflow
+
 1. Run type checking before committing
 2. Test on iOS, Android, and Web
 3. Follow file structure and naming conventions
 4. Implement proper error handling
 
 ## Avoid
+
 - Class components
 - TypeScript errors
 - Hardcoded colors
@@ -169,6 +192,7 @@ scripts/          # Extraction/parsing scripts
 - Committing without testing
 
 ## Tech Stack
+
 - Expo SDK 54 with Expo Router 6
 - React 19 + React Native 0.81
 - TypeScript ~5.9
