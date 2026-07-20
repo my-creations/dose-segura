@@ -30,32 +30,29 @@ export default function SettingsScreen() {
 
   const shouldShowInstall = isMobileWeb && !isStandalone;
 
-  const renderThemeOption = (mode: ThemeMode, label: string, icon: keyof typeof Ionicons.glyphMap) => {
+  const renderThemeOption = (
+    mode: ThemeMode,
+    label: string,
+    icon: keyof typeof Ionicons.glyphMap,
+  ) => {
     const isSelected = themeMode === mode;
     return (
       <Pressable
-        style={[
-          styles.themeOption,
-          isSelected && { backgroundColor: colors.tint + '20' }
-        ]}
+        style={[styles.themeOption, isSelected && { backgroundColor: colors.tint + '20' }]}
         onPress={() => setThemeMode(mode)}
       >
         <View style={styles.themeOptionContent}>
-          <Ionicons
-            name={icon}
-            size={20}
-            color={isSelected ? colors.tint : colors.text}
-          />
-          <ThemedText style={[
-            styles.themeOptionLabel,
-            isSelected && { color: colors.tint, fontFamily: 'Quicksand_600SemiBold' }
-          ]}>
+          <Ionicons name={icon} size={20} color={isSelected ? colors.tint : colors.text} />
+          <ThemedText
+            style={[
+              styles.themeOptionLabel,
+              isSelected && { color: colors.tint, fontFamily: 'Quicksand_600SemiBold' },
+            ]}
+          >
             {label}
           </ThemedText>
         </View>
-        {isSelected && (
-          <Ionicons name="checkmark-circle" size={20} color={colors.tint} />
-        )}
+        {isSelected && <Ionicons name="checkmark-circle" size={20} color={colors.tint} />}
       </Pressable>
     );
   };
@@ -63,7 +60,9 @@ export default function SettingsScreen() {
   return (
     <ScrollView style={[styles.container, { backgroundColor: colors.background }]}>
       <View style={styles.section}>
-        <ThemedText type="sectionTitle" style={styles.sectionTitle}>{i18n.t('settings.appearance')}</ThemedText>
+        <ThemedText type="sectionTitle" style={styles.sectionTitle}>
+          {i18n.t('settings.appearance')}
+        </ThemedText>
         <View style={[styles.card, { backgroundColor: colors.cardBackground, padding: 8 }]}>
           {renderThemeOption('system', i18n.t('settings.themes.system'), 'phone-portrait-outline')}
           <View style={[styles.divider, { backgroundColor: colors.lavender, marginVertical: 4 }]} />
@@ -74,14 +73,18 @@ export default function SettingsScreen() {
       </View>
 
       <View style={styles.section}>
-        <ThemedText type="sectionTitle" style={styles.sectionTitle}>{i18n.t('settings.databaseInfo')}</ThemedText>
-          <View style={[styles.card, { backgroundColor: colors.cardBackground }]}>
+        <ThemedText type="sectionTitle" style={styles.sectionTitle}>
+          {i18n.t('settings.databaseInfo')}
+        </ThemedText>
+        <View style={[styles.card, { backgroundColor: colors.cardBackground }]}>
           <View style={styles.row}>
             <View style={[styles.iconContainer, { backgroundColor: colors.lavender }]}>
               <Ionicons name="document-text" size={18} color={colors.textDark} />
             </View>
             <ThemedText style={styles.label}>{i18n.t('settings.labels.version')}</ThemedText>
-            <ThemedText type="defaultSemiBold" style={styles.value}>{version}</ThemedText>
+            <ThemedText type="defaultSemiBold" style={styles.value}>
+              {version}
+            </ThemedText>
           </View>
           <View style={[styles.divider, { backgroundColor: colors.lavender }]} />
           <View style={styles.row}>
@@ -89,29 +92,37 @@ export default function SettingsScreen() {
               <Ionicons name="calendar" size={18} color={colors.textDark} />
             </View>
             <ThemedText style={styles.label}>{i18n.t('settings.labels.lastUpdated')}</ThemedText>
-            <ThemedText type="defaultSemiBold" style={styles.value}>{lastUpdated}</ThemedText>
+            <ThemedText type="defaultSemiBold" style={styles.value}>
+              {lastUpdated}
+            </ThemedText>
           </View>
           <View style={[styles.divider, { backgroundColor: colors.lavender }]} />
           <View style={styles.row}>
             <View style={[styles.iconContainer, { backgroundColor: colors.peach }]}>
               <Ionicons name="medical" size={18} color={colors.textDark} />
             </View>
-            <ThemedText style={styles.label}>{i18n.t('settings.labels.totalMedications')}</ThemedText>
-            <ThemedText type="defaultSemiBold" style={styles.value}>{medications.length}</ThemedText>
+            <ThemedText style={styles.label}>
+              {i18n.t('settings.labels.totalMedications')}
+            </ThemedText>
+            <ThemedText type="defaultSemiBold" style={styles.value}>
+              {medications.length}
+            </ThemedText>
           </View>
         </View>
       </View>
 
       {shouldShowInstall && (
         <View style={styles.section} testID="installation-section">
-          <ThemedText type="sectionTitle" style={styles.sectionTitle}>{i18n.t('settings.install.sectionTitle')}</ThemedText>
+          <ThemedText type="sectionTitle" style={styles.sectionTitle}>
+            {i18n.t('settings.install.sectionTitle')}
+          </ThemedText>
           <View style={[styles.card, { backgroundColor: colors.cardBackground }]}>
-            <Pressable 
+            <Pressable
               testID="install-button"
               style={({ pressed }) => [
-                styles.installButton, 
+                styles.installButton,
                 { backgroundColor: colors.tint },
-                pressed && { opacity: 0.8 }
+                pressed && { opacity: 0.8 },
               ]}
               onPress={installApp}
             >
@@ -125,11 +136,11 @@ export default function SettingsScreen() {
       )}
 
       <View style={styles.section}>
-        <ThemedText type="sectionTitle" style={styles.sectionTitle}>{i18n.t('settings.about')}</ThemedText>
+        <ThemedText type="sectionTitle" style={styles.sectionTitle}>
+          {i18n.t('settings.about')}
+        </ThemedText>
         <View style={[styles.card, { backgroundColor: colors.cardBackground }]}>
-          <ThemedText style={styles.aboutText}>
-            {i18n.t('settings.aboutText')}
-          </ThemedText>
+          <ThemedText style={styles.aboutText}>{i18n.t('settings.aboutText')}</ThemedText>
           <View style={[styles.warningBox, { backgroundColor: colors.coral + '20' }]}>
             <Ionicons name="warning" size={20} color={colors.coral} />
             <ThemedText style={[styles.warningText, { color: colors.textDark }]}>
@@ -140,14 +151,18 @@ export default function SettingsScreen() {
       </View>
 
       <View style={styles.section}>
-        <ThemedText type="sectionTitle" style={styles.sectionTitle}>{i18n.t('settings.application')}</ThemedText>
+        <ThemedText type="sectionTitle" style={styles.sectionTitle}>
+          {i18n.t('settings.application')}
+        </ThemedText>
         <View style={[styles.card, { backgroundColor: colors.cardBackground }]}>
           <View style={styles.row}>
             <View style={[styles.iconContainer, { backgroundColor: colors.sky }]}>
               <Ionicons name="phone-portrait" size={18} color={colors.textDark} />
             </View>
             <ThemedText style={styles.label}>{i18n.t('settings.labels.appVersion')}</ThemedText>
-            <ThemedText type="defaultSemiBold" style={styles.value}>1.0.0</ThemedText>
+            <ThemedText type="defaultSemiBold" style={styles.value}>
+              1.0.0
+            </ThemedText>
           </View>
           <View style={[styles.divider, { backgroundColor: colors.lavender }]} />
           <View style={styles.row}>
@@ -155,15 +170,14 @@ export default function SettingsScreen() {
               <Ionicons name="cloud-offline" size={18} color={colors.textDark} />
             </View>
             <ThemedText style={styles.label}>{i18n.t('settings.labels.mode')}</ThemedText>
-            <ThemedText type="defaultSemiBold" style={styles.value}>{i18n.t('settings.labels.offlineMode')}</ThemedText>
+            <ThemedText type="defaultSemiBold" style={styles.value}>
+              {i18n.t('settings.labels.offlineMode')}
+            </ThemedText>
           </View>
         </View>
       </View>
 
-      <PWAInstallModal 
-        visible={showInstructions} 
-        onClose={() => setShowInstructions(false)} 
-      />
+      <PWAInstallModal visible={showInstructions} onClose={() => setShowInstructions(false)} />
     </ScrollView>
   );
 }

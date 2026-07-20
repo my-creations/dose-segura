@@ -176,8 +176,9 @@ async function downloadDocument(page, docId, outputPath) {
 
     if (responseInfo?.status === 200 && Array.isArray(data)) {
       const buffer = Buffer.from(data);
-      const isPdf = buffer.slice(0, 4).toString('latin1') === '%PDF'
-        || responseInfo.contentType?.includes('application/pdf');
+      const isPdf =
+        buffer.slice(0, 4).toString('latin1') === '%PDF' ||
+        responseInfo.contentType?.includes('application/pdf');
 
       if (isPdf) {
         fs.writeFileSync(outputPath, buffer);
@@ -191,21 +192,19 @@ async function downloadDocument(page, docId, outputPath) {
     }
 
     for (let attempt = 0; attempt < 2; attempt += 1) {
-      const downloadPromise = page.waitForEvent('download', { timeout: 60000 })
+      const downloadPromise = page
+        .waitForEvent('download', { timeout: 60000 })
         .then((download) => ({ type: 'download', download }))
         .catch(() => null);
-      const responsePromise = page.waitForResponse(
-        (resp) => resp.headers()['content-type']?.includes('application/pdf'),
-        { timeout: 60000 }
-      )
+      const responsePromise = page
+        .waitForResponse((resp) => resp.headers()['content-type']?.includes('application/pdf'), {
+          timeout: 60000,
+        })
         .then((response) => ({ type: 'response', response }))
         .catch(() => null);
 
       await page.click(`[id="${docId}"]`);
-      const winner = await Promise.race([
-        downloadPromise,
-        responsePromise,
-      ]);
+      const winner = await Promise.race([downloadPromise, responsePromise]);
 
       if (winner?.type === 'download') {
         await winner.download.saveAs(outputPath);
@@ -274,39 +273,39 @@ async function downloadMed(searchTerm) {
         continue;
       }
 
-        results = await page.$$eval('#mainForm\\:dt-medicamentos_data tr', (rows) => {
-          return rows
-            .map((row) => {
-              const cells = Array.from(row.querySelectorAll('td'));
-              if (cells.length < 6) return null;
+      results = await page.$$eval('#mainForm\\:dt-medicamentos_data tr', (rows) => {
+        return rows
+          .map((row) => {
+            const cells = Array.from(row.querySelectorAll('td'));
+            if (cells.length < 6) return null;
 
-              const cellText = cells.map((cell) => cell.innerText.trim());
-              const infarmedId = cellText[0];
-              const name = cellText[1];
-              const dci = cellText[2];
-              const form = cellText[3];
-              const dosage = cellText[4];
-              const holder = cellText[5];
+            const cellText = cells.map((cell) => cell.innerText.trim());
+            const infarmedId = cellText[0];
+            const name = cellText[1];
+            const dci = cellText[2];
+            const form = cellText[3];
+            const dosage = cellText[4];
+            const holder = cellText[5];
 
-              const docCell = cells[cells.length - 1];
-              const rcmLink = docCell?.querySelector('a[id*="RcmIcon"]');
-              const fiLink = docCell?.querySelector('a[id*="FiIcon"]');
-              const emaFiLink = docCell?.querySelector('a[id*="EmaFiIcon"]');
+            const docCell = cells[cells.length - 1];
+            const rcmLink = docCell?.querySelector('a[id*="RcmIcon"]');
+            const fiLink = docCell?.querySelector('a[id*="FiIcon"]');
+            const emaFiLink = docCell?.querySelector('a[id*="EmaFiIcon"]');
 
-              return {
-                infarmedId,
-                name,
-                dci,
-                form,
-                dosage,
-                holder,
-                rcmId: rcmLink?.id ?? null,
-                fiId: fiLink?.id ?? emaFiLink?.id ?? null,
-              };
-            })
-            .filter(Boolean)
-            .filter((row) => row.rcmId || row.fiId);
-        });
+            return {
+              infarmedId,
+              name,
+              dci,
+              form,
+              dosage,
+              holder,
+              rcmId: rcmLink?.id ?? null,
+              fiId: fiLink?.id ?? emaFiLink?.id ?? null,
+            };
+          })
+          .filter(Boolean)
+          .filter((row) => row.rcmId || row.fiId);
+      });
 
       if (results.length >= MAX_RESULTS_BEFORE_FILTER) {
         let filtered = [];
@@ -406,7 +405,11 @@ async function downloadMed(searchTerm) {
 
     const candidates = injectableResults.sort((a, b) => b.score - a.score);
     const preferredIndex = PREFERRED_INDEXES[medId];
-    if (Number.isInteger(preferredIndex) && preferredIndex >= 0 && preferredIndex < candidates.length) {
+    if (
+      Number.isInteger(preferredIndex) &&
+      preferredIndex >= 0 &&
+      preferredIndex < candidates.length
+    ) {
       const [preferred] = candidates.splice(preferredIndex, 1);
       candidates.unshift(preferred);
     }
@@ -454,47 +457,53 @@ async function downloadMed(searchTerm) {
       return;
     }
 
-    fs.writeFileSync(path.join(metaDir, 'meta.json'), JSON.stringify({
-      medId,
-      searchTerm: usedSearchTerm || searchTerm,
-      retrievedAt: new Date().toISOString(),
-      bestMatch: {
-        infarmedId: finalMatch.infarmedId,
-        name: finalMatch.name,
-        dci: finalMatch.dci,
-        form: finalMatch.form,
-        dosage: finalMatch.dosage,
-        holder: finalMatch.holder,
-        isGeneric: /\bMG\b/.test(finalMatch.name),
-        score: finalMatch.score,
-      },
-      documents: {
-        rcm: finalMatch.rcmId
-          ? {
-            status: finalRcmResult.status,
-            contentType: finalRcmResult.contentType,
-            url: 'https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml',
-            file: `rcm/${finalMatch.infarmedId}-rcm.pdf`,
-            size: finalRcmResult.size,
-          }
-          : { status: 'missing' },
-        fi: finalMatch.fiId
-          ? {
-            status: finalFiResult.status,
-            contentType: finalFiResult.contentType,
-            url: 'https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml',
-            file: `fi/${finalMatch.infarmedId}-fi.pdf`,
-            size: finalFiResult.size,
-          }
-          : { status: 'missing' },
-      },
-    }, null, 2));
-
+    fs.writeFileSync(
+      path.join(metaDir, 'meta.json'),
+      JSON.stringify(
+        {
+          medId,
+          searchTerm: usedSearchTerm || searchTerm,
+          retrievedAt: new Date().toISOString(),
+          bestMatch: {
+            infarmedId: finalMatch.infarmedId,
+            name: finalMatch.name,
+            dci: finalMatch.dci,
+            form: finalMatch.form,
+            dosage: finalMatch.dosage,
+            holder: finalMatch.holder,
+            isGeneric: /\bMG\b/.test(finalMatch.name),
+            score: finalMatch.score,
+          },
+          documents: {
+            rcm: finalMatch.rcmId
+              ? {
+                  status: finalRcmResult.status,
+                  contentType: finalRcmResult.contentType,
+                  url: 'https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml',
+                  file: `rcm/${finalMatch.infarmedId}-rcm.pdf`,
+                  size: finalRcmResult.size,
+                }
+              : { status: 'missing' },
+            fi: finalMatch.fiId
+              ? {
+                  status: finalFiResult.status,
+                  contentType: finalFiResult.contentType,
+                  url: 'https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml',
+                  file: `fi/${finalMatch.infarmedId}-fi.pdf`,
+                  size: finalFiResult.size,
+                }
+              : { status: 'missing' },
+          },
+        },
+        null,
+        2,
+      ),
+    );
   } finally {
     await browser.close();
   }
 }
 
 module.exports = {
-  downloadMed
+  downloadMed,
 };

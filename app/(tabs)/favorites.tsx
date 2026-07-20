@@ -11,17 +11,20 @@ import { useFavorites } from '@/hooks/useFavorites';
 import i18n from '@/utils/i18n';
 
 export default function FavoritesScreen() {
-  const { getMedicationSummary } = useMedications();
+  const { getSummary } = useMedications();
   const { favorites, isFavorite, toggleFavorite, isLoading } = useFavorites();
   const colorScheme = useColorScheme();
   const colors = Colors[colorScheme ?? 'light'];
 
   const favoriteMedications = favorites
-    .map((id) => getMedicationSummary(id))
+    .map((id) => getSummary(id))
     .filter((med): med is NonNullable<typeof med> => med !== undefined);
-  const handleToggleFavorite = React.useCallback((id: string) => {
-    toggleFavorite(id);
-  }, [toggleFavorite]);
+  const handleToggleFavorite = React.useCallback(
+    (id: string) => {
+      toggleFavorite(id);
+    },
+    [toggleFavorite],
+  );
 
   if (isLoading) {
     return (
@@ -32,7 +35,10 @@ export default function FavoritesScreen() {
   }
 
   return (
-    <View style={[styles.container, { backgroundColor: colors.background }]} testID="favorites-screen">
+    <View
+      style={[styles.container, { backgroundColor: colors.background }]}
+      testID="favorites-screen"
+    >
       <FlatList
         data={favoriteMedications}
         keyExtractor={(item) => item.id}
@@ -43,16 +49,15 @@ export default function FavoritesScreen() {
             onToggleFavorite={handleToggleFavorite}
           />
         )}
-        contentContainerStyle={[
-          styles.list,
-          favoriteMedications.length === 0 && styles.emptyList,
-        ]}
+        contentContainerStyle={[styles.list, favoriteMedications.length === 0 && styles.emptyList]}
         ListEmptyComponent={
           <View style={styles.empty}>
             <View style={[styles.emptyIconContainer, { backgroundColor: colors.rose + '20' }]}>
               <Ionicons name="heart-outline" size={48} color={colors.rose} />
             </View>
-            <ThemedText type="subtitle" style={styles.emptyTitle}>{i18n.t('favorites.emptyTitle')}</ThemedText>
+            <ThemedText type="subtitle" style={styles.emptyTitle}>
+              {i18n.t('favorites.emptyTitle')}
+            </ThemedText>
             <ThemedText type="caption" style={styles.emptyText}>
               {i18n.t('favorites.emptyMessage')}
             </ThemedText>

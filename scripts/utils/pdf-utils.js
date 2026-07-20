@@ -16,5 +16,5 @@ function extractText(pdfPath, outTxtPath) {
 
 module.exports = {
   ensurePdftotext,
-  extractText
+  extractText,
 };

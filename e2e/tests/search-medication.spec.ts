@@ -35,22 +35,27 @@ test.describe('Search Medication', () => {
     await expect(page.getByText(medication.aliases[0], { exact: true })).toBeVisible();
 
     await expect(
-      page.getByTestId('section-classification').getByText(medication.classification[0], { exact: true })
+      page
+        .getByTestId('section-classification')
+        .getByText(medication.classification[0], { exact: true }),
     ).toBeVisible();
     await expect(
-      page.getByTestId('section-classification').getByText(medication.classification[1], { exact: true })
+      page
+        .getByTestId('section-classification')
+        .getByText(medication.classification[1], { exact: true }),
     ).toBeVisible();
     await expect(
-      page.getByTestId('section-compatibility').getByText(medication.compatibility[0], { exact: true })
+      page
+        .getByTestId('section-compatibility')
+        .getByText(medication.compatibility[0], { exact: true }),
     ).toBeVisible();
     await expect(
-      page.getByTestId('section-presentationAndStorage').getByText(
-        medication.presentationAndStorage[0],
-        { exact: true }
-      )
+      page
+        .getByTestId('section-presentationAndStorage')
+        .getByText(medication.presentationAndStorage[0], { exact: true }),
     ).toBeVisible();
     await expect(
-      page.getByTestId('section-preparation').getByText(medication.preparation[0], { exact: true })
+      page.getByTestId('section-preparation').getByText(medication.preparation[0], { exact: true }),
     ).toBeVisible();
   });
 });

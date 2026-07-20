@@ -15,7 +15,10 @@ const RCM_RULES = [
   { key: 'indications', patterns: [/^4\.1\s+indicacoes terapeuticas\b/] },
   { key: 'dosageAdministration', patterns: [/^4\.2\s+posologia e modo de administracao\b/] },
   { key: 'contraindications', patterns: [/^4\.3\s+contraindicacoes\b/] },
-  { key: 'warningsPrecautions', patterns: [/^4\.4\s+advertencias e precaucoes especiais de utilizacao\b/] },
+  {
+    key: 'warningsPrecautions',
+    patterns: [/^4\.4\s+advertencias e precaucoes especiais de utilizacao\b/],
+  },
   { key: 'interactions', patterns: [/^4\.5\s+interacoes medicamentosas\b/] },
   { key: 'pregnancyLactation', patterns: [/^4\.6\s+fertilidade, gravidez e aleitamento\b/] },
   { key: 'driving', patterns: [/^4\.7\s+efeitos sobre a capacidade de conduzir\b/] },
@@ -29,13 +32,18 @@ const FI_RULES = [
   { key: 'whatIsIt', patterns: [/^(1\.)?\s*o que e\b/] },
   { key: 'beforeUse', patterns: [/^(2\.)?\s*o que precisa de saber antes de utilizar\b/] },
   { key: 'howToUse', patterns: [/^(3\.)?\s*como utilizar\b/] },
-  { key: 'possibleEffects', patterns: [/^(4\.)?\s*efeitos indesejaveis\b/, /^(4\.)?\s*efeitos secundarios\b/] },
+  {
+    key: 'possibleEffects',
+    patterns: [/^(4\.)?\s*efeitos indesejaveis\b/, /^(4\.)?\s*efeitos secundarios\b/],
+  },
   { key: 'storage', patterns: [/^(5\.)?\s*como conservar\b/] },
   { key: 'contents', patterns: [/^(6\.)?\s*conteudo da embalagem\b/] },
 ];
 
 function findHeading(normalizedLine, normalizedNextLine, rules) {
-  const combined = normalizedNextLine ? `${normalizedLine} ${normalizedNextLine}`.trim() : normalizedLine;
+  const combined = normalizedNextLine
+    ? `${normalizedLine} ${normalizedNextLine}`.trim()
+    : normalizedLine;
 
   for (const rule of rules) {
     for (const pattern of rule.patterns) {
@@ -143,11 +151,12 @@ function parseMed(medName, options = {}) {
     const raw = fs.readFileSync(filePath, 'utf-8');
     const lines = raw.split(/\r?\n/);
     const type = detectType(filePath);
-    const sections = type === 'rcm'
-      ? parseSections(lines, RCM_RULES)
-      : type === 'fi'
-        ? parseSections(lines, FI_RULES)
-        : {};
+    const sections =
+      type === 'rcm'
+        ? parseSections(lines, RCM_RULES)
+        : type === 'fi'
+          ? parseSections(lines, FI_RULES)
+          : {};
 
     return {
       file: filePath,
@@ -174,5 +183,5 @@ function parseMed(medName, options = {}) {
 }
 
 module.exports = {
-  parseMed
+  parseMed,
 };

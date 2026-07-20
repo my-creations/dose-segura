@@ -24,11 +24,10 @@ export const Colors = {
     textDark: '#FFFFFF',
     background: '#151718',
     cardBackground: '#232527',
-    tint: '#FFB3C6', // Lighter pastel pink for contrast
+    tint: '#FFB3C6',
     icon: '#9BA1A6',
     tabIconDefault: '#9BA1A6',
     tabIconSelected: '#FFB3C6',
-    // Section tile colors (Darkened versions of pastels for contrast)
     rose: '#5C3A46',
     lavender: '#3A475C',
     mint: '#3A4C3C',
@@ -40,39 +39,9 @@ export const Colors = {
   },
 };
 
-// Section key type for consistent typing
-export type SectionKey = 
-  | 'classification'
-  | 'compatibility'
-  | 'presentationAndStorage'
-  | 'preparation'
-  | 'administration'
-  | 'stability'
-  | 'contraindicationsAndPrecautions'
-  | 'nursingCare';
-
-// Tile color assignments for each section - maps to actual color values
-export const SECTION_COLORS: Record<'light' | 'dark', Record<SectionKey, string>> = {
-  light: {
-    classification: '#C5DFF8',    // lavender
-    compatibility: '#D4E7C5',     // mint
-    presentationAndStorage: '#FFF5E4', // cream
-    preparation: '#B4D4FF',       // sky
-    administration: '#E8A0BF',    // rose
-    stability: '#FFD9B7',         // peach
-    contraindicationsAndPrecautions: '#FFB5B5', // coral
-    nursingCare: '#DBC4F0',       // lilac
-  },
-  dark: {
-    classification: '#3A475C',    // Dark Lavender
-    compatibility: '#3A4C3C',     // Dark Mint
-    presentationAndStorage: '#4C4638', // Dark Cream
-    preparation: '#324A5E',       // Dark Sky
-    administration: '#5C3A46',    // Dark Rose
-    stability: '#5C483A',         // Dark Peach
-    contraindicationsAndPrecautions: '#5C3A3A', // Dark Coral
-    nursingCare: '#4A3A5C',       // Dark Lilac
-  },
-};
+/** @deprecated Import from `@/catalog/medicationSections`. */
+export type { SectionKey } from '@/catalog/medicationSections';
+/** @deprecated Import from `@/catalog/medicationSections`. */
+export { SECTION_COLORS } from '@/catalog/medicationSections';
 
 export default Colors;

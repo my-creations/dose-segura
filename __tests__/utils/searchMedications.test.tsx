@@ -1,124 +1,43 @@
-// Tests for search utility
-import React, { useEffect } from 'react';
-import { render, waitFor } from '@testing-library/react-native';
-
+// Compatibility suite — search lives on MedicationCatalog now.
+import medsIndexData from '@/data/meds-index.json';
 import medsData from '@/data/meds.json';
-import { MedicationsContextType, MedicationsProvider, useMedications } from '@/context/MedicationsContext';
-import { MedicationSummary, MedicationsData } from '@/types/medication';
+import { createMedicationCatalog } from '@/catalog/createMedicationCatalog';
+import { MedicationsData, MedicationsIndexData, MedicationSummary } from '@/types/medication';
 
 describe('searchMedications', () => {
-  function renderWithProvider(onReady: (value: MedicationsContextType) => void) {
-    function TestHarness() {
-      const contextValue = useMedications();
-
-      useEffect(() => {
-        onReady(contextValue);
-      }, [contextValue]);
-
-      return null;
-    }
-
-    render(
-      <MedicationsProvider>
-        <TestHarness />
-      </MedicationsProvider>
-    );
-  }
-
-  it('returns all medications for an empty query', async () => {
-    let contextValue: MedicationsContextType | null = null;
-
-    renderWithProvider((value) => {
-      contextValue = value;
-    });
-
-    await waitFor(() => {
-      expect(contextValue).not.toBeNull();
-    });
-
-    expect(contextValue!.searchMedications('')).toHaveLength(contextValue!.medications.length);
-    expect(contextValue!.searchMedications('   ')).toHaveLength(contextValue!.medications.length);
+  const catalog = createMedicationCatalog({
+    index: medsIndexData as MedicationsIndexData,
+    loadFull: async () => medsData as MedicationsData,
   });
 
-  it('matches medication names regardless of case and accents', async () => {
-    let contextValue: MedicationsContextType | null = null;
+  it('returns all medications for an empty query', () => {
+    expect(catalog.search('')).toHaveLength(catalog.medications.length);
+    expect(catalog.search('   ')).toHaveLength(catalog.medications.length);
+  });
 
-    renderWithProvider((value) => {
-      contextValue = value;
-    });
-
-    await waitFor(() => {
-      expect(contextValue).not.toBeNull();
-    });
-
-    const results = contextValue!.searchMedications('acetilcisteina');
-
+  it('matches medication names regardless of case and accents', () => {
+    const results = catalog.search('acetilcisteina');
     expect(results.some((med: MedicationSummary) => med.id === 'acetilcisteina')).toBe(true);
   });
 
-  it('matches medication aliases', async () => {
-    let contextValue: MedicationsContextType | null = null;
-
-    renderWithProvider((value) => {
-      contextValue = value;
-    });
-
-    await waitFor(() => {
-      expect(contextValue).not.toBeNull();
-    });
-
-    const results = contextValue!.searchMedications('nac');
-
+  it('matches medication aliases', () => {
+    const results = catalog.search('nac');
     expect(results.some((med: MedicationSummary) => med.id === 'acetilcisteina')).toBe(true);
   });
 
-  it('returns no results when query does not match', async () => {
-    let contextValue: MedicationsContextType | null = null;
-
-    renderWithProvider((value) => {
-      contextValue = value;
-    });
-
-    await waitFor(() => {
-      expect(contextValue).not.toBeNull();
-    });
-
-    const results = contextValue!.searchMedications('medicamento-inexistente-xyz');
-
-    expect(results).toHaveLength(0);
+  it('returns no results when query does not match', () => {
+    expect(catalog.search('medicamento-inexistente-xyz')).toHaveLength(0);
   });
 
   it('loads medication details on demand', async () => {
-    let contextValue: MedicationsContextType | null = null;
-
-    renderWithProvider((value) => {
-      contextValue = value;
-    });
-
-    await waitFor(() => {
-      expect(contextValue).not.toBeNull();
-    });
-
-    await expect(contextValue!.getMedicationDetails('acetilcisteina')).resolves.toMatchObject({
+    await expect(catalog.getDetails('acetilcisteina')).resolves.toMatchObject({
       id: 'acetilcisteina',
       name: 'Acetilcisteína',
     });
   });
 
   it('returns medication details that match the source JSON record', async () => {
-    let contextValue: MedicationsContextType | null = null;
-
-    renderWithProvider((value) => {
-      contextValue = value;
-    });
-
-    await waitFor(() => {
-      expect(contextValue).not.toBeNull();
-    });
-
     const expectedMedication = (medsData as MedicationsData).medications.acetilcisteina;
-    const actualMedication = await contextValue!.getMedicationDetails('acetilcisteina');
-
-    expect(actualMedication).toEqual(expectedMedication);
+    await expect(catalog.getDetails('acetilcisteina')).resolves.toEqual(expectedMedication);
   });
 });

@@ -9,8 +9,6 @@ jest.mock('@/hooks/useColorScheme', () => ({
   useColorScheme: () => 'light',
 }));
 
-
-
 const baseMedication: Medication = {
   id: 'acetilcisteina',
   name: 'Acetilcisteína',
@@ -29,7 +27,7 @@ const baseMedication: Medication = {
 describe('MedicationCard', () => {
   it('renders medication name, aliases, classification, and high-risk badge', () => {
     const { getByText, queryByText } = render(
-      <MedicationCard medication={baseMedication} isFavorite={false} />
+      <MedicationCard medication={baseMedication} isFavorite={false} />,
     );
 
     expect(getByText('Acetilcisteína')).toBeTruthy();
@@ -43,9 +41,7 @@ describe('MedicationCard', () => {
   it('does not render high-risk badge when medication is not high risk', () => {
     const medication = { ...baseMedication, highRisk: false };
 
-    const { queryByText } = render(
-      <MedicationCard medication={medication} isFavorite={false} />
-    );
+    const { queryByText } = render(<MedicationCard medication={medication} isFavorite={false} />);
 
     expect(queryByText('Alto Risco')).toBeNull();
   });
@@ -58,7 +54,7 @@ describe('MedicationCard', () => {
         medication={baseMedication}
         isFavorite={false}
         onToggleFavorite={onToggleFavorite}
-      />
+      />,
     );
 
     const favoriteButton = getByTestId('favorite-button');

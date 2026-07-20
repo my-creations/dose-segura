@@ -12,7 +12,7 @@ import i18n from '@/utils/i18n';
 
 export default function HomeScreen() {
   const [searchQuery, setSearchQuery] = useState('');
-  const { searchMedications, version, lastUpdated } = useMedications();
+  const { search, version, lastUpdated } = useMedications();
   const { favorites, toggleFavorite } = useFavorites();
   const colorScheme = useColorScheme();
   const colors = Colors[colorScheme ?? 'light'];
@@ -20,28 +20,32 @@ export default function HomeScreen() {
   const deferredSearchQuery = useDeferredValue(searchQuery);
 
   const filteredMedications = useMemo(
-    () => searchMedications(deferredSearchQuery),
-    [deferredSearchQuery, searchMedications],
+    () => search(deferredSearchQuery),
+    [deferredSearchQuery, search],
   );
   const favoriteIds = useMemo(() => new Set(favorites), [favorites]);
 
-  const handleToggleFavorite = useCallback((id: string) => {
-    toggleFavorite(id);
-  }, [toggleFavorite]);
+  const handleToggleFavorite = useCallback(
+    (id: string) => {
+      toggleFavorite(id);
+    },
+    [toggleFavorite],
+  );
 
-  const renderItem = useCallback(({ item }: { item: (typeof filteredMedications)[number] }) => (
-    <MedicationCard
-      medication={item}
-      isFavorite={favoriteIds.has(item.id)}
-      onToggleFavorite={handleToggleFavorite}
-    />
-  ), [favoriteIds, handleToggleFavorite]);
+  const renderItem = useCallback(
+    ({ item }: { item: (typeof filteredMedications)[number] }) => (
+      <MedicationCard
+        medication={item}
+        isFavorite={favoriteIds.has(item.id)}
+        onToggleFavorite={handleToggleFavorite}
+      />
+    ),
+    [favoriteIds, handleToggleFavorite],
+  );
 
   const keyExtractor = useCallback((item: (typeof filteredMedications)[number]) => item.id, []);
   const shouldRenderAllWebItems = isWeb && filteredMedications.length <= 150;
-  const webRenderCount = shouldRenderAllWebItems
-    ? Math.max(filteredMedications.length, 1)
-    : 24;
+  const webRenderCount = shouldRenderAllWebItems ? Math.max(filteredMedications.length, 1) : 24;
 
   return (
     <View style={[styles.container, { backgroundColor: colors.background }]} testID="home-screen">
@@ -65,9 +69,7 @@ export default function HomeScreen() {
         ListEmptyComponent={
           <View style={styles.empty}>
             <ThemedText style={styles.emptyText}>
-              {searchQuery
-                ? i18n.t('home.noResults')
-                : i18n.t('home.noData')}
+              {searchQuery ? i18n.t('home.noResults') : i18n.t('home.noData')}
             </ThemedText>
           </View>
         }

@@ -1,10 +1,7 @@
 import { expect, test } from '@playwright/test';
 
 test.describe('Responsive Layout', () => {
-  const SECTION_IDS = [
-    'section-classification',
-    'section-compatibility',
-  ];
+  const SECTION_IDS = ['section-classification', 'section-compatibility'];
 
   test.beforeEach(async ({ page }) => {
     await page.goto('/medication/acetilcisteina');

@@ -26,5 +26,5 @@ function extractMed(medName) {
 }
 
 module.exports = {
-  extractMed
+  extractMed,
 };

@@ -1,50 +1,45 @@
 import { Ionicons } from '@expo/vector-icons';
 import { Stack, router, useLocalSearchParams } from 'expo-router';
 import React, { useEffect, useState } from 'react';
-import { Platform, Pressable, ScrollView, StyleSheet, View, useWindowDimensions } from 'react-native';
+import {
+  Platform,
+  Pressable,
+  ScrollView,
+  StyleSheet,
+  View,
+  useWindowDimensions,
+} from 'react-native';
 
 import { SectionContent, SectionTile } from '@/components/SectionTile';
 import { ThemedText } from '@/components/ThemedText';
 import { ThemedView } from '@/components/ThemedView';
-import { Colors, SectionKey } from '@/constants/Colors';
+import { sectionI18nKey, sectionsOf } from '@/catalog/medicationSections';
+import { Colors } from '@/constants/Colors';
 import { pastelCardShadowStrong } from '@/constants/Shadows';
 import { useMedications } from '@/context/MedicationsContext';
 import { useColorScheme } from '@/hooks/useColorScheme';
 import { useFavorites } from '@/hooks/useFavorites';
-import { MedicationSection } from '@/types/medication';
+import { Medication } from '@/types/medication';
 import i18n from '@/utils/i18n';
-
-// Map MedicationSection to SectionKey for colors
-const SECTION_KEY_MAP: Record<MedicationSection, SectionKey> = {
-  classification: 'classification',
-  compatibility: 'compatibility',
-  presentationAndStorage: 'presentationAndStorage',
-  preparation: 'preparation',
-  administration: 'administration',
-  stability: 'stability',
-  contraindicationsAndPrecautions: 'contraindicationsAndPrecautions',
-  nursingCare: 'nursingCare',
-};
 
 export default function MedicationDetailScreen() {
   const { id } = useLocalSearchParams<{ id: string }>();
-  const { getMedicationDetails, getMedicationSummary } = useMedications();
+  const { getDetails, getSummary } = useMedications();
   const { isFavorite, toggleFavorite } = useFavorites();
   const colorScheme = useColorScheme();
   const colors = Colors[colorScheme ?? 'light'];
   const { width } = useWindowDimensions();
-  const [medication, setMedication] = useState<Awaited<ReturnType<typeof getMedicationDetails>>>();
+  const [medication, setMedication] = useState<Medication | undefined>();
   const [isLoading, setIsLoading] = useState(true);
   const [loadFailed, setLoadFailed] = useState(false);
-  const medicationSummary = id ? getMedicationSummary(id) : undefined;
+  const medicationSummary = id ? getSummary(id) : undefined;
   const displayMedication = medication ?? medicationSummary;
-  
+
   // Platform detection
   const isWeb = Platform.OS === 'web';
-  
+
   // Use 2 columns on wider screens (tablets, web)
   const isWideScreen = width >= 600;
-  const numColumns = isWideScreen ? 2 : 1;
 
   useEffect(() => {
     let isMounted = true;
@@ -61,7 +56,7 @@ export default function MedicationDetailScreen() {
       setIsLoading(true);
 
       try {
-        const nextMedication = await getMedicationDetails(id);
+        const nextMedication = await getDetails(id);
 
         if (isMounted) {
           setMedication(nextMedication);
@@ -86,7 +81,7 @@ export default function MedicationDetailScreen() {
     return () => {
       isMounted = false;
     };
-  }, [getMedicationDetails, id]);
+  }, [getDetails, id]);
 
   if (isLoading && !displayMedication) {
     return (
@@ -106,7 +101,10 @@ export default function MedicationDetailScreen() {
         <ThemedText style={styles.notFoundText}>
           {loadFailed ? i18n.t('common.medicationLoadError') : i18n.t('common.medicationNotFound')}
         </ThemedText>
-        <Pressable style={[styles.backButton, { backgroundColor: colors.tint }]} onPress={() => router.back()}>
+        <Pressable
+          style={[styles.backButton, { backgroundColor: colors.tint }]}
+          onPress={() => router.back()}
+        >
           <ThemedText style={styles.backButtonText}>{i18n.t('common.back')}</ThemedText>
         </Pressable>
       </ThemedView>
@@ -114,47 +112,47 @@ export default function MedicationDetailScreen() {
   }
 
   const favorite = isFavorite(displayMedication.id);
-
-  const sections: { key: MedicationSection; data: string[] }[] = medication
-    ? [
-        { key: 'classification', data: medication.classification },
-        { key: 'compatibility', data: medication.compatibility },
-        { key: 'presentationAndStorage', data: medication.presentationAndStorage },
-        { key: 'preparation', data: medication.preparation },
-        { key: 'administration', data: medication.administration },
-        { key: 'stability', data: medication.stability },
-        { key: 'contraindicationsAndPrecautions', data: medication.contraindicationsAndPrecautions },
-        { key: 'nursingCare', data: medication.nursingCare },
-      ]
-    : [];
-
-  // Filter out empty sections
-  const nonEmptySections = sections.filter(s => s.data.length > 0);
+  const nonEmptySections = medication ? sectionsOf(medication) : [];
 
   return (
     <>
-      <Stack.Screen 
-        options={{ 
+      <Stack.Screen
+        options={{
           title: displayMedication.name,
-          headerRight: isWeb ? undefined : () => (
-            <Pressable onPress={() => toggleFavorite(displayMedication.id)} hitSlop={10} testID="favorite-toggle">
-              <Ionicons
-                name={favorite ? 'heart' : 'heart-outline'}
-                size={24}
-                color={favorite ? colors.rose : colors.icon}
-              />
-            </Pressable>
-          ),
-        }} 
+          headerRight: isWeb
+            ? undefined
+            : () => (
+                <Pressable
+                  onPress={() => toggleFavorite(displayMedication.id)}
+                  hitSlop={10}
+                  testID="favorite-toggle"
+                >
+                  <Ionicons
+                    name={favorite ? 'heart' : 'heart-outline'}
+                    size={24}
+                    color={favorite ? colors.rose : colors.icon}
+                  />
+                </Pressable>
+              ),
+        }}
       />
       <ScrollView style={[styles.container, { backgroundColor: colors.background }]}>
         <View style={[styles.header, { backgroundColor: colors.cardBackground }]}>
           <View style={styles.titleRow}>
-            <ThemedText type="title" style={isWeb ? undefined : styles.name} testID="medication-title">
+            <ThemedText
+              type="title"
+              style={isWeb ? undefined : styles.name}
+              testID="medication-title"
+            >
               {displayMedication.name}
             </ThemedText>
             {isWeb && (
-              <Pressable onPress={() => toggleFavorite(displayMedication.id)} hitSlop={10} style={styles.favoriteButtonWeb} testID="favorite-toggle">
+              <Pressable
+                onPress={() => toggleFavorite(displayMedication.id)}
+                hitSlop={10}
+                style={styles.favoriteButtonWeb}
+                testID="favorite-toggle"
+              >
                 <Ionicons
                   name={favorite ? 'heart' : 'heart-outline'}
                   size={26}
@@ -169,7 +167,7 @@ export default function MedicationDetailScreen() {
               </View>
             )}
           </View>
-          
+
           {((!isWeb && displayMedication.highRisk) || displayMedication.aliases.length > 0) && (
             <View style={styles.badgesRow}>
               {!isWeb && displayMedication.highRisk && (
@@ -180,7 +178,9 @@ export default function MedicationDetailScreen() {
               )}
               {displayMedication.aliases.map((alias, index) => (
                 <View key={index} style={[styles.aliasBadge, { backgroundColor: colors.lavender }]}>
-                  <ThemedText style={[styles.aliasText, { color: colors.textDark }]}>{alias}</ThemedText>
+                  <ThemedText style={[styles.aliasText, { color: colors.textDark }]}>
+                    {alias}
+                  </ThemedText>
                 </View>
               ))}
             </View>
@@ -188,16 +188,17 @@ export default function MedicationDetailScreen() {
         </View>
 
         {medication ? (
-          <View style={[
-            styles.sectionsContainer,
-            isWideScreen && styles.sectionsGrid
-          ]}>
+          <View style={[styles.sectionsContainer, isWideScreen && styles.sectionsGrid]}>
             {nonEmptySections.map((section) => (
               <SectionTile
                 key={section.key}
-                title={i18n.t(`medication.sections.${section.key}`)}
-                sectionKey={SECTION_KEY_MAP[section.key]}
-                style={isWideScreen ? { width: (width - (isWeb ? 68 : 48)) / 2, marginBottom: 12 } : styles.sectionTile}
+                title={i18n.t(sectionI18nKey(section.key))}
+                sectionKey={section.key}
+                style={
+                  isWideScreen
+                    ? { width: (width - (isWeb ? 68 : 48)) / 2, marginBottom: 12 }
+                    : styles.sectionTile
+                }
                 testID={`section-${section.key}`}
               >
                 <SectionContent items={section.data} />
@@ -207,9 +208,7 @@ export default function MedicationDetailScreen() {
         ) : null}
 
         <View style={[styles.footer, { backgroundColor: colors.cream }]}>
-          <ThemedText style={styles.disclaimer}>
-            {i18n.t('medication.disclaimer')}
-          </ThemedText>
+          <ThemedText style={styles.disclaimer}>{i18n.t('medication.disclaimer')}</ThemedText>
         </View>
       </ScrollView>
     </>

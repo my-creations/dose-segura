@@ -1,0 +1,26 @@
+# deps / build
+node_modules
+.expo
+dist
+web-build
+coverage
+playwright-report
+blob-report
+test-results
+ios
+android
+
+# lockfiles & generated
+package-lock.json
+yarn.lock
+expo-env.d.ts
+
+# large / specialized data (own formatters)
+data/meds.json
+data/meds-index.json
+infarmed
+medication-images
+venv
+
+# public assets / static export noise
+public/meds-full.json

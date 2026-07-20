@@ -2,13 +2,14 @@ import React from 'react';
 import { StyleSheet, View, ViewStyle } from 'react-native';
 
 import { ThemedText } from '@/components/ThemedText';
-import { Colors, SECTION_COLORS, SectionKey } from '@/constants/Colors';
+import { MedicationSection, sectionColor } from '@/catalog/medicationSections';
+import { Colors } from '@/constants/Colors';
 import { pastelCardShadow } from '@/constants/Shadows';
 import { useColorScheme } from '@/hooks/useColorScheme';
 
 interface SectionTileProps {
   title: string;
-  sectionKey: SectionKey;
+  sectionKey: MedicationSection;
   children: React.ReactNode;
   style?: ViewStyle;
   testID?: string;
@@ -17,8 +18,7 @@ interface SectionTileProps {
 export function SectionTile({ title, sectionKey, children, style, testID }: SectionTileProps) {
   const colorScheme = useColorScheme();
   const colors = Colors[colorScheme ?? 'light'];
-  const sectionColors = SECTION_COLORS[colorScheme ?? 'light'];
-  const backgroundColor = sectionColors[sectionKey] || colors.cardBackground;
+  const backgroundColor = sectionColor(sectionKey, colorScheme ?? 'light') || colors.cardBackground;
 
   return (
     <View style={[styles.container, { backgroundColor }, style]} testID={testID}>
@@ -27,9 +27,7 @@ export function SectionTile({ title, sectionKey, children, style, testID }: Sect
           {title}
         </ThemedText>
       </View>
-      <View style={styles.content}>
-        {children}
-      </View>
+      <View style={styles.content}>{children}</View>
     </View>
   );
 }

@@ -56,7 +56,8 @@ export const Strings = {
         sectionTitle: 'Instalação',
         button: 'Instalar Aplicação',
         iosTitle: 'Instalar no iPhone/iPad',
-        iosInstructions: 'Para instalar o Dose Segura no seu iPhone ou iPad:\n\n1. Toque no botão Partilhar\n2. Escolha "Adicionar ao Ecrã Principal"\n3. Toque em "Adicionar"',
+        iosInstructions:
+          'Para instalar o Dose Segura no seu iPhone ou iPad:\n\n1. Toque no botão Partilhar\n2. Escolha "Adicionar ao Ecrã Principal"\n3. Toque em "Adicionar"',
         steps: {
           share: 'Toque no botão Partilhar',
           add: 'Escolha "Adicionar ao Ecrã Principal"',
@@ -67,11 +68,14 @@ export const Strings = {
         error: 'Não foi possível iniciar a instalação',
         dismiss: 'Entendi',
       },
-      aboutText: 'Dose Segura é uma aplicação de referência para auxiliar profissionais de saúde na administração de medicamentos',
-      warningText: 'Esta aplicação é apenas para referência. Verifique sempre a informação com fontes oficiais e a farmácia antes de administrar qualquer medicamento',
+      aboutText:
+        'Dose Segura é uma aplicação de referência para auxiliar profissionais de saúde na administração de medicamentos',
+      warningText:
+        'Esta aplicação é apenas para referência. Verifique sempre a informação com fontes oficiais e a farmácia antes de administrar qualquer medicamento',
     },
     medication: {
-      disclaimer: '⚠️ Esta informação é apenas para referência. Verifique sempre com a farmácia antes de administrar',
+      disclaimer:
+        '⚠️ Esta informação é apenas para referência. Verifique sempre com a farmácia antes de administrar',
       sections: {
         classification: 'Classificação',
         compatibility: 'Compatibilidade',

@@ -13,14 +13,25 @@ interface SearchBarProps {
   placeholder?: string;
 }
 
-export function SearchBar({ value, onChangeText, placeholder = i18n.t('home.searchPlaceholder') }: SearchBarProps) {
+export function SearchBar({
+  value,
+  onChangeText,
+  placeholder = i18n.t('home.searchPlaceholder'),
+}: SearchBarProps) {
   const colorScheme = useColorScheme();
   const colors = Colors[colorScheme ?? 'light'];
   const showIcon = Platform.OS !== 'web';
 
   return (
-    <View style={[styles.container, { backgroundColor: colors.cardBackground, borderColor: colors.lavender }]}>
-      {showIcon ? <Ionicons name="search" size={20} color={colors.tint} style={styles.icon} /> : null}
+    <View
+      style={[
+        styles.container,
+        { backgroundColor: colors.cardBackground, borderColor: colors.lavender },
+      ]}
+    >
+      {showIcon ? (
+        <Ionicons name="search" size={20} color={colors.tint} style={styles.icon} />
+      ) : null}
       <TextInput
         style={[styles.input, { color: colors.text, backgroundColor: 'transparent' }]}
         value={value}

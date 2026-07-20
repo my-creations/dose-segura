@@ -24,7 +24,7 @@ function fixWebBuild() {
   if (fs.existsSync(PUBLIC_DIR)) {
     console.log('📂 Copying public directory contents to dist...');
     const publicFiles = fs.readdirSync(PUBLIC_DIR);
-    publicFiles.forEach(file => {
+    publicFiles.forEach((file) => {
       const srcPath = path.join(PUBLIC_DIR, file);
       const destPath = path.join(DIST_DIR, file);
       fs.cpSync(srcPath, destPath, { recursive: true });
@@ -50,13 +50,13 @@ function fixWebBuild() {
   const files = collectFiles(DIST_DIR);
   let updateCount = 0;
 
-  files.forEach(filePath => {
+  files.forEach((filePath) => {
     // Only process text files that might contain references
     if (!/\.(html|js|css|json|map)$/.test(filePath)) return;
 
     try {
       const content = fs.readFileSync(filePath, 'utf8');
-      
+
       // Replace "assets/node_modules" with "assets/libs"
       // This regex captures the string literal usage in JS and URL paths in HTML/CSS
       let newContent = content.replace(/assets\/node_modules/g, 'assets/libs');

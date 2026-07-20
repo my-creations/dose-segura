@@ -28,7 +28,7 @@ export interface MedicationsIndexData {
   medications: Record<string, MedicationSummary>;
 }
 
-export type MedicationSection = 
+export type MedicationSection =
   | 'classification'
   | 'compatibility'
   | 'presentationAndStorage'
@@ -38,24 +38,5 @@ export type MedicationSection =
   | 'contraindicationsAndPrecautions'
   | 'nursingCare';
 
-export const SECTION_LABELS: Record<MedicationSection, string> = {
-  classification: 'Classificação',
-  compatibility: 'Compatibilidade',
-  presentationAndStorage: 'Apresentação e Armazenamento',
-  preparation: 'Preparação',
-  administration: 'Administração',
-  stability: 'Estabilidade',
-  contraindicationsAndPrecautions: 'Contraindicações e Precauções',
-  nursingCare: 'Cuidados de Enfermagem',
-};
-
-export const SECTION_ICONS: Record<MedicationSection, string> = {
-  classification: 'medical',
-  compatibility: 'flask',
-  presentationAndStorage: 'cube',
-  preparation: 'construct',
-  administration: 'medkit',
-  stability: 'time',
-  contraindicationsAndPrecautions: 'warning',
-  nursingCare: 'heart',
-};
+/** @deprecated Prefer MedicationSection */
+export type SectionKey = MedicationSection;

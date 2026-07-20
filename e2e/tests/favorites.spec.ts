@@ -16,7 +16,9 @@ test.describe('Favorites flow', () => {
     });
 
     await test.step('Add medication to favorites', async () => {
-      const medicationCard = page.getByTestId('home-screen').getByTestId('medication-card-bicarbonato-de-sodio');
+      const medicationCard = page
+        .getByTestId('home-screen')
+        .getByTestId('medication-card-bicarbonato-de-sodio');
 
       await expect(medicationCard).toBeVisible();
 
@@ -28,7 +30,9 @@ test.describe('Favorites flow', () => {
     });
 
     await test.step('Navigate to favorites tab', async () => {
-      const favoritesTab = page.getByRole('tab', { name: new RegExp(Strings.pt.navigation.favorites, 'i') });
+      const favoritesTab = page.getByRole('tab', {
+        name: new RegExp(Strings.pt.navigation.favorites, 'i'),
+      });
 
       await expect(favoritesTab).toBeVisible();
       await favoritesTab.click();
@@ -36,7 +40,9 @@ test.describe('Favorites flow', () => {
     });
 
     await test.step('Verify medication is in favorites and remove it', async () => {
-      const favoriteCard = page.getByTestId('favorites-screen').getByTestId('medication-card-bicarbonato-de-sodio');
+      const favoriteCard = page
+        .getByTestId('favorites-screen')
+        .getByTestId('medication-card-bicarbonato-de-sodio');
 
       await expect(favoriteCard).toBeVisible();
 

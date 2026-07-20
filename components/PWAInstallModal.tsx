@@ -35,18 +35,11 @@ export function PWAInstallModal({ visible, onClose }: PWAInstallModalProps) {
   const description = i18n.t('settings.install.iosInstructions').split('\n')[0];
 
   return (
-    <Modal
-      animationType="fade"
-      transparent={true}
-      visible={visible}
-      onRequestClose={onClose}
-    >
+    <Modal animationType="fade" transparent={true} visible={visible} onRequestClose={onClose}>
       <View style={styles.centeredView} testID="pwa-install-modal">
         <View style={[styles.modalView, { backgroundColor: colors.background }]}>
           <View style={styles.header}>
-            <ThemedText style={styles.modalTitle}>
-              {i18n.t('settings.install.iosTitle')}
-            </ThemedText>
+            <ThemedText style={styles.modalTitle}>{i18n.t('settings.install.iosTitle')}</ThemedText>
             <Pressable onPress={onClose} style={styles.closeButton} testID="close-modal-button">
               <Ionicons name="close" size={24} color={colors.text} />
             </Pressable>

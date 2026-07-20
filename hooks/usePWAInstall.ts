@@ -17,10 +17,11 @@ export function usePWAInstall() {
   useEffect(() => {
     // Check if already installed or running as standalone
     if (typeof window !== 'undefined') {
-      const isStandaloneMode = window.matchMedia('(display-mode: standalone)').matches 
-        || (window.navigator as any).standalone 
-        || document.referrer.includes('android-app://');
-      
+      const isStandaloneMode =
+        window.matchMedia('(display-mode: standalone)').matches ||
+        (window.navigator as any).standalone ||
+        document.referrer.includes('android-app://');
+
       setIsStandalone(isStandaloneMode);
 
       const handleBeforeInstallPrompt = (event: Event) => {
@@ -54,7 +55,7 @@ export function usePWAInstall() {
 
     // iOS Detection
     const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !(window as any).MSStream;
-    
+
     if (isIOS) {
       if (!isStandalone) {
         setShowInstructions(true);
@@ -68,7 +69,7 @@ export function usePWAInstall() {
       // Wait for the user to respond to the prompt
       const { outcome } = await deferredPrompt.userChoice;
       console.log(`User response to the install prompt: ${outcome}`);
-      
+
       if (outcome === 'accepted') {
         setIsInstallable(false);
         setDeferredPrompt(null);

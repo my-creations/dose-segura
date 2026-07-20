@@ -60,28 +60,28 @@ async function main() {
         console.log('--- Step 1: Download ---');
         await downloadMed(medName);
         console.log('\n--- Step 2: Extract ---');
-        extractMed(medName); // Note: extractMed might need sanitizeName if medName was a search term? 
-                             // Wait, extractMed expects folder name. downloadMed creates folder name.
-                             // Ideally medName passed to 'all' is the search term.
-                             // downloadMed sanitizes it. extractMed needs the sanitized name.
-                             // But wait, downloadMed creates `infarmed/<sanitizedSearch>/<sanitizedMed>`.
-                             // This is complex. 
-                             // Let's assume for 'all', the user passes the SEARCH TERM.
-                             // downloadMed will download potentially multiple meds.
-                             // We should probably iterate all subfolders in `infarmed/<sanitizedSearch>`?
-                             // 
-                             // Let's refine 'all' logic:
-                             // downloadMed downloads to `infarmed/<sanitizedSearch>/<medName>/...`
-                             // extractMed expects `medDir` relative to `infarmed`.
-                             // So if I search "propofol", it creates `infarmed/propofol/propofol-lipuro/...`
-                             // extractMed("propofol") works if `infarmed/propofol` exists and contains PDFs.
-                             // But `infarmed/propofol` contains SUBDIRECTORIES.
-                             // `collectFiles` is recursive, so it finds PDFs in subdirectories.
-                             // So extractMed("propofol") works!
-                             // It extracts text next to PDFs.
-                             // parseMed("propofol") parses text files found recursively.
-                             // It works!
-        
+        extractMed(medName); // Note: extractMed might need sanitizeName if medName was a search term?
+        // Wait, extractMed expects folder name. downloadMed creates folder name.
+        // Ideally medName passed to 'all' is the search term.
+        // downloadMed sanitizes it. extractMed needs the sanitized name.
+        // But wait, downloadMed creates `infarmed/<sanitizedSearch>/<sanitizedMed>`.
+        // This is complex.
+        // Let's assume for 'all', the user passes the SEARCH TERM.
+        // downloadMed will download potentially multiple meds.
+        // We should probably iterate all subfolders in `infarmed/<sanitizedSearch>`?
+        //
+        // Let's refine 'all' logic:
+        // downloadMed downloads to `infarmed/<sanitizedSearch>/<medName>/...`
+        // extractMed expects `medDir` relative to `infarmed`.
+        // So if I search "propofol", it creates `infarmed/propofol/propofol-lipuro/...`
+        // extractMed("propofol") works if `infarmed/propofol` exists and contains PDFs.
+        // But `infarmed/propofol` contains SUBDIRECTORIES.
+        // `collectFiles` is recursive, so it finds PDFs in subdirectories.
+        // So extractMed("propofol") works!
+        // It extracts text next to PDFs.
+        // parseMed("propofol") parses text files found recursively.
+        // It works!
+
         console.log('\n--- Step 3: Parse ---');
         parseMed(medName, options); // This will parse all found text files in the folder structure.
         break;

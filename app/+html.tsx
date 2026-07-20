@@ -90,7 +90,11 @@ export default function Root({ children }: { children: React.ReactNode }) {
         <meta name="twitter:description" content={SEO.defaultDescription} />
         <meta name="twitter:image" content={SEO.defaultImage} />
         {/* Icons */}
-        <link rel="apple-touch-icon" sizes="180x180" href={`${assetBasePath}/apple-touch-icon.png`} />
+        <link
+          rel="apple-touch-icon"
+          sizes="180x180"
+          href={`${assetBasePath}/apple-touch-icon.png`}
+        />
         <link rel="icon" type="image/png" sizes="32x32" href={`${assetBasePath}/favicon-32.png`} />
         <link rel="manifest" href={`${assetBasePath}/manifest.json`} />
         <link rel="alternate" hrefLang="pt-PT" href={getCanonicalUrl('/')} />

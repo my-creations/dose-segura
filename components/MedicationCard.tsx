@@ -16,13 +16,17 @@ interface MedicationCardProps {
   onToggleFavorite?: (id: string) => void;
 }
 
-function MedicationCardComponent({ medication, isFavorite = false, onToggleFavorite }: MedicationCardProps) {
+function MedicationCardComponent({
+  medication,
+  isFavorite = false,
+  onToggleFavorite,
+}: MedicationCardProps) {
   const colorScheme = useColorScheme();
   const colors = Colors[colorScheme ?? 'light'];
   const isWeb = Platform.OS === 'web';
 
   const FavoriteButton = (
-    <Pressable 
+    <Pressable
       onPress={(e) => {
         e?.stopPropagation?.();
         e?.preventDefault?.();
@@ -61,15 +65,20 @@ function MedicationCardComponent({ medication, isFavorite = false, onToggleFavor
                 </View>
               )}
             </View>
-            
+
             <View style={styles.classificationContainer}>
               {medication.classification.slice(0, 2).map((cls, index) => (
-                <View key={index} style={[styles.classificationBadge, { backgroundColor: colors.lavender }]}>
-                  <ThemedText style={[styles.classificationText, { color: colors.textDark }]}>{cls}</ThemedText>
+                <View
+                  key={index}
+                  style={[styles.classificationBadge, { backgroundColor: colors.lavender }]}
+                >
+                  <ThemedText style={[styles.classificationText, { color: colors.textDark }]}>
+                    {cls}
+                  </ThemedText>
                 </View>
               ))}
             </View>
-            
+
             {medication.aliases.length > 0 && (
               <ThemedText type="caption" style={styles.aliases}>
                 {medication.aliases.slice(0, 2).join(', ')}

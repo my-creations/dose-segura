@@ -1,3 +1,2 @@
-// Re-export from context for backwards compatibility
+/** @deprecated Import from `@/context/FavoritesContext`. */
 export { useFavorites } from '@/context/FavoritesContext';
-

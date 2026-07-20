@@ -12,7 +12,8 @@ const originalWindow = global.window;
 const originalNavigator = global.navigator;
 const originalDocument = global.document;
 const originalPlatformOS = Platform.OS;
-const defaultUserAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/91.0.4472.124 Safari/537.36';
+const defaultUserAgent =
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/91.0.4472.124 Safari/537.36';
 
 type PWAInstallValue = ReturnType<typeof usePWAInstall>;
 
@@ -35,7 +36,7 @@ describe('usePWAInstall', () => {
 
   beforeAll(() => {
     const globalAny = global as any;
-    
+
     // Backup and redefine window
     delete globalAny.window;
     globalAny.window = {
@@ -45,7 +46,7 @@ describe('usePWAInstall', () => {
       }),
       removeEventListener: jest.fn((event: string, cb: (event?: any) => void) => {
         if (eventListeners[event]) {
-          eventListeners[event] = eventListeners[event].filter(l => l !== cb);
+          eventListeners[event] = eventListeners[event].filter((l) => l !== cb);
         }
       }),
       matchMedia: jest.fn((query: string) => ({
@@ -63,7 +64,7 @@ describe('usePWAInstall', () => {
         standalone: false,
       },
     };
-    
+
     globalAny.navigator = globalAny.window.navigator;
     globalAny.document = {
       referrer: '',
@@ -110,7 +111,7 @@ describe('usePWAInstall', () => {
 
   it('should detect standalone mode via matchMedia', async () => {
     jest.mocked(window.matchMedia).mockReturnValue({ matches: true } as any);
-    
+
     let hookValue: PWAInstallValue | null = null;
 
     renderWithHarness((value) => {
@@ -137,7 +138,7 @@ describe('usePWAInstall', () => {
       const event = {
         preventDefault: jest.fn(),
       };
-      eventListeners['beforeinstallprompt']?.forEach(cb => cb(event));
+      eventListeners['beforeinstallprompt']?.forEach((cb) => cb(event));
     });
 
     expect(hookValue!.isInstallable).toBe(true);
@@ -156,13 +157,13 @@ describe('usePWAInstall', () => {
 
     // First make it installable
     await act(async () => {
-      eventListeners['beforeinstallprompt']?.forEach(cb => cb({ preventDefault: jest.fn() }));
+      eventListeners['beforeinstallprompt']?.forEach((cb) => cb({ preventDefault: jest.fn() }));
     });
     expect(hookValue!.isInstallable).toBe(true);
 
     // Then simulate installation
     await act(async () => {
-      eventListeners['appinstalled']?.forEach(cb => cb());
+      eventListeners['appinstalled']?.forEach((cb) => cb());
     });
 
     expect(hookValue!.isStandalone).toBe(true);
@@ -190,7 +191,7 @@ describe('usePWAInstall', () => {
         prompt: mockPrompt,
         userChoice: mockUserChoice,
       };
-      eventListeners['beforeinstallprompt']?.forEach(cb => cb(event));
+      eventListeners['beforeinstallprompt']?.forEach((cb) => cb(event));
     });
 
     await act(async () => {
@@ -203,10 +204,11 @@ describe('usePWAInstall', () => {
   it('should show instructions on iOS when no prompt is available', async () => {
     Platform.OS = 'web';
     Object.defineProperty(window.navigator, 'userAgent', {
-      value: 'Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1',
+      value:
+        'Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1',
       configurable: true,
     });
-    
+
     let hookValue: PWAInstallValue | null = null;
 
     renderWithHarness((value) => {
@@ -227,7 +229,7 @@ describe('usePWAInstall', () => {
   it('should alert on non-iOS when no prompt is available', async () => {
     Platform.OS = 'web';
     const alertSpy = jest.spyOn(Alert, 'alert').mockImplementation(() => {});
-    
+
     let hookValue: PWAInstallValue | null = null;
 
     renderWithHarness((value) => {

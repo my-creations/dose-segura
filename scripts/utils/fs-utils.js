@@ -29,5 +29,5 @@ function ensureOutputDir(filePath) {
 
 module.exports = {
   collectFiles,
-  ensureOutputDir
+  ensureOutputDir,
 };

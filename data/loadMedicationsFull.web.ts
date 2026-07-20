@@ -1,6 +1,6 @@
-import Constants from "expo-constants";
+import Constants from 'expo-constants';
 
-import { MedicationsData } from "@/types/medication";
+import { MedicationsData } from '@/types/medication';
 
 let cachedData: MedicationsData | null = null;
 let pendingRequest: Promise<MedicationsData> | null = null;
@@ -8,7 +8,7 @@ let resolvedUrl: string | null = null;
 
 function getBasePath() {
   const baseUrl = Constants.expoConfig?.experiments?.baseUrl;
-  return typeof baseUrl === "string" ? baseUrl : "";
+  return typeof baseUrl === 'string' ? baseUrl : '';
 }
 
 function getCandidateUrls() {
@@ -17,13 +17,13 @@ function getCandidateUrls() {
   }
 
   const urls = new Set<string>();
-  const basePath = getBasePath().replace(/\/$/, "");
+  const basePath = getBasePath().replace(/\/$/, '');
 
   if (basePath) {
     urls.add(`${basePath}/meds-full.json`);
   }
 
-  urls.add("/meds-full.json");
+  urls.add('/meds-full.json');
 
   return [...urls];
 }
@@ -38,7 +38,7 @@ export async function loadMedicationsFull() {
       let lastStatus: number | null = null;
 
       for (const url of getCandidateUrls()) {
-        const response = await fetch(url, { cache: "force-cache" });
+        const response = await fetch(url, { cache: 'force-cache' });
 
         if (!response.ok) {
           lastStatus = response.status;
@@ -51,12 +51,10 @@ export async function loadMedicationsFull() {
         return data;
       }
 
-      throw new Error(
-        `Failed to load medication details: ${lastStatus ?? "unknown"}`
-      );
+      throw new Error(`Failed to load medication details: ${lastStatus ?? 'unknown'}`);
     })().finally(() => {
-        pendingRequest = null;
-      });
+      pendingRequest = null;
+    });
   }
 
   return pendingRequest;
