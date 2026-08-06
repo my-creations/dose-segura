@@ -1,79 +1,81 @@
-import React, { useEffect } from 'react';
-import { act, render, waitFor } from '@testing-library/react-native';
+import React from 'react';
+import { Pressable, Text } from 'react-native';
+import { fireEvent, render, screen, waitFor } from '@testing-library/react-native';
 
-import { FavoritesContextType, FavoritesProvider, useFavorites } from '@/context/FavoritesContext';
+import { FavoritesProvider, useFavorites } from '@/context/FavoritesContext';
 import { FAVORITES_STORAGE_KEY } from '@/favorites/favorites';
 import { createMemoryKeyValueStore } from '@/storage/types';
 
-type FavoritesContextValue = FavoritesContextType;
+function textOf(testId: string): string {
+  const children = screen.getByTestId(testId).props.children;
+  return children == null ? '' : String(children);
+}
 
-function renderWithProvider(
-  onReady: (value: FavoritesContextValue) => void,
-  store = createMemoryKeyValueStore(),
-) {
-  function TestHarness() {
-    const contextValue = useFavorites();
+function FavoritesProbe() {
+  const { favorites, isLoading, isFavorite, toggleFavorite } = useFavorites();
 
-    useEffect(() => {
-      onReady(contextValue);
-    }, [contextValue]);
+  return (
+    <>
+      <Text testID="loading">{isLoading ? 'loading' : 'ready'}</Text>
+      <Text testID="favorites">{favorites.join(',')}</Text>
+      <Text testID="is-acetilcisteina">{isFavorite('acetilcisteina') ? 'yes' : 'no'}</Text>
+      <Text testID="is-aciclovir">{isFavorite('aciclovir') ? 'yes' : 'no'}</Text>
+      <Pressable
+        testID="toggle-acetilcisteina"
+        onPress={() => {
+          toggleFavorite('acetilcisteina');
+        }}
+      >
+        <Text>toggle</Text>
+      </Pressable>
+    </>
+  );
+}
 
-    return null;
-  }
-
+function renderFavorites(store = createMemoryKeyValueStore()) {
   render(
     <FavoritesProvider store={store}>
-      <TestHarness />
+      <FavoritesProbe />
     </FavoritesProvider>,
   );
 
   return store;
 }
 
+async function waitUntilReady() {
+  await waitFor(() => {
+    expect(textOf('loading')).toBe('ready');
+  });
+}
+
 describe('useFavorites', () => {
   it('starts with empty favorites and finishes loading', async () => {
-    let contextValue: FavoritesContextValue | null = null;
+    renderFavorites();
 
-    renderWithProvider((value) => {
-      contextValue = value;
-    });
+    await waitUntilReady();
 
-    await waitFor(() => {
-      expect(contextValue?.isLoading).toBe(false);
-    });
-
-    expect(contextValue!.favorites).toEqual([]);
-    expect(contextValue!.isFavorite('acetilcisteina')).toBe(false);
+    expect(textOf('favorites')).toBe('');
+    expect(textOf('is-acetilcisteina')).toBe('no');
   });
 
   it('toggles favorites and persists changes', async () => {
-    let contextValue: FavoritesContextValue | null = null;
     const store = createMemoryKeyValueStore();
+    renderFavorites(store);
 
-    renderWithProvider((value) => {
-      contextValue = value;
-    }, store);
+    await waitUntilReady();
 
-    await waitFor(() => {
-      expect(contextValue?.isLoading).toBe(false);
-    });
+    fireEvent.press(screen.getByTestId('toggle-acetilcisteina'));
 
-    await act(async () => {
-      contextValue!.toggleFavorite('acetilcisteina');
-    });
-
-    expect(contextValue!.isFavorite('acetilcisteina')).toBe(true);
-    expect(contextValue!.favorites).toContain('acetilcisteina');
+    expect(textOf('is-acetilcisteina')).toBe('yes');
+    expect(textOf('favorites')).toBe('acetilcisteina');
     await expect(store.getItem(FAVORITES_STORAGE_KEY)).resolves.toBe(
       JSON.stringify(['acetilcisteina']),
     );
 
-    await act(async () => {
-      contextValue!.toggleFavorite('acetilcisteina');
-    });
+    fireEvent.press(screen.getByTestId('toggle-acetilcisteina'));
 
-    expect(contextValue!.isFavorite('acetilcisteina')).toBe(false);
-    expect(contextValue!.favorites).not.toContain('acetilcisteina');
+    expect(textOf('is-acetilcisteina')).toBe('no');
+    expect(textOf('favorites')).toBe('');
     await expect(store.getItem(FAVORITES_STORAGE_KEY)).resolves.toBe(JSON.stringify([]));
   });
 
@@ -82,18 +84,12 @@ describe('useFavorites', () => {
       [FAVORITES_STORAGE_KEY]: JSON.stringify(['acetilcisteina', 'aciclovir']),
     });
 
-    let contextValue: FavoritesContextValue | null = null;
+    renderFavorites(store);
 
-    renderWithProvider((value) => {
-      contextValue = value;
-    }, store);
+    await waitUntilReady();
 
-    await waitFor(() => {
-      expect(contextValue?.isLoading).toBe(false);
-    });
-
-    expect(contextValue!.favorites).toEqual(['acetilcisteina', 'aciclovir']);
-    expect(contextValue!.isFavorite('acetilcisteina')).toBe(true);
-    expect(contextValue!.isFavorite('aciclovir')).toBe(true);
+    expect(textOf('favorites')).toBe('acetilcisteina,aciclovir');
+    expect(textOf('is-acetilcisteina')).toBe('yes');
+    expect(textOf('is-aciclovir')).toBe('yes');
   });
 });

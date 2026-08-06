@@ -1,5 +1,7 @@
 module.exports = {
   preset: 'jest-expo',
+  // RN/Expo transforms are cold-start heavy; keep headroom for CI workers.
+  testTimeout: 15000,
   setupFiles: ['<rootDir>/jest.setup.js'],
   setupFilesAfterEnv: ['@testing-library/jest-native/extend-expect'],
   testMatch: [

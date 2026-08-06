@@ -27,6 +27,17 @@ npm run lint:meds:fix  # Auto-fix medication data
 
 Pre-commit (Husky): `lint-staged` (Prettier on staged files) → `type-check` → `test`.
 
+### CI
+
+GitHub Actions (`.github/workflows/ci.yml`) runs on push/PR to `master`:
+
+```bash
+npm ci            # HUSKY=0
+npm run lint
+npm run type-check
+npm test -- --ci --coverage=false
+```
+
 ### Testing
 
 ```bash
