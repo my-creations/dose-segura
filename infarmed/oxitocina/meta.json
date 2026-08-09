@@ -1,0 +1,31 @@
+{
+  "medId": "oxitocina",
+  "searchTerm": "oxitocina",
+  "retrievedAt": "2026-08-09T14:49:00.766Z",
+  "bestMatch": {
+    "infarmedId": "39664",
+    "name": "Oxitocina GenerisMG",
+    "dci": "Oxitocina",
+    "form": "Solução injetável",
+    "dosage": "10 U.I./1 ml",
+    "holder": "Eugia Pharma (Malta) Limited",
+    "isGeneric": false,
+    "score": 170
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/39664-rcm.pdf",
+      "size": 43103
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/39664-fi.pdf",
+      "size": 33474
+    }
+  }
+}

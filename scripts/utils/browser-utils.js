@@ -5,7 +5,8 @@ const USER_AGENT =
 const HOMEPAGE_URL = 'https://extranet.infarmed.pt/INFOMED-fo/';
 
 async function createBrowserContext(options = {}) {
-  const browser = await chromium.launch({ headless: false });
+  const headless = process.env.INFARMED_HEADED !== '1';
+  const browser = await chromium.launch({ headless });
   const context = await browser.newContext({
     userAgent: USER_AGENT,
     acceptDownloads: true,

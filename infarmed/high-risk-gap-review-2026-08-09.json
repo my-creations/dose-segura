@@ -1,0 +1,111 @@
+{
+  "reviewedAt": "2026-08-09T14:54:53.948Z",
+  "changes": [
+    {
+      "id": "fosfato-monopotassico",
+      "field": "stability",
+      "source": "Infarmed RCM 3635 Fosfato Monopotássico Braun §6.3",
+      "before": [],
+      "after": [
+        "Após diluição: administrar de imediato",
+        "Se não for administrado de imediato: normalmente até 24 horas a 2–8ºC, salvo diluição em condições de assepsia controladas e validadas (RCM Fosfato Monopotássico Braun)"
+      ]
+    },
+    {
+      "id": "oxitocina",
+      "notes": "Stability left empty: RCM §6.3 only states 3 years unopened; no post-dilution window. Glucose removed from compatibility (not endorsed as diluent in Generis §4.2).",
+      "fields": {
+        "stability": {
+          "before": [],
+          "after": []
+        },
+        "compatibility": {
+          "before": [
+            "Cloreto de sódio 0,9%",
+            "Glicose a 5%"
+          ],
+          "after": [
+            "Cloreto de sódio 0,9%"
+          ]
+        },
+        "administration": {
+          "before": [
+            "Via Intramuscular",
+            "Via Endovenosa: administrar lentamente",
+            "Via Endovenosa Perfusão: diluir 5 UI em 500 ml e 100 UI em 1000 ml"
+          ],
+          "after": [
+            "Via Endovenosa Perfusão (indução/estimulação): 10 UI em 1000 ml de solvente não hidratante; dose inicial 1–2 mU/min, aumentar gradualmente; máxima recomendada 20 mU/min (RCM Oxitocina Generis)",
+            "Via Endovenosa Perfusão (hemorragia pós-parto): 10 a 40 UI em 1000 ml de solvente não hidratante, à velocidade necessária para controlar a atonia uterina (RCM Oxitocina Generis)",
+            "Via Intramuscular: referida no RCM no contexto farmacológico; a indução do trabalho de parto utiliza sempre perfusão endovenosa (RCM Oxitocina Generis)"
+          ]
+        },
+        "nursingCare": {
+          "before": [
+            "O controlo adequado da velocidade de perfusão é essencial e deve utilizar-se uma bomba de perfusão ou outro equipamento semelhante",
+            "Agitar suavemente ou rodar o frasco ou o saco várias vezes antes da utilização para garantir uma mistura homogénea",
+            "No caso de administração de doses elevadas e por períodos prolongados de tempo não se deve diluir em glicose",
+            "A via Intramuscular deve ser utilizada na prevenção da hemorragia uterina pós-parto, após a dequitadura",
+            "A administração em perfusão está indicada nas situações de indução do trabalho de parto ou de tratamento de hemorragia pós-parto"
+          ],
+          "after": [
+            "O controlo adequado da velocidade de perfusão é essencial e deve utilizar-se uma bomba de perfusão ou outro equipamento semelhante",
+            "Agitar suavemente ou rodar o frasco ou o saco várias vezes antes da utilização para garantir uma mistura homogénea",
+            "A via Intramuscular deve ser utilizada na prevenção da hemorragia uterina pós-parto, após a dequitadura",
+            "A administração em perfusão está indicada nas situações de indução do trabalho de parto ou de tratamento de hemorragia pós-parto",
+            "Iniciar a perfusão com solução sem oxitocina, preferencialmente cloreto de sódio 0,9% (RCM Oxitocina Generis)",
+            "Diluir em solvente não hidratante de forma asséptica; agitar/rodar o frasco ou saco para homogeneizar (RCM Oxitocina Generis §4.2)",
+            "Incompatível com soluções que contenham metabissulfito de sódio como estabilizante (RCM Oxitocina Generis §6.2)",
+            "Não administrar no mesmo dispositivo que sangue ou plasma (degradação por oxitoquinase) (RCM Oxitocina Generis §6.2)"
+          ]
+        }
+      },
+      "source": "Infarmed RCM 39664 Oxitocina GenerisMG (retrieved 2026-08-09)"
+    },
+    {
+      "id": "prometazina-cloridrato",
+      "notes": "Compatibility left empty per RCM §6.2. Removed IV dilution in 20 ml water (not in Prometazina Basi RCM).",
+      "fields": {
+        "compatibility": {
+          "before": [],
+          "after": []
+        },
+        "administration": {
+          "before": [
+            "Via Intramuscular Profunda: administrar 1 a 2 ampolas por dia",
+            "Via Endovenosa: só em caso de emergência, diluir em 20 ml de Água para Preparação de Injetáveis",
+            "Injeção Endovenosa deve ser realizada com extremo cuidado para evitar extravasamento ou injeção intra-arterial (risco de gangrena)"
+          ],
+          "after": [
+            "Via Intramuscular Profunda: em média 1 a 2 ampolas por dia (via de administração do RCM Prometazina Basi)",
+            "Via Endovenosa: o RCM não descreve diluição nem posologia IV; alerta para risco de extravasamento ou injeção intra-arterial (necrose/gangrena) — parar de imediato se houver dor (RCM Prometazina Basi §4.4)"
+          ]
+        },
+        "nursingCare": {
+          "before": [
+            "A injeção Intramuscular deve ser cuidadosamente administrada de modo a evitar a injeção Subcutânea, que pode dar origem a necrose local",
+            "Parar imediatamente a injeção Endovenosa se o doente se queixar de dor (sinal de extravasamento ou via intra-arterial)",
+            "Deve evitar a exposição à luz solar durante o tratamento (risco de fotossensibilidade)",
+            "Risco de prolongamento do intervalo QT e Torsade de pointes",
+            "Vigiar sinais de Síndrome Neuroléptica Maligna (febre, rigidez muscular, alteração consciência)",
+            "Deve-se interromper pelo menos 72 horas antes da realização de testes cutâneos",
+            "Pode mascarar sinais de aumento da pressão intracraniana, de obstrução intestinal ou de ototoxicidade",
+            "Não dialisável por hemodiálise ou diálise peritoneal"
+          ],
+          "after": [
+            "A injeção Intramuscular deve ser cuidadosamente administrada de modo a evitar a injeção Subcutânea, que pode dar origem a necrose local",
+            "Parar imediatamente a injeção Endovenosa se o doente se queixar de dor (sinal de extravasamento ou via intra-arterial)",
+            "Deve evitar a exposição à luz solar durante o tratamento (risco de fotossensibilidade)",
+            "Risco de prolongamento do intervalo QT e Torsade de pointes",
+            "Vigiar sinais de Síndrome Neuroléptica Maligna (febre, rigidez muscular, alteração consciência)",
+            "Deve-se interromper pelo menos 72 horas antes da realização de testes cutâneos",
+            "Pode mascarar sinais de aumento da pressão intracraniana, de obstrução intestinal ou de ototoxicidade",
+            "Não dialisável por hemodiálise ou diálise peritoneal",
+            "Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros medicamentos (RCM Prometazina Basi §6.2)"
+          ]
+        }
+      },
+      "source": "Infarmed RCM 589147 Prometazina Basi (local artifact)"
+    }
+  ]
+}
