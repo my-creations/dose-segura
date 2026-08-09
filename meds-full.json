@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-02-11",
+  "lastUpdated": "2026-08-09",
   "medications": {
     "acetilcisteina": {
       "id": "acetilcisteina",
@@ -3005,7 +3005,10 @@
       "administration": [
         "Via Endovenosa Perfusão: diluir e administrar com velocidade de perfusão menor que 20mEq/L"
       ],
-      "stability": [],
+      "stability": [
+        "Após diluição: administrar de imediato",
+        "Se não for administrado de imediato: normalmente até 24 horas a 2–8ºC, salvo diluição em condições de assepsia controladas e validadas (Resumo das Características do Medicamento Fosfato Monopotássico Braun)"
+      ],
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade ao fosfato e ao potássio ou a qualquer outro componente deste medicamento"
       ],
@@ -4557,8 +4560,7 @@
         "Hormona hipotalâmica e hipofisária"
       ],
       "compatibility": [
-        "Cloreto de sódio 0,9%",
-        "Glicose a 5%"
+        "Cloreto de sódio 0,9%"
       ],
       "presentationAndStorage": [
         "10 UI/1 ml solução injetável",
@@ -4568,9 +4570,8 @@
         "Solução injetável pronta"
       ],
       "administration": [
-        "Via Intramuscular",
-        "Via Endovenosa: administrar lentamente",
-        "Via Endovenosa Perfusão: diluir 5 UI em 500 ml e 100 UI em 1000 ml"
+        "Via Endovenosa Perfusão (indução/estimulação): sempre por perfusão endovenosa e nunca por via intramuscular; 10 UI em 1000 ml de solvente não hidratante; dose inicial 1–2 mU/min, aumentar gradualmente; máxima recomendada 20 mU/min (Resumo das Características do Medicamento Oxitocina Generis §4.2)",
+        "Via Endovenosa Perfusão (hemorragia pós-parto): 10 a 40 UI em 1000 ml de solvente não hidratante, à velocidade necessária para controlar a atonia uterina (Resumo das Características do Medicamento Oxitocina Generis §4.2)"
       ],
       "stability": [],
       "contraindicationsAndPrecautions": [
@@ -4580,9 +4581,13 @@
       "nursingCare": [
         "O controlo adequado da velocidade de perfusão é essencial e deve utilizar-se uma bomba de perfusão ou outro equipamento semelhante",
         "Agitar suavemente ou rodar o frasco ou o saco várias vezes antes da utilização para garantir uma mistura homogénea",
-        "No caso de administração de doses elevadas e por períodos prolongados de tempo não se deve diluir em glicose",
-        "A via Intramuscular deve ser utilizada na prevenção da hemorragia uterina pós-parto, após a dequitadura",
-        "A administração em perfusão está indicada nas situações de indução do trabalho de parto ou de tratamento de hemorragia pós-parto"
+        "A administração em perfusão está indicada nas situações de indução do trabalho de parto ou de tratamento de hemorragia pós-parto",
+        "Iniciar a perfusão com solução sem oxitocina, preferencialmente cloreto de sódio 0,9% (Resumo das Características do Medicamento Oxitocina Generis)",
+        "Diluir em solvente não hidratante de forma asséptica; agitar/rodar o frasco ou saco para homogeneizar (Resumo das Características do Medicamento Oxitocina Generis §4.2)",
+        "Incompatível com soluções que contenham metabissulfito de sódio como estabilizante (Resumo das Características do Medicamento Oxitocina Generis §6.2)",
+        "Não administrar no mesmo dispositivo que sangue ou plasma (degradação por oxitoquinase) (Resumo das Características do Medicamento Oxitocina Generis §6.2)",
+        "Para indução do trabalho de parto: administração sempre por perfusão endovenosa e nunca por via intramuscular (Resumo das Características do Medicamento Oxitocina Generis §4.2)",
+        "Utilizar exclusivamente em meio hospitalar e sob controlo médico (Resumo das Características do Medicamento Oxitocina Generis §4.2)"
       ]
     },
     "pamidronato-dissodio": {
@@ -5006,9 +5011,8 @@
         "Solução injetável pronta"
       ],
       "administration": [
-        "Via Intramuscular Profunda: administrar 1 a 2 ampolas por dia",
-        "Via Endovenosa: só em caso de emergência, diluir em 20 ml de Água para Preparação de Injetáveis",
-        "Injeção Endovenosa deve ser realizada com extremo cuidado para evitar extravasamento ou injeção intra-arterial (risco de gangrena)"
+        "Via Intramuscular Profunda: em média 1 a 2 ampolas por dia (via de administração do Resumo das Características do Medicamento Prometazina Basi)",
+        "Via Endovenosa: o Resumo das Características do Medicamento não descreve diluição nem posologia IV; alerta para risco de extravasamento ou injeção intra-arterial (necrose/gangrena) — parar de imediato se houver dor (Resumo das Características do Medicamento Prometazina Basi §4.4)"
       ],
       "stability": [
         "Uso imediato após abertura"
@@ -5029,7 +5033,8 @@
         "Vigiar sinais de Síndrome Neuroléptica Maligna (febre, rigidez muscular, alteração consciência)",
         "Deve-se interromper pelo menos 72 horas antes da realização de testes cutâneos",
         "Pode mascarar sinais de aumento da pressão intracraniana, de obstrução intestinal ou de ototoxicidade",
-        "Não dialisável por hemodiálise ou diálise peritoneal"
+        "Não dialisável por hemodiálise ou diálise peritoneal",
+        "Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros medicamentos (Resumo das Características do Medicamento Prometazina Basi §6.2)"
       ]
     },
     "propofol": {
