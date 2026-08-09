@@ -47,7 +47,7 @@ npx playwright install --with-deps chromium webkit
 npm run e2e
 ```
 
-The exhaustive 120-Medication rendering contract runs only on Desktop Chrome. Navigation and responsive smoke coverage run on desktop and mobile browser profiles.
+The exhaustive 120-Medication rendering contract runs only on Desktop Chrome. Navigation and responsive smoke coverage run on desktop and mobile browser profiles. On pushes to `master`, a final deploy job runs `npm run deploy` after quality and E2E pass, publishing the `dist/` export to the `gh-pages` branch.
 
 ### Medication Data Ownership
 

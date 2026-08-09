@@ -122,7 +122,7 @@ npm run e2e
 npm run e2e:ui
 ```
 
-A suite percorre os 120 Medication Details em Desktop Chrome, compara todas as secções renderizadas com a fonte canónica, confirma a omissão de secções vazias e testa tabs, pesquisa, Favoritos, back navigation, deep links e estados not-found em perfis desktop/mobile. O GitHub Actions executa Playwright num job separado.
+A suite percorre os 120 Medication Details em Desktop Chrome, compara todas as secções renderizadas com a fonte canónica, confirma a omissão de secções vazias e testa tabs, pesquisa, Favoritos, back navigation, deep links e estados not-found em perfis desktop/mobile. O GitHub Actions executa Playwright num job separado e publica automaticamente o PWA em GitHub Pages após quality e E2E passarem num push para `master`.
 
 ## 🏗️ Estrutura do Projeto
 

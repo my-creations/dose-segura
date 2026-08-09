@@ -83,3 +83,32 @@ jobs:
             test-results/
           if-no-files-found: ignore
           retention-days: 7
+
+  deploy:
+    name: Deploy GitHub Pages
+    needs: [quality, e2e]
+    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+    runs-on: blacksmith-2vcpu-ubuntu-2404
+    permissions:
+      contents: write
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+        env:
+          HUSKY: '0'
+
+      - name: Build and publish GitHub Pages
+        run: npm run deploy
