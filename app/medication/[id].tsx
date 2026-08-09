@@ -96,14 +96,15 @@ export default function MedicationDetailScreen() {
 
   if (!displayMedication) {
     return (
-      <ThemedView style={styles.centered}>
+      <ThemedView style={styles.centered} testID="medication-not-found">
         <Ionicons name="alert-circle" size={64} color={colors.icon} />
         <ThemedText style={styles.notFoundText}>
           {loadFailed ? i18n.t('common.medicationLoadError') : i18n.t('common.medicationNotFound')}
         </ThemedText>
         <Pressable
           style={[styles.backButton, { backgroundColor: colors.tint }]}
-          onPress={() => router.back()}
+          onPress={() => router.replace('/')}
+          testID="medication-not-found-back"
         >
           <ThemedText style={styles.backButtonText}>{i18n.t('common.back')}</ThemedText>
         </Pressable>
@@ -136,7 +137,10 @@ export default function MedicationDetailScreen() {
               ),
         }}
       />
-      <ScrollView style={[styles.container, { backgroundColor: colors.background }]}>
+      <ScrollView
+        style={[styles.container, { backgroundColor: colors.background }]}
+        testID="medication-detail"
+      >
         <View style={[styles.header, { backgroundColor: colors.cardBackground }]}>
           <View style={styles.titleRow}>
             <ThemedText
@@ -161,7 +165,10 @@ export default function MedicationDetailScreen() {
               </Pressable>
             )}
             {isWeb && displayMedication.highRisk && (
-              <View style={[styles.highRiskBadge, { backgroundColor: colors.coral }]}>
+              <View
+                style={[styles.highRiskBadge, { backgroundColor: colors.coral }]}
+                testID="high-risk-badge"
+              >
                 <Ionicons name="warning" size={14} color="#fff" />
                 <ThemedText style={styles.highRiskText}>{i18n.t('common.highRisk')}</ThemedText>
               </View>
@@ -169,15 +176,22 @@ export default function MedicationDetailScreen() {
           </View>
 
           {((!isWeb && displayMedication.highRisk) || displayMedication.aliases.length > 0) && (
-            <View style={styles.badgesRow}>
+            <View style={styles.badgesRow} testID="medication-aliases">
               {!isWeb && displayMedication.highRisk && (
-                <View style={[styles.highRiskBadge, { backgroundColor: colors.coral }]}>
+                <View
+                  style={[styles.highRiskBadge, { backgroundColor: colors.coral }]}
+                  testID="high-risk-badge"
+                >
                   <Ionicons name="warning" size={14} color="#fff" />
                   <ThemedText style={styles.highRiskText}>{i18n.t('common.highRisk')}</ThemedText>
                 </View>
               )}
               {displayMedication.aliases.map((alias, index) => (
-                <View key={index} style={[styles.aliasBadge, { backgroundColor: colors.lavender }]}>
+                <View
+                  key={index}
+                  style={[styles.aliasBadge, { backgroundColor: colors.lavender }]}
+                  testID={`medication-alias-${index}`}
+                >
                   <ThemedText style={[styles.aliasText, { color: colors.textDark }]}>
                     {alias}
                   </ThemedText>
@@ -188,7 +202,10 @@ export default function MedicationDetailScreen() {
         </View>
 
         {medication ? (
-          <View style={[styles.sectionsContainer, isWideScreen && styles.sectionsGrid]}>
+          <View
+            style={[styles.sectionsContainer, isWideScreen && styles.sectionsGrid]}
+            testID="medication-sections"
+          >
             {nonEmptySections.map((section) => (
               <SectionTile
                 key={section.key}
@@ -201,13 +218,16 @@ export default function MedicationDetailScreen() {
                 }
                 testID={`section-${section.key}`}
               >
-                <SectionContent items={section.data} />
+                <SectionContent items={section.data} testID={`section-${section.key}`} />
               </SectionTile>
             ))}
           </View>
         ) : null}
 
-        <View style={[styles.footer, { backgroundColor: colors.cream }]}>
+        <View
+          style={[styles.footer, { backgroundColor: colors.cream }]}
+          testID="medication-disclaimer"
+        >
           <ThemedText style={styles.disclaimer}>{i18n.t('medication.disclaimer')}</ThemedText>
         </View>
       </ScrollView>

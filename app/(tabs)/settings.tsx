@@ -58,7 +58,10 @@ export default function SettingsScreen() {
   };
 
   return (
-    <ScrollView style={[styles.container, { backgroundColor: colors.background }]}>
+    <ScrollView
+      style={[styles.container, { backgroundColor: colors.background }]}
+      testID="settings-screen"
+    >
       <View style={styles.section}>
         <ThemedText type="sectionTitle" style={styles.sectionTitle}>
           {i18n.t('settings.appearance')}

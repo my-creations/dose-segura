@@ -18,12 +18,18 @@ function getCandidateUrls() {
 
   const urls = new Set<string>();
   const basePath = getBasePath().replace(/\/$/, '');
+  const pathname = typeof window === 'undefined' ? '' : window.location.pathname;
+  const isHostedUnderBasePath = basePath && pathname.startsWith(`${basePath}/`);
 
-  if (basePath) {
+  if (isHostedUnderBasePath) {
     urls.add(`${basePath}/meds-full.json`);
   }
 
   urls.add('/meds-full.json');
+
+  if (basePath && !isHostedUnderBasePath) {
+    urls.add(`${basePath}/meds-full.json`);
+  }
 
   return [...urls];
 }

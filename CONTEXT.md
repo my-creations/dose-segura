@@ -64,13 +64,17 @@ _Avoid_: Wishlist, pins
 
 ### Data sources
 
+**Canonical Medications Data**:
+The sole authoritative authored collection of Medication records from which every app representation is derived.
+_Avoid_: Master database, source dump, generated projection
+
 **Medications Index**:
-Bundled JSON of Medication Summaries (`meds-index.json`) loaded eagerly for list and search.
-_Avoid_: Manifest, toc, lightweight db
+The generated collection of Medication Summaries projected from Canonical Medications Data for list and Search use.
+_Avoid_: Manifest, toc, lightweight db, authored source
 
 **Medications Full Data**:
-Complete Medications dataset (`meds.json` / `meds-full.json`) providing Medication Details on demand.
-_Avoid_: Payload, dump, bulk file
+The complete Medication Details representation derived from Canonical Medications Data.
+_Avoid_: Payload, dump, bulk file, independently authored copy
 
 **Infarmed**:
 Portuguese medicines authority (INFOMED) whose RCM and FI documents feed the offline data pipeline.

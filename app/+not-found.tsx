@@ -8,10 +8,10 @@ export default function NotFoundScreen() {
   return (
     <>
       <Stack.Screen options={{ title: i18n.t('notFound.title') }} />
-      <View style={styles.container}>
+      <View style={styles.container} testID="not-found-screen">
         <Text style={styles.title}>{i18n.t('notFound.message')}</Text>
 
-        <Link href="/" style={styles.link}>
+        <Link href="/" style={styles.link} testID="not-found-home-link">
           <Text style={styles.linkText}>{i18n.t('notFound.goHome')}</Text>
         </Link>
       </View>

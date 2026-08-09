@@ -50,14 +50,20 @@ brew install poppler
 ### Fluxo recomendado
 
 ```bash
-# Extrair texto de todos os PDFs de um medicamento
-node scripts/extract-infarmed-med.js <medId>
+# Descarregar, extrair e parsear RCM/FI
+node scripts/meds.js all <medId>
 
-# Parsear secções relevantes para revisão
-node scripts/parse-infarmed-text.js <medId>
+# Após revisão clínica, editar apenas a fonte canónica
+$EDITOR data/meds.json
+
+# Gerar o índice e o artefacto web lazy
+npm run generate:meds
+
+# Validar schema e impedir drift dos artefactos
+npm run validate:meds
 ```
 
-Os PDFs e artefactos são guardados em `infarmed/<medId>/`
+Os PDFs e artefactos de revisão ficam em `infarmed/<medId>/`. `data/meds.json` é a única fonte editável; `data/meds-index.json` e `public/meds-full.json` são gerados deterministicamente e não devem ser editados à mão.
 
 ## 🚀 Como Executar
 
@@ -115,6 +121,8 @@ npm run e2e
 # Executar com interface gráfica
 npm run e2e:ui
 ```
+
+A suite percorre os 120 Medication Details em Desktop Chrome, compara todas as secções renderizadas com a fonte canónica, confirma a omissão de secções vazias e testa tabs, pesquisa, Favoritos, back navigation, deep links e estados not-found em perfis desktop/mobile. O GitHub Actions executa Playwright num job separado.
 
 ## 🏗️ Estrutura do Projeto
 

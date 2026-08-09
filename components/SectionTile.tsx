@@ -22,12 +22,14 @@ export function SectionTile({ title, sectionKey, children, style, testID }: Sect
 
   return (
     <View style={[styles.container, { backgroundColor }, style]} testID={testID}>
-      <View style={styles.header}>
-        <ThemedText type="sectionTitle" style={styles.title}>
-          {title}
-        </ThemedText>
+      <View testID="medication-section-tile">
+        <View style={styles.header}>
+          <ThemedText type="sectionTitle" style={styles.title}>
+            {title}
+          </ThemedText>
+        </View>
+        <View style={styles.content}>{children}</View>
       </View>
-      <View style={styles.content}>{children}</View>
     </View>
   );
 }
@@ -36,9 +38,10 @@ export function SectionTile({ title, sectionKey, children, style, testID }: Sect
 interface SectionContentProps {
   text?: string;
   items?: string[];
+  testID?: string;
 }
 
-export function SectionContent({ text, items }: SectionContentProps) {
+export function SectionContent({ text, items, testID }: SectionContentProps) {
   if (text) {
     return <ThemedText style={styles.text}>{text}</ThemedText>;
   }
@@ -47,7 +50,11 @@ export function SectionContent({ text, items }: SectionContentProps) {
     return (
       <View style={styles.list}>
         {items.map((item, index) => (
-          <View key={index} style={styles.listItem}>
+          <View
+            key={index}
+            style={styles.listItem}
+            testID={testID ? `${testID}-item-${index}` : undefined}
+          >
             <View style={styles.bullet} />
             <ThemedText style={styles.listText}>{item}</ThemedText>
           </View>

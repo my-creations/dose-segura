@@ -21,9 +21,10 @@ npm run lint:fix       # Auto-fix ESLint
 npm run format         # Prettier write (spacing, newlines)
 npm run format:check   # Prettier check only
 npm run type-check     # TypeScript checking
-npm run lint:meds      # ESLint on medication data (key sort)
-npm run lint:meds:fix  # Auto-fix medication data
-npm run validate:meds  # Schema + meds.json/meds-index.json consistency
+npm run lint:meds      # ESLint on canonical medication data (key sort)
+npm run lint:meds:fix  # Auto-fix canonical medication data
+npm run generate:meds  # Regenerate index + lazy web artifact from data/meds.json
+npm run validate:meds  # Validate canonical source + exact generated artifacts
 ```
 
 Pre-commit (Husky): `lint-staged` (Prettier on staged files) → `type-check` → `test`.
@@ -33,13 +34,32 @@ Pre-commit (Husky): `lint-staged` (Prettier on staged files) → `type-check` �
 GitHub Actions (`.github/workflows/ci.yml`) runs on push/PR to `master`:
 
 ```bash
+# quality job
 npm ci            # HUSKY=0
 npm run lint
 npm run lint:meds
 npm run validate:meds
 npm run type-check
 npm test -- --ci --coverage=false
+
+# separate e2e job after quality
+npx playwright install --with-deps chromium webkit
+npm run e2e
 ```
+
+The exhaustive 120-Medication rendering contract runs only on Desktop Chrome. Navigation and responsive smoke coverage run on desktop and mobile browser profiles.
+
+### Medication Data Ownership
+
+`data/meds.json` is the only authored Medication source. Never edit `data/meds-index.json` or `public/meds-full.json` directly; they are deterministic generated artifacts.
+
+```bash
+# After reviewing/editing data/meds.json
+npm run generate:meds
+npm run validate:meds
+```
+
+The Medications Index stays eagerly bundled for Search; web Medication Details remain a separate lazy-loaded asset.
 
 ### Testing
 
