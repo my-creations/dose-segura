@@ -21,8 +21,9 @@ npm run lint:fix       # Auto-fix ESLint
 npm run format         # Prettier write (spacing, newlines)
 npm run format:check   # Prettier check only
 npm run type-check     # TypeScript checking
-npm run lint:meds      # ESLint on medication data
+npm run lint:meds      # ESLint on medication data (key sort)
 npm run lint:meds:fix  # Auto-fix medication data
+npm run validate:meds  # Schema + meds.json/meds-index.json consistency
 ```
 
 Pre-commit (Husky): `lint-staged` (Prettier on staged files) → `type-check` → `test`.
@@ -34,6 +35,8 @@ GitHub Actions (`.github/workflows/ci.yml`) runs on push/PR to `master`:
 ```bash
 npm ci            # HUSKY=0
 npm run lint
+npm run lint:meds
+npm run validate:meds
 npm run type-check
 npm test -- --ci --coverage=false
 ```

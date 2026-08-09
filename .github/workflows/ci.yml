@@ -34,6 +34,12 @@ jobs:
       - name: Lint
         run: npm run lint
 
+      - name: Lint medication data
+        run: npm run lint:meds
+
+      - name: Validate medication schema
+        run: npm run validate:meds
+
       - name: Type check
         run: npm run type-check
 
