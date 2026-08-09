@@ -6,6 +6,7 @@
   "homepage": "https://my-creations.github.io/dose-segura",
   "scripts": {
     "deploy": "gh-pages -d dist --dotfiles",
+    "verify:deploy": "node scripts/verify-web-deploy.js",
     "predeploy": "npm run build:web",
     "start": "expo start",
     "android": "expo start --android",

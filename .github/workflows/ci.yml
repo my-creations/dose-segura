@@ -110,5 +110,16 @@ jobs:
         env:
           HUSKY: '0'
 
+      - name: Configure Git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
       - name: Build and publish GitHub Pages
         run: npm run deploy
+
+      - name: Verify public deployment
+        run: npm run verify:deploy
+        env:
+          DEPLOY_URL: https://my-creations.github.io/dose-segura
+          GITHUB_SHA: ${{ github.sha }}

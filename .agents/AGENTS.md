@@ -80,6 +80,7 @@ npm run build:web      # Export for web
 npm run build:android  # EAS build Android
 npm run build:ios      # EAS build iOS
 npm run deploy         # Deploy PWA to GitHub Pages
+npm run verify:deploy  # Confirm public artifact matches generated web data
 ```
 
 ## Code Style
