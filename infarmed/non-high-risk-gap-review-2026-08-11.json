@@ -1,0 +1,132 @@
+{
+  "reviewedAt": "2026-08-11T22:15:00.000+01:00",
+  "scope": {
+    "riskLevel": "non-high-risk",
+    "medicationCount": 13,
+    "emptyFieldsBeforeReview": { "compatibility": 13, "stability": 2 },
+    "emptyFieldsAfterReview": { "compatibility": 12, "stability": 2 }
+  },
+  "policy": "Only values stated explicitly in a matching Infarmed RCM are added. Empty fields are retained when the RCM says not to mix, marks incompatibilities as not applicable, gives no references, or no matching current RCM is available.",
+  "entries": [
+    {
+      "id": "antigene-superficie-b",
+      "fields": ["compatibility"],
+      "sourceStatus": "verified-local-rcm",
+      "source": "Infarmed RCM 2294189 Engerix B §6.2",
+      "decision": "leave-empty-legitimate",
+      "evidence": "Na ausência de estudos de compatibilidade, este medicamento não pode ser misturado com outros medicamentos.",
+      "dataChanges": ["Added the explicit no-mixing warning to nursingCare."]
+    },
+    {
+      "id": "biperideno-lactato",
+      "fields": ["compatibility"],
+      "sourceStatus": "verified-local-rcm",
+      "source": "Infarmed RCM 8232207 Akineton §6.2",
+      "decision": "leave-empty-legitimate",
+      "evidence": "Incompatibilidades: Não aplicável.",
+      "dataChanges": []
+    },
+    {
+      "id": "calcitriol",
+      "fields": ["compatibility"],
+      "sourceStatus": "verified-local-rcm-revoked-product",
+      "source": "Infarmed RCM 2194181 Calcijex §6.2",
+      "decision": "leave-empty-legitimate",
+      "evidence": "The RCM does not list a compatible diluent; it warns that calcitriol is adsorbed by PVC tubing and containers.",
+      "dataChanges": ["Added the explicit PVC adsorption warning to nursingCare."],
+      "warning": "The Infarmed metadata marks this product as revoked on 2016-01-20."
+    },
+    {
+      "id": "cianocobalamina",
+      "fields": ["compatibility"],
+      "sourceStatus": "verified-local-rcm",
+      "source": "Infarmed RCM 5126891 Cianocobalamina Labesfal §6.2",
+      "decision": "leave-empty-legitimate",
+      "evidence": "Não foram encontradas referências.",
+      "dataChanges": []
+    },
+    {
+      "id": "citicolina-sodica",
+      "fields": ["compatibility"],
+      "sourceStatus": "verified-local-rcm",
+      "source": "Infarmed RCM 10808 Trausan §§4.2 and 6.2",
+      "decision": "leave-empty-legitimate",
+      "evidence": "The RCM permits slow intravenous infusion but does not identify compatible infusion solutions.",
+      "dataChanges": ["Replaced the unsupported claim about common intravenous solutions with the RCM wording: slow drip infusion."]
+    },
+    {
+      "id": "cobamamida",
+      "fields": ["compatibility"],
+      "sourceStatus": "verified-local-rcm",
+      "source": "Infarmed RCM 4730 Jaba B12 §§6.1, 6.2 and 6.6",
+      "decision": "filled-from-rcm",
+      "evidence": "Reconstitute only with the supplied specific solvent, identified as water for injections; avoid any other product in the same syringe.",
+      "dataChanges": ["Added Água para Preparação de Injetáveis (solvente específico fornecido) to compatibility."]
+    },
+    {
+      "id": "metilprednisolona-acetato",
+      "fields": ["compatibility", "stability"],
+      "sourceStatus": "mismatched-local-artifact",
+      "source": "Local artifact 56266 is Metilprednisolona Hikma 1000 mg powder, not methylprednisolone acetate suspension.",
+      "decision": "leave-empty-pending-matching-rcm",
+      "evidence": "No matching current Infarmed RCM was established during this review.",
+      "dataChanges": [],
+      "warning": "Do not use the local 56266 artifact to support this catalog entry."
+    },
+    {
+      "id": "nandrolona-decanoato",
+      "fields": ["compatibility"],
+      "sourceStatus": "verified-new-rcm",
+      "source": "Infarmed RCM 2373 Deca-Durabolin §§6.2 and 6.3, retrieved 2026-08-11",
+      "decision": "leave-empty-legitimate",
+      "evidence": "Because of the intramuscular route, chemical interactions are considered unlikely; no compatible diluent is specified.",
+      "dataChanges": ["Removed the unsupported instruction not to dilute or mix with other solutions."]
+    },
+    {
+      "id": "neostigmina-metilsulfato",
+      "fields": ["compatibility"],
+      "sourceStatus": "no-current-infomed-result",
+      "source": "INFOMED advanced search on 2026-08-11",
+      "decision": "leave-empty-pending-matching-rcm",
+      "evidence": "No matching result with documents was returned for neostigmine/metilsulfate.",
+      "dataChanges": []
+    },
+    {
+      "id": "prednisolona-hemi-succinato",
+      "fields": ["compatibility"],
+      "sourceStatus": "mismatched-local-artifact",
+      "source": "Local artifact 56266 is Metilprednisolona Hikma 1000 mg powder, not prednisolone hemisuccinate.",
+      "decision": "leave-empty-pending-matching-rcm",
+      "evidence": "No matching current Infarmed RCM was established during this review.",
+      "dataChanges": [],
+      "warning": "Do not use the local 56266 artifact to support this catalog entry."
+    },
+    {
+      "id": "risperidona",
+      "fields": ["compatibility"],
+      "sourceStatus": "current-result-does-not-match-catalog-presentation",
+      "source": "INFOMED advanced search on 2026-08-11 returned Okedi 100 mg/0.490 ml without a retrievable national RCM; the catalog describes Risperdal Consta 25/37.5/50 mg.",
+      "decision": "leave-empty-pending-matching-rcm",
+      "evidence": "No matching RCM was retrieved for the catalog presentation.",
+      "dataChanges": []
+    },
+    {
+      "id": "tenoxicam",
+      "fields": ["compatibility"],
+      "sourceStatus": "no-current-injectable-infomed-result",
+      "source": "INFOMED advanced search on 2026-08-11",
+      "decision": "leave-empty-pending-matching-rcm",
+      "evidence": "The only current result with documents was not an injectable or infusion product.",
+      "dataChanges": []
+    },
+    {
+      "id": "tiocolchicosido",
+      "fields": ["compatibility", "stability"],
+      "sourceStatus": "no-current-infomed-result",
+      "source": "INFOMED advanced search on 2026-08-11",
+      "decision": "leave-empty-pending-matching-rcm",
+      "evidence": "No matching result with documents was returned.",
+      "dataChanges": []
+    }
+  ]
+}

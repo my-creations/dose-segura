@@ -1,0 +1,2935 @@
+{
+  "generatedAt": "2026-08-11T22:02:41.183Z",
+  "catalogLastUpdated": "2026-08-11",
+  "catalogMedicationCount": 120,
+  "reviewedMedicationCount": 16,
+  "invalidPdfCount": 0,
+  "documentStatusCounts": {
+    "rcm-and-fi": 96,
+    "missing": 20,
+    "revoked-product": 1,
+    "mismatched": 3
+  },
+  "rows": [
+    {
+      "id": "acetilcisteina",
+      "name": "Acetilcisteína",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/acetilcisteina/rcm/40083-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/acetilcisteina/fi/40083-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "40083",
+        "name": "Acetilcisteína Sandoz MG",
+        "dci": "Acetilcisteína",
+        "form": "Solução injetável",
+        "dosage": "300 mg/3 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-07T23:05:41Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "acetilsalicilato-de-lisina",
+      "name": "Acetilsalicilato de Lisina",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/acetilsalicilato-de-lisina/rcm/9694-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/acetilsalicilato-de-lisina/fi/9694-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "9694",
+        "name": "Aspegic",
+        "dci": "Acetilsalicilato de lisina",
+        "form": "Pó para solução injetável",
+        "dosage": "1800 mg"
+      },
+      "evidenceRetrievedAt": "2026-02-07T23:14:48Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "aciclovir",
+      "name": "Aciclovir (sódico)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/aciclovir/rcm/41-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/aciclovir/fi/41-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "41",
+        "name": "Aciclovax",
+        "dci": "Aciclovir",
+        "form": "Pó para solução para perfusão",
+        "dosage": "250 mg"
+      },
+      "evidenceRetrievedAt": "2026-02-07T23:29:14Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "acido-aminocaproico",
+      "name": "Ácido Aminocapróico",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/acido-aminocaproico/rcm/3047-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/acido-aminocaproico/fi/3047-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "3047",
+        "name": "Epsicaprom 25",
+        "dci": "Ácido aminocapróico",
+        "form": "Solução para perfusão",
+        "dosage": "2500 mg/10 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-07T23:36:23Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "adenosina",
+      "name": "Adenosina",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/adenosina/rcm/DE-H-6166-001-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/adenosina/fi/DE-H-6166-001-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "DE/H/6166/001",
+        "name": "Adenosina Baxter",
+        "dci": "Adenosina",
+        "form": "Solução injetável",
+        "dosage": "6 mg/2 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T00:00:00.000Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "adrenalina",
+      "name": "Adrenalina (cloridrato/tartarato)",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/adrenalina/rcm/5865217-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/adrenalina/fi/5865217-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "5865217",
+        "name": "Adrenalina Basi",
+        "dci": "Adrenalina",
+        "form": "Solução injetável",
+        "dosage": "1 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T00:00:00.000Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "albumina-humana",
+      "name": "Albumina Humana 20%",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/albumina-humana/rcm/5631007-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/albumina-humana/fi/5631007-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "5631007",
+        "name": "Albumina Humana CSL Behring",
+        "dci": "Albumina humana",
+        "form": "Solução para perfusão",
+        "dosage": "200 g/l"
+      },
+      "evidenceRetrievedAt": "2026-02-08T00:00:00.000Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "alfentanil",
+      "name": "Alfentanil (cloridrato)",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/alfentanil/rcm/5695234-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/alfentanil/fi/5695234-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "5695234",
+        "name": "Alfentanilo Hameln",
+        "dci": "Alfentanilo",
+        "form": "Solução injetável",
+        "dosage": "1 mg/2 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T00:00:00.000Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "alprostadilo",
+      "name": "Alprostadilo (Prostaglandina E1)",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/alprostadilo/rcm/8611806-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/alprostadilo/fi/8611806-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "8611806",
+        "name": "Prostin Vr",
+        "dci": "Alprostadilo",
+        "form": "Solução injetável",
+        "dosage": "0.5 mg/1 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T00:00:00.000Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "ambroxol",
+      "name": "Ambroxol (cloridrato)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/ambroxol/rcm/8574608-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/ambroxol/fi/8574608-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "8574608",
+        "name": "Mucosolvan",
+        "dci": "Ambroxol",
+        "form": "Solução injetável",
+        "dosage": "15 mg/2 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T00:00:00.000Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "amicacina",
+      "name": "Amicacina (sulfato)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/amicacina/rcm/5462551-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/amicacina/fi/5462551-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "5462551",
+        "name": "Amicacina Hikma",
+        "dci": "Amicacina",
+        "form": "Solução injetável",
+        "dosage": "500 mg/2 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T00:00:00.000Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "aminofilina",
+      "name": "Aminofilina",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/aminofilina/rcm/3069093-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/aminofilina/fi/3069093-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "3069093",
+        "name": "Aminofilina Labesfal",
+        "dci": "Aminofilina",
+        "form": "Solução injetável",
+        "dosage": "240 mg/10 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T00:00:00.000Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "amiodarona",
+      "name": "Amiodarona (cloridrato)",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/amiodarona/rcm/8468009-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/amiodarona/fi/8468009-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "8468009",
+        "name": "Cordarone",
+        "dci": "Amiodarona",
+        "form": "Solução injetável",
+        "dosage": "150 mg/3 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T00:00:00.000Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "amoxicilina-acido-clavulanico",
+      "name": "Amoxicilina + Ácido Clavulânico",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/amoxicilina-acido-clavulanico/rcm/8645028-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/amoxicilina-acido-clavulanico/fi/8645028-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "8645028",
+        "name": "Augmentin",
+        "dci": "Amoxicilina + Ácido clavulânico",
+        "form": "Pó e solvente para solução injetável",
+        "dosage": "1000 mg/20 ml + 200 mg/20 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T00:00:00.000Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "ampicilina",
+      "name": "Ampicilina (sódica)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/ampicilina/rcm/5168273-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/ampicilina/fi/5168273-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "5168273",
+        "name": "Ampicilina Labesfal",
+        "dci": "Ampicilina",
+        "form": "Pó para solução injetável",
+        "dosage": "1000 mg"
+      },
+      "evidenceRetrievedAt": "2026-02-08T00:00:00.000Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "anfotericina-b-lipossomica",
+      "name": "Anfotericina B Lipossómica",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/anfotericina-b-lipossomica/rcm/5415815-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/anfotericina-b-lipossomica/fi/5415815-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "5415815",
+        "name": "Ambisome Lipossomal",
+        "dci": "Anfotericina B",
+        "form": "Pó para dispersão para perfusão",
+        "dosage": "50 mg"
+      },
+      "evidenceRetrievedAt": "2026-02-08T00:00:00.000Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "antigene-superficie-b",
+      "name": "Vacina Hepatite B (AgHBs)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/antigene-superficie-b/rcm/2294189-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/antigene-superficie-b/fi/2294189-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "2294189",
+        "name": "Engerix B",
+        "dci": "Vacina contra a hepatite B",
+        "form": "Suspensão injetável em seringa pré-cheia",
+        "dosage": "20 µg/1 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T00:00:00.000Z",
+      "reviewedAt": "2026-08-11T22:15:00.000+01:00",
+      "reviewArtifact": "infarmed/non-high-risk-gap-review-2026-08-11.json",
+      "reviewDecision": "leave-empty-legitimate",
+      "note": null
+    },
+    {
+      "id": "atracurio",
+      "name": "Besilato de Atracúrio",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/atracurio/rcm/5794672-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/atracurio/fi/5794672-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "5794672",
+        "name": "Besilato de Atracúrio Basi",
+        "dci": "Besilato de atracúrio",
+        "form": "Solução injetável",
+        "dosage": "10 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T00:00:00.000Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "atropina",
+      "name": "Sulfato de Atropina",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/atropina/rcm/5904347-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/atropina/fi/5904347-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "5904347",
+        "name": "Atropina Basi",
+        "dci": "Atropina",
+        "form": "Solução injetável",
+        "dosage": "1 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T00:00:00.000Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "azitromicina",
+      "name": "Azitromicina",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/azitromicina/rcm/698764-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/azitromicina/fi/698764-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "698764",
+        "name": "Azitromicina Altan MG",
+        "dci": "Azitromicina",
+        "form": "Pó para solução para perfusão",
+        "dosage": "500 mg"
+      },
+      "evidenceRetrievedAt": "2026-02-08T14:40:00Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "betametasona",
+      "name": "Betametasona (Dipropionato + Fosfato Sódico)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/betametasona/rcm/8452912-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/betametasona/fi/8452912-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "8452912",
+        "name": "Diprofos Depot",
+        "dci": "Betametasona",
+        "form": "Suspensão injetável",
+        "dosage": "14 mg/2 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T00:00:00.000Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "bicarbonato-de-sodio",
+      "name": "Bicarbonato de Sódio 8,4%",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/bicarbonato-de-sodio/rcm/9796151-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/bicarbonato-de-sodio/fi/9796151-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "9796151",
+        "name": "Bicarbonato de Sódio 8,4% - Labesfal",
+        "dci": "Bicarbonato de sódio",
+        "form": "Solução injetável",
+        "dosage": "84 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T00:00:00.000Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "biperideno-lactato",
+      "name": "Lactato de Biperideno",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/biperideno-lactato/rcm/8232207-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/biperideno-lactato/fi/8232207-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "8232207",
+        "name": "Akineton",
+        "dci": "Biperideno",
+        "form": "Solução injetável",
+        "dosage": "5 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T00:00:00.000Z",
+      "reviewedAt": "2026-08-11T22:15:00.000+01:00",
+      "reviewArtifact": "infarmed/non-high-risk-gap-review-2026-08-11.json",
+      "reviewDecision": "leave-empty-legitimate",
+      "note": null
+    },
+    {
+      "id": "buflomedil-cloridrato",
+      "name": "Buflomedil (cloridrato)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "missing",
+      "rcmFiles": [],
+      "fiFiles": [],
+      "invalidPdfFiles": [],
+      "infarmedMatch": null,
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "butilescopolamina-brometo",
+      "name": "Brometo de Butilescopolamina",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/butilescopolamina-brometo/rcm/8906404-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/butilescopolamina-brometo/fi/8906404-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "8906404",
+        "name": "Buscopan",
+        "dci": "Butilescopolamina",
+        "form": "Solução injetável",
+        "dosage": "20 mg/1 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T00:00:00.000Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "calcitriol",
+      "name": "Calcitriol (1,25-di-hidroxivitamina D3)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "revoked-product",
+      "rcmFiles": [
+        "infarmed/calcitriol/rcm/2194181-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/calcitriol/fi/2194181-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "2194181",
+        "name": "Calcijex",
+        "dci": "Calcitriol",
+        "form": "Solução injetável",
+        "dosage": "0.001 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T00:00:00.000Z",
+      "reviewedAt": "2026-08-11T22:15:00.000+01:00",
+      "reviewArtifact": "infarmed/non-high-risk-gap-review-2026-08-11.json",
+      "reviewDecision": "leave-empty-legitimate",
+      "note": "The stored Calcijex metadata marks the product as revoked on 2016-01-20."
+    },
+    {
+      "id": "cianocobalamina",
+      "name": "Cianocobalamina",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/cianocobalamina/rcm/5126891-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/cianocobalamina/fi/5126891-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "5126891",
+        "name": "CIANOCOBALAMINA LABESFAL",
+        "dci": "cianocobalamina",
+        "form": "Solução injetável",
+        "dosage": "1 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T17:35:00.000Z",
+      "reviewedAt": "2026-08-11T22:15:00.000+01:00",
+      "reviewArtifact": "infarmed/non-high-risk-gap-review-2026-08-11.json",
+      "reviewDecision": "leave-empty-legitimate",
+      "note": null
+    },
+    {
+      "id": "ciclosporina",
+      "name": "Ciclosporina",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/ciclosporina/rcm/7741-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/ciclosporina/fi/7741-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "7741",
+        "name": "Sandimmun",
+        "dci": "Ciclosporina",
+        "form": "Concentrado para solução para perfusão",
+        "dosage": "50 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T17:45:00.000Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "cimetidina",
+      "name": "Cimetidina",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/cimetidina/rcm/8233-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/cimetidina/fi/8233-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "8233",
+        "name": "Tagamet",
+        "dci": "Cimetidina",
+        "form": "Solução injetável",
+        "dosage": "200 mg/2 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T18:40:00.000Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "ciprofloxacina",
+      "name": "Ciprofloxacina",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/ciprofloxacina/rcm/41205-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/ciprofloxacina/fi/41205-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "41205",
+        "name": "Ciprofloxacina Kabi",
+        "dci": "Ciprofloxacina",
+        "form": "Solução para perfusão",
+        "dosage": "200 mg/100 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T18:55:00.000Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "citicolina-sodica",
+      "name": "Citicolina (sódica)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/citicolina-sodica/rcm/10808-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/citicolina-sodica/fi/10808-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "10808",
+        "name": "Trausan",
+        "dci": "Citicolina",
+        "form": "Solução injetável",
+        "dosage": "500 mg/2 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T19:15:00.000Z",
+      "reviewedAt": "2026-08-11T22:15:00.000+01:00",
+      "reviewArtifact": "infarmed/non-high-risk-gap-review-2026-08-11.json",
+      "reviewDecision": "leave-empty-legitimate",
+      "note": null
+    },
+    {
+      "id": "claritromicina-lactobionato",
+      "name": "Claritromicina (lactobionato)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/claritromicina-lactobionato/rcm/610262-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/claritromicina-lactobionato/fi/610262-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "610262",
+        "name": "Claritromicina AzevedosMG",
+        "dci": "Claritromicina",
+        "form": "Pó para solução injetável",
+        "dosage": "500 mg"
+      },
+      "evidenceRetrievedAt": "2026-02-08T22:52:00Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "clindamicina",
+      "name": "Clindamicina",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/clindamicina/rcm/1941-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/clindamicina/fi/1941-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "1941",
+        "name": "Clincina",
+        "dci": "Clindamicina",
+        "form": "Solução injetável",
+        "dosage": "600 mg/4 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T19:35:00.000Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "clomipramina-cloridrato",
+      "name": "Clomipramina (cloridrato)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/clomipramina-cloridrato/rcm/409-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/clomipramina-cloridrato/fi/409-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "409",
+        "name": null,
+        "dci": "Clomipramina",
+        "form": "Solução injetável",
+        "dosage": "25 mg/2 ml"
+      },
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "clorazepato-potassico",
+      "name": "Clorazepato (dipotássico)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "missing",
+      "rcmFiles": [],
+      "fiFiles": [],
+      "invalidPdfFiles": [],
+      "infarmedMatch": null,
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "cloropromazina",
+      "name": "Cloropromazina (cloridrato)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/cloropromazina/rcm/4899-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/cloropromazina/fi/4899-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "4899",
+        "name": null,
+        "dci": "Cloropromazina",
+        "form": "Solução injetável",
+        "dosage": "25 mg/5 ml"
+      },
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "cobamamida",
+      "name": "Cobamamida",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/cobamamida/rcm/4730-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/cobamamida/fi/4730-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "4730",
+        "name": "Jaba B12",
+        "dci": "Cobamamida",
+        "form": "Pó e solvente para solução injetável",
+        "dosage": "10 mg/2 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T20:15:00.000Z",
+      "reviewedAt": "2026-08-11T22:15:00.000+01:00",
+      "reviewArtifact": "infarmed/non-high-risk-gap-review-2026-08-11.json",
+      "reviewDecision": "filled-from-rcm",
+      "note": null
+    },
+    {
+      "id": "colistina-sulfometato-sodico",
+      "name": "Colistina (sulfometato sódico)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/colistina-sulfometato-sodico/rcm/613962-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/colistina-sulfometato-sodico/fi/613962-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "613962",
+        "name": null,
+        "dci": "Colistimetato de sódio",
+        "form": "Pó para solução injetável ou para solução para inalação por nebulização",
+        "dosage": "1000000 U.I."
+      },
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "dexametasona",
+      "name": "Dexametasona (fosfato sódico)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/dexametasona/rcm/710626-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/dexametasona/fi/710626-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "710626",
+        "name": "Dexametasona Basi",
+        "dci": "Dexametasona",
+        "form": "Solução injetável ou para perfusão",
+        "dosage": "4 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T20:35:00.000Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "diazepam",
+      "name": "Diazepam",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/diazepam/rcm/607343-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/diazepam/fi/607343-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "607343",
+        "name": "Diazepam GrindeksMG",
+        "dci": "Diazepam",
+        "form": "Solução injetável",
+        "dosage": "10 mg/2 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T22:21:25.093Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "digoxina",
+      "name": "Digoxina",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/digoxina/rcm/17982-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/digoxina/fi/17982-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "17982",
+        "name": "Lanoxin",
+        "dci": "Digoxina",
+        "form": "Solução para perfusão",
+        "dosage": "0.25 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T23:15:00Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "dobutamina",
+      "name": "Dobutamina (cloridrato)",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/dobutamina/rcm/581281-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/dobutamina/fi/581281-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "581281",
+        "name": "Dobutamina HikmaMG",
+        "dci": "Dobutamina",
+        "form": "Concentrado para solução para perfusão",
+        "dosage": "12.5 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T22:27:01.335Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "droperidol",
+      "name": "Droperidol",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/droperidol/rcm/702004-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/droperidol/fi/702004-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "702004",
+        "name": "Droperidol AguettantMG",
+        "dci": "Droperidol",
+        "form": "Solução injetável",
+        "dosage": "2.5 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T22:28:18.600Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "eritromicina-lactobionato",
+      "name": "Eritromicina (lactobionato)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/eritromicina-lactobionato/rcm/3079-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/eritromicina-lactobionato/fi/3079-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "3079",
+        "name": null,
+        "dci": "Eritromicina",
+        "form": "Pó para solução injetável",
+        "dosage": "1000 mg"
+      },
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "ertapenem",
+      "name": "Ertapenem",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/ertapenem/rcm/609143-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/ertapenem/fi/609143-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "609143",
+        "name": "Ertapenem GenerisMG",
+        "dci": "Ertapenem",
+        "form": "Pó para concentrado para solução para perfusão",
+        "dosage": "1000 mg"
+      },
+      "evidenceRetrievedAt": "2026-02-08T22:24:46.318Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "esmolol-cloridrato",
+      "name": "Esmolol (cloridrato)",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/esmolol-cloridrato/rcm/592481-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/esmolol-cloridrato/fi/592481-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "592481",
+        "name": "Esmolol HikmaMG",
+        "dci": "Esmolol",
+        "form": "Solução injetável",
+        "dosage": "10 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T23:05:00Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "esomeprazol-sodico",
+      "name": "Esomeprazol (sódico)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/esomeprazol-sodico/rcm/56366-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/esomeprazol-sodico/fi/56366-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "56366",
+        "name": "Esomeprazol AzevedosMG",
+        "dci": "Esomeprazol",
+        "form": "Pó para solução injetável ou para perfusão",
+        "dosage": "40 mg"
+      },
+      "evidenceRetrievedAt": "2026-02-08T23:10:00Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "estreptomicina",
+      "name": "Estreptomicina (sulfato)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "missing",
+      "rcmFiles": [],
+      "fiFiles": [],
+      "invalidPdfFiles": [],
+      "infarmedMatch": null,
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "estreptoquinase",
+      "name": "Estreptoquinase",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "missing",
+      "rcmFiles": [],
+      "fiFiles": [],
+      "invalidPdfFiles": [],
+      "infarmedMatch": null,
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "etomidato",
+      "name": "Etomidato",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/etomidato/rcm/32122-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/etomidato/fi/32122-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "32122",
+        "name": null,
+        "dci": "Etomidato",
+        "form": "Emulsão injetável",
+        "dosage": "2 mg/ml"
+      },
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "fenitoina-sodica",
+      "name": "Fenitoína (sódica)",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/fenitoina-sodica/rcm/30691-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/fenitoina-sodica/fi/30691-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "30691",
+        "name": null,
+        "dci": "Fenitoína",
+        "form": "Solução injetável",
+        "dosage": "250 mg/5 ml"
+      },
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "fenobarbital-sodico",
+      "name": "Fenobarbital (sódico)",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "missing",
+      "rcmFiles": [],
+      "fiFiles": [],
+      "invalidPdfFiles": [],
+      "infarmedMatch": null,
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "ferro-carboximaltose-ferrica",
+      "name": "Ferro (carboximaltose férrica)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/ferro-carboximaltose-ferrica/rcm/699264-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/ferro-carboximaltose-ferrica/fi/699264-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "699264",
+        "name": "Carboximaltose férrica Mylan",
+        "dci": "Carboximaltose férrica",
+        "form": "Dispersão injetável ou para perfusão",
+        "dosage": "50 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T22:45:00Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "ferro-hidroxido-sacarato",
+      "name": "Ferro, hidróxido (sacarato)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/ferro-hidroxido-sacarato/rcm/2459-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/ferro-hidroxido-sacarato/fi/2459-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "2459",
+        "name": "Desferal",
+        "dci": "Desferroxamina",
+        "form": "Pó para solução injetável",
+        "dosage": "500 mg"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:37:58.615Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "fitomenadiona",
+      "name": "Fitomenadiona",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/fitomenadiona/rcm/4764-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/fitomenadiona/fi/4764-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "4764",
+        "name": null,
+        "dci": "Fitomenadiona",
+        "form": "Solução injetável",
+        "dosage": "10 mg/1 ml"
+      },
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "fluconazol",
+      "name": "Fluconazol",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/fluconazol/rcm/46164-rcm.pdf",
+        "infarmed/fluconazol/rcm/9698-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/fluconazol/fi/46164-fi.pdf",
+        "infarmed/fluconazol/fi/9698-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "46164",
+        "name": null,
+        "dci": "Fluconazol",
+        "form": "Solução para perfusão",
+        "dosage": "2 mg/ml"
+      },
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "flumazenilo",
+      "name": "Flumazenilo",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/flumazenilo/rcm/40409-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/flumazenilo/fi/40409-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "40409",
+        "name": null,
+        "dci": "Flumazenilo",
+        "form": "Solução injetável",
+        "dosage": "0.1 mg/ml"
+      },
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "fosfato-monopotassico",
+      "name": "Fosfato monopotássico",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/fosfato-monopotassico/rcm/3635-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/fosfato-monopotassico/fi/3635-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "3635",
+        "name": null,
+        "dci": "Fosfato monopotássico",
+        "form": "Concentrado para solução para perfusão",
+        "dosage": "136.13 mg/ml"
+      },
+      "evidenceRetrievedAt": null,
+      "reviewedAt": "2026-08-09T14:54:53.948Z",
+      "reviewArtifact": "infarmed/high-risk-gap-review-2026-08-09.json",
+      "reviewDecision": "reviewed",
+      "note": null
+    },
+    {
+      "id": "furosemida",
+      "name": "Furosemida",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/furosemida/rcm/56224-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/furosemida/fi/56224-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "56224",
+        "name": null,
+        "dci": "Furosemida",
+        "form": "Solução injetável ou para perfusão",
+        "dosage": "20 mg/2 ml"
+      },
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "gentamicina-sulfato",
+      "name": "Gentamicina (sulfato)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/gentamicina-sulfato/rcm/30651-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/gentamicina-sulfato/fi/30651-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "30651",
+        "name": null,
+        "dci": "Gentamicina",
+        "form": "Solução injetável",
+        "dosage": "80 mg/2 ml"
+      },
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "granisetron-cloridrato",
+      "name": "Granisetron (cloridrato)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "missing",
+      "rcmFiles": [],
+      "fiFiles": [],
+      "invalidPdfFiles": [],
+      "infarmedMatch": null,
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "haloperidol",
+      "name": "Haloperidol",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/haloperidol/rcm/4133-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/haloperidol/fi/4133-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "4133",
+        "name": null,
+        "dci": "Haloperidol",
+        "form": "Solução injetável",
+        "dosage": "5 mg/1 ml"
+      },
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "heparina-sodica",
+      "name": "Heparina (sódica)",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/heparina-sodica/rcm/4183-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/heparina-sodica/fi/4183-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "4183",
+        "name": null,
+        "dci": "Heparina sódica",
+        "form": "Solução injetável",
+        "dosage": "25000 U.I./5 ml"
+      },
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "iloprost-trometamol",
+      "name": "Iloprost (trometamol)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/iloprost-trometamol/rcm/51238-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/iloprost-trometamol/fi/51238-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "51238",
+        "name": null,
+        "dci": "Iloprost",
+        "form": "Concentrado para solução para perfusão",
+        "dosage": "50 µg/0.5 ml"
+      },
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "imipenem-cilastatina-sodica",
+      "name": "Imipenem + Cilastatina (sódica)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/imipenem-cilastatina-sodica/rcm/47241-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/imipenem-cilastatina-sodica/fi/47241-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "47241",
+        "name": "Imipenem + Cilastatina HikmaMG",
+        "dci": "Imipenem + Cilastatina",
+        "form": "Pó para solução para perfusão",
+        "dosage": "500 mg + 500 mg"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:38:07.802Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "labetalol-cloridrato",
+      "name": "Labetalol (cloridrato)",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/labetalol-cloridrato/rcm/632442-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/labetalol-cloridrato/fi/632442-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "632442",
+        "name": "Labetalol PharmakernMG",
+        "dci": "Labetalol",
+        "form": "Solução injetável",
+        "dosage": "5 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:43:19.008Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "levetiracetam-cloridrato",
+      "name": "Levetiracetam (cloridrato)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/levetiracetam-cloridrato/rcm/637202-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/levetiracetam-cloridrato/fi/637202-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "637202",
+        "name": "Levetiracetam AltanMG",
+        "dci": "Levetiracetam",
+        "form": "Concentrado para solução para perfusão",
+        "dosage": "100 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:43:35.735Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "levobupivacaina-cloridrato",
+      "name": "Levobupivacaína (cloridrato)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/levobupivacaina-cloridrato/rcm/56173-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/levobupivacaina-cloridrato/fi/56173-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "56173",
+        "name": "Levobupivacaína NormonMG",
+        "dci": "Levobupivacaína",
+        "form": "Solução injetável ou para perfusão",
+        "dosage": "2.5 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:22:08.610Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "levofloxacina",
+      "name": "Levofloxacina",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/levofloxacina/rcm/47528-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/levofloxacina/fi/47528-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "47528",
+        "name": "Levofloxacina BasiMG",
+        "dci": "Levofloxacina",
+        "form": "Solução para perfusão",
+        "dosage": "5 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:38:21.936Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "levotiroxina-sodica",
+      "name": "Levotiroxina (sódica)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "missing",
+      "rcmFiles": [],
+      "fiFiles": [],
+      "invalidPdfFiles": [],
+      "infarmedMatch": null,
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "lidocaina-cloridrato",
+      "name": "Lidocaína (cloridrato)",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/lidocaina-cloridrato/rcm/35221-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/lidocaina-cloridrato/fi/35221-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "35221",
+        "name": "Lidocaína 1% Braun",
+        "dci": "Lidocaína",
+        "form": "Solução injetável",
+        "dosage": "10 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:44:05.528Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "linezolida",
+      "name": "Linezolida",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/linezolida/rcm/610145-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/linezolida/fi/610145-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "610145",
+        "name": "Linezolida AltanMG",
+        "dci": "Linezolida",
+        "form": "Solução para perfusão",
+        "dosage": "600 mg/300 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-08T23:46:53.123Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "meropenem",
+      "name": "Meropenem",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/meropenem/rcm/666965-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/meropenem/fi/666965-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "666965",
+        "name": "Meropenem AtralMG",
+        "dci": "Meropenem",
+        "form": "Pó para solução injetável ou para perfusão",
+        "dosage": "1000 mg"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:22:45.419Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "metamizol-magnesico",
+      "name": "Metamizol magnésico",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/metamizol-magnesico/rcm/6168-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/metamizol-magnesico/fi/6168-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "6168",
+        "name": "Nolotil",
+        "dci": "Metamizol magnésico",
+        "form": "Solução injetável",
+        "dosage": "2000 mg/5 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:38:29.947Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "metilprednisolona",
+      "name": "Metilprednisolona (succinato de sódio)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/metilprednisolona/rcm/56266-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/metilprednisolona/fi/56266-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "56266",
+        "name": "Metilprednisolona HikmaMG",
+        "dci": "Metilprednisolona",
+        "form": "Pó para solução injetável",
+        "dosage": "1000 mg"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:23:25.777Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "metilprednisolona-acetato",
+      "name": "Metilprednisolona (acetato)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "mismatched",
+      "rcmFiles": [
+        "infarmed/metilprednisolona-acetato/rcm/56266-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/metilprednisolona-acetato/fi/56266-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "56266",
+        "name": "Metilprednisolona HikmaMG",
+        "dci": "Metilprednisolona",
+        "form": "Pó para solução injetável",
+        "dosage": "1000 mg"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:38:46.016Z",
+      "reviewedAt": "2026-08-11T22:15:00.000+01:00",
+      "reviewArtifact": "infarmed/non-high-risk-gap-review-2026-08-11.json",
+      "reviewDecision": "leave-empty-pending-matching-rcm",
+      "note": "Stored artifact 56266 is Metilprednisolona Hikma powder, not methylprednisolone acetate suspension."
+    },
+    {
+      "id": "metoclopramida",
+      "name": "Metoclopramida",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/metoclopramida/rcm/680024-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/metoclopramida/fi/680024-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "680024",
+        "name": "Metoclopramida BasiMG",
+        "dci": "Metoclopramida",
+        "form": "Solução injetável ou para perfusão",
+        "dosage": "10 mg/2 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:23:33.702Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "metronidazol",
+      "name": "Metronidazol",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/metronidazol/rcm/571360-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/metronidazol/fi/571360-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "571360",
+        "name": "Metronidazol BasiMG",
+        "dci": "Metronidazol",
+        "form": "Solução para perfusão",
+        "dosage": "5 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:23:46.904Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "micafungina",
+      "name": "Micafungina",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/micafungina/rcm/645465-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/micafungina/fi/645465-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "645465",
+        "name": "Micafungina AccordMG",
+        "dci": "Micafungina",
+        "form": "Pó para concentrado para solução para perfusão",
+        "dosage": "100 mg"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:44:13.513Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "midazolam",
+      "name": "Midazolam",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/midazolam/rcm/36275-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/midazolam/fi/36275-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "36275",
+        "name": "Midazolam BasiMG",
+        "dci": "Midazolam",
+        "form": "Solução injetável",
+        "dosage": "5 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:22:52.843Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "morfina-cloridrato",
+      "name": "Morfina (cloridrato)",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "missing",
+      "rcmFiles": [],
+      "fiFiles": [],
+      "invalidPdfFiles": [],
+      "infarmedMatch": null,
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "nandrolona-decanoato",
+      "name": "Nandrolona (decanoato)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/nandrolona-decanoato/rcm/2373-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/nandrolona-decanoato/fi/2373-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "2373",
+        "name": "Deca-Durabolin",
+        "dci": "Nandrolona",
+        "form": "Solução injetável",
+        "dosage": "50 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-08-11T21:45:54.010Z",
+      "reviewedAt": "2026-08-11T22:15:00.000+01:00",
+      "reviewArtifact": "infarmed/non-high-risk-gap-review-2026-08-11.json",
+      "reviewDecision": "leave-empty-legitimate",
+      "note": null
+    },
+    {
+      "id": "neostigmina-metilsulfato",
+      "name": "Neostigmina (metilsulfato)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "missing",
+      "rcmFiles": [],
+      "fiFiles": [],
+      "invalidPdfFiles": [],
+      "infarmedMatch": null,
+      "evidenceRetrievedAt": null,
+      "reviewedAt": "2026-08-11T22:15:00.000+01:00",
+      "reviewArtifact": "infarmed/non-high-risk-gap-review-2026-08-11.json",
+      "reviewDecision": "leave-empty-pending-matching-rcm",
+      "note": "No current INFOMED result with documents was found on 2026-08-11."
+    },
+    {
+      "id": "noradrenalina-bitartrato",
+      "name": "Noradrenalina (bitartrato)",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/noradrenalina-bitartrato/rcm/4840-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/noradrenalina-bitartrato/fi/4840-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "4840",
+        "name": "L-Noradrenalina Braun",
+        "dci": "Noradrenalina",
+        "form": "Solução injetável",
+        "dosage": "1 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:22:17.541Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "octreotido-acetato",
+      "name": "Octreotido (acetato)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "missing",
+      "rcmFiles": [],
+      "fiFiles": [],
+      "invalidPdfFiles": [],
+      "infarmedMatch": null,
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "omeprazol-sodico",
+      "name": "Omeprazol (sódico)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/omeprazol-sodico/rcm/56366-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/omeprazol-sodico/fi/56366-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "56366",
+        "name": "Esomeprazol AzevedosMG",
+        "dci": "Esomeprazol",
+        "form": "Pó para solução injetável ou para perfusão",
+        "dosage": "40 mg"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:22:27.856Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "ondansetron-cloridrato",
+      "name": "Ondansetron (cloridrato)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "missing",
+      "rcmFiles": [],
+      "fiFiles": [],
+      "invalidPdfFiles": [],
+      "infarmedMatch": null,
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "oxitocina",
+      "name": "Oxitocina",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/oxitocina/rcm/39664-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/oxitocina/fi/39664-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "39664",
+        "name": "Oxitocina GenerisMG",
+        "dci": "Oxitocina",
+        "form": "Solução injetável",
+        "dosage": "10 U.I./1 ml"
+      },
+      "evidenceRetrievedAt": "2026-08-09T14:49:00.766Z",
+      "reviewedAt": "2026-08-09T14:54:53.948Z",
+      "reviewArtifact": "infarmed/high-risk-gap-review-2026-08-09.json",
+      "reviewDecision": "reviewed",
+      "note": null
+    },
+    {
+      "id": "pamidronato-dissodio",
+      "name": "Pamidronato (dissódio)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "missing",
+      "rcmFiles": [],
+      "fiFiles": [],
+      "invalidPdfFiles": [],
+      "infarmedMatch": null,
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "pantoprazol",
+      "name": "Pantoprazol",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/pantoprazol/rcm/6636-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/pantoprazol/fi/6636-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "6636",
+        "name": "Pantoc IV",
+        "dci": "Pantoprazol",
+        "form": "Pó para solução injetável",
+        "dosage": "40 mg"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:23:10.150Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "paracetamol",
+      "name": "Paracetamol",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/paracetamol/rcm/53405-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/paracetamol/fi/53405-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "53405",
+        "name": "Paracetamol B. BraunMG",
+        "dci": "Paracetamol",
+        "form": "Solução para perfusão",
+        "dosage": "10 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:35:04.848Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "penicilina-g-sodica-ou-potassica",
+      "name": "Penicilina G (sódica ou potássica)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/penicilina-g-sodica-ou-potassica/rcm/10476-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/penicilina-g-sodica-ou-potassica/fi/10476-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "10476",
+        "name": "Penicilina Atral",
+        "dci": "Benzilpenicilina potássica",
+        "form": "Pó para solução injetável",
+        "dosage": "1 M.U.I."
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:45:20.431Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "petidina-cloridrato",
+      "name": "Petidina (cloridrato)",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/petidina-cloridrato/rcm/708344-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/petidina-cloridrato/fi/708344-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "708344",
+        "name": "Petidina BasiMG",
+        "dci": "Petidina",
+        "form": "Solução injetável",
+        "dosage": "100 mg/2 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:45:30.539Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "piracetam",
+      "name": "Piracetam",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "missing",
+      "rcmFiles": [],
+      "fiFiles": [],
+      "invalidPdfFiles": [],
+      "infarmedMatch": null,
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "prednisolona-hemi-succinato",
+      "name": "Prednisolona (hemi-succinato)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "mismatched",
+      "rcmFiles": [
+        "infarmed/prednisolona-hemi-succinato/rcm/56266-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/prednisolona-hemi-succinato/fi/56266-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "56266",
+        "name": "Metilprednisolona HikmaMG",
+        "dci": "Metilprednisolona",
+        "form": "Pó para solução injetável",
+        "dosage": "1000 mg"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:45:54.123Z",
+      "reviewedAt": "2026-08-11T22:15:00.000+01:00",
+      "reviewArtifact": "infarmed/non-high-risk-gap-review-2026-08-11.json",
+      "reviewDecision": "leave-empty-pending-matching-rcm",
+      "note": "Stored artifact 56266 is Metilprednisolona Hikma powder, not prednisolone hemisuccinate."
+    },
+    {
+      "id": "prednisolona-succinato-de-sodio",
+      "name": "Prednisolona (succinato de sódio)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/prednisolona-succinato-de-sodio/rcm/56266-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/prednisolona-succinato-de-sodio/fi/56266-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "56266",
+        "name": "Metilprednisolona HikmaMG",
+        "dci": "Metilprednisolona",
+        "form": "Pó para solução injetável",
+        "dosage": "1000 mg"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:46:11.925Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "prometazina-cloridrato",
+      "name": "Prometazina (cloridrato)",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/prometazina-cloridrato/rcm/589147-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/prometazina-cloridrato/fi/589147-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "589147",
+        "name": "Prometazina BasiMG",
+        "dci": "Prometazina",
+        "form": "Solução injetável",
+        "dosage": "50 mg/2 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:46:21.729Z",
+      "reviewedAt": "2026-08-09T14:54:53.948Z",
+      "reviewArtifact": "infarmed/high-risk-gap-review-2026-08-09.json",
+      "reviewDecision": "reviewed",
+      "note": null
+    },
+    {
+      "id": "propofol",
+      "name": "Propofol",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/propofol/rcm/38954-rcm.pdf",
+        "infarmed/propofol/rcm/50368-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/propofol/fi/38954-fi.pdf",
+        "infarmed/propofol/fi/50368-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "38954",
+        "name": "Propofol 1% MCT/LCT Fresenius",
+        "dci": "Propofol",
+        "form": "Emulsão injetável ou para perfusão",
+        "dosage": "10 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:46:31.135Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "protamina-sulfato-ou-cloridrato",
+      "name": "Protamina (sulfato ou cloridrato)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/protamina-sulfato-ou-cloridrato/rcm/41268-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/protamina-sulfato-ou-cloridrato/fi/41268-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "41268",
+        "name": "Sulfato de Protamina LEO Pharma",
+        "dci": "Sulfato de protamina",
+        "form": "Solução injetável ou para perfusão",
+        "dosage": "1400 U.I./ml"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:46:40.752Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "ranitidina",
+      "name": "Ranitidina (cloridrato)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "missing",
+      "rcmFiles": [],
+      "fiFiles": [],
+      "invalidPdfFiles": [],
+      "infarmedMatch": null,
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "remifentanil",
+      "name": "Remifentanil (cloridrato)",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/remifentanil/rcm/8835-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/remifentanil/fi/8835-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "8835",
+        "name": "Ultiva",
+        "dci": "Remifentanilo",
+        "form": "Pó para concentrado para solução injetável ou para perfusão",
+        "dosage": "1 mg"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:46:55.919Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "risperidona",
+      "name": "Risperidona",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "mismatched",
+      "rcmFiles": [],
+      "fiFiles": [],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "687384",
+        "name": "Okedi",
+        "dci": "Risperidona",
+        "form": "Pó e veículo para suspensão injetável de libertação prolongada",
+        "dosage": "100 mg/0.490 ml"
+      },
+      "evidenceRetrievedAt": "2026-08-11T21:48:28.105Z",
+      "reviewedAt": "2026-08-11T22:15:00.000+01:00",
+      "reviewArtifact": "infarmed/non-high-risk-gap-review-2026-08-11.json",
+      "reviewDecision": "leave-empty-pending-matching-rcm",
+      "note": "The 2026-08-11 search metadata identifies Okedi 100 mg/0.490 ml; the catalog entry describes Risperdal Consta 25/37.5/50 mg."
+    },
+    {
+      "id": "rocuronio",
+      "name": "Rocurónio (brometo)",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/rocuronio/rcm/686984-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/rocuronio/fi/686984-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "686984",
+        "name": "Brometo de Rocurónio Aguettant",
+        "dci": "Brometo de rocurónio",
+        "form": "Solução injetável em seringa pré-cheia",
+        "dosage": "10 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:47:51.446Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "salbutamol-sulfato",
+      "name": "Salbutamol (sulfato)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/salbutamol-sulfato/rcm/9083-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/salbutamol-sulfato/fi/9083-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "9083",
+        "name": "Ventilan",
+        "dci": "Salbutamol",
+        "form": "Solução injetável",
+        "dosage": "0.5 mg/1 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:48:02.688Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "somatostatina",
+      "name": "Somatostatina (acetato)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "missing",
+      "rcmFiles": [],
+      "fiFiles": [],
+      "invalidPdfFiles": [],
+      "infarmedMatch": null,
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "sufentanilo-citrato",
+      "name": "Sufentanilo (citrato)",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/sufentanilo-citrato/rcm/625642-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/sufentanilo-citrato/fi/625642-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "625642",
+        "name": "SontilenMG",
+        "dci": "Sufentanilo",
+        "form": "Solução injetável ou para perfusão",
+        "dosage": "0.005 mg/ml"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:48:19.269Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "suxametonio-cloreto",
+      "name": "Suxametónio (cloreto)",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/suxametonio-cloreto/rcm/623970-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/suxametonio-cloreto/fi/623970-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "623970",
+        "name": "Suxametónio Aguettant",
+        "dci": "Cloreto de suxametónio",
+        "form": "Solução injetável em seringa pré-cheia",
+        "dosage": "100 mg/10 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:48:29.007Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "teicoplanina-sodica",
+      "name": "Teicoplanina (sódica)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/teicoplanina-sodica/rcm/618262-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/teicoplanina-sodica/fi/618262-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "618262",
+        "name": "Teicoplanina AltanMG",
+        "dci": "Teicoplanina",
+        "form": "Pó e solvente para solução injetável ou para perfusão",
+        "dosage": "200 mg/3.2 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:48:40.230Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "tenoxicam",
+      "name": "Tenoxicam",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "missing",
+      "rcmFiles": [],
+      "fiFiles": [],
+      "invalidPdfFiles": [],
+      "infarmedMatch": null,
+      "evidenceRetrievedAt": null,
+      "reviewedAt": "2026-08-11T22:15:00.000+01:00",
+      "reviewArtifact": "infarmed/non-high-risk-gap-review-2026-08-11.json",
+      "reviewDecision": "leave-empty-pending-matching-rcm",
+      "note": "No current injectable INFOMED result with documents was found on 2026-08-11."
+    },
+    {
+      "id": "tiamina",
+      "name": "Tiamina",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/tiamina/rcm/10858-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/tiamina/fi/10858-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "10858",
+        "name": "Tiamina Labesfal",
+        "dci": "Tiamina",
+        "form": "Solução injetável",
+        "dosage": "100 mg/2 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:48:56.978Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "tiaprida",
+      "name": "Tiaprida (cloridrato)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/tiaprida/rcm/8451-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/tiaprida/fi/8451-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "8451",
+        "name": "Tiapridal",
+        "dci": "Tiaprida",
+        "form": "Solução injetável",
+        "dosage": "100 mg/2 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:49:07.355Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "tigeciclina",
+      "name": "Tigeciclina",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/tigeciclina/rcm/608422-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/tigeciclina/fi/608422-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "608422",
+        "name": "Tigeciclina MylanMG",
+        "dci": "Tigeciclina",
+        "form": "Pó para solução para perfusão",
+        "dosage": "50 mg"
+      },
+      "evidenceRetrievedAt": "2026-02-09T01:08:42.158Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "tiocolchicosido",
+      "name": "Tiocolchicosido",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "missing",
+      "rcmFiles": [],
+      "fiFiles": [],
+      "invalidPdfFiles": [],
+      "infarmedMatch": null,
+      "evidenceRetrievedAt": null,
+      "reviewedAt": "2026-08-11T22:15:00.000+01:00",
+      "reviewArtifact": "infarmed/non-high-risk-gap-review-2026-08-11.json",
+      "reviewDecision": "leave-empty-pending-matching-rcm",
+      "note": "No current INFOMED result with documents was found on 2026-08-11."
+    },
+    {
+      "id": "tiopental",
+      "name": "Tiopental (sódico)",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/tiopental/rcm/8501-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/tiopental/fi/8501-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "8501",
+        "name": "Tiopental Braun",
+        "dci": "Tiopental sódico",
+        "form": "Pó para solução injetável",
+        "dosage": "500 mg"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:49:30.516Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "tramal-cloridrato",
+      "name": "Tramadol (cloridrato)",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "missing",
+      "rcmFiles": [],
+      "fiFiles": [],
+      "invalidPdfFiles": [],
+      "infarmedMatch": null,
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "valproato-de-sodio",
+      "name": "Valproato de sódio",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "missing",
+      "rcmFiles": [],
+      "fiFiles": [],
+      "invalidPdfFiles": [],
+      "infarmedMatch": null,
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "vancomicina",
+      "name": "Vancomicina (cloridrato)",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/vancomicina/rcm/585628-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/vancomicina/fi/585628-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "585628",
+        "name": "Vancomicina AzevedosMG",
+        "dci": "Vancomicina",
+        "form": "Pó para concentrado para solução para perfusão",
+        "dosage": "1000 mg"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:50:01.633Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "vecuronio-brometo",
+      "name": "Vecurónio (brometo)",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "missing",
+      "rcmFiles": [],
+      "fiFiles": [],
+      "invalidPdfFiles": [],
+      "infarmedMatch": null,
+      "evidenceRetrievedAt": null,
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "verapamilo-cloridrato",
+      "name": "Verapamilo (cloridrato)",
+      "highRisk": true,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/verapamilo-cloridrato/rcm/4684-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/verapamilo-cloridrato/fi/4684-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "4684",
+        "name": "Isoptin",
+        "dci": "Verapamilo",
+        "form": "Solução injetável",
+        "dosage": "5 mg/2 ml"
+      },
+      "evidenceRetrievedAt": "2026-02-09T00:50:23.579Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    },
+    {
+      "id": "voriconazol",
+      "name": "Voriconazol",
+      "highRisk": false,
+      "catalogLastUpdated": "2026-08-11",
+      "documentStatus": "rcm-and-fi",
+      "rcmFiles": [
+        "infarmed/voriconazol/rcm/591541-rcm.pdf"
+      ],
+      "fiFiles": [
+        "infarmed/voriconazol/fi/591541-fi.pdf"
+      ],
+      "invalidPdfFiles": [],
+      "infarmedMatch": {
+        "infarmedId": "591541",
+        "name": "Voriconazol NormonMG",
+        "dci": "Voriconazol",
+        "form": "Pó para solução para perfusão",
+        "dosage": "200 mg"
+      },
+      "evidenceRetrievedAt": "2026-02-09T01:02:34.340Z",
+      "reviewedAt": null,
+      "reviewArtifact": null,
+      "reviewDecision": null,
+      "note": null
+    }
+  ]
+}

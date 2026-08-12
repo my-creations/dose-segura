@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-08-09",
+  "lastUpdated": "2026-08-11",
   "medications": {
     "acetilcisteina": {
       "id": "acetilcisteina",
@@ -917,6 +917,7 @@
         "Não administrar no glúteo (menor resposta imunitária)",
         "Risco de síncope (desmaio) psicogénico em adolescentes: administrar sentado ou deitado",
         "Pode ser administrada simultaneamente com outras vacinas (locais diferentes)",
+        "Na ausência de estudos de compatibilidade, não misturar com outros medicamentos",
         "Doentes em hemodiálise podem necessitar de doses adicionais ou reforçadas (monitorizar anticorpos)"
       ]
     },
@@ -1384,7 +1385,8 @@
         "Doentes imobilizados (ex: pós-cirúrgicos) têm risco acrescido de hipercalcemia",
         "Pode causar diminuição da libido, prurido, urticária ou psicose (raro)",
         "Mães a amamentar requerem monitorização do cálcio sérico (mãe e bebé)",
-        "Contém edetato de sódio e ascorbato de sódio"
+        "Contém edetato de sódio e ascorbato de sódio",
+        "Evitar tubos e recipientes de policloreto de vinilo: o calcitriol pode ser adsorvido, reduzindo a dose administrada"
       ]
     },
     "cianocobalamina": {
@@ -1619,7 +1621,7 @@
       "administration": [
         "Via Intramuscular",
         "Via Endovenosa: administrar lentamente durante 3 a 5 minutos",
-        "Via Endovenosa Perfusão: compatível com soluções intravenosas comuns"
+        "Via Endovenosa Perfusão: perfusão lenta gota a gota"
       ],
       "stability": [
         "Após diluição: Uso imediato"
@@ -1899,7 +1901,9 @@
         "Antianémico",
         "Tratamento das anemias megaloblásticas"
       ],
-      "compatibility": [],
+      "compatibility": [
+        "Água para Preparação de Injetáveis (solvente específico fornecido)"
+      ],
       "presentationAndStorage": [
         "10 mg ou 20 mg/2 ml pó e solvente para solução injetável",
         "Não conservar acima de 25ºC",
@@ -4324,8 +4328,7 @@
         "Crianças com menos de 18 anos ou em fase de crescimento"
       ],
       "nursingCare": [
-        "Este medicamento não deverá ser administrado a doentes alérgicos ao amendoim e soja",
-        "Não diluir nem misturar com outras soluções"
+        "Este medicamento não deverá ser administrado a doentes alérgicos ao amendoim e soja"
       ]
     },
     "neostigmina-metilsulfato": {
