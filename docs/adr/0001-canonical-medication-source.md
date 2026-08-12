@@ -4,4 +4,4 @@ Dose Segura authors Medication data only in `data/meds.json`. A build-time Medic
 
 ## Consequences
 
-Generated projections must never be edited directly. After reviewing a canonical Medication change, maintainers run `npm run generate:meds`; `npm run validate:meds` is read-only and fails for malformed canonical data or stale/missing projections. Native continues bundling canonical Medication Details, while web fetches the generated full-data asset separately.
+Generated projections must never be edited directly. After reviewing a canonical Medication change, maintainers run `bun run generate:meds`; `bun run validate:meds` is read-only and fails for malformed canonical data or stale/missing projections. Native continues bundling canonical Medication Details, while web fetches the generated full-data asset separately.

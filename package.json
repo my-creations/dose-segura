@@ -7,11 +7,11 @@
   "scripts": {
     "deploy": "gh-pages -d dist --dotfiles",
     "verify:deploy": "node scripts/verify-web-deploy.js",
-    "predeploy": "npm run build:web",
+    "predeploy": "bun run build:web",
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "preweb": "npm run validate:meds",
+    "preweb": "bun run validate:meds",
     "web": "expo start --web",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
@@ -28,8 +28,8 @@
     "test:single": "jest",
     "e2e": "playwright test -c e2e/playwright.config.ts",
     "e2e:ui": "playwright test -c e2e/playwright.config.ts --ui",
-    "test:all": "npm run test && npm run e2e",
-    "prebuild:web": "npm run validate:meds",
+    "test:all": "bun run test && bun run e2e",
+    "prebuild:web": "bun run validate:meds",
     "build:web": "node scripts/run-web-export.js && node scripts/fix-web-build.js",
     "build:android": "eas build -p android",
     "build:ios": "eas build -p ios",
@@ -84,5 +84,5 @@
     "@tootallnate/once": "^3.0.1"
   },
   "private": true,
-  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+  "packageManager": "bun@1.3.10"
 }

@@ -3,7 +3,7 @@ import { defineConfig, devices } from '@playwright/test';
 delete process.env.NO_COLOR;
 
 const PORT = process.env.E2E_PORT ? Number(process.env.E2E_PORT) : 8081;
-const WEB_SERVER_COMMAND = `npm run web -- --port ${PORT}`;
+const WEB_SERVER_COMMAND = `bun run web -- --port ${PORT}`;
 
 export default defineConfig({
   testDir: './tests',
