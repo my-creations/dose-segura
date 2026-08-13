@@ -1,0 +1,31 @@
+{
+  "medId": "nandrolona-decanoato",
+  "searchTerm": "nandrolona",
+  "retrievedAt": "2026-08-11T21:45:54.010Z",
+  "bestMatch": {
+    "infarmedId": "2373",
+    "name": "Deca-Durabolin",
+    "dci": "Nandrolona",
+    "form": "Solução injetável",
+    "dosage": "50 mg/ml",
+    "holder": "Aspen Pharma Trading Ltd.",
+    "isGeneric": false,
+    "score": 130
+  },
+  "documents": {
+    "rcm": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "rcm/2373-rcm.pdf",
+      "size": 341514
+    },
+    "fi": {
+      "status": 200,
+      "contentType": "application/pdf",
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/2373-fi.pdf",
+      "size": 265832
+    }
+  }
+}

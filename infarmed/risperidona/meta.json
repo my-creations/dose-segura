@@ -1,0 +1,27 @@
+{
+  "medId": "risperidona",
+  "searchTerm": "risperidona",
+  "retrievedAt": "2026-08-11T21:48:28.105Z",
+  "bestMatch": {
+    "infarmedId": "687384",
+    "name": "Okedi",
+    "dci": "Risperidona",
+    "form": "Pó e veículo para suspensão injetável de libertação prolongada",
+    "dosage": "100 mg/0.490 ml",
+    "holder": "Laboratorios Farmacéuticos Rovi, S.A.",
+    "isGeneric": false,
+    "score": 130
+  },
+  "documents": {
+    "rcm": {
+      "status": "missing"
+    },
+    "fi": {
+      "status": "failed",
+      "contentType": null,
+      "url": "https://extranet.infarmed.pt/INFOMED-fo/pesquisa-avancada.xhtml",
+      "file": "fi/687384-fi.pdf",
+      "size": 0
+    }
+  }
+}

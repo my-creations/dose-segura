@@ -33,7 +33,8 @@
     "build:web": "node scripts/run-web-export.js && node scripts/fix-web-build.js",
     "build:android": "eas build -p android",
     "build:ios": "eas build -p ios",
-    "prepare": "husky"
+    "prepare": "husky",
+    "generate:infarmed-coverage": "node scripts/generate-infarmed-coverage.js"
   },
   "dependencies": {
     "@expo-google-fonts/quicksand": "^0.4.1",
