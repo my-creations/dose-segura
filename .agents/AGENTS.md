@@ -7,24 +7,24 @@ Dose Segura is a React Native medication management app built with Expo SDK 54, 
 ### Development
 
 ```bash
-npm start          # Expo dev server
-npm run android    # Android device/emulator
-npm run ios        # iOS device/simulator
-npm run web        # Web version
+bun run start          # Expo dev server
+bun run android    # Android device/emulator
+bun run ios        # iOS device/simulator
+bun run web        # Web version
 ```
 
 ### Code Quality
 
 ```bash
-npm run lint           # ESLint (minimal - mainly validates data/meds.json)
-npm run lint:fix       # Auto-fix ESLint
-npm run format         # Prettier write (spacing, newlines)
-npm run format:check   # Prettier check only
-npm run type-check     # TypeScript checking
-npm run lint:meds      # ESLint on canonical medication data (key sort)
-npm run lint:meds:fix  # Auto-fix canonical medication data
-npm run generate:meds  # Regenerate index + lazy web artifact from data/meds.json
-npm run validate:meds  # Validate canonical source + exact generated artifacts
+bun run lint           # ESLint (minimal - mainly validates data/meds.json)
+bun run lint:fix       # Auto-fix ESLint
+bun run format         # Prettier write (spacing, newlines)
+bun run format:check   # Prettier check only
+bun run type-check     # TypeScript checking
+bun run lint:meds      # ESLint on canonical medication data (key sort)
+bun run lint:meds:fix  # Auto-fix canonical medication data
+bun run generate:meds  # Regenerate index + lazy web artifact from data/meds.json
+bun run validate:meds  # Validate canonical source + exact generated artifacts
 ```
 
 Pre-commit (Husky): `lint-staged` (Prettier on staged files) → `type-check` → `test`.
@@ -35,19 +35,19 @@ GitHub Actions (`.github/workflows/ci.yml`) runs on push/PR to `master`:
 
 ```bash
 # quality job
-npm ci            # HUSKY=0
-npm run lint
-npm run lint:meds
-npm run validate:meds
-npm run type-check
-npm test -- --ci --coverage=false
+bun install --frozen-lockfile            # HUSKY=0
+bun run lint
+bun run lint:meds
+bun run validate:meds
+bun run type-check
+bun run test -- --ci --coverage=false
 
 # separate e2e job after quality
-npx playwright install --with-deps chromium webkit
-npm run e2e
+bunx playwright install --with-deps chromium webkit
+bun run e2e
 ```
 
-The exhaustive 120-Medication rendering contract runs only on Desktop Chrome. Navigation and responsive smoke coverage run on desktop and mobile browser profiles. On pushes to `master`, a final deploy job runs `npm run deploy` after quality and E2E pass, publishing the `dist/` export to the `gh-pages` branch.
+The exhaustive 120-Medication rendering contract runs only on Desktop Chrome. Navigation and responsive smoke coverage run on desktop and mobile browser profiles. On pushes to `master`, a final deploy job runs `bun run deploy` after quality and E2E pass, publishing the `dist/` export to the `gh-pages` branch.
 
 ### Medication Data Ownership
 
@@ -55,8 +55,8 @@ The exhaustive 120-Medication rendering contract runs only on Desktop Chrome. Na
 
 ```bash
 # After reviewing/editing data/meds.json
-npm run generate:meds
-npm run validate:meds
+bun run generate:meds
+bun run validate:meds
 ```
 
 The Medications Index stays eagerly bundled for Search; web Medication Details remain a separate lazy-loaded asset.
@@ -64,23 +64,23 @@ The Medications Index stays eagerly bundled for Search; web Medication Details r
 ### Testing
 
 ```bash
-npm test               # Jest unit/integration tests
-npm test -- path/to/test.ts    # Run specific test file
-npm run test:watch     # Jest watch mode
-npm run test:coverage  # Jest with coverage
-npm run e2e            # Playwright E2E tests
-npm run e2e:ui         # Playwright E2E with UI
-npm run test:all       # Jest + Playwright
+bun run test               # Jest unit/integration tests
+bun run test -- path/to/test.ts    # Run specific test file
+bun run test:watch     # Jest watch mode
+bun run test:coverage  # Jest with coverage
+bun run e2e            # Playwright E2E tests
+bun run e2e:ui         # Playwright E2E with UI
+bun run test:all       # Jest + Playwright
 ```
 
 ### Build/Deploy
 
 ```bash
-npm run build:web      # Export for web
-npm run build:android  # EAS build Android
-npm run build:ios      # EAS build iOS
-npm run deploy         # Deploy PWA to GitHub Pages
-npm run verify:deploy  # Confirm public artifact matches generated web data
+bun run build:web      # Export for web
+bun run build:android  # EAS build Android
+bun run build:ios      # EAS build iOS
+bun run deploy         # Deploy PWA to GitHub Pages
+bun run verify:deploy  # Confirm public artifact matches generated web data
 ```
 
 ## Code Style

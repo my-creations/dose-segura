@@ -57,10 +57,10 @@ node scripts/meds.js all <medId>
 $EDITOR data/meds.json
 
 # Gerar o índice e o artefacto web lazy
-npm run generate:meds
+bun run generate:meds
 
 # Validar schema e impedir drift dos artefactos
-npm run validate:meds
+bun run validate:meds
 ```
 
 Os PDFs e artefactos de revisão ficam em `infarmed/<medId>/`. `data/meds.json` é a única fonte editável; `data/meds-index.json` e `public/meds-full.json` são gerados deterministicamente e não devem ser editados à mão.
@@ -70,7 +70,7 @@ Os PDFs e artefactos de revisão ficam em `infarmed/<medId>/`. `data/meds.json` 
 ### Pré-requisitos da App
 
 - Node.js 18+
-- npm ou yarn
+- bun
 - [Expo Go](https://expo.dev/client) (para testar no telemóvel)
 
 ### Instalação
@@ -83,25 +83,25 @@ git clone https://github.com/PedroRobalo1994/dose-segura.git
 cd dose-segura
 
 # Instalar dependências
-npm install
+bun install
 ```
 
 ### Executar em Desenvolvimento
 
 ```bash
 # Iniciar o servidor de desenvolvimento
-npx expo start
+bunx expo start
 
 # Ou especificamente para cada plataforma:
-npx expo start --ios     # iOS Simulator
-npx expo start --android # Android Emulator
-npx expo start --web     # Browser
+bunx expo start --ios     # iOS Simulator
+bunx expo start --android # Android Emulator
+bunx expo start --web     # Browser
 ```
 
 ### Testar no Telemóvel
 
 1. Instala a app [Expo Go](https://expo.dev/client) no teu telemóvel
-2. Executa `npx expo start`
+2. Executa `bunx expo start`
 3. Lê o código QR com a app Expo Go
 
 ## 🧪 Testes
@@ -109,17 +109,17 @@ npx expo start --web     # Browser
 ### Unitários e Integração (Jest)
 
 ```bash
-npm test
+bun run test
 ```
 
 ### End-to-End (Playwright)
 
 ```bash
 # Executar testes E2E
-npm run e2e
+bun run e2e
 
 # Executar com interface gráfica
-npm run e2e:ui
+bun run e2e:ui
 ```
 
 A suite percorre os 120 Medication Details em Desktop Chrome, compara todas as secções renderizadas com a fonte canónica, confirma a omissão de secções vazias e testa tabs, pesquisa, Favoritos, back navigation, deep links e estados not-found em perfis desktop/mobile. O GitHub Actions executa Playwright num job separado e publica automaticamente o PWA em GitHub Pages após quality e E2E passarem num push para `master`.
@@ -160,20 +160,20 @@ dose-segura/
 ### Web
 
 ```bash
-npx expo export --platform web
+bunx expo export --platform web
 ```
 
 ### Deploy para GitHub Pages
 
 ```bash
-npm run deploy
+bun run deploy
 ```
 
 ### Mobile (requer EAS)
 
 ```bash
 # Instalar EAS CLI
-npm install -g eas-cli
+bun install -g eas-cli
 
 # Login
 eas login
