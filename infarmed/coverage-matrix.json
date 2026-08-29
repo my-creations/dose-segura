@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-08-11T22:02:41.183Z",
+  "generatedAt": "2026-08-14T00:00:00.000Z",
+  "freshnessAsOfDate": "2026-08-14",
+  "freshnessPolicy": {
+    "catalogMaxAgeDays": 30,
+    "highRiskMaxAgeDays": 180,
+    "standardMaxAgeDays": 365
+  },
   "catalogLastUpdated": "2026-08-11",
+  "catalogFreshness": {
+    "freshnessStatus": "current",
+    "freshnessReferenceDate": "2026-08-11",
+    "freshnessAgeDays": 3,
+    "freshnessMaxAgeDays": 30
+  },
   "catalogMedicationCount": 120,
   "reviewedMedicationCount": 16,
   "invalidPdfCount": 0,
@@ -10,6 +22,13 @@
     "revoked-product": 1,
     "mismatched": 3
   },
+  "freshnessStatusCounts": {
+    "current": 64,
+    "stale": 25,
+    "unknown": 31
+  },
+  "staleHighRiskMedicationCount": 25,
+  "unknownHighRiskMedicationCount": 8,
   "rows": [
     {
       "id": "acetilcisteina",
@@ -35,7 +54,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-07T23:05:41Z",
+      "freshnessAgeDays": 187,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-07T23:05:41Z",
+        "freshnessAgeDays": 187,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "acetilsalicilato-de-lisina",
@@ -61,7 +90,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-07T23:14:48Z",
+      "freshnessAgeDays": 187,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-07T23:14:48Z",
+        "freshnessAgeDays": 187,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "aciclovir",
@@ -87,7 +126,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-07T23:29:14Z",
+      "freshnessAgeDays": 187,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-07T23:29:14Z",
+        "freshnessAgeDays": 187,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "acido-aminocaproico",
@@ -113,7 +162,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-07T23:36:23Z",
+      "freshnessAgeDays": 187,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-07T23:36:23Z",
+        "freshnessAgeDays": 187,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "adenosina",
@@ -139,7 +198,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "stale",
+      "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+      "freshnessAgeDays": 187,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "stale",
+        "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+        "freshnessAgeDays": 187,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "adrenalina",
@@ -165,7 +234,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "stale",
+      "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+      "freshnessAgeDays": 187,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "stale",
+        "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+        "freshnessAgeDays": 187,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "albumina-humana",
@@ -191,7 +270,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+      "freshnessAgeDays": 187,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+        "freshnessAgeDays": 187,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "alfentanil",
@@ -217,7 +306,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "stale",
+      "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+      "freshnessAgeDays": 187,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "stale",
+        "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+        "freshnessAgeDays": 187,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "alprostadilo",
@@ -243,7 +342,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "stale",
+      "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+      "freshnessAgeDays": 187,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "stale",
+        "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+        "freshnessAgeDays": 187,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "ambroxol",
@@ -269,7 +378,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+      "freshnessAgeDays": 187,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+        "freshnessAgeDays": 187,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "amicacina",
@@ -295,7 +414,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+      "freshnessAgeDays": 187,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+        "freshnessAgeDays": 187,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "aminofilina",
@@ -321,7 +450,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+      "freshnessAgeDays": 187,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+        "freshnessAgeDays": 187,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "amiodarona",
@@ -347,7 +486,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "stale",
+      "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+      "freshnessAgeDays": 187,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "stale",
+        "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+        "freshnessAgeDays": 187,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "amoxicilina-acido-clavulanico",
@@ -373,7 +522,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+      "freshnessAgeDays": 187,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+        "freshnessAgeDays": 187,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "ampicilina",
@@ -399,7 +558,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+      "freshnessAgeDays": 187,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+        "freshnessAgeDays": 187,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "anfotericina-b-lipossomica",
@@ -425,7 +594,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "stale",
+      "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+      "freshnessAgeDays": 187,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "stale",
+        "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+        "freshnessAgeDays": 187,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "antigene-superficie-b",
@@ -451,7 +630,17 @@
       "reviewedAt": "2026-08-11T22:15:00.000+01:00",
       "reviewArtifact": "infarmed/non-high-risk-gap-review-2026-08-11.json",
       "reviewDecision": "leave-empty-legitimate",
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-08-11T22:15:00.000+01:00",
+      "freshnessAgeDays": 2,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+        "freshnessAgeDays": 187,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "atracurio",
@@ -477,7 +666,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "stale",
+      "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+      "freshnessAgeDays": 187,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "stale",
+        "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+        "freshnessAgeDays": 187,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "atropina",
@@ -503,7 +702,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+      "freshnessAgeDays": 187,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+        "freshnessAgeDays": 187,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "azitromicina",
@@ -529,7 +738,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-08T14:40:00Z",
+      "freshnessAgeDays": 186,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-08T14:40:00Z",
+        "freshnessAgeDays": 186,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "betametasona",
@@ -555,7 +774,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+      "freshnessAgeDays": 187,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+        "freshnessAgeDays": 187,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "bicarbonato-de-sodio",
@@ -581,7 +810,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "stale",
+      "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+      "freshnessAgeDays": 187,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "stale",
+        "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+        "freshnessAgeDays": 187,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "biperideno-lactato",
@@ -607,7 +846,17 @@
       "reviewedAt": "2026-08-11T22:15:00.000+01:00",
       "reviewArtifact": "infarmed/non-high-risk-gap-review-2026-08-11.json",
       "reviewDecision": "leave-empty-legitimate",
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-08-11T22:15:00.000+01:00",
+      "freshnessAgeDays": 2,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+        "freshnessAgeDays": 187,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "buflomedil-cloridrato",
@@ -623,7 +872,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "butilescopolamina-brometo",
@@ -649,7 +908,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+      "freshnessAgeDays": 187,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+        "freshnessAgeDays": 187,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "calcitriol",
@@ -675,7 +944,17 @@
       "reviewedAt": "2026-08-11T22:15:00.000+01:00",
       "reviewArtifact": "infarmed/non-high-risk-gap-review-2026-08-11.json",
       "reviewDecision": "leave-empty-legitimate",
-      "note": "The stored Calcijex metadata marks the product as revoked on 2016-01-20."
+      "note": "The stored Calcijex metadata marks the product as revoked on 2016-01-20.",
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-08-11T22:15:00.000+01:00",
+      "freshnessAgeDays": 2,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-08T00:00:00.000Z",
+        "freshnessAgeDays": 187,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "cianocobalamina",
@@ -701,7 +980,17 @@
       "reviewedAt": "2026-08-11T22:15:00.000+01:00",
       "reviewArtifact": "infarmed/non-high-risk-gap-review-2026-08-11.json",
       "reviewDecision": "leave-empty-legitimate",
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-08-11T22:15:00.000+01:00",
+      "freshnessAgeDays": 2,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-08T17:35:00.000Z",
+        "freshnessAgeDays": 186,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "ciclosporina",
@@ -727,7 +1016,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "stale",
+      "freshnessReferenceDate": "2026-02-08T17:45:00.000Z",
+      "freshnessAgeDays": 186,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "stale",
+        "freshnessReferenceDate": "2026-02-08T17:45:00.000Z",
+        "freshnessAgeDays": 186,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "cimetidina",
@@ -753,7 +1052,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-08T18:40:00.000Z",
+      "freshnessAgeDays": 186,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-08T18:40:00.000Z",
+        "freshnessAgeDays": 186,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "ciprofloxacina",
@@ -779,7 +1088,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-08T18:55:00.000Z",
+      "freshnessAgeDays": 186,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-08T18:55:00.000Z",
+        "freshnessAgeDays": 186,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "citicolina-sodica",
@@ -805,7 +1124,17 @@
       "reviewedAt": "2026-08-11T22:15:00.000+01:00",
       "reviewArtifact": "infarmed/non-high-risk-gap-review-2026-08-11.json",
       "reviewDecision": "leave-empty-legitimate",
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-08-11T22:15:00.000+01:00",
+      "freshnessAgeDays": 2,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-08T19:15:00.000Z",
+        "freshnessAgeDays": 186,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "claritromicina-lactobionato",
@@ -831,7 +1160,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-08T22:52:00Z",
+      "freshnessAgeDays": 186,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-08T22:52:00Z",
+        "freshnessAgeDays": 186,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "clindamicina",
@@ -857,7 +1196,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-08T19:35:00.000Z",
+      "freshnessAgeDays": 186,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-08T19:35:00.000Z",
+        "freshnessAgeDays": 186,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "clomipramina-cloridrato",
@@ -883,7 +1232,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "clorazepato-potassico",
@@ -899,7 +1258,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "cloropromazina",
@@ -925,7 +1294,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "cobamamida",
@@ -951,7 +1330,17 @@
       "reviewedAt": "2026-08-11T22:15:00.000+01:00",
       "reviewArtifact": "infarmed/non-high-risk-gap-review-2026-08-11.json",
       "reviewDecision": "filled-from-rcm",
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-08-11T22:15:00.000+01:00",
+      "freshnessAgeDays": 2,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-08T20:15:00.000Z",
+        "freshnessAgeDays": 186,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "colistina-sulfometato-sodico",
@@ -977,7 +1366,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "dexametasona",
@@ -1003,7 +1402,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-08T20:35:00.000Z",
+      "freshnessAgeDays": 186,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-08T20:35:00.000Z",
+        "freshnessAgeDays": 186,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "diazepam",
@@ -1029,7 +1438,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "stale",
+      "freshnessReferenceDate": "2026-02-08T22:21:25.093Z",
+      "freshnessAgeDays": 186,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "stale",
+        "freshnessReferenceDate": "2026-02-08T22:21:25.093Z",
+        "freshnessAgeDays": 186,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "digoxina",
@@ -1055,7 +1474,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "stale",
+      "freshnessReferenceDate": "2026-02-08T23:15:00Z",
+      "freshnessAgeDays": 186,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "stale",
+        "freshnessReferenceDate": "2026-02-08T23:15:00Z",
+        "freshnessAgeDays": 186,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "dobutamina",
@@ -1081,7 +1510,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "stale",
+      "freshnessReferenceDate": "2026-02-08T22:27:01.335Z",
+      "freshnessAgeDays": 186,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "stale",
+        "freshnessReferenceDate": "2026-02-08T22:27:01.335Z",
+        "freshnessAgeDays": 186,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "droperidol",
@@ -1107,7 +1546,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-08T22:28:18.600Z",
+      "freshnessAgeDays": 186,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-08T22:28:18.600Z",
+        "freshnessAgeDays": 186,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "eritromicina-lactobionato",
@@ -1133,7 +1582,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "ertapenem",
@@ -1159,7 +1618,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-08T22:24:46.318Z",
+      "freshnessAgeDays": 186,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-08T22:24:46.318Z",
+        "freshnessAgeDays": 186,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "esmolol-cloridrato",
@@ -1185,7 +1654,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "stale",
+      "freshnessReferenceDate": "2026-02-08T23:05:00Z",
+      "freshnessAgeDays": 186,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "stale",
+        "freshnessReferenceDate": "2026-02-08T23:05:00Z",
+        "freshnessAgeDays": 186,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "esomeprazol-sodico",
@@ -1211,7 +1690,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-08T23:10:00Z",
+      "freshnessAgeDays": 186,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-08T23:10:00Z",
+        "freshnessAgeDays": 186,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "estreptomicina",
@@ -1227,7 +1716,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "estreptoquinase",
@@ -1243,7 +1742,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "etomidato",
@@ -1269,7 +1778,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "fenitoina-sodica",
@@ -1295,7 +1814,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "fenobarbital-sodico",
@@ -1311,7 +1840,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "ferro-carboximaltose-ferrica",
@@ -1337,7 +1876,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-08T22:45:00Z",
+      "freshnessAgeDays": 186,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-08T22:45:00Z",
+        "freshnessAgeDays": 186,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "ferro-hidroxido-sacarato",
@@ -1363,7 +1912,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-09T00:37:58.615Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-09T00:37:58.615Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "fitomenadiona",
@@ -1389,7 +1948,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "fluconazol",
@@ -1417,7 +1986,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "flumazenilo",
@@ -1443,7 +2022,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "fosfato-monopotassico",
@@ -1469,7 +2058,17 @@
       "reviewedAt": "2026-08-09T14:54:53.948Z",
       "reviewArtifact": "infarmed/high-risk-gap-review-2026-08-09.json",
       "reviewDecision": "reviewed",
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-08-09T14:54:53.948Z",
+      "freshnessAgeDays": 4,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "furosemida",
@@ -1495,7 +2094,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "gentamicina-sulfato",
@@ -1521,7 +2130,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "granisetron-cloridrato",
@@ -1537,7 +2156,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "haloperidol",
@@ -1563,7 +2192,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "heparina-sodica",
@@ -1589,7 +2228,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "iloprost-trometamol",
@@ -1615,7 +2264,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "imipenem-cilastatina-sodica",
@@ -1641,7 +2300,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-09T00:38:07.802Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-09T00:38:07.802Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "labetalol-cloridrato",
@@ -1667,7 +2336,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "stale",
+      "freshnessReferenceDate": "2026-02-09T00:43:19.008Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "stale",
+        "freshnessReferenceDate": "2026-02-09T00:43:19.008Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "levetiracetam-cloridrato",
@@ -1693,7 +2372,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-09T00:43:35.735Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-09T00:43:35.735Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "levobupivacaina-cloridrato",
@@ -1719,7 +2408,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-09T00:22:08.610Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-09T00:22:08.610Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "levofloxacina",
@@ -1745,7 +2444,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-09T00:38:21.936Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-09T00:38:21.936Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "levotiroxina-sodica",
@@ -1761,7 +2470,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "lidocaina-cloridrato",
@@ -1787,7 +2506,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "stale",
+      "freshnessReferenceDate": "2026-02-09T00:44:05.528Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "stale",
+        "freshnessReferenceDate": "2026-02-09T00:44:05.528Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "linezolida",
@@ -1813,7 +2542,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-08T23:46:53.123Z",
+      "freshnessAgeDays": 186,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-08T23:46:53.123Z",
+        "freshnessAgeDays": 186,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "meropenem",
@@ -1839,7 +2578,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-09T00:22:45.419Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-09T00:22:45.419Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "metamizol-magnesico",
@@ -1865,7 +2614,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-09T00:38:29.947Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-09T00:38:29.947Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "metilprednisolona",
@@ -1891,7 +2650,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-09T00:23:25.777Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-09T00:23:25.777Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "metilprednisolona-acetato",
@@ -1917,7 +2686,17 @@
       "reviewedAt": "2026-08-11T22:15:00.000+01:00",
       "reviewArtifact": "infarmed/non-high-risk-gap-review-2026-08-11.json",
       "reviewDecision": "leave-empty-pending-matching-rcm",
-      "note": "Stored artifact 56266 is Metilprednisolona Hikma powder, not methylprednisolone acetate suspension."
+      "note": "Stored artifact 56266 is Metilprednisolona Hikma powder, not methylprednisolone acetate suspension.",
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-08-11T22:15:00.000+01:00",
+      "freshnessAgeDays": 2,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-09T00:38:46.016Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "metoclopramida",
@@ -1943,7 +2722,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-09T00:23:33.702Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-09T00:23:33.702Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "metronidazol",
@@ -1969,7 +2758,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-09T00:23:46.904Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-09T00:23:46.904Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "micafungina",
@@ -1995,7 +2794,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-09T00:44:13.513Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-09T00:44:13.513Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "midazolam",
@@ -2021,7 +2830,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "stale",
+      "freshnessReferenceDate": "2026-02-09T00:22:52.843Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "stale",
+        "freshnessReferenceDate": "2026-02-09T00:22:52.843Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "morfina-cloridrato",
@@ -2037,7 +2856,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "nandrolona-decanoato",
@@ -2063,7 +2892,17 @@
       "reviewedAt": "2026-08-11T22:15:00.000+01:00",
       "reviewArtifact": "infarmed/non-high-risk-gap-review-2026-08-11.json",
       "reviewDecision": "leave-empty-legitimate",
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-08-11T22:15:00.000+01:00",
+      "freshnessAgeDays": 2,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-08-11T21:45:54.010Z",
+        "freshnessAgeDays": 2,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "neostigmina-metilsulfato",
@@ -2079,7 +2918,17 @@
       "reviewedAt": "2026-08-11T22:15:00.000+01:00",
       "reviewArtifact": "infarmed/non-high-risk-gap-review-2026-08-11.json",
       "reviewDecision": "leave-empty-pending-matching-rcm",
-      "note": "No current INFOMED result with documents was found on 2026-08-11."
+      "note": "No current INFOMED result with documents was found on 2026-08-11.",
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-08-11T22:15:00.000+01:00",
+      "freshnessAgeDays": 2,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "noradrenalina-bitartrato",
@@ -2105,7 +2954,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "stale",
+      "freshnessReferenceDate": "2026-02-09T00:22:17.541Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "stale",
+        "freshnessReferenceDate": "2026-02-09T00:22:17.541Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "octreotido-acetato",
@@ -2121,7 +2980,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "omeprazol-sodico",
@@ -2147,7 +3016,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-09T00:22:27.856Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-09T00:22:27.856Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "ondansetron-cloridrato",
@@ -2163,7 +3042,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "oxitocina",
@@ -2189,7 +3078,17 @@
       "reviewedAt": "2026-08-09T14:54:53.948Z",
       "reviewArtifact": "infarmed/high-risk-gap-review-2026-08-09.json",
       "reviewDecision": "reviewed",
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-08-09T14:54:53.948Z",
+      "freshnessAgeDays": 4,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-08-09T14:49:00.766Z",
+        "freshnessAgeDays": 4,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "pamidronato-dissodio",
@@ -2205,7 +3104,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "pantoprazol",
@@ -2231,7 +3140,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-09T00:23:10.150Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-09T00:23:10.150Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "paracetamol",
@@ -2257,7 +3176,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-09T00:35:04.848Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-09T00:35:04.848Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "penicilina-g-sodica-ou-potassica",
@@ -2283,7 +3212,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-09T00:45:20.431Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-09T00:45:20.431Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "petidina-cloridrato",
@@ -2309,7 +3248,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "stale",
+      "freshnessReferenceDate": "2026-02-09T00:45:30.539Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "stale",
+        "freshnessReferenceDate": "2026-02-09T00:45:30.539Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "piracetam",
@@ -2325,7 +3274,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "prednisolona-hemi-succinato",
@@ -2351,7 +3310,17 @@
       "reviewedAt": "2026-08-11T22:15:00.000+01:00",
       "reviewArtifact": "infarmed/non-high-risk-gap-review-2026-08-11.json",
       "reviewDecision": "leave-empty-pending-matching-rcm",
-      "note": "Stored artifact 56266 is Metilprednisolona Hikma powder, not prednisolone hemisuccinate."
+      "note": "Stored artifact 56266 is Metilprednisolona Hikma powder, not prednisolone hemisuccinate.",
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-08-11T22:15:00.000+01:00",
+      "freshnessAgeDays": 2,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-09T00:45:54.123Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "prednisolona-succinato-de-sodio",
@@ -2377,7 +3346,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-09T00:46:11.925Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-09T00:46:11.925Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "prometazina-cloridrato",
@@ -2403,7 +3382,17 @@
       "reviewedAt": "2026-08-09T14:54:53.948Z",
       "reviewArtifact": "infarmed/high-risk-gap-review-2026-08-09.json",
       "reviewDecision": "reviewed",
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-08-09T14:54:53.948Z",
+      "freshnessAgeDays": 4,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "stale",
+        "freshnessReferenceDate": "2026-02-09T00:46:21.729Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "propofol",
@@ -2431,7 +3420,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "stale",
+      "freshnessReferenceDate": "2026-02-09T00:46:31.135Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "stale",
+        "freshnessReferenceDate": "2026-02-09T00:46:31.135Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "protamina-sulfato-ou-cloridrato",
@@ -2457,7 +3456,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-09T00:46:40.752Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-09T00:46:40.752Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "ranitidina",
@@ -2473,7 +3482,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "remifentanil",
@@ -2499,7 +3518,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "stale",
+      "freshnessReferenceDate": "2026-02-09T00:46:55.919Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "stale",
+        "freshnessReferenceDate": "2026-02-09T00:46:55.919Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "risperidona",
@@ -2521,7 +3550,17 @@
       "reviewedAt": "2026-08-11T22:15:00.000+01:00",
       "reviewArtifact": "infarmed/non-high-risk-gap-review-2026-08-11.json",
       "reviewDecision": "leave-empty-pending-matching-rcm",
-      "note": "The 2026-08-11 search metadata identifies Okedi 100 mg/0.490 ml; the catalog entry describes Risperdal Consta 25/37.5/50 mg."
+      "note": "The 2026-08-11 search metadata identifies Okedi 100 mg/0.490 ml; the catalog entry describes Risperdal Consta 25/37.5/50 mg.",
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-08-11T22:15:00.000+01:00",
+      "freshnessAgeDays": 2,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-08-11T21:48:28.105Z",
+        "freshnessAgeDays": 2,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "rocuronio",
@@ -2547,7 +3586,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "stale",
+      "freshnessReferenceDate": "2026-02-09T00:47:51.446Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "stale",
+        "freshnessReferenceDate": "2026-02-09T00:47:51.446Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "salbutamol-sulfato",
@@ -2573,7 +3622,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-09T00:48:02.688Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-09T00:48:02.688Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "somatostatina",
@@ -2589,7 +3648,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "sufentanilo-citrato",
@@ -2615,7 +3684,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "stale",
+      "freshnessReferenceDate": "2026-02-09T00:48:19.269Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "stale",
+        "freshnessReferenceDate": "2026-02-09T00:48:19.269Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "suxametonio-cloreto",
@@ -2641,7 +3720,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "stale",
+      "freshnessReferenceDate": "2026-02-09T00:48:29.007Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "stale",
+        "freshnessReferenceDate": "2026-02-09T00:48:29.007Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "teicoplanina-sodica",
@@ -2667,7 +3756,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-09T00:48:40.230Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-09T00:48:40.230Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "tenoxicam",
@@ -2683,7 +3782,17 @@
       "reviewedAt": "2026-08-11T22:15:00.000+01:00",
       "reviewArtifact": "infarmed/non-high-risk-gap-review-2026-08-11.json",
       "reviewDecision": "leave-empty-pending-matching-rcm",
-      "note": "No current injectable INFOMED result with documents was found on 2026-08-11."
+      "note": "No current injectable INFOMED result with documents was found on 2026-08-11.",
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-08-11T22:15:00.000+01:00",
+      "freshnessAgeDays": 2,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "tiamina",
@@ -2709,7 +3818,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-09T00:48:56.978Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-09T00:48:56.978Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "tiaprida",
@@ -2735,7 +3854,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-09T00:49:07.355Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-09T00:49:07.355Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "tigeciclina",
@@ -2761,7 +3890,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-09T01:08:42.158Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-09T01:08:42.158Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "tiocolchicosido",
@@ -2777,7 +3916,17 @@
       "reviewedAt": "2026-08-11T22:15:00.000+01:00",
       "reviewArtifact": "infarmed/non-high-risk-gap-review-2026-08-11.json",
       "reviewDecision": "leave-empty-pending-matching-rcm",
-      "note": "No current INFOMED result with documents was found on 2026-08-11."
+      "note": "No current INFOMED result with documents was found on 2026-08-11.",
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-08-11T22:15:00.000+01:00",
+      "freshnessAgeDays": 2,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "tiopental",
@@ -2803,7 +3952,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "stale",
+      "freshnessReferenceDate": "2026-02-09T00:49:30.516Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "stale",
+        "freshnessReferenceDate": "2026-02-09T00:49:30.516Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "tramal-cloridrato",
@@ -2819,7 +3978,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "valproato-de-sodio",
@@ -2835,7 +4004,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "vancomicina",
@@ -2861,7 +4040,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-09T00:50:01.633Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-09T00:50:01.633Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 365
+      }
     },
     {
       "id": "vecuronio-brometo",
@@ -2877,7 +4066,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "unknown",
+      "freshnessReferenceDate": null,
+      "freshnessAgeDays": null,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "unknown",
+        "freshnessReferenceDate": null,
+        "freshnessAgeDays": null,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "verapamilo-cloridrato",
@@ -2903,7 +4102,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "stale",
+      "freshnessReferenceDate": "2026-02-09T00:50:23.579Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 180,
+      "evidenceFreshness": {
+        "freshnessStatus": "stale",
+        "freshnessReferenceDate": "2026-02-09T00:50:23.579Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 180
+      }
     },
     {
       "id": "voriconazol",
@@ -2929,7 +4138,17 @@
       "reviewedAt": null,
       "reviewArtifact": null,
       "reviewDecision": null,
-      "note": null
+      "note": null,
+      "freshnessStatus": "current",
+      "freshnessReferenceDate": "2026-02-09T01:02:34.340Z",
+      "freshnessAgeDays": 185,
+      "freshnessMaxAgeDays": 365,
+      "evidenceFreshness": {
+        "freshnessStatus": "current",
+        "freshnessReferenceDate": "2026-02-09T01:02:34.340Z",
+        "freshnessAgeDays": 185,
+        "freshnessMaxAgeDays": 365
+      }
     }
   ]
 }
