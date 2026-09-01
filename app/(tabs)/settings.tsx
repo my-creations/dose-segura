@@ -1,11 +1,12 @@
 import { Ionicons } from '@expo/vector-icons';
 import React from 'react';
-import { Platform, Pressable, ScrollView, StyleSheet, View } from 'react-native';
+import { Platform, Pressable, ScrollView, StyleSheet, Switch, View } from 'react-native';
 
 import { ThemedText } from '@/components/ThemedText';
 import { PWAInstallModal } from '@/components/PWAInstallModal';
 import { Colors } from '@/constants/Colors';
 import { pastelCardShadow } from '@/constants/Shadows';
+import { useCookieConsent } from '@/context/CookieConsentContext';
 import { useMedications } from '@/context/MedicationsContext';
 import { ThemeMode, useTheme } from '@/context/ThemeContext';
 import { useColorScheme } from '@/hooks/useColorScheme';
@@ -15,6 +16,7 @@ import i18n from '@/utils/i18n';
 export default function SettingsScreen() {
   const { version, lastUpdated, medications } = useMedications();
   const { themeMode, setThemeMode } = useTheme();
+  const { isReady, status, acceptAll, rejectNonEssential } = useCookieConsent();
   const { isStandalone, installApp, showInstructions, setShowInstructions } = usePWAInstall();
   const colorScheme = useColorScheme();
   const colors = Colors[colorScheme ?? 'light'];
@@ -29,6 +31,11 @@ export default function SettingsScreen() {
   }, []);
 
   const shouldShowInstall = isMobileWeb && !isStandalone;
+  const advertisingCookiesEnabled = status === 'accepted';
+  const isDarkMode = (colorScheme ?? 'light') === 'dark';
+  const switchTrackOffColor = isDarkMode ? '#6B7280' : colors.lavender;
+  const switchTrackOnColor = isDarkMode ? '#FF8FB0' : colors.tint;
+  const switchThumbColor = isDarkMode ? '#FFFFFF' : colors.cardBackground;
 
   const renderThemeOption = (
     mode: ThemeMode,
@@ -138,6 +145,62 @@ export default function SettingsScreen() {
         </View>
       )}
 
+      {Platform.OS === 'web' && isReady && (
+        <View style={styles.section} testID="privacy-section">
+          <ThemedText type="sectionTitle" style={styles.sectionTitle}>
+            {i18n.t('settings.privacy')}
+          </ThemedText>
+          <View style={[styles.card, { backgroundColor: colors.cardBackground }]}>
+            <ThemedText style={styles.aboutText}>
+              {i18n.t('settings.cookies.description')}
+            </ThemedText>
+            <View style={[styles.warningBox, { backgroundColor: colors.lavender + '25' }]}>
+              <Ionicons name="shield-checkmark-outline" size={20} color={colors.textDark} />
+              <View style={styles.cookieStatusContent}>
+                <ThemedText style={[styles.cookieStatusLabel, { color: colors.textDark }]}>
+                  {i18n.t('settings.cookies.currentStatus')}
+                </ThemedText>
+                <ThemedText style={[styles.cookieStatusValue, { color: colors.textDark }]}>
+                  {i18n.t(`settings.cookies.status.${status}`)}
+                </ThemedText>
+              </View>
+            </View>
+            <View style={[styles.cookieToggleRow, { backgroundColor: colors.lavender + '20' }]}>
+              <View style={styles.cookieToggleText}>
+                <ThemedText style={styles.cookieToggleTitle}>
+                  {i18n.t('settings.cookies.toggleLabel')}
+                </ThemedText>
+                <ThemedText style={styles.cookieToggleSubtitle} testID="cookie-toggle-status">
+                  {advertisingCookiesEnabled
+                    ? i18n.t('settings.cookies.status.accepted')
+                    : i18n.t('settings.cookies.status.rejected')}
+                </ThemedText>
+                <ThemedText style={styles.cookieToggleHint}>
+                  {i18n.t('settings.cookies.toggleHelp')}
+                </ThemedText>
+              </View>
+              <Switch
+                testID="cookie-advertising-toggle"
+                value={advertisingCookiesEnabled}
+                onValueChange={(enabled) => {
+                  if (enabled) {
+                    acceptAll();
+                    return;
+                  }
+                  rejectNonEssential();
+                }}
+                trackColor={{ false: switchTrackOffColor, true: switchTrackOnColor }}
+                thumbColor={switchThumbColor}
+                ios_backgroundColor={switchTrackOffColor}
+              />
+            </View>
+            <ThemedText style={styles.cookieSupportNote}>
+              {i18n.t('settings.cookies.supportNote')}
+            </ThemedText>
+          </View>
+        </View>
+      )}
+
       <View style={styles.section}>
         <ThemedText type="sectionTitle" style={styles.sectionTitle}>
           {i18n.t('settings.about')}
@@ -242,6 +305,54 @@ const styles = StyleSheet.create({
     flex: 1,
     fontSize: 13,
     lineHeight: 20,
+  },
+  cookieStatusContent: {
+    flex: 1,
+  },
+  cookieStatusLabel: {
+    fontSize: 12,
+    opacity: 0.8,
+  },
+  cookieStatusValue: {
+    fontSize: 14,
+    fontFamily: 'Quicksand_600SemiBold',
+    marginTop: 2,
+  },
+  cookieToggleRow: {
+    borderRadius: 12,
+    paddingHorizontal: 12,
+    minHeight: 64,
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    gap: 12,
+    marginTop: 14,
+    marginBottom: 4,
+  },
+  cookieToggleText: {
+    flex: 1,
+  },
+  cookieToggleTitle: {
+    fontSize: 14,
+    fontFamily: 'Quicksand_600SemiBold',
+  },
+  cookieToggleSubtitle: {
+    fontSize: 12,
+    lineHeight: 16,
+    marginTop: 2,
+    opacity: 0.8,
+  },
+  cookieToggleHint: {
+    fontSize: 11,
+    lineHeight: 16,
+    marginTop: 4,
+    opacity: 0.75,
+  },
+  cookieSupportNote: {
+    fontSize: 12,
+    lineHeight: 18,
+    marginTop: 10,
+    opacity: 0.8,
   },
   themeOption: {
     flexDirection: 'row',

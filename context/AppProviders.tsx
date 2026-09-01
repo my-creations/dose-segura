@@ -1,5 +1,6 @@
 import React from 'react';
 
+import { CookieConsentProvider } from '@/context/CookieConsentContext';
 import { FavoritesProvider } from '@/context/FavoritesContext';
 import { MedicationsProvider } from '@/context/MedicationsContext';
 import { AppThemeProvider } from '@/context/ThemeContext';
@@ -8,9 +9,11 @@ import { AppThemeProvider } from '@/context/ThemeContext';
 export function AppProviders({ children }: { children: React.ReactNode }) {
   return (
     <AppThemeProvider>
-      <MedicationsProvider>
-        <FavoritesProvider>{children}</FavoritesProvider>
-      </MedicationsProvider>
+      <CookieConsentProvider>
+        <MedicationsProvider>
+          <FavoritesProvider>{children}</FavoritesProvider>
+        </MedicationsProvider>
+      </CookieConsentProvider>
     </AppThemeProvider>
   );
 }
