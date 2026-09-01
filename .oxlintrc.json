@@ -40,6 +40,12 @@
       "env": {
         "jest": true
       }
+    },
+    {
+      "files": ["e2e/**/*.{js,ts}"],
+      "rules": {
+        "no-empty-pattern": "off"
+      }
     }
   ]
 }
