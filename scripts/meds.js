@@ -4,15 +4,18 @@ const { extractMed } = require('./utils/infarmed-extractor');
 const { parseMed } = require('./utils/infarmed-parser');
 
 const USAGE = `Usage:
+  bun run infarmed:fetch -- <medId>
   node scripts/meds.js <command> <medName> [options]
 
 Commands:
-  download <medName>   Search and download RCM/FI PDFs
+  download <medName>   Search and download RCM/FI PDFs into infarmed/<medId>/
   extract <medName>    Extract text from downloaded PDFs
   parse <medName>      Parse extracted text into JSON
-  all <medName>        Run download, extract, and parse in sequence
+  fetch <medName>      Download, extract, and parse in sequence
+  all <medName>        Alias for fetch
 
 Options:
+  --help, -h           Show this help
   --out <path>         (parse only) Output path for JSON
   --infarmed-id <id>   (parse only) Filter by Infarmed ID
   --best-match         (parse only) Use best match from meta.json
@@ -34,68 +37,100 @@ function parseArgs(args) {
   return options;
 }
 
-async function main() {
-  const args = process.argv.slice(2);
-  if (args.length < 2) {
-    console.error(USAGE);
-    process.exit(1);
+function parseCli(argv) {
+  if (argv.includes('--help') || argv.includes('-h')) {
+    return { help: true };
   }
 
-  const command = args[0];
-  const medName = args[1];
-  const options = parseArgs(args.slice(2));
+  if (argv.length < 2) {
+    return { error: 'missing-args' };
+  }
+
+  return {
+    command: argv[0],
+    medName: argv[1],
+    options: parseArgs(argv.slice(2)),
+  };
+}
+
+async function runFetch(medName, options, deps) {
+  console.log('--- Step 1: Download ---');
+  await deps.downloadMed(medName);
+  console.log('\n--- Step 2: Extract ---');
+  deps.extractMed(medName);
+  console.log('\n--- Step 3: Parse ---');
+  deps.parseMed(medName, options);
+}
+
+function defaultDeps() {
+  return {
+    downloadMed,
+    extractMed,
+    parseMed,
+    logError: (message) => console.error(message),
+    exit: (code) => process.exit(code),
+  };
+}
+
+async function run(argv, overrides = {}) {
+  const deps = { ...defaultDeps(), ...overrides };
+  const parsed = parseCli(argv);
+
+  if (parsed.help) {
+    console.log(USAGE);
+    deps.exit(0);
+    return { status: 'help' };
+  }
+
+  if (parsed.error) {
+    deps.logError(USAGE);
+    deps.exit(1);
+    return { status: 'error', reason: parsed.error };
+  }
+
+  const { command, medName, options } = parsed;
 
   try {
     switch (command) {
       case 'download':
-        await downloadMed(medName);
+        await deps.downloadMed(medName);
         break;
       case 'extract':
-        extractMed(medName);
+        deps.extractMed(medName);
         break;
       case 'parse':
-        parseMed(medName, options);
+        deps.parseMed(medName, options);
         break;
+      case 'fetch':
       case 'all':
-        console.log('--- Step 1: Download ---');
-        await downloadMed(medName);
-        console.log('\n--- Step 2: Extract ---');
-        extractMed(medName); // Note: extractMed might need sanitizeName if medName was a search term?
-        // Wait, extractMed expects folder name. downloadMed creates folder name.
-        // Ideally medName passed to 'all' is the search term.
-        // downloadMed sanitizes it. extractMed needs the sanitized name.
-        // But wait, downloadMed creates `infarmed/<sanitizedSearch>/<sanitizedMed>`.
-        // This is complex.
-        // Let's assume for 'all', the user passes the SEARCH TERM.
-        // downloadMed will download potentially multiple meds.
-        // We should probably iterate all subfolders in `infarmed/<sanitizedSearch>`?
-        //
-        // Let's refine 'all' logic:
-        // downloadMed downloads to `infarmed/<sanitizedSearch>/<medName>/...`
-        // extractMed expects `medDir` relative to `infarmed`.
-        // So if I search "propofol", it creates `infarmed/propofol/propofol-lipuro/...`
-        // extractMed("propofol") works if `infarmed/propofol` exists and contains PDFs.
-        // But `infarmed/propofol` contains SUBDIRECTORIES.
-        // `collectFiles` is recursive, so it finds PDFs in subdirectories.
-        // So extractMed("propofol") works!
-        // It extracts text next to PDFs.
-        // parseMed("propofol") parses text files found recursively.
-        // It works!
-
-        console.log('\n--- Step 3: Parse ---');
-        parseMed(medName, options); // This will parse all found text files in the folder structure.
+        await runFetch(medName, options, deps);
         break;
       default:
-        console.error(`Unknown command: ${command}`);
-        console.error(USAGE);
-        process.exit(1);
+        deps.logError(`Unknown command: ${command}`);
+        deps.logError(USAGE);
+        deps.exit(1);
+        return { status: 'error', reason: 'unknown-command' };
     }
+
+    return { status: 'ok', command, medName };
   } catch (error) {
-    console.error('Error:', error.message);
-    process.exit(1);
+    deps.logError(`Error: ${error.message}`);
+    deps.exit(1);
+    return { status: 'error', reason: error.message };
   }
+}
+
+async function main() {
+  await run(process.argv.slice(2));
 }
 
 if (require.main === module) {
   main();
 }
+
+module.exports = {
+  USAGE,
+  parseArgs,
+  parseCli,
+  run,
+};

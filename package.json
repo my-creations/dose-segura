@@ -34,6 +34,7 @@
     "build:android": "eas build -p android",
     "build:ios": "eas build -p ios",
     "prepare": "husky",
+    "infarmed:fetch": "node scripts/meds.js fetch",
     "generate:infarmed-coverage": "node scripts/generate-infarmed-coverage.js"
   },
   "dependencies": {
