@@ -16,18 +16,18 @@ bun run web        # Web version
 ### Code Quality
 
 ```bash
-bun run lint           # ESLint (minimal - mainly validates data/meds.json)
-bun run lint:fix       # Auto-fix ESLint
-bun run format         # Prettier write (spacing, newlines)
-bun run format:check   # Prettier check only
+bun run lint           # Oxlint (JS/TS correctness, React, Jest)
+bun run lint:fix       # Auto-fix Oxlint
+bun run format         # Oxfmt write (spacing, newlines)
+bun run format:check   # Oxfmt check only
 bun run type-check     # TypeScript checking
-bun run lint:meds      # ESLint on canonical medication data (key sort)
+bun run lint:meds      # Sort-check canonical medication keys (natural/asc)
 bun run lint:meds:fix  # Auto-fix canonical medication data
 bun run generate:meds  # Regenerate index + lazy web artifact from data/meds.json
 bun run validate:meds  # Validate canonical source + exact generated artifacts
 ```
 
-Pre-commit (Husky): `lint-staged` (Prettier on staged files) → `type-check` → `test`.
+Pre-commit (Husky): `lint-staged` (Oxfmt on staged files) → `type-check` → `test`.
 
 ### CI
 
@@ -37,6 +37,7 @@ GitHub Actions (`.github/workflows/ci.yml`) runs on push/PR to `master`:
 # quality job
 bun install --frozen-lockfile            # HUSKY=0
 bun run lint
+bun run format:check
 bun run lint:meds
 bun run validate:meds
 bun run type-check
