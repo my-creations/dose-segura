@@ -1,0 +1,45 @@
+{
+  "$schema": "./node_modules/oxlint/configuration_schema.json",
+  "plugins": ["typescript", "unicorn", "oxc", "react", "react-hooks", "jest", "import"],
+  "categories": {
+    "correctness": "error"
+  },
+  "rules": {
+    "react/set-state-in-effect": "off"
+  },
+  "env": {
+    "builtin": true
+  },
+  "ignorePatterns": [
+    "node_modules/**",
+    ".expo/**",
+    "dist/**",
+    "web-build/**",
+    "coverage/**",
+    "playwright-report/**",
+    "blob-report/**",
+    "test-results/**",
+    "ios/**",
+    "android/**",
+    "infarmed/**"
+  ],
+  "overrides": [
+    {
+      "files": ["scripts/**/*.{js,cjs,mjs}"],
+      "env": {
+        "node": true
+      }
+    },
+    {
+      "files": [
+        "**/*.{test,spec}.{js,jsx,ts,tsx}",
+        "**/__tests__/**/*.{js,jsx,ts,tsx}",
+        "jest.setup.js",
+        "jest.config.js"
+      ],
+      "env": {
+        "jest": true
+      }
+    }
+  ]
+}

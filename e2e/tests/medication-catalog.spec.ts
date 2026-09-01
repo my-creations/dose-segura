@@ -11,7 +11,7 @@ const batches = Array.from({ length: Math.ceil(medications.length / BATCH_SIZE) 
 );
 
 test.describe('Medication Catalog rendering', () => {
-  test.beforeEach(({}, testInfo) => {
+  test.beforeEach((_fixtures, testInfo) => {
     test.skip(
       testInfo.project.name !== 'Desktop Chrome',
       'The exhaustive catalog contract runs once on Desktop Chrome',

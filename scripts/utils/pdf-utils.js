@@ -3,7 +3,7 @@ const { execFileSync } = require('node:child_process');
 function ensurePdftotext() {
   try {
     execFileSync('pdftotext', ['-v'], { stdio: 'ignore' });
-  } catch (error) {
+  } catch {
     throw new Error('pdftotext not found. Install Poppler and ensure pdftotext is in PATH.');
   }
 }

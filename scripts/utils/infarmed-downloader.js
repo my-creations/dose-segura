@@ -269,7 +269,7 @@ async function downloadMed(searchTerm) {
 
       try {
         await page.waitForSelector('#mainForm\\:dt-medicamentos_data tr', { timeout: 20000 });
-      } catch (e) {
+      } catch {
         continue;
       }
 
@@ -317,7 +317,7 @@ async function downloadMed(searchTerm) {
 
           try {
             await page.waitForSelector('#mainForm\\:dt-medicamentos_data tr', { timeout: 20000 });
-          } catch (e) {
+          } catch {
             continue;
           }
 

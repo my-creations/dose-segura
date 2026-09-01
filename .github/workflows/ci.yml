@@ -33,6 +33,9 @@ jobs:
       - name: Lint
         run: bun run lint
 
+      - name: Check format
+        run: bun run format:check
+
       - name: Lint medication data
         run: bun run lint:meds
 
