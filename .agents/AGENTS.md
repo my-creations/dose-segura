@@ -61,6 +61,16 @@ bun run validate:meds
 
 The Medications Index stays eagerly bundled for Search; web Medication Details remain a separate lazy-loaded asset.
 
+### Infarmed documents (RCM/FI)
+
+Do **not** click through INFOMED in a browser or via Playwright MCP. Fetch with:
+
+```bash
+bun run infarmed:fetch -- <medId>
+```
+
+Outputs land in `infarmed/{medId}/`. After a human/agent review of ATC/match, propose `data/meds.json` edits using `node scripts/meds-formatter.js` (there is no meds-formatter skill file). See `.agents/skills/infarmed-fetch/SKILL.md`.
+
 ### Testing
 
 ```bash

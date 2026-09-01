@@ -50,8 +50,8 @@ brew install poppler
 ### Fluxo recomendado
 
 ```bash
-# Descarregar, extrair e parsear RCM/FI
-node scripts/meds.js all <medId>
+# Descarregar, extrair e parsear RCM/FI (não abrir INFOMED no browser)
+bun run infarmed:fetch -- <medId>
 
 # Após revisão clínica, editar apenas a fonte canónica
 $EDITOR data/meds.json
