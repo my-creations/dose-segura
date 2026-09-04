@@ -18,6 +18,7 @@ Uma aplicação de referência rápida para enfermeiros, desenhada para facilita
 
 - 🔍 **Pesquisa rápida** - Encontre medicamentos por nome ou alias
 - ❤️ **Favoritos** - Guarde os medicamentos mais utilizados
+- ⚖️ **Cálculos guiados** - Ajuda para regra de três, volume a aspirar e mg/kg (não substitui o cálculo independente)
 - 📋 **Informação completa** - Classificação, compatibilidade, preparação, administração e mais
 - ⚠️ **Alertas de alto risco** - Identificação clara de medicamentos de alto risco
 - 🌐 **Offline-first** - Funciona sem ligação à internet

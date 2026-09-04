@@ -7,6 +7,7 @@ const WEB_SERVER_COMMAND = `bun run web -- --port ${PORT}`;
 
 export default defineConfig({
   testDir: './tests',
+  testMatch: '**/*.e2e.ts',
   timeout: 60_000,
   expect: {
     timeout: 10_000,

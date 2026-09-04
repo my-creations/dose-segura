@@ -59,6 +59,13 @@ export default function TabLayout() {
         }}
       />
       <Tabs.Screen
+        name="calculations"
+        options={{
+          title: i18n.t('navigation.calculations'),
+          tabBarIcon: ({ color }) => <TabBarIcon name="pulse-outline" color={color} />,
+        }}
+      />
+      <Tabs.Screen
         name="settings"
         options={{
           title: i18n.t('navigation.settings'),
