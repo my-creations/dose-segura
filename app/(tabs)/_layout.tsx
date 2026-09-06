@@ -66,6 +66,13 @@ export default function TabLayout() {
         }}
       />
       <Tabs.Screen
+        name="procedures"
+        options={{
+          title: i18n.t('navigation.procedures'),
+          tabBarIcon: ({ color }) => <TabBarIcon name="clipboard-outline" color={color} />,
+        }}
+      />
+      <Tabs.Screen
         name="settings"
         options={{
           title: i18n.t('navigation.settings'),

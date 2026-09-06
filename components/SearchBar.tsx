@@ -11,12 +11,14 @@ interface SearchBarProps {
   value: string;
   onChangeText: (text: string) => void;
   placeholder?: string;
+  testID?: string;
 }
 
 export function SearchBar({
   value,
   onChangeText,
   placeholder = i18n.t('home.searchPlaceholder'),
+  testID = 'search-input',
 }: SearchBarProps) {
   const colorScheme = useColorScheme();
   const colors = Colors[colorScheme ?? 'light'];
@@ -42,7 +44,7 @@ export function SearchBar({
         autoCapitalize="none"
         autoCorrect={false}
         clearButtonMode="while-editing"
-        testID="search-input"
+        testID={testID}
       />
     </View>
   );

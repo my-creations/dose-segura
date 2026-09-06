@@ -1,6 +1,7 @@
 import React from 'react';
 
 import { FavoritesProvider } from '@/context/FavoritesContext';
+import { ProceduresProvider } from '@/context/ProceduresContext';
 import { MedicationsProvider } from '@/context/MedicationsContext';
 import { AppThemeProvider } from '@/context/ThemeContext';
 
@@ -9,7 +10,9 @@ export function AppProviders({ children }: { children: React.ReactNode }) {
   return (
     <AppThemeProvider>
       <MedicationsProvider>
-        <FavoritesProvider>{children}</FavoritesProvider>
+        <FavoritesProvider>
+          <ProceduresProvider>{children}</ProceduresProvider>
+        </FavoritesProvider>
       </MedicationsProvider>
     </AppThemeProvider>
   );

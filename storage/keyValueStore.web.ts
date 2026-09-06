@@ -15,7 +15,7 @@ export function createKeyValueStore(): KeyValueStore {
         return window.localStorage.getItem(key);
       } catch (error) {
         console.error('KeyValueStore getItem failed:', error);
-        return null;
+        throw error;
       }
     },
     async setItem(key: string, value: string) {
@@ -27,6 +27,7 @@ export function createKeyValueStore(): KeyValueStore {
         window.localStorage.setItem(key, value);
       } catch (error) {
         console.error('KeyValueStore setItem failed:', error);
+        throw error;
       }
     },
   };
