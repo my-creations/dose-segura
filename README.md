@@ -19,6 +19,7 @@ Uma aplicação de referência rápida para enfermeiros, desenhada para facilita
 - 🔍 **Pesquisa rápida** - Encontre medicamentos por nome ou alias
 - ❤️ **Favoritos** - Guarde os medicamentos mais utilizados
 - ⚖️ **Cálculos guiados** - Ajuda para regra de três, volume a aspirar e mg/kg (não substitui o cálculo independente)
+- 🧾 **Procedimentos** - Listas de verificação de enfermagem (incluídas e as suas); duplicar um starter para editar
 - 📋 **Informação completa** - Classificação, compatibilidade, preparação, administração e mais
 - ⚠️ **Alertas de alto risco** - Identificação clara de medicamentos de alto risco
 - 🌐 **Offline-first** - Funciona sem ligação à internet
@@ -35,6 +36,15 @@ Uma aplicação de referência rápida para enfermeiros, desenhada para facilita
 - Estabilidade após preparação
 - Contraindicações e precauções
 - Cuidados de enfermagem
+
+## 🧾 Procedimentos de enfermagem
+
+O separador **Procedimentos** junta starters incluídos (só leitura) com as listas que criar. Pode duplicar um starter para uma cópia editável. Persistência local (`@dose_segura_procedures`); os starters bundled nunca são sobrescritos. São listas de verificação educacionais — **não** substituem o protocolo da instituição e **não** incluem doses de medicamentos.
+
+Starters incluídos:
+
+- Cateterismo venoso periférico (material, passos, o que ter atenção)
+- Sondagem nasogástrica (material, passos, o que ter atenção)
 
 ## 🧾 Atualização de Dados (Infarmed)
 
@@ -133,9 +143,14 @@ dose-segura/
 │   ├── (tabs)/             # Navegação por tabs
 │   │   ├── index.tsx       # Lista de medicamentos
 │   │   ├── favorites.tsx   # Favoritos
+│   │   ├── calculations.tsx # Cálculos guiados
+│   │   ├── procedures.tsx  # Procedimentos
 │   │   └── settings.tsx    # Definições
 │   ├── medication/
 │   │   └── [id].tsx        # Detalhes do medicamento
+│   ├── procedure/
+│   │   ├── [id].tsx        # Detalhe do procedimento
+│   │   └── form.tsx        # Criar/editar procedimento
 │   └── _layout.tsx         # Layout principal
 ├── components/             # Componentes reutilizáveis
 ├── constants/              # Cores e constantes
@@ -144,6 +159,7 @@ dose-segura/
 ├── e2e/                    # Testes End-to-End (Playwright)
 ├── hooks/                  # Custom hooks
 ├── infarmed/               # PDFs e extrações (RCM/FI) por medicamento
+├── procedures/             # Starters bundled e lógica de procedimentos
 ├── scripts/                # Scripts de extração e parsing
 └── types/                  # Tipos TypeScript
 ```

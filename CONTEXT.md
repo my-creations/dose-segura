@@ -1,6 +1,6 @@
 # Dose Segura
 
-Offline-first reference app for Portuguese healthcare professionals administering medications. Bundled medication data, searchable catalog, favorites, Infarmed-sourced detail sections, and a guided pediatric dose calculation aid — not a prescribing or dosing calculator.
+Offline-first reference app for Portuguese healthcare professionals administering medications. Bundled medication data, searchable catalog, favorites, Infarmed-sourced detail sections, modular nursing procedure checklists, and a guided pediatric dose calculation aid — not a prescribing or dosing calculator.
 
 ## Language
 
@@ -61,6 +61,24 @@ _Avoid_: Bookmark, starred item, saved med
 **Favorites List**:
 The ordered collection of Favorite Medication Ids currently persisted for the user.
 _Avoid_: Wishlist, pins
+
+### Procedures
+
+**Procedure**:
+A nursing checklist (title, materials, steps, and points of attention) used as an educational reference — either bundled with the app or authored by the user. Not a hospital protocol and not a dosing tool.
+_Avoid_: Protocol, guideline, SOP, care plan (when meaning this in-app checklist)
+
+**Built-in Procedure**:
+A read-only starter Procedure shipped in bundled data. User storage never overwrites it; users may duplicate it into a User Procedure.
+_Avoid_: Default, template (unqualified), system procedure
+
+**User Procedure**:
+An editable Procedure owned by the user and persisted locally (KeyValueStore). Users create, edit, delete, and duplicate these.
+_Avoid_: Custom checklist, personal protocol, saved template
+
+**Procedures List**:
+The combined view of Built-in Procedures plus User Procedures, searchable by title.
+_Avoid_: Library, catalog (when meaning this combined list)
 
 ### Data sources
 

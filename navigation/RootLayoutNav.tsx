@@ -28,6 +28,24 @@ export function RootLayoutNav() {
             headerBackTitle: i18n.t('common.back'),
           }}
         />
+        <Stack.Screen
+          name="procedure/[id]"
+          options={{
+            headerShown: true,
+            title: i18n.t('navigation.procedure'),
+            headerTintColor: Colors[colorScheme ?? 'light'].tint,
+            headerBackTitle: i18n.t('common.back'),
+          }}
+        />
+        <Stack.Screen
+          name="procedure/form"
+          options={{
+            headerShown: true,
+            title: i18n.t('navigation.procedureForm'),
+            headerTintColor: Colors[colorScheme ?? 'light'].tint,
+            headerBackTitle: i18n.t('common.back'),
+          }}
+        />
         <Stack.Screen name="modal" options={{ presentation: 'modal' }} />
       </Stack>
     </ThemeProvider>
