@@ -1,6 +1,6 @@
 # Dose Segura
 
-Offline-first reference app for Portuguese healthcare professionals administering medications. Bundled medication data, searchable catalog, favorites, and Infarmed-sourced detail sections — not a prescribing or dosing calculator.
+Offline-first reference app for Portuguese healthcare professionals administering medications. Bundled medication data, searchable catalog, favorites, Infarmed-sourced detail sections, and a guided pediatric dose calculation aid — not a prescribing or dosing calculator.
 
 ## Language
 
@@ -105,3 +105,7 @@ _Avoid_: Active scheme, effective mode
 **PWA Install**:
 Web-only flow offering install-to-home-screen when the browser exposes an install prompt or platform instructions.
 _Avoid_: Native install, app store install
+
+**Dose Calculation Aid**:
+A guided helper for regra de três, volume to draw, and mg/kg arithmetic. Substitutes the entered numbers into a visible formula. Not a prescribing calculator and not a keypad calculator.
+_Avoid_: Dosing calculator, prescription tool, calculator keypad

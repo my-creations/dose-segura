@@ -20,6 +20,9 @@ test.describe('Navigation', () => {
     const favoritesTab = page.getByRole('tab', {
       name: new RegExp(Strings.pt.navigation.favorites, 'i'),
     });
+    const calculationsTab = page.getByRole('tab', {
+      name: new RegExp(Strings.pt.navigation.calculations, 'i'),
+    });
     const settingsTab = page.getByRole('tab', {
       name: new RegExp(Strings.pt.navigation.settings, 'i'),
     });
@@ -30,6 +33,11 @@ test.describe('Navigation', () => {
     await expect(page).toHaveURL(/\/favorites$/);
     await expect(page.getByTestId('favorites-screen')).toBeVisible();
     await expect(favoritesTab).toHaveAttribute('aria-selected', 'true');
+
+    await calculationsTab.click();
+    await expect(page).toHaveURL(/\/calculations$/);
+    await expect(page.getByTestId('calculations-screen')).toBeVisible();
+    await expect(calculationsTab).toHaveAttribute('aria-selected', 'true');
 
     await settingsTab.click();
     await expect(page).toHaveURL(/\/settings$/);

@@ -12,6 +12,7 @@ export const Strings = {
     navigation: {
       medications: 'Medicamentos',
       favorites: 'Favoritos',
+      calculations: 'Cálculos',
       settings: 'Definições',
       medication: 'Medicamento',
     },
@@ -33,6 +34,55 @@ export const Strings = {
     favorites: {
       emptyTitle: 'Sem favoritos',
       emptyMessage: 'Toque no coração ao lado de um medicamento para o adicionar aos favoritos',
+    },
+    calculations: {
+      intro: 'Ajuda para a regra de três — não é uma calculadora de prescrição',
+      next: 'Seguinte',
+      optional: 'opcional',
+      modes: {
+        doseByWeight: 'Dose por peso',
+        volume: 'Volume a aspirar',
+        mgPerKg: 'mg/kg',
+      },
+      units: {
+        mg: 'mg',
+        kg: 'kg',
+        mL: 'mL',
+        mgPerKg: 'mg/kg',
+        mgPerMl: 'mg/mL',
+      },
+      doseByWeight: {
+        doseRefQuestion: 'Qual é a dose de referência?',
+        doseRefHint: 'Dose conhecida, em mg (ex.: 100 mg para 70 kg)',
+        weightRefQuestion: 'Qual é o peso de referência?',
+        weightRefHint: 'Peso para o qual a dose de referência foi calculada, em kg',
+        patientWeightQuestion: 'Qual é o peso do doente?',
+        patientWeightHint: 'Peso atual do doente, em kg',
+        resultLabel: 'Dose do doente',
+      },
+      volume: {
+        prescribedDoseQuestion: 'Qual é a dose prescrita?',
+        prescribedDoseHint: 'Dose a administrar, em mg',
+        concentrationQuestion: 'Qual é a concentração?',
+        concentrationHint: 'Concentração da preparação, em mg/mL',
+        resultLabel: 'Volume a aspirar',
+      },
+      mgPerKg: {
+        dosePerKgQuestion: 'Qual é a dose por quilograma?',
+        dosePerKgHint: 'Dose em mg por kg de peso',
+        patientWeightQuestion: 'Qual é o peso do doente?',
+        patientWeightHint: 'Peso atual do doente, em kg',
+        concentrationQuestion: 'Qual é a concentração?',
+        concentrationHint: 'Se preencher, calculamos também o volume a aspirar, em mg/mL',
+        resultLabel: 'Dose',
+        volumeLabel: 'Volume a aspirar',
+      },
+      errors: {
+        invalid: 'Introduza um número válido',
+        zeroOrNegative: 'Os valores têm de ser maiores do que zero',
+      },
+      disclaimer:
+        'Confirmar sempre com o protocolo/RCM. Esta ajuda não substitui o cálculo independente. Erros de unidade são da responsabilidade de quem administra.',
     },
     settings: {
       appearance: 'Aparência',
