@@ -3,6 +3,15 @@ import type { Procedure, ProcedureDraft } from '@/types/procedure';
 
 export const STORAGE_KEY = '@dose_segura_procedures';
 
+/**
+ * One-time migration marker: when absent, catalog templates (CVP/SNG) are seeded
+ * as user procedures so upgrades from the old “always-show builtins” model keep
+ * those checklists. Fresh installs also receive the seed once, then the flag is set
+ * so delete + re-add from the catalog works without re-seeding.
+ */
+export const CATALOG_MIGRATION_KEY = '@dose_segura_procedures_catalog_v1';
+export const CATALOG_MIGRATION_VALUE = '1';
+
 export function normalizeSearchText(value: string): string {
   return value
     .trim()
@@ -156,22 +165,25 @@ export function reconcilePersistedUsers(
   return [...intended, ...extrasFromDisk];
 }
 
+/**
+ * Visible Procedures List: user procedures only.
+ * Catalog templates (`source: 'builtin'`) are never auto-merged into the list.
+ * The `builtins` argument is kept for call-site compatibility and to reject
+ * forged user rows whose id collides with a template id.
+ */
 export function mergeProcedures(
   builtins: readonly Procedure[] = builtinProcedures,
   stored: readonly Procedure[] = [],
 ): Procedure[] {
   const builtinIds = new Set(builtins.map((procedure) => procedure.id));
-  const users = stored.filter(
-    (procedure) => procedure.source === 'user' && !builtinIds.has(procedure.id),
-  );
-
-  return [...builtins, ...users];
+  return stored.filter((procedure) => procedure.source === 'user' && !builtinIds.has(procedure.id));
 }
 
 /**
  * Merge disk users into current state. Memory extras / same-id overrides are kept
  * only for ids in `pendingUpsertIds` (local creates/updates not yet confirmed on disk),
  * so external deletions from other tabs are honored.
+ * Catalog templates are not part of the visible list.
  */
 export function mergeLoadedProcedures(
   builtins: readonly Procedure[],
@@ -208,6 +220,7 @@ export function searchProcedures(procedures: readonly Procedure[], query: string
   );
 }
 
+/** Duplicate an existing procedure into an editable user copy (title gets “cópia”). */
 export function duplicateAsUserProcedure(source: Procedure): Procedure {
   return {
     id: createUserProcedureId(),
@@ -216,11 +229,76 @@ export function duplicateAsUserProcedure(source: Procedure): Procedure {
     steps: [...source.steps],
     attention: [...source.attention],
     source: 'user',
-    originId: source.id,
+    originId: source.id.startsWith('user-') ? source.originId : source.id,
+    updatedAt: new Date().toISOString(),
+  };
+}
+
+/**
+ * Adopt a catalog template as a user procedure (same title, new id, originId = template id).
+ * Used by “Adicionar do catálogo” and by the one-time migration seed.
+ */
+export function adoptFromCatalog(template: Procedure): Procedure {
+  return {
+    id: createUserProcedureId(),
+    title: template.title,
+    materials: [...template.materials],
+    steps: [...template.steps],
+    attention: [...template.attention],
+    source: 'user',
+    originId: template.id,
     updatedAt: new Date().toISOString(),
   };
 }
 
 export function isUserProcedure(procedure: Procedure): boolean {
   return procedure.source === 'user';
+}
+
+/** True when the user list already has this catalog template (by originId or title). */
+export function isCatalogTemplateAdopted(
+  users: readonly Procedure[],
+  template: Procedure,
+): boolean {
+  const templateTitle = normalizeSearchText(template.title);
+  return users.some((procedure) => {
+    if (procedure.source !== 'user') {
+      return false;
+    }
+    if (procedure.originId === template.id) {
+      return true;
+    }
+    return normalizeSearchText(procedure.title) === templateTitle;
+  });
+}
+
+/** Catalog templates not yet present in the user list. */
+export function availableCatalogTemplates(
+  templates: readonly Procedure[] = builtinProcedures,
+  users: readonly Procedure[] = [],
+): Procedure[] {
+  return templates.filter((template) => !isCatalogTemplateAdopted(users, template));
+}
+
+/**
+ * Seed missing catalog templates as user procedures (one-time migration helper).
+ * Returns the same array reference when nothing was added.
+ */
+export function seedMissingCatalogTemplates(
+  users: readonly Procedure[],
+  templates: readonly Procedure[] = builtinProcedures,
+): Procedure[] {
+  const missing = availableCatalogTemplates(templates, users);
+  if (missing.length === 0) {
+    return users as Procedure[];
+  }
+
+  return [...users, ...missing.map((template) => adoptFromCatalog(template))];
+}
+
+export function findCatalogTemplate(
+  id: string,
+  templates: readonly Procedure[] = builtinProcedures,
+): Procedure | undefined {
+  return templates.find((template) => template.id === id);
 }

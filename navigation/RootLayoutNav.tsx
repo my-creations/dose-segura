@@ -46,6 +46,15 @@ export function RootLayoutNav() {
             headerBackTitle: i18n.t('common.back'),
           }}
         />
+        <Stack.Screen
+          name="procedure/catalog"
+          options={{
+            headerShown: true,
+            title: i18n.t('navigation.procedureCatalog'),
+            headerTintColor: Colors[colorScheme ?? 'light'].tint,
+            headerBackTitle: i18n.t('common.back'),
+          }}
+        />
         <Stack.Screen name="modal" options={{ presentation: 'modal' }} />
       </Stack>
     </ThemeProvider>

@@ -7,7 +7,11 @@ import ProcedureDetailScreen from '@/app/procedure/[id]';
 import { Colors } from '@/constants/Colors';
 import { ProceduresProvider } from '@/context/ProceduresContext';
 import { BUILTIN_CVP_ID } from '@/procedures/builtin';
-import { STORAGE_KEY } from '@/procedures/procedures';
+import {
+  CATALOG_MIGRATION_KEY,
+  CATALOG_MIGRATION_VALUE,
+  STORAGE_KEY,
+} from '@/procedures/procedures';
 import { createMemoryKeyValueStore } from '@/storage/types';
 import type { Procedure } from '@/types/procedure';
 import i18n from '@/utils/i18n';
@@ -44,8 +48,11 @@ describe('ProcedureDetailScreen', () => {
     jest.mocked(useLocalSearchParams).mockReturnValue({});
   });
 
-  it('renders a built-in starter with the included badge and no edit or delete', async () => {
-    renderDetail(BUILTIN_CVP_ID);
+  it('renders a catalog template with the model badge and add action when not adopted', async () => {
+    const store = createMemoryKeyValueStore({
+      [CATALOG_MIGRATION_KEY]: CATALOG_MIGRATION_VALUE,
+    });
+    renderDetail(BUILTIN_CVP_ID, store);
 
     await waitFor(() => {
       expect(screen.getByTestId('procedure-detail')).toBeTruthy();
@@ -55,13 +62,15 @@ describe('ProcedureDetailScreen', () => {
     );
     expect(screen.getByTestId('procedure-builtin-badge')).toBeTruthy();
     expect(screen.queryByTestId('procedure-user-badge')).toBeNull();
-    expect(screen.getByTestId('procedure-duplicate')).toBeTruthy();
+    expect(screen.getByTestId('procedure-add-from-catalog')).toBeTruthy();
+    expect(screen.queryByTestId('procedure-duplicate')).toBeNull();
     expect(screen.queryByTestId('procedure-edit')).toBeNull();
     expect(screen.queryByTestId('procedure-delete')).toBeNull();
   });
 
   it('renders a user procedure badge and dismisses with back after delete', async () => {
     const store = createMemoryKeyValueStore({
+      [CATALOG_MIGRATION_KEY]: CATALOG_MIGRATION_VALUE,
       [STORAGE_KEY]: JSON.stringify([storedUser]),
     });
     const alertSpy = jest.spyOn(Alert, 'alert').mockImplementation((_title, _message, buttons) => {
@@ -93,7 +102,10 @@ describe('ProcedureDetailScreen', () => {
   });
 
   it('shows not-found for an unknown id', async () => {
-    renderDetail('user-missing');
+    const store = createMemoryKeyValueStore({
+      [CATALOG_MIGRATION_KEY]: CATALOG_MIGRATION_VALUE,
+    });
+    renderDetail('user-missing', store);
 
     await waitFor(() => {
       expect(screen.getByTestId('procedure-not-found')).toBeTruthy();

@@ -25,7 +25,7 @@ describe('ProcedureCard', () => {
     const { getByText, getByTestId } = render(<ProcedureCard procedure={procedure} />);
 
     expect(getByText(procedure.title)).toBeTruthy();
-    expect(getByText('Incluído')).toBeTruthy();
+    expect(getByText('Modelo')).toBeTruthy();
     expect(getByTestId(`procedure-card-${procedure.id}`)).toBeTruthy();
   });
 

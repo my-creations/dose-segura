@@ -1,9 +1,14 @@
 import { BUILTIN_CVP_ID, BUILTIN_SNG_ID, builtinProcedures } from '@/procedures/builtin';
 import {
+  CATALOG_MIGRATION_KEY,
+  CATALOG_MIGRATION_VALUE,
   STORAGE_KEY,
+  adoptFromCatalog,
   applyUserProcedureMutation,
+  availableCatalogTemplates,
   createUserProcedureId,
   duplicateAsUserProcedure,
+  isCatalogTemplateAdopted,
   mergeLoadedProcedures,
   mergeProcedures,
   parseProcedures,
@@ -12,6 +17,7 @@ import {
   sanitizeProcedure,
   sanitizeStringList,
   searchProcedures,
+  seedMissingCatalogTemplates,
   serializeProcedures,
   validateDraft,
 } from '@/procedures/procedures';
@@ -142,7 +148,7 @@ describe('procedures domain', () => {
     );
   });
 
-  it('merges built-ins with stored user procedures without overwriting starters', () => {
+  it('lists only stored user procedures and drops forged builtin id collisions', () => {
     const colliding: Procedure = {
       ...userProcedure,
       id: BUILTIN_CVP_ID,
@@ -150,16 +156,16 @@ describe('procedures domain', () => {
     };
 
     const merged = mergeProcedures(builtinProcedures, [userProcedure, colliding]);
-    expect(merged[0]?.id).toBe(BUILTIN_CVP_ID);
-    expect(merged[0]?.title).toBe('Cateterismo venoso periférico');
-    expect(merged.some((procedure) => procedure.id === userProcedure.id)).toBe(true);
-    expect(merged.filter((procedure) => procedure.id === BUILTIN_CVP_ID)).toHaveLength(1);
+    expect(merged.map((procedure) => procedure.id)).toEqual([userProcedure.id]);
+    expect(merged.every((procedure) => procedure.source === 'user')).toBe(true);
+    expect(merged.some((procedure) => procedure.id === BUILTIN_CVP_ID)).toBe(false);
   });
 
   it('searches by title without accents or case', () => {
-    const merged = mergeProcedures(builtinProcedures, [userProcedure]);
-    expect(searchProcedures(merged, 'cateterismo')[0]?.id).toBe(BUILTIN_CVP_ID);
-    expect(searchProcedures(merged, '  cateterismo  ')[0]?.id).toBe(BUILTIN_CVP_ID);
+    const adopted = adoptFromCatalog(builtinProcedures[0]!);
+    const merged = mergeProcedures(builtinProcedures, [userProcedure, adopted]);
+    expect(searchProcedures(merged, 'cateterismo')[0]?.id).toBe(adopted.id);
+    expect(searchProcedures(merged, '  cateterismo  ')[0]?.id).toBe(adopted.id);
     expect(searchProcedures(merged, 'VENOSO').length).toBeGreaterThan(0);
     expect(searchProcedures(merged, 'aspiracao')[0]?.id).toBe(userProcedure.id);
     expect(searchProcedures(merged, 'inexistente-xyz')).toHaveLength(0);
@@ -181,6 +187,11 @@ describe('procedures domain', () => {
     expect(copy.materials).toEqual(builtinProcedures[0]?.materials);
     expect(copy.steps).toEqual(builtinProcedures[0]?.steps);
     expect(copy.attention).toEqual(builtinProcedures[0]?.attention);
+
+    const adopted = adoptFromCatalog(builtinProcedures[0]!);
+    expect(adopted.title).toBe('Cateterismo venoso periférico');
+    expect(adopted.originId).toBe(BUILTIN_CVP_ID);
+    expect(adopted.source).toBe('user');
   });
 
   it('keeps only pending in-memory upserts when applying disk state', () => {
@@ -218,7 +229,8 @@ describe('procedures domain', () => {
     );
     expect(merged.some((procedure) => procedure.id === 'user-memory-only')).toBe(true);
     expect(merged.some((procedure) => procedure.id === 'user-deleted-elsewhere')).toBe(false);
-    expect(merged[0]?.id).toBe(BUILTIN_CVP_ID);
+    expect(merged.every((procedure) => procedure.source === 'user')).toBe(true);
+    expect(merged.some((procedure) => procedure.id === BUILTIN_CVP_ID)).toBe(false);
   });
 
   it('rejects empty or whitespace titles and does not treat blank list items as content', () => {
@@ -243,8 +255,9 @@ describe('procedures domain', () => {
   });
 
   it('searches with padded, empty, whitespace and unknown queries', () => {
-    const merged = mergeProcedures(builtinProcedures, [userProcedure]);
-    expect(searchProcedures(merged, '  cateterismo  ')[0]?.id).toBe(BUILTIN_CVP_ID);
+    const adopted = adoptFromCatalog(builtinProcedures[0]!);
+    const merged = mergeProcedures(builtinProcedures, [userProcedure, adopted]);
+    expect(searchProcedures(merged, '  cateterismo  ')[0]?.id).toBe(adopted.id);
     expect(searchProcedures(merged, '')).toHaveLength(merged.length);
     expect(searchProcedures(merged, '   ')).toHaveLength(merged.length);
     expect(searchProcedures(merged, 'inexistente-xyz')).toHaveLength(0);
@@ -280,7 +293,7 @@ describe('procedures domain', () => {
       new Set(['user-memory-only']),
     );
     expect(fromEmptyDisk.some((procedure) => procedure.id === 'user-memory-only')).toBe(true);
-    expect(fromEmptyDisk[0]?.id).toBe(BUILTIN_CVP_ID);
+    expect(fromEmptyDisk.every((procedure) => procedure.source === 'user')).toBe(true);
 
     const dropsNonPendingExtra = mergeLoadedProcedures(
       builtinProcedures,
@@ -317,12 +330,39 @@ describe('procedures domain', () => {
     expect(diskOnly.filter((procedure) => procedure.source === 'user')).toHaveLength(1);
   });
 
-  it('does not treat built-in current rows as user extras on load', () => {
+  it('does not treat catalog template rows in current state as user extras on load', () => {
     const merged = mergeLoadedProcedures(builtinProcedures, [], builtinProcedures);
-    expect(merged.map((procedure) => procedure.id)).toEqual(
-      builtinProcedures.map((item) => item.id),
+    expect(merged).toEqual([]);
+  });
+
+  it('seeds missing catalog templates once and tracks adoption by originId or title', () => {
+    expect(CATALOG_MIGRATION_KEY).toBe('@dose_segura_procedures_catalog_v1');
+    expect(CATALOG_MIGRATION_VALUE).toBe('1');
+
+    const seeded = seedMissingCatalogTemplates([]);
+    expect(seeded).toHaveLength(builtinProcedures.length);
+    expect(seeded.every((procedure) => procedure.source === 'user')).toBe(true);
+    expect(seeded.map((procedure) => procedure.originId).sort()).toEqual(
+      builtinProcedures.map((item) => item.id).sort(),
     );
-    expect(merged.every((procedure) => procedure.source === 'builtin')).toBe(true);
+
+    const again = seedMissingCatalogTemplates(seeded);
+    expect(again).toBe(seeded);
+
+    expect(isCatalogTemplateAdopted(seeded, builtinProcedures[0]!)).toBe(true);
+    expect(availableCatalogTemplates(builtinProcedures, seeded)).toEqual([]);
+
+    const withoutCvp = seeded.filter((procedure) => procedure.originId !== BUILTIN_CVP_ID);
+    expect(availableCatalogTemplates(builtinProcedures, withoutCvp).map((item) => item.id)).toEqual(
+      [BUILTIN_CVP_ID],
+    );
+
+    const titledOnly: Procedure = {
+      ...userProcedure,
+      id: 'user-title-match',
+      title: 'Cateterismo venoso periférico',
+    };
+    expect(isCatalogTemplateAdopted([titledOnly], builtinProcedures[0]!)).toBe(true);
   });
 
   it('ignores invalid stored records and keeps originId on valid user copies', () => {

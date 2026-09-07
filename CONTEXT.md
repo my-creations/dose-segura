@@ -1,6 +1,6 @@
 # Dose Segura
 
-Offline-first reference app for Portuguese healthcare professionals administering medications. Bundled medication data, searchable catalog, favorites, Infarmed-sourced detail sections, modular nursing procedure checklists, and a guided pediatric dose calculation aid — not a prescribing or dosing calculator.
+Offline-first reference app for Portuguese healthcare professionals administering medications. Bundled medication data, searchable catalog, favorites, Infarmed-sourced detail sections, modular nursing procedure checklists (user list + template catalog), and a guided pediatric dose calculation aid — not a prescribing or dosing calculator.
 
 ## Language
 
@@ -65,20 +65,28 @@ _Avoid_: Wishlist, pins
 ### Procedures
 
 **Procedure**:
-A nursing checklist (title, materials, steps, and points of attention) used as an educational reference — either bundled with the app or authored by the user. Not a hospital protocol and not a dosing tool.
+A nursing checklist (title, materials, steps, and points of attention) used as an educational reference — either adopted from the Template Catalog or authored by the user. Not a hospital protocol and not a dosing tool.
 _Avoid_: Protocol, guideline, SOP, care plan (when meaning this in-app checklist)
 
-**Built-in Procedure**:
-A read-only starter Procedure shipped in bundled data. User storage never overwrites it; users may duplicate it into a User Procedure.
-_Avoid_: Default, template (unqualified), system procedure
+**Procedure Template** (catalog):
+A read-only model Procedure shipped in bundled data (`source: 'builtin'`, e.g. CVP and SNG). Templates are not auto-listed in the Procedures List; the user opts in via “Adicionar do catálogo”, which clones the template into a User Procedure with `originId` set to the template id. Storage never overwrites templates.
+_Avoid_: Built-in Procedure (legacy), default, system procedure (when meaning the catalog entry)
 
 **User Procedure**:
-An editable Procedure owned by the user and persisted locally (KeyValueStore). Users create, edit, delete, and duplicate these.
+An editable Procedure owned by the user and persisted locally (KeyValueStore). Users create, edit, delete, duplicate, and re-add these (including former catalog adoptions after delete).
 _Avoid_: Custom checklist, personal protocol, saved template
 
+**Template Catalog**:
+The in-app collection of Procedure Templates available to adopt. The picker hides or disables templates already present in the Procedures List (match by `originId` or title) with “Já adicionado”.
+_Avoid_: Library (unqualified), procedures list (when meaning the catalog)
+
 **Procedures List**:
-The combined view of Built-in Procedures plus User Procedures, searchable by title.
-_Avoid_: Library, catalog (when meaning this combined list)
+The searchable view of User Procedures only (what the user has added or created). Does not auto-include Procedure Templates.
+_Avoid_: Catalog (when meaning this user list), combined builtins+users list
+
+**Catalog migration** (`@dose_segura_procedures_catalog_v1`):
+One-time upgrade seed: when the flag is absent, missing catalog templates are adopted into user storage so existing installs keep CVP/SNG after templates stop being auto-merged. After the flag is set, delete + re-add from the catalog works without re-seeding.
+_Avoid_: Soft reset, builtins merge
 
 ### Data sources
 
