@@ -20,7 +20,7 @@ test.describe('Nursing procedures', () => {
     await expect(page.getByTestId('procedures-screen')).toBeVisible();
     await expect(page.getByText('Cateterismo venoso periférico')).toBeVisible();
     await expect(page.getByText('Sondagem nasogástrica')).toBeVisible();
-    await expect(page.getByText(Strings.pt.procedures.userBadge).first()).toBeVisible();
+    await expect(page.getByText(Strings.pt.procedures.builtinBadge).first()).toBeVisible();
 
     await page.getByText('Cateterismo venoso periférico').click();
     await expect(page.getByTestId('procedure-detail')).toBeVisible();
@@ -63,7 +63,7 @@ test.describe('Nursing procedures', () => {
     await page.getByTestId('catalog-add-builtin-cateterismo-venoso-periferico').click();
     await expect(page.getByTestId('procedure-detail')).toBeVisible();
     await expect(page.getByTestId('procedure-title')).toHaveText('Cateterismo venoso periférico');
-    await expect(page.getByTestId('procedure-user-badge')).toBeVisible();
+    await expect(page.getByTestId('procedure-builtin-badge')).toBeVisible();
     await expect(page.getByTestId('procedure-edit')).toBeVisible();
 
     await page.goto('/procedures');

@@ -8,6 +8,7 @@ import {
   availableCatalogTemplates,
   createUserProcedureId,
   duplicateAsUserProcedure,
+  isCatalogOrigin,
   isCatalogTemplateAdopted,
   mergeLoadedProcedures,
   mergeProcedures,
@@ -192,6 +193,19 @@ describe('procedures domain', () => {
     expect(adopted.title).toBe('Cateterismo venoso periférico');
     expect(adopted.originId).toBe(BUILTIN_CVP_ID);
     expect(adopted.source).toBe('user');
+  });
+
+  it('treats catalog templates and adopted copies as catalog origin for badges', () => {
+    expect(isCatalogOrigin(builtinProcedures[0]!)).toBe(true);
+    const adopted = adoptFromCatalog(builtinProcedures[0]!);
+    expect(isCatalogOrigin(adopted)).toBe(true);
+    expect(isCatalogOrigin(userProcedure)).toBe(false);
+    expect(
+      isCatalogOrigin({
+        ...userProcedure,
+        originId: 'not-a-catalog-id',
+      }),
+    ).toBe(false);
   });
 
   it('keeps only pending in-memory upserts when applying disk state', () => {

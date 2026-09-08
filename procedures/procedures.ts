@@ -302,3 +302,20 @@ export function findCatalogTemplate(
 ): Procedure | undefined {
   return templates.find((template) => template.id === id);
 }
+
+/**
+ * True for catalog templates and for user procedures adopted/duplicated from the catalog
+ * (originId matches a builtin template id). Pure user-created items return false.
+ */
+export function isCatalogOrigin(
+  procedure: Procedure,
+  templates: readonly Procedure[] = builtinProcedures,
+): boolean {
+  if (procedure.source === 'builtin') {
+    return true;
+  }
+  if (!procedure.originId) {
+    return false;
+  }
+  return findCatalogTemplate(procedure.originId, templates) !== undefined;
+}

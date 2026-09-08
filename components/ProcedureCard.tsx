@@ -6,6 +6,7 @@ import { ThemedText } from '@/components/ThemedText';
 import { Colors } from '@/constants/Colors';
 import { pastelCardShadowStrong } from '@/constants/Shadows';
 import { useColorScheme } from '@/hooks/useColorScheme';
+import { isCatalogOrigin } from '@/procedures/procedures';
 import type { Procedure } from '@/types/procedure';
 import i18n from '@/utils/i18n';
 
@@ -16,9 +17,11 @@ interface ProcedureCardProps {
 function ProcedureCardComponent({ procedure }: ProcedureCardProps) {
   const colorScheme = useColorScheme();
   const colors = Colors[colorScheme ?? 'light'];
-  const isBuiltin = procedure.source === 'builtin';
-  const badgeBackground = isBuiltin ? colors.lavender : colors.mint;
-  const badgeLabel = isBuiltin ? i18n.t('procedures.builtinBadge') : i18n.t('procedures.userBadge');
+  const showCatalogBadge = isCatalogOrigin(procedure);
+  const badgeBackground = showCatalogBadge ? colors.lavender : colors.mint;
+  const badgeLabel = showCatalogBadge
+    ? i18n.t('procedures.builtinBadge')
+    : i18n.t('procedures.userBadge');
 
   return (
     <Link href={`/procedure/${procedure.id}`} asChild>

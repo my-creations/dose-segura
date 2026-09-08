@@ -6,11 +6,12 @@ import { router, useLocalSearchParams } from 'expo-router';
 import ProcedureDetailScreen from '@/app/procedure/[id]';
 import { Colors } from '@/constants/Colors';
 import { ProceduresProvider } from '@/context/ProceduresContext';
-import { BUILTIN_CVP_ID } from '@/procedures/builtin';
+import { BUILTIN_CVP_ID, builtinProcedures } from '@/procedures/builtin';
 import {
   CATALOG_MIGRATION_KEY,
   CATALOG_MIGRATION_VALUE,
   STORAGE_KEY,
+  adoptFromCatalog,
 } from '@/procedures/procedures';
 import { createMemoryKeyValueStore } from '@/storage/types';
 import type { Procedure } from '@/types/procedure';
@@ -99,6 +100,27 @@ describe('ProcedureDetailScreen', () => {
       window.confirm = previousConfirm;
       alertSpy.mockRestore();
     }
+  });
+
+  it('shows Modelo badge for an adopted catalog procedure while keeping user actions', async () => {
+    const adopted = adoptFromCatalog(builtinProcedures[0]!);
+    const store = createMemoryKeyValueStore({
+      [CATALOG_MIGRATION_KEY]: CATALOG_MIGRATION_VALUE,
+      [STORAGE_KEY]: JSON.stringify([adopted]),
+    });
+    renderDetail(adopted.id, store);
+
+    await waitFor(() => {
+      expect(screen.getByTestId('procedure-detail')).toBeTruthy();
+    });
+    expect(screen.getByTestId('procedure-title').props.children).toBe(
+      'Cateterismo venoso periférico',
+    );
+    expect(screen.getByTestId('procedure-builtin-badge')).toBeTruthy();
+    expect(screen.queryByTestId('procedure-user-badge')).toBeNull();
+    expect(screen.getByTestId('procedure-edit')).toBeTruthy();
+    expect(screen.getByTestId('procedure-delete')).toBeTruthy();
+    expect(screen.queryByTestId('procedure-add-from-catalog')).toBeNull();
   });
 
   it('shows not-found for an unknown id', async () => {

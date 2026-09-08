@@ -10,6 +10,7 @@ import { Colors } from '@/constants/Colors';
 import { pastelCardShadow } from '@/constants/Shadows';
 import { useColorScheme } from '@/hooks/useColorScheme';
 import { useProcedures } from '@/hooks/useProcedures';
+import { isCatalogOrigin } from '@/procedures/procedures';
 import i18n from '@/utils/i18n';
 
 export default function ProcedureDetailScreen() {
@@ -108,6 +109,7 @@ export default function ProcedureDetailScreen() {
   }
 
   const isBuiltin = procedure.source === 'builtin';
+  const showCatalogBadge = isCatalogOrigin(procedure);
 
   return (
     <>
@@ -133,11 +135,16 @@ export default function ProcedureDetailScreen() {
             {procedure.title}
           </ThemedText>
           <View
-            style={[styles.badge, { backgroundColor: isBuiltin ? colors.lavender : colors.mint }]}
-            testID={isBuiltin ? 'procedure-builtin-badge' : 'procedure-user-badge'}
+            style={[
+              styles.badge,
+              { backgroundColor: showCatalogBadge ? colors.lavender : colors.mint },
+            ]}
+            testID={showCatalogBadge ? 'procedure-builtin-badge' : 'procedure-user-badge'}
           >
             <ThemedText style={[styles.badgeText, { color: colors.textDark }]}>
-              {isBuiltin ? i18n.t('procedures.builtinBadge') : i18n.t('procedures.userBadge')}
+              {showCatalogBadge
+                ? i18n.t('procedures.builtinBadge')
+                : i18n.t('procedures.userBadge')}
             </ThemedText>
           </View>
         </View>
