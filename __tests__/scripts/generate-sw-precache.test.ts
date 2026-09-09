@@ -8,6 +8,7 @@ import {
   generateServiceWorker,
   getSpaFallbackUrl,
   normalizeBasePath,
+  renderServiceWorker,
   shouldPrecacheFile,
   toPrecacheUrl,
 } from '../../scripts/generate-sw-precache';
@@ -100,6 +101,29 @@ describe('generate-sw-precache helpers', () => {
     } finally {
       fs.rmSync(distDir, { recursive: true, force: true });
     }
+  });
+
+  it('does not overwrite SPA_FALLBACK with arbitrary navigation HTML', () => {
+    const swSource = renderServiceWorker({
+      basePath: '/dose-segura',
+      cacheVersion: 'dose-segura-test',
+      precacheUrls: ['/dose-segura/', '/dose-segura/index.html'],
+    });
+
+    expect(swSource).toContain('const SPA_FALLBACK = "/dose-segura/index.html"');
+    // Offline navigations must always resolve to the precached shell index.
+    expect(swSource).toContain('caches.match(SPA_FALLBACK)');
+    // Successful navigations must not cache.put into SPA_FALLBACK (route HTML poisoning).
+    expect(swSource).not.toMatch(/cache\.put\(\s*SPA_FALLBACK\s*,/);
+
+    // Isolate the navigation fetch handler: offline path must not fall back to the
+    // requested deep-route URL (which could be non-index HTML).
+    const navHandler = swSource.match(
+      /if \(isAppNavigation\(request, url\)\) \{[\s\S]*?return;\n  \}/,
+    )?.[0];
+    expect(navHandler).toBeTruthy();
+    expect(navHandler).not.toMatch(/caches\.match\(\s*request\s*\)/);
+    expect(navHandler).toContain('caches.match(SPA_FALLBACK)');
   });
 
   it('busts cacheVersion when meds-full.json content changes with the same URL list', () => {

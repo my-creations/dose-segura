@@ -215,17 +215,16 @@ self.addEventListener('fetch', (event) => {
     event.respondWith(
       (async () => {
         try {
-          const networkResponse = await fetch(request);
-          if (networkResponse && networkResponse.ok) {
-            const cache = await caches.open(CACHE_VERSION);
-            cache.put(SPA_FALLBACK, networkResponse.clone());
-          }
-          return networkResponse;
+          // Network-first for navigations. Never write arbitrary route HTML into
+          // SPA_FALLBACK — deep Expo static routes can return different shells
+          // than /index.html and would poison offline fallback.
+          return await fetch(request);
         } catch (error) {
+          // Always serve the precached SPA shell for same-origin app navigations.
           const cached =
             (await caches.match(SPA_FALLBACK)) ||
             (await caches.match(BASE_PATH + '/')) ||
-            (await caches.match(request));
+            (await caches.match(BASE_PATH + '/index.html'));
           if (cached) {
             return cached;
           }
