@@ -4,6 +4,7 @@ import path from 'path';
 
 import {
   buildPrecacheManifest,
+  createCacheVersion,
   generateServiceWorker,
   getSpaFallbackUrl,
   normalizeBasePath,
@@ -62,7 +63,7 @@ describe('generate-sw-precache helpers', () => {
       fs.writeFileSync(path.join(distDir, '.nojekyll'), '');
       fs.writeFileSync(path.join(distDir, 'sw.js'), 'old');
 
-      const urls = buildPrecacheManifest({ distDir, basePath: '/dose-segura' });
+      const { urls, contentDigest } = buildPrecacheManifest({ distDir, basePath: '/dose-segura' });
 
       expect(urls).toContain('/dose-segura/');
       expect(urls).toContain('/dose-segura/index.html');
@@ -74,6 +75,7 @@ describe('generate-sw-precache helpers', () => {
       expect(urls).not.toContain('/dose-segura/sw.js');
       expect(urls).not.toContain('/dose-segura/.nojekyll');
       expect([...urls].sort()).toEqual(urls);
+      expect(contentDigest).toMatch(/^[a-f0-9]{64}$/);
     } finally {
       fs.rmSync(distDir, { recursive: true, force: true });
     }
@@ -95,6 +97,26 @@ describe('generate-sw-precache helpers', () => {
       expect(swSource).toContain('skipWaiting');
       expect(swSource).toContain('clients.claim');
       expect(fs.existsSync(result.manifestPath)).toBe(true);
+    } finally {
+      fs.rmSync(distDir, { recursive: true, force: true });
+    }
+  });
+
+  it('busts cacheVersion when meds-full.json content changes with the same URL list', () => {
+    const distDir = fs.mkdtempSync(path.join(os.tmpdir(), 'dose-sw-bust-'));
+    try {
+      fs.writeFileSync(path.join(distDir, 'index.html'), '<html></html>');
+      fs.writeFileSync(path.join(distDir, 'meds-full.json'), '{"v":1}');
+
+      const first = generateServiceWorker({ distDir, basePath: '/dose-segura' });
+      fs.writeFileSync(path.join(distDir, 'meds-full.json'), '{"v":2}');
+      const second = generateServiceWorker({ distDir, basePath: '/dose-segura' });
+
+      expect(first.precacheUrls).toEqual(second.precacheUrls);
+      expect(first.cacheVersion).not.toEqual(second.cacheVersion);
+      expect(createCacheVersion(first.precacheUrls, 'aaa')).not.toEqual(
+        createCacheVersion(first.precacheUrls, 'bbb'),
+      );
     } finally {
       fs.rmSync(distDir, { recursive: true, force: true });
     }

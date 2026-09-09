@@ -98,7 +98,7 @@ function shouldPrecacheFile(relativePath) {
  * Build absolute URL paths to precache from a dist directory listing.
  * Always includes the SPA index URL even if only discovered as `/`.
  * @param {{ distDir: string, basePath?: string }} [options]
- * @returns {string[]}
+ * @returns {{ urls: string[], contentDigest: string }}
  */
 function buildPrecacheManifest({ distDir, basePath = DEFAULT_BASE_PATH } = {}) {
   if (!distDir || !fs.existsSync(distDir)) {
@@ -107,6 +107,7 @@ function buildPrecacheManifest({ distDir, basePath = DEFAULT_BASE_PATH } = {}) {
 
   const base = normalizeBasePath(basePath);
   const urls = new Set();
+  const contentHash = crypto.createHash('sha256');
 
   urls.add(toPrecacheUrl(base, 'index.html'));
   urls.add(`${base}/`);
@@ -117,13 +118,29 @@ function buildPrecacheManifest({ distDir, basePath = DEFAULT_BASE_PATH } = {}) {
       continue;
     }
     urls.add(toPrecacheUrl(base, relativePath));
+    // Fingerprint file bytes so unhashed payloads (meds-full.json, HTML shells)
+    // bust CACHE_VERSION even when the URL list is unchanged.
+    const normalized = relativePath.split(path.sep).join('/');
+    contentHash.update(normalized);
+    contentHash.update('\0');
+    contentHash.update(fs.readFileSync(absolutePath));
+    contentHash.update('\0');
   }
 
-  return [...urls].sort((a, b) => a.localeCompare(b));
+  return {
+    urls: [...urls].sort((a, b) => a.localeCompare(b)),
+    contentDigest: contentHash.digest('hex'),
+  };
 }
 
-function createCacheVersion(urls) {
-  const hash = crypto.createHash('sha256').update(urls.join('\n')).digest('hex').slice(0, 12);
+function createCacheVersion(urls, contentDigest = '') {
+  const hash = crypto
+    .createHash('sha256')
+    .update(urls.join('\n'))
+    .update('\n')
+    .update(contentDigest)
+    .digest('hex')
+    .slice(0, 12);
   return `dose-segura-${hash}`;
 }
 
@@ -249,8 +266,8 @@ self.addEventListener('fetch', (event) => {
  * @param {{ distDir?: string, basePath?: string }} [options]
  */
 function generateServiceWorker({ distDir = DEFAULT_DIST_DIR, basePath = DEFAULT_BASE_PATH } = {}) {
-  const precacheUrls = buildPrecacheManifest({ distDir, basePath });
-  const cacheVersion = createCacheVersion(precacheUrls);
+  const { urls: precacheUrls, contentDigest } = buildPrecacheManifest({ distDir, basePath });
+  const cacheVersion = createCacheVersion(precacheUrls, contentDigest);
   const swSource = renderServiceWorker({ basePath, cacheVersion, precacheUrls });
   const swPath = path.join(distDir, 'sw.js');
   const manifestPath = path.join(distDir, 'sw-precache-manifest.json');
