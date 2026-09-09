@@ -10,12 +10,21 @@ import { Colors } from '@/constants/Colors';
 import { pastelCardShadow } from '@/constants/Shadows';
 import { useColorScheme } from '@/hooks/useColorScheme';
 import { useProcedures } from '@/hooks/useProcedures';
+import { isCatalogOrigin } from '@/procedures/procedures';
 import i18n from '@/utils/i18n';
 
 export default function ProcedureDetailScreen() {
   const { id } = useLocalSearchParams<{ id: string }>();
-  const { getProcedure, duplicateProcedure, deleteProcedure, isLoading, lastError } =
-    useProcedures();
+  const {
+    getProcedure,
+    duplicateProcedure,
+    deleteProcedure,
+    addFromCatalog,
+    isTemplateAdopted,
+    isLoading,
+    lastError,
+    storageReady,
+  } = useProcedures();
   const colorScheme = useColorScheme();
   const colors = Colors[colorScheme ?? 'light'];
   const isDark = colorScheme === 'dark';
@@ -33,6 +42,17 @@ export default function ProcedureDetailScreen() {
       router.replace(`/procedure/${copy.id}`);
     }
   }, [duplicateProcedure, id]);
+
+  const handleAddFromCatalog = useCallback(() => {
+    if (!id || !storageReady) {
+      return;
+    }
+
+    const adopted = addFromCatalog(id);
+    if (adopted) {
+      router.replace(`/procedure/${adopted.id}`);
+    }
+  }, [addFromCatalog, id, storageReady]);
 
   const handleDelete = useCallback(() => {
     if (!procedure || procedure.source !== 'user') {
@@ -89,6 +109,7 @@ export default function ProcedureDetailScreen() {
   }
 
   const isBuiltin = procedure.source === 'builtin';
+  const showCatalogBadge = isCatalogOrigin(procedure);
 
   return (
     <>
@@ -114,11 +135,16 @@ export default function ProcedureDetailScreen() {
             {procedure.title}
           </ThemedText>
           <View
-            style={[styles.badge, { backgroundColor: isBuiltin ? colors.lavender : colors.mint }]}
-            testID={isBuiltin ? 'procedure-builtin-badge' : 'procedure-user-badge'}
+            style={[
+              styles.badge,
+              { backgroundColor: showCatalogBadge ? colors.lavender : colors.mint },
+            ]}
+            testID={showCatalogBadge ? 'procedure-builtin-badge' : 'procedure-user-badge'}
           >
             <ThemedText style={[styles.badgeText, { color: colors.textDark }]}>
-              {isBuiltin ? i18n.t('procedures.builtinBadge') : i18n.t('procedures.userBadge')}
+              {showCatalogBadge
+                ? i18n.t('procedures.builtinBadge')
+                : i18n.t('procedures.userBadge')}
             </ThemedText>
           </View>
         </View>
@@ -156,19 +182,41 @@ export default function ProcedureDetailScreen() {
         </View>
 
         <View style={styles.actions}>
-          <Pressable
-            style={[styles.actionButton, { backgroundColor: colors.sky }]}
-            onPress={handleDuplicate}
-            testID="procedure-duplicate"
-          >
-            <Ionicons name="copy-outline" size={18} color={colors.textDark} />
-            <ThemedText style={[styles.actionLabel, { color: colors.textDark }]}>
-              {i18n.t('procedures.duplicate')}
-            </ThemedText>
-          </Pressable>
-
-          {isBuiltin ? null : (
+          {isBuiltin ? (
+            isTemplateAdopted(procedure.id) ? (
+              <View
+                style={[styles.actionButton, { backgroundColor: colors.mint + '55' }]}
+                testID="procedure-already-added"
+              >
+                <Ionicons name="checkmark-circle" size={18} color={colors.textDark} />
+                <ThemedText style={[styles.actionLabel, { color: colors.textDark }]}>
+                  {i18n.t('procedures.alreadyAdded')}
+                </ThemedText>
+              </View>
+            ) : (
+              <Pressable
+                style={[styles.actionButton, { backgroundColor: primaryButtonBackground }]}
+                onPress={handleAddFromCatalog}
+                testID="procedure-add-from-catalog"
+              >
+                <Ionicons name="add-circle-outline" size={18} color={primaryButtonLabel} />
+                <ThemedText style={[styles.actionLabel, { color: primaryButtonLabel }]}>
+                  {i18n.t('procedures.addFromCatalog')}
+                </ThemedText>
+              </Pressable>
+            )
+          ) : (
             <>
+              <Pressable
+                style={[styles.actionButton, { backgroundColor: colors.sky }]}
+                onPress={handleDuplicate}
+                testID="procedure-duplicate"
+              >
+                <Ionicons name="copy-outline" size={18} color={colors.textDark} />
+                <ThemedText style={[styles.actionLabel, { color: colors.textDark }]}>
+                  {i18n.t('procedures.duplicate')}
+                </ThemedText>
+              </Pressable>
               <Pressable
                 style={[styles.actionButton, { backgroundColor: colors.lavender }]}
                 onPress={() =>

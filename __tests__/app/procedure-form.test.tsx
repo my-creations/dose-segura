@@ -7,7 +7,11 @@ import ProcedureFormScreen from '@/app/procedure/form';
 import { Colors } from '@/constants/Colors';
 import { ProceduresProvider } from '@/context/ProceduresContext';
 import { BUILTIN_CVP_ID } from '@/procedures/builtin';
-import { STORAGE_KEY } from '@/procedures/procedures';
+import {
+  CATALOG_MIGRATION_KEY,
+  CATALOG_MIGRATION_VALUE,
+  STORAGE_KEY,
+} from '@/procedures/procedures';
 import { createMemoryKeyValueStore, type KeyValueStore } from '@/storage/types';
 import type { Procedure } from '@/types/procedure';
 import i18n from '@/utils/i18n';
@@ -61,7 +65,14 @@ function installWindowStorageEvents() {
   };
 }
 
-function renderForm(params: { id?: string } = {}, store = createMemoryKeyValueStore()) {
+function migratedStore(initial: Record<string, string> = {}) {
+  return createMemoryKeyValueStore({
+    [CATALOG_MIGRATION_KEY]: CATALOG_MIGRATION_VALUE,
+    ...initial,
+  });
+}
+
+function renderForm(params: { id?: string } = {}, store = migratedStore()) {
   jest.mocked(useLocalSearchParams).mockReturnValue(params);
   render(
     <ProceduresProvider store={store}>
@@ -106,7 +117,7 @@ describe('ProcedureFormScreen', () => {
   });
 
   it('goes back after editing an existing user procedure', async () => {
-    const store = createMemoryKeyValueStore({
+    const store = migratedStore({
       [STORAGE_KEY]: JSON.stringify([storedUser]),
     });
     renderForm({ id: storedUser.id }, store);
@@ -139,11 +150,20 @@ describe('ProcedureFormScreen', () => {
 
   it('shows loading then not-found for an unknown id, never a blank create form', async () => {
     let release: ((value: string | null) => void) | undefined;
+    let storageLoadStarted = false;
     const store: KeyValueStore = {
-      getItem: () =>
-        new Promise((resolve) => {
-          release = resolve;
-        }),
+      getItem: (key) => {
+        if (key === CATALOG_MIGRATION_KEY) {
+          return Promise.resolve(CATALOG_MIGRATION_VALUE);
+        }
+        if (!storageLoadStarted) {
+          storageLoadStarted = true;
+          return new Promise((resolve) => {
+            release = resolve;
+          });
+        }
+        return Promise.resolve(null);
+      },
       setItem: async () => {},
     };
 
@@ -217,7 +237,7 @@ describe('ProcedureFormScreen', () => {
   it('preserves dirty form fields when another tab writes storage', async () => {
     const restore = installWindowStorageEvents();
     try {
-      const store = createMemoryKeyValueStore({
+      const store = migratedStore({
         [STORAGE_KEY]: JSON.stringify([storedUser]),
       });
       renderForm({ id: storedUser.id }, store);

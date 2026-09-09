@@ -3,8 +3,13 @@ import { Pressable, Text } from 'react-native';
 import { act, fireEvent, render, screen, waitFor } from '@testing-library/react-native';
 
 import { ProceduresProvider, useProcedures } from '@/context/ProceduresContext';
-import { BUILTIN_CVP_ID, builtinProcedures } from '@/procedures/builtin';
-import { STORAGE_KEY, parseProcedures } from '@/procedures/procedures';
+import { BUILTIN_CVP_ID, BUILTIN_SNG_ID, builtinProcedures } from '@/procedures/builtin';
+import {
+  CATALOG_MIGRATION_KEY,
+  CATALOG_MIGRATION_VALUE,
+  STORAGE_KEY,
+  parseProcedures,
+} from '@/procedures/procedures';
 import { createKeyValueStore as createWebKeyValueStore } from '@/storage/keyValueStore.web';
 import { createMemoryKeyValueStore, type KeyValueStore } from '@/storage/types';
 import type { Procedure } from '@/types/procedure';
@@ -26,6 +31,7 @@ let lastDuplicate: Procedure | null = null;
 let lastCreate: Procedure | null = null;
 let lastUpdate: Procedure | null = null;
 let lastDelete: boolean | null = null;
+let lastAddFromCatalog: Procedure | null = null;
 
 function ProceduresProbe() {
   const {
@@ -38,6 +44,9 @@ function ProceduresProbe() {
     updateProcedure,
     deleteProcedure,
     duplicateProcedure,
+    addFromCatalog,
+    getAvailableCatalogTemplates,
+    isTemplateAdopted,
     search,
   } = useProcedures();
 
@@ -75,6 +84,10 @@ function ProceduresProbe() {
       <Text testID="search-empty">{String(search('   ').length)}</Text>
       <Text testID="search-blank">{String(search('').length)}</Text>
       <Text testID="search-unknown">{String(search('inexistente-xyz').length)}</Text>
+      <Text testID="available-catalog-count">{String(getAvailableCatalogTemplates().length)}</Text>
+      <Text testID="cvp-adopted">{isTemplateAdopted(BUILTIN_CVP_ID) ? 'yes' : 'no'}</Text>
+      <Text testID="last-add-id">{lastAddFromCatalog?.id ?? ''}</Text>
+      <Text testID="last-add-title">{lastAddFromCatalog?.title ?? ''}</Text>
       <Pressable
         testID="create"
         onPress={() => {
@@ -186,11 +199,55 @@ function ProceduresProbe() {
       >
         <Text>delete-user</Text>
       </Pressable>
+      <Pressable
+        testID="add-cvp-catalog"
+        onPress={() => {
+          lastAddFromCatalog = addFromCatalog(BUILTIN_CVP_ID);
+        }}
+      >
+        <Text>add-cvp</Text>
+      </Pressable>
+      <Pressable
+        testID="add-sng-catalog"
+        onPress={() => {
+          lastAddFromCatalog = addFromCatalog(BUILTIN_SNG_ID);
+        }}
+      >
+        <Text>add-sng</Text>
+      </Pressable>
+      <Pressable
+        testID="add-missing-catalog"
+        onPress={() => {
+          lastAddFromCatalog = addFromCatalog('builtin-missing');
+        }}
+      >
+        <Text>add-missing</Text>
+      </Pressable>
+      <Pressable
+        testID="delete-by-origin-cvp"
+        onPress={() => {
+          const user = procedures.find((procedure) => procedure.originId === BUILTIN_CVP_ID);
+          if (!user) {
+            lastDelete = false;
+            return;
+          }
+          lastDelete = deleteProcedure(user.id);
+        }}
+      >
+        <Text>delete-origin-cvp</Text>
+      </Pressable>
     </>
   );
 }
 
-function renderProcedures(store: KeyValueStore = createMemoryKeyValueStore()) {
+function migratedStore(initial: Record<string, string> = {}) {
+  return createMemoryKeyValueStore({
+    [CATALOG_MIGRATION_KEY]: CATALOG_MIGRATION_VALUE,
+    ...initial,
+  });
+}
+
+function renderProcedures(store: KeyValueStore = migratedStore()) {
   render(
     <ProceduresProvider store={store}>
       <ProceduresProbe />
@@ -253,19 +310,42 @@ describe('useProcedures', () => {
     lastDuplicate = null;
     lastUpdate = null;
     lastDelete = null;
+    lastAddFromCatalog = null;
   });
 
-  it('loads built-in starters even with empty storage', async () => {
+  it('keeps the procedures list empty when migration already ran with no users', async () => {
     renderProcedures();
     await waitUntilReady();
 
     expect(textOf('cvp-title')).toBe('Cateterismo venoso periférico');
     expect(textOf('user-count')).toBe('0');
-    expect(textOf('ids')).toContain(BUILTIN_CVP_ID);
-    expect(textOf('search-sng')).toContain('builtin-sondagem-nasogastrica');
+    expect(textOf('ids')).not.toContain(BUILTIN_CVP_ID);
+    expect(textOf('search-sng')).toBe('');
+    expect(textOf('available-catalog-count')).toBe(String(builtinProcedures.length));
+    expect(textOf('cvp-adopted')).toBe('no');
   });
 
-  it('loads user procedures from storage and keeps built-ins read-only', async () => {
+  it('seeds catalog templates once for upgrades before the migration flag exists', async () => {
+    const store = createMemoryKeyValueStore();
+    renderProcedures(store);
+    await waitUntilReady();
+
+    expect(textOf('user-count')).toBe(String(builtinProcedures.length));
+    expect(textOf('cvp-adopted')).toBe('yes');
+    expect(textOf('available-catalog-count')).toBe('0');
+    expect(textOf('ids')).not.toContain(BUILTIN_CVP_ID);
+    expect(textOf('search-sng')).toMatch(/^user-/);
+
+    await waitForStored(store, (users) => {
+      expect(users).toHaveLength(builtinProcedures.length);
+      expect(users.map((procedure) => procedure.originId).sort()).toEqual(
+        builtinProcedures.map((item) => item.id).sort(),
+      );
+    });
+    expect(await store.getItem(CATALOG_MIGRATION_KEY)).toBe(CATALOG_MIGRATION_VALUE);
+  });
+
+  it('loads user procedures from storage without auto-listing catalog templates', async () => {
     const stored: Procedure = {
       id: 'user-stored',
       title: 'Meu procedimento',
@@ -275,7 +355,7 @@ describe('useProcedures', () => {
       source: 'user',
       updatedAt: '2026-09-02T00:00:00.000Z',
     };
-    const store = createMemoryKeyValueStore({
+    const store = migratedStore({
       [STORAGE_KEY]: JSON.stringify([stored, builtinProcedures[0]]),
     });
 
@@ -285,10 +365,11 @@ describe('useProcedures', () => {
     expect(textOf('ids')).toContain('user-stored');
     expect(textOf('cvp-title')).toBe('Cateterismo venoso periférico');
     expect(textOf('user-count')).toBe('1');
+    expect(textOf('ids')).not.toContain(BUILTIN_CVP_ID);
   });
 
   it('creates, updates, duplicates and deletes user procedures while persisting only user copies', async () => {
-    const store = createMemoryKeyValueStore();
+    const store = migratedStore();
     renderProcedures(store);
     await waitUntilReady();
 
@@ -358,13 +439,19 @@ describe('useProcedures', () => {
       updatedAt: '2026-09-02T00:00:00.000Z',
     };
     let persisted: string | null = JSON.stringify([storedUser]);
+    const migration = CATALOG_MIGRATION_VALUE;
     let release: ((value: string | null) => void) | undefined;
     let loadStarted = false;
-    const setItem = jest.fn(async (_key: string, value: string) => {
-      persisted = value;
+    const setItem = jest.fn(async (key: string, value: string) => {
+      if (key === STORAGE_KEY) {
+        persisted = value;
+      }
     });
     const store: KeyValueStore = {
-      getItem: () => {
+      getItem: (key: string) => {
+        if (key === CATALOG_MIGRATION_KEY) {
+          return Promise.resolve(migration);
+        }
         if (!loadStarted) {
           loadStarted = true;
           return new Promise((resolve) => {
@@ -463,7 +550,7 @@ describe('useProcedures', () => {
       source: 'user',
       updatedAt: '2026-09-02T00:00:00.000Z',
     };
-    const store = createMemoryKeyValueStore();
+    const store = migratedStore();
     renderProcedures(store);
     await waitUntilReady();
 
@@ -521,7 +608,7 @@ describe('useProcedures', () => {
   it('preserves pending local creates across storage events', async () => {
     const restore = installWindowStorageEvents();
     try {
-      const inner = createMemoryKeyValueStore();
+      const inner = migratedStore();
       let blockPersistGets = false;
       const pendingGets: Array<(value: string | null) => void> = [];
       const store: KeyValueStore = {
@@ -603,7 +690,7 @@ describe('useProcedures', () => {
         source: 'user',
         updatedAt: '2026-09-02T00:00:00.000Z',
       };
-      const store = createMemoryKeyValueStore({
+      const store = migratedStore({
         [STORAGE_KEY]: JSON.stringify([stored]),
       });
       renderProcedures(store);
@@ -657,7 +744,7 @@ describe('useProcedures', () => {
   });
 
   it('strips blank list items instead of persisting empty strings', async () => {
-    const store = createMemoryKeyValueStore();
+    const store = migratedStore();
     renderProcedures(store);
     await waitUntilReady();
 
@@ -678,16 +765,51 @@ describe('useProcedures', () => {
     renderProcedures();
     await waitUntilReady();
 
-    expect(textOf('search-cvp-padded')).toContain(BUILTIN_CVP_ID);
-    expect(Number(textOf('search-empty'))).toBe(builtinProcedures.length);
-    expect(Number(textOf('search-blank'))).toBe(builtinProcedures.length);
+    expect(textOf('search-cvp-padded')).toBe('');
+    expect(Number(textOf('search-empty'))).toBe(0);
+    expect(Number(textOf('search-blank'))).toBe(0);
     expect(textOf('search-unknown')).toBe('0');
+
+    fireEvent.press(screen.getByTestId('add-cvp-catalog'));
+    expect(textOf('search-cvp-padded')).toMatch(/^user-/);
+    expect(Number(textOf('search-empty'))).toBe(1);
+  });
+
+  it('adds from catalog, blocks duplicates, and allows re-add after delete', async () => {
+    const store = migratedStore();
+    renderProcedures(store);
+    await waitUntilReady();
+
+    fireEvent.press(screen.getByTestId('add-missing-catalog'));
+    expect(lastAddFromCatalog).toBeNull();
+
+    fireEvent.press(screen.getByTestId('add-cvp-catalog'));
+    expect(lastAddFromCatalog?.originId).toBe(BUILTIN_CVP_ID);
+    expect(lastAddFromCatalog?.title).toBe('Cateterismo venoso periférico');
+    expect(textOf('user-count')).toBe('1');
+    expect(textOf('cvp-adopted')).toBe('yes');
+    expect(textOf('available-catalog-count')).toBe(String(builtinProcedures.length - 1));
+
+    fireEvent.press(screen.getByTestId('add-cvp-catalog'));
+    expect(textOf('user-count')).toBe('1');
+
+    fireEvent.press(screen.getByTestId('delete-by-origin-cvp'));
+    expect(textOf('user-count')).toBe('0');
+    expect(textOf('cvp-adopted')).toBe('no');
+
+    fireEvent.press(screen.getByTestId('add-cvp-catalog'));
+    expect(textOf('user-count')).toBe('1');
+    expect(textOf('last-add-title')).toBe('Cateterismo venoso periférico');
+
+    await waitForStored(store, (users) => {
+      expect(users.some((procedure) => procedure.originId === BUILTIN_CVP_ID)).toBe(true);
+    });
   });
 
   it('surfaces persist failure instead of treating save as durable success', async () => {
     const errorSpy = jest.spyOn(console, 'error').mockImplementation(() => {});
     const store: KeyValueStore = {
-      getItem: async () => null,
+      getItem: async (key) => (key === CATALOG_MIGRATION_KEY ? CATALOG_MIGRATION_VALUE : null),
       setItem: async () => {
         throw new Error('disk full');
       },
@@ -713,7 +835,7 @@ describe('useProcedures', () => {
 
   it('persists a failed create when a later duplicate succeeds', async () => {
     const errorSpy = jest.spyOn(console, 'error').mockImplementation(() => {});
-    const inner = createMemoryKeyValueStore();
+    const inner = migratedStore();
     let failNext = true;
     const store: KeyValueStore = {
       getItem: (key) => inner.getItem(key),
@@ -754,7 +876,7 @@ describe('useProcedures', () => {
 
   it('clears lastError when a queued persist succeeds after a failed one', async () => {
     const errorSpy = jest.spyOn(console, 'error').mockImplementation(() => {});
-    const inner = createMemoryKeyValueStore();
+    const inner = migratedStore();
     let failures = 0;
     const store: KeyValueStore = {
       getItem: (key) => inner.getItem(key),
@@ -792,7 +914,7 @@ describe('useProcedures', () => {
   it('keeps lastError when retrying the full list still fails', async () => {
     const errorSpy = jest.spyOn(console, 'error').mockImplementation(() => {});
     const store: KeyValueStore = {
-      getItem: async () => null,
+      getItem: async (key) => (key === CATALOG_MIGRATION_KEY ? CATALOG_MIGRATION_VALUE : null),
       setItem: async () => {
         throw new Error('disk full');
       },
@@ -826,7 +948,7 @@ describe('useProcedures', () => {
       source: 'user',
       updatedAt: '2026-09-02T00:00:00.000Z',
     };
-    const inner = createMemoryKeyValueStore();
+    const inner = migratedStore();
     let interfereNextGet = false;
     let interfered = false;
     const store: KeyValueStore = {
@@ -862,7 +984,7 @@ describe('useProcedures', () => {
     Object.defineProperty(window, 'localStorage', {
       configurable: true,
       value: {
-        getItem: () => null,
+        getItem: (key: string) => (key === CATALOG_MIGRATION_KEY ? CATALOG_MIGRATION_VALUE : null),
         setItem: () => {
           throw new Error('QuotaExceededError');
         },

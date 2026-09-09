@@ -10,7 +10,7 @@ export interface ProcedureDraft {
 export interface Procedure extends ProcedureDraft {
   id: string;
   source: ProcedureSource;
-  /** Built-in id this user copy was duplicated from, when applicable. */
+  /** Catalog template id this user procedure was adopted/duplicated from, when applicable. */
   originId?: string;
   updatedAt: string;
 }

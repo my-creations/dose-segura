@@ -10,12 +10,19 @@ import React, {
 
 import { builtinProcedures } from '@/procedures/builtin';
 import {
+  CATALOG_MIGRATION_KEY,
+  CATALOG_MIGRATION_VALUE,
   STORAGE_KEY,
+  adoptFromCatalog,
+  availableCatalogTemplates,
   duplicateAsUserProcedure,
+  findCatalogTemplate,
+  isCatalogTemplateAdopted,
   mergeLoadedProcedures,
   parseProcedures,
   sanitizeDraft,
   searchProcedures,
+  seedMissingCatalogTemplates,
   serializeProcedures,
   validateDraft,
   createUserProcedureId,
@@ -29,7 +36,10 @@ import i18n from '@/utils/i18n';
 const PERSIST_RETRY_LIMIT = 6;
 
 export interface ProceduresContextType {
+  /** Visible Procedures List — user procedures only (catalog templates are not auto-listed). */
   procedures: Procedure[];
+  /** Bundled catalog templates (CVP, SNG, …). */
+  catalogTemplates: Procedure[];
   isLoading: boolean;
   storageReady: boolean;
   lastError: string | null;
@@ -39,6 +49,11 @@ export interface ProceduresContextType {
   updateProcedure: (id: string, draft: ProcedureDraft) => Procedure | null;
   deleteProcedure: (id: string) => boolean;
   duplicateProcedure: (id: string) => Procedure | null;
+  /** Clone a catalog template into the user list (same title, new id, originId set). */
+  addFromCatalog: (templateId: string) => Procedure | null;
+  /** Templates not yet present in the user list (by originId or title). */
+  getAvailableCatalogTemplates: () => Procedure[];
+  isTemplateAdopted: (templateId: string) => boolean;
 }
 
 const ProceduresContext = createContext<ProceduresContextType | undefined>(undefined);
@@ -50,9 +65,7 @@ interface ProceduresProviderProps {
 }
 
 export function ProceduresProvider({ children, store = keyValueStore }: ProceduresProviderProps) {
-  const [procedures, setProcedures] = useState<Procedure[]>(() =>
-    mergeLoadedProcedures(builtinProcedures, [], []),
-  );
+  const [procedures, setProcedures] = useState<Procedure[]>([]);
   const [isLoading, setIsLoading] = useState(true);
   const [storageReady, setStorageReady] = useState(false);
   const [lastError, setLastError] = useState<string | null>(null);
@@ -73,20 +86,37 @@ export function ProceduresProvider({ children, store = keyValueStore }: Procedur
     async function loadProcedures() {
       try {
         const raw = await store.getItem(STORAGE_KEY);
-        if (!cancelled) {
-          const fromDisk = parseProcedures(raw);
-          setProcedures((current) => {
-            const next = mergeLoadedProcedures(
-              builtinProcedures,
-              fromDisk,
-              current,
-              pendingUpsertIdsRef.current,
-            );
-            proceduresRef.current = next;
-            return next;
-          });
-          setStorageReady(true);
+        if (cancelled) {
+          return;
         }
+
+        let fromDisk = parseProcedures(raw);
+        const migrationFlag = await store.getItem(CATALOG_MIGRATION_KEY);
+
+        if (migrationFlag !== CATALOG_MIGRATION_VALUE) {
+          const seeded = seedMissingCatalogTemplates(fromDisk, builtinProcedures);
+          if (seeded !== fromDisk) {
+            fromDisk = seeded;
+            await store.setItem(STORAGE_KEY, serializeProcedures(fromDisk));
+          }
+          await store.setItem(CATALOG_MIGRATION_KEY, CATALOG_MIGRATION_VALUE);
+        }
+
+        if (cancelled) {
+          return;
+        }
+
+        setProcedures((current) => {
+          const next = mergeLoadedProcedures(
+            builtinProcedures,
+            fromDisk,
+            current,
+            pendingUpsertIdsRef.current,
+          );
+          proceduresRef.current = next;
+          return next;
+        });
+        setStorageReady(true);
       } catch (error) {
         console.error('Error loading procedures:', error);
         if (!cancelled) {
@@ -194,7 +224,13 @@ export function ProceduresProvider({ children, store = keyValueStore }: Procedur
   }, [setTrackedLastError, storageReady, store]);
 
   const getProcedure = useCallback(
-    (id: string) => procedures.find((procedure) => procedure.id === id),
+    (id: string) => {
+      const fromList = procedures.find((procedure) => procedure.id === id);
+      if (fromList) {
+        return fromList;
+      }
+      return findCatalogTemplate(id, builtinProcedures);
+    },
     [procedures],
   );
 
@@ -306,7 +342,7 @@ export function ProceduresProvider({ children, store = keyValueStore }: Procedur
         return null;
       }
 
-      const source = procedures.find((procedure) => procedure.id === id);
+      const source = getProcedure(id);
       if (!source) {
         return null;
       }
@@ -323,12 +359,59 @@ export function ProceduresProvider({ children, store = keyValueStore }: Procedur
 
       return copy;
     },
+    [getProcedure, persistAndTrack, storageReady],
+  );
+
+  const addFromCatalog = useCallback(
+    (templateId: string) => {
+      if (!storageReady) {
+        return null;
+      }
+
+      const template = findCatalogTemplate(templateId, builtinProcedures);
+      if (!template) {
+        return null;
+      }
+
+      if (isCatalogTemplateAdopted(procedures, template)) {
+        return null;
+      }
+
+      const adopted = adoptFromCatalog(template);
+
+      pendingUpsertIdsRef.current.add(adopted.id);
+      setProcedures((current) => {
+        const next = [...current, adopted];
+        proceduresRef.current = next;
+        return next;
+      });
+      void persistAndTrack();
+
+      return adopted;
+    },
     [persistAndTrack, procedures, storageReady],
+  );
+
+  const getAvailableCatalogTemplates = useCallback(
+    () => availableCatalogTemplates(builtinProcedures, procedures),
+    [procedures],
+  );
+
+  const isTemplateAdopted = useCallback(
+    (templateId: string) => {
+      const template = findCatalogTemplate(templateId, builtinProcedures);
+      if (!template) {
+        return false;
+      }
+      return isCatalogTemplateAdopted(procedures, template);
+    },
+    [procedures],
   );
 
   const value = useMemo(
     () => ({
       procedures,
+      catalogTemplates: builtinProcedures,
       isLoading,
       storageReady,
       lastError,
@@ -338,6 +421,9 @@ export function ProceduresProvider({ children, store = keyValueStore }: Procedur
       updateProcedure,
       deleteProcedure,
       duplicateProcedure,
+      addFromCatalog,
+      getAvailableCatalogTemplates,
+      isTemplateAdopted,
     }),
     [
       procedures,
@@ -350,6 +436,9 @@ export function ProceduresProvider({ children, store = keyValueStore }: Procedur
       updateProcedure,
       deleteProcedure,
       duplicateProcedure,
+      addFromCatalog,
+      getAvailableCatalogTemplates,
+      isTemplateAdopted,
     ],
   );
 

@@ -2,7 +2,7 @@ import React from 'react';
 import { render } from '@testing-library/react-native';
 
 import { ProcedureCard } from '@/components/ProcedureCard';
-import { builtinProcedures } from '@/procedures/builtin';
+import { BUILTIN_CVP_ID, builtinProcedures } from '@/procedures/builtin';
 import type { Procedure } from '@/types/procedure';
 
 jest.mock('@/hooks/useColorScheme', () => ({
@@ -19,13 +19,24 @@ const userProcedure: Procedure = {
   updatedAt: '2026-09-02T00:00:00.000Z',
 };
 
+const adoptedProcedure: Procedure = {
+  id: 'user-adopted-cvp',
+  title: 'Cateterismo venoso periférico',
+  materials: ['Luvas'],
+  steps: ['Identificar o doente'],
+  attention: ['Protocolo local'],
+  source: 'user',
+  originId: BUILTIN_CVP_ID,
+  updatedAt: '2026-09-02T00:00:00.000Z',
+};
+
 describe('ProcedureCard', () => {
   it('renders a built-in procedure title and badge', () => {
     const procedure = builtinProcedures[0]!;
     const { getByText, getByTestId } = render(<ProcedureCard procedure={procedure} />);
 
     expect(getByText(procedure.title)).toBeTruthy();
-    expect(getByText('Incluído')).toBeTruthy();
+    expect(getByText('Modelo')).toBeTruthy();
     expect(getByTestId(`procedure-card-${procedure.id}`)).toBeTruthy();
   });
 
@@ -35,5 +46,12 @@ describe('ProcedureCard', () => {
     expect(getByText('Meu procedimento')).toBeTruthy();
     expect(getByText('Meu')).toBeTruthy();
     expect(getByText('1 materiais · 2 passos')).toBeTruthy();
+  });
+
+  it('shows Modelo badge for an adopted catalog procedure', () => {
+    const { getByText, queryByText } = render(<ProcedureCard procedure={adoptedProcedure} />);
+
+    expect(getByText('Modelo')).toBeTruthy();
+    expect(queryByText('Meu')).toBeNull();
   });
 });
