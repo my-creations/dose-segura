@@ -2,6 +2,7 @@
 const fs = require('node:fs');
 const path = require('node:path');
 const { collectFiles } = require('./utils/fs-utils');
+const { generateServiceWorker } = require('./generate-sw-precache');
 
 const DIST_DIR = path.join(__dirname, '..', 'dist');
 const ASSETS_DIR = path.join(DIST_DIR, 'assets');
@@ -86,6 +87,10 @@ function fixWebBuild() {
   fs.writeFileSync(NOJEKYLL_PATH, '', 'utf8');
 
   console.log(`✅ Fixed references in ${updateCount} files.`);
+
+  // 4. Final SW precache after hashed + libs paths are stable
+  generateServiceWorker({ distDir: DIST_DIR });
+
   console.log('✨ Web build fix complete!');
 }
 
@@ -97,3 +102,5 @@ if (require.main === module) {
     process.exit(1);
   }
 }
+
+module.exports = { fixWebBuild };
