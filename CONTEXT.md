@@ -69,7 +69,7 @@ A nursing checklist (title, materials, steps, and points of attention) used as a
 _Avoid_: Protocol, guideline, SOP, care plan (when meaning this in-app checklist)
 
 **Procedure Template** (catalog):
-A read-only model Procedure shipped in bundled data (`source: 'builtin'`, e.g. CVP, SNG, injectáveis, SC/IM, flush/remoção CVP, medicação por SNG, IV push/bolus). Templates are not auto-listed in the Procedures List; the user opts in via “Adicionar do catálogo”, which clones the template into a User Procedure with `originId` set to the template id. Storage never overwrites templates.
+A read-only model Procedure shipped in bundled data (`source: 'builtin'`, e.g. CVP, SNG, injectáveis, SC/IM, flush/remoção CVP, medicação por SNG, IV push/bolus, sondagem vesical, assistência CVC/linha arterial). Templates are not auto-listed in the Procedures List; the user opts in via “Adicionar do catálogo”, which clones the template into a User Procedure with `originId` set to the template id. Storage never overwrites templates.
 _Avoid_: Built-in Procedure (legacy), default, system procedure (when meaning the catalog entry)
 
 **User Procedure**:

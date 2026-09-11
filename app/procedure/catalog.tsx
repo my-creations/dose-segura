@@ -26,6 +26,10 @@ export default function ProcedureCatalogScreen() {
   const primaryButtonLabel = isDark ? colors.background : colors.textDark;
   const canWrite = storageReady && !isLoading;
 
+  const handleView = useCallback((templateId: string) => {
+    router.push(`/procedure/${templateId}`);
+  }, []);
+
   const handleAdd = useCallback(
     (templateId: string) => {
       if (!canWrite || isTemplateAdopted(templateId)) {
@@ -93,38 +97,53 @@ export default function ProcedureCatalogScreen() {
                     })}
                   </ThemedText>
                 </View>
-                {adopted ? (
-                  <View
-                    style={[styles.disabledButton, { backgroundColor: colors.mint + '55' }]}
-                    testID={`catalog-already-added-${item.id}`}
-                  >
-                    <Ionicons name="checkmark-circle" size={18} color={colors.textDark} />
-                    <ThemedText style={[styles.buttonLabel, { color: colors.textDark }]}>
-                      {i18n.t('procedures.alreadyAdded')}
-                    </ThemedText>
-                  </View>
-                ) : (
+                <View style={styles.actions}>
                   <Pressable
-                    style={[
-                      styles.addButton,
-                      {
-                        backgroundColor: primaryButtonBackground,
-                        opacity: canWrite ? 1 : 0.5,
-                      },
-                    ]}
-                    disabled={!canWrite}
-                    onPress={() => handleAdd(item.id)}
-                    accessibilityLabel={i18n.t('accessibility.addCatalogTemplate', {
+                    style={[styles.secondaryButton, { backgroundColor: colors.lavender }]}
+                    onPress={() => handleView(item.id)}
+                    accessibilityLabel={i18n.t('accessibility.viewCatalogTemplate', {
                       name: item.title,
                     })}
-                    testID={`catalog-add-${item.id}`}
+                    testID={`catalog-view-${item.id}`}
                   >
-                    <Ionicons name="add-circle-outline" size={18} color={primaryButtonLabel} />
-                    <ThemedText style={[styles.buttonLabel, { color: primaryButtonLabel }]}>
-                      {i18n.t('procedures.addTemplate')}
+                    <Ionicons name="eye-outline" size={18} color={colors.textDark} />
+                    <ThemedText style={[styles.buttonLabel, { color: colors.textDark }]}>
+                      {i18n.t('procedures.viewTemplate')}
                     </ThemedText>
                   </Pressable>
-                )}
+                  {adopted ? (
+                    <View
+                      style={[styles.disabledButton, { backgroundColor: colors.mint + '55' }]}
+                      testID={`catalog-already-added-${item.id}`}
+                    >
+                      <Ionicons name="checkmark-circle" size={18} color={colors.textDark} />
+                      <ThemedText style={[styles.buttonLabel, { color: colors.textDark }]}>
+                        {i18n.t('procedures.alreadyAdded')}
+                      </ThemedText>
+                    </View>
+                  ) : (
+                    <Pressable
+                      style={[
+                        styles.addButton,
+                        {
+                          backgroundColor: primaryButtonBackground,
+                          opacity: canWrite ? 1 : 0.5,
+                        },
+                      ]}
+                      disabled={!canWrite}
+                      onPress={() => handleAdd(item.id)}
+                      accessibilityLabel={i18n.t('accessibility.addCatalogTemplate', {
+                        name: item.title,
+                      })}
+                      testID={`catalog-add-${item.id}`}
+                    >
+                      <Ionicons name="add-circle-outline" size={18} color={primaryButtonLabel} />
+                      <ThemedText style={[styles.buttonLabel, { color: primaryButtonLabel }]}>
+                        {i18n.t('procedures.addTemplate')}
+                      </ThemedText>
+                    </Pressable>
+                  )}
+                </View>
               </View>
             );
           }}
@@ -195,7 +214,21 @@ const styles = StyleSheet.create({
     fontSize: 12,
     fontFamily: 'Quicksand_500Medium',
   },
+  actions: {
+    flexDirection: 'row',
+    gap: 8,
+  },
+  secondaryButton: {
+    flex: 1,
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    gap: 8,
+    borderRadius: 14,
+    paddingVertical: 12,
+  },
   addButton: {
+    flex: 1,
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'center',
@@ -204,6 +237,7 @@ const styles = StyleSheet.create({
     paddingVertical: 12,
   },
   disabledButton: {
+    flex: 1,
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'center',

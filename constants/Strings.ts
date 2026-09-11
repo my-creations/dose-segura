@@ -35,6 +35,7 @@ export const Strings = {
       addFromCatalog: 'Adicionar do catálogo',
       createProcedure: 'Criar procedimento',
       addCatalogTemplate: 'Adicionar {{name}} do catálogo',
+      viewCatalogTemplate: 'Ver detalhes de {{name}}',
       addListItem: 'Adicionar item',
       removeListItem: 'Remover {{name}}',
     },
@@ -158,7 +159,8 @@ export const Strings = {
       catalogTitle: 'Catálogo de procedimentos',
       catalogEmpty: 'Já adicionou todos os procedimentos do catálogo',
       catalogHint:
-        'Modelos de referência educacional. Adicione à sua lista para editar ou eliminar. Valide sempre com o protocolo da instituição.',
+        'Consulte material, passos e atenção antes de adicionar. Modelos de referência educacional — valide sempre com o protocolo da instituição.',
+      viewTemplate: 'Ver',
       addTemplate: 'Adicionar',
       alreadyAdded: 'Já adicionado',
       edit: 'Editar',
