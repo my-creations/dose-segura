@@ -64,6 +64,10 @@ describe('ProcedureDetailScreen', () => {
     expect(screen.getByTestId('procedure-builtin-badge')).toBeTruthy();
     expect(screen.queryByTestId('procedure-user-badge')).toBeNull();
     expect(screen.getByTestId('procedure-add-from-catalog')).toBeTruthy();
+    expect(screen.getByText(i18n.t('procedures.readOnly'))).toBeTruthy();
+    expect(screen.getByTestId('procedure-materials')).toBeTruthy();
+    expect(screen.getByTestId('procedure-steps')).toBeTruthy();
+    expect(screen.getByTestId('procedure-attention')).toBeTruthy();
     expect(screen.queryByTestId('procedure-duplicate')).toBeNull();
     expect(screen.queryByTestId('procedure-edit')).toBeNull();
     expect(screen.queryByTestId('procedure-delete')).toBeNull();
