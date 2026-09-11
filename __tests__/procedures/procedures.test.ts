@@ -1,4 +1,14 @@
-import { BUILTIN_CVP_ID, BUILTIN_SNG_ID, builtinProcedures } from '@/procedures/builtin';
+import {
+  BUILTIN_ADMINISTRACAO_IM_ID,
+  BUILTIN_ADMINISTRACAO_SC_ID,
+  BUILTIN_CVP_ID,
+  BUILTIN_FLUSH_REMOCAO_CVP_ID,
+  BUILTIN_IV_PUSH_BOLUS_ID,
+  BUILTIN_MEDICACAO_SNG_ID,
+  BUILTIN_PREPARACAO_INJECTAVEIS_ID,
+  BUILTIN_SNG_ID,
+  builtinProcedures,
+} from '@/procedures/builtin';
 import {
   CATALOG_MIGRATION_KEY,
   CATALOG_MIGRATION_VALUE,
@@ -43,6 +53,12 @@ describe('procedures domain', () => {
     expect(builtinProcedures.map((procedure) => procedure.id)).toEqual([
       'builtin-cateterismo-venoso-periferico',
       'builtin-sondagem-nasogastrica',
+      'builtin-preparacao-medicamentos-injectaveis',
+      'builtin-administracao-subcutanea',
+      'builtin-administracao-intramuscular',
+      'builtin-flush-remocao-cvp',
+      'builtin-medicacao-sonda-nasogastrica',
+      'builtin-administracao-iv-push-bolus',
     ]);
 
     const cvp = builtinProcedures.find((procedure) => procedure.id === BUILTIN_CVP_ID);
@@ -50,23 +66,53 @@ describe('procedures domain', () => {
     expect(cvp?.source).toBe('builtin');
     expect(cvp?.materials).toEqual(expect.arrayContaining(['Luvas', 'Garrote']));
     expect(cvp?.steps.some((step) => step.toLowerCase().includes('identificar'))).toBe(true);
+    expect(cvp?.steps).toContain('Explicar o procedimento');
     expect(cvp?.attention.some((item) => item.toLowerCase().includes('flebite'))).toBe(true);
+    expect(
+      cvp?.attention.some((item) => item.toLowerCase().includes('não palpar após antissepsia')),
+    ).toBe(true);
+    expect(cvp?.attention.some((item) => item.toLowerCase().includes('avaliar diariamente'))).toBe(
+      true,
+    );
 
     const joined = builtinProcedures
       .flatMap((procedure) => [...procedure.materials, ...procedure.steps, ...procedure.attention])
       .join(' ')
       .toLowerCase();
     expect(joined).not.toMatch(/\bmg\b|\bml\b|dose de /);
+
+    for (const procedure of builtinProcedures) {
+      expect(
+        procedure.attention.some((item) =>
+          item.includes('Validar sempre com o protocolo da instituição e o RCM'),
+        ),
+      ).toBe(true);
+    }
   });
 
   it('omits auscultation from nasogastric placement confirmation', () => {
     const sng = builtinProcedures.find((procedure) => procedure.id === BUILTIN_SNG_ID);
     const materials = sng?.materials ?? [];
     const attention = sng?.attention ?? [];
+    const steps = sng?.steps ?? [];
     const joinedMaterials = materials.join(' ').toLowerCase();
+    const joinedSteps = steps.join(' ').toLowerCase();
 
     expect(joinedMaterials).not.toMatch(/fonendoscópio|estetoscópio|auscult/);
-    expect(sng?.steps).toContain('Verificar o posicionamento segundo o protocolo da instituição');
+    expect(joinedMaterials).toMatch(/ph/i);
+    expect(joinedSteps).toMatch(/nex|nariz/);
+    expect(
+      steps.some(
+        (step) => step.toLowerCase().includes('tosse') || step.toLowerCase().includes('dispneia'),
+      ),
+    ).toBe(true);
+    expect(
+      steps.some(
+        (step) =>
+          step.includes('Verificar o posicionamento segundo o protocolo da instituição') &&
+          step.toLowerCase().includes('nunca auscultação'),
+      ),
+    ).toBe(true);
     expect(
       attention.some(
         (item) => item.includes('pH do aspirado') && item.includes('RX quando indicado'),
@@ -80,21 +126,58 @@ describe('procedures domain', () => {
   it('releases the tourniquet before flush in peripheral venous catheterization', () => {
     const cvp = builtinProcedures.find((procedure) => procedure.id === BUILTIN_CVP_ID);
     const steps = cvp?.steps ?? [];
+    const explain = steps.indexOf('Explicar o procedimento');
     const confirm = steps.indexOf('Confirmar retorno');
     const advance = steps.indexOf('Avançar o cateter');
     const release = steps.indexOf('Soltar o garrote');
     const mandril = steps.indexOf('Mandril para o contentor (nunca reintroduzir)');
-    const fix = steps.indexOf('Fixar');
-    const flush = steps.indexOf('Flush segundo protocolo');
+    const fix = steps.findIndex((step) => step.toLowerCase().includes('fixar'));
+    const flush = steps.findIndex((step) => step.toLowerCase().startsWith('flush'));
     const document = steps.indexOf('Documentar');
 
-    expect(confirm).toBeGreaterThanOrEqual(0);
+    expect(explain).toBeGreaterThanOrEqual(0);
+    expect(confirm).toBeGreaterThan(explain);
     expect(advance).toBeGreaterThan(confirm);
     expect(release).toBeGreaterThan(advance);
     expect(mandril).toBeGreaterThan(release);
     expect(fix).toBeGreaterThan(mandril);
     expect(flush).toBeGreaterThan(fix);
     expect(document).toBeGreaterThan(flush);
+  });
+
+  it('ships A-list catalog templates with IV push safety disclaimer', () => {
+    const byId = Object.fromEntries(
+      builtinProcedures.map((procedure) => [procedure.id, procedure]),
+    );
+
+    expect(byId[BUILTIN_PREPARACAO_INJECTAVEIS_ID]?.title).toBe(
+      'Preparação de medicamentos injectáveis',
+    );
+    expect(byId[BUILTIN_ADMINISTRACAO_SC_ID]?.title).toBe('Administração subcutânea (SC)');
+    expect(byId[BUILTIN_ADMINISTRACAO_IM_ID]?.title).toBe('Administração intramuscular (IM)');
+    expect(byId[BUILTIN_FLUSH_REMOCAO_CVP_ID]?.title).toBe('Flush e remoção de CVP');
+    expect(byId[BUILTIN_MEDICACAO_SNG_ID]?.title).toBe('Medicação por sonda nasogástrica');
+    expect(byId[BUILTIN_IV_PUSH_BOLUS_ID]?.title).toBe('Administração IV push/bolus');
+
+    const scAttention = (byId[BUILTIN_ADMINISTRACAO_SC_ID]?.attention ?? [])
+      .join(' ')
+      .toLowerCase();
+    expect(scAttention).toMatch(/aspiração/);
+    expect(scAttention).toMatch(/pop|rcm/);
+
+    const imAttention = (byId[BUILTIN_ADMINISTRACAO_IM_ID]?.attention ?? [])
+      .join(' ')
+      .toLowerCase();
+    expect(imAttention).toMatch(/não contradizer o pop local|protocolo local/);
+
+    const medSng = byId[BUILTIN_MEDICACAO_SNG_ID];
+    expect((medSng?.attention ?? []).join(' ').toLowerCase()).toMatch(/nunca.*auscultação/);
+    expect((medSng?.steps ?? []).join(' ').toLowerCase()).toMatch(/um fármaco de cada vez/);
+
+    const ivAttention = (byId[BUILTIN_IV_PUSH_BOLUS_ID]?.attention ?? []).join(' ');
+    expect(ivAttention).toMatch(/AVISO DE SEGURANÇA/);
+    expect(ivAttention.toLowerCase()).toMatch(/não substitui/);
+    expect(ivAttention.toLowerCase()).toMatch(/em dúvida/);
   });
 
   it('parses valid user procedures and ignores invalid payloads', () => {

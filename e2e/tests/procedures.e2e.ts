@@ -20,6 +20,7 @@ test.describe('Nursing procedures', () => {
     await expect(page.getByTestId('procedures-screen')).toBeVisible();
     await expect(page.getByText('Cateterismo venoso periférico')).toBeVisible();
     await expect(page.getByText('Sondagem nasogástrica')).toBeVisible();
+    await expect(page.getByText('Administração IV push/bolus')).toBeVisible();
     await expect(page.getByText(Strings.pt.procedures.builtinBadge).first()).toBeVisible();
 
     await page.getByText('Cateterismo venoso periférico').click();
@@ -58,6 +59,9 @@ test.describe('Nursing procedures', () => {
     ).toBeVisible();
     await expect(
       page.getByTestId('catalog-already-added-builtin-sondagem-nasogastrica'),
+    ).toBeVisible();
+    await expect(
+      page.getByTestId('catalog-already-added-builtin-administracao-iv-push-bolus'),
     ).toBeVisible();
 
     await page.getByTestId('catalog-add-builtin-cateterismo-venoso-periferico').click();
