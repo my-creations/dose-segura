@@ -5,8 +5,11 @@ import path from 'path';
 import {
   buildPrecacheManifest,
   createCacheVersion,
+  encodePathnameSegments,
   generateServiceWorker,
   getSpaFallbackUrl,
+  isExpoStaticAssetPath,
+  isExpoStaticJsPath,
   normalizeBasePath,
   renderServiceWorker,
   shouldPrecacheFile,
@@ -145,5 +148,71 @@ describe('generate-sw-precache helpers', () => {
     } finally {
       fs.rmSync(distDir, { recursive: true, force: true });
     }
+  });
+
+  it('encodes pathname segments for Expo [id] filenames', () => {
+    expect(encodePathnameSegments('/dose-segura/_expo/static/js/web/[id]-abc.js')).toBe(
+      '/dose-segura/_expo/static/js/web/%5Bid%5D-abc.js',
+    );
+    expect(encodePathnameSegments('/dose-segura/_expo/static/js/web/%5Bid%5D-abc.js')).toBe(
+      '/dose-segura/_expo/static/js/web/%5Bid%5D-abc.js',
+    );
+    expect(encodePathnameSegments('/dose-segura/_expo/static/js/web/+not-found-abc.js')).toBe(
+      '/dose-segura/_expo/static/js/web/%2Bnot-found-abc.js',
+    );
+  });
+
+  it('detects Expo static asset paths used for recovery signaling', () => {
+    expect(isExpoStaticAssetPath('/dose-segura/_expo/static/js/web/[id]-abc.js')).toBe(true);
+    expect(isExpoStaticJsPath('/dose-segura/_expo/static/js/web/[id]-abc.js')).toBe(true);
+    expect(isExpoStaticJsPath('/dose-segura/_expo/static/css/app.css')).toBe(false);
+    expect(isExpoStaticJsPath('/dose-segura/meds-full.json')).toBe(false);
+  });
+
+  it('includes encoded [id] procedure/medication chunks in the precache manifest', () => {
+    const distDir = fs.mkdtempSync(path.join(os.tmpdir(), 'dose-sw-id-'));
+    try {
+      fs.mkdirSync(path.join(distDir, '_expo', 'static', 'js', 'web'), { recursive: true });
+      fs.writeFileSync(path.join(distDir, 'index.html'), '<html></html>');
+      fs.writeFileSync(
+        path.join(distDir, '_expo', 'static', 'js', 'web', '[id]-procedure.js'),
+        'procedure',
+      );
+      fs.writeFileSync(
+        path.join(distDir, '_expo', 'static', 'js', 'web', '[id]-medication.js'),
+        'medication',
+      );
+
+      const { urls } = buildPrecacheManifest({ distDir, basePath: '/dose-segura' });
+
+      expect(urls).toContain('/dose-segura/_expo/static/js/web/%5Bid%5D-procedure.js');
+      expect(urls).toContain('/dose-segura/_expo/static/js/web/%5Bid%5D-medication.js');
+      expect(urls.some((url) => url.includes('[id]'))).toBe(false);
+    } finally {
+      fs.rmSync(distDir, { recursive: true, force: true });
+    }
+  });
+
+  it('emits SW helpers for encoded cache match and stale chunk recovery', () => {
+    const swSource = renderServiceWorker({
+      basePath: '/dose-segura',
+      cacheVersion: 'dose-segura-test',
+      precacheUrls: [
+        '/dose-segura/',
+        '/dose-segura/index.html',
+        '/dose-segura/_expo/static/js/web/%5Bid%5D-abc.js',
+      ],
+    });
+
+    expect(swSource).toContain("const STALE_EXPO_CHUNK_MESSAGE = 'STALE_EXPO_CHUNK'");
+    expect(swSource).toContain('function encodePathnameSegments');
+    expect(swSource).toContain('function matchCachedAsset');
+    expect(swSource).toContain('function notifyStaleExpoChunk');
+    expect(swSource).toContain('function fetchAssetFromNetwork');
+    expect(swSource).toContain('isExpoStaticJs(url)');
+    expect(swSource).toContain('staleChunkRecoveryNotified');
+    // 404 on hashed expo JS must notify clients (not quietly serve a broken graph).
+    expect(swSource).toContain('networkResponse.status === 404 && isExpoStaticJs(url)');
+    expect(swSource).toContain('notifyStaleExpoChunk');
   });
 });

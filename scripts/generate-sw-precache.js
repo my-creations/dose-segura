@@ -144,6 +144,33 @@ function createCacheVersion(urls, contentDigest = '') {
   return `dose-segura-${hash}`;
 }
 
+function encodePathnameSegments(pathname) {
+  return String(pathname || '')
+    .split('/')
+    .map((segment) => {
+      if (!segment) {
+        return segment;
+      }
+      try {
+        return encodeURIComponent(decodeURIComponent(segment));
+      } catch {
+        return encodeURIComponent(segment);
+      }
+    })
+    .join('/');
+}
+
+/** True for Expo hashed bundles under `/_expo/static/` (lazy route chunks, etc.). */
+function isExpoStaticAssetPath(pathname, basePath = DEFAULT_BASE_PATH) {
+  const base = normalizeBasePath(basePath);
+  const path = String(pathname || '');
+  return path === `${base}/_expo/static` || path.startsWith(`${base}/_expo/static/`);
+}
+
+function isExpoStaticJsPath(pathname, basePath = DEFAULT_BASE_PATH) {
+  return isExpoStaticAssetPath(pathname, basePath) && /\.js$/i.test(String(pathname || ''));
+}
+
 function renderServiceWorker({ basePath, cacheVersion, precacheUrls }) {
   const base = normalizeBasePath(basePath);
   const fallbackUrl = getSpaFallbackUrl(base);
@@ -155,6 +182,9 @@ const CACHE_VERSION = ${JSON.stringify(cacheVersion)};
 const BASE_PATH = ${JSON.stringify(base)};
 const SPA_FALLBACK = ${JSON.stringify(fallbackUrl)};
 const PRECACHE_URLS = ${urlsLiteral};
+const STALE_EXPO_CHUNK_MESSAGE = 'STALE_EXPO_CHUNK';
+
+let staleChunkRecoveryNotified = false;
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
@@ -204,6 +234,124 @@ function isAppNavigation(request, url) {
   );
 }
 
+/** Encode each path segment so Expo \`[id]\` / \`+not-found\` filenames match GitHub Pages. */
+function encodePathnameSegments(pathname) {
+  return String(pathname || '')
+    .split('/')
+    .map((segment) => {
+      if (!segment) {
+        return segment;
+      }
+      try {
+        return encodeURIComponent(decodeURIComponent(segment));
+      } catch {
+        return encodeURIComponent(segment);
+      }
+    })
+    .join('/');
+}
+
+function toEncodedAssetUrl(url) {
+  const encodedPathname = encodePathnameSegments(url.pathname);
+  return url.origin + encodedPathname + url.search;
+}
+
+function isExpoStaticAsset(url) {
+  return (
+    url.pathname === BASE_PATH + '/_expo/static' ||
+    url.pathname.startsWith(BASE_PATH + '/_expo/static/')
+  );
+}
+
+function isExpoStaticJs(url) {
+  return isExpoStaticAsset(url) && /\\.js$/i.test(url.pathname);
+}
+
+async function matchCachedAsset(request, url) {
+  const direct = await caches.match(request);
+  if (direct) {
+    return direct;
+  }
+
+  const encodedUrl = toEncodedAssetUrl(url);
+  if (encodedUrl !== request.url) {
+    const encoded = await caches.match(encodedUrl);
+    if (encoded) {
+      return encoded;
+    }
+  }
+
+  // Some browsers expose decoded \`[id]\` in request.url while precache used %5Bid%5D.
+  if (url.pathname.includes('%')) {
+    try {
+      const decodedPath = decodeURIComponent(url.pathname);
+      if (decodedPath !== url.pathname) {
+        const decodedUrl = url.origin + decodedPath + url.search;
+        const decoded = await caches.match(decodedUrl);
+        if (decoded) {
+          return decoded;
+        }
+      }
+    } catch {
+      // ignore malformed percent-encoding
+    }
+  }
+
+  return undefined;
+}
+
+async function notifyStaleExpoChunk(assetUrl) {
+  if (staleChunkRecoveryNotified) {
+    return;
+  }
+  staleChunkRecoveryNotified = true;
+  const clients = await self.clients.matchAll({ type: 'window', includeUncontrolled: true });
+  await Promise.all(
+    clients.map((client) =>
+      client.postMessage({ type: STALE_EXPO_CHUNK_MESSAGE, url: assetUrl }),
+    ),
+  );
+}
+
+async function fetchAssetFromNetwork(request, url) {
+  const encodedUrl = toEncodedAssetUrl(url);
+  // Prefer percent-encoded segments for Expo static files (GitHub Pages + [id] filenames).
+  const candidates = [];
+  if (isExpoStaticAsset(url) && encodedUrl !== request.url) {
+    candidates.push(encodedUrl);
+  }
+  candidates.push(request);
+
+  let networkResponse;
+  let lastError;
+  for (const candidate of candidates) {
+    try {
+      const response = await fetch(candidate);
+      networkResponse = response;
+      if (response && response.ok) {
+        break;
+      }
+    } catch (error) {
+      lastError = error;
+    }
+  }
+
+  if (!networkResponse) {
+    throw lastError || new Error('[Dose Segura SW] network fetch failed');
+  }
+
+  if (networkResponse.ok) {
+    const cache = await caches.open(CACHE_VERSION);
+    const cacheKey = isExpoStaticAsset(url) ? encodedUrl : request;
+    cache.put(cacheKey, networkResponse.clone());
+  } else if (networkResponse.status === 404 && isExpoStaticJs(url)) {
+    // Online deploy moved hashed chunks; do not keep clients on a broken graph.
+    await notifyStaleExpoChunk(url.href);
+  }
+
+  return networkResponse;
+}
+
 self.addEventListener('fetch', (event) => {
   const request = event.request;
   if (request.method !== 'GET') {
@@ -245,21 +393,17 @@ self.addEventListener('fetch', (event) => {
 
   event.respondWith(
     (async () => {
-      const cached = await caches.match(request);
+      const cached = await matchCachedAsset(request, url);
       if (cached) {
         return cached;
       }
 
       try {
-        const networkResponse = await fetch(request);
-        if (networkResponse && networkResponse.ok) {
-          const cache = await caches.open(CACHE_VERSION);
-          cache.put(request, networkResponse.clone());
-        }
-        return networkResponse;
+        return await fetchAssetFromNetwork(request, url);
       } catch (error) {
-        if (cached) {
-          return cached;
+        const fallbackCached = await matchCachedAsset(request, url);
+        if (fallbackCached) {
+          return fallbackCached;
         }
         throw error;
       }
@@ -297,11 +441,14 @@ module.exports = {
   DEFAULT_BASE_PATH,
   normalizeBasePath,
   encodePathSegment,
+  encodePathnameSegments,
   toPrecacheUrl,
   getSpaFallbackUrl,
   shouldPrecacheFile,
   buildPrecacheManifest,
   createCacheVersion,
+  isExpoStaticAssetPath,
+  isExpoStaticJsPath,
   renderServiceWorker,
   generateServiceWorker,
 };
