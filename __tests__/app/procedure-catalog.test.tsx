@@ -86,7 +86,7 @@ describe('ProcedureCatalogScreen', () => {
   });
 
   it('adds from Adicionar and navigates to the adopted user procedure', async () => {
-    renderCatalog();
+    const store = renderCatalog();
 
     const addButton = await waitForEnabledAdd(BUILTIN_CVP_ID);
     fireEvent.press(addButton);
@@ -97,5 +97,13 @@ describe('ProcedureCatalogScreen', () => {
     const target = jest.mocked(router.replace).mock.calls[0]?.[0] as string;
     expect(target).toMatch(/^\/procedure\/user-/);
     expect(router.push).not.toHaveBeenCalled();
+
+    await waitFor(async () => {
+      const raw = await store.getItem(STORAGE_KEY);
+      const users = raw ? (JSON.parse(raw) as { id: string; originId?: string }[]) : [];
+      expect(users).toHaveLength(1);
+      expect(users[0]?.id).toMatch(/^user-/);
+      expect(users[0]?.originId).toBe(BUILTIN_CVP_ID);
+    });
   });
 });
