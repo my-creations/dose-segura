@@ -135,6 +135,17 @@ export const Strings = {
         'Dose Segura é uma aplicação de referência para auxiliar profissionais de saúde na administração de medicamentos',
       warningText:
         'Esta aplicação é apenas para referência. Verifique sempre a informação com fontes oficiais e a farmácia antes de administrar qualquer medicamento',
+      whatsNew: {
+        title: 'Novidades 1.1.0',
+        items: [
+          'Cálculos pediátricos e regras de três',
+          'Procedimentos: criar e editar no menu modular',
+          'Catálogo de modelos (CVP, SNG e A-list)',
+          'Preview de modelos no catálogo sem adicionar',
+          'Modelos B-list: sonda vesical, assistência CVC e arterial',
+          'PWA com cache offline e atualização automática',
+        ],
+      },
     },
     procedures: {
       searchPlaceholder: 'Pesquisar procedimento...',

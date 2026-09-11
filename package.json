@@ -2,7 +2,7 @@
   "name": "dose-segura",
   "description": "Dose Segura Application",
   "main": "expo-router/entry",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "homepage": "https://my-creations.github.io/dose-segura",
   "scripts": {
     "deploy": "gh-pages -d dist --dotfiles",
