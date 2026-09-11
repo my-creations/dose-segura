@@ -21,6 +21,8 @@ test.describe('Nursing procedures', () => {
     await expect(page.getByText('Cateterismo venoso periférico')).toBeVisible();
     await expect(page.getByText('Sondagem nasogástrica')).toBeVisible();
     await expect(page.getByText('Administração IV push/bolus')).toBeVisible();
+    await expect(page.getByText('Sondagem vesical (inserção / algaliação)')).toBeVisible();
+    await expect(page.getByText('Assistência na colocação de CVC (feixe)')).toBeVisible();
     await expect(page.getByText(Strings.pt.procedures.builtinBadge).first()).toBeVisible();
 
     await page.getByText('Cateterismo venoso periférico').click();
@@ -103,6 +105,10 @@ test.describe('Nursing procedures', () => {
     await expect(
       page.getByTestId('catalog-already-added-builtin-administracao-iv-push-bolus'),
     ).toBeVisible();
+    await expect(
+      page.getByTestId('catalog-already-added-builtin-sondagem-vesical-insercao'),
+    ).toBeVisible();
+    await expect(page.getByTestId('catalog-already-added-builtin-assistencia-cvc')).toBeVisible();
 
     await page.getByTestId('catalog-add-builtin-cateterismo-venoso-periferico').click();
     await expect(page.getByTestId('procedure-detail')).toBeVisible();
