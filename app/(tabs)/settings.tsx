@@ -1,4 +1,5 @@
 import { Ionicons } from '@expo/vector-icons';
+import Constants from 'expo-constants';
 import React from 'react';
 import { Platform, Pressable, ScrollView, StyleSheet, View } from 'react-native';
 
@@ -164,7 +165,7 @@ export default function SettingsScreen() {
             </View>
             <ThemedText style={styles.label}>{i18n.t('settings.labels.appVersion')}</ThemedText>
             <ThemedText type="defaultSemiBold" style={styles.value}>
-              1.0.0
+              {Constants.expoConfig?.version ?? '1.1.0'}
             </ThemedText>
           </View>
           <View style={[styles.divider, { backgroundColor: colors.lavender }]} />
