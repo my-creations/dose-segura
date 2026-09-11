@@ -7,6 +7,7 @@ import { ThemedText } from '@/components/ThemedText';
 import { PWAInstallModal } from '@/components/PWAInstallModal';
 import { Colors } from '@/constants/Colors';
 import { pastelCardShadow } from '@/constants/Shadows';
+import { Strings } from '@/constants/Strings';
 import { useMedications } from '@/context/MedicationsContext';
 import { ThemeMode, useTheme } from '@/context/ThemeContext';
 import { useColorScheme } from '@/hooks/useColorScheme';
@@ -178,6 +179,17 @@ export default function SettingsScreen() {
               {i18n.t('settings.labels.offlineMode')}
             </ThemedText>
           </View>
+          <View style={[styles.divider, { backgroundColor: colors.lavender }]} />
+          <View testID="whats-new-1-1-0" style={styles.whatsNew}>
+            <ThemedText type="defaultSemiBold" style={styles.whatsNewTitle}>
+              {i18n.t('settings.whatsNew.title')}
+            </ThemedText>
+            {Strings.pt.settings.whatsNew.items.map((item) => (
+              <ThemedText key={item} style={styles.whatsNewItem}>
+                • {item}
+              </ThemedText>
+            ))}
+          </View>
         </View>
       </View>
 
@@ -270,5 +282,17 @@ const styles = StyleSheet.create({
   installButtonText: {
     fontSize: 16,
     fontFamily: 'Quicksand_600SemiBold',
+  },
+  whatsNew: {
+    gap: 4,
+  },
+  whatsNewTitle: {
+    fontSize: 14,
+    marginBottom: 4,
+  },
+  whatsNewItem: {
+    fontSize: 13,
+    lineHeight: 18,
+    opacity: 0.9,
   },
 });
