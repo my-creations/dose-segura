@@ -184,6 +184,14 @@ self.addEventListener('activate', (event) => {
   );
 });
 
+// Client can nudge activation if a worker is still waiting (belt-and-suspenders
+// alongside skipWaiting() during install).
+self.addEventListener('message', (event) => {
+  if (event.data && event.data.type === 'SKIP_WAITING') {
+    self.skipWaiting();
+  }
+});
+
 function isAppNavigation(request, url) {
   if (request.mode === 'navigate') {
     return true;

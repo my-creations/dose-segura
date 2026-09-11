@@ -97,6 +97,7 @@ describe('generate-sw-precache helpers', () => {
       expect(swSource).toContain(result.cacheVersion);
       expect(swSource).toContain('skipWaiting');
       expect(swSource).toContain('clients.claim');
+      expect(swSource).toContain("event.data.type === 'SKIP_WAITING'");
       expect(fs.existsSync(result.manifestPath)).toBe(true);
     } finally {
       fs.rmSync(distDir, { recursive: true, force: true });
