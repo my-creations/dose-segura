@@ -195,50 +195,84 @@ describe('procedures domain', () => {
       builtinProcedures.map((procedure) => [procedure.id, procedure]),
     );
 
+    expect(byId[BUILTIN_SONDAGEM_VESICAL_INSERCAO_ID]?.id).toBe(
+      'builtin-sondagem-vesical-insercao',
+    );
+    expect(byId[BUILTIN_SONDAGEM_VESICAL_CUIDADOS_REMOCAO_ID]?.id).toBe(
+      'builtin-sondagem-vesical-cuidados-remocao',
+    );
+    expect(byId[BUILTIN_ASSISTENCIA_CVC_ID]?.id).toBe('builtin-assistencia-cvc');
+    expect(byId[BUILTIN_ASSISTENCIA_LINHA_ARTERIAL_ID]?.id).toBe(
+      'builtin-assistencia-linha-arterial',
+    );
+
     expect(byId[BUILTIN_SONDAGEM_VESICAL_INSERCAO_ID]?.title).toBe(
       'Sondagem vesical (inserção / algaliação)',
     );
     expect(byId[BUILTIN_SONDAGEM_VESICAL_CUIDADOS_REMOCAO_ID]?.title).toBe(
       'Sondagem vesical (cuidados e remoção)',
     );
-    expect(byId[BUILTIN_ASSISTENCIA_CVC_ID]?.title).toBe(
-      'Assistência na colocação de CVC (feixe)',
-    );
+    expect(byId[BUILTIN_ASSISTENCIA_CVC_ID]?.title).toBe('Assistência na colocação de CVC (feixe)');
     expect(byId[BUILTIN_ASSISTENCIA_LINHA_ARTERIAL_ID]?.title).toBe(
       'Assistência na colocação de linha arterial',
     );
 
     const vesicalInsert = byId[BUILTIN_SONDAGEM_VESICAL_INSERCAO_ID];
-    const vesicalJoined = [...(vesicalInsert?.steps ?? []), ...(vesicalInsert?.attention ?? [])]
+    const vesicalCare = byId[BUILTIN_SONDAGEM_VESICAL_CUIDADOS_REMOCAO_ID];
+    const vesicalJoined = [
+      ...(vesicalInsert?.materials ?? []),
+      ...(vesicalInsert?.steps ?? []),
+      ...(vesicalInsert?.attention ?? []),
+      ...(vesicalCare?.steps ?? []),
+      ...(vesicalCare?.attention ?? []),
+    ]
       .join(' ')
       .toLowerCase();
+    // Vesical confirmation is not auscultation-based (N/A); keep CAUTI / closed-system language.
+    expect(vesicalJoined).not.toMatch(/auscult/);
     expect(vesicalJoined).toMatch(/indicação/);
     expect(vesicalJoined).toMatch(/técnica asséptica|asseptica/);
     expect(vesicalJoined).toMatch(/circuito fechado|sistema fechado/);
+    expect(vesicalJoined).toMatch(/cauti|iuacv/);
     expect(vesicalJoined).toMatch(/remoção precoce|manter apenas enquanto/);
     expect((vesicalInsert?.attention ?? []).join(' ')).toMatch(/PPCIRA/);
+    expect((vesicalCare?.attention ?? []).join(' ').toLowerCase()).toMatch(/cauti|sistema fechado/);
 
-    const cvcAttention = (byId[BUILTIN_ASSISTENCIA_CVC_ID]?.attention ?? []).join(' ');
+    const cvc = byId[BUILTIN_ASSISTENCIA_CVC_ID];
+    const cvcTitle = cvc?.title ?? '';
+    const cvcAttention = (cvc?.attention ?? []).join(' ');
+    expect(cvcTitle.toLowerCase()).toMatch(/assistência/);
+    expect(cvcTitle.toLowerCase()).not.toMatch(/inserção (independente|autónom)/);
     expect(cvcAttention.toLowerCase()).toMatch(/assistência|colaboração/);
     expect(cvcAttention.toLowerCase()).toMatch(/médico|profissional competente/);
     expect(cvcAttention.toLowerCase()).toMatch(/não implica inserção independente/);
+    expect(cvcAttention.toLowerCase()).not.toMatch(
+      /enfermeiro (generalista|de cuidados gerais) (insere|realiza a inserção|coloca o cvc) sozinho/,
+    );
     expect(cvcAttention.toLowerCase()).toMatch(/higiene das m[aã]os/);
     expect(cvcAttention.toLowerCase()).toMatch(/barreiras máximas|barreira.*máxima/);
     expect(cvcAttention.toLowerCase()).toMatch(/chd 2%/);
     expect(cvcAttention.toLowerCase()).toMatch(/femoral/);
     expect(cvcAttention).toMatch(/PPCIRA/);
 
-    const arterialTitle = byId[BUILTIN_ASSISTENCIA_LINHA_ARTERIAL_ID]?.title ?? '';
+    const arterial = byId[BUILTIN_ASSISTENCIA_LINHA_ARTERIAL_ID];
+    const arterialTitle = arterial?.title ?? '';
     expect(arterialTitle.toLowerCase()).toMatch(/assistência/);
-    const arterialAttention = (byId[BUILTIN_ASSISTENCIA_LINHA_ARTERIAL_ID]?.attention ?? []).join(
-      ' ',
+    expect(arterialTitle.toLowerCase()).not.toMatch(
+      /inserção independente|punção arterial autónom/,
     );
+    const arterialAttention = (arterial?.attention ?? []).join(' ');
     expect(arterialAttention.toLowerCase()).toMatch(/assistência|colaboração/);
     expect(arterialAttention.toLowerCase()).toMatch(/médico|profissional competente/);
     expect(arterialAttention.toLowerCase()).toMatch(
       /n[aã]o apresentar o enfermeiro generalista|operador autónomo/,
     );
     expect(arterialAttention).toMatch(/PPCIRA/);
+
+    // A-list IV push disclaimer remains present on the shared builtin catalog file.
+    const ivAttention = (byId[BUILTIN_IV_PUSH_BOLUS_ID]?.attention ?? []).join(' ');
+    expect(ivAttention).toMatch(/AVISO DE SEGURANÇA/);
+    expect(ivAttention.toLowerCase()).toMatch(/não substitui/);
   });
 
   it('parses valid user procedures and ignores invalid payloads', () => {

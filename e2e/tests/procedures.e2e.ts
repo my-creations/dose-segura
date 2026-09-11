@@ -68,9 +68,7 @@ test.describe('Nursing procedures', () => {
     await expect(
       page.getByTestId('catalog-already-added-builtin-sondagem-vesical-insercao'),
     ).toBeVisible();
-    await expect(
-      page.getByTestId('catalog-already-added-builtin-assistencia-cvc'),
-    ).toBeVisible();
+    await expect(page.getByTestId('catalog-already-added-builtin-assistencia-cvc')).toBeVisible();
 
     await page.getByTestId('catalog-add-builtin-cateterismo-venoso-periferico').click();
     await expect(page.getByTestId('procedure-detail')).toBeVisible();
