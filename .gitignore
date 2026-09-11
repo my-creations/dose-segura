@@ -58,3 +58,8 @@ coverage/
 
 # Local Pi task state
 .pi/tasks/
+
+# Verification skill runtime (keep evidence/.gitkeep)
+.cursor/skills/verify-dose-segura/.run/
+.cursor/skills/verify-dose-segura/evidence/**
+!.cursor/skills/verify-dose-segura/evidence/.gitkeep
