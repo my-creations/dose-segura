@@ -68,8 +68,37 @@ jobs:
         env:
           HUSKY: '0'
 
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('bun.lock') }}-chromium-webkit
+
       - name: Install Playwright browsers
-        run: bunx playwright install --with-deps chromium webkit
+        run: |
+          set -euo pipefail
+          retry() {
+            local attempt=1
+            local max_attempts=3
+            local delay=10
+            while true; do
+              if "$@"; then
+                return 0
+              fi
+              if [ "$attempt" -ge "$max_attempts" ]; then
+                echo "Command failed after ${max_attempts} attempts: $*"
+                return 1
+              fi
+              echo "Attempt ${attempt}/${max_attempts} failed for: $* — retrying in ${delay}s"
+              sleep "$delay"
+              attempt=$((attempt + 1))
+              delay=$((delay * 2))
+            done
+          }
+          # Download browsers only (no apt). Cache makes subsequent runs fast.
+          retry bunx playwright install chromium webkit
+          # OS deps use apt and are flaky against archive.ubuntu.com — retry with backoff.
+          retry bunx playwright install-deps chromium webkit
 
       - name: Run Playwright tests
         run: bun run e2e
