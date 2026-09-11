@@ -34,6 +34,46 @@ test.describe('Nursing procedures', () => {
     await expect(page.getByTestId('procedure-delete')).toBeVisible();
   });
 
+  test('previews a catalog template without adopting it', async ({ page }) => {
+    await page
+      .getByRole('tab', { name: new RegExp(Strings.pt.navigation.procedures, 'i') })
+      .click();
+    await expect(page.getByTestId('procedures-screen')).toBeVisible();
+
+    await page.getByText('Cateterismo venoso periférico').click();
+    await expect(page.getByTestId('procedure-detail')).toBeVisible();
+    page.once('dialog', (dialog) => dialog.accept());
+    await page.getByTestId('procedure-delete').click();
+    await expect(page.getByTestId('procedures-screen')).toBeVisible();
+    await expect(page.getByText('Cateterismo venoso periférico')).toHaveCount(0);
+
+    await page.getByTestId('procedures-new-button').click();
+    await page.getByTestId('procedures-add-from-catalog').click();
+    await expect(page.getByTestId('procedure-catalog-screen')).toBeVisible();
+
+    await expect(
+      page.getByTestId('catalog-view-builtin-cateterismo-venoso-periferico'),
+    ).toBeVisible();
+    await expect(
+      page.getByTestId('catalog-add-builtin-cateterismo-venoso-periferico'),
+    ).toBeVisible();
+
+    await page.getByTestId('catalog-view-builtin-cateterismo-venoso-periferico').click();
+    await expect(page.getByTestId('procedure-detail')).toBeVisible();
+    await expect(page.getByTestId('procedure-title')).toHaveText('Cateterismo venoso periférico');
+    await expect(page.getByText(Strings.pt.procedures.readOnly)).toBeVisible();
+    await expect(page.getByTestId('procedure-materials')).toContainText('Luvas');
+    await expect(page.getByTestId('procedure-steps')).toContainText('Identificar o doente');
+    await expect(page.getByTestId('procedure-attention')).toContainText('flebite');
+    await expect(page.getByTestId('procedure-add-from-catalog')).toBeVisible();
+    await expect(page.getByTestId('procedure-edit')).toHaveCount(0);
+    await expect(page.getByTestId('procedure-delete')).toHaveCount(0);
+
+    await page.goto('/procedures');
+    await expect(page.getByTestId('procedures-screen')).toBeVisible();
+    await expect(page.getByText('Cateterismo venoso periférico')).toHaveCount(0);
+  });
+
   test('adds from catalog after delete and creates a user procedure from the FAB menu', async ({
     page,
   }) => {
