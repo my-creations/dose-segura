@@ -52,6 +52,10 @@ jobs:
     name: Playwright E2E
     needs: quality
     runs-on: blacksmith-4vcpu-ubuntu-2404
+    # Official image ships browsers + OS deps — avoids flaky apt on archive.ubuntu.com.
+    # Keep tag aligned with @playwright/test in bun.lock (currently 1.58.1).
+    container:
+      image: mcr.microsoft.com/playwright:v1.58.1-noble
     timeout-minutes: 25
 
     steps:
@@ -67,41 +71,8 @@ jobs:
         run: bun install --frozen-lockfile
         env:
           HUSKY: '0'
-
-      - name: Cache Playwright browsers
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/ms-playwright
-          key: playwright-${{ runner.os }}-${{ hashFiles('bun.lock') }}-chromium-webkit
-
-      - name: Install Playwright browsers
-        run: |
-          set -euo pipefail
-          retry() {
-            local attempt=1
-            local max_attempts=3
-            local delay=10
-            local cmd_timeout="${CMD_TIMEOUT:-180}"
-            while true; do
-              if timeout --foreground "$cmd_timeout" "$@"; then
-                return 0
-              fi
-              local status=$?
-              # 124 = timeout(1) killed a hung command (typical for flaky apt)
-              if [ "$attempt" -ge "$max_attempts" ]; then
-                echo "Command failed after ${max_attempts} attempts (last exit ${status}): $*"
-                return 1
-              fi
-              echo "Attempt ${attempt}/${max_attempts} failed (exit ${status}) for: $* — retrying in ${delay}s"
-              sleep "$delay"
-              attempt=$((attempt + 1))
-              delay=$((delay * 2))
-            done
-          }
-          # Download browsers only (no apt). Cache makes subsequent runs fast.
-          CMD_TIMEOUT=300 retry bunx playwright install chromium webkit
-          # OS deps use apt and can hang on archive.ubuntu.com — hard timeout + backoff.
-          CMD_TIMEOUT=120 retry bunx playwright install-deps chromium webkit
+          # Use browsers baked into the Playwright image.
+          PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD: '1'
 
       - name: Run Playwright tests
         run: bun run e2e
