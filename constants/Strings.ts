@@ -141,6 +141,8 @@ export const Strings = {
           'Cálculos pediátricos e regras de três',
           'Procedimentos: criar e editar no menu modular',
           'Catálogo de modelos (CVP, SNG e A-list)',
+          'Preview de modelos no catálogo sem adicionar',
+          'Modelos B-list: sonda vesical, assistência CVC e arterial',
           'PWA com cache offline e atualização automática',
         ],
       },

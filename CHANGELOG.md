@@ -17,6 +17,8 @@ Lançamento centrado em ferramentas de apoio no dia a dia: cálculos, procedimen
 - Menu modular para criar e editar listas de verificação de enfermagem (#10)
 - Catálogo de modelos: adicionar, remover e voltar a adicionar starters (#11)
 - Modelos A-list enriquecidos: CVP e SNG, preparação de injectáveis, SC, IM, flush/remoção de CVP, medicação via SNG e IV push (#17)
+- Preview de modelos no catálogo sem adicionar (#19)
+- Modelos B-list: sonda vesical (inserção + cuidados/remoção), assistência CVC, assistência linha arterial (#18)
 
 ### PWA
 
