@@ -216,7 +216,7 @@ export default function CalculationsScreen() {
         >
           <View style={styles.intro}>
             <View style={[styles.introIcon, { backgroundColor: colors.mint + '55' }]}>
-              <Ionicons name="pulse-outline" size={32} color={colors.tint} />
+              <Ionicons name="calculator-outline" size={32} color={colors.tint} />
             </View>
             <ThemedText type="caption" style={styles.introText}>
               {i18n.t('calculations.intro')}
