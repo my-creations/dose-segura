@@ -5,6 +5,9 @@ const BUILTIN_UPDATED_AT = '2026-09-11T00:00:00.000Z';
 const PROTOCOL_FOOTER =
   'Validar sempre com o protocolo da instituição e o RCM do medicamento. Este conteúdo é de apoio clínico e não substitui normas locais.';
 
+const PROTOCOL_FOOTER_PPCIRA =
+  'Validar sempre com o protocolo da instituição / PPCIRA local. Conteúdo de apoio clínico; não substitui normas DGS nem competências OE.';
+
 export const BUILTIN_CVP_ID = 'builtin-cateterismo-venoso-periferico';
 export const BUILTIN_SNG_ID = 'builtin-sondagem-nasogastrica';
 export const BUILTIN_PREPARACAO_INJECTAVEIS_ID = 'builtin-preparacao-medicamentos-injectaveis';
@@ -13,6 +16,11 @@ export const BUILTIN_ADMINISTRACAO_IM_ID = 'builtin-administracao-intramuscular'
 export const BUILTIN_FLUSH_REMOCAO_CVP_ID = 'builtin-flush-remocao-cvp';
 export const BUILTIN_MEDICACAO_SNG_ID = 'builtin-medicacao-sonda-nasogastrica';
 export const BUILTIN_IV_PUSH_BOLUS_ID = 'builtin-administracao-iv-push-bolus';
+export const BUILTIN_SONDAGEM_VESICAL_INSERCAO_ID = 'builtin-sondagem-vesical-insercao';
+export const BUILTIN_SONDAGEM_VESICAL_CUIDADOS_REMOCAO_ID =
+  'builtin-sondagem-vesical-cuidados-remocao';
+export const BUILTIN_ASSISTENCIA_CVC_ID = 'builtin-assistencia-cvc';
+export const BUILTIN_ASSISTENCIA_LINHA_ARTERIAL_ID = 'builtin-assistencia-linha-arterial';
 
 export const builtinProcedures: Procedure[] = [
   {
@@ -291,6 +299,152 @@ export const builtinProcedures: Procedure[] = [
       'Não administrar irritantes por CVP se o protocolo exigir acesso central',
       'Nunca forçar contra resistência',
       PROTOCOL_FOOTER,
+    ],
+  },
+  {
+    id: BUILTIN_SONDAGEM_VESICAL_INSERCAO_ID,
+    title: 'Sondagem vesical (inserção / algaliação)',
+    source: 'builtin',
+    updatedAt: BUILTIN_UPDATED_AT,
+    materials: [
+      'Kit / algália de menor calibre adequado (tipo e comprimento por sexo/idade/finalidade)',
+      'Luvas estéreis e não estéreis',
+      'Campo fenestrado',
+      'Lubrificante hidrossolúvel estéril (embalagem unitária)',
+      'Água destilada/bidestilada e seringa para o balão (volume do fabricante)',
+      'Saco de drenagem em circuito fechado (anti-refluxo)',
+      'Compressas; resguardo; material de higiene genital',
+      'Adesivo / sistema de fixação',
+      'Contentor de resíduos',
+    ],
+    steps: [
+      'Identificar o doente; explicar o procedimento; assegurar privacidade',
+      'Confirmar indicação apropriada; considerar alternativas (intermitente, cateter externo ♂, etc.); documentar o motivo',
+      'Higiene das mãos (DGS 007/2019)',
+      'Selecionar o cateter (menor calibre compatível)',
+      'Posicionar (♂ dorsal com abdução; ♀ dorsal com flexão e abdução)',
+      'Higiene genital com água e sabão; secar; nova higiene das mãos',
+      'Técnica asséptica: campo estéril e luvas estéreis; limpeza do meato com solução estéril segundo protocolo local / PPCIRA',
+      'Aplicar lubrificante hidrossolúvel estéril',
+      'Ligar o cateter ao saco antes ou imediatamente após a inserção → circuito fechado',
+      'Inserir sem forçar (♂ cerca de 17–20 cm com gestão do ângulo peniano; ♀ cerca de 5–7,5 cm) até saída de urina',
+      'Avançar ligeiramente; encher o balão com água destilada/bidestilada no volume do fabricante (nunca SF 0,9% no balão)',
+      'Tracção suave de verificação; fixar (♂ abdómen/coxa superior; ♀ face interna da coxa)',
+      'Manter o saco abaixo da bexiga, sem tocar no chão; suporte adequado',
+      'Documentar: data/hora, calibre, tipo, volume do balão, indicação, aspeto da urina, reações',
+    ],
+    attention: [
+      'Procedimento invasivo: risco de infeção (IUACV/CAUTI) e trauma uretral; seguir protocolo da instituição e competências do profissional',
+      'Nunca forçar contra resistência (trauma / falsa via) — parar, reavaliar e pedir ajuda',
+      'Manter apenas enquanto houver indicação; o risco de IUACV acumula diariamente',
+      'Sistema fechado: não desligar rotineiramente; prevenção CAUTI (indicação, técnica asséptica, circuito fechado, remoção precoce)',
+      'Validar sempre POP/PPCIRA local (antisséptico do meato, kits)',
+      PROTOCOL_FOOTER_PPCIRA,
+    ],
+  },
+  {
+    id: BUILTIN_SONDAGEM_VESICAL_CUIDADOS_REMOCAO_ID,
+    title: 'Sondagem vesical (cuidados e remoção)',
+    source: 'builtin',
+    updatedAt: BUILTIN_UPDATED_AT,
+    materials: [
+      'Luvas',
+      'Avental (PBCI) quando manusear/esvaziar',
+      'Material de higiene do meato (água e sabão)',
+      'Recipiente individual para esvaziar o saco',
+      'Adesivo / reforço de fixação',
+      'Contentor de resíduos',
+    ],
+    steps: [
+      'Manutenção — higiene das mãos antes e depois de manipular o sistema',
+      'Manutenção — luvas e avental (PBCI) ao esvaziar ou manusear',
+      'Manutenção — higiene diária do meato (água e sabão no banho; sem antissépticos rotineiros desnecessários — DGS 019)',
+      'Manutenção — manter circuito fechado; esvaziar o saco a cerca de 2/3; válvula sem tocar no recipiente',
+      'Manutenção — saco abaixo da bexiga, fora do chão; fluxo contínuo; fixação sem tracção',
+      'Manutenção — amostra de urina só pelo porto próprio (nunca desligar o sistema)',
+      'Manutenção — avaliar e documentar diariamente a necessidade de manter; remover se sem indicação (protocolos nurse-driven encorajados)',
+      'Remoção — confirmar ordem/protocolo de remoção; explicar; higiene das mãos; luvas',
+      'Remoção — esvaziar completamente o balão; retirar suave na expiração/relaxamento; se resistência → parar',
+      'Remoção — higiene perineal; estimular micção; vigiar retenção (bladder scan se disponível)',
+      'Remoção — documentar hora, volume, aspeto e educação',
+    ],
+    attention: [
+      'Prevenção CAUTI: indicação diária, sistema fechado, remoção precoce',
+      'Não irrigar rotineiramente; trocar o sistema se desconexão ou obstrução frequente',
+      'Educação do doente/cuidador na alta quando aplicável',
+      PROTOCOL_FOOTER_PPCIRA,
+    ],
+  },
+  {
+    id: BUILTIN_ASSISTENCIA_CVC_ID,
+    title: 'Assistência na colocação de CVC (feixe)',
+    source: 'builtin',
+    updatedAt: BUILTIN_UPDATED_AT,
+    materials: [
+      'Kit de CVC (mínimo de lúmenes necessário)',
+      'Bata e luvas estéreis, touca e máscara para a equipa',
+      'Campos de grande dimensão',
+      'Clorexidina (CHD) 2% em álcool',
+      'SF 0,9%; seringas; lidocaína se prescrita',
+      'Penso; sutura/fixação',
+      'Contentor de cortantes',
+      'Checklist impressa do feixe (DGS/ULSSM)',
+    ],
+    steps: [
+      'Verificar indicação registada e tipo de CVC (mínimo de lúmenes); identificar o doente; explicar riscos/benefícios',
+      'Preparar sala/carro; material de barreira máxima; checklist do feixe DGS 022 / ULSSM',
+      'Monitorizar sinais vitais de base',
+      'Posicionar (ex.: Trendelenburg e rotação da cabeça para jugular; rolo subescapular para subclávia — segundo protocolo)',
+      'Higiene das mãos; apoiar preparação tipo pré-cirúrgica do operador e ajudantes',
+      'Garantir barreiras de proteção máxima (bata + luvas estéreis, touca, máscara; campos cobrindo a maior parte do corpo) em todos os intervenientes no raio do procedimento',
+      'Apoiar antissepsia da pele com CHD 2% alcoólica: friccionar e deixar secar (tempos segundo fabricante e POP; não tocar após)',
+      'Durante a inserção: manter assépsia; passar material estéril; nunca reintroduzir porção exteriorizada',
+      'Após: conectar sistemas estéreis; penso asséptico datado; fixação',
+      'Assegurar confirmação de posição por RX quando aplicável; vigiar pneumotórax, hemorragia e arritmia',
+      'Documentar: local, lúmenes, lote, operadores, cumprimento do feixe (sim/não por item) e exceções fundamentadas',
+    ],
+    attention: [
+      'AVISO DE SEGURANÇA: Assistência e colaboração com o médico / profissional competente na colocação — este template NÃO implica inserção independente de CVC não-tunelado pelo enfermeiro de cuidados gerais. PICC exige formação acreditada e protocolo institucional (OE Parecer 29/2020) e não equivale a CVC geral.',
+      'Feixe DGS 022 (tudo ou nada): higiene das mãos; barreiras máximas; CHD 2% alcoólica com secagem; evitar acesso femoral (preferir subclávia/jugular); competência/treino e mínimo de lúmenes',
+      'Riscos: CLABSI, pneumotórax, hemorragia, arritmia, embolia gasosa, malposição',
+      'CVC de emergência sem assépsia adequada → substituir ≤48 h (ULSSM/ACSS)',
+      'Manutenção (penso/hubs/remoção diária) é enfermagem com treino — ver POP/PPCIRA; não é o corpo principal deste template',
+      PROTOCOL_FOOTER_PPCIRA,
+    ],
+  },
+  {
+    id: BUILTIN_ASSISTENCIA_LINHA_ARTERIAL_ID,
+    title: 'Assistência na colocação de linha arterial',
+    source: 'builtin',
+    updatedAt: BUILTIN_UPDATED_AT,
+    materials: [
+      'Cateter arterial adequado e kit',
+      'Luvas estéreis, bata/avental, touca, máscara; campo fenestrado',
+      'CHD 2% em álcool',
+      'Kit de transdutor descartável; cabo PAI; bolsa pressurizadora',
+      'SF 0,9% (heparina só se o protocolo local o exigir)',
+      'Penso estéril',
+      'Contentor de cortantes',
+    ],
+    steps: [
+      'Confirmar indicação e identidade; explicar; monitorização básica',
+      'Teste de circulação colateral se radial (Allen/Barbeau — segundo protocolo local)',
+      'Preparar material e montar circuito PAI: SF 0,9%, transdutor de uso único, pressurizador cerca de 300 mmHg, purge de ar',
+      'Posicionar o membro; higiene das mãos; apoiar barreiras',
+      'Barreiras mínimas (ULSSM): touca, máscara, bata/avental, luvas estéreis, campo fenestrado; se femoral/axilar → barreiras de proteção máxima (como CVC)',
+      'Apoiar antissepsia com CHD 2% alcoólica (fricção + secar) pelo operador',
+      'Após inserção pelo profissional competente: conectar o sistema sem ar; verificar refluxo arterial; flush; fixar; penso estéril',
+      'Nivelar e zerar o transdutor (eixo flebostático / 4.º EIC linha média axilar — POP)',
+      'Vigiar curva, perfusão distal, sangramento e hematoma; alarmes',
+      'Documentar local, lado, data/hora, operador, tipo de cateter e testes',
+    ],
+    attention: [
+      'AVISO DE SEGURANÇA: Assistência / colaboração com o médico / profissional competente — NÃO apresentar o enfermeiro generalista como operador autónomo da punção arterial, salvo protocolo institucional explícito e competências reconhecidas',
+      'Riscos: hemorragia, isquemia distal, trombose, infeção, embolia aérea no sistema',
+      'Nunca injectar medicamentos pela linha arterial salvo protocolo explícito de emergência',
+      'Preferir radial/braquial/pediosa vs femoral/axilar (ULSSM); remover logo que desnecessário; não troca rotineira sem indicação',
+      'Transdutores/componentes: intervalo de 96 h (ULSSM) salvo POP diferente',
+      PROTOCOL_FOOTER_PPCIRA,
     ],
   },
 ];
