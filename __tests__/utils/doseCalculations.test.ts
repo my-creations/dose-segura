@@ -1,9 +1,14 @@
 import {
+  CALCULATION_MODES,
   calculateDoseByWeight,
   calculateMgPerKg,
   calculateVolumeToDraw,
+  fieldSchemasForMode,
   formatDecimal,
   parseDecimalInput,
+  primaryResultLabelKeyForMode,
+  run,
+  type CalculationMode,
   type DoseCalculationResult,
   type DoseCalculationSuccess,
 } from '@/utils/doseCalculations';
@@ -614,5 +619,172 @@ describe('calculateMgPerKg', () => {
     expect(result.ok).toBe(true);
     expectOkPositive(result);
     expectDisplayedValue(result, 0.125 * 0.5);
+  });
+});
+
+describe('Dose Calculation Aid mode facade', () => {
+  it('exposes modes in chip order with label keys and testIDs', () => {
+    expect(CALCULATION_MODES.map((mode) => mode.id)).toEqual([
+      'dose-by-weight',
+      'volume',
+      'mg-per-kg',
+    ]);
+    expect(CALCULATION_MODES).toEqual([
+      {
+        id: 'dose-by-weight',
+        labelKey: 'calculations.modes.doseByWeight',
+        testID: 'calculation-mode-dose-by-weight',
+      },
+      {
+        id: 'volume',
+        labelKey: 'calculations.modes.volume',
+        testID: 'calculation-mode-volume',
+      },
+      {
+        id: 'mg-per-kg',
+        labelKey: 'calculations.modes.mgPerKg',
+        testID: 'calculation-mode-mg-per-kg',
+      },
+    ]);
+  });
+
+  it('returns field schemas as i18n keys (not resolved strings) for dose-by-weight', () => {
+    expect(fieldSchemasForMode('dose-by-weight')).toEqual([
+      {
+        key: 'doseRef',
+        questionKey: 'calculations.doseByWeight.doseRefQuestion',
+        hintKey: 'calculations.doseByWeight.doseRefHint',
+        unitKey: 'calculations.units.mg',
+        testID: 'calculation-input-dose-ref',
+      },
+      {
+        key: 'weightRef',
+        questionKey: 'calculations.doseByWeight.weightRefQuestion',
+        hintKey: 'calculations.doseByWeight.weightRefHint',
+        unitKey: 'calculations.units.kg',
+        testID: 'calculation-input-weight-ref',
+      },
+      {
+        key: 'patientWeight',
+        questionKey: 'calculations.doseByWeight.patientWeightQuestion',
+        hintKey: 'calculations.doseByWeight.patientWeightHint',
+        unitKey: 'calculations.units.kg',
+        testID: 'calculation-input-patient-weight',
+      },
+    ]);
+  });
+
+  it('returns volume and mg/kg field schemas with optional concentration on mg/kg', () => {
+    expect(fieldSchemasForMode('volume').map((field) => field.key)).toEqual([
+      'prescribedDose',
+      'concentration',
+    ]);
+    expect(fieldSchemasForMode('volume')[0]).toMatchObject({
+      questionKey: 'calculations.volume.prescribedDoseQuestion',
+      hintKey: 'calculations.volume.prescribedDoseHint',
+      unitKey: 'calculations.units.mg',
+      testID: 'calculation-input-prescribed-dose',
+    });
+
+    const mgPerKg = fieldSchemasForMode('mg-per-kg');
+    expect(mgPerKg.map((field) => field.key)).toEqual([
+      'dosePerKg',
+      'patientWeight',
+      'concentration',
+    ]);
+    expect(mgPerKg[2]).toMatchObject({
+      optional: true,
+      questionKey: 'calculations.mgPerKg.concentrationQuestion',
+      hintKey: 'calculations.mgPerKg.concentrationHint',
+      unitKey: 'calculations.units.mgPerMl',
+      testID: 'calculation-input-concentration',
+    });
+  });
+
+  it('exposes primary result label keys per mode', () => {
+    expect(primaryResultLabelKeyForMode('dose-by-weight')).toBe(
+      'calculations.doseByWeight.resultLabel',
+    );
+    expect(primaryResultLabelKeyForMode('volume')).toBe('calculations.volume.resultLabel');
+    expect(primaryResultLabelKeyForMode('mg-per-kg')).toBe('calculations.mgPerKg.resultLabel');
+  });
+
+  it('run dispatches dose-by-weight with the same mapping as the screen used', () => {
+    const result = run('dose-by-weight', {
+      doseRef: '100',
+      weightRef: '70',
+      patientWeight: '7,5',
+    });
+    expect(result.ok).toBe(true);
+    if (!result.ok) {
+      throw new Error('expected ok');
+    }
+    expect(result.primaryLabelKey).toBe('calculations.doseByWeight.resultLabel');
+    expect(result.secondaryLabelKey).toBeUndefined();
+    expect(result.secondary).toBeUndefined();
+    expectDisplayedValue(result, (100 * 7.5) / 70);
+    expect(result.unit).toBe('mg');
+  });
+
+  it('run dispatches volume mode', () => {
+    const result = run('volume', {
+      prescribedDose: '15',
+      concentration: '5',
+    });
+    expect(result.ok).toBe(true);
+    if (!result.ok) {
+      throw new Error('expected ok');
+    }
+    expect(result.primaryLabelKey).toBe('calculations.volume.resultLabel');
+    expectDisplayedValue(result, 3);
+    expect(result.unit).toBe('mL');
+  });
+
+  it('run attaches secondary label key for mg/kg volume without requiring screen mode checks', () => {
+    const withoutConcentration = run('mg-per-kg', {
+      dosePerKg: '10',
+      patientWeight: '3,2',
+    });
+    expect(withoutConcentration.ok).toBe(true);
+    if (!withoutConcentration.ok) {
+      throw new Error('expected ok');
+    }
+    expect(withoutConcentration.primaryLabelKey).toBe('calculations.mgPerKg.resultLabel');
+    expect(withoutConcentration.secondary).toBeUndefined();
+    expect(withoutConcentration.secondaryLabelKey).toBeUndefined();
+    expectDisplayedValue(withoutConcentration, 32);
+
+    const withConcentration = run('mg-per-kg', {
+      dosePerKg: '10',
+      patientWeight: '3,2',
+      concentration: '5',
+    });
+    expect(withConcentration.ok).toBe(true);
+    if (!withConcentration.ok) {
+      throw new Error('expected ok');
+    }
+    expect(withConcentration.primaryLabelKey).toBe('calculations.mgPerKg.resultLabel');
+    expect(withConcentration.secondaryLabelKey).toBe('calculations.mgPerKg.volumeLabel');
+    expect(withConcentration.secondary).toEqual({
+      value: 32 / 5,
+      unit: 'mL',
+      formula: '32 mg ÷ 5 mg/mL = 6,4 mL',
+    });
+  });
+
+  it.each([
+    ['dose-by-weight', {}, 'empty'],
+    ['volume', { prescribedDose: '10', concentration: '0' }, 'zeroOrNegative'],
+    ['mg-per-kg', { dosePerKg: 'abc', patientWeight: '5' }, 'invalid'],
+  ] as const)('run preserves failure semantics for %s', (mode, values, error) => {
+    expect(run(mode as CalculationMode, values as Record<string, string>)).toEqual({
+      ok: false,
+      error,
+    });
+  });
+
+  it('run treats missing value keys as empty strings', () => {
+    expect(run('dose-by-weight', {})).toEqual({ ok: false, error: 'empty' });
+    expect(run('volume', { prescribedDose: '10' })).toEqual({ ok: false, error: 'empty' });
   });
 });

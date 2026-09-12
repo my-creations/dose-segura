@@ -137,5 +137,5 @@ Web-only flow offering install-to-home-screen when the browser exposes an instal
 _Avoid_: Native install, app store install
 
 **Dose Calculation Aid**:
-A guided helper for regra de três, volume to draw, and mg/kg arithmetic. Substitutes the entered numbers into a visible formula. Not a prescribing calculator and not a keypad calculator.
+A guided helper for regra de três, volume to draw, and mg/kg arithmetic. Substitutes the entered numbers into a visible formula. Mode facade (schemas, label keys, and dispatch) lives behind `doseCalculations`. Not a prescribing calculator and not a keypad calculator.
 _Avoid_: Dosing calculator, prescription tool, calculator keypad

@@ -499,3 +499,179 @@ export function calculateMgPerKg(input: {
     },
   };
 }
+
+/** Chip / registry entry for Dose Calculation Aid modes (i18n label keys, not resolved copy). */
+export type CalculationModeDefinition = {
+  id: CalculationMode;
+  labelKey: string;
+  testID: string;
+};
+
+/** Field schema for a mode — question/hint/unit are i18n keys for the screen to resolve. */
+export type CalculationFieldSchema = {
+  key: string;
+  questionKey: string;
+  hintKey: string;
+  unitKey: string;
+  testID: string;
+  optional?: boolean;
+};
+
+export type DoseCalculationRunSuccess = DoseCalculationSuccess & {
+  primaryLabelKey: string;
+  /** Present when `secondary` is present (mg/kg optional volume). */
+  secondaryLabelKey?: string;
+};
+
+export type DoseCalculationRunResult = DoseCalculationRunSuccess | DoseCalculationFailure;
+
+export const CALCULATION_MODES: readonly CalculationModeDefinition[] = [
+  {
+    id: 'dose-by-weight',
+    labelKey: 'calculations.modes.doseByWeight',
+    testID: 'calculation-mode-dose-by-weight',
+  },
+  {
+    id: 'volume',
+    labelKey: 'calculations.modes.volume',
+    testID: 'calculation-mode-volume',
+  },
+  {
+    id: 'mg-per-kg',
+    labelKey: 'calculations.modes.mgPerKg',
+    testID: 'calculation-mode-mg-per-kg',
+  },
+] as const;
+
+const PRIMARY_RESULT_LABEL_KEYS: Record<CalculationMode, string> = {
+  'dose-by-weight': 'calculations.doseByWeight.resultLabel',
+  volume: 'calculations.volume.resultLabel',
+  'mg-per-kg': 'calculations.mgPerKg.resultLabel',
+};
+
+const MG_PER_KG_SECONDARY_LABEL_KEY = 'calculations.mgPerKg.volumeLabel';
+
+export function fieldSchemasForMode(mode: CalculationMode): CalculationFieldSchema[] {
+  if (mode === 'volume') {
+    return [
+      {
+        key: 'prescribedDose',
+        questionKey: 'calculations.volume.prescribedDoseQuestion',
+        hintKey: 'calculations.volume.prescribedDoseHint',
+        unitKey: 'calculations.units.mg',
+        testID: 'calculation-input-prescribed-dose',
+      },
+      {
+        key: 'concentration',
+        questionKey: 'calculations.volume.concentrationQuestion',
+        hintKey: 'calculations.volume.concentrationHint',
+        unitKey: 'calculations.units.mgPerMl',
+        testID: 'calculation-input-concentration',
+      },
+    ];
+  }
+
+  if (mode === 'mg-per-kg') {
+    return [
+      {
+        key: 'dosePerKg',
+        questionKey: 'calculations.mgPerKg.dosePerKgQuestion',
+        hintKey: 'calculations.mgPerKg.dosePerKgHint',
+        unitKey: 'calculations.units.mgPerKg',
+        testID: 'calculation-input-dose-per-kg',
+      },
+      {
+        key: 'patientWeight',
+        questionKey: 'calculations.mgPerKg.patientWeightQuestion',
+        hintKey: 'calculations.mgPerKg.patientWeightHint',
+        unitKey: 'calculations.units.kg',
+        testID: 'calculation-input-patient-weight',
+      },
+      {
+        key: 'concentration',
+        questionKey: 'calculations.mgPerKg.concentrationQuestion',
+        hintKey: 'calculations.mgPerKg.concentrationHint',
+        unitKey: 'calculations.units.mgPerMl',
+        testID: 'calculation-input-concentration',
+        optional: true,
+      },
+    ];
+  }
+
+  return [
+    {
+      key: 'doseRef',
+      questionKey: 'calculations.doseByWeight.doseRefQuestion',
+      hintKey: 'calculations.doseByWeight.doseRefHint',
+      unitKey: 'calculations.units.mg',
+      testID: 'calculation-input-dose-ref',
+    },
+    {
+      key: 'weightRef',
+      questionKey: 'calculations.doseByWeight.weightRefQuestion',
+      hintKey: 'calculations.doseByWeight.weightRefHint',
+      unitKey: 'calculations.units.kg',
+      testID: 'calculation-input-weight-ref',
+    },
+    {
+      key: 'patientWeight',
+      questionKey: 'calculations.doseByWeight.patientWeightQuestion',
+      hintKey: 'calculations.doseByWeight.patientWeightHint',
+      unitKey: 'calculations.units.kg',
+      testID: 'calculation-input-patient-weight',
+    },
+  ];
+}
+
+export function primaryResultLabelKeyForMode(mode: CalculationMode): string {
+  return PRIMARY_RESULT_LABEL_KEYS[mode];
+}
+
+/**
+ * Dispatch Dose Calculation Aid inputs to the matching pure calculator.
+ * On success, attaches primary (and optional secondary) result label keys so the
+ * screen does not branch on mode for captions.
+ */
+export function run(
+  mode: CalculationMode,
+  values: Record<string, string>,
+): DoseCalculationRunResult {
+  let result: DoseCalculationResult;
+
+  if (mode === 'volume') {
+    result = calculateVolumeToDraw({
+      prescribedDose: values.prescribedDose ?? '',
+      concentration: values.concentration ?? '',
+    });
+  } else if (mode === 'mg-per-kg') {
+    result = calculateMgPerKg({
+      dosePerKg: values.dosePerKg ?? '',
+      patientWeight: values.patientWeight ?? '',
+      concentration: values.concentration ?? '',
+    });
+  } else {
+    result = calculateDoseByWeight({
+      doseRef: values.doseRef ?? '',
+      weightRef: values.weightRef ?? '',
+      patientWeight: values.patientWeight ?? '',
+    });
+  }
+
+  if (!result.ok) {
+    return result;
+  }
+
+  const primaryLabelKey = PRIMARY_RESULT_LABEL_KEYS[mode];
+  if (result.secondary) {
+    return {
+      ...result,
+      primaryLabelKey,
+      secondaryLabelKey: MG_PER_KG_SECONDARY_LABEL_KEY,
+    };
+  }
+
+  return {
+    ...result,
+    primaryLabelKey,
+  };
+}
