@@ -17,144 +17,13 @@ import { Colors } from '@/constants/Colors';
 import { pastelCardShadow } from '@/constants/Shadows';
 import { useColorScheme } from '@/hooks/useColorScheme';
 import {
-  calculateDoseByWeight,
-  calculateMgPerKg,
-  calculateVolumeToDraw,
+  CALCULATION_MODES,
+  fieldSchemasForMode,
   formatDecimal,
+  run,
   type CalculationMode,
-  type DoseCalculationResult,
 } from '@/utils/doseCalculations';
 import i18n from '@/utils/i18n';
-
-type FieldConfig = {
-  key: string;
-  question: string;
-  hint: string;
-  unit: string;
-  testID: string;
-  optional?: boolean;
-};
-
-const MODES: { id: CalculationMode; labelKey: string; testID: string }[] = [
-  {
-    id: 'dose-by-weight',
-    labelKey: 'calculations.modes.doseByWeight',
-    testID: 'calculation-mode-dose-by-weight',
-  },
-  {
-    id: 'volume',
-    labelKey: 'calculations.modes.volume',
-    testID: 'calculation-mode-volume',
-  },
-  {
-    id: 'mg-per-kg',
-    labelKey: 'calculations.modes.mgPerKg',
-    testID: 'calculation-mode-mg-per-kg',
-  },
-];
-
-function fieldsForMode(mode: CalculationMode): FieldConfig[] {
-  if (mode === 'volume') {
-    return [
-      {
-        key: 'prescribedDose',
-        question: i18n.t('calculations.volume.prescribedDoseQuestion'),
-        hint: i18n.t('calculations.volume.prescribedDoseHint'),
-        unit: i18n.t('calculations.units.mg'),
-        testID: 'calculation-input-prescribed-dose',
-      },
-      {
-        key: 'concentration',
-        question: i18n.t('calculations.volume.concentrationQuestion'),
-        hint: i18n.t('calculations.volume.concentrationHint'),
-        unit: i18n.t('calculations.units.mgPerMl'),
-        testID: 'calculation-input-concentration',
-      },
-    ];
-  }
-
-  if (mode === 'mg-per-kg') {
-    return [
-      {
-        key: 'dosePerKg',
-        question: i18n.t('calculations.mgPerKg.dosePerKgQuestion'),
-        hint: i18n.t('calculations.mgPerKg.dosePerKgHint'),
-        unit: i18n.t('calculations.units.mgPerKg'),
-        testID: 'calculation-input-dose-per-kg',
-      },
-      {
-        key: 'patientWeight',
-        question: i18n.t('calculations.mgPerKg.patientWeightQuestion'),
-        hint: i18n.t('calculations.mgPerKg.patientWeightHint'),
-        unit: i18n.t('calculations.units.kg'),
-        testID: 'calculation-input-patient-weight',
-      },
-      {
-        key: 'concentration',
-        question: i18n.t('calculations.mgPerKg.concentrationQuestion'),
-        hint: i18n.t('calculations.mgPerKg.concentrationHint'),
-        unit: i18n.t('calculations.units.mgPerMl'),
-        testID: 'calculation-input-concentration',
-        optional: true,
-      },
-    ];
-  }
-
-  return [
-    {
-      key: 'doseRef',
-      question: i18n.t('calculations.doseByWeight.doseRefQuestion'),
-      hint: i18n.t('calculations.doseByWeight.doseRefHint'),
-      unit: i18n.t('calculations.units.mg'),
-      testID: 'calculation-input-dose-ref',
-    },
-    {
-      key: 'weightRef',
-      question: i18n.t('calculations.doseByWeight.weightRefQuestion'),
-      hint: i18n.t('calculations.doseByWeight.weightRefHint'),
-      unit: i18n.t('calculations.units.kg'),
-      testID: 'calculation-input-weight-ref',
-    },
-    {
-      key: 'patientWeight',
-      question: i18n.t('calculations.doseByWeight.patientWeightQuestion'),
-      hint: i18n.t('calculations.doseByWeight.patientWeightHint'),
-      unit: i18n.t('calculations.units.kg'),
-      testID: 'calculation-input-patient-weight',
-    },
-  ];
-}
-
-function compute(mode: CalculationMode, values: Record<string, string>): DoseCalculationResult {
-  if (mode === 'volume') {
-    return calculateVolumeToDraw({
-      prescribedDose: values.prescribedDose ?? '',
-      concentration: values.concentration ?? '',
-    });
-  }
-  if (mode === 'mg-per-kg') {
-    return calculateMgPerKg({
-      dosePerKg: values.dosePerKg ?? '',
-      patientWeight: values.patientWeight ?? '',
-      concentration: values.concentration ?? '',
-    });
-  }
-  return calculateDoseByWeight({
-    doseRef: values.doseRef ?? '',
-    weightRef: values.weightRef ?? '',
-    patientWeight: values.patientWeight ?? '',
-  });
-}
-
-function resultLabelForMode(mode: CalculationMode): string {
-  if (mode === 'volume') {
-    return i18n.t('calculations.volume.resultLabel');
-  }
-  if (mode === 'mg-per-kg') {
-    return i18n.t('calculations.mgPerKg.resultLabel');
-  }
-  return i18n.t('calculations.doseByWeight.resultLabel');
-}
 
 export default function CalculationsScreen() {
   const colorScheme = useColorScheme();
@@ -164,8 +33,8 @@ export default function CalculationsScreen() {
   const [focusedKey, setFocusedKey] = useState<string | null>(null);
   const inputRefs = useRef<Record<string, TextInput | null>>({});
 
-  const fields = useMemo(() => fieldsForMode(mode), [mode]);
-  const result = useMemo(() => compute(mode, values), [mode, values]);
+  const fields = useMemo(() => fieldSchemasForMode(mode), [mode]);
+  const result = useMemo(() => run(mode, values), [mode, values]);
 
   const handleChangeMode = (next: CalculationMode) => {
     if (next === mode) {
@@ -224,7 +93,7 @@ export default function CalculationsScreen() {
           </View>
 
           <View style={styles.modes} testID="calculation-modes">
-            {MODES.map((item) => {
+            {CALCULATION_MODES.map((item) => {
               const selected = mode === item.id;
               return (
                 <Pressable
@@ -260,9 +129,9 @@ export default function CalculationsScreen() {
           {fields.map((field, index) => (
             <CalculationField
               key={`${mode}-${field.key}`}
-              question={field.question}
-              hint={field.hint}
-              unit={field.unit}
+              question={i18n.t(field.questionKey)}
+              hint={i18n.t(field.hintKey)}
+              unit={i18n.t(field.unitKey)}
               testID={field.testID}
               value={values[field.key] ?? ''}
               onChangeText={(text) =>
@@ -306,7 +175,7 @@ export default function CalculationsScreen() {
               style={[styles.resultCard, { backgroundColor: colors.cardBackground }]}
             >
               <ThemedText type="caption" style={styles.resultLabel}>
-                {resultLabelForMode(mode)}
+                {i18n.t(result.primaryLabelKey)}
               </ThemedText>
               <View style={styles.resultValueRow}>
                 <ThemedText
@@ -326,10 +195,10 @@ export default function CalculationsScreen() {
               <ThemedText testID="calculation-result-formula" type="caption" style={styles.formula}>
                 {result.formula}
               </ThemedText>
-              {result.secondary ? (
+              {result.secondary && result.secondaryLabelKey ? (
                 <View style={styles.secondaryResult}>
                   <ThemedText type="caption" style={styles.resultLabel}>
-                    {i18n.t('calculations.mgPerKg.volumeLabel')}
+                    {i18n.t(result.secondaryLabelKey)}
                   </ThemedText>
                   <View style={styles.resultValueRow}>
                     <ThemedText
