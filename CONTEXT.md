@@ -88,6 +88,10 @@ _Avoid_: Catalog (when meaning this user list), combined builtins+users list
 One-time upgrade seed: when the flag is absent, missing catalog templates are adopted into user storage so existing installs keep CVP/SNG after templates stop being auto-merged. After the flag is set, delete + re-add from the catalog works without re-seeding.
 _Avoid_: Soft reset, builtins merge
 
+**User Procedures Workspace**:
+The deep module that owns the Procedures List lifecycle for User Procedures: load/parse, catalog migration seed, optimistic create/update/delete/duplicate/adopt, CAS full-list reconcile persist, and web multi-tab `storage` sync. `ProceduresContext` is only a thin React adapter that holds a workspace instance and mirrors its snapshot for screens.
+_Avoid_: Repository, storage service, persistence layer, procedures service (when meaning this workspace)
+
 ### Data sources
 
 **Canonical Medications Data**:

@@ -1,39 +1,12 @@
-import React, {
-  createContext,
-  useCallback,
-  useContext,
-  useEffect,
-  useMemo,
-  useRef,
-  useState,
-} from 'react';
+import React, { createContext, useContext, useEffect, useMemo, useState } from 'react';
 
-import { builtinProcedures } from '@/procedures/builtin';
 import {
-  CATALOG_MIGRATION_KEY,
-  CATALOG_MIGRATION_VALUE,
-  STORAGE_KEY,
-  adoptFromCatalog,
-  availableCatalogTemplates,
-  duplicateAsUserProcedure,
-  findCatalogTemplate,
-  isCatalogTemplateAdopted,
-  mergeLoadedProcedures,
-  parseProcedures,
-  sanitizeDraft,
-  searchProcedures,
-  seedMissingCatalogTemplates,
-  serializeProcedures,
-  validateDraft,
-  createUserProcedureId,
-  reconcilePersistedUsers,
-} from '@/procedures/procedures';
+  createUserProceduresWorkspace,
+  type UserProceduresWorkspace,
+} from '@/procedures/userProcedures';
 import { keyValueStore } from '@/storage/keyValueStore';
 import type { KeyValueStore } from '@/storage/types';
 import type { Procedure, ProcedureDraft } from '@/types/procedure';
-import i18n from '@/utils/i18n';
-
-const PERSIST_RETRY_LIMIT = 6;
 
 export interface ProceduresContextType {
   /** Visible Procedures List — user procedures only (catalog templates are not auto-listed). */
@@ -64,383 +37,48 @@ interface ProceduresProviderProps {
   store?: KeyValueStore;
 }
 
+function bindWorkspace(workspace: UserProceduresWorkspace): ProceduresContextType {
+  const snapshot = workspace.getSnapshot();
+  return {
+    procedures: snapshot.procedures,
+    catalogTemplates: workspace.catalogTemplates as Procedure[],
+    isLoading: snapshot.isLoading,
+    storageReady: snapshot.storageReady,
+    lastError: snapshot.lastError,
+    getProcedure: (id) => workspace.getProcedure(id),
+    search: (query) => workspace.search(query),
+    createProcedure: (draft) => workspace.createProcedure(draft),
+    updateProcedure: (id, draft) => workspace.updateProcedure(id, draft),
+    deleteProcedure: (id) => workspace.deleteProcedure(id),
+    duplicateProcedure: (id) => workspace.duplicateProcedure(id),
+    addFromCatalog: (templateId) => workspace.addFromCatalog(templateId),
+    getAvailableCatalogTemplates: () => workspace.getAvailableCatalogTemplates(),
+    isTemplateAdopted: (templateId) => workspace.isTemplateAdopted(templateId),
+  };
+}
+
+/**
+ * Thin React adapter over UserProceduresWorkspace.
+ * Screens keep the same useProcedures / ProceduresContextType API.
+ */
 export function ProceduresProvider({ children, store = keyValueStore }: ProceduresProviderProps) {
-  const [procedures, setProcedures] = useState<Procedure[]>([]);
-  const [isLoading, setIsLoading] = useState(true);
-  const [storageReady, setStorageReady] = useState(false);
-  const [lastError, setLastError] = useState<string | null>(null);
-  const lastErrorRef = useRef(lastError);
-  const proceduresRef = useRef(procedures);
-  const deletedIdsRef = useRef(new Set<string>());
-  const pendingUpsertIdsRef = useRef(new Set<string>());
-  const persistChainRef = useRef(Promise.resolve());
-
-  const setTrackedLastError = useCallback((error: string | null) => {
-    lastErrorRef.current = error;
-    setLastError(error);
-  }, []);
+  const workspace = useMemo(() => createUserProceduresWorkspace(store), [store]);
+  const [value, setValue] = useState(() => bindWorkspace(workspace));
 
   useEffect(() => {
-    let cancelled = false;
-
-    async function loadProcedures() {
-      try {
-        const raw = await store.getItem(STORAGE_KEY);
-        if (cancelled) {
-          return;
-        }
-
-        let fromDisk = parseProcedures(raw);
-        const migrationFlag = await store.getItem(CATALOG_MIGRATION_KEY);
-
-        if (migrationFlag !== CATALOG_MIGRATION_VALUE) {
-          const seeded = seedMissingCatalogTemplates(fromDisk, builtinProcedures);
-          if (seeded !== fromDisk) {
-            fromDisk = seeded;
-            await store.setItem(STORAGE_KEY, serializeProcedures(fromDisk));
-          }
-          await store.setItem(CATALOG_MIGRATION_KEY, CATALOG_MIGRATION_VALUE);
-        }
-
-        if (cancelled) {
-          return;
-        }
-
-        setProcedures((current) => {
-          const next = mergeLoadedProcedures(
-            builtinProcedures,
-            fromDisk,
-            current,
-            pendingUpsertIdsRef.current,
-          );
-          proceduresRef.current = next;
-          return next;
-        });
-        setStorageReady(true);
-      } catch (error) {
-        console.error('Error loading procedures:', error);
-        if (!cancelled) {
-          setTrackedLastError(i18n.t('procedures.persistError'));
-          setStorageReady(false);
-        }
-      } finally {
-        if (!cancelled) {
-          setIsLoading(false);
-        }
-      }
-    }
-
-    void loadProcedures();
+    setValue(bindWorkspace(workspace));
+    workspace.start();
+    const unsubscribe = workspace.subscribe(() => {
+      setValue(bindWorkspace(workspace));
+    });
+    // Mirror any state settled synchronously during start().
+    setValue(bindWorkspace(workspace));
 
     return () => {
-      cancelled = true;
+      unsubscribe();
+      workspace.dispose();
     };
-  }, [setTrackedLastError, store]);
-
-  useEffect(() => {
-    if (typeof window === 'undefined' || typeof window.addEventListener !== 'function') {
-      return;
-    }
-
-    const onStorage = (event: Event) => {
-      const key = (event as { key?: unknown }).key;
-      if (key !== STORAGE_KEY) {
-        return;
-      }
-
-      const newValue = (event as { newValue?: unknown }).newValue;
-      const raw = typeof newValue === 'string' ? newValue : null;
-      const fromDisk = parseProcedures(raw);
-      setProcedures((current) => {
-        const merged = mergeLoadedProcedures(
-          builtinProcedures,
-          fromDisk,
-          current,
-          pendingUpsertIdsRef.current,
-        );
-        const next =
-          deletedIdsRef.current.size === 0
-            ? merged
-            : merged.filter(
-                (procedure) =>
-                  procedure.source !== 'user' || !deletedIdsRef.current.has(procedure.id),
-              );
-        proceduresRef.current = next;
-        return next;
-      });
-    };
-
-    window.addEventListener('storage', onStorage);
-    return () => {
-      if (typeof window.removeEventListener === 'function') {
-        window.removeEventListener('storage', onStorage);
-      }
-    };
-  }, []);
-
-  const persistAndTrack = useCallback(() => {
-    if (!storageReady) {
-      return Promise.resolve();
-    }
-
-    const run = async () => {
-      try {
-        for (let attempt = 0; attempt < PERSIST_RETRY_LIMIT; attempt += 1) {
-          const raw = await store.getItem(STORAGE_KEY);
-          const diskUsers = parseProcedures(raw);
-          const intended = proceduresRef.current.filter((procedure) => procedure.source === 'user');
-          const nextUsers = reconcilePersistedUsers(intended, diskUsers, deletedIdsRef.current);
-          const payload = serializeProcedures(nextUsers);
-
-          const latestRaw = await store.getItem(STORAGE_KEY);
-          if (latestRaw !== raw) {
-            continue;
-          }
-
-          await store.setItem(STORAGE_KEY, payload);
-
-          const confirm = await store.getItem(STORAGE_KEY);
-          if (confirm === payload) {
-            for (const procedure of nextUsers) {
-              pendingUpsertIdsRef.current.delete(procedure.id);
-            }
-            for (const id of deletedIdsRef.current) {
-              pendingUpsertIdsRef.current.delete(id);
-            }
-            setTrackedLastError(null);
-            return;
-          }
-        }
-
-        throw new Error('Procedure persist conflict');
-      } catch (error) {
-        console.error('Error saving procedures:', error);
-        setTrackedLastError(i18n.t('procedures.persistError'));
-      }
-    };
-
-    persistChainRef.current = persistChainRef.current.then(run, run);
-    return persistChainRef.current;
-  }, [setTrackedLastError, storageReady, store]);
-
-  const getProcedure = useCallback(
-    (id: string) => {
-      const fromList = procedures.find((procedure) => procedure.id === id);
-      if (fromList) {
-        return fromList;
-      }
-      return findCatalogTemplate(id, builtinProcedures);
-    },
-    [procedures],
-  );
-
-  const search = useCallback((query: string) => searchProcedures(procedures, query), [procedures]);
-
-  const createProcedure = useCallback(
-    (draft: ProcedureDraft) => {
-      if (!storageReady) {
-        return null;
-      }
-
-      const sanitized = sanitizeDraft(draft);
-      if (validateDraft(sanitized)) {
-        return null;
-      }
-
-      const created: Procedure = {
-        id: createUserProcedureId(),
-        title: sanitized.title,
-        materials: sanitized.materials,
-        steps: sanitized.steps,
-        attention: sanitized.attention,
-        source: 'user',
-        updatedAt: new Date().toISOString(),
-      };
-
-      pendingUpsertIdsRef.current.add(created.id);
-      setProcedures((current) => {
-        const next = [...current, created];
-        proceduresRef.current = next;
-        return next;
-      });
-      void persistAndTrack();
-
-      return created;
-    },
-    [persistAndTrack, storageReady],
-  );
-
-  const updateProcedure = useCallback(
-    (id: string, draft: ProcedureDraft) => {
-      if (!storageReady) {
-        return null;
-      }
-
-      const sanitized = sanitizeDraft(draft);
-      if (validateDraft(sanitized)) {
-        return null;
-      }
-
-      const existing = procedures.find((procedure) => procedure.id === id);
-      if (!existing || existing.source !== 'user') {
-        return null;
-      }
-
-      const updatedProcedure: Procedure = {
-        ...existing,
-        title: sanitized.title,
-        materials: sanitized.materials,
-        steps: sanitized.steps,
-        attention: sanitized.attention,
-        source: 'user',
-        updatedAt: new Date().toISOString(),
-      };
-
-      pendingUpsertIdsRef.current.add(id);
-      setProcedures((current) => {
-        const next = current.map((procedure) =>
-          procedure.id === id ? updatedProcedure : procedure,
-        );
-        proceduresRef.current = next;
-        return next;
-      });
-      void persistAndTrack();
-
-      return updatedProcedure;
-    },
-    [persistAndTrack, procedures, storageReady],
-  );
-
-  const deleteProcedure = useCallback(
-    (id: string) => {
-      if (!storageReady) {
-        return false;
-      }
-
-      const existing = procedures.find((procedure) => procedure.id === id);
-      if (!existing || existing.source !== 'user') {
-        return false;
-      }
-
-      deletedIdsRef.current.add(id);
-      pendingUpsertIdsRef.current.delete(id);
-      setProcedures((current) => {
-        const next = current.filter((procedure) => procedure.id !== id);
-        proceduresRef.current = next;
-        return next;
-      });
-      void persistAndTrack();
-
-      return true;
-    },
-    [persistAndTrack, procedures, storageReady],
-  );
-
-  const duplicateProcedure = useCallback(
-    (id: string) => {
-      if (!storageReady) {
-        return null;
-      }
-
-      const source = getProcedure(id);
-      if (!source) {
-        return null;
-      }
-
-      const copy = duplicateAsUserProcedure(source);
-
-      pendingUpsertIdsRef.current.add(copy.id);
-      setProcedures((current) => {
-        const next = [...current, copy];
-        proceduresRef.current = next;
-        return next;
-      });
-      void persistAndTrack();
-
-      return copy;
-    },
-    [getProcedure, persistAndTrack, storageReady],
-  );
-
-  const addFromCatalog = useCallback(
-    (templateId: string) => {
-      if (!storageReady) {
-        return null;
-      }
-
-      const template = findCatalogTemplate(templateId, builtinProcedures);
-      if (!template) {
-        return null;
-      }
-
-      if (isCatalogTemplateAdopted(procedures, template)) {
-        return null;
-      }
-
-      const adopted = adoptFromCatalog(template);
-
-      pendingUpsertIdsRef.current.add(adopted.id);
-      setProcedures((current) => {
-        const next = [...current, adopted];
-        proceduresRef.current = next;
-        return next;
-      });
-      void persistAndTrack();
-
-      return adopted;
-    },
-    [persistAndTrack, procedures, storageReady],
-  );
-
-  const getAvailableCatalogTemplates = useCallback(
-    () => availableCatalogTemplates(builtinProcedures, procedures),
-    [procedures],
-  );
-
-  const isTemplateAdopted = useCallback(
-    (templateId: string) => {
-      const template = findCatalogTemplate(templateId, builtinProcedures);
-      if (!template) {
-        return false;
-      }
-      return isCatalogTemplateAdopted(procedures, template);
-    },
-    [procedures],
-  );
-
-  const value = useMemo(
-    () => ({
-      procedures,
-      catalogTemplates: builtinProcedures,
-      isLoading,
-      storageReady,
-      lastError,
-      getProcedure,
-      search,
-      createProcedure,
-      updateProcedure,
-      deleteProcedure,
-      duplicateProcedure,
-      addFromCatalog,
-      getAvailableCatalogTemplates,
-      isTemplateAdopted,
-    }),
-    [
-      procedures,
-      isLoading,
-      storageReady,
-      lastError,
-      getProcedure,
-      search,
-      createProcedure,
-      updateProcedure,
-      deleteProcedure,
-      duplicateProcedure,
-      addFromCatalog,
-      getAvailableCatalogTemplates,
-      isTemplateAdopted,
-    ],
-  );
+  }, [workspace]);
 
   return <ProceduresContext.Provider value={value}>{children}</ProceduresContext.Provider>;
 }
