@@ -20,6 +20,8 @@ export const Strings = {
       procedure: 'Procedimento',
       procedureForm: 'Procedimento',
       procedureCatalog: 'Catálogo',
+      privacy: 'Privacidade',
+      terms: 'Termos',
     },
     notFound: {
       title: 'Ups!',
@@ -38,6 +40,9 @@ export const Strings = {
       viewCatalogTemplate: 'Ver detalhes de {{name}}',
       addListItem: 'Adicionar item',
       removeListItem: 'Remover {{name}}',
+      openPrivacy: 'Abrir política de privacidade',
+      openTerms: 'Abrir termos e aviso médico',
+      openContact: 'Contactar por email',
     },
     home: {
       searchPlaceholder: 'Pesquisar medicamento...',
@@ -135,6 +140,11 @@ export const Strings = {
         'Dose Segura é uma aplicação de referência para auxiliar profissionais de saúde na administração de medicamentos',
       warningText:
         'Esta aplicação é apenas para referência. Verifique sempre a informação com fontes oficiais e a farmácia antes de administrar qualquer medicamento',
+      legal: 'Legal',
+      privacy: 'Privacidade',
+      terms: 'Termos e aviso',
+      contact: 'Contacto',
+      contactEmail: 'pmrobalo@gmail.com',
       whatsNew: {
         title: 'Novidades 1.1.0',
         items: [
@@ -194,6 +204,42 @@ export const Strings = {
       validationTitle: 'Indique um título para o procedimento',
       persistError: 'Não foi possível guardar. As alterações podem perder-se.',
     },
+    privacy: {
+      title: 'Privacidade',
+      lede: 'Como o Dose Segura trata informação na versão 1.',
+      offlineTitle: 'Uso offline, sem conta',
+      offlineBody:
+        'A utilização principal da app não exige criar conta. Os dados de medicamentos e modelos de procedimentos vão incluídos localmente na aplicação para consulta offline.',
+      localDataTitle: 'Dados locais',
+      localDataBody:
+        'Favoritos, tema e procedimentos que criar ficam no armazenamento local do seu dispositivo. Não enviamos estes dados para um servidor nosso.',
+      analyticsTitle: 'Sem analytics na v1',
+      analyticsBody:
+        'Na v1 não há Google Analytics, Plausible, publicidade nem outros rastreadores de produto na aplicação. Não medimos o uso com ferramentas de analytics de terceiros.',
+      hostingTitle: 'Alojamento e logs de infra-estrutura',
+      hostingBody:
+        'Se usar a versão web (por exemplo via GitHub Pages), a infra-estrutura de alojamento pode gerar logs técnicos habituais (como endereço IP e user agent) fora do controlo da app. Isso não é analytics de produto da Dose Segura.',
+      contactTitle: 'Contacto sobre privacidade',
+      contactBody: 'Questões sobre esta política:',
+    },
+    terms: {
+      title: 'Termos e aviso',
+      lede: 'Aviso curto para profissionais que usam o Dose Segura.',
+      purposeTitle: 'Ferramenta de referência',
+      purposeBody:
+        'O Dose Segura é uma ferramenta de referência para apoiar enfermeiros e outros profissionais de saúde. É apenas para referência — não substitui protocolos da instituição, o RCM, a farmácia nem o julgamento clínico.',
+      responsibilityTitle: 'Responsabilidade do utilizador',
+      responsibilityBody:
+        'Confirme sempre a informação com fontes oficiais e a farmácia antes de administrar qualquer medicamento. Erros de unidade, dose ou interpretação são da responsabilidade de quem administra. Esta ajuda não substitui o cálculo independente.',
+      calculationsTitle: 'Cálculos e procedimentos',
+      calculationsBody:
+        'A ajuda de cálculos e as listas de procedimentos são educacionais. Não constituem calculadora de prescrição nem protocolo hospitalar. Valide sempre com o protocolo da instituição.',
+      liabilityTitle: 'Limitação de responsabilidade',
+      liabilityBody:
+        'A aplicação é disponibilizada "como está", sem garantias. Na medida permitida por lei, os mantenedores não são responsáveis por decisões clínicas tomadas com base nesta referência.',
+      contactTitle: 'Contacto',
+      contactBody: 'Para questões sobre estes termos:',
+    },
     medication: {
       disclaimer:
         '⚠️ Esta informação é apenas para referência. Verifique sempre com a farmácia antes de administrar',
@@ -207,6 +253,60 @@ export const Strings = {
         contraindicationsAndPrecautions: 'Contraindicações e Precauções',
         nursingCare: 'Cuidados de Enfermagem',
       },
+    },
+  },
+  en: {
+    navigation: {
+      privacy: 'Privacy',
+      terms: 'Terms',
+    },
+    accessibility: {
+      openPrivacy: 'Open privacy policy',
+      openTerms: 'Open terms and medical disclaimer',
+      openContact: 'Contact by email',
+    },
+    settings: {
+      legal: 'Legal',
+      privacy: 'Privacy',
+      terms: 'Terms & disclaimer',
+      contact: 'Contact',
+      contactEmail: 'pmrobalo@gmail.com',
+    },
+    privacy: {
+      title: 'Privacy',
+      lede: 'How Dose Segura handles information in version 1.',
+      offlineTitle: 'Offline use, no account',
+      offlineBody:
+        'Core use of the app does not require creating an account. Medication data and procedure templates ship bundled locally for offline reference.',
+      localDataTitle: 'Local data',
+      localDataBody:
+        'Favorites, theme, and procedures you create stay in local storage on your device. We do not send this data to a first-party backend.',
+      analyticsTitle: 'No analytics in v1',
+      analyticsBody:
+        'In v1 there is no Google Analytics, Plausible, advertising, or other product trackers in the app. We do not measure usage with third-party analytics products.',
+      hostingTitle: 'Hosting and infrastructure logs',
+      hostingBody:
+        "If you use the web build (for example via GitHub Pages), hosting infrastructure may process standard technical logs (such as IP address and user agent) outside the app's control. That is not Dose Segura product analytics.",
+      contactTitle: 'Privacy contact',
+      contactBody: 'Questions about this policy:',
+    },
+    terms: {
+      title: 'Terms & disclaimer',
+      lede: 'A short disclaimer for professionals using Dose Segura.',
+      purposeTitle: 'Reference tool',
+      purposeBody:
+        'Dose Segura is a reference tool to support nurses and other healthcare professionals. It is for reference only — not a substitute for institutional protocols, the SmPC/RCM, pharmacy, or clinical judgment.',
+      responsibilityTitle: 'User responsibility',
+      responsibilityBody:
+        'Always verify information with official sources and pharmacy before administering any medication. Unit, dose, or interpretation errors remain the responsibility of the person administering. This aid does not replace independent calculation.',
+      calculationsTitle: 'Calculations and procedures',
+      calculationsBody:
+        "The calculation aid and procedure checklists are educational. They are not a prescribing calculator or hospital protocol. Always validate against your institution's protocol.",
+      liabilityTitle: 'Limitation of liability',
+      liabilityBody:
+        'The app is provided "as is," without warranties. To the extent permitted by law, the maintainers are not liable for clinical decisions made based on this reference.',
+      contactTitle: 'Contact',
+      contactBody: 'For questions about these terms:',
     },
   },
 };

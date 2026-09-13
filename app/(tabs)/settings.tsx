@@ -1,7 +1,8 @@
 import { Ionicons } from '@expo/vector-icons';
 import Constants from 'expo-constants';
+import { router } from 'expo-router';
 import React from 'react';
-import { Platform, Pressable, ScrollView, StyleSheet, View } from 'react-native';
+import { Linking, Platform, Pressable, ScrollView, StyleSheet, View } from 'react-native';
 
 import { ThemedText } from '@/components/ThemedText';
 import { PWAInstallModal } from '@/components/PWAInstallModal';
@@ -155,6 +156,66 @@ export default function SettingsScreen() {
         </View>
       </View>
 
+      <View style={styles.section} testID="legal-section">
+        <ThemedText type="sectionTitle" style={styles.sectionTitle}>
+          {i18n.t('settings.legal')}
+        </ThemedText>
+        <View style={[styles.card, { backgroundColor: colors.cardBackground, padding: 8 }]}>
+          <Pressable
+            testID="settings-privacy-link"
+            accessibilityRole="button"
+            accessibilityLabel={i18n.t('accessibility.openPrivacy')}
+            style={({ pressed }) => [styles.linkRow, pressed && { opacity: 0.7 }]}
+            onPress={() => router.push('/privacy' as never)}
+          >
+            <View style={styles.linkRowContent}>
+              <View style={[styles.iconContainer, { backgroundColor: colors.lavender }]}>
+                <Ionicons name="shield-checkmark-outline" size={18} color={colors.textDark} />
+              </View>
+              <ThemedText style={styles.label}>{i18n.t('settings.privacy')}</ThemedText>
+            </View>
+            <Ionicons name="chevron-forward" size={18} color={colors.icon} />
+          </Pressable>
+          <View style={[styles.divider, { backgroundColor: colors.lavender, marginVertical: 4 }]} />
+          <Pressable
+            testID="settings-terms-link"
+            accessibilityRole="button"
+            accessibilityLabel={i18n.t('accessibility.openTerms')}
+            style={({ pressed }) => [styles.linkRow, pressed && { opacity: 0.7 }]}
+            onPress={() => router.push('/terms' as never)}
+          >
+            <View style={styles.linkRowContent}>
+              <View style={[styles.iconContainer, { backgroundColor: colors.mint }]}>
+                <Ionicons name="document-text-outline" size={18} color={colors.textDark} />
+              </View>
+              <ThemedText style={styles.label}>{i18n.t('settings.terms')}</ThemedText>
+            </View>
+            <Ionicons name="chevron-forward" size={18} color={colors.icon} />
+          </Pressable>
+          <View style={[styles.divider, { backgroundColor: colors.lavender, marginVertical: 4 }]} />
+          <Pressable
+            testID="settings-contact-link"
+            accessibilityRole="button"
+            accessibilityLabel={i18n.t('accessibility.openContact')}
+            style={({ pressed }) => [styles.linkRow, pressed && { opacity: 0.7 }]}
+            onPress={() => Linking.openURL(`mailto:${i18n.t('settings.contactEmail')}`)}
+          >
+            <View style={styles.linkRowContent}>
+              <View style={[styles.iconContainer, { backgroundColor: colors.sky }]}>
+                <Ionicons name="mail-outline" size={18} color={colors.textDark} />
+              </View>
+              <View style={styles.contactText}>
+                <ThemedText style={styles.label}>{i18n.t('settings.contact')}</ThemedText>
+                <ThemedText style={styles.contactEmail}>
+                  {i18n.t('settings.contactEmail')}
+                </ThemedText>
+              </View>
+            </View>
+            <Ionicons name="open-outline" size={18} color={colors.icon} />
+          </Pressable>
+        </View>
+      </View>
+
       <View style={styles.section}>
         <ThemedText type="sectionTitle" style={styles.sectionTitle}>
           {i18n.t('settings.application')}
@@ -294,5 +355,26 @@ const styles = StyleSheet.create({
     fontSize: 13,
     lineHeight: 18,
     opacity: 0.9,
+  },
+  linkRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    padding: 12,
+    borderRadius: 12,
+  },
+  linkRowContent: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 12,
+    flex: 1,
+  },
+  contactText: {
+    flex: 1,
+    gap: 2,
+  },
+  contactEmail: {
+    fontSize: 13,
+    opacity: 0.75,
   },
 });
