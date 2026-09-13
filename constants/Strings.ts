@@ -24,9 +24,9 @@ export const Strings = {
       terms: 'Termos',
     },
     notFound: {
-      title: 'Ups!',
-      message: 'Este ecrã não existe.',
-      goHome: 'Ir para o ecrã inicial',
+      title: 'Página não encontrada',
+      message: 'Este caminho não existe no Dose Segura. Volte ao início para continuar.',
+      goHome: 'Voltar ao início',
     },
     accessibility: {
       favoriteMedication: 'Favoritar medicamento',
