@@ -55,6 +55,24 @@ export function RootLayoutNav() {
             headerBackTitle: i18n.t('common.back'),
           }}
         />
+        <Stack.Screen
+          name="privacy"
+          options={{
+            headerShown: true,
+            title: i18n.t('navigation.privacy'),
+            headerTintColor: Colors[colorScheme ?? 'light'].tint,
+            headerBackTitle: i18n.t('common.back'),
+          }}
+        />
+        <Stack.Screen
+          name="terms"
+          options={{
+            headerShown: true,
+            title: i18n.t('navigation.terms'),
+            headerTintColor: Colors[colorScheme ?? 'light'].tint,
+            headerBackTitle: i18n.t('common.back'),
+          }}
+        />
         <Stack.Screen name="modal" options={{ presentation: 'modal' }} />
       </Stack>
     </ThemeProvider>

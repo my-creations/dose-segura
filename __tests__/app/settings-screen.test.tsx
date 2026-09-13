@@ -1,5 +1,7 @@
 import React from 'react';
-import { render, screen } from '@testing-library/react-native';
+import { Linking } from 'react-native';
+import { fireEvent, render, screen } from '@testing-library/react-native';
+import { router } from 'expo-router';
 
 import SettingsScreen from '@/app/(tabs)/settings';
 import { Strings } from '@/constants/Strings';
@@ -43,6 +45,15 @@ jest.mock('@/hooks/usePWAInstall', () => ({
 }));
 
 describe('SettingsScreen', () => {
+  beforeEach(() => {
+    jest.mocked(router.push).mockClear();
+    jest.spyOn(Linking, 'openURL').mockResolvedValue(undefined as never);
+  });
+
+  afterEach(() => {
+    jest.restoreAllMocks();
+  });
+
   it('resolves app version to 1.1.0 and renders Novidades 1.1.0', () => {
     render(<SettingsScreen />);
 
@@ -53,5 +64,24 @@ describe('SettingsScreen', () => {
     for (const item of Strings.pt.settings.whatsNew.items) {
       expect(screen.getByText(`• ${item}`)).toBeTruthy();
     }
+  });
+
+  it('renders legal links and opens privacy, terms, and contact', () => {
+    render(<SettingsScreen />);
+
+    expect(screen.getByTestId('legal-section')).toBeTruthy();
+    expect(screen.getByText(Strings.pt.settings.privacy)).toBeTruthy();
+    expect(screen.getByText(Strings.pt.settings.terms)).toBeTruthy();
+    expect(screen.getByText(Strings.pt.settings.contact)).toBeTruthy();
+    expect(screen.getByText(Strings.pt.settings.contactEmail)).toBeTruthy();
+
+    fireEvent.press(screen.getByTestId('settings-privacy-link'));
+    expect(router.push).toHaveBeenCalledWith('/privacy');
+
+    fireEvent.press(screen.getByTestId('settings-terms-link'));
+    expect(router.push).toHaveBeenCalledWith('/terms');
+
+    fireEvent.press(screen.getByTestId('settings-contact-link'));
+    expect(Linking.openURL).toHaveBeenCalledWith(`mailto:${Strings.pt.settings.contactEmail}`);
   });
 });
