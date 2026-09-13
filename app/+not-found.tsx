@@ -9,25 +9,31 @@ import { SEO } from '@/constants/Seo';
 import { useColorScheme } from '@/hooks/useColorScheme';
 import i18n from '@/utils/i18n';
 
+/** Soft rose circle fill — explicit rgba (RN-web mishandles hex+alpha like `#E8A0BF20`). */
+const ICON_CIRCLE_BG = {
+  light: 'rgba(232, 160, 191, 0.125)',
+  dark: 'rgba(92, 58, 70, 0.35)',
+} as const;
+
 export default function NotFoundScreen() {
-  const colorScheme = useColorScheme();
-  const colors = Colors[colorScheme ?? 'light'];
+  const colorScheme = useColorScheme() ?? 'light';
+  const colors = Colors[colorScheme];
 
   return (
     <>
-      <Stack.Screen
-        options={{
-          title: i18n.t('notFound.title'),
-          headerStyle: { backgroundColor: colors.cardBackground },
-          headerTitleStyle: {
-            fontFamily: 'Quicksand_600SemiBold',
-            color: colors.text,
-          },
-          headerTintColor: colors.tint,
-        }}
-      />
+      <Stack.Screen options={{ title: i18n.t('notFound.title') }} />
       <ThemedView style={styles.container} testID="not-found-screen">
-        <View style={[styles.iconCircle, { backgroundColor: colors.rose + '20' }]}>
+        <View
+          style={{
+            width: 100,
+            height: 100,
+            borderRadius: 50,
+            justifyContent: 'center',
+            alignItems: 'center',
+            marginBottom: 20,
+            backgroundColor: ICON_CIRCLE_BG[colorScheme],
+          }}
+        >
           <Ionicons name="medkit-outline" size={48} color={colors.rose} />
         </View>
         <ThemedText type="caption" style={styles.brand}>
@@ -42,7 +48,14 @@ export default function NotFoundScreen() {
         <Link href="/" asChild>
           <Pressable
             accessibilityRole="link"
-            style={[styles.cta, { backgroundColor: colors.tint }]}
+            style={{
+              paddingHorizontal: 24,
+              paddingVertical: 14,
+              borderRadius: 16,
+              minWidth: 200,
+              alignItems: 'center',
+              backgroundColor: colors.tint,
+            }}
             testID="not-found-home-link"
           >
             <ThemedText type="defaultSemiBold" style={{ color: colors.cardBackground }}>
@@ -63,14 +76,6 @@ const styles = StyleSheet.create({
     paddingHorizontal: 32,
     paddingVertical: 40,
   },
-  iconCircle: {
-    width: 100,
-    height: 100,
-    borderRadius: 50,
-    justifyContent: 'center',
-    alignItems: 'center',
-    marginBottom: 20,
-  },
   brand: {
     marginBottom: 8,
     letterSpacing: 0.4,
@@ -84,12 +89,5 @@ const styles = StyleSheet.create({
     lineHeight: 24,
     maxWidth: 360,
     marginBottom: 28,
-  },
-  cta: {
-    paddingHorizontal: 24,
-    paddingVertical: 14,
-    borderRadius: 16,
-    minWidth: 200,
-    alignItems: 'center',
   },
 });
