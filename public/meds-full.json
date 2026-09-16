@@ -4001,7 +4001,6 @@
       "nursingCare": [
         "Após a terapêutica intra-articular com esteróides, deverá evitar-se o trabalho excessivo das articulações a bem de se evitar a deterioração das mesmas",
         "Não deve ser administrado a doentes com hipotiroidismo, estados psicóticos, insuficiência cardíaca, diabetes mellitus ou glaucoma",
-        "Não deverá ser diluída nem misturada com outras substâncias",
         "Não administrar via Endovenosa",
         "A Metilprednisolona pode ser administrada via retal sendo que se deve diluir a dose necessária em 30-300 ml de água e administrar sob a forma de enema de retenção ou gota a gota"
       ]
@@ -4932,9 +4931,7 @@
         "Via Intramuscular",
         "Via Endovenosa"
       ],
-      "stability": [
-        "Uso imediato"
-      ],
+      "stability": [],
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade à prednisolona ou a qualquer outro componente",
         "Infeção bacteriana ou fúngica não controlada por tratamento específico",
@@ -5282,9 +5279,7 @@
       "administration": [
         "Via Intramuscular: administração profunda na região do deltóide ou do glúteo"
       ],
-      "stability": [
-        "Após reconstituição: 24 horas a 25ºC"
-      ],
+      "stability": [],
       "contraindicationsAndPrecautions": [
         "Hipersensibilidade à substância ativa ou a qualquer dos excipientes"
       ],
