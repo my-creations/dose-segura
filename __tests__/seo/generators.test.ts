@@ -49,6 +49,26 @@ describe('generate-route-meta metaForFile', () => {
 
     expect(meta.title).toBe(seoPages.site.defaultTitle);
     expect(meta.noindex).toBeUndefined();
+    // Must not canonicalise to the homepage, or crawlers read it as a duplicate of `/`.
+    expect(meta.path).toBe('/procedure/builtin-cateterismo-venoso-periferico');
+  });
+
+  it('canonicalises every shell to its own path, never to the root by accident', () => {
+    const files = [
+      'index.html',
+      'privacy.html',
+      'favorites.html',
+      'procedure/catalog.html',
+      'medication/adenosina.html',
+      'procedure/builtin-assistencia-cvc.html',
+      '(tabs)/settings.html',
+    ];
+
+    for (const file of files) {
+      const { path: canonicalPath } = metaForFile(file);
+      const expected = `/${file.replace(/^\(tabs\)\//, '').replace(/\.html$/, '')}`;
+      expect(canonicalPath).toBe(expected === '/index' ? '/' : expected);
+    }
   });
 
   it('uses forward slashes on nested paths regardless of platform separators', () => {
