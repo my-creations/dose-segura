@@ -53,7 +53,7 @@ export default function FavoritesScreen() {
         ListEmptyComponent={
           <View style={styles.empty}>
             <View style={[styles.emptyIconContainer, { backgroundColor: colors.rose + '20' }]}>
-              <Ionicons name="heart-outline" size={48} color={colors.rose} />
+              <Ionicons name="heart-outline" size={48} color={colors.tintText} />
             </View>
             <ThemedText type="subtitle" style={styles.emptyTitle}>
               {i18n.t('favorites.emptyTitle')}

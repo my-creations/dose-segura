@@ -41,7 +41,7 @@ function MedicationCardComponent({
       <Ionicons
         name={isFavorite ? 'heart' : 'heart-outline'}
         size={24}
-        color={isFavorite ? colors.rose : colors.icon}
+        color={isFavorite ? colors.tintText : colors.icon}
       />
     </Pressable>
   );
@@ -60,8 +60,10 @@ function MedicationCardComponent({
               {isWeb ? FavoriteButton : null}
               {medication.highRisk && (
                 <View style={[styles.highRiskBadge, { backgroundColor: colors.coral }]}>
-                  {!isWeb ? <Ionicons name="warning" size={12} color="#fff" /> : null}
-                  <ThemedText style={styles.highRiskText}>Alto Risco</ThemedText>
+                  {!isWeb ? <Ionicons name="warning" size={12} color={colors.textDark} /> : null}
+                  <ThemedText style={[styles.highRiskText, { color: colors.textDark }]}>
+                    Alto Risco
+                  </ThemedText>
                 </View>
               )}
             </View>
@@ -139,7 +141,6 @@ const styles = StyleSheet.create({
     gap: 4,
   },
   highRiskText: {
-    color: '#fff',
     fontSize: 11,
     fontFamily: 'Quicksand_600SemiBold',
   },

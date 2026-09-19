@@ -19,7 +19,7 @@ export default function TabLayout() {
   return (
     <Tabs
       screenOptions={{
-        tabBarActiveTintColor: colors.tint,
+        tabBarActiveTintColor: colors.tintText,
         tabBarInactiveTintColor: colors.tabIconDefault,
         tabBarStyle: {
           backgroundColor: colors.cardBackground,
@@ -40,7 +40,7 @@ export default function TabLayout() {
           fontFamily: 'Quicksand_600SemiBold',
           color: colors.text,
         },
-        headerTintColor: colors.tint,
+        headerTintColor: colors.tintText,
         headerShown: true,
       }}
     >

@@ -33,7 +33,7 @@ export default function NotFoundScreen() {
             },
           ]}
         >
-          <Ionicons name="compass-outline" size={48} color={colors.rose} />
+          <Ionicons name="compass-outline" size={48} color={colors.tintText} />
         </View>
         <ThemedText type="caption" style={styles.brand}>
           {SEO.siteName}
@@ -72,7 +72,7 @@ export default function NotFoundScreen() {
               style={StyleSheet.flatten([styles.primaryButton, { backgroundColor: colors.tint }])}
               testID="not-found-home-link"
             >
-              <ThemedText type="defaultSemiBold" style={{ color: colors.cardBackground }}>
+              <ThemedText type="defaultSemiBold" style={{ color: colors.onTint }}>
                 {i18n.t('notFound.goHome')}
               </ThemedText>
             </Pressable>

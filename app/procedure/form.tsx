@@ -80,8 +80,8 @@ function ListEditor({ label, itemName, items, onChange, testID, colors }: ListEd
         accessibilityLabel={i18n.t('accessibility.addListItem')}
         testID={`${testID}-add`}
       >
-        <Ionicons name="add-circle-outline" size={20} color={colors.tint} />
-        <ThemedText style={[styles.addLabel, { color: colors.tint }]}>
+        <Ionicons name="add-circle-outline" size={20} color={colors.tintText} />
+        <ThemedText style={[styles.addLabel, { color: colors.tintText }]}>
           {i18n.t('procedures.addItem')}
         </ThemedText>
       </Pressable>

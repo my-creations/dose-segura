@@ -106,7 +106,9 @@ export default function MedicationDetailScreen() {
           onPress={() => router.replace('/')}
           testID="medication-not-found-back"
         >
-          <ThemedText style={styles.backButtonText}>{i18n.t('common.back')}</ThemedText>
+          <ThemedText style={[styles.backButtonText, { color: colors.onTint }]}>
+            {i18n.t('common.back')}
+          </ThemedText>
         </Pressable>
       </ThemedView>
     );
@@ -131,7 +133,7 @@ export default function MedicationDetailScreen() {
                   <Ionicons
                     name={favorite ? 'heart' : 'heart-outline'}
                     size={24}
-                    color={favorite ? colors.rose : colors.icon}
+                    color={favorite ? colors.tintText : colors.icon}
                   />
                 </Pressable>
               ),
@@ -160,7 +162,7 @@ export default function MedicationDetailScreen() {
                 <Ionicons
                   name={favorite ? 'heart' : 'heart-outline'}
                   size={26}
-                  color={favorite ? colors.rose : colors.icon}
+                  color={favorite ? colors.tintText : colors.icon}
                 />
               </Pressable>
             )}
@@ -169,8 +171,10 @@ export default function MedicationDetailScreen() {
                 style={[styles.highRiskBadge, { backgroundColor: colors.coral }]}
                 testID="high-risk-badge"
               >
-                <Ionicons name="warning" size={14} color="#fff" />
-                <ThemedText style={styles.highRiskText}>{i18n.t('common.highRisk')}</ThemedText>
+                <Ionicons name="warning" size={14} color={colors.textDark} />
+                <ThemedText style={[styles.highRiskText, { color: colors.textDark }]}>
+                  {i18n.t('common.highRisk')}
+                </ThemedText>
               </View>
             )}
           </View>
@@ -182,8 +186,10 @@ export default function MedicationDetailScreen() {
                   style={[styles.highRiskBadge, { backgroundColor: colors.coral }]}
                   testID="high-risk-badge"
                 >
-                  <Ionicons name="warning" size={14} color="#fff" />
-                  <ThemedText style={styles.highRiskText}>{i18n.t('common.highRisk')}</ThemedText>
+                  <Ionicons name="warning" size={14} color={colors.textDark} />
+                  <ThemedText style={[styles.highRiskText, { color: colors.textDark }]}>
+                    {i18n.t('common.highRisk')}
+                  </ThemedText>
                 </View>
               )}
               {displayMedication.aliases.map((alias, index) => (
@@ -258,7 +264,6 @@ const styles = StyleSheet.create({
     marginTop: 8,
   },
   backButtonText: {
-    color: '#fff',
     fontSize: 16,
     fontFamily: 'Quicksand_600SemiBold',
   },
@@ -287,7 +292,6 @@ const styles = StyleSheet.create({
     gap: 6,
   },
   highRiskText: {
-    color: '#fff',
     fontSize: 12,
     fontFamily: 'Quicksand_600SemiBold',
   },

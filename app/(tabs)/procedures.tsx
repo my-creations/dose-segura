@@ -71,7 +71,7 @@ export default function ProceduresScreen() {
         ListEmptyComponent={
           <View style={styles.empty}>
             <View style={[styles.emptyIconContainer, { backgroundColor: colors.sky + '20' }]}>
-              <Ionicons name="clipboard-outline" size={48} color={colors.tint} />
+              <Ionicons name="clipboard-outline" size={48} color={colors.tintText} />
             </View>
             <ThemedText type="subtitle" style={styles.emptyTitle}>
               {searchQuery ? i18n.t('procedures.noResults') : i18n.t('procedures.emptyTitle')}
@@ -156,7 +156,7 @@ export default function ProceduresScreen() {
               onPress={() => setMenuOpen(false)}
               testID="procedures-add-menu-cancel"
             >
-              <ThemedText style={{ color: colors.tint }}>{i18n.t('common.cancel')}</ThemedText>
+              <ThemedText style={{ color: colors.tintText }}>{i18n.t('common.cancel')}</ThemedText>
             </Pressable>
           </Pressable>
         </Pressable>

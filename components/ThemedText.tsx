@@ -67,7 +67,8 @@ const styles = StyleSheet.create({
     fontSize: 13,
     lineHeight: 18,
     fontFamily: 'Quicksand_400Regular',
-    opacity: 0.7,
+    // 0.85 keeps 13px captions at >=4.5:1 against the light card (0.7 composited to ~3.3:1).
+    opacity: 0.85,
   },
   sectionTitle: {
     fontSize: 15,
