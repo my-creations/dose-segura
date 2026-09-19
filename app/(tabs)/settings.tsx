@@ -45,17 +45,17 @@ export default function SettingsScreen() {
         onPress={() => setThemeMode(mode)}
       >
         <View style={styles.themeOptionContent}>
-          <Ionicons name={icon} size={20} color={isSelected ? colors.tint : colors.text} />
+          <Ionicons name={icon} size={20} color={isSelected ? colors.tintText : colors.text} />
           <ThemedText
             style={[
               styles.themeOptionLabel,
-              isSelected && { color: colors.tint, fontFamily: 'Quicksand_600SemiBold' },
+              isSelected && { color: colors.tintText, fontFamily: 'Quicksand_600SemiBold' },
             ]}
           >
             {label}
           </ThemedText>
         </View>
-        {isSelected && <Ionicons name="checkmark-circle" size={20} color={colors.tint} />}
+        {isSelected && <Ionicons name="checkmark-circle" size={20} color={colors.tintText} />}
       </Pressable>
     );
   };
@@ -132,8 +132,8 @@ export default function SettingsScreen() {
               ]}
               onPress={installApp}
             >
-              <Ionicons name="download-outline" size={20} color={colors.cardBackground} />
-              <ThemedText style={[styles.installButtonText, { color: colors.cardBackground }]}>
+              <Ionicons name="download-outline" size={20} color={colors.onTint} />
+              <ThemedText style={[styles.installButtonText, { color: colors.onTint }]}>
                 {i18n.t('settings.install.button')}
               </ThemedText>
             </Pressable>

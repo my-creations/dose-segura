@@ -54,7 +54,7 @@ export function PWAInstallModal({ visible, onClose }: PWAInstallModalProps) {
               {steps.map((step, index) => (
                 <View key={index} style={styles.stepRow}>
                   <View style={[styles.iconCircle, { backgroundColor: colors.lavender }]}>
-                    <Ionicons name={step.icon} size={20} color={colors.tint} />
+                    <Ionicons name={step.icon} size={20} color={colors.tintText} />
                   </View>
                   <ThemedText style={styles.stepText}>{step.text}</ThemedText>
                 </View>
@@ -67,7 +67,7 @@ export function PWAInstallModal({ visible, onClose }: PWAInstallModalProps) {
             style={[styles.actionButton, { backgroundColor: colors.tint }]}
             onPress={onClose}
           >
-            <ThemedText style={[styles.actionButtonText, { color: colors.cardBackground }]}>
+            <ThemedText style={[styles.actionButtonText, { color: colors.onTint }]}>
               {i18n.t('settings.install.dismiss')}
             </ThemedText>
           </Pressable>

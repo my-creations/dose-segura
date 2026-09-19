@@ -32,7 +32,7 @@ export function SearchBar({
       ]}
     >
       {showIcon ? (
-        <Ionicons name="search" size={20} color={colors.tint} style={styles.icon} />
+        <Ionicons name="search" size={20} color={colors.tintText} style={styles.icon} />
       ) : null}
       <TextInput
         style={[styles.input, { color: colors.text, backgroundColor: 'transparent' }]}
