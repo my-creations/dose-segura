@@ -9,3 +9,5 @@ Dose Segura v1 is offline-first and does **not** enable product analytics.
 - Web hosting (e.g. GitHub Pages) may still produce infrastructure access logs outside app control
 
 In-app copy: Settings → Legal → Privacy (`app/privacy.tsx`). Contact: `pmrobalo@gmail.com`.
+
+Public URL (PWA): https://my-creations.github.io/dose-segura/privacy — statically exported per release, listed in `public/sitemap.xml`, precached offline by the service worker.

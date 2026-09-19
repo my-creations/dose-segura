@@ -27,6 +27,8 @@ export const Strings = {
       title: 'Página não encontrada',
       message: 'Este caminho não existe no Dose Segura. Volte ao início para continuar.',
       goHome: 'Voltar ao início',
+      goBack: 'Voltar atrás',
+      requestedPathLabel: 'Caminho pedido',
     },
     accessibility: {
       favoriteMedication: 'Favoritar medicamento',
@@ -259,6 +261,13 @@ export const Strings = {
     navigation: {
       privacy: 'Privacy',
       terms: 'Terms',
+    },
+    notFound: {
+      title: 'Page not found',
+      message: 'This path does not exist in Dose Segura. Head back home to continue.',
+      goHome: 'Back to home',
+      goBack: 'Go back',
+      requestedPathLabel: 'Requested path',
     },
     accessibility: {
       openPrivacy: 'Open privacy policy',

@@ -1,5 +1,5 @@
 import { Ionicons } from '@expo/vector-icons';
-import { Link, Stack } from 'expo-router';
+import { Link, Stack, router, usePathname } from 'expo-router';
 import { Pressable, StyleSheet, View } from 'react-native';
 
 import { ThemedText } from '@/components/ThemedText';
@@ -18,23 +18,22 @@ const ICON_CIRCLE_BG = {
 export default function NotFoundScreen() {
   const colorScheme = useColorScheme() ?? 'light';
   const colors = Colors[colorScheme];
+  const requestedPath = usePathname();
+  const canGoBack = router.canGoBack();
 
   return (
     <>
       <Stack.Screen options={{ title: i18n.t('notFound.title') }} />
       <ThemedView style={styles.container} testID="not-found-screen">
         <View
-          style={{
-            width: 100,
-            height: 100,
-            borderRadius: 50,
-            justifyContent: 'center',
-            alignItems: 'center',
-            marginBottom: 20,
-            backgroundColor: ICON_CIRCLE_BG[colorScheme],
-          }}
+          style={[
+            styles.iconCircle,
+            {
+              backgroundColor: ICON_CIRCLE_BG[colorScheme],
+            },
+          ]}
         >
-          <Ionicons name="medkit-outline" size={48} color={colors.rose} />
+          <Ionicons name="compass-outline" size={48} color={colors.rose} />
         </View>
         <ThemedText type="caption" style={styles.brand}>
           {SEO.siteName}
@@ -45,24 +44,52 @@ export default function NotFoundScreen() {
         <ThemedText type="default" style={styles.message}>
           {i18n.t('notFound.message')}
         </ThemedText>
-        <Link href="/" asChild>
-          <Pressable
-            accessibilityRole="link"
-            style={{
-              paddingHorizontal: 24,
-              paddingVertical: 14,
-              borderRadius: 16,
-              minWidth: 200,
-              alignItems: 'center',
-              backgroundColor: colors.tint,
-            }}
-            testID="not-found-home-link"
+        {requestedPath ? (
+          <View
+            style={[styles.pathChip, { backgroundColor: colors.lavender + '55' }]}
+            testID="not-found-path"
           >
-            <ThemedText type="defaultSemiBold" style={{ color: colors.cardBackground }}>
-              {i18n.t('notFound.goHome')}
+            <ThemedText type="caption" style={styles.pathLabel}>
+              {i18n.t('notFound.requestedPathLabel')}
             </ThemedText>
-          </Pressable>
-        </Link>
+            <ThemedText
+              style={styles.pathValue}
+              testID="not-found-path-value"
+              numberOfLines={1}
+              ellipsizeMode="middle"
+            >
+              {requestedPath}
+            </ThemedText>
+          </View>
+        ) : null}
+        <View style={styles.actions}>
+          <Link href="/" asChild>
+            <Pressable
+              accessibilityRole="link"
+              // Link + asChild merges styles with an object spread (Radix Slot), so this child
+              // must receive a flat style object. A style array becomes `{0: ..., 1: ...}` and
+              // crashes RN-web with "Failed to set an indexed property [0] on CSSStyleDeclaration".
+              style={StyleSheet.flatten([styles.primaryButton, { backgroundColor: colors.tint }])}
+              testID="not-found-home-link"
+            >
+              <ThemedText type="defaultSemiBold" style={{ color: colors.cardBackground }}>
+                {i18n.t('notFound.goHome')}
+              </ThemedText>
+            </Pressable>
+          </Link>
+          {canGoBack ? (
+            <Pressable
+              accessibilityRole="button"
+              accessibilityLabel={i18n.t('notFound.goBack')}
+              onPress={() => router.back()}
+              style={[styles.secondaryButton, { borderColor: colors.lavender }]}
+              testID="not-found-back-button"
+            >
+              <Ionicons name="arrow-back" size={18} color={colors.text} />
+              <ThemedText type="defaultSemiBold">{i18n.t('notFound.goBack')}</ThemedText>
+            </Pressable>
+          ) : null}
+        </View>
       </ThemedView>
     </>
   );
@@ -76,6 +103,14 @@ const styles = StyleSheet.create({
     paddingHorizontal: 32,
     paddingVertical: 40,
   },
+  iconCircle: {
+    width: 100,
+    height: 100,
+    borderRadius: 50,
+    justifyContent: 'center',
+    alignItems: 'center',
+    marginBottom: 20,
+  },
   brand: {
     marginBottom: 8,
     letterSpacing: 0.4,
@@ -88,6 +123,49 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     lineHeight: 24,
     maxWidth: 360,
+    marginBottom: 20,
+  },
+  pathChip: {
+    borderRadius: 12,
+    paddingHorizontal: 14,
+    paddingVertical: 10,
     marginBottom: 28,
+    maxWidth: 360,
+    alignItems: 'center',
+    gap: 2,
+  },
+  pathLabel: {
+    letterSpacing: 0.4,
+    textTransform: 'uppercase',
+    fontSize: 11,
+  },
+  pathValue: {
+    fontSize: 14,
+    letterSpacing: 0.2,
+  },
+  actions: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    justifyContent: 'center',
+    gap: 12,
+  },
+  primaryButton: {
+    paddingHorizontal: 24,
+    paddingVertical: 14,
+    borderRadius: 16,
+    minWidth: 200,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  secondaryButton: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    gap: 8,
+    paddingHorizontal: 20,
+    paddingVertical: 14,
+    borderRadius: 16,
+    borderWidth: 1.5,
+    minWidth: 160,
   },
 });
