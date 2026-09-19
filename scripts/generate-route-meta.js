@@ -68,6 +68,13 @@ function defaultMeta(overrides = {}) {
   };
 }
 
+/** Route path implied by an exported file, e.g. `procedure/foo.html` -> `/procedure/foo`. */
+function selfCanonicalPath(posix) {
+  const withoutPrefix = posix.startsWith('(tabs)/') ? posix.slice('(tabs)/'.length) : posix;
+  const withoutExtension = withoutPrefix.replace(/\.html$/, '');
+  return withoutExtension === 'index' || withoutExtension === '' ? '/' : `/${withoutExtension}`;
+}
+
 /**
  * Resolve the meta for an exported file. Strips the `(tabs)/` group prefix so those duplicate
  * artifacts inherit the metadata of the real route.
@@ -80,7 +87,7 @@ function metaForFile(relativePath) {
   }
 
   if (NOINDEX_FILES.has(posix)) {
-    return defaultMeta({ noindex: true });
+    return defaultMeta({ path: selfCanonicalPath(posix), noindex: true });
   }
 
   // /medication/<id>.html — the app's main content pages.
@@ -108,14 +115,16 @@ function metaForFile(relativePath) {
 
   // /procedure/<id>.html — template titles live in TS (procedures/builtin.ts), which the build
   // scripts cannot read, so these stay on the site defaults. The runtime <PageMeta> sets the
-  // per-template title once the app hydrates.
+  // per-template title once the app hydrates. They still canonicalise to their own URL so that
+  // a crawler never reads them as duplicates of the homepage.
   const lookupKey = posix.startsWith('(tabs)/') ? posix.slice('(tabs)/'.length) : posix;
   const page = STATIC_BY_FILE.get(lookupKey);
   if (page) {
     return page;
   }
 
-  return defaultMeta();
+  // Any other shell canonicalises to its own path rather than to the site root.
+  return defaultMeta({ path: selfCanonicalPath(posix) });
 }
 
 function renderTags(meta) {
