@@ -4,14 +4,25 @@ import React, { useCallback } from 'react';
 import { Alert, Platform, Pressable, ScrollView, StyleSheet, View } from 'react-native';
 
 import { ChecklistSection } from '@/components/ChecklistSection';
+import { PageMeta } from '@/components/PageMeta';
 import { ThemedText } from '@/components/ThemedText';
 import { ThemedView } from '@/components/ThemedView';
 import { Colors } from '@/constants/Colors';
+import { procedurePageMeta } from '@/constants/Seo';
 import { pastelCardShadow } from '@/constants/Shadows';
 import { useColorScheme } from '@/hooks/useColorScheme';
 import { useProcedures } from '@/hooks/useProcedures';
+import { builtinProcedures } from '@/procedures/builtin';
 import { isCatalogOrigin } from '@/procedures/procedures';
 import i18n from '@/utils/i18n';
+
+/**
+ * Emit a real HTML file per catalog template so /procedure/<id> returns 200 (indexable) on
+ * Pages instead of 404.html. User procedures stay local and are intentionally not listed.
+ */
+export function generateStaticParams(): { id: string }[] {
+  return builtinProcedures.map(({ id }) => ({ id }));
+}
 
 export default function ProcedureDetailScreen() {
   const { id } = useLocalSearchParams<{ id: string }>();
@@ -114,6 +125,7 @@ export default function ProcedureDetailScreen() {
   return (
     <>
       <Stack.Screen options={{ title: procedure.title }} />
+      <PageMeta {...procedurePageMeta(procedure)} />
       <ScrollView
         style={[styles.container, { backgroundColor: colors.background }]}
         contentContainerStyle={styles.content}

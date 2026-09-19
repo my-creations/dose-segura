@@ -24,7 +24,7 @@ export function RootLayoutNav() {
           options={{
             headerShown: true,
             title: i18n.t('navigation.medication'),
-            headerTintColor: Colors[colorScheme ?? 'light'].tint,
+            headerTintColor: Colors[colorScheme ?? 'light'].tintText,
             headerBackTitle: i18n.t('common.back'),
           }}
         />
@@ -33,7 +33,7 @@ export function RootLayoutNav() {
           options={{
             headerShown: true,
             title: i18n.t('navigation.procedure'),
-            headerTintColor: Colors[colorScheme ?? 'light'].tint,
+            headerTintColor: Colors[colorScheme ?? 'light'].tintText,
             headerBackTitle: i18n.t('common.back'),
           }}
         />
@@ -42,7 +42,7 @@ export function RootLayoutNav() {
           options={{
             headerShown: true,
             title: i18n.t('navigation.procedureForm'),
-            headerTintColor: Colors[colorScheme ?? 'light'].tint,
+            headerTintColor: Colors[colorScheme ?? 'light'].tintText,
             headerBackTitle: i18n.t('common.back'),
           }}
         />
@@ -51,7 +51,7 @@ export function RootLayoutNav() {
           options={{
             headerShown: true,
             title: i18n.t('navigation.procedureCatalog'),
-            headerTintColor: Colors[colorScheme ?? 'light'].tint,
+            headerTintColor: Colors[colorScheme ?? 'light'].tintText,
             headerBackTitle: i18n.t('common.back'),
           }}
         />
@@ -60,7 +60,7 @@ export function RootLayoutNav() {
           options={{
             headerShown: true,
             title: i18n.t('navigation.privacy'),
-            headerTintColor: Colors[colorScheme ?? 'light'].tint,
+            headerTintColor: Colors[colorScheme ?? 'light'].tintText,
             headerBackTitle: i18n.t('common.back'),
           }}
         />
@@ -69,11 +69,10 @@ export function RootLayoutNav() {
           options={{
             headerShown: true,
             title: i18n.t('navigation.terms'),
-            headerTintColor: Colors[colorScheme ?? 'light'].tint,
+            headerTintColor: Colors[colorScheme ?? 'light'].tintText,
             headerBackTitle: i18n.t('common.back'),
           }}
         />
-        <Stack.Screen name="modal" options={{ presentation: 'modal' }} />
       </Stack>
     </ThemeProvider>
   );

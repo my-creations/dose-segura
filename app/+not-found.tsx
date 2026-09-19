@@ -2,10 +2,11 @@ import { Ionicons } from '@expo/vector-icons';
 import { Link, Stack, router, usePathname } from 'expo-router';
 import { Pressable, StyleSheet, View } from 'react-native';
 
+import { PageMeta } from '@/components/PageMeta';
 import { ThemedText } from '@/components/ThemedText';
 import { ThemedView } from '@/components/ThemedView';
 import { Colors } from '@/constants/Colors';
-import { SEO } from '@/constants/Seo';
+import { PAGES, SEO } from '@/constants/Seo';
 import { useColorScheme } from '@/hooks/useColorScheme';
 import i18n from '@/utils/i18n';
 
@@ -24,6 +25,7 @@ export default function NotFoundScreen() {
   return (
     <>
       <Stack.Screen options={{ title: i18n.t('notFound.title') }} />
+      <PageMeta {...PAGES.notFound} />
       <ThemedView style={styles.container} testID="not-found-screen">
         <View
           style={[

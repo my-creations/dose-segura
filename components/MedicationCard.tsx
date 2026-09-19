@@ -24,6 +24,7 @@ function MedicationCardComponent({
   const colorScheme = useColorScheme();
   const colors = Colors[colorScheme ?? 'light'];
   const isWeb = Platform.OS === 'web';
+  const [pressed, setPressed] = React.useState(false);
 
   const FavoriteButton = (
     <Pressable
@@ -49,7 +50,12 @@ function MedicationCardComponent({
   return (
     <Link href={`/medication/${medication.id}`} asChild>
       <Pressable
-        style={({ pressed }) => [styles.container, pressed && styles.pressed]}
+        // Link + asChild merges styles with an object spread (Radix Slot), so this child needs a
+        // flat style object: a style function becomes `{}` and is silently dropped on web.
+        // Pressed feedback therefore comes from state instead of a style callback.
+        onPressIn={() => setPressed(true)}
+        onPressOut={() => setPressed(false)}
+        style={StyleSheet.flatten([styles.container, pressed && styles.pressed])}
         accessibilityLabel={i18n.t('accessibility.openMedication', { name: medication.name })}
         testID={`medication-card-${medication.id}`}
       >

@@ -12,9 +12,11 @@ import {
 } from 'react-native';
 
 import { CalculationField } from '@/components/CalculationField';
+import { PageMeta } from '@/components/PageMeta';
 import { ThemedText } from '@/components/ThemedText';
 import { Colors } from '@/constants/Colors';
 import { pastelCardShadow } from '@/constants/Shadows';
+import { PAGES } from '@/constants/Seo';
 import { useColorScheme } from '@/hooks/useColorScheme';
 import {
   CALCULATION_MODES,
@@ -73,6 +75,7 @@ export default function CalculationsScreen() {
       style={[styles.container, { backgroundColor: colors.background }]}
       testID="calculations-screen"
     >
+      <PageMeta {...PAGES.calculations} />
       <KeyboardAvoidingView
         style={styles.flex}
         behavior={Platform.OS === 'ios' ? 'padding' : undefined}

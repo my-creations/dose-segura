@@ -3,8 +3,10 @@ import React from 'react';
 import { FlatList, StyleSheet, View } from 'react-native';
 
 import { MedicationCard } from '@/components/MedicationCard';
+import { PageMeta } from '@/components/PageMeta';
 import { ThemedText } from '@/components/ThemedText';
 import { Colors } from '@/constants/Colors';
+import { PAGES } from '@/constants/Seo';
 import { useMedications } from '@/context/MedicationsContext';
 import { useColorScheme } from '@/hooks/useColorScheme';
 import { useFavorites } from '@/hooks/useFavorites';
@@ -39,6 +41,7 @@ export default function FavoritesScreen() {
       style={[styles.container, { backgroundColor: colors.background }]}
       testID="favorites-screen"
     >
+      <PageMeta {...PAGES.favorites} />
       <FlatList
         data={favoriteMedications}
         keyExtractor={(item) => item.id}

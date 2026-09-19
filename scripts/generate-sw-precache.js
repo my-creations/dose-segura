@@ -13,7 +13,16 @@ const { collectFiles } = require('./utils/fs-utils');
 const DEFAULT_BASE_PATH = '/dose-segura';
 const DEFAULT_DIST_DIR = path.join(__dirname, '..', 'dist');
 
-const SKIP_FILE_NAMES = new Set(['.nojekyll', 'sw.js', 'sw-precache-manifest.json']);
+const SKIP_FILE_NAMES = new Set([
+  '.nojekyll',
+  'sw.js',
+  'sw-precache-manifest.json',
+  // Only fetched by social/link scrapers, never by the app itself.
+  'social-preview.png',
+]);
+
+/** Static routes under procedure/ that are real pages rather than generated dynamic shells. */
+const STATIC_PROCEDURE_SHELLS = new Set(['procedure/catalog.html', 'procedure/form.html']);
 
 /** Normalize experiments.baseUrl-style paths to `/dose-segura` (no trailing slash). */
 function normalizeBasePath(basePath) {
@@ -56,6 +65,21 @@ function getSpaFallbackUrl(basePath) {
 }
 
 /**
+ * Whether a file is a generated shell for a dynamic route, e.g. `medication/adenosina.html`.
+ * Static routes that happen to live under the same directory (`procedure/catalog.html`) are real
+ * pages and keep being precached.
+ */
+function isGeneratedDynamicShell(normalized) {
+  if (/^medication\/.+\.html$/.test(normalized)) {
+    return true;
+  }
+  if (/^procedure\/.+\.html$/.test(normalized)) {
+    return !STATIC_PROCEDURE_SHELLS.has(normalized);
+  }
+  return false;
+}
+
+/**
  * Whether a file relative to dist should be precached for offline use.
  * Skips source maps, the SW itself, and VCS/GitHub Pages markers.
  */
@@ -74,6 +98,13 @@ function shouldPrecacheFile(relativePath) {
   }
 
   if (normalized.endsWith('.map')) {
+    return false;
+  }
+
+  // Generated dynamic-route shells (one per medication / catalog template) are byte-identical
+  // client-only shells: offline navigation already falls back to the precached SPA shell, so
+  // precaching ~130 extra 24 kB files would only inflate the first-visit download.
+  if (isGeneratedDynamicShell(normalized)) {
     return false;
   }
 

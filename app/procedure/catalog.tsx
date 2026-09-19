@@ -3,8 +3,10 @@ import { Stack, router } from 'expo-router';
 import React, { useCallback } from 'react';
 import { FlatList, Pressable, StyleSheet, View } from 'react-native';
 
+import { PageMeta } from '@/components/PageMeta';
 import { ThemedText } from '@/components/ThemedText';
 import { Colors } from '@/constants/Colors';
+import { PAGES } from '@/constants/Seo';
 import { pastelCardShadowStrong } from '@/constants/Shadows';
 import { useColorScheme } from '@/hooks/useColorScheme';
 import { useProcedures } from '@/hooks/useProcedures';
@@ -46,6 +48,7 @@ export default function ProcedureCatalogScreen() {
   return (
     <>
       <Stack.Screen options={{ title: i18n.t('navigation.procedureCatalog') }} />
+      <PageMeta {...PAGES.procedureCatalog} />
       <View
         style={[styles.container, { backgroundColor: colors.background }]}
         testID="procedure-catalog-screen"

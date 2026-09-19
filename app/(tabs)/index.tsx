@@ -2,9 +2,11 @@ import React, { useCallback, useDeferredValue, useMemo, useState } from 'react';
 import { FlatList, Platform, StyleSheet, View } from 'react-native';
 
 import { MedicationCard } from '@/components/MedicationCard';
+import { PageMeta } from '@/components/PageMeta';
 import { SearchBar } from '@/components/SearchBar';
 import { ThemedText } from '@/components/ThemedText';
 import { Colors } from '@/constants/Colors';
+import { PAGES } from '@/constants/Seo';
 import { useMedications } from '@/context/MedicationsContext';
 import { useColorScheme } from '@/hooks/useColorScheme';
 import { useFavorites } from '@/hooks/useFavorites';
@@ -49,6 +51,7 @@ export default function HomeScreen() {
 
   return (
     <View style={[styles.container, { backgroundColor: colors.background }]} testID="home-screen">
+      <PageMeta {...PAGES.home} />
       <SearchBar
         value={searchQuery}
         onChangeText={setSearchQuery}
