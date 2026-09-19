@@ -11,9 +11,11 @@ import {
   View,
 } from 'react-native';
 
+import { PageMeta } from '@/components/PageMeta';
 import { ThemedText } from '@/components/ThemedText';
 import { Colors } from '@/constants/Colors';
 import { pastelCardShadow } from '@/constants/Shadows';
+import { PAGES } from '@/constants/Seo';
 import { useColorScheme } from '@/hooks/useColorScheme';
 import { useProcedures } from '@/hooks/useProcedures';
 import { sanitizeDraft, validateDraft } from '@/procedures/procedures';
@@ -225,6 +227,7 @@ export default function ProcedureFormScreen() {
           keyboardShouldPersistTaps="handled"
           testID="procedure-form"
         >
+          <PageMeta {...PAGES.procedureForm} />
           <View style={[styles.card, { backgroundColor: colors.cardBackground }]}>
             <ThemedText type="sectionTitle" style={styles.cardTitle}>
               {i18n.t('procedures.titleLabel')}

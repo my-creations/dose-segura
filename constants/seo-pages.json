@@ -1,0 +1,76 @@
+{
+  "site": {
+    "siteName": "Dose Segura",
+    "siteUrl": "https://my-creations.github.io/dose-segura",
+    "defaultTitle": "Dose Segura | Guia rápido de medicamentos para enfermagem",
+    "defaultDescription": "Consulte informação essencial sobre medicamentos injetáveis, compatibilidade, preparação, administração e cuidados de enfermagem na app Dose Segura.",
+    "imagePath": "/social-preview.png",
+    "imageAlt": "Dose Segura — guia rápido de medicamentos para enfermagem",
+    "imageWidth": 1200,
+    "imageHeight": 630,
+    "locale": "pt_PT",
+    "twitterCard": "summary_large_image"
+  },
+  "pages": {
+    "home": {
+      "path": "/",
+      "title": "Dose Segura | Guia rápido de medicamentos para enfermagem",
+      "description": "Consulte informação essencial sobre medicamentos injetáveis, compatibilidade, preparação, administração e cuidados de enfermagem na app Dose Segura."
+    },
+    "calculations": {
+      "path": "/calculations",
+      "title": "Cálculos de dose | Dose Segura",
+      "description": "Ajuda de cálculo para enfermagem: dose por peso, volume a aspirar e mg/kg, com verificação dos valores introduzidos e aviso de confirmação."
+    },
+    "favorites": {
+      "path": "/favorites",
+      "title": "Medicamentos favoritos | Dose Segura",
+      "description": "Aceda rapidamente aos medicamentos que marcou como favoritos.",
+      "noindex": true
+    },
+    "procedures": {
+      "path": "/procedures",
+      "title": "Procedimentos de enfermagem | Dose Segura",
+      "description": "Listas de verificação de procedimentos de enfermagem: CVP, SNG, injetáveis, algaliação vesical e assistência a cateteres."
+    },
+    "settings": {
+      "path": "/settings",
+      "title": "Definições | Dose Segura",
+      "description": "Aparência, informação da base de dados, legal e contacto.",
+      "noindex": true
+    },
+    "procedureCatalog": {
+      "path": "/procedure/catalog",
+      "title": "Catálogo de procedimentos | Dose Segura",
+      "description": "Modelos de referência educacional de procedimentos de enfermagem para adicionar à sua lista e adaptar à instituição."
+    },
+    "procedureForm": {
+      "path": "/procedure/form",
+      "title": "Editar procedimento | Dose Segura",
+      "description": "Criar ou editar um procedimento na sua lista.",
+      "noindex": true
+    },
+    "privacy": {
+      "path": "/privacy",
+      "title": "Política de privacidade | Dose Segura",
+      "description": "Como a Dose Segura trata informação: uso offline, dados guardados apenas no dispositivo e ausência de analytics ou publicidade."
+    },
+    "terms": {
+      "path": "/terms",
+      "title": "Termos e aviso médico | Dose Segura",
+      "description": "Condições de utilização da Dose Segura: ferramenta de referência, responsabilidade do utilizador e limitação de responsabilidade."
+    }
+  },
+  "templates": {
+    "medication": {
+      "path": "/medication/{{id}}",
+      "title": "{{name}} | Dose Segura",
+      "description": "Informação de enfermagem sobre {{name}}{{classes}}: apresentação, preparação, administração, compatibilidade e cuidados.{{risk}}"
+    },
+    "procedure": {
+      "path": "/procedure/{{id}}",
+      "title": "{{title}} | Dose Segura",
+      "description": "Procedimento de enfermagem «{{title}}»: {{materials}} materiais, {{steps}} passos e pontos de atenção. Lista de verificação educacional."
+    }
+  }
+}

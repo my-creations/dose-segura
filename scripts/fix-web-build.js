@@ -3,6 +3,8 @@ const fs = require('node:fs');
 const path = require('node:path');
 const { collectFiles } = require('./utils/fs-utils');
 const { generateServiceWorker } = require('./generate-sw-precache');
+const { generateRouteMeta } = require('./generate-route-meta');
+const { generateSitemap } = require('./generate-sitemap');
 
 const DIST_DIR = path.join(__dirname, '..', 'dist');
 const ASSETS_DIR = path.join(DIST_DIR, 'assets');
@@ -60,13 +62,7 @@ function fixWebBuild() {
 
       // Replace "assets/node_modules" with "assets/libs"
       // This regex captures the string literal usage in JS and URL paths in HTML/CSS
-      let newContent = content.replace(/assets\/node_modules/g, 'assets/libs');
-
-      // Expo may emit an empty react-helmet title before the real title.
-      // Remove the empty one so crawlers only see the meaningful document title.
-      if (filePath.endsWith('.html')) {
-        newContent = newContent.replace(/<title data-rh="true"><\/title>/g, '');
-      }
+      const newContent = content.replace(/assets\/node_modules/g, 'assets/libs');
 
       if (content !== newContent) {
         fs.writeFileSync(filePath, newContent, 'utf8');
@@ -88,7 +84,21 @@ function fixWebBuild() {
 
   console.log(`✅ Fixed references in ${updateCount} files.`);
 
-  // 4. Final SW precache after hashed + libs paths are stable
+  // 4. The literal `[id].html` shells are export artifacts, never requested by a real URL.
+  for (const artifact of ['medication/[id].html', 'procedure/[id].html']) {
+    const artifactPath = path.join(DIST_DIR, artifact);
+    if (fs.existsSync(artifactPath)) {
+      fs.rmSync(artifactPath);
+    }
+  }
+
+  // 5. Per-route SEO tags and the sitemap. Must run after 404.html exists (it is a copy of
+  // index.html, so it would otherwise inherit the home page's title and canonical) and after
+  // public/ has been copied (the sitemap is generated, not hand-maintained).
+  generateRouteMeta({ distDir: DIST_DIR });
+  generateSitemap({ distDir: DIST_DIR });
+
+  // 6. Final SW precache after hashed + libs paths and HTML content are stable
   generateServiceWorker({ distDir: DIST_DIR });
 
   console.log('✨ Web build fix complete!');

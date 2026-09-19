@@ -4,9 +4,11 @@ import { router } from 'expo-router';
 import React from 'react';
 import { Linking, Platform, Pressable, ScrollView, StyleSheet, View } from 'react-native';
 
+import { PageMeta } from '@/components/PageMeta';
 import { ThemedText } from '@/components/ThemedText';
 import { PWAInstallModal } from '@/components/PWAInstallModal';
 import { Colors } from '@/constants/Colors';
+import { PAGES } from '@/constants/Seo';
 import { pastelCardShadow } from '@/constants/Shadows';
 import { Strings } from '@/constants/Strings';
 import { useMedications } from '@/context/MedicationsContext';
@@ -65,6 +67,7 @@ export default function SettingsScreen() {
       style={[styles.container, { backgroundColor: colors.background }]}
       testID="settings-screen"
     >
+      <PageMeta {...PAGES.settings} />
       <View style={styles.section}>
         <ThemedText type="sectionTitle" style={styles.sectionTitle}>
           {i18n.t('settings.appearance')}

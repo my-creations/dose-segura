@@ -1,7 +1,7 @@
 import { ScrollViewStyleReset } from 'expo-router/html';
 
 import { Colors } from '@/constants/Colors';
-import { SEO, getCanonicalUrl } from '@/constants/Seo';
+import { SEO } from '@/constants/Seo';
 import { THEME_STORAGE_KEY } from '@/constants/Theme';
 
 // This file is web-only and used to configure the root HTML for every
@@ -64,13 +64,15 @@ export default function Root({ children }: { children: React.ReactNode }) {
   return (
     <html lang="pt-PT">
       <head>
-        <title>{SEO.defaultTitle}</title>
         <meta charSet="utf-8" />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content={SEO.defaultDescription} />
-        <meta name="robots" content="index,follow" />
-        <link rel="canonical" href={getCanonicalUrl('/')} />
+
+        {/*
+          SEO tags (title, description, canonical, Open Graph, Twitter) are deliberately NOT
+          declared here: every route owns them through <PageMeta>, which keeps exactly one
+          title/canonical per exported page instead of a global tag plus a route override.
+        */}
 
         {/* PWA Configuration */}
         <meta name="mobile-web-app-capable" content="yes" />
@@ -78,17 +80,6 @@ export default function Root({ children }: { children: React.ReactNode }) {
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
         <meta name="apple-mobile-web-app-title" content="Dose Segura" />
         <meta name="theme-color" content="#E8A0BF" />
-        <meta property="og:locale" content="pt_PT" />
-        <meta property="og:type" content="website" />
-        <meta property="og:site_name" content={SEO.siteName} />
-        <meta property="og:title" content={SEO.defaultTitle} />
-        <meta property="og:description" content={SEO.defaultDescription} />
-        <meta property="og:url" content={getCanonicalUrl('/')} />
-        <meta property="og:image" content={SEO.defaultImage} />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content={SEO.defaultTitle} />
-        <meta name="twitter:description" content={SEO.defaultDescription} />
-        <meta name="twitter:image" content={SEO.defaultImage} />
         {/* Icons */}
         <link
           rel="apple-touch-icon"
@@ -97,7 +88,6 @@ export default function Root({ children }: { children: React.ReactNode }) {
         />
         <link rel="icon" type="image/png" sizes="32x32" href={`${assetBasePath}/favicon-32.png`} />
         <link rel="manifest" href={`${assetBasePath}/manifest.json`} />
-        <link rel="alternate" hrefLang="pt-PT" href={getCanonicalUrl('/')} />
         <script dangerouslySetInnerHTML={{ __html: initialThemeScript }} />
 
         {/*

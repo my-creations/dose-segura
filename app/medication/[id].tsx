@@ -10,17 +10,29 @@ import {
   useWindowDimensions,
 } from 'react-native';
 
+import { PageMeta } from '@/components/PageMeta';
 import { SectionContent, SectionTile } from '@/components/SectionTile';
 import { ThemedText } from '@/components/ThemedText';
 import { ThemedView } from '@/components/ThemedView';
 import { sectionI18nKey, sectionsOf } from '@/catalog/medicationSections';
 import { Colors } from '@/constants/Colors';
+import { medicationPageMeta } from '@/constants/Seo';
 import { pastelCardShadowStrong } from '@/constants/Shadows';
 import { useMedications } from '@/context/MedicationsContext';
+import medsIndexData from '@/data/meds-index.json';
 import { useColorScheme } from '@/hooks/useColorScheme';
 import { useFavorites } from '@/hooks/useFavorites';
 import { Medication } from '@/types/medication';
 import i18n from '@/utils/i18n';
+
+/**
+ * Emit a real HTML file per medication at export time. Without this the dynamic route has no
+ * file on GitHub Pages, so every /medication/<id> URL answers with 404.html (and a 404 status),
+ * which keeps the app's main content out of search results.
+ */
+export function generateStaticParams(): { id: string }[] {
+  return Object.keys(medsIndexData.medications).map((id) => ({ id }));
+}
 
 export default function MedicationDetailScreen() {
   const { id } = useLocalSearchParams<{ id: string }>();
@@ -119,6 +131,7 @@ export default function MedicationDetailScreen() {
 
   return (
     <>
+      <PageMeta {...medicationPageMeta(displayMedication)} />
       <Stack.Screen
         options={{
           title: displayMedication.name,

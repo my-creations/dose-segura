@@ -51,6 +51,21 @@ describe('generate-sw-precache helpers', () => {
     expect(shouldPrecacheFile('assets/entry-abc123.js.map')).toBe(false);
     expect(shouldPrecacheFile('sw.js')).toBe(false);
     expect(shouldPrecacheFile('.nojekyll')).toBe(false);
+    // Social preview art is only ever fetched by link scrapers.
+    expect(shouldPrecacheFile('social-preview.png')).toBe(false);
+  });
+
+  it('skips generated dynamic-route shells but keeps static routes beside them', () => {
+    // One shell per medication/template, all byte-identical client-only shells. Offline
+    // navigation falls back to the precached SPA shell, so listing ~130 of them would only
+    // inflate the first-visit download (96 -> 228 precache URLs before this exclusion).
+    expect(shouldPrecacheFile('medication/adenosina.html')).toBe(false);
+    expect(shouldPrecacheFile('medication/acetilcisteina.html')).toBe(false);
+    expect(shouldPrecacheFile('procedure/builtin-cateterismo-venoso-periferico.html')).toBe(false);
+
+    // Real static routes that happen to share the directory are still precached.
+    expect(shouldPrecacheFile('procedure/catalog.html')).toBe(true);
+    expect(shouldPrecacheFile('procedure/form.html')).toBe(true);
   });
 
   it('builds a sorted precache manifest from a fake dist tree', () => {

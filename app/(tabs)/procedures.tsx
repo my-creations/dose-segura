@@ -5,9 +5,11 @@ import { FlatList, Modal, Pressable, StyleSheet, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { ProcedureCard } from '@/components/ProcedureCard';
+import { PageMeta } from '@/components/PageMeta';
 import { SearchBar } from '@/components/SearchBar';
 import { ThemedText } from '@/components/ThemedText';
 import { Colors } from '@/constants/Colors';
+import { PAGES } from '@/constants/Seo';
 import { pastelCardShadowStrong } from '@/constants/Shadows';
 import { useColorScheme } from '@/hooks/useColorScheme';
 import { useProcedures } from '@/hooks/useProcedures';
@@ -40,6 +42,7 @@ export default function ProceduresScreen() {
       style={[styles.container, { backgroundColor: colors.background }]}
       testID="procedures-screen"
     >
+      <PageMeta {...PAGES.procedures} />
       <SearchBar
         value={searchQuery}
         onChangeText={setSearchQuery}
