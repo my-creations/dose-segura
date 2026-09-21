@@ -1,6 +1,7 @@
-import { useEffect, useState } from 'react';
+import { useCallback, useEffect, useState } from 'react';
 import { Alert, Platform } from 'react-native';
 
+import { keyValueStore } from '@/storage/keyValueStore';
 import i18n from '@/utils/i18n';
 
 interface BeforeInstallPromptEvent extends Event {
@@ -8,11 +9,31 @@ interface BeforeInstallPromptEvent extends Event {
   userChoice: Promise<{ outcome: 'accepted' | 'dismissed'; platform?: string }>;
 }
 
+declare global {
+  interface Window {
+    /** Stashed by the inline script in `app/+html.tsx` before React mounts. */
+    __doseSeguraInstallPrompt?: BeforeInstallPromptEvent | null;
+  }
+}
+
+/** Set once the user dismisses the first-run install banner; we never ask again. */
+export const PWA_INSTALL_BANNER_KEY = '@dose_segura_pwa_install_banner_v1';
+const DISMISSED_VALUE = 'dismissed';
+
+function isIOSDevice(): boolean {
+  if (typeof navigator === 'undefined') {
+    return false;
+  }
+  return /iPad|iPhone|iPod/.test(navigator.userAgent) && !(window as any).MSStream;
+}
+
 export function usePWAInstall() {
   const [deferredPrompt, setDeferredPrompt] = useState<BeforeInstallPromptEvent | null>(null);
   const [isInstallable, setIsInstallable] = useState(false);
   const [isStandalone, setIsStandalone] = useState(false);
   const [showInstructions, setShowInstructions] = useState(false);
+  const [isBannerDismissed, setIsBannerDismissed] = useState(false);
+  const [hasReadBannerPreference, setHasReadBannerPreference] = useState(false);
 
   useEffect(() => {
     // Check if already installed or running as standalone
@@ -23,6 +44,14 @@ export function usePWAInstall() {
         document.referrer.includes('android-app://');
 
       setIsStandalone(isStandaloneMode);
+
+      // Chrome may have fired the event before this effect ran; the inline script in
+      // +html.tsx stashes it so the prompt is not lost.
+      const earlyPrompt = window.__doseSeguraInstallPrompt;
+      if (earlyPrompt) {
+        setDeferredPrompt(earlyPrompt);
+        setIsInstallable(true);
+      }
 
       const handleBeforeInstallPrompt = (event: Event) => {
         // Prevent the mini-infobar from appearing on mobile
@@ -50,13 +79,43 @@ export function usePWAInstall() {
     }
   }, []);
 
+  // Read the dismissal flag before deciding whether to show the banner, so it never flashes
+  // for someone who already dismissed it. Storage can throw (private mode), hence the guard.
+  useEffect(() => {
+    let active = true;
+
+    keyValueStore
+      .getItem(PWA_INSTALL_BANNER_KEY)
+      .then((value) => {
+        if (active) {
+          setIsBannerDismissed(value === DISMISSED_VALUE);
+        }
+      })
+      .catch(() => undefined)
+      .finally(() => {
+        if (active) {
+          setHasReadBannerPreference(true);
+        }
+      });
+
+    return () => {
+      active = false;
+    };
+  }, []);
+
+  const dismissBanner = useCallback(async () => {
+    setIsBannerDismissed(true);
+    try {
+      await keyValueStore.setItem(PWA_INSTALL_BANNER_KEY, DISMISSED_VALUE);
+    } catch {
+      // Persisting is best-effort: the banner still hides for this session.
+    }
+  }, []);
+
   const installApp = async () => {
     if (Platform.OS !== 'web') return;
 
-    // iOS Detection
-    const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !(window as any).MSStream;
-
-    if (isIOS) {
+    if (isIOSDevice()) {
       if (!isStandalone) {
         setShowInstructions(true);
       }
@@ -80,5 +139,25 @@ export function usePWAInstall() {
     }
   };
 
-  return { isInstallable, isStandalone, showInstructions, setShowInstructions, installApp };
+  // Chromium signals installability with `beforeinstallprompt`; iOS Safari never fires it and
+  // needs the "Add to Home Screen" walkthrough instead. Desktop browsers that support neither
+  // (Firefox, desktop Safari) get no banner rather than a dead end.
+  const canInstall = isInstallable || (Platform.OS === 'web' && isIOSDevice() && !isStandalone);
+
+  const isBannerVisible =
+    Platform.OS === 'web' &&
+    hasReadBannerPreference &&
+    !isStandalone &&
+    !isBannerDismissed &&
+    canInstall;
+
+  return {
+    isInstallable,
+    isStandalone,
+    showInstructions,
+    setShowInstructions,
+    installApp,
+    isBannerVisible,
+    dismissBanner,
+  };
 }

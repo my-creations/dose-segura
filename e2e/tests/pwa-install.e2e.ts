@@ -1,5 +1,56 @@
-import { expect, test } from '@playwright/test';
+import { expect, test, type Page } from '@playwright/test';
 import { Strings } from '../../constants/Strings';
+
+test.describe('PWA install banner', () => {
+  /**
+   * Raise `beforeinstallprompt` ourselves. iOS Safari never fires it, and Chromium in CI may
+   * not either, so this keeps the assertion deterministic across all three browser projects.
+   * The shape matters: `installApp` calls `prompt()` and awaits `userChoice`.
+   */
+  async function makeInstallable(page: Page) {
+    await page.evaluate(() => {
+      const event = new Event('beforeinstallprompt') as Event & {
+        prompt?: () => Promise<void>;
+        userChoice?: Promise<{ outcome: string }>;
+      };
+      event.prompt = () => Promise.resolve();
+      event.userChoice = Promise.resolve({ outcome: 'dismissed' });
+      window.dispatchEvent(event);
+    });
+  }
+
+  test('is offered on first visit, then stays dismissed', async ({ page }) => {
+    await page.goto('/');
+    await makeInstallable(page);
+
+    const banner = page.getByTestId('pwa-install-banner');
+    await expect(banner).toBeVisible();
+    await expect(banner).toContainText(Strings.pt.settings.install.banner.title);
+
+    await test.step('Dismiss and verify it does not come back after a reload', async () => {
+      await page.getByTestId('pwa-install-banner-dismiss').click();
+      await expect(banner).not.toBeVisible();
+
+      await page.reload();
+      await makeInstallable(page);
+
+      await expect(page.getByTestId('pwa-install-banner')).not.toBeVisible();
+    });
+
+    await test.step('The CTA starts the browser install flow', async () => {
+      await page.evaluate(() => window.localStorage.clear());
+      await page.reload();
+      await makeInstallable(page);
+
+      const restored = page.getByTestId('pwa-install-banner');
+      await expect(restored).toBeVisible();
+
+      await page.getByTestId('pwa-install-banner-install').click();
+      // Dismissed outcome: the banner stays for a retry rather than vanishing.
+      await expect(restored).toBeVisible();
+    });
+  });
+});
 
 test.describe('PWA Installation', () => {
   test.beforeEach(async ({ page }) => {

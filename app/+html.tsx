@@ -61,6 +61,16 @@ export default function Root({ children }: { children: React.ReactNode }) {
     })();
   `;
 
+  const installPromptScript = `
+    (function() {
+      window.__doseSeguraInstallPrompt = null;
+      window.addEventListener('beforeinstallprompt', function (event) {
+        event.preventDefault();
+        window.__doseSeguraInstallPrompt = event;
+      });
+    })();
+  `;
+
   return (
     <html lang="pt-PT">
       <head>
@@ -89,6 +99,13 @@ export default function Root({ children }: { children: React.ReactNode }) {
         <link rel="icon" type="image/png" sizes="32x32" href={`${assetBasePath}/favicon-32.png`} />
         <link rel="manifest" href={`${assetBasePath}/manifest.json`} />
         <script dangerouslySetInnerHTML={{ __html: initialThemeScript }} />
+        {/*
+          Capture the install prompt as early as possible. Chrome can fire
+          `beforeinstallprompt` before React mounts `usePWAInstall`, and the event is not
+          replayed — so it is stashed here and picked up on mount. Without this, the first-run
+          install banner (and the Settings install button) can silently never appear.
+        */}
+        <script dangerouslySetInnerHTML={{ __html: installPromptScript }} />
 
         {/*
           Disable body scrolling on web. This makes ScrollView components work closer to how they do on native. 

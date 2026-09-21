@@ -137,6 +137,12 @@ export const Strings = {
         success: 'Abertura do prompt de instalação com sucesso',
         error: 'Não foi possível iniciar a instalação',
         dismiss: 'Entendi',
+        banner: {
+          title: 'Instalar a Dose Segura',
+          body: 'Acesso rápido e offline, direto do ecrã principal.',
+          cta: 'Instalar',
+          dismiss: 'Agora não',
+        },
       },
       aboutText:
         'Dose Segura é uma aplicação de referência para auxiliar profissionais de saúde na administração de medicamentos',
@@ -280,6 +286,14 @@ export const Strings = {
       terms: 'Terms & disclaimer',
       contact: 'Contact',
       contactEmail: 'pmrobalo@gmail.com',
+      install: {
+        banner: {
+          title: 'Install Dose Segura',
+          body: 'Quick offline access straight from your home screen.',
+          cta: 'Install',
+          dismiss: 'Not now',
+        },
+      },
     },
     privacy: {
       title: 'Privacy',

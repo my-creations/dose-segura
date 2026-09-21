@@ -4,8 +4,17 @@ import { Alert, Platform } from 'react-native';
 
 import { act, render, waitFor } from '@testing-library/react-native';
 
-import { usePWAInstall } from '@/hooks/usePWAInstall';
+import { PWA_INSTALL_BANNER_KEY, usePWAInstall } from '@/hooks/usePWAInstall';
+import { createMemoryKeyValueStore, type KeyValueStore } from '@/storage/types';
 import i18n from '@/utils/i18n';
+
+let mockKeyValueStore: KeyValueStore = createMemoryKeyValueStore();
+
+jest.mock('@/storage/keyValueStore', () => ({
+  get keyValueStore() {
+    return mockKeyValueStore;
+  },
+}));
 
 // Mock window and navigator
 const originalWindow = global.window;
@@ -81,6 +90,8 @@ describe('usePWAInstall', () => {
   beforeEach(() => {
     jest.clearAllMocks();
     eventListeners = {};
+    mockKeyValueStore = createMemoryKeyValueStore();
+    delete (window as any).__doseSeguraInstallPrompt;
     jest.mocked(window.matchMedia).mockReturnValue({ matches: false } as any);
     Platform.OS = originalPlatformOS;
     Object.defineProperty(window.navigator, 'userAgent', {
@@ -247,5 +258,117 @@ describe('usePWAInstall', () => {
     expect(hookValue!.showInstructions).toBe(false);
     expect(alertSpy).toHaveBeenCalledWith(i18n.t('settings.install.error'));
     alertSpy.mockRestore();
+  });
+
+  describe('first-run install banner', () => {
+    async function renderBannerHook() {
+      Platform.OS = 'web';
+      let hookValue: PWAInstallValue | null = null;
+      renderWithHarness((value) => {
+        hookValue = value;
+      });
+      // Wait for the persisted dismissal flag to be read before asserting visibility.
+      await waitFor(() => {
+        expect(hookValue).not.toBeNull();
+      });
+      return { get: () => hookValue! };
+    }
+
+    it('stays hidden when the browser cannot install the PWA', async () => {
+      const { get } = await renderBannerHook();
+      await waitFor(() => expect(get().isBannerVisible).toBe(false));
+    });
+
+    it('appears once the browser reports the app is installable', async () => {
+      const { get } = await renderBannerHook();
+
+      await act(async () => {
+        eventListeners['beforeinstallprompt']?.forEach((cb) => cb({ preventDefault: jest.fn() }));
+      });
+
+      await waitFor(() => expect(get().isBannerVisible).toBe(true));
+    });
+
+    it('appears on iOS Safari, which never fires beforeinstallprompt', async () => {
+      Object.defineProperty(window.navigator, 'userAgent', {
+        value:
+          'Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1',
+        configurable: true,
+      });
+
+      const { get } = await renderBannerHook();
+
+      await waitFor(() => expect(get().isBannerVisible).toBe(true));
+    });
+
+    it('picks up a prompt captured before the hook mounted', async () => {
+      window.__doseSeguraInstallPrompt = { preventDefault: jest.fn() } as any;
+
+      const { get } = await renderBannerHook();
+
+      await waitFor(() => expect(get().isBannerVisible).toBe(true));
+      expect(get().isInstallable).toBe(true);
+    });
+
+    it('stays hidden when already running standalone', async () => {
+      jest.mocked(window.matchMedia).mockReturnValue({ matches: true } as any);
+      const { get } = await renderBannerHook();
+
+      await act(async () => {
+        eventListeners['beforeinstallprompt']?.forEach((cb) => cb({ preventDefault: jest.fn() }));
+      });
+
+      expect(get().isBannerVisible).toBe(false);
+    });
+
+    it('persists dismissal so it never asks again', async () => {
+      await mockKeyValueStore.setItem(PWA_INSTALL_BANNER_KEY, 'dismissed');
+
+      const { get } = await renderBannerHook();
+
+      await act(async () => {
+        eventListeners['beforeinstallprompt']?.forEach((cb) => cb({ preventDefault: jest.fn() }));
+      });
+
+      expect(get().isBannerVisible).toBe(false);
+    });
+
+    it('hides the banner and writes the flag on dismiss', async () => {
+      const { get } = await renderBannerHook();
+
+      await act(async () => {
+        eventListeners['beforeinstallprompt']?.forEach((cb) => cb({ preventDefault: jest.fn() }));
+      });
+      await waitFor(() => expect(get().isBannerVisible).toBe(true));
+
+      await act(async () => {
+        await get().dismissBanner();
+      });
+
+      expect(get().isBannerVisible).toBe(false);
+      await expect(mockKeyValueStore.getItem(PWA_INSTALL_BANNER_KEY)).resolves.toBe('dismissed');
+    });
+
+    it('still hides for the session when persistence fails', async () => {
+      mockKeyValueStore = {
+        getItem: async () => null,
+        setItem: async () => {
+          throw new Error('storage disabled');
+        },
+      };
+
+      const { get } = await renderBannerHook();
+
+      await act(async () => {
+        eventListeners['beforeinstallprompt']?.forEach((cb) => cb({ preventDefault: jest.fn() }));
+      });
+      await waitFor(() => expect(get().isBannerVisible).toBe(true));
+
+      await act(async () => {
+        await get().dismissBanner();
+      });
+
+      expect(get().isBannerVisible).toBe(false);
+    });
   });
 });
