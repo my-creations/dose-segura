@@ -136,6 +136,11 @@ _Avoid_: Active scheme, effective mode
 Web-only flow offering install-to-home-screen when the browser exposes an install prompt or platform instructions.
 _Avoid_: Native install, app store install
 
+**Copy Locale**:
+Portuguese (pt-PT) only. `Strings` ships a single catalogue, the device locale is ignored, and
+there is no runtime language switching — the product serves the Portuguese market.
+_Avoid_: Fallback locale, language switcher, translated catalogue
+
 **Dose Calculation Aid**:
 A guided helper for regra de três, volume to draw, and mg/kg arithmetic. Substitutes the entered numbers into a visible formula. Mode facade (schemas, label keys, and dispatch) lives behind `doseCalculations`. Not a prescribing calculator and not a keypad calculator.
 _Avoid_: Dosing calculator, prescription tool, calculator keypad
