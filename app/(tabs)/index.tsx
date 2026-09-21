@@ -3,6 +3,7 @@ import { FlatList, Platform, StyleSheet, View } from 'react-native';
 
 import { MedicationCard } from '@/components/MedicationCard';
 import { PageMeta } from '@/components/PageMeta';
+import { PWAInstallBanner } from '@/components/PWAInstallBanner';
 import { SearchBar } from '@/components/SearchBar';
 import { ThemedText } from '@/components/ThemedText';
 import { Colors } from '@/constants/Colors';
@@ -52,6 +53,7 @@ export default function HomeScreen() {
   return (
     <View style={[styles.container, { backgroundColor: colors.background }]} testID="home-screen">
       <PageMeta {...PAGES.home} />
+      <PWAInstallBanner />
       <SearchBar
         value={searchQuery}
         onChangeText={setSearchQuery}
