@@ -1,6 +1,16 @@
 import { expect, test, type Page } from '@playwright/test';
 import { Strings } from '../../constants/Strings';
 
+/**
+ * The banner copy is translated (most other install strings are pt-only and fall back to pt),
+ * and the Playwright browsers report en-US, so accept either locale.
+ */
+const BANNER_TITLES = [
+  Strings.pt.settings.install.banner.title,
+  Strings.en.settings.install.banner.title,
+].map((value) => value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+const BANNER_TITLE_PATTERN = new RegExp(BANNER_TITLES.join('|'));
+
 test.describe('PWA install banner', () => {
   /**
    * Raise `beforeinstallprompt` ourselves. iOS Safari never fires it, and Chromium in CI may
@@ -25,7 +35,7 @@ test.describe('PWA install banner', () => {
 
     const banner = page.getByTestId('pwa-install-banner');
     await expect(banner).toBeVisible();
-    await expect(banner).toContainText(Strings.pt.settings.install.banner.title);
+    await expect(banner).toContainText(BANNER_TITLE_PATTERN);
 
     await test.step('Dismiss and verify it does not come back after a reload', async () => {
       await page.getByTestId('pwa-install-banner-dismiss').click();
